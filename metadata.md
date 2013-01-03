@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 3
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 3
@@ -28,3 +28,7 @@ A concurrent resolution providing for a conditional adjournment or recess of the
 - 2013-01-03 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S7-8; text as passed Senate: CR S7-8; text of measure as introduced: CR S16)
 - 2013-01-03 — Received in the House.
 - 2013-01-03 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S7-8; text as passed Senate: CR S7-8; text of measure as introduced: CR S16)
+- 2013-01-04 — Considered as privileged matter. (consideration: CR H39)
+- 2013-01-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-01-04 — On agreeing to the resolution Agreed to without objection. (text: CR H39)
+- 2013-01-04 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H39)
