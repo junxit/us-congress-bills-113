@@ -1,0 +1,16 @@
+---
+legis-num: H.R. 119
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 119
+
+> To amend the Internal Revenue Code to make permanent the credit for increasing research activities.
+
+## § 1. Permanent extension of research credit
+
+- **(a)** *In general* Section 41 of the Internal Revenue Code of 1986 is amended by striking subsection (h).
+- **(b)** *Conforming amendment* Paragraph (1) of section 45C(b) of such Code is amended by striking subparagraph (D).
+- **(c)** *Effective date* The amendments made by this section shall apply to amounts paid or incurred after December 31, 2011.
