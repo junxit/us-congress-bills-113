@@ -1,7 +1,7 @@
 ---
 measure: H.R. 41
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 41
@@ -89,3 +89,7 @@ To temporarily increase the borrowing authority of the Federal Emergency Managem
 - 2013-01-04 — Presented to President.
 - 2013-01-04 — Presented to President.
 - 2013-01-04 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S23-24)
+- 2013-01-06 — Became Public Law No: 113-1.
+- 2013-01-06 — Became Public Law No: 113-1.
+- 2013-01-06 — Signed by President.
+- 2013-01-06 — Signed by President.
