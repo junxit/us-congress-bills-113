@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 158
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 158
+
+> To authorize a project for hurricane and storm damage reduction, Surf City and North Topsail Beach, North Carolina.
+
+## § 1. Surf City and North Topsail Beach, North Carolina
+
+The Secretary of the Army is authorized to carry out a project for hurricane and storm damage reduction, Surf City and North Topsail Beach, North Carolina, substantially in accordance with, and subject to the conditions described in, the Surf City and North Topsail Beach, North Carolina, Coastal Storm Damage Reduction Report, dated December 30, 2010, at an estimated total cost of $353,924,000, for periodic beach nourishment and monitoring over the 50-year economic life of the project.
