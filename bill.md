@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 154
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 154
+
+> To amend title 38, United States Code, to establish a Department of Veterans Affairs Medal for Distinguished Public Service to honor veterans who make remarkable and distinguished contributions to their communities.
+
+## § 1. Department of Veterans Affairs Medal for Distinguished Public Service
+
+- **(a)** *Establishment* Subchapter II of chapter 5 of title 38, United States Code, is amended by adding at the end the following new section:
+  > ## § 533. Department of Veterans Affairs Medal for Distinguished Public Service
+  >
+  > - **(a)** *In general* The Secretary may award a decoration called the Department of Veterans Affairs Medal for Distinguished Public Service to a veteran described in subsection (b).
+  > - **(b)** *Veteran described* A veteran described in this subsection is a veteran whom the Secretary determines has, during the period after the date of the veteran’s discharge or release from the active military, naval, or air service—
+  >   - **(1)** made remarkable and distinguished contributions to the community of the veteran; and
+  >   - **(2)** exemplified the virtues of honor, duty, and commitment to service that originally led the veteran to service in the Armed Forces.
+  > - **(c)** *Posthumous award* The Secretary may award the medal under this section to a veteran described in subsection (b) who is deceased.
+  > - **(d)** *Regulations* The Secretary may prescribe regulations to carry out this section.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter of such title is amended by inserting after the item relating to section 532 the following new item:
