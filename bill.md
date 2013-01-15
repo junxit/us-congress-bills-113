@@ -1,0 +1,31 @@
+---
+legis-num: H.R. 258
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 258
+
+> To amend title 18, United States Code, with respect to fraudulent representations about having received military declarations or medals.
+
+## § 1. Short title
+
+This Act may be cited as the “Stolen Valor Act of 2013”.
+
+## § 2. Fraudulent representations about receipt of military decorations or medals
+
+- **(a)** *In general* Section 704 of title 18, United States Code, is amended—
+  - **(1)** in subsection (a), by striking “wears,”; and
+  - **(2)** so that subsection (b) reads as follows:
+    > - **(b)** *Fraudulent representations about receipt of military decorations or medals* Whoever, with intent to obtain money, property, or other tangible benefit, fraudulently holds oneself out to be a recipient of a decoration or medal described in subsection (c)(2) or (d) shall be fined under this title, imprisoned not more than one year, or both.
+
+- **(b)** *Addition of certain other medals* Section 704(d) of title 18, United States Code, is amended—
+  - **(1)** by striking “If a decoration” and inserting the following:
+    > - **(1)** *In general* If a decoration
+
+  - **(2)** by inserting “a combat badge,” after “1129 of title 10,”; and
+  - **(3)** by adding at the end the following:
+    > - **(2)** *Combat badge defined* In this subsection, the term “combat badge” means a Combat Infantryman’s Badge, Combat Action Badge, Combat Medical Badge, Combat Action Ribbon, or Combat Action Medal.
+
+- **(c)** *Conforming amendment* Section 704 of title 18, United States Code, is amended in each of subsections (c)(1) and (d) by striking “or (b)”.
