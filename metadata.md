@@ -1,7 +1,7 @@
 ---
 measure: H.R. 219
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 219
@@ -51,3 +51,6 @@ Sandy Recovery Improvement Act of 2013
 - 2013-01-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 8). (text: CR H65-68)
 - 2013-01-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 8).(text: CR H65-68)
 - 2013-01-14 — Referred to the House Committee on Transportation and Infrastructure.
+- 2013-01-15 — Pursuant to the provisions of H. Res. 23, in the engrossment of H.R. 152, the text of H.R. 219 as passed by the House, was added as new matter at the end of H.R. 152 and the title of H.R. 152 was conformed to reflect the additional matter.
+- 2013-01-15 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2013-01-22 — Received in the Senate.
