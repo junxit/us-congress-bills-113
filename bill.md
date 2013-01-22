@@ -1,0 +1,27 @@
+---
+legis-num: S. 60
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 60
+
+> To amend the National Trails System Act to provide for the study of the Western States Trail for potential designation as a national historic trail.
+
+## § 1. Short title
+
+This Act may be cited as the “Western States National Historic Trail Study Act of 2013”.
+
+## § 2. Western States National Historic Trail Study
+
+Section 5(c) of the National Trails System Act (16 U.S.C. 1244(c)) is amended by adding at the end the following:
+
+> - **(46)** *Western States Trail*
+>   - **(A)** *In general* The Western States Trail, a trail of approximately 100 miles from Squaw Valley to Auburn, California (including the Tevis Cup Loop)—
+>     - **(i)** as displayed on the maps maintained in the office of the American River District Ranger, Tahoe National Forest;
+>     - **(ii)** as described in the journal of Professor William Brewer for August 30, 1863; and
+>     - **(iii)** along which are conducted—
+>       - **(I)** the Western States Trail Ride; and
+>       - **(II)** the Western States Endurance Run.
+>   - **(B)** *Components* The study under this paragraph shall include a determination on whether the trail is appropriate for designation as a national historic trail.
