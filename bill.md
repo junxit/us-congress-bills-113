@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 346
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 346
+
+> To amend title I of the Patient Protection and Affordable Care Act to ensure that the coverage offered under multi-State qualified health plans offered in Exchanges is consistent with the Federal abortion funding ban.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Abortion Funding in Multi-state Exchange Plans Act” or “SAFE Act”.
+
+## § 2. Consistency with Federal abortion funding ban for coverage under multi-State plans in Exchanges
+
+- **(a)** *In general* Paragraph (6) of section 1334(a) of the Patient protection and Affordable Care Act (42 U.S.C. 18054(a)(6)) is amended to read as follows:
+  > - **(6)** *Consistency with Federal abortion funding ban*
+  >   - **(A)** *In general* In entering into contracts under this subsection, the Director shall ensure that no multi-State qualified health plan offered in an Exchange provides coverage of abortion.
+  >   - **(B)** *Exception* The limitation established in subparagraph (A) shall not apply to an abortion—
+  >     - **(i)** if the pregnancy is the result of an act of rape or incest; or
+  >     - **(ii)** in a case where a woman suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the woman in danger of death unless an abortion is performed, including a life-endangering physical condition caused by or arising from the pregnancy itself.
+
+- **(b)** *Preemption* Section 1303(c) of the Patient Protection and Affordable Care Act (42 U.S.C. 18023(c)) is amended—
+  - **(1)** in paragraph (1), by striking “Nothing in this Act” and inserting “Subject to paragraph (4), nothing in this Act”; and
+  - **(2)** by adding at the end the following:
+    > - **(4)** *Application of limitation for multi-State plans* Paragraph (6) of section 1334(a) shall preempt any State law requiring coverage of or funding for abortions with respect to the application of such law to multi-State health plans.
