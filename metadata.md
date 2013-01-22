@@ -1,7 +1,7 @@
 ---
 measure: H.R. 152
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 152
@@ -15,6 +15,11 @@ Making supplemental appropriations for the fiscalyear ending September 30, 2013,
 ## Sponsor
 
 - Rep. Rogers, Harold [R-KY-5] (R000395)
+
+## Cosponsors (2)
+
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
 
 ## Committees (2)
 
@@ -168,3 +173,6 @@ Making supplemental appropriations for the fiscalyear ending September 30, 2013,
 - 2013-01-15 — The Speaker designated the Honorable Shelley Moore Capito to act as Chairwoman of the Committee.
 - 2013-01-15 — The previous question was ordered pursuant to the rule. (consideration: CR H151)
 - 2013-01-15 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on agreeing to amendments previously debated and on which further proceedings had been postponed.
+- 2013-01-22 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2013-01-22 — Senate amendment submitted
+- 2013-01-22 — Senate amendment submitted
