@@ -1,7 +1,7 @@
 ---
 measure: H.R. 307
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 307
@@ -24,10 +24,11 @@ Pandemic and All-Hazards Preparedness Reauthorization Act of 2013
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 - Rep. Waxman, Henry A. [D-CA-33] (W000215)
 
-## Committees (2)
+## Committees (3)
 
 - House — Veterans' Affairs Committee
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Pandemic and All-Hazards Preparedness Reauthorization Act of 2013
 - 2013-01-22 — Mr. Pitts moved to suspend the rules and pass the bill.
 - 2013-01-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 29 (Roll no. 24). (text: CR H187-197)
 - 2013-01-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 29 (Roll no. 24).(text: CR H187-197)
+- 2013-01-23 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
