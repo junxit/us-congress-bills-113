@@ -9,14 +9,18 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To ensure the complete and timely payment of the obligations of the United States Government until May 19, 2013, and for other purposes.
 
-## § 1. Temporary suspension of debt ceiling
+## § 1. Short title
+
+This Act may be cited as the “No Budget, No Pay Act of 2013”.
+
+## § 2. Temporary suspension of debt ceiling
 
 - **(a)** *Suspension* Section 3101(b) of title 31, United States Code, shall not apply for the period beginning on the date of the enactment of this Act and ending on May 18, 2013.
 - **(b)** *Special rule relating to obligations issued during suspension period* Effective May 19, 2013, the limitation in section 3101(b) of title 31, United States Code, as increased by section 3101A of such title, is increased to the extent that—
   - **(1)** the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on May 19, 2013, exceeds
   - **(2)** the face amount of such obligations outstanding on the date of the enactment of this Act.
 
-## § 2. Holding salaries of members of congress in escrow upon failure to agree to budget resolution
+## § 3. Holding salaries of members of congress in escrow upon failure to agree to budget resolution
 
 - **(a)** *Holding salaries in escrow*
   - **(1)** *In general* If by April 15, 2013, a House of Congress has not agreed to a concurrent resolution on the budget for fiscal year 2014 pursuant to section 301 of the Congressional Budget Act of 1974, during the period described in paragraph (2) the payroll administrator of that House of Congress shall deposit in an escrow account all payments otherwise required to be made during such period for the compensation of Members of Congress who serve in that House of Congress, and shall release such payments to such Members only upon the expiration of such period.
