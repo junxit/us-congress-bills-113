@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 425
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 425
+
+> To prohibit the use of funds for the rule entitled Provisional Unlawful Presence Waivers of Inadmissibility for Certain Immediate Relatives published by the Department of Homeland Security on January 3, 2013 (78 Fed. Reg. 535).
+
+## § 1. Limitation on the Use of Funds for a Rule Regarding Provisional Waivers of Inadmissibility
+
+No Federal funds may be used to implement, administer, or enforce the final rule entitled Provisional Unlawful Presence Waivers of Inadmissibility for Certain Immediate Relatives published by the Department of Homeland Security on January 3, 2013 (78 Fed. Reg. 535), or any successor or substantially similar rule.
