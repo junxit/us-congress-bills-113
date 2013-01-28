@@ -1,7 +1,7 @@
 ---
 measure: H.R. 152
 congress: 113
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 152
@@ -194,3 +194,10 @@ Making supplemental appropriations for the fiscalyear ending September 30, 2013,
 - 2013-01-28 — Senate amendment not agreed to: Amendment SA 4, under the order of 1/24/13, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 35 - 62. Record Vote Number: 3.
 - 2013-01-28 — Senate amendment proposed (on the floor): Amendment SA 4 proposed by Senator Lee.(consideration: CR S320-323; text: CR S320)
 - 2013-01-28 — Senate amendment proposed (on the floor): Amendment SA 4 proposed by Senator Lee.(consideration: CR S320-323; text: CR S320)
+- 2013-01-29 — Became Public Law No: 113-2.
+- 2013-01-29 — Became Public Law No: 113-2.
+- 2013-01-29 — Message on Senate action sent to the House.
+- 2013-01-29 — Presented to President.
+- 2013-01-29 — Presented to President.
+- 2013-01-29 — Signed by President.
+- 2013-01-29 — Signed by President.
