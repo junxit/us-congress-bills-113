@@ -1,7 +1,7 @@
 ---
 measure: H.R. 325
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 325
@@ -50,3 +50,5 @@ No Budget, No Pay Act of 2013
 - 2013-01-23 — Rule provides for consideration of H.R. 325 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The resolution waives all points of order against consideration of the bill. The resolution provides that the amendment printed in the report shall be considered as adopted and the bill, as amended shall be considered as read. The resolution waives all points of order against provisions in the bill, as amended.
 - 2013-01-23 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H249)
 - 2013-01-23 — The previous question was ordered pursuant to the rule. (consideration: CR H248)
+- 2013-01-24 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2013-01-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 7.
