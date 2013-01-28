@@ -1,7 +1,7 @@
 ---
 measure: H.R. 152
 congress: 113
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 152
@@ -16,8 +16,13 @@ Making supplemental appropriations for the fiscalyear ending September 30, 2013,
 
 - Rep. Rogers, Harold [R-KY-5] (R000395)
 
-## Cosponsors (2)
+## Cosponsors (7)
 
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 
@@ -26,7 +31,7 @@ Making supplemental appropriations for the fiscalyear ending September 30, 2013,
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (10)
+## Recorded votes (12)
 
 - 2013-01-15 — [House 113-1-14](votes/house-113-1-0014.md) — On Agreeing to the Amendment — **Failed** (162–258)
 - 2013-01-15 — [House 113-1-15](votes/house-113-1-0015.md) — On Agreeing to the Amendment — **Agreed to** (327–91)
@@ -38,6 +43,8 @@ Making supplemental appropriations for the fiscalyear ending September 30, 2013,
 - 2013-01-15 — [House 113-1-21](votes/house-113-1-0021.md) — On Agreeing to the Amendment — **Agreed to** (223–198)
 - 2013-01-15 — [House 113-1-22](votes/house-113-1-0022.md) — On Agreeing to the Amendment — **Agreed to** (228–192)
 - 2013-01-15 — [House 113-1-23](votes/house-113-1-0023.md) — On Passage — **Passed** (241–180)
+- 2013-01-28 — [Senate 113-1-3](votes/senate-113-1-0003.md) — On the Amendment — **Amendment Rejected** (35–62)
+- 2013-01-28 — [Senate 113-1-4](votes/senate-113-1-0004.md) — On Passage of the Bill — **Bill Passed** (62–36)
 
 ## Actions
 
@@ -176,3 +183,14 @@ Making supplemental appropriations for the fiscalyear ending September 30, 2013,
 - 2013-01-22 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2013-01-22 — Senate amendment submitted
 - 2013-01-22 — Senate amendment submitted
+- 2013-01-24 — Senate amendment submitted
+- 2013-01-28 — Amendment SA 4 proposed by Senator Lee. (consideration: CR S320-323; text: CR S320) To offset the cost of the bill with rescissions and discretionary cap reductions.
+- 2013-01-28 — Amendment SA 4, under the order of 1/24/13, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 35 - 62. Record Vote Number: 3.
+- 2013-01-28 — Measure laid before Senate by unanimous consent. (consideration: CR S311-323)
+- 2013-01-28 — Passed Senate, under the order of 1/24/13, having achieved 60 votes in the afffirmative, without amendment by Yea-Nay Vote. 62 - 36. Record Vote Number: 4.
+- 2013-01-28 — Passed/agreed to in Senate: Passed Senate, under the order of 1/24/13, having achieved 60 votes in the afffirmative, without amendment by Yea-Nay Vote. 62 - 36. Record Vote Number: 4.
+- 2013-01-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 2.
+- 2013-01-28 — Roll call votes on amendments in Senate: Amendment SA 4, under the order of 1/24/13, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 35 - 62. Record Vote Number: 3.
+- 2013-01-28 — Senate amendment not agreed to: Amendment SA 4, under the order of 1/24/13, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 35 - 62. Record Vote Number: 3.
+- 2013-01-28 — Senate amendment proposed (on the floor): Amendment SA 4 proposed by Senator Lee.(consideration: CR S320-323; text: CR S320)
+- 2013-01-28 — Senate amendment proposed (on the floor): Amendment SA 4 proposed by Senator Lee.(consideration: CR S320-323; text: CR S320)

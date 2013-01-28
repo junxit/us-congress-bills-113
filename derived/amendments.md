@@ -1,7 +1,7 @@
 ---
 measure: H.R. 152
 congress: 113
-version: Received in Senate
+version: Placed on Calendar Senate
 derived: true
 ---
 
