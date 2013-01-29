@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 14
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 14
@@ -30,3 +30,7 @@ A resolution raising awareness and encouraging prevention of stalking by designa
 
 - 2013-01-24 — Introduced in Senate
 - 2013-01-24 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S292-293)
+- 2013-01-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2013-01-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2013-01-29 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S368)
+- 2013-01-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S368)
