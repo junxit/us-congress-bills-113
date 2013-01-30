@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 13
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 13
@@ -16,7 +16,7 @@ A resolution congratulating the members of Delta Sigma Theta Sorority, Inc. for 
 
 - Sen. Brown, Sherrod [D-OH] (B000944)
 
-## Cosponsors (9)
+## Cosponsors (12)
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Cochran, Thad [R-MS] (C000567)
@@ -27,6 +27,9 @@ A resolution congratulating the members of Delta Sigma Theta Sorority, Inc. for 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Warner, Mark R. [D-VA] (W000805)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
 
 ## Committees (1)
 
@@ -36,3 +39,7 @@ A resolution congratulating the members of Delta Sigma Theta Sorority, Inc. for 
 
 - 2013-01-24 — Introduced in Senate
 - 2013-01-24 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S292)
+- 2013-01-30 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2013-01-30 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2013-01-30 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S407-408)
+- 2013-01-30 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S407-408)
