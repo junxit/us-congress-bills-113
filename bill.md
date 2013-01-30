@@ -1,0 +1,26 @@
+---
+legis-num: S. 188
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 188
+
+> To prevent certain individuals purportedly appointed to the National Labor Relations Board from receiving salaries, and to prevent an unconstitutional quorum of the Board from taking agency actions, until there is a final decision in pending lawsuits regarding the constitutionality of certain alleged recess appointments.
+
+## § 1. Short title
+
+This Act may be cited as the “Advice and Consent Restoration Act”.
+
+## § 2. No salaries for unconstitutional NLRB appointments
+
+- **(a)** *In general* Notwithstanding any other provision of law, an individual shall not receive any salary or payment for services performed as a member of the National Labor Relations Board unless the individual has been appointed—
+  - **(1)** by and with the advice and consent of the Senate, in accordance with clause 2 of section 2 of article II of the United States Constitution; or
+  - **(2)** appointed appropriately in accordance with clause 3 of section 2 of article II of the United States Constitution.
+- **(b)** *Effective date* This section shall take effect on the first day of the first applicable pay period beginning on or after the date of enactment of this Act.
+
+## § 3. Prohibiting NLRB actions or decisions
+
+- **(a)** *In general* Notwithstanding any other provision of law, an unconstitutional quorum of the National Labor Relations Board shall not convene or take any agency action, as defined in section 551 of title 5, United States Code, and including any determination, hearing, investigation, direction of election, certification, order, rule, regulation, or review of any determination, until the date on which final judgment is entered in all cases challenging the constitutionality of the purported appointment of individuals to such Board that are pending before a Federal court on the date of enactment of this Act.
+- **(b)** *Definition* In this section, the term unconstitutional quorum means a quorum of the National Labor Relations Board that includes one or more individuals who were purportedly appointed to the Board and who are the subject of a cause of action relating to such purported appointment that is pending before a Federal court on the date of enactment of this Act.
