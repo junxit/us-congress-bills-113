@@ -1,0 +1,33 @@
+---
+legis-num: S. 206
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 206
+
+> To expand the HUBZone program for communities affected by base realignment and closure, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “HUBZone Expansion Act of 2013”.
+
+## § 2. Expanding HUBZone program for communities affected by base realignment and closure
+
+Section 3(p)(4)(D) of the Small Business Act (15 U.S.C. 632(p)(4)(D)) is amended—
+
+- **(1)** in clause (iv), by striking the period at the end and inserting “; and”;
+- **(2)** by redesignating clauses (i), (ii), (iii), and (iv) as subclauses (I), (II), (III), and (IV), respectively, and moving the margins 2 ems to the right;
+- **(3)** in the matter preceding subclause (I), as so redesignated, by striking “means lands within” and inserting the following: “means—
+  > - **(i)** lands within
+
+- **(4)** by adding at the end the following:
+  > - **(ii)** a geographic area that—
+  >   - **(I)** is—
+  >     - **(aa)** the municipality in which the military installation is located;
+  >     - **(bb)** the county in which the military installation is located; or
+  >     - **(cc)**
+  >       - **(AA)** the census tract in which the military installation is located; or
+  >       - **(BB)** the census tract in which the military installation is located and a census tract contiguous to that census tract; and
+  >   - **(II)** has a total population of not more than 50,000, as determined with reference to the most recent decennial census.
