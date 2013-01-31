@@ -1,0 +1,15 @@
+---
+legis-num: S. RES. 23
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 23
+
+> Expressing the sense of the Senate that a postage stamp should be issued to commemorate the 500th anniversary of Juan Ponce de Leon landing on Florida.
+
+That it is the sense of the Senate that—
+
+- **(1)** the United States Postal Service should issue a postage stamp to commemorate the 500th anniversary of Juan Ponce de Leon landing on Florida; and
+- **(2)** the Citizens’ Stamp Advisory Committee of the United States Postal Service should recommend to the Postmaster General that such a stamp be issued.
