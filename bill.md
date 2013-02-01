@@ -1,0 +1,34 @@
+---
+legis-num: H.R. 444
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 444
+
+> To require that, if the President’s fiscal year 2014 budget does not achieve balance in a fiscal year covered by such budget, the President shall submit a supplemental unified budget by April 1, 2013, which identifies a fiscal year in which balance is achieved, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Require Presidential Leadership and No Deficit Act” or the “Require a PLAN Act”.
+
+## § 2. Purpose and findings
+
+- **(a)** *Purpose* The purpose of this Act is to require the President to submit to Congress a supplemental unified budget if the President’s budget for fiscal year 2014 does not achieve balance in a fiscal year covered by such budget.
+- **(b)** *Findings* Congress finds the following:
+  - **(1)** With this year’s expected failure to meet the statutory deadline for submission of his budget, as stated by the Office of Management and Budget, the President will have only met the statutory deadline in one of his five budget submissions.
+  - **(2)** Despite a promise to cut the deficit in half, the deficit doubled during the President’s first year in office and has exceeded $1 trillion for four years now.
+  - **(3)** Since taking office, the President has allowed the Federal debt to grow by nearly $6 trillion and total debt now exceeds the size of the entire economy of the United States.
+  - **(4)** Under the President’s most recent budget submission, the budget never achieves balance.
+  - **(5)** The President’s fiscal year 2013 budget submission includes the admission that under his own policies the Federal Government’s “fiscal position gradually deteriorates”.
+
+## § 3. Submission of a supplemental unified budget
+
+- **(a)** *In general* If the President’s budget for fiscal year 2014, submitted to Congress pursuant to section 1105(a) of title 31, United States Code, results in a projected deficit in every fiscal year for which estimates are provided in such budget, then the President shall submit a supplemental unified budget pursuant to subsection (b).
+- **(b)** *Contents of supplemental unified budget* Not later than April 1, 2013, the President shall submit to Congress a supplemental unified budget that includes—
+  - **(1)** the information required under section 1105(a) of title 31, United States Code;
+  - **(2)** an estimate of the earliest fiscal year in which the supplemental budget is not projected to result in a deficit;
+  - **(3)** a detailed description of additional policies to be implemented in order to achieve such result; and
+  - **(4)** an explanation of the differences between the President’s budget for fiscal year 2014 and the supplemental unified budget referred to in this subsection.
+- **(c)** *Definition* The term unified budget means the total level of outlays, total level of receipts, and the resulting deficit or surplus of the United States Government for a fiscal year.
