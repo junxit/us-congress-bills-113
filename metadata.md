@@ -1,7 +1,7 @@
 ---
 measure: H.R. 316
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 316
@@ -26,3 +26,6 @@ Collinsville Renewable Energy Production Act
 - 2013-01-18 — Introduced in House
 - 2013-01-18 — Referred to the House Committee on Energy and Commerce.
 - 2013-01-18 — Referred to the Subcommittee on Energy and Power.
+- 2013-02-04 — Placed on the Union Calendar, Calendar No. 5.
+- 2013-02-04 — Reported by the Committee on Energy and Commerce. H. Rept. 113-7.
+- 2013-02-04 — Reported by the Committee on Energy and Commerce. H. Rept. 113-7.
