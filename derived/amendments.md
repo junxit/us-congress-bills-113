@@ -1,7 +1,7 @@
 ---
 measure: H.R. 225
 congress: 113
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
