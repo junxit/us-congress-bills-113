@@ -29,6 +29,12 @@ This Act may be cited as the “Require Presidential Leadership and No Deficit A
 - **(b)** *Contents of supplemental unified budget* Not later than April 1, 2013, the President shall submit to Congress a supplemental unified budget that includes—
   - **(1)** the information required under section 1105(a) of title 31, United States Code;
   - **(2)** an estimate of the earliest fiscal year in which the supplemental budget is not projected to result in a deficit;
-  - **(3)** a detailed description of additional policies to be implemented in order to achieve such result; and
-  - **(4)** an explanation of the differences between the President’s budget for fiscal year 2014 and the supplemental unified budget referred to in this subsection.
+  - **(3)** a detailed description of additional policies to be implemented in order to achieve such result (including an evaluation of duplicative agency functions and agency effectiveness, and proposals for consolidating duplicative functions and programs between agencies in the interests of cost-savings);
+  - **(4)** an explanation of the differences between the President’s budget for fiscal year 2014 and the supplemental unified budget referred to in this subsection;
+  - **(5)** an estimate of the cost per taxpayer of the annual deficit for each year in which the supplemental unified budget is projected to result in a deficit; and
+  - **(6)** under a separate heading entitled “Direct Spending”, which shall include a category for “Means-Tested Direct Spending” and a category for “Nonmeans-Tested Direct Spending” and sets forth—
+    - **(A)** the average rate of growth for each category in the total amount of outlays during the 10-year period preceding the budget year;
+    - **(B)** information on the budget proposals for reform of such programs;
+    - **(C)** a description of programs which shall be considered means-tested direct spending and nonmeans-tested direct spending for purposes of this paragraph; and
+    - **(D)** an annual estimate of the total amount of outlays for each such program for the period covered by the budget proposal.
 - **(c)** *Definition* The term unified budget means the total level of outlays, total level of receipts, and the resulting deficit or surplus of the United States Government for a fiscal year.
