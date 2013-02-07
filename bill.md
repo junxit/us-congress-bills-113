@@ -1,0 +1,23 @@
+---
+legis-num: S. 244
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 244
+
+> To amend the Energy Policy Act of 2005 to modify the Pilot Project offices of the Federal Permit Streamlining Pilot Project.
+
+## § 1. Pilot Project offices of Federal Permit Streamlining Pilot Project
+
+Section 365 of the Energy Policy Act of 2005 (42 U.S.C. 15924) is amended by striking subsection (d) and inserting the following:
+
+> - **(d)** *Pilot project offices* The following Bureau of Land Management Offices shall serve as the Pilot Project offices:
+>   - **(1)** Rawlins Field Office, Wyoming.
+>   - **(2)** Buffalo Field Office, Wyoming.
+>   - **(3)** Montana/Dakotas State Office, Montana.
+>   - **(4)** Farmington Field Office, New Mexico.
+>   - **(5)** Carlsbad Field Office, New Mexico.
+>   - **(6)** Grand Junction/Glenwood Springs Field Office, Colorado.
+>   - **(7)** Vernal Field Office, Utah.
