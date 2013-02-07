@@ -1,7 +1,7 @@
 ---
 measure: H.R. 225
 congress: 113
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 284h` | redesignate | by redesignating subsection (d) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 284h` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | redesignate | by redesignating subsection (d) as subsection (f); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
