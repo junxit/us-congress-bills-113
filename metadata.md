@@ -1,7 +1,7 @@
 ---
 measure: H.R. 297
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 297
@@ -50,9 +50,10 @@ Children's Hospital GME Support Reauthorization Act of 2013
 - Rep. Beatty, Joyce [D-OH-3] (B001281)
 - Rep. Michaud, Michael H. [D-ME-2] (M001149)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -75,3 +76,4 @@ Children's Hospital GME Support Reauthorization Act of 2013
 - 2013-02-04 — Placed on the Union Calendar, Calendar No. 1.
 - 2013-02-04 — Reported by the Committee on Energy and Commerce. H. Rept. 113-3.
 - 2013-02-04 — Reported by the Committee on Energy and Commerce. H. Rept. 113-3.
+- 2013-02-07 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
