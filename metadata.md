@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 11
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 11
@@ -26,3 +26,4 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2013-02-04 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H325)
 - 2013-02-07 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S569)
 - 2013-02-07 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S569)
+- 2013-02-08 — Message on Senate action sent to the House.
