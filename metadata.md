@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 11
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 11
@@ -24,3 +24,5 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2013-02-04 — Motion to reconsider laid on the table Agreed to without objection.
 - 2013-02-04 — On agreeing to the resolution Agreed to by voice vote. (text: CR H325)
 - 2013-02-04 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H325)
+- 2013-02-07 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S569)
+- 2013-02-07 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S569)
