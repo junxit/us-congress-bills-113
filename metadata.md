@@ -1,7 +1,7 @@
 ---
 measure: H.R. 444
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 444
@@ -102,9 +102,10 @@ Require a PLAN Act
 - Rep. Gardner, Cory [R-CO-4] (G000562)
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 
-## Committees (1)
+## Committees (2)
 
 - House — Budget Committee
+- Senate — Budget Committee
 
 ## Recorded votes (4)
 
@@ -188,3 +189,4 @@ Require a PLAN Act
 - 2013-02-06 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H393)
 - 2013-02-06 — The previous question was ordered without objection. (consideration: CR H392)
 - 2013-02-06 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2013-02-07 — Received in the Senate and Read twice and referred to the Committee on the Budget.
