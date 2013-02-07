@@ -1,0 +1,23 @@
+---
+legis-num: S. 230
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 230
+
+> To authorize the Peace Corps Commemorative Foundation to establish a commemorative work in the District of Columbia and its environs, and for other purposes.
+
+## § 1. Memorial to Commemorate America’s Commitment to International Service and Global Prosperity
+
+- **(a)** *Authorization To establish commemorative work* The Peace Corps Commemorative Foundation may establish a commemorative work on Federal land in the District of Columbia and its environs to commemorate the mission of the Peace Corps and the ideals on which the Peace Corps was founded.
+- **(b)** *Compliance with standards for Commemorative Works Act* The establishment of the commemorative work under this section shall be in accordance with chapter 89 of title 40, United States Code (commonly known as the “Commemorative Works Act”).
+- **(c)** *Use of Federal funds prohibited*
+  - **(1)** *In general* Federal funds may not be used to pay any expense of the establishment of the commemorative work under this section.
+  - **(2)** *Responsibility of Peace Corps* The Peace Corps Commemorative Foundation shall be solely responsible for acceptance of contributions for, and payment of the expenses of, the establishment of the commemorative work under this section.
+- **(d)** *Deposit of excess funds* If, on payment of all expenses for the establishment of the commemorative work under this section (including the maintenance and preservation amount required by section 8906(b)(1) of title 40, United States Code), or on expiration of the authority for the commemorative work under section 8903(e) of title 40, United States Code, there remains a balance of funds received for the establishment of the commemorative work, the Peace Corps Commemorative Foundation shall transmit the amount of the balance to the Secretary of the Interior for deposit in the account provided for in section 8906(b)(3) of title 40, United States Code.
+
+## § 2. Budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.
