@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 605
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 605
+
+> To exclude insurance companies from the Federal Depository Insurance Corporation’s “orderly liquidation authority”.
+
+## § 1. Short title
+
+This Act may be cited as the “Insurance Consumer Protection and Solvency Act of 2013”.
+
+## § 2. Liquidation authority
+
+- **(a)** *Definition of financial company* Clause (iii) of section 201(a)(11)(B) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5381(a)(11)(B)(iii)) is amended by inserting “an insurance company or” after “other than”.
+- **(b)** *Treatment of insurance companies and subsidiaries* Subsection (e) of section 203 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5383(e)) is amended—
+  - **(1)** in paragraph (1)—
+    - **(A)** by striking “if an insurance company is a covered financial company or a subsidiary or affiliate of a covered financial company,”; and
+    - **(B)** by striking “such insurance” and inserting “an insurance”; and
+  - **(2)** by striking paragraph (3).
+- **(c)** *Assessments* Paragraph (1) of section 210(o) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5390(o)(1)) is amended by inserting “, excluding an insurance company subject to assessment pursuant to applicable State law to cover (or reimburse payments made to cover) the costs of rehabilitation, liquidation, or other State insolvency proceeding with respect to 1 or more insurance companies,” after “$50,000,000,000” each place such term appears.
