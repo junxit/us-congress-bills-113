@@ -1,7 +1,7 @@
 ---
 measure: H.R. 316
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 316
@@ -29,3 +29,9 @@ Collinsville Renewable Energy Production Act
 - 2013-02-04 — Placed on the Union Calendar, Calendar No. 5.
 - 2013-02-04 — Reported by the Committee on Energy and Commerce. H. Rept. 113-7.
 - 2013-02-04 — Reported by the Committee on Energy and Commerce. H. Rept. 113-7.
+- 2013-02-12 — Considered under suspension of the rules. (consideration: CR H441-442)
+- 2013-02-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 316.
+- 2013-02-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-02-12 — Mr. Whitfield moved to suspend the rules and pass the bill.
+- 2013-02-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H441)
+- 2013-02-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H441)
