@@ -1,7 +1,7 @@
 ---
 measure: S. 47
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -1086,7 +1086,7 @@ to guess them.
 | Removed | `with respect to the status of severe forms of trafficking in persons that shall include—` |
 | Inserted | `describing the anti-trafficking efforts of the United States and foreign governments according to the minimum standards and criteria enumerated in section 108, and the nature and scope of trafficking in persons in each country and analysis of the trend lines for individual governmental efforts. The report should include—` |
 
-### 22 U.S.C. § 2370c-1
+### 22 U.S.C. § 2321j
 
 > in subsection (a), by striking “(b), (c), and (d), the authorities contained in section 516 or 541 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321j or 2347)” and inserting “(b) through (f), the authorities contained in sections 516, 541, and 551 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321j, 2347, and 2348)”; and
 
@@ -1095,7 +1095,7 @@ to guess them.
 | Removed | `(b), (c), and (d), the authorities contained in section 516 or 541 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321j or 2347)` |
 | Inserted | `(b) through (f), the authorities contained in sections 516, 541, and 551 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321j, 2347, and 2348)` |
 
-### 18 U.S.C. § 2255
+### 22 U.S.C. § 7102
 
 > in subsection (a), by striking “section 2241(c)” and inserting “section 1589, 1590, 1591, 2241(c)”; and
 
@@ -1104,7 +1104,7 @@ to guess them.
 | Removed | `section 2241(c)` |
 | Inserted | `section 1589, 1590, 1591, 2241(c)` |
 
-### 18 U.S.C. § 2255
+### 22 U.S.C. § 7102
 
 > in subsection (b), by striking “six years” and inserting “10 years”.
 
@@ -1131,7 +1131,7 @@ to guess them.
 | Removed | `paragraph (8) or (9)` |
 | Inserted | `paragraph (9) or (10)` |
 
-### 22 U.S.C. § 7107
+### 22 U.S.C. § 7833
 
 > by striking “section 103(7)(A)” and inserting “section 103(8)(A)”; and
 
@@ -1140,7 +1140,7 @@ to guess them.
 | Removed | `section 103(7)(A)` |
 | Inserted | `section 103(8)(A)` |
 
-### 22 U.S.C. § 7107
+### 22 U.S.C. § 7833
 
 > by striking “section 103(7)(B)” and inserting “section 103(8)(B)”; and
 
@@ -1149,7 +1149,7 @@ to guess them.
 | Removed | `section 103(7)(B)` |
 | Inserted | `section 103(8)(B)` |
 
-### 22 U.S.C. § 7110
+### 22 U.S.C. § 7833
 
 > in section 113(g)(2) (22 U.S.C. 7110(g)(2)), by striking “section 103(8)(A)” and inserting “section 103(9)(A)”.
 
@@ -1194,7 +1194,7 @@ to guess them.
 | Removed | `section 103(3)` |
 | Inserted | `section 103(4)` |
 
-### 42 U.S.C. § 14044f
+### 22 U.S.C. § 7833
 
 > Section 111(a)(1) of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (42 U.S.C. 14044f(a)(1)) is amended by striking “paragraph (8)” and inserting “paragraph (9)”.
 
@@ -1212,7 +1212,7 @@ to guess them.
 | Removed | `$20,000,000 for each of the fiscal years 2008 through 2011` |
 | Inserted | `$10,000,000 for each of the fiscal years 2014 through 2017` |
 
-### 22 U.S.C. § 7109a
+### 22 U.S.C. § 7101
 
 > by striking “$2,000,000” and inserting “$1,000,000”; and
 
@@ -1221,7 +1221,7 @@ to guess them.
 | Removed | `$2,000,000` |
 | Inserted | `$1,000,000` |
 
-### 22 U.S.C. § 7109a
+### 22 U.S.C. § 7101
 
 > by striking “2008 through 2011” and inserting “2014 through 2017”; and
 
@@ -1615,28 +1615,28 @@ complete account of the bill's effect, which it is not.
 | `8 U.S.C. § 1375b` | insert | in paragraph (2), by inserting “and the video produced or dubbed” after “translated”; and | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1375b` | insert | in paragraph (1), by inserting “and video” after “information pamphlet”; | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1375b` | insert | in paragraph (2), by inserting “and video” after “information pamphlet”; and | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1375b` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1375b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7104` | add-at-end | Section 106 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7104) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2151n` | add-at-end | in section 116 (22 U.S.C. 2151n), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2304` | add-at-end | in section 502B (22 U.S.C. 2304), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2370c-1` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1961` | insert | Section 1961(1)(B) of title 18, United States Code, is amended by inserting “section 1351 (relating to fraud in foreign labor contracting),” before “section 1425”. | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 1961` | insert | Section 2423(c) of title 18, United States Code, is amended by inserting “or resides, either temporarily or permanently, in a foreign country” after “commerce”. | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2151n` | amend | in section 116 (22 U.S.C. 2151n), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2304` | amend | in section 502B (22 U.S.C. 2304), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2370c-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1324` | insert | Section 1961(1)(B) of title 18, United States Code, is amended by inserting “section 1351 (relating to fraud in foreign labor contracting),” before “section 1425”. | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1324` | insert | Section 2423(c) of title 18, United States Code, is amended by inserting “or resides, either temporarily or permanently, in a foreign country” after “commerce”. | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1324` | add-at-end | Chapter 77 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1324` | add-at-end | The table of sections for chapter 77 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1324` | amend | The table of sections for chapter 77 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7102` | redesignate | by redesignating paragraphs (1) through (14) as paragraphs (2) through (15), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7102` | redesignate | by inserting before paragraph (2), as redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | insert | Section 101(a)(15)(T)(ii)(III) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(T)(ii)(III) is amended by inserting “, or any adult or minor children of a derivative beneficiary of the alien, as” after “age”. | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1101` | insert | Section 101(a)(15)(U)(iii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(U)(iii)) is amended by inserting “fraud in foreign labor contracting (as defined in section 1351 of title 18, United States Code);” after “perjury;”. | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 1351` | insert | Section 101(a)(15)(U)(iii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(U)(iii)) is amended by inserting “fraud in foreign labor contracting (as defined in section 1351 of title 18, United States Code);” after “perjury;”. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 7103` | redesignate | by redesignating subparagraphs (D) through (J) as subparagraphs (I) through (O); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | replace | by striking subparagraphs (B) and (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7103` | redesignate | in subparagraph (N)(iii), as redesignated, by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 7103` | redesignate | in subparagraph (O), as redesignated, by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 7103` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7112` | add-at-end | Section 105(b) of the Trafficking Victims Protection Act of 2005 (22 U.S.C. 7112(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7112` | add-at-end | Section 105(a) of the Trafficking Victims Protection Act of 2005 (22 U.S.C. 7112(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 7105` | insert | in the first sentence, by inserting “the Department of Labor, the Equal Employment Opportunity Commission,” before “and the Department”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 7105` | insert | in the second sentence, by inserting “, in consultation with the Secretary of Labor,” before “shall provide”. | the bill quotes the text inserted but describes where it goes |
+| — | insert | in the first sentence, by inserting “the Department of Labor, the Equal Employment Opportunity Commission,” before “and the Department”; and | the bill names no machine-readable US Code section |
+| — | insert | in the second sentence, by inserting “, in consultation with the Secretary of Labor,” before “shall provide”. | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 14044a` | amend | Section 202 of the Trafficking Victims Protection Reauthorization Act of 2005 (42 U.S.C. 14044a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 14044c` | strike | in subparagraph (A), by striking “, which involve United States citizens, or aliens admitted for permanent residence, and”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 14044c` | redesignate | by redesignating subparagraphs (B), (C), and (D) as subparagraphs (C), (D), and (E), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1644,7 +1644,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 14044c` | redesignate | in subparagraph (C), as redesignated, by inserting “and prioritize the investigations and prosecutions of those cases involving minor victims” after “sex acts”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 14044c` | redesignate | by redesignating subsection (d) as subsection (e); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 14044c` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 14044c` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 14044c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7101` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 7101` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7101` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1654,11 +1654,11 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking section 102(b)(7); and | the bill names no machine-readable US Code section |
 | — | replace | in section 201(c)(2), by striking “$1,000,000 for each of the fiscal years 2008 through 2011” and inserting “$250,000 for each of the fiscal years 2014 through 2017”. | the bill names no machine-readable US Code section |
 | `8 U.S.C. § 1232` | replace | by striking “Subject to” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1232` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | by striking “The Secretary” and inserting the following: | the bill names no machine-readable US Code section |
-| — | strike | by striking “and criminal”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| `8 U.S.C. § 1101` | strike | by striking “either”; | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1101` | replace | by striking “or who” and inserting a comma; and | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1101` | insert | by inserting “, or has been granted status under section 101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(U)),” before “, shall be eligible”; and | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1101` | insert | in subparagraph (B), by inserting “, or status under section 101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(U)),” after “(8 U.S.C. 1101(a)(27)(J))”. | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1232` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1232` | replace | by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1232` | strike | by striking “and criminal”; and | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1232` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1232` | strike | by striking “either”; | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1232` | replace | by striking “or who” and inserting a comma; and | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1232` | insert | by inserting “, or has been granted status under section 101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(U)),” before “, shall be eligible”; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1232` | insert | in subparagraph (B), by inserting “, or status under section 101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(U)),” after “(8 U.S.C. 1101(a)(27)(J))”. | the bill quotes the text inserted but describes where it goes |

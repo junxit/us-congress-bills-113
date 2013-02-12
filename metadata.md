@@ -1,7 +1,7 @@
 ---
 measure: S. 47
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 47
@@ -102,7 +102,7 @@ Violence Against Women Reauthorization Act of 2013
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Alexander, Lamar [R-TN] (A000360)
 
-## Recorded votes (8)
+## Recorded votes (10)
 
 - 2013-02-04 — [Senate 113-1-12](votes/senate-113-1-0012.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (85–8)
 - 2013-02-07 — [Senate 113-1-13](votes/senate-113-1-0013.md) — On the Amendment — **Amendment Rejected** (34–65)
@@ -112,6 +112,8 @@ Violence Against Women Reauthorization Act of 2013
 - 2013-02-12 — [Senate 113-1-17](votes/senate-113-1-0017.md) — On the Amendment — **Amendment Rejected** (46–53)
 - 2013-02-12 — [Senate 113-1-18](votes/senate-113-1-0018.md) — On the Amendment — **Amendment Rejected** (43–57)
 - 2013-02-12 — [Senate 113-1-19](votes/senate-113-1-0019.md) — On Passage of the Bill — **Bill Passed** (78–22)
+- 2013-02-28 — [House 113-1-54](votes/house-113-1-0054.md) — On Agreeing to the Amendment — **Failed** (166–257)
+- 2013-02-28 — [House 113-1-55](votes/house-113-1-0055.md) — On Passage — **Passed** (286–138)
 
 ## Actions
 
@@ -183,3 +185,26 @@ Violence Against Women Reauthorization Act of 2013
 - 2013-02-12 — Senate amendment proposed (on the floor): Amendment SA 11 proposed by Senator Leahy for Senator Murkowski.(consideration: CR S611-612; text: CR S611-612)
 - 2013-02-12 — Senate amendment proposed (on the floor): Amendment SA 11 proposed by Senator Leahy for Senator Murkowski.(consideration: CR S611-612; text: CR S611-612)
 - 2013-02-12 — Senate amendment proposed (on the floor): Amendment SA 21 proposed by Senator Leahy.(consideration: CR S601-616)
+- 2013-02-26 — Rules Committee Resolution H. Res. 83 Reported to House. Rule provides for consideration of S. 47 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. The resolution waives all points of order against provisions in the bill. It provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-2, if offered by the Majority Leader or his designee, which shall be separately debatable for 20 minutes equally divided and controlled by the proponent and an opponent.
+- 2013-02-27 — Rule H. Res. 83 passed House.
+- 2013-02-28 — Amendment (A001) in the nature of a substitute offered by Mrs. McMorris Rodgers. (consideration: CR H753-800; text: CR H753-772)
+- 2013-02-28 — Amendment failed by House: On agreeing to the McMorris Rodgers amendment (A001) Failed by the Yeas and Nays: 166 - 257 (Roll no. 54).
+- 2013-02-28 — Considered under the provisions of rule H. Res. 83. (consideration: CR H707-801)
+- 2013-02-28 — DEBATE - Pursuant to the provisions of H.Res. 83, the House proceeded with 20 minutes of debate on the McMorris Rodgers amendment in the nature of a substitute.
+- 2013-02-28 — DEBATE - The House proceeded with one hour of debate on S. 47.
+- 2013-02-28 — DEBATE - The House resumed with debate on the McMorris Rodgers amendment in the nature of a substitute.
+- 2013-02-28 — House amendment not agreed to: On agreeing to the McMorris Rodgers amendment (A001) Failed by the Yeas and Nays: 166 - 257 (Roll no. 54).
+- 2013-02-28 — House amendment offered
+- 2013-02-28 — House amendment offered/reported by: Amendment (A001) in the nature of a substitute offered by Mrs. McMorris Rodgers.(consideration: CR H753-800; text: CR H753-772)
+- 2013-02-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-02-28 — On agreeing to the McMorris Rodgers amendment (A001) Failed by the Yeas and Nays: 166 - 257 (Roll no. 54).
+- 2013-02-28 — On passage Passed by recorded vote: 286 - 138 (Roll no. 55). (text: CR H707-735)
+- 2013-02-28 — Passed/agreed to in House: On passage Passed by recorded vote: 286 - 138 (Roll no. 55).(text: CR H707-735)
+- 2013-02-28 — Roll call votes on amendments in House
+- 2013-02-28 — Rule provides for consideration of S. 47 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. The resolution waives all points of order against provisions in the bill. It provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-2, if offered by the Majority Leader or his designee, which shall be separately debatable for 20 minutes equally divided and controlled by the proponent and an opponent.
+- 2013-03-04 — Presented to President.
+- 2013-03-04 — Presented to President.
+- 2013-03-07 — Became Public Law No: 113-4.
+- 2013-03-07 — Became Public Law No: 113-4.
+- 2013-03-07 — Signed by President.
+- 2013-03-07 — Signed by President.
