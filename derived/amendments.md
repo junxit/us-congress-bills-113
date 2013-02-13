@@ -1,7 +1,7 @@
 ---
 measure: H.R. 267
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
