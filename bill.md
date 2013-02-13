@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 655
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 655
+
+> To authorize States to use assistance provided under the Hardest Hit Fund program of the Department of the Treasury to demolish blighted structures, and for other purposes.
+
+## § 1. Use of Hardest Hit Fund amounts for demolition activities
+
+Notwithstanding any provision of title I of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5211 et seq.), any regulation, guidance, order, or other directive of the Secretary of the Treasury, or any agreement (or amendment thereto) entered into under the Hardest Hit Fund program of the Secretary under such title I, any amounts of assistance that have been, or are, allocated for or provided to a State or State agency through the Hardest Hit Fund program may be used, without limitation, to demolish blighted structures.
