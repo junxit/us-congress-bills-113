@@ -1,7 +1,7 @@
 ---
 measure: H.R. 316
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 316
@@ -16,9 +16,10 @@ Collinsville Renewable Energy Production Act
 
 - Rep. Esty, Elizabeth H. [D-CT-5] (E000293)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Collinsville Renewable Energy Production Act
 - 2013-02-12 — Mr. Whitfield moved to suspend the rules and pass the bill.
 - 2013-02-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H441)
 - 2013-02-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H441)
+- 2013-02-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
