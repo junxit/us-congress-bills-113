@@ -1,7 +1,7 @@
 ---
 measure: H.R. 235
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 42 U.S.C. § 294a
+### 42 U.S.C. § 243
 
 > Section 751(j)(1) of the Public Health Service Act (42 U.S.C. 294a(j)(1)) is amended by striking “There is authorized to be appropriated” and inserting “Subject to section 315(e), there is authorized to be appropriated”.
 

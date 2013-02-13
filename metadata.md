@@ -1,7 +1,7 @@
 ---
 measure: H.R. 235
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 235
@@ -36,9 +36,10 @@ Veteran Emergency Medical Technician Support Act of 2013
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
 - Rep. Davis, Rodney [R-IL-13] (D000619)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Veteran Emergency Medical Technician Support Act of 2013
 - 2013-02-12 — Mr. Whitfield moved to suspend the rules and pass the bill.
 - 2013-02-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H442)
 - 2013-02-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H442)
+- 2013-02-13 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
