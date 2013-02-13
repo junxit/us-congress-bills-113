@@ -1,0 +1,97 @@
+---
+measure: S. 315
+congress: 113
+version: Introduced in Senate
+derived: true
+---
+
+# What S. 315 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+14 amendatory instructions. 6 executed, 8 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Executed
+
+### 42 U.S.C. § 283g
+
+> by striking “Muscoskeletal” and inserting “Musculoskeletal”; and
+
+| | |
+|---|---|
+| Removed | `Muscoskeletal` |
+| Inserted | `Musculoskeletal` |
+
+### 42 U.S.C. § 283g
+
+> in the matter preceding subparagraph (A), by striking “15” and inserting “18”; and
+
+| | |
+|---|---|
+| Removed | `15` |
+| Inserted | `18` |
+
+### 42 U.S.C. § 283g
+
+> in subparagraph (A), by striking “children with muscular dystrophy, such as the Department of Education” and inserting “children and adults with muscular dystrophy, such as the Department of Education, the Social Security Administration, the United States Administration for Community Living”; and
+
+| | |
+|---|---|
+| Removed | `children with muscular dystrophy, such as the Department of Education` |
+| Inserted | `children and adults with muscular dystrophy, such as the Department of Education, the Social Security Administration, the United States Administration for Community Living` |
+
+### 42 U.S.C. § 283g
+
+> in the matter preceding subparagraph (A), by striking “through the national research institutes” and inserting “through the represented Federal agencies”; and
+
+| | |
+|---|---|
+| Removed | `through the national research institutes` |
+| Inserted | `through the represented Federal agencies` |
+
+### 42 U.S.C. § 283g
+
+> in subparagraph (A), by striking “and rehabilitative issues, including studies of the impact of such diseases in rural and underserved communities” and inserting “public resources, and rehabilitative issues, including studies of the impact of such diseases in rural and underserved communities, health economic studies to demonstrate the cost-effectiveness of providing independent living resources and support to patients with various forms of muscular dystrophy, and studies to determine optimal clinical care interventions for adults with various forms of muscular dystrophy”; and
+
+| | |
+|---|---|
+| Removed | `and rehabilitative issues, including studies of the impact of such diseases in rural and underserved communities` |
+| Inserted | `public resources, and rehabilitative issues, including studies of the impact of such diseases in rural and underserved communities, health economic studies to demonstrate the cost-effectiveness of providing independent living resources and support to patients with various forms of muscular dystrophy, and studies to determine optimal clinical care interventions for adults with various forms of muscular dystrophy` |
+
+### 42 U.S.C. § 283g
+
+> in subsection (g), by striking “for the various forms of muscular dystrophy by prioritizing the achievement of the goals related to this topic in the plan under subsection (e)(1)” and inserting “and shall, not later than 6 months after the date of enactment of the Paul D. Wellstone Muscular Dystrophy Community Assistance, Research and Education (MD–CARE) Amendments of 2013, in coordination with appropriate Federal agencies, including relevant offices within the Food and Drug Administration and supported by the National Institutes of Health and Department of Defense, develop a plan to expedite the evaluation and approval of emerging therapies and personalized medicines that have the potential to decrease fatal disease progression across the various forms of muscular dystrophy”.
+
+| | |
+|---|---|
+| Removed | `for the various forms of muscular dystrophy by prioritizing the achievement of the goals related to this topic in the plan under subsection (e)(1)` |
+| Inserted | `and shall, not later than 6 months after the date of enactment of the Paul D. Wellstone Muscular Dystrophy Community Assistance, Research and Education (MD–CARE) Amendments of 2013, in coordination with appropriate Federal agencies, including relevant offices within the Food and Drug Administration and supported by the National Institutes of Health and Department of Defense, develop a plan to expedite the evaluation and approval of emerging therapies and personalized medicines that have the potential to decrease fatal disease progression across the various forms of muscular dystrophy` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `42 U.S.C. § 283g` | insert | by inserting “Becker, myotonic, facioscapulohumeral muscular dystrophy (referred to in this section as FSHD), Congenital muscular dystrophy, Limb-girdle muscular dystrophy,” after “Duchenne,”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 283g` | insert | in paragraph (2), by inserting “cardiac and pulmonary function,” after “imaging, genetics,”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 283g` | insert | in paragraph (3), by inserting “and sharing of data” after “regular communication”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 283g` | insert | in paragraph (4)(B), by inserting “, and shall meet no less than two times per calendar year” before the period; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 283g` | add-at-end | in paragraph (2), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 247b-18` | insert | in the second sentence of subsection (b), by inserting before the period the following: “and ensure that the program captures data from different racial and ethnic populations, and that such data are made publicly available to investigat… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 247b-18` | add-at-end | in subsection (c), by adding at the end the following: “The Secretary shall also foster ongoing engagement and collaboration between the surveillance program and centers of excellence.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 247b-19` | add-at-end | Section 5(c) of the Muscular Dystrophy Community Assistance, Research and Education Amendments of 2001 (42 U.S.C. 247b–19(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
