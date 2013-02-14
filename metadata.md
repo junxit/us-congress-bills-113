@@ -1,7 +1,7 @@
 ---
 measure: H.R. 307
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 307
@@ -50,3 +50,8 @@ Pandemic and All-Hazards Preparedness Reauthorization Act of 2013
 - 2013-01-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 29 (Roll no. 24). (text: CR H187-197)
 - 2013-01-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 29 (Roll no. 24).(text: CR H187-197)
 - 2013-01-23 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2013-02-04 — Referred to the Subcommittee on Health.
+- 2013-02-13 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2013-02-14 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
+- 2013-02-14 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
+- 2013-02-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 14.
