@@ -20,6 +20,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the Senate passed 3 successive resolutions expressing its profound sympathy and unwavering support for the people of Haiti and urging all nations to assist the people of Haiti with their long-term needs;
 - Whereas, 3 years later, significant challenges still remain in Haiti as it works to recover and rebuild;
 - Whereas, according to the International Organization for Migration, approximately 360,000 people remain in spontaneous and organized camps in Haiti and hundreds of thousands of poor people in Haiti continue to live in non-permanent housing, conditions that make them vulnerable to future natural disasters;
+- Whereas hundreds of thousands of people as a result of the earthquake will have some form of a long term disability, in addition to approximately 800,000 persons with disabilities living in Haiti;
 - Whereas, according to an independent panel investigation by the United Nations, on October 19, 2010, an imported strain of cholera was detected in the Lower Artibonite region of Haiti;
 - Whereas, according to the Haitian Ministry of Public Health and Population, as of December 31, 2012, more than 7,900 people in Haiti have died from cholera and more than 635,000 have been infected with the disease since the earthquake on January 12, 2010;
 - Whereas the United Nations Secretary-General announced a plan to eliminate cholera from the island of Hispaniola through enhanced treatment and prevention efforts and through the development of clean water and sanitation infrastructure that is accessible to all people in Haiti;
@@ -33,7 +34,7 @@ That the Senate—
 - **(1)** mourns the loss of lives as a result of the tragic earthquake in Haiti on January 12, 2010, and the subsequent cholera epidemic;
 - **(2)** honors the sacrifice made by the men and women of the Government of Haiti, civil society, the United States Government, the United Nations, and the international community in their response to those affected by the calamity;
 - **(3)** reaffirms its solidarity with the Government and people of Haiti as they work to rebuild their country and livelihoods;
-- **(4)** supports the long-term reconstruction efforts of the United States Government to improve housing, energy, job creation, food security, health care, education, governance, and rule of law in Haiti in full cooperation with the Government of Haiti and civil society, and with the support of the private sector;
+- **(4)** supports the long-term reconstruction efforts of the United States Government to improve housing, energy, job creation, food security, health care, education, governance, and rule of law in Haiti in full cooperation with the Government of Haiti, its Office of the Secretary of State for the Integration of Persons with Disabilities, and civil society, and with the support of the private sector;
 - **(5)** urges the President and the international community to continue—
   - **(A)** to focus assistance on increasing the capacity of the public sector of Haiti to sustainably provide services to the people of Haiti;
   - **(B)** to develop, improve, and increase communication and participation to more substantially involve civil society in Haiti and the Haitian diaspora at all stages of the post-earthquake response;

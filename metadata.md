@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 12
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 12
@@ -16,7 +16,7 @@ A resolution recognizing the third anniversary of the tragic earthquake in Haiti
 
 - Sen. Nelson, Bill [D-FL] (N000032)
 
-## Cosponsors (7)
+## Cosponsors (12)
 
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Lautenberg, Frank R. [D-NJ] (L000123)
@@ -25,6 +25,11 @@ A resolution recognizing the third anniversary of the tragic earthquake in Haiti
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Udall, Tom [D-NM] (U000039)
 
 ## Committees (1)
 
@@ -34,3 +39,7 @@ A resolution recognizing the third anniversary of the tragic earthquake in Haiti
 
 - 2013-01-24 — Introduced in Senate
 - 2013-01-24 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S291-292)
+- 2013-02-13 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2013-02-14 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment and with an amended preamble. Without written report.
+- 2013-02-14 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment and with an amended preamble. Without written report.
+- 2013-02-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 15.
