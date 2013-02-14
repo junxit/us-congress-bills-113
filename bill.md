@@ -27,7 +27,7 @@ This Act may be cited as the “Prematurity Research Expansion and Education for
 
 ## § 3. Activities at the health resources and services administration
 
-- **(a)** *Telemedicine and high-Risk pregnancies* Section 330I(i)(1)(B) of the Public Health Service Act (42 U.S.C. 254c–14(i)(1)(B)) is amended by striking “or case management services” and inserting “case management services, or prenatal care for high-risk pregnancies”;
+- **(a)** *Telemedicine and high-risk pregnancies* Section 330I(i)(1)(B) of the Public Health Service Act (42 U.S.C. 254c–14(i)(1)(B)) is amended by striking “or case management services” and inserting “case management services, or prenatal care for high-risk pregnancies”;
 - **(b)** *Public and health care provider education* Section 399Q of the Public Health Service Act (42 U.S.C. 280g–5) is amended—
   - **(1)** in subsection (b)—
     - **(A)** in paragraph (1), by striking subparagraphs (A) through (F) and inserting the following:
@@ -51,7 +51,7 @@ This Act may be cited as the “Prematurity Research Expansion and Education for
 
 - **(a)** *Interagency Coordinating Council on Prematurity and Low Birthweight* The Prematurity Research Expansion and Education for Mothers who deliver Infants Early Act is amended by striking section 5 (42 U.S.C. 247b–4g).
 - **(b)** *Advisory Committee on Infant Mortality*
-  - **(1)** *Establishment* The Secretary of Health and Human Services (referred to in this section as the Secretary) may establish an advisory committee known as the “Advisory Committee on Infant Mortality” (referred to in this section as the Advisory Committee).
+  - **(1)** *Establishment* The Secretary of Health and Human Services (referred to in this section as the “Secretary”) may establish an advisory committee known as the “Advisory Committee on Infant Mortality” (referred to in this section as the “Advisory Committee”).
   - **(2)** *Duties* The Advisory Committee shall provide advice and recommendations to the Secretary concerning the following activities:
     - **(A)** Programs of the Department of Health and Human Services that are directed at reducing infant mortality and improving the health status of pregnant women and infants.
     - **(B)** Strategies to coordinate the various Federal programs and activities with State, local, and private programs and efforts that address factors that affect infant mortality.
