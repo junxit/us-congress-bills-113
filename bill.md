@@ -23,5 +23,5 @@ That the Senate—
 - **(1)** designates February 14, 2013, as “National Solidarity Day for Compassionate Patient Care”;
 - **(2)** recognizes the importance and value of a respectful relationship between health care professionals and their patients as a means of promoting better health outcomes; and
 - **(3)** encourages all health care professionals to be mindful of the importance of both—
-  - **(A)** being humanistic and compassionate; and
+  - **(A)** being humane and compassionate; and
   - **(B)** providing technical expertise.
