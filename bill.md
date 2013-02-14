@@ -2,7 +2,7 @@
 legis-num: H. RES. 66
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 66
@@ -17,7 +17,7 @@ During any recess or adjournment of not more than three days, if in the opinion 
 
 ## § 3.
 
-It shall be in order at any time through the legislative day of February 15, 2013, for the Speaker to entertain motions that the House suspend the rules, as though under clause 1 of rule XV, relating to a measure condemning the government of North Korea and its February 12, 2013 test of a nuclear device.
+It shall be in order at any time through the legislative day of February 15, 2013, for the Speaker to entertain motions that the House suspend the rules, as though under clause 1 of rule XV, relating to a measure condemning the government of North Korea and its February 12, 2013, test of a nuclear device.
 
 ## § 4.
 
