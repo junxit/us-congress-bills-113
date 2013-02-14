@@ -1,7 +1,7 @@
 ---
 measure: H.R. 267
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 267
@@ -28,9 +28,10 @@ Hydropower Regulatory Efficiency Act of 2013
 - Rep. Dingell, John D. [D-MI-12] (D000355)
 - Rep. Gardner, Cory [R-CO-4] (G000562)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ Hydropower Regulatory Efficiency Act of 2013
 - 2013-02-13 — Motion to reconsider laid on the table Agreed to without objection.
 - 2013-02-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 40). (text: CR 2/12/2013 H439-440)
 - 2013-02-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 40).(text: CR 2/12/2013 H439-440)
+- 2013-02-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
