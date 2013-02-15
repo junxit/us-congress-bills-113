@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 759
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 759
+
+> To provide that a certain proposed rule published by the Office of Federal Contract Compliance Programs shall have no force or effect unless the Department of Labor is first certified to be in compliance with such rule.
+
+## § 1. Short title
+
+This Act may be cited as the “Equal Standards in Hiring Americans Act”.
+
+## § 2. Proposed rule
+
+The proposed rule published by the Office of Federal Contract Compliance Programs of the Department of Labor in the Federal Register on December 9, 2011 (76 Fed. Reg. 77056 et seq.) and any subsequent rule that is substantially the same shall have no force or effect, unless the Secretary of Labor certifies to Congress that each office and division within the Department of Labor is complying with the requirements of such rule.
