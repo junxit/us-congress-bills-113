@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 15
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 15
