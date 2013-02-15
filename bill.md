@@ -2,7 +2,7 @@
 legis-num: H. RES. 65
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 65
@@ -16,7 +16,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas North Korea’s nuclear test, and its recent ballistic missile test, are violations of United Nations Security Council Resolution 1695 (2006), Resolution 1718 (2006), Resolution 1874 (2009), and Resolution 2087 (2013);
 - Whereas North Korea’s ballistic missile program poses a threat to United States allies and interests in the Asia Pacific region;
 - Whereas North Korea’s ballistic missile program has demonstrated an increasing ability to reach the United States, and could constitute a grave threat to the security of the American people;
-- Whereas North Korea has violated the July 10, 1953, Armistice Agreement that ended the Korean War, and has since committed unprovoked acts of war against South Korea by sinking the warship Cheonan, killing 46 of her crew, and by attacking civilian targets on the island of Yeongpyeong, killing four residents, among many other willful violations and outrages;
+- Whereas North Korea has violated the July 27, 1953, Armistice Agreement that ended the Korean War, and has since committed unprovoked acts of war against South Korea by sinking the warship Cheonan, killing 46 of her crew, and by attacking civilian targets on the island of Yeongpyeong, killing four residents, among many other willful violations and outrages;
 - Whereas the Government of North Korea has been implicated repeatedly in the illicit laundering of monetary instruments, in international narcotics trafficking, and in the counterfeiting of United States currency and intellectual property;
 - Whereas North Korea has demonstrated a willingness and ability to proliferate its ballistic and nuclear technology to a variety of countries, including Iran and Syria, both United States designated state sponsors of terrorism;
 - Whereas the Government of North Korea commits gross human rights violations against the North Korean people, including maintaining a system of gulags that imprison thousands of citizens, and policies that have resulted in starvation deaths of over 2,000,000 people; and
