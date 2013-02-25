@@ -1,7 +1,7 @@
 ---
 measure: S. 298
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 298
@@ -16,7 +16,7 @@ North Korea Nonproliferation and Accountability Act of 2013
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (7)
+## Cosponsors (9)
 
 - Sen. Corker, Bob [R-TN] (C001071)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
@@ -25,6 +25,8 @@ North Korea Nonproliferation and Accountability Act of 2013
 - Sen. Boxer, Barbara [D-CA] (B000711)
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Levin, Carl [D-MI] (L000261)
 
 ## Committees (1)
 
@@ -38,3 +40,5 @@ North Korea Nonproliferation and Accountability Act of 2013
 - 2013-02-14 — Committee on Foreign Relations. Reported by Senator Menendez with amendments. Without written report.
 - 2013-02-14 — Committee on Foreign Relations. Reported by Senator Menendez with amendments. Without written report.
 - 2013-02-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 16.
+- 2013-02-25 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S816-817; text as passed Senate: CR S816-817)
+- 2013-02-25 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S816-817; text as passed Senate: CR S816-817)
