@@ -1,7 +1,7 @@
 ---
 measure: H.R. 667
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 667
@@ -31,8 +31,20 @@ To redesignate the Dryden Flight Research Center as the Neil A. Armstrong Flight
 
 - House — Science, Space, and Technology Committee
 
+## Recorded votes (1)
+
+- 2013-02-25 — [House 113-1-47](votes/house-113-1-0047.md) — On Motion to Suspend the Rules and Pass — **Passed** (394–0)
+
 ## Actions
 
 - 2013-02-13 — Introduced in House
 - 2013-02-13 — Introduced in House
 - 2013-02-13 — Referred to the House Committee on Science, Space, and Technology.
+- 2013-02-25 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-02-25 — Considered as unfinished business. (consideration: CR H606-607)
+- 2013-02-25 — Considered under suspension of the rules. (consideration: CR H602-605, H606-607)
+- 2013-02-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 667.
+- 2013-02-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-02-25 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
+- 2013-02-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 0, 1 Present (Roll no. 47). (text: CR H602)
+- 2013-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 0, 1 Present (Roll no. 47).(text: CR H602)
