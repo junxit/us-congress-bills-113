@@ -1,7 +1,7 @@
 ---
 measure: H.R. 273
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 273
@@ -67,9 +67,10 @@ To eliminate the 2013 statutory pay adjustment for Federal employees.
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 - Rep. Perry, Scott [R-PA-4] (P000605)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -91,3 +92,4 @@ To eliminate the 2013 statutory pay adjustment for Federal employees.
 - 2013-02-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 261 - 154 (Roll no. 44).(text: CR H558)
 - 2013-02-15 — Rule provides for consideration of H.R. 273 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. Section 2 of the resolution provides that during any recess or adjournment of not more than three days, the Speaker or his designee may reconvene the House at a time other than that previously appointed, within the limits of clause 4, section 5, article I of the Constitution. Section 3 of the resolution authorizes the Speaker to entertain motions to suspend the rules through the legislative day of February 15, 2013, relating to a measure condemning the government of North Korea and its February 12, 2013 test of a nuclear device. Section 4 provides that on any legislative day from February 16, 2013 through February 22, 2013: (a) the Journal of the proceedings of the previous day shall be considered as approved; (b) the Chair may adjourn the House to meet at a date and time within the limits of clause 4, section 5, article I of the Constitution. Section 5 authorizes the Speaker to appoint Members to perform the duties of the Chair for the duration of the period addressed by section 4 as though under clause 8(a) of rule I.
 - 2013-02-15 — The previous question was ordered pursuant to the rule. (consideration: CR H566)
+- 2013-02-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

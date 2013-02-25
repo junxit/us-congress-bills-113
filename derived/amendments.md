@@ -1,7 +1,7 @@
 ---
 measure: H.R. 273
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `5 U.S.C. § 5303` | replace | in subsection (b)(1), by striking the matter after “ending on” and before “shall be made” and inserting “December 31, 2013,”; and | the bill quotes the text inserted but describes where it goes |
-| `5 U.S.C. § 5303` | replace | in subsection (c), by striking the matter after “ending on” and before “no senior executive” and inserting “December 31, 2013,”. | the bill quotes the text inserted but describes where it goes |
-| `5 U.S.C. § 5303` | repeal | Section 114(b) of the Continuing Appropriations Resolution, 2013 is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subsection (b)(1), by striking the matter after “ending on” and before “shall be made” and inserting “December 31, 2013,”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking the matter after “ending on” and before “no senior executive” and inserting “December 31, 2013,”. | the bill names no machine-readable US Code section |
+| — | repeal | Section 114(b) of the Continuing Appropriations Resolution, 2013 is repealed. | the bill names no machine-readable US Code section |
