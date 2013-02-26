@@ -1,7 +1,7 @@
 ---
 measure: H.R. 667
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 667
@@ -27,9 +27,10 @@ To redesignate the Dryden Flight Research Center as the Neil A. Armstrong Flight
 - Rep. Jordan, Jim [R-OH-4] (J000289)
 - Rep. Schiff, Adam B. [D-CA-28] (S001150)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ To redesignate the Dryden Flight Research Center as the Neil A. Armstrong Flight
 - 2013-02-25 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
 - 2013-02-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 0, 1 Present (Roll no. 47). (text: CR H602)
 - 2013-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 0, 1 Present (Roll no. 47).(text: CR H602)
+- 2013-02-26 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
