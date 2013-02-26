@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 840
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 840
+
+> To improve services for victims of sexual assault and domestic violence.
+
+## § 1. Sexual Assault Services grants
+
+- **(a)** *Amendment* Paragraph (4) of section 14601(b) of the Violence Against Women Act of 1994 (42 U.S.C. 14043g(b)) is amended—
+  - **(1)** in the first sentence, by striking “, except that the United States Virgin Islands, American Samoa, Guam, the District of Columbia, Puerto Rico, and the Commonwealth of the Northern Mariana Islands shall each be allocated 0.125 percent of the total appropriations”; and
+  - **(2)** by striking the third sentence.
+- **(b)** *Effective date* The amendments made by subsection (a) shall apply with respect to grants under section 14601 of the Violence Against Women Act of 1994 (42 U.S.C. 14043g) for fiscal year 2013 and succeeding fiscal years.
