@@ -1,7 +1,7 @@
 ---
 measure: H.R. 667
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 667
@@ -50,3 +50,14 @@ To redesignate the Dryden Flight Research Center as the Neil A. Armstrong Flight
 - 2013-02-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 0, 1 Present (Roll no. 47). (text: CR H602)
 - 2013-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 0, 1 Present (Roll no. 47).(text: CR H602)
 - 2013-02-26 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2014-01-08 — Passed Senate without amendment by Unanimous Consent.
+- 2014-01-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-01-08 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S185)
+- 2014-01-08 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S185)
+- 2014-01-09 — Message on Senate action sent to the House.
+- 2014-01-09 — Presented to President.
+- 2014-01-09 — Presented to President.
+- 2014-01-16 — Became Public Law No: 113-75.
+- 2014-01-16 — Became Public Law No: 113-75.
+- 2014-01-16 — Signed by President.
+- 2014-01-16 — Signed by President.
