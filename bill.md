@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 835
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 835
+
+> To reauthorize the Low-Income Home Energy Assistance Program for fiscal years 2014 through 2018, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Energy Assistance for American Families Act”.
+
+## § 2. Reauthorization of LIHEAP
+
+Section 2602(b) of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621(b)) is amended—
+
+- **(1)** by striking “2001, and” and inserting “2001,”; and
+- **(2)** by inserting after “2007” the following: “, and $7,600,000,000 for each of fiscal years 2014 through 2018. Notwithstanding section 2605(b)(2)(B)(ii), a State may use any allotment from funds appropriated under this subsection for fiscal years 2014 through 2018 to provide assistance to households whose income does not exceed 75 percent of the State median income”.
