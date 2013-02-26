@@ -1,7 +1,7 @@
 ---
 measure: S. 298
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 298
@@ -42,3 +42,6 @@ North Korea Nonproliferation and Accountability Act of 2013
 - 2013-02-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 16.
 - 2013-02-25 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S816-817; text as passed Senate: CR S816-817)
 - 2013-02-25 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S816-817; text as passed Senate: CR S816-817)
+- 2013-02-26 — Message on Senate action sent to the House.
+- 2013-02-26 — Received in the House.
+- 2013-02-26 — Referred to the House Committee on Foreign Affairs.
