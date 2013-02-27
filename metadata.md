@@ -1,7 +1,7 @@
 ---
 measure: H.R. 307
 congress: 113
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 307
@@ -55,3 +55,5 @@ Pandemic and All-Hazards Preparedness Reauthorization Act of 2013
 - 2013-02-14 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
 - 2013-02-14 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
 - 2013-02-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 14.
+- 2013-02-27 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S948-957; text as passed Senate: CR S948-957)
+- 2013-02-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S948-957; text as passed Senate: CR S948-957)
