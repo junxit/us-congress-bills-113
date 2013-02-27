@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 859
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 859
+
+> To rescind certain excess conference costs from any agency that overspends on conferences, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Taxpayers’ Conference Overspending Prevention Act” or the “Taxpayers’ COP Act”.
+
+## § 2. Report and rescission of excess conference costs
+
+- **(a)** *Report* Not later than October 31 of each fiscal year, each executive agency shall submit to the Congress a report listing the amount of funds that such agency obligated for conferences in the previous fiscal year. The funds described in the report shall include pre-planning, travel, and subsistence costs.
+- **(b)** *Rescission* On the date that is 30 days after the date a report is submitted by an executive agency under subsection (a), from the unobligated funds made available to such agency in the current fiscal year for conferences (including pre-planning, travel, and subsistence costs), there is rescinded the total amount by which the total costs for any conference described in such report exceeds $3,000 per agency employee attending such conference, or the total amount by which the costs for any conference described in such report exceeds $600 per day per agency employee attending such conference, whichever is higher.
+- **(c)** *Exception for critical foreign travel*
+  - **(1)** *Certification* The rescission required under subsection (b) shall not apply to amounts described in a report that are greater than the limits provided in such subsection if—
+    - **(A)** the head of the applicable executive agency certifies in writing to the Director of the Office of Management and Budget that the amounts were for foreign travel and that such travel was critical to the agency’s mission; and
+    - **(B)** the Director determines that such certification is valid.
+  - **(2)** *Report* Any determination by the Director under paragraph (1) shall be included in the report submitted under subsection (a).
+- **(d)** *Definitions* In this section—
+  - **(1)** the term “Director” means the Director of the Office of Management and Budget;
+  - **(2)** the term “executive agency” has the meaning given such term in section 105 of title 5, United States Code; and
+  - **(3)** the term “conference” means a meeting, retreat, seminar, symposium, or event that—
+    - **(A)** is held for consultation, education, discussion, or training; and
+    - **(B)** is not held entirely at a Government facility.
