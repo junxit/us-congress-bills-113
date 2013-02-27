@@ -1,7 +1,7 @@
 ---
 measure: H.R. 307
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 307
@@ -30,9 +30,10 @@ Pandemic and All-Hazards Preparedness Reauthorization Act of 2013
 - House — Energy and Commerce Committee
 - Senate — Health, Education, Labor, and Pensions Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2013-01-22 — [House 113-1-24](votes/house-113-1-0024.md) — On Motion to Suspend the Rules and Pass — **Passed** (395–29)
+- 2013-03-04 — [House 113-1-56](votes/house-113-1-0056.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (370–28)
 
 ## Actions
 
@@ -57,3 +58,17 @@ Pandemic and All-Hazards Preparedness Reauthorization Act of 2013
 - 2013-02-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 14.
 - 2013-02-27 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S948-957; text as passed Senate: CR S948-957)
 - 2013-02-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S948-957; text as passed Senate: CR S948-957)
+- 2013-02-28 — Message on Senate action sent to the House.
+- 2013-03-04 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2013-03-04 — Considered as unfinished business. (consideration:  H836-837)
+- 2013-03-04 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 307.
+- 2013-03-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-03-04 — Mr. Pitts moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H823-836)
+- 2013-03-04 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 370 - 28 (Roll no. 56). (text as House agreed to Senate amendment: CR H823-832)
+- 2013-03-04 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 370 - 28 (Roll no. 56).(text as House agreed to Senate amendment: CR H823-832)
+- 2013-03-05 — Presented to President.
+- 2013-03-05 — Presented to President.
+- 2013-03-13 — Became Public Law No: 113-5.
+- 2013-03-13 — Became Public Law No: 113-5.
+- 2013-03-13 — Signed by President.
+- 2013-03-13 — Signed by President.

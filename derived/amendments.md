@@ -1,7 +1,7 @@
 ---
 measure: H.R. 307
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-182 amendatory instructions. 58 executed, 124 stated and not applied.
+182 amendatory instructions. 59 executed, 123 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -68,6 +68,15 @@ to guess them.
 |---|---|
 | Removed | `such sums as may be necessary for each of the fiscal years 2007 through 2011` |
 | Inserted | `$52,700,000 for each of fiscal years 2014 through 2018` |
+
+### 38 U.S.C. § 8117
+
+> Section 8117(g) of title 38, United States Code, is amended by striking “such sums as may be necessary to carry out this section for each of fiscal years 2007 through 2011” and inserting “$155,300,000 for each of fiscal years 2014 through 2018 to carry out this section”.
+
+| | |
+|---|---|
+| Removed | `such sums as may be necessary to carry out this section for each of fiscal years 2007 through 2011` |
+| Inserted | `$155,300,000 for each of fiscal years 2014 through 2018 to carry out this section` |
 
 ### 42 U.S.C. § 247d-3a
 
@@ -579,7 +588,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 300hh-11` | insert | in subparagraph (A), in clause (i) by inserting “, including at-risk individuals as applicable” after “victims of a public health emergency”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300hh-11` | redesignate | by redesignating subparagraph (C) as subparagraph (E); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300hh-11` | insert | by inserting after subparagraph (B), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 8117(g) of title 38, United States Code, is amended by striking “such sums as may be necessary to carry out this section for each of fiscal years 2007 through 2011” and inserting “$155,300,000 for each of fiscal years 2014 throug… | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 247d` | add-at-end | Section 319 of the Public Health Service Act (42 U.S.C. 247d) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 247d-3a` | replace | by striking clauses (i) and (ii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 247d-3a` | strike | in clause (iv), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
@@ -640,7 +648,7 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 360bbb-3` | amend | in subsection (h)(1), by adding after the period at the end the following: “The Secretary shall make any revisions to an authorization under this section available on the Internet Web site of the Food and Drug Administration.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360bbb-3` | add-at-end | by adding at the end of subsection (j) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360bbb-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 360bbb-3` | insert | Subchapter E of chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb et seq.) is amended by inserting after section 564 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 360bbb` | insert | Subchapter E of chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb et seq.) is amended by inserting after section 564 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355-1` | strike | in subsection (f), by striking paragraph (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 301` | insert | The Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) is amended by inserting after section 564A, as added by subsection (b), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -652,8 +660,8 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 355a` | add-at-end | in subsection (d), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355a` | add-at-end | in subsection (n)(1), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 284m` | replace | by striking subsection (a)(2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355a` | replace | in subparagraph (C), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 355a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 284m` | replace | in subparagraph (C), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 284m` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 247d-6b` | insert | in clause (i)(I), by inserting “including advanced research and development,” after “as may reasonably be required,”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 247d-6b` | replace | by striking subclause (IX) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 247d-6b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
