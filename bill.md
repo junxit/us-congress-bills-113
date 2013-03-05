@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 950
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 950
+
+> To require the Director of the Office of Management and Budget to send a report to Congress indicating how amounts could be transferred within agencies and departments for fiscal year 2013 to avoid all furloughs or reductions in force.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting America’s Civilian Employees Act” or the “PACE Act”.
+
+## § 2. OMB report to Congress
+
+The Director of the Office of Management and Budget shall prepare and submit a report to Congress indicating how amounts could be transferred within agencies and departments for fiscal year 2013 to avoid all furloughs or reductions in force without increasing the deficit of the Government for that fiscal year.
+
+## § 3. Timeline
+
+The report described in section 1 shall be submitted to the Congress not later than 30 days after the date of enactment of this Act.
