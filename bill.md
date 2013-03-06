@@ -1,0 +1,18 @@
+---
+legis-num: S. 481
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 481
+
+> To require the Federal Communications Commission to direct that wireless providers permit the unlocking of mobile devices.
+
+## § 1. Short title
+
+This Act may be cited as the “Wireless Consumer Choice Act”.
+
+## § 2. FCC direction to wireless providers
+
+Pursuant to its authorities under title III of the Communications Act of 1934 (47 U.S.C. 301 et seq.), the Federal Communications Commission, not later than 180 days after the date of enactment of this Act, shall direct providers of commercial mobile services and commercial mobile data services to permit the subscribers of such services, or the agent of such subscribers, to unlock any type of wireless device used to access such services. Nothing in this Act alters, or shall be construed to alter, the terms of any valid contract between a provider and a subscriber.
