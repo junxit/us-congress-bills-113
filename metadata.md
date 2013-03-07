@@ -1,7 +1,7 @@
 ---
 measure: H.R. 338
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 338
@@ -23,9 +23,10 @@ Stop Tobacco Smuggling in the Territories Act of 2013
 - Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ Stop Tobacco Smuggling in the Territories Act of 2013
 - 2013-03-05 — Mr. Goodlatte moved to suspend the rules and pass the bill.
 - 2013-03-05 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 5 (Roll no. 58). (text: CR H965)
 - 2013-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 5 (Roll no. 58).(text: CR H965)
+- 2013-03-07 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
