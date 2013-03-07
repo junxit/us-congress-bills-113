@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 20
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 20
@@ -33,3 +33,6 @@ Permitting the use of the rotunda of the Capitol for a ceremony to award the Con
 - 2013-03-06 — On agreeing to the resolution Agreed to without objection. (text: CR H997)
 - 2013-03-06 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H997)
 - 2013-03-07 — Received in the Senate.
+- 2013-03-11 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S1668)
+- 2013-03-11 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S1668)
+- 2013-03-12 — Message on Senate action sent to the House.
