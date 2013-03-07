@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 14
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 14
@@ -38,3 +38,4 @@ Permitting the use of the rotunda of the Capitol for a ceremony as part of the c
 - 2013-03-06 — Mr. Harper asked unanimous consent to discharge from committee and consider.
 - 2013-03-06 — On agreeing to the resolution Agreed to without objection. (text: CR H997)
 - 2013-03-06 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H997)
+- 2013-03-07 — Received in the Senate.
