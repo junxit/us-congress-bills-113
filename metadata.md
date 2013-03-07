@@ -1,7 +1,7 @@
 ---
 measure: H.R. 933
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 933
@@ -47,3 +47,4 @@ Consolidated and Further Continuing Appropriations Act, 2013
 - 2013-03-06 — Rule provides for consideration of H.R. 933 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The resolution waives all points of order against consideration of the bill. The resolution waives all points of order against provisions in the bill, as amended.
 - 2013-03-06 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1315)
 - 2013-03-06 — The previous question was ordered pursuant to the rule. (consideration: CR H1314)
+- 2013-03-07 — Received in the Senate. Read twice., and ordered Placed on Senate Legislative Calendar under General Orders. Calendar No. 21.
