@@ -1,7 +1,7 @@
 ---
 measure: H.R. 668
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 668
@@ -25,9 +25,10 @@ To amend section 1105(a) of title 31, United States Code, to require that annual
 - Rep. Cramer, Kevin [R-ND-At Large] (C001096)
 - Rep. Rice, Tom [R-SC-7] (R000597)
 
-## Committees (1)
+## Committees (2)
 
 - House — Budget Committee
+- Senate — Budget Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ To amend section 1105(a) of title 31, United States Code, to require that annual
 - 2013-03-05 — Mr. Messer moved to suspend the rules and pass the bill.
 - 2013-03-05 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 28, 1 Present (Roll no. 57). (text: CR H958-959)
 - 2013-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 28, 1 Present (Roll no. 57).(text: CR H958-959)
+- 2013-03-07 — Received in the Senate and Read twice and referred to the Committee on the Budget.
