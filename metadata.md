@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 12
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 12
@@ -43,3 +43,5 @@ A resolution recognizing the third anniversary of the tragic earthquake in Haiti
 - 2013-02-14 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment and with an amended preamble. Without written report.
 - 2013-02-14 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment and with an amended preamble. Without written report.
 - 2013-02-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 15.
+- 2013-03-11 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S1668-1669; text as passed Senate: CR S1668-1669)
+- 2013-03-11 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S1668-1669; text as passed Senate: CR S1668-1669)
