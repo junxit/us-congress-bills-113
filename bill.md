@@ -1,0 +1,24 @@
+---
+legis-num: S. 514
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 514
+
+> To amend title 38, United States Code, to provide additional educational assistance under Post-9/11 Educational Assistance to veterans pursuing a degree in science, technology, engineering, math, or an area that leads to employment in a high-demand occupation, and for other purposes.
+
+## § 1. Additional assistance under Post-9/11 Educational Assistance for veterans pursuing a degree in science, technology, engineering, math, or an area leading to employment in a high-demand occupation
+
+- **(a)** *In general* Subchapter II of chapter 33 of title 38, United States Code, is amended by inserting after section 3316 the following new section:
+  > ## § 3316A. Additional educational assistance for veterans pursuing a degree in science, technology, engineering, math, or an area leading to employment in a high-demand occupation
+  >
+  > - **(a)** *In general*
+  >   - **(1)** The Secretary may pay to an individual entitled to educational assistance under this chapter who is pursuing a program of education described in subsection (b) such additional amount as the Secretary considers appropriate.
+  >   - **(2)** Amounts payable to an individual under this section are in addition to any other amounts payable to such individual under this chapter.
+  > - **(b)** *Covered programs of education* A program of education described in this subsection is a program of education with a focus (as determined in accordance with regulations prescribed by the Secretary for purposes of this section) on—
+  >   - **(1)** science, technology, engineering, or math; or
+  >   - **(2)** such other academic discipline as the Secretary determines leads to employment in a high-demand occupation.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 30 of such title is amended by inserting after the item relating to section 3020 the following new item:
