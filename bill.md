@@ -1,0 +1,24 @@
+---
+legis-num: H. RES. 108
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 108
+
+> Recognizing the 50th anniversary of the landmark case Gideon v. Wainwright, in which the Supreme Court held that counsel must be provided to indigent defendants in all felony cases.
+
+## Preamble
+
+- Whereas, on March 18, 1963, the Supreme Court recognized in Gideon v. Wainwright that counsel must be provided to indigent defendants in all felony cases;
+- Whereas the Supreme Court held that providing counsel to indigent defendants in all felony cases meets the essential requirements of the 6th amendment to the United States Constitution;
+- Whereas the Supreme Court held in Argersinger v. Hamlin that indigent defendants are entitled, under the 6th amendment to the United States Constitution, to court-appointed counsel in all cases where imprisonment is a possibility;
+- Whereas 50 years after the Gideon v. Wainwright decision, excessive caseloads are preventing counsel for indigent defendants from providing quality representation; and
+- Whereas the provision of counsel to indigent defendants often lacks fairness and increases the risk that poor people will be wrongfully convicted: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** recognizes and honors the 50th anniversary of the decision in Gideon v. Wainwright;
+- **(2)** encourages all people in the United States to recognize and honor the 50th anniversary of the Gideon v. Wainwright decision; and
+- **(3)** supports strategies to improve the criminal justice system to ensure that indigent defendants in all felony cases are adequately represented by counsel.
