@@ -1,7 +1,7 @@
 ---
 measure: S. 166
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 166
@@ -22,9 +22,10 @@ A bill to designate the new Interstate Route 70 bridge over the Mississippi Rive
 - Sen. Blunt, Roy [R-MO] (B000575)
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ A bill to designate the new Interstate Route 70 bridge over the Mississippi Rive
 - 2013-03-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S1668)
 - 2013-03-11 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S1668)
 - 2013-03-11 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S1668)
+- 2013-03-12 — Message on Senate action sent to the House.
+- 2013-03-12 — Received in the House.
+- 2013-03-12 — Referred to the House Committee on Transportation and Infrastructure.
