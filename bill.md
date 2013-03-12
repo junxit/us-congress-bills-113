@@ -1,0 +1,33 @@
+---
+legis-num: H.R. 1066
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1066
+
+> To amend the Indian Arts and Crafts Act to clarify the definition of Indian and Indian organization for the purposes of that Act.
+
+## § 1. Definitions
+
+Section 6(a) of the Act entitled “An Act to promote the development of Indian arts and crafts and to create a board to assist therein, and for other purposes” (25 U.S.C. 305e(a)) is amended as follows:
+
+- **(1)** By striking paragraph (1) and inserting the following:
+  > - **(1)** *Indian* The term Indian means an individual that—
+  >   - **(A)** is a member of an Indian tribe;
+  >   - **(B)** is certified as an Indian artisan by an Indian tribe;
+  >   - **(C)** is a member of an Indian organization and who—
+  >     - **(i)** resides in the State in which the Indian organization is chartered and head­quar­tered; and
+  >     - **(ii)** is a direct lineal descendant of a person listed on the base roll of an Indian tribe, whether or not such individual qualifies for membership in the Indian tribe; or
+  >   - **(D)** is a member of an Indian organization and who—
+  >     - **(i)** resides in the State in which the Indian organization is chartered and head­quar­tered; and
+  >     - **(ii)** is a direct lineal descendant of a person listed on a judgment fund distribution list, roll, or census of Indians or other document prepared and approved by the Secretary of the Interior or the Secretary’s authorized representative, whether or not such judgment fund distribution list, roll, census or document is used by an Indian tribe to determine membership.
+
+- **(2)** By adding at the end the following:
+  > - **(5)** *Indian organization* The term Indian organization means a nonprofit organization that—
+  >   - **(A)** is chartered as a section 501(c)(3) organization with the State in which the organization is headquartered;
+  >   - **(B)** is recognized by a State legislative body as an Indian organization or group, in which a majority of its members are recognized as Indians, whether or not such organization is recognized as a State or federally recognized tribe;
+  >   - **(C)** is dedicated to preserving Native American principles, traditions, culture, history, language, and arts;
+  >   - **(D)** performs free genealogical information on its members to verify that an individual meets the definition of Indian as defined in this Act; and
+  >   - **(E)** retains genealogical information collected on its members for verification.
