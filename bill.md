@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Preserving Work Requirements for Welfare Programs Act of 2013”.
+This Act may be cited as the “Preserving the Welfare Work Requirement and TANF Extension Act of 2013”.
 
 ## § 2. Prohibition on TANF waivers relating to compliance with the TANF work requirements
 
@@ -19,3 +19,11 @@ This Act may be cited as the “Preserving Work Requirements for Welfare Program
   - **(1)** Finalize, implement, enforce, or otherwise take any action to give effect to the Information Memorandum dated July 12, 2012 (Transmittal No. TANF–ACF–IM–2012–03), or to any administrative action relating to the same subject matter set forth in the Information Memorandum or that reflects the same or similar policies as those set forth in the Information Memorandum.
   - **(2)** Authorize, approve, renew, modify, or extend any experimental, pilot, or demonstration project under section 1115 of the Social Security Act (42 U.S.C. 1315) that waives compliance with a requirement of section 407 of such Act (42 U.S.C. 607) through a waiver of section 402 of such Act (42 U.S.C. 602) or that provides authority for an expenditure which would not otherwise be an allowable use of funds under a State program funded under part A of title IV of such Act (42 U.S.C. 601 et seq.) with respect to compliance with the work requirements in section 407 of such Act to be regarded as an allowable use of funds under that program for any period.
 - **(b)** *Rescission of waivers* Any waiver relating to the subject matter set forth in the Information Memorandum or described in subsection (a)(2) that is granted before the date of the enactment of this Act is hereby rescinded and shall be null and void.
+
+## § 3. Extension of the temporary assistance for needy families program and related programs through December 31, 2013
+
+Activities authorized by part A of title IV and section 1108(b) of the Social Security Act (other than under section 403(b) of such Act) shall continue through December 31, 2013, in the manner authorized for fiscal year 2012, and out of any money in the Treasury of the United States not otherwise appropriated, there are hereby appropriated such sums as may be necessary for such purpose. Grants and payments may be made pursuant to this authority on a quarterly basis through the first quarter of fiscal year 2014 at the level provided for such activities for the corresponding quarter of fiscal year 2012.
+
+## § 4. Budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.
