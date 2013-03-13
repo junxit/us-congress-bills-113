@@ -1,7 +1,7 @@
 ---
 measure: H.R. 592
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 5122` | amend | Section 102(10)(B) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122(10)(B)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5172` | add-at-end | Section 406(a)(3) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5172(a)(3)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5122` | add-at-end | Section 406(a)(3) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5172(a)(3)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

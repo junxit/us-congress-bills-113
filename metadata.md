@@ -1,7 +1,7 @@
 ---
 measure: H.R. 592
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 592
@@ -28,9 +28,10 @@ Federal Disaster Assistance Nonprofit Fairness Act of 2013
 - Rep. Franks, Trent [R-AZ-8] (F000448)
 - Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,5 @@ Federal Disaster Assistance Nonprofit Fairness Act of 2013
 - 2013-02-13 — Mr. Barletta moved to suspend the rules and pass the bill.
 - 2013-02-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 354 - 72 (Roll no. 39). (text: CR H465)
 - 2013-02-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 354 - 72 (Roll no. 39).(text: CR H465)
+- 2013-02-14 — Received in the Senate.
+- 2013-03-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
