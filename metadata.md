@@ -1,7 +1,7 @@
 ---
 measure: H.R. 749
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 749
@@ -92,9 +92,10 @@ Eliminate Privacy Notice Confusion Act
 - Rep. Chabot, Steve [R-OH-1] (C000266)
 - Rep. Hultgren, Randy [R-IL-14] (H001059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -107,3 +108,4 @@ Eliminate Privacy Notice Confusion Act
 - 2013-03-12 — Mr. Luetkemeyer moved to suspend the rules and pass the bill.
 - 2013-03-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1337)
 - 2013-03-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1337)
+- 2013-03-13 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
