@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1035
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1035
@@ -21,9 +21,10 @@ To require a study of voluntary community-based flood insurance options and how 
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ To require a study of voluntary community-based flood insurance options and how 
 - 2013-03-12 — Mr. Luetkemeyer moved to suspend the rules and pass the bill.
 - 2013-03-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 17 (Roll no. 63). (text: CR H1339)
 - 2013-03-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 17 (Roll no. 63).(text: CR H1339)
+- 2013-03-13 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
