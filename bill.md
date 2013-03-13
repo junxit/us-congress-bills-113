@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 1110
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1110
+
+> To amend the Tsunami Warning and Education Act to direct the Administrator of the National Oceanic and Atmospheric Administration, through the National Weather Service, to establish, maintain, and operate an additional tsunami forecast and warning center for the improvement of the evaluation of tsunami risk to, and the dissemination of forecasts and tsunami warning bulletins for, the public in Puerto Rico and the United States Virgin Islands.
+
+## § 1. Short title
+
+This Act may be cited as the “Tsunami Forecasting and Warning Improvement Act of 2013”.
+
+## § 2. Improvement of Tsunami Forecasting and Warning Program
+
+- **(a)** *In general* Section 4(d)(1) of the Tsunami Warning and Education Act (33 U.S.C. 3203(d)(1)) is amended—
+  - **(1)** in subparagraph (B) by striking “and” after the semicolon;
+  - **(2)** by redesignating subparagraph (C) as subparagraph (D); and
+  - **(3)** by inserting after subparagraph (B) the following:
+    > - **(C)** a Caribbean Tsunami Warning Center in Puerto Rico; and
+
+- **(b)** *Effective date* The amendments in subsection (a) shall apply 90 days after the date of enactment of this Act.
