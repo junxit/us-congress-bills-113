@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 1112
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1112
+
+> To direct the Securities and Exchange Commission to revise its reporting requirements to require public companies to report certain expenditures made to influence public opinion on any matter other than the promotion of the company’s products or services.
+
+## § 1. Short title
+
+This Act may be cited as the “Corporate Propaganda Sunshine Act”.
+
+## § 2. Reporting of expenditures
+
+Not later than 30 days after the date of enactment of this Act, the Securities and Exchange Commission shall revise its regulations issued pursuant to sections 13 and 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m and 78o(d)) to require that issuers include in the reports required under those sections any expenditure or series of expenditures of the issuer totaling $1,000 or more made for the purpose of influencing public opinion on any matter other than the promotion of the issuer’s products or services. Such disclosures shall include the date, amount, and purpose of the expenditure and identify (by name, address, and phone number) the person to whom it was made.
