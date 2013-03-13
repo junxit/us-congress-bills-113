@@ -1,0 +1,31 @@
+---
+legis-num: S. 542
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 542
+
+> To provide limitations on maritime liens on fishing licenses and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Maritime Lien Reform Act of 2013”.
+
+## § 2. Limitation on maritime liens on fishing license and license description
+
+- **(a)** *In general* Subchapter I of chapter 313 of title 46, United States Code, is amended by adding at the end the following:
+  > ## § 31310. Limitation on maritime liens on fishing license and license description
+  >
+  > - **(a)** *In general* This chapter—
+  >   - **(1)** does not establish a maritime lien on a license that—
+  >     - **(A)** authorizes a person or use of a vessel to engage in fishing; and
+  >     - **(B)** is issued under State or Federal law; and
+  >   - **(2)** does not authorize any civil action to enforce a maritime lien on such a license.
+  > - **(b)** *Fishing license described* A fishing license—
+  >   - **(1)** is governed solely by the State or Federal law under which it was issued; and
+  >   - **(2)** is not included in the whole of a vessel or as an appurtenance or intangible of a vessel for any purpose.
+  > - **(c)** *Limitation on statutory construction* Nothing in subsections (a) and (b) shall be construed as imposing any limitation upon the authority of the Secretary of Commerce to modify, suspend, revoke, or sanction any Federal fishery license issued by the Secretary of Commerce or to bring a civil action to enforce such modification, suspension, revocation, or sanction.
+
+- **(b)** *Table of sections amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 31309 the following:
