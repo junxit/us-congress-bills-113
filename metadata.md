@@ -1,7 +1,7 @@
 ---
 measure: H.R. 890
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 890
@@ -42,10 +42,11 @@ Preserving the Welfare Work Requirement and TANF Extension Act of 2013
 - Rep. Carter, John R. [R-TX-31] (C001051)
 - Rep. Rokita, Todd [R-IN-4] (R000592)
 
-## Committees (2)
+## Committees (3)
 
 - House — Education and the Workforce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (2)
 
@@ -78,3 +79,4 @@ Preserving the Welfare Work Requirement and TANF Extension Act of 2013
 - 2013-03-13 — Rule provides for consideration of H.R. 890 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-3 shall be considered as adopted. All points of order against provisions in the bill, as amended, are waived.
 - 2013-03-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1383)
 - 2013-03-13 — The previous question was ordered pursuant to the rule. (consideration: CR H1382)
+- 2013-03-14 — Received in the Senate and Read twice and referred to the Committee on Finance.
