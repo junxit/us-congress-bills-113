@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 1192
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1192
+
+> To redesignate Mammoth Peak in Yosemite National Park as Mount Jessie Benton Frémont.
+
+## § 1. Findings
+
+Congress finds that Jessie Benton Frémont—
+
+- **(1)** was the daughter of United States Senator Thomas Hart Benton of Missouri, a leading proponent of the concept of Manifest Destiny that advocated for the Nation to expand its borders westward;
+- **(2)** became fluent in French and Spanish, was a gifted writer, and was at ease in any political discussion;
+- **(3)** married John C. Frémont, who was assigned to explore the West;
+- **(4)** transformed John C. Frémont’s descriptions from his treks into prose that was used by pioneers to guide their route West;
+- **(5)** traveled to California in 1849 to join her husband at their Mariposa ranch, where gold had been discovered;
+- **(6)** became involved in John C. Frémont’s 1856 campaign for Presidency, which proposed the abolition of slavery, a notion that Jessie Benton Frémont also supported;
+- **(7)** moved to Bear Valley, California, with her husband John C. Frémont in 1858 and thereafter realized the need to preserve the land that would become Yosemite National Park for future generations;
+- **(8)** entertained men such as Horace Greeley, Thomas Starr King, and United States Senator Edward Baker of Oregon, and urged them to begin a process that ultimately led to the establishment of Yosemite National Park;
+- **(9)** influenced President Abraham Lincoln to sign the Act entitled “An Act authorizing a Grant to the State of California of the Yo-Semite Valley and of the Land embracing the Mariposa Big Tree Grove”, approved June 30, 1864 (commonly known as the Yosemite Grant), the first instance of land being set aside specifically for its preservation and public use by a national government; and
+- **(10)** set the foundation for the creation of national parks and California State parks through her advocacy for and influence on the Yosemite Grant.
+
+## § 2. Redesignation of Mammoth Peak as Mount Jessie Benton Frémont
+
+- **(a)** *In General* The peak known as Mammoth Peak in Yosemite National Park (located at NPS coordinates 37.855° N, -119.264° W) shall be redesignated as Mount Jessie Benton Frémont and may be known informally as Mt. Jessie in honor of the contributions of Jessie Benton Frémont to the approval of the Yosemite Grant.
+- **(b)** *References* Any reference in a law, map, regulation, document, record, or other paper of the United States to the peak described in subsection (a) shall be considered to be a reference to Mount Jessie Benton Frémont.
