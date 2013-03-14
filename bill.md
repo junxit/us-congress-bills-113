@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 1171
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1171
+
+> To amend title 40, United States Code, to improve veterans service organizations access to Federal surplus personal property.
+
+## § 1. Short title
+
+This Act may be cited as the “Formerly Owned Resources for Veterans to Express Thanks for Service Act of 2013” or the “FOR VETS Act of 2013”.
+
+## § 2. Veterans access to Federal excess and surplus personal property
+
+Section 549(c)(3) of title 40, United States Code, is amended—
+
+- **(1)** in subparagraph (A), by striking “or” at the end;
+- **(2)** in subparagraph (B)—
+  - **(A)** in clause (viii), by adding “or” at the end; and
+  - **(B)** by striking clause (x); and
+- **(3)** by adding at the end the following:
+  > - **(C)** for purposes of providing services to veterans (as defined in section 101 of title 38), to an organization whose—
+  >   - **(i)** membership comprises substantially veterans; and
+  >   - **(ii)** representatives are recognized by the Secretary of Veterans Affairs under section 5902 of title 38.
