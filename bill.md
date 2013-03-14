@@ -289,6 +289,27 @@ Section 501(a)(1) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 
 
 > - **(H)** Compensation for surrendered semiautomatic assault weapons and large capacity ammunition feeding devices, as those terms are defined in section 921 of title 18, United States Code, under buy-back programs for semiautomatic assault weapons and large capacity ammunition feeding devices.
 
-## § 7. Severability
+## § 7. Study by National Institutes of Justice on mass shootings
+
+- **(a)** *In general*
+  - **(1)** *Study* Not later than 90 days after the date of enactment of this Act, the Attorney General shall instruct the Director of the National Institutes of Justice to conduct a peer-reviewed factual study of incidents of mass shootings in the United States. Any studies, research, data, or testimony the Director considers must be peer-reviewed, scientifically and methodologically sound, and otherwise bear the indicia of the highest degree of reliability within the relevant field of expertise.
+  - **(2)** *Report* Not later than 1 year after the date on which the study required under paragraph (1) begins, the Director shall submit to Congress a report detailing the findings of the study.
+- **(b)** *Issues examined* In conducting the study under subsection (a)(1), the Director shall examine the impact, if any, upon perpetrators of mass shooting of each of the following:
+  - **(1)** Childhood abuse or neglect.
+  - **(2)** Exposure to criminal acts, including gang violence.
+  - **(3)** Exposure to bullying.
+  - **(4)** Mental illness.
+  - **(5)** The effectiveness of, and resources available for, the mental health system in understanding, detecting, and countering tendencies toward violence.
+  - **(6)** The availability of mental health and other resources and strategies to help families detect and counter tendencies toward violence.
+  - **(7)** Familial relationships, including the level of involvement and awareness of parents in the lives of their children.
+  - **(8)** School supportiveness, including the level of involvement and awareness of teachers and school administrators in the lives of their students, and the availability of mental health and other resources at schools to help detect and counter tendencies of students toward violence.
+  - **(9)** School performance, academic success and persistence.
+  - **(10)** The nature and impact of the alienation of the perpetrators of such incidents of violence from their schools, families, peer groups, and places of work.
+  - **(11)** The availability and nature of firearms, including the means of acquiring such firearms.
+  - **(12)** The availability of information regarding the construction of weapons, including explosive devices, and any impact of such information on such incidents of violence.
+  - **(13)** Depictions of violence in the video game, media and entertainment industry.
+  - **(14)** Poverty or other socioeconomic factors on creating tendencies toward violence.
+
+## § 78. Severability
 
 If any provision of this Act, an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of such provision or amendment to any person or circumstance shall not be affected thereby.
