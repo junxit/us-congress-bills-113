@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 1181
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1181
+
+> To reduce the annual rate of pay of Members of Congress by 8.2 percent.
+
+## § 1. Short title
+
+This Act may be cited as the “Sequestration of Pay for Members of Congress Act of 2013”.
+
+## § 2. Reduction in pay for Members of Congress
+
+- **(a)** *Reduction in annual rate* Notwithstanding any other provision of law, the annual rate of pay for each Member of Congress for pay periods occurring after the date of the regularly scheduled general election for Federal office held in November 2014 shall be equal to the applicable rate in effect for the most recent pay period occurring prior to such date, reduced by 8.2 percent.
+- **(b)** *Member of Congress defined* For purposes of this Act, the term Member of Congress means an individual serving in a position under subparagraph (A), (B), or (C) of section 601(a)(1) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(1)).
