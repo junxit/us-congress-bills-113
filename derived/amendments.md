@@ -1,7 +1,7 @@
 ---
 measure: H.R. 803
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -206,7 +206,7 @@ to guess them.
 
 ### 29 U.S.C. § 2822
 
-> in subsection (c), by striking “period, that—” all that follows through paragraph (2) and inserting “period, that the plan is inconsistent with the provisions of this title.”; and
+> in subsection (c), by striking “period, that—” and all that follows through paragraph (2) and inserting “period, that the plan is inconsistent with the provisions of this title.”; and
 
 | | |
 |---|---|
@@ -224,12 +224,12 @@ to guess them.
 
 ### 29 U.S.C. § 2831
 
-> by striking “Except as provided in subsection (b), and consistent with paragraphs (2), (3), and (4), in” and inserting “In”; and
+> in paragraph (3) (as so redesignated), by striking “(2) or (3)” both places it appears and inserting “(1)”;
 
 | | |
 |---|---|
-| Removed | `Except as provided in subsection (b), and consistent with paragraphs (2), (3), and (4), in` |
-| Inserted | `In` |
+| Removed | `(2) or (3)` |
+| Inserted | `(1)` |
 
 ### 29 U.S.C. § 2831
 
@@ -530,7 +530,7 @@ to guess them.
 
 ### 29 U.S.C. § 2871
 
-> in clause (ii), by striking “(b)(2)(C)” and inserting “(b)(2)(B)”; and
+> in clause (ii) of paragraph (1)(A), by striking “(b)(2)(C)” and inserting “(b)(2)(B)”; and
 
 | | |
 |---|---|
@@ -836,7 +836,7 @@ to guess them.
 
 ### 29 U.S.C. § 2917
 
-> in subsection (e) is amended by striking “the Committee on Labor and Human Resources of the Senate” and inserting “the Committee on Health, Education, Labor, and Pensions of the Senate”; and
+> in subsection (e) is amended by striking “the Committee on Labor and Human Resources of the Senate” and inserting “the Committee on Health, Education, Labor, and Pensions of the Senate”;
 
 | | |
 |---|---|
@@ -1052,11 +1052,11 @@ to guess them.
 
 ### 8 U.S.C. § 1522
 
-> in paragraph (2)(B), by striking “paragraph—” through “in a manner” and inserting “paragraph in a manner”; and
+> in paragraph (2)(B), by striking “paragraph—” and all that follows through “in a manner” and inserting “paragraph in a manner”; and
 
 | | |
 |---|---|
-| Removed | `paragraph—” through “in a manner` |
+| Removed | `paragraph—” and all that follows through “in a manner` |
 | Inserted | `paragraph in a manner` |
 
 ### 8 U.S.C. § 1522
@@ -1088,11 +1088,11 @@ to guess them.
 
 ### 29 U.S.C. § 2811
 
-> in paragraph (3), by striking “victim services, and employment services” and inserting “and victim services”;
+> in paragraph (3), by striking “victims services, and employment services” and inserting “and victim services”;
 
 | | |
 |---|---|
-| Removed | `victim services, and employment services` |
+| Removed | `victims services, and employment services` |
 | Inserted | `and victim services` |
 
 ### 29 U.S.C. § 2801
@@ -1395,12 +1395,11 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 2011` | amend | by amending clause (iv) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12131` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2011` | redesignate | by striking paragraph (17) (as so redesignated) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 2831` | strike | by striking “127 or”; and | the bill quotes the text struck but describes what replaces it |
-| `29 U.S.C. § 2831` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2831` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2831` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 2831` | replace | by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 2831` | strike | by striking paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 2831` | redesignate | by redesignating paragraph (5) as paragraph (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2831` | strike | by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2831` | strike | by striking paragraph (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2831` | redesignate | by redesignating paragraph (5) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2831` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2831` | add-at-end | in paragraph (1), by adding at the end the following: “The State may require the local boards for the designated region to prepare a single regional plan that incorporates the elements of the local plan under section 118 and that is subm… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2832` | strike | by striking clauses (ii) through (vi); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1483,7 +1482,7 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 720` | insert | by inserting “, such as indicators of poor work experience, dislocation from high-wage employment, low levels of literacy or English proficiency, disability status, including the number of veterans with disabilities, and welfare dependen… | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 720` | redesignate | by striking clause (v) and redesignating clause (vi) as clause (v); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 720` | strike | by striking “or (v)”; and | the bill quotes the text struck but describes what replaces it |
-| `29 U.S.C. § 2871` | amend | by amending clause (i) to read as follows: “(i) the core indicators of performance described in subsection (b)(2)(A) for activities described in such subsections, other than statewide workforce investment activities; and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2871` | amend | by amending clause (i) of paragraph (1)(A) to read as follows: “(i) the core indicators of performance described in subsection (b)(2)(A) for activities described in such subsections, other than statewide workforce investment activities; … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2871` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2871` | strike | by striking “127 or”; | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 2871` | strike | by striking “and the customer satisfaction indicator” each place it appears; and | the bill quotes the text struck but describes what replaces it |
@@ -1550,13 +1549,14 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 2899` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2915` | strike | by striking subsection (b); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2915` | strike | by striking: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 2915` | redesignate | by redesignating paragraphs (1), (2), and (3) as subsections (a), (b), and (c) respectively, and moving such subsections 2 ems to the left; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2915` | redesignate | by redesignating paragraphs (1), (2), and (3) as subsections (a), (b), and (c) respectively, and moving such subsections 2 ems to the left, and conforming the casing style of the headings of such subsections to the casing style of the he… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2915` | insert | by inserting “the training of staff providing rapid response services, the training of other staff of recipients of funds under this title, assistance regarding accounting and program operation practices (when such assistance would not b… | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 2915` | strike | by striking “, or recipient of financial assistance under any of sections 166 through 169,”; and | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 2915` | strike | by striking “or grant recipient”; | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 2915` | redesignate | by inserting, after subsection (c) (as so redesignated), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2917` | amend | in subsection (a)(4) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2917` | amend | in subsection (c) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2917` | redesignate | by redesignating subsection (f) as subsection (g) and inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2917` | add-at-end | by adding at the end, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2931` | strike | in subsection (b)(6), by striking “, including representatives of businesses and of labor organizations”; | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 5313` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1621,7 +1621,7 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 2801` | strike | by striking paragraphs (5), (6), and (7); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2801` | redesignate | by redesignating paragraph (8) as paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2801` | strike | by striking subsections (c) and (h); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 2801` | redesignate | by redesignating subsection (d), (e), (f), and (g) as subsection (c), (d), (e), and (f); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2801` | redesignate | by redesignating subsections (d), (e), (f), and (g) as subsections (c), (d), (e), and (f); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2801` | strike | by striking “, including disabled veterans’ outreach program specialists and local veterans' employment representatives providing employment, training, and placement services under this chapter in a State”; and | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 2801` | strike | by striking “for purposes of subsection (c)”. | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 2801` | redesignate | by striking paragraph (2) and redesignating paragraph (3) as paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
