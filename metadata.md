@@ -1,7 +1,7 @@
 ---
 measure: H.R. 803
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 803
@@ -42,7 +42,7 @@ Workforce Innovation and Opportunity Act
 - Rep. Flores, Bill [R-TX-17] (F000461)
 - Rep. Kelly, Mike [R-PA-3] (K000376)
 
-## Committees (6)
+## Committees (7)
 
 - House — Transportation and Infrastructure Committee
 - House — Energy and Commerce Committee
@@ -50,6 +50,7 @@ Workforce Innovation and Opportunity Act
 - House — Agriculture Committee
 - House — Judiciary Committee
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (3)
 
@@ -144,3 +145,4 @@ Workforce Innovation and Opportunity Act
 - 2013-03-15 — The Speaker designated the Honorable Ileana Ros-Lehtinen to act as Chairwoman of the Committee.
 - 2013-03-15 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1528)
 - 2013-03-15 — The previous question was ordered pursuant to the rule. (consideration: CR H1527)
+- 2013-03-18 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
