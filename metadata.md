@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 115
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 115
@@ -25,3 +25,7 @@ Providing for the expenses of certain committees of the House of Representatives
 - 2013-03-13 — Introduced in House
 - 2013-03-13 — Introduced in House
 - 2013-03-13 — Referred to the House Committee on House Administration.
+- 2013-03-18 — Placed on the House Calendar, Calendar No. 11.
+- 2013-03-18 — Reported by the Committee on House Administration. H. Rept. 113-20.
+- 2013-03-18 — Reported by the Committee on House Administration. H. Rept. 113-20.
+- 2013-03-18 — Rules Committee Resolution H. Res. 122 Reported to House. Resolution provides for consideration of H. Con. Res. 25 and for H. Res. 115. For H. Con. Res. 25, the resolution makes in order 4 hours of general debate, equally divided and controlled. Specified amendments are in order. For H. Res. 115, the resolution provides one hour of debate with one motion to recommit, without instructions.
