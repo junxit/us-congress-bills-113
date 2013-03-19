@@ -1,0 +1,23 @@
+---
+legis-num: H. RES. 129
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 129
+
+> Expressing the sense of the House of Representatives that the Congress should not pass any legislation that would tax or confiscate personal savings accounts, including retirement accounts such as Individual Retirement Accounts (IRAs) and 401k plans, certificates of deposit (CDs), or other personal savings to provide financial relief for private businesses.
+
+## Preamble
+
+- Whereas the personal savings and retirement accounts of the American public are the personal property of their owners;
+- Whereas personal savings and retirement accounts are used by millions of Americans to fund their retirement, their children’s education, their purchase of a family home, and other uses according to their pursuit of happiness;
+- Whereas the United States Government should not abuse its power by substituting political priorities for the personal economic choices of millions of individual Americans;
+- Whereas previous attempts to use taxpayer money to provide financial relief to troubled industries has failed to produce economic recovery and has undermined the American system of economic freedom; and
+- Whereas the American system of economic freedom has given millions of ordinary people the opportunity to pursue economic success and their American dream: Now, therefore, be it
+
+That it is the sense of the House of Representatives that the Congress should—
+
+- **(1)** refrain from considering or adopting any legislation that would tax or confiscate any or all personal savings held by the American people, including retirement accounts such as Individual Retirement Accounts (IRAs) and 401k plans, certificates of deposit (CDs), or other personal savings and assets; and
+- **(2)** refrain from considering or adopting any legislation to provide financial relief to a private business or general sector of the American economy at taxpayer expense.
