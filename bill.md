@@ -1,0 +1,35 @@
+---
+legis-num: H.R. 1245
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1245
+
+> To amend title 49, United States Code, to require that individuals seeking training in the operation of certain aircraft be checked against the terrorist watchlist to ensure that such individuals are non-threats to aviation.
+
+## § 1. Short title
+
+This Act may be cited as the “Flight School Security Act of 2013”.
+
+## § 2. Requirement that individuals seeking flight training are checked against the terrorist watchlist
+
+- **(a)** *In general* Section 44939 of title 49, United States Code, is amended—
+  - **(1)** in subsection (a)—
+    - **(A)** by redesignating subparagraphs (A) through (F) of paragraph (1) as clauses (i) through (vi), respectively;
+    - **(B)** by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively;
+    - **(C)** by striking “12,500 pounds” and inserting “12,500 pounds—”;
+    - **(D)** by inserting before subparagraph (A), as redesignated by paragraph (2) of this subsection, a new paragraph (2);
+    - **(E)** by moving the text beginning with “to an” and all that follows through “only if—” to such paragraph (2);
+    - **(F)** by inserting before such paragraph (2) the following new paragraph (1):
+      > - **(1)** to an individual seeking such training who does not hold a valid airman’s certification issued by the Federal Aviation Administration only upon receipt of information from the Assistant Secretary that—
+      >   - **(A)** the individual has been checked against the terrorist watchlist to ascertain if the individual may pose a threat to aviation or national security or a threat of terrorism; and
+      >   - **(B)** the Assistant Secretary has determined that the individual does not pose a threat that warrants denial of access to such training; and
+
+    - **(G)** in the subsection heading by striking “Waiting period.—” and inserting “Requirements; waiting period.—”; and
+  - **(2)** by adding at the end the following new subsection:
+    > - **(j)** *Annual report* Not later than March 1 of each year, the Secretary shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the total number of individuals checked against the terrorist watchlist and total number of individuals denied access to flight training during the calendar year preceding the year in which the report is submitted, in accordance with this section.
+
+- **(b)** *Conforming amendment* Subparagraph (B) of paragraph (2) of subsection (a) of section 44949, as redesignated by subsection (a), is amended by striking “paragraph (1)” and inserting “subparagraph (A)”.
+- **(c)** *Clerical amendment* The amendments made by subsection (a) shall apply with respect to an individual seeking flight training on or after the date of the enactment of this Act.
