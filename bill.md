@@ -2,7 +2,7 @@
 legis-num: H. CON. RES. 19
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H. CON. RES. 19

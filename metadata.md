@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 19
 congress: 113
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 19
@@ -54,3 +54,4 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2013-03-18 — Placed on the House Calendar, Calendar No. 10.
 - 2013-03-18 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-19.
 - 2013-03-18 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-19.
+- 2013-03-19 — Received in the Senate.
