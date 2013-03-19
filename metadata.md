@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 18
 congress: 113
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 18
@@ -48,3 +48,4 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers' Memo
 - 2013-03-18 — Placed on the House Calendar, Calendar No. 9.
 - 2013-03-18 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-18.
 - 2013-03-18 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-18.
+- 2013-03-19 — Received in the Senate.
