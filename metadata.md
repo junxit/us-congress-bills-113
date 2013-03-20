@@ -1,7 +1,7 @@
 ---
 measure: H.R. 933
 congress: 113
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 933
@@ -16,15 +16,253 @@ Consolidated and Further Continuing Appropriations Act, 2013
 
 - Rep. Rogers, Harold [R-KY-5] (R000395)
 
+## Cosponsors (224)
+
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cowan, William M. [D-MA] (C001099)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Cowan, William M. [D-MA] (C001099)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Franken, Al [D-MN] (F000457)
+
 ## Committees (2)
 
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (2)
+## Recorded votes (13)
 
 - 2013-03-06 — [House 113-1-61](votes/house-113-1-0061.md) — On Motion to Recommit with Instructions — **Failed** (188–231)
 - 2013-03-06 — [House 113-1-62](votes/house-113-1-0062.md) — On Passage — **Passed** (267–151)
+- 2013-03-13 — [Senate 113-1-34](votes/senate-113-1-0034.md) — On the Amendment — **Amendment Rejected** (45–52)
+- 2013-03-13 — [Senate 113-1-35](votes/senate-113-1-0035.md) — On the Motion to Table — **Motion to Table Failed** (48–50)
+- 2013-03-14 — [Senate 113-1-36](votes/senate-113-1-0036.md) — On the Amendment — **Amendment Rejected** (54–45)
+- 2013-03-14 — [Senate 113-1-37](votes/senate-113-1-0037.md) — On the Amendment — **Amendment Rejected** (45–54)
+- 2013-03-18 — [Senate 113-1-38](votes/senate-113-1-0038.md) — On the Cloture Motion — **Cloture Motion Agreed to** (63–35)
+- 2013-03-20 — [Senate 113-1-39](votes/senate-113-1-0039.md) — On the Amendment — **Amendment Rejected** (48–51)
+- 2013-03-20 — [Senate 113-1-40](votes/senate-113-1-0040.md) — On the Amendment — **Amendment Rejected** (45–54)
+- 2013-03-20 — [Senate 113-1-41](votes/senate-113-1-0041.md) — On the Amendment — **Amendment Rejected** (40–59)
+- 2013-03-20 — [Senate 113-1-42](votes/senate-113-1-0042.md) — On the Amendment — **Amendment Agreed to** (70–29)
+- 2013-03-20 — [Senate 113-1-43](votes/senate-113-1-0043.md) — On the Cloture Motion — **Cloture Motion Agreed to** (63–36)
+- 2013-03-20 — [Senate 113-1-44](votes/senate-113-1-0044.md) — On Passage of the Bill — **Bill Passed** (73–26)
 
 ## Actions
 
@@ -48,3 +286,224 @@ Consolidated and Further Continuing Appropriations Act, 2013
 - 2013-03-06 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1315)
 - 2013-03-06 — The previous question was ordered pursuant to the rule. (consideration: CR H1314)
 - 2013-03-07 — Received in the Senate. Read twice., and ordered Placed on Senate Legislative Calendar under General Orders. Calendar No. 21.
+- 2013-03-11 — Senate amendment submitted
+- 2013-03-12 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S1703; text: CR S1703)
+- 2013-03-12 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1683, S1683-1703)
+- 2013-03-12 — Senate amendment submitted
+- 2013-03-12 — Senate amendment submitted
+- 2013-03-12 — Senate amendment submitted
+- 2013-03-12 — Senate amendment submitted
+- 2013-03-12 — Senate amendment submitted
+- 2013-03-13 — Amendment SA 26 proposed by Senator Reid for Senator Mikulski. (consideration: CR S1719-1724) In the nature of a substitute.
+- 2013-03-13 — Amendment SA 29 proposed by Senator Inhofe to Amendment SA 26. (consideration: CR S1773-1782; text: CR S1774) To prohibit the expenditure of Federal funds to enforce the Spill Prevention, Control, and Countermeasure rule of the Environmental Protection Agency against farmers.
+- 2013-03-13 — Amendment SA 30 not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 34.
+- 2013-03-13 — Amendment SA 30 proposed by Senator Cruz to Amendment SA 26. (consideration: CR S1724-1741; text: CR S1724) To prohibit the use of funds to carry out the Patient Protection and Affordable Care Act.
+- 2013-03-13 — Amendment SA 33 agreed to in Senate by Voice Vote.
+- 2013-03-13 — Amendment SA 33 proposed by Senator McCain to Amendment SA 26. (consideration: CR S1768-1773; text: CR S1769) To strike certain authorities relating to the use for grants of funds of the Office of Economic Assistance of the Department of Defense.
+- 2013-03-13 — Amendment SA 53 proposed by Senator Harkin to Amendment SA 26. (consideration: CR S1741-1768) Of a perfecting nature.
+- 2013-03-13 — Cloture motion on amendment SA 26 presented in Senate. (consideration: CR S1782; text: CR S1782)
+- 2013-03-13 — Cloture motion on the bill presented in Senate. (consideration: CR S1782; text: CR S1782)
+- 2013-03-13 — Cloture motion on the motion to proceed withdrawn by unanimous consent in Senate. (consideration: CR S1720)
+- 2013-03-13 — Measure laid before Senate by motion. (consideration: CR S1719-1782)
+- 2013-03-13 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent. (consideration: CR S1719)
+- 2013-03-13 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1718-1719)
+- 2013-03-13 — Motion to table amendment SA 33 rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 35. (consideration: CR S1773)
+- 2013-03-13 — Roll call votes on amendments in Senate: Amendment SA 30 not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 34.
+- 2013-03-13 — Roll call votes on amendments in Senate: Motion to table amendment SA 33 rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 35.(consideration: CR S1773)
+- 2013-03-13 — Senate amendment agreed to: Amendment SA 33 agreed to in Senate by Voice Vote.
+- 2013-03-13 — Senate amendment not agreed to: Amendment SA 30 not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 34.
+- 2013-03-13 — Senate amendment proposed (on the floor): Amendment SA 26 proposed by Senator Reid for Senator Mikulski.(consideration: CR S1719-1724)
+- 2013-03-13 — Senate amendment proposed (on the floor): Amendment SA 26 proposed by Senator Reid for Senator Mikulski.(consideration: CR S1719-1724)
+- 2013-03-13 — Senate amendment proposed (on the floor): Amendment SA 29 proposed by Senator Inhofe to Amendment SA 26.(consideration: CR S1773-1782; text: CR S1774)
+- 2013-03-13 — Senate amendment proposed (on the floor): Amendment SA 30 proposed by Senator Cruz to Amendment SA 26.(consideration: CR S1724-1741; text: CR S1724)
+- 2013-03-13 — Senate amendment proposed (on the floor): Amendment SA 33 proposed by Senator McCain to Amendment SA 26.(consideration: CR S1768-1773; text: CR S1769)
+- 2013-03-13 — Senate amendment proposed (on the floor): Amendment SA 53 proposed by Senator Harkin to Amendment SA 26.(consideration: CR S1741-1768)
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-13 — Senate amendment submitted
+- 2013-03-14 — Amendment SA 115 proposed by Senator Toomey to Amendment SA 26. (consideration: CR S1840-1843, S1846-1847; text: CR S1840) To increase by $25,000,000 the amount appropriated for Operation and Maintenance for the Department of Defense for programs, projects, and activities in the continental United States, and to provide an offset.
+- 2013-03-14 — Amendment SA 123 proposed by Senator Durbin to Amendment SA 115. (consideration: CR S1843-1846; text: CR S1843) To change the enactment date.
+- 2013-03-14 — Amendment SA 29 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1837)
+- 2013-03-14 — Amendment SA 53, under the order of 3/13/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 36.
+- 2013-03-14 — Amendment SA 66 proposed by Senator Coburn to Amendment SA 26. (consideration: CR S1829-1831, S1832; text: CR S1829) To temporarily freeze the hiring of nonessential Federal employees.
+- 2013-03-14 — Amendment SA 66, under the order of 3/14/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 37. (consideration: CR S1829-1832; text: CR S1832)
+- 2013-03-14 — Considered by Senate. (consideration: CR S1829)
+- 2013-03-14 — Considered by Senate. (consideration: CR S1829, S1832)
+- 2013-03-14 — Considered by Senate. (consideration: CR S1829, S1837-1840)
+- 2013-03-14 — Considered by Senate. (consideration: CR S1829-1837, S1837-1849)
+- 2013-03-14 — Roll call votes on amendments in Senate: Amendment SA 53, under the order of 3/13/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 36.
+- 2013-03-14 — Roll call votes on amendments in Senate: Amendment SA 66, under the order of 3/14/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 37.(consideration: CR S1829-1832; text: CR S1832)
+- 2013-03-14 — Senate amendment agreed to: Amendment SA 29 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1837)
+- 2013-03-14 — Senate amendment not agreed to: Amendment SA 53, under the order of 3/13/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 36.
+- 2013-03-14 — Senate amendment not agreed to: Amendment SA 66, under the order of 3/14/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 37.(consideration: CR S1829-1832; text: CR S1832)
+- 2013-03-14 — Senate amendment proposed (on the floor): Amendment SA 115 proposed by Senator Toomey to Amendment SA 26.(consideration: CR S1840-1843, S1846-1847; text: CR S1840)
+- 2013-03-14 — Senate amendment proposed (on the floor): Amendment SA 123 proposed by Senator Durbin to Amendment SA 115.(consideration: CR S1843-1846; text: CR S1843)
+- 2013-03-14 — Senate amendment proposed (on the floor): Amendment SA 66 proposed by Senator Coburn to Amendment SA 26.(consideration: CR S1829-1831, S1832; text: CR S1829)
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-14 — Senate amendment submitted
+- 2013-03-18 — Cloture on amendment SA 26 invoked in Senate by Yea-Nay Vote. 63 - 35. Record Vote Number: 38. (consideration: CR S1882)
+- 2013-03-18 — Considered by Senate. (consideration: CR S1874)
+- 2013-03-18 — Considered by Senate. (consideration: CR S1874)
+- 2013-03-18 — Considered by Senate. (consideration: CR S1874)
+- 2013-03-18 — Considered by Senate. (consideration: CR S1874-1887)
+- 2013-03-18 — Roll call votes on amendments in Senate: Cloture on amendment SA 26 invoked in Senate by Yea-Nay Vote. 63 - 35. Record Vote Number: 38.(consideration: CR S1882)
+- 2013-03-18 — Senate amendment submitted
+- 2013-03-18 — Senate amendment submitted
+- 2013-03-18 — Senate amendment submitted
+- 2013-03-18 — Senate amendment submitted
+- 2013-03-18 — Senate amendment submitted
+- 2013-03-18 — Senate amendment submitted
+- 2013-03-18 — Senate amendment submitted
+- 2013-03-18 — Senate amendment submitted
+- 2013-03-18 — Senate amendment submitted
+- 2013-03-18 — Senate amendment submitted
+- 2013-03-19 — Considered by Senate. (consideration: CR S1914)
+- 2013-03-19 — Considered by Senate. (consideration: CR S1914)
+- 2013-03-19 — Considered by Senate. (consideration: CR S1914)
+- 2013-03-19 — Considered by Senate. (consideration: CR S1914, S1928-1944)
+- 2013-03-20 — Amendment SA 115, not having achieved 60 votes in the affirmative,  not agreed to in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 41. (text as modified: CR S1986)
+- 2013-03-20 — Amendment SA 129 as modified agreed to in Senate by Voice Vote. (text as modified: CR S1986)
+- 2013-03-20 — Amendment SA 129 proposed by Senator Leahy to Amendment SA 26. (consideration: CR S1985-1986)
+- 2013-03-20 — Amendment SA 129 was modified to be submitted to Amendment SA 26 (previously to Amendment SA 62) by Unanimous Consent. To revise language regarding cluster munitions.
+- 2013-03-20 — Amendment SA 176 agreed to in Senate by Unanimous Consent.
+- 2013-03-20 — Amendment SA 176 proposed by Senator Murray to Amendment SA 26. (consideration: CR S2008-2019; text: CR S2008) To amend the title.
+- 2013-03-20 — Amendment SA 26 as modified, as amended, agreed to in Senate by Yea-Nay Vote. 70 - 29. Record Vote Number: 42.
+- 2013-03-20 — Amendment SA 65 as modified agreed to in Senate by Voice Vote. (text as modified: CR S1976)
+- 2013-03-20 — Amendment SA 65 proposed by Senator Coburn to Amendment SA 26. (consideration: CR S1976, S1984-1985) To prohibit the use of funds to carry out the functions of the Political Science Program in the Division of Social and Economic Sciences of the Directorate for Social, Behavioral, and Economic Sciences of the National Science Foundation, except for research projects that the Director of the National Science Foundation certifies as promoting national security or the economic interests of the United States.
+- 2013-03-20 — Amendment SA 69 proposed by Senator Coburn to Amendment SA 26. (consideration: CR S1976, S1984; text: CR S1976) To prohibit Urban Area Security Initiative grant recipients from funding projects that do not improve homeland security.
+- 2013-03-20 — Amendment SA 69, not having achieved 60 votes in the affirmative,  not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 39.
+- 2013-03-20 — Amendment SA 70 as modified agreed to in Senate by Voice Vote. (text as modified: CR S1976-1977)
+- 2013-03-20 — Amendment SA 70 proposed by Senator Coburn to Amendment SA 26. (consideration: CR S1976-1981, S1985) To ensure that authorizing committees receive timely information from the Department of Homeland Security.
+- 2013-03-20 — Amendment SA 72 as modified agreed to in Senate by Voice Vote. (text as modified: CR S1985)
+- 2013-03-20 — Amendment SA 72 proposed by Senator Inhofe to Amendment SA 26. (consideration: CR S1974, S1985) To require the continuation of tuition assistance programs for members of the Armed Forces for the remainder of fiscal year 2013.
+- 2013-03-20 — Amendment SA 82 agreed to in Senate by Voice Vote.
+- 2013-03-20 — Amendment SA 82 proposed by Senator Pryor to Amendment SA 26. (consideration: CR S1986; text: CR S1986) Relative to Agriculture Buildings and Facilities and Rental Payments, Food Safety and Inspection Service, and Domestic Food Programs.
+- 2013-03-20 — Amendment SA 93 proposed by Senator Coburn to Amendment SA 26. (consideration: CR S1976, S1984; text: CR S1976) To transfer appropriations from the National Heritage Partnership Program to fund the resumption of public tours of the White House and visitor services and maintenance at national parks and monuments.
+- 2013-03-20 — Amendment SA 93, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 40.
+- 2013-03-20 — Amendment SA 98 as modified agreed to in Senate by Voice Vote. (text as modified: CR S1985)
+- 2013-03-20 — Amendment SA 98 proposed by Senator Mikulski to Amendment SA 26. (consideration: CR S1985) Of a perfecting nature.
+- 2013-03-20 — Cloture on the bill invoked in Senate by Yea-Nay Vote. 63 - 36. Record Vote Number: 43. (consideration: CR S1987-1988; text: CR S1987-1988)
+- 2013-03-20 — Considered by Senate. (consideration: CR S1967)
+- 2013-03-20 — Considered by Senate. (consideration: CR S1967, S1981-1983, S1986-1987)
+- 2013-03-20 — Considered by Senate. (consideration: CR S1967, S1983-1984, S1987)
+- 2013-03-20 — Considered by Senate. (consideration: CR S1967-1990)
+- 2013-03-20 — Measure amended in Senate by unanimous consent after passage by Unanimous Consent. (consideration: CR S2008-2019)
+- 2013-03-20 — Message on Senate action sent to the House.
+- 2013-03-20 — Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 73 - 26. Record Vote Number: 44. (text as passed Senate: CR 3/22/2013 S2370-2434)
+- 2013-03-20 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 73 - 26. Record Vote Number: 44.(text as passed Senate: CR 3/22/2013 S2370-2434)
+- 2013-03-20 — Proposed amendment SA 123 withdrawn in Senate.
+- 2013-03-20 — Roll call votes on amendments in Senate: Amendment SA 115, not having achieved 60 votes in the affirmative,  not agreed to in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 41.(text as modified: CR S1986)
+- 2013-03-20 — Roll call votes on amendments in Senate: Amendment SA 26 as modified, as amended, agreed to in Senate by Yea-Nay Vote. 70 - 29. Record Vote Number: 42.
+- 2013-03-20 — Roll call votes on amendments in Senate: Amendment SA 69, not having achieved 60 votes in the affirmative,  not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 39.
+- 2013-03-20 — Roll call votes on amendments in Senate: Amendment SA 93, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 40.
+- 2013-03-20 — Senate amendment agreed to: Amendment SA 129 as modified agreed to in Senate by Voice Vote.(text as modified: CR S1986)
+- 2013-03-20 — Senate amendment agreed to: Amendment SA 176 agreed to in Senate by Unanimous Consent.
+- 2013-03-20 — Senate amendment agreed to: Amendment SA 26 as modified, as amended, agreed to in Senate by Yea-Nay Vote. 70 - 29. Record Vote Number: 42.
+- 2013-03-20 — Senate amendment agreed to: Amendment SA 65 as modified agreed to in Senate by Voice Vote.(text as modified: CR S1976)
+- 2013-03-20 — Senate amendment agreed to: Amendment SA 70 as modified agreed to in Senate by Voice Vote.(text as modified: CR S1976-1977)
+- 2013-03-20 — Senate amendment agreed to: Amendment SA 72 as modified agreed to in Senate by Voice Vote.(text as modified: CR S1985)
+- 2013-03-20 — Senate amendment agreed to: Amendment SA 72 as modified agreed to in Senate by Voice Vote.(text as modified: CR S1985)
+- 2013-03-20 — Senate amendment agreed to: Amendment SA 82 agreed to in Senate by Voice Vote.
+- 2013-03-20 — Senate amendment agreed to: Amendment SA 98 as modified agreed to in Senate by Voice Vote.(text as modified: CR S1985)
+- 2013-03-20 — Senate amendment not agreed to: Amendment SA 115, not having achieved 60 votes in the affirmative,  not agreed to in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 41.(text as modified: CR S1986)
+- 2013-03-20 — Senate amendment not agreed to: Amendment SA 69, not having achieved 60 votes in the affirmative,  not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 39.
+- 2013-03-20 — Senate amendment not agreed to: Amendment SA 93, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 40.
+- 2013-03-20 — Senate amendment proposed (on the floor): Amendment SA 129 proposed by Senator Leahy to Amendment SA 26.(consideration: CR S1985-1986)
+- 2013-03-20 — Senate amendment proposed (on the floor): Amendment SA 176 proposed by Senator Murray to Amendment SA 26.(consideration: CR S2008-2019; text: CR S2008)
+- 2013-03-20 — Senate amendment proposed (on the floor): Amendment SA 65 proposed by Senator Coburn to Amendment SA 26.(consideration: CR S1976, S1984-1985)
+- 2013-03-20 — Senate amendment proposed (on the floor): Amendment SA 69 proposed by Senator Coburn to Amendment SA 26.(consideration: CR S1976, S1984; text: CR S1976)
+- 2013-03-20 — Senate amendment proposed (on the floor): Amendment SA 70 proposed by Senator Coburn to Amendment SA 26.(consideration: CR S1976-1981, S1985)
+- 2013-03-20 — Senate amendment proposed (on the floor): Amendment SA 72 proposed by Senator Inhofe to Amendment SA 26.(consideration: CR S1974, S1985)
+- 2013-03-20 — Senate amendment proposed (on the floor): Amendment SA 82 proposed by Senator Pryor to Amendment SA 26.(consideration: CR S1986; text: CR S1986)
+- 2013-03-20 — Senate amendment proposed (on the floor): Amendment SA 93 proposed by Senator Coburn to Amendment SA 26.(consideration: CR S1976, S1984; text: CR S1976)
+- 2013-03-20 — Senate amendment proposed (on the floor): Amendment SA 98 proposed by Senator Mikulski to Amendment SA 26.(consideration: CR S1985)
+- 2013-03-20 — Senate amendment submitted
