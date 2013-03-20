@@ -1,7 +1,7 @@
 ---
 measure: H.R. 933
 congress: 113
-version: Public Print
+version: Enrolled Bill
 ---
 
 # H.R. 933
@@ -248,7 +248,7 @@ Consolidated and Further Continuing Appropriations Act, 2013
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (13)
+## Recorded votes (14)
 
 - 2013-03-06 — [House 113-1-61](votes/house-113-1-0061.md) — On Motion to Recommit with Instructions — **Failed** (188–231)
 - 2013-03-06 — [House 113-1-62](votes/house-113-1-0062.md) — On Passage — **Passed** (267–151)
@@ -263,6 +263,7 @@ Consolidated and Further Continuing Appropriations Act, 2013
 - 2013-03-20 — [Senate 113-1-42](votes/senate-113-1-0042.md) — On the Amendment — **Amendment Agreed to** (70–29)
 - 2013-03-20 — [Senate 113-1-43](votes/senate-113-1-0043.md) — On the Cloture Motion — **Cloture Motion Agreed to** (63–36)
 - 2013-03-20 — [Senate 113-1-44](votes/senate-113-1-0044.md) — On Passage of the Bill — **Bill Passed** (73–26)
+- 2013-03-21 — [House 113-1-89](votes/house-113-1-0089.md) — On Motion to Concur in the Senate Amendments — **Passed** (318–109)
 
 ## Actions
 
@@ -507,3 +508,17 @@ Consolidated and Further Continuing Appropriations Act, 2013
 - 2013-03-20 — Senate amendment proposed (on the floor): Amendment SA 93 proposed by Senator Coburn to Amendment SA 26.(consideration: CR S1976, S1984; text: CR S1976)
 - 2013-03-20 — Senate amendment proposed (on the floor): Amendment SA 98 proposed by Senator Mikulski to Amendment SA 26.(consideration: CR S1985)
 - 2013-03-20 — Senate amendment submitted
+- 2013-03-21 — Considered as unfinished business. (consideration: CR H1801-1802)
+- 2013-03-21 — DEBATE - Pursuant to a previous special order, the House proceeded with one hour of debate on the motion to agree to the Senate amendments to H.R. 933.
+- 2013-03-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-03-21 — On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 318 - 109 (Roll no. 89). (text as House agreed to Senate amendment: CR H1725-1790)
+- 2013-03-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Senate amendments to H.R. 933, the Chair put the question on agreeing to the Senate amendments and by voice vote, announced that the ayes had prevailed. Mrs. Lowey requested the yeas and nays and the Chair postponed further proceedings until later in the legislative day.
+- 2013-03-21 — Pursuant to a previous special order the House moved to agree to the Senate amendments. (consideration: CR H1725-1794)
+- 2013-03-21 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 318 - 109 (Roll no. 89).(text as House agreed to Senate amendment: CR H1725-1790)
+- 2013-03-21 — The previous question was ordered pursuant to a previous special order. (consideration: CR H1794)
+- 2013-03-22 — Presented to President.
+- 2013-03-22 — Presented to President.
+- 2013-03-26 — Became Public Law No: 113-6.
+- 2013-03-26 — Became Public Law No: 113-6.
+- 2013-03-26 — Signed by President.
+- 2013-03-26 — Signed by President.
