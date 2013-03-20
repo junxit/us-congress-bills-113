@@ -1,7 +1,7 @@
 ---
 measure: H.R. 933
 congress: 113
-version: Engrossed Amendment Senate
+version: Public Print
 ---
 
 # H.R. 933
