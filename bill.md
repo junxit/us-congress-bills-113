@@ -1,0 +1,34 @@
+---
+legis-num: H.R. 1311
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1311
+
+> To prohibit certain grants under the Child Abuse Prevention and Treatment Act to States that do not provide for certain minimal terms of imprisonment for certain child abusers, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Kilah Davenport Child Protection Act of 2013”.
+
+## § 2. In general
+
+The Secretary of Health and Human Services may not make a grant under section 106 or under title II of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 et seq.) to a State until the date on which that State’s laws provide for a criminal punishment including a term of imprisonment of not less than 3,800 days for any individual who—
+
+- **(1)** is a parent or any other individual providing care to or supervision of a child of less than 16 years of age; and
+- **(2)** intentionally—
+  - **(A)** inflicts any serious bodily injury (as such term is defined in section 1365(h)(3) of title 18, United States Code) on that child; or
+  - **(B)** commits an assault upon that child which results in—
+    - **(i)** any serious bodily injury (as such term is defined in section 1365(h)(3) of title 18, United States Code) to the child; or
+    - **(ii)** permanent or protracted loss or impairment of any mental or emotional function of the child.
+
+## § 3. Expansion of predicate for increased penalties for certain domestic assaults
+
+Section 117(a)(1) of title 18, United States Code, is amended by inserting “, or against the child of or in the care of the person committing the domestic assault” after “intimate partner”.
+
+## § 4. Effective date
+
+- **(a)** *In general* The provisions of this Act, except as otherwise provided in subsection (b), shall take effect beginning on the date of enactment of this Act.
+- **(b)** *Exception* Section 2 of this Act shall take effect beginning on the date that is 2 years after the date of enactment of this Act.
