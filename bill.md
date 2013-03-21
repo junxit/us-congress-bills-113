@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 1319
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1319
+
+> To amend the Federal Crop Insurance Act to expand coverage under plans of insurance available under such Act to include losses to an insured commodity when, as a result of a federally-imposed quarantine, the commodity must be destroyed, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Containing Risk, Offering Protection Act”.
+
+## § 2. Coverage of quarantine losses to insured commodities under the Federal Crop Insurance Act
+
+- **(a)** *Expansion To include quarantine losses* Section 508(a)(1) of the Federal Crop Insurance Act (7 U.S.C. 1508(a)(1)) is amended in the second sentence—
+  - **(1)** by striking “be due to drought” and inserting
+    > be due—
+    > - **(A)** to drought
+
+  - **(2)** by striking “Secretary).” and inserting “Secretary); or”; and
+  - **(3)** by adding at the end the following new subparagraph:
+    > - **(B)** to a quarantine imposed under Federal law, pursuant to the terms of which the commodity is destroyed or otherwise unable to be marketed or otherwise utilized for its intended purpose (as determined by the Secretary).
+
+- **(b)** *Application of amendment* Subparagraph (B) of section 508(a)(1) of the Federal Crop Insurance Act (7 U.S.C. 1508(a)(1)), as added by subsection (a)(3), shall apply beginning with the 2015 reinsurance year.
