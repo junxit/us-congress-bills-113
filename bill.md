@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 1396
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1396
+
+> To provide for the inclusion of the State of California as a separate Federal milk marketing order upon the petition and approval of California dairy producers of such inclusion.
+
+## § 1. Short title
+
+This Act may be cited as the “California Federal Milk Marketing Order Act”.
+
+## § 2. Inclusion of California as separate milk marketing order
+
+- **(a)** *Inclusion authorized* Upon the petition and approval of California dairy producers in the manner provided in section 8c of the Agricultural Adjustment Act (7 U.S.C. 608c), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, the Secretary of Agriculture shall designate the State of California as a separate Federal milk marketing order.
+- **(b)** *Special considerations* If designated under subsection (a), the order covering California shall have the right to reblend and distribute order receipts to recognize quota value.
