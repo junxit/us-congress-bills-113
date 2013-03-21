@@ -1,7 +1,7 @@
 ---
 measure: S. 540
 congress: 113
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 540
@@ -28,3 +28,7 @@ Temporary Debt Limit Extension Act
 
 - 2013-03-12 — Introduced in Senate
 - 2013-03-12 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2013-03-21 — Passed Senate without amendment by Unanimous Consent. (text: CR S2232)
+- 2013-03-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2232)
+- 2013-03-21 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S2231-2232)
+- 2013-03-21 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S2231-2232)
