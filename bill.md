@@ -1,0 +1,18 @@
+---
+legis-num: S.J. RES. 12
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S.J. RES. 12
+
+> To consent to certain amendments enacted by the legislature of the State of Hawaii to the Hawaiian Homes Commission Act, 1920.
+
+## § 1. Consent and approval of amendments
+
+In accordance with section 4 of Public Law 86–3 (73 Stat. 4) (commonly known as the “Hawaii Statehood Admissions Act, 1959”) and section 204 of the Hawaiian Home Lands Recovery Act (48 U.S.C. note prec. 491; Public Law 104–42), the United States amends sections 208, 209, and 215 of the Hawaiian Homes Commission Act, 1920 (42 Stat. 108, chapter 42) by giving its consent to the following amendments by the State of Hawaii adopted in the manner required for State legislation:
+
+- **(1)** Act 107, Section 1, of the Session Laws of Hawaii, 2000.
+- **(2)** Act 12, Section 1, of the Session Laws of Hawaii, 2002.
+- **(3)** Act 16, Section 1, of the Session Laws of Hawaii, 2005.
