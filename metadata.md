@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 25
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.Con.Res. 25
@@ -99,3 +99,4 @@ Establishing the budget for the United States Government for fiscal year 2014 an
 - 2013-03-21 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2013-03-21 — The House rose from the Committee of the Whole House on the state of the Union to report H. Con. Res. 25.
 - 2013-03-21 — The previous question was ordered pursuant to the rule. (consideration: CR H1801)
+- 2013-03-22 — Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 33.
