@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 37
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 37
@@ -16,7 +16,7 @@ A resolution expressing the sense of the Senate in disapproving the proposal of 
 
 - Sen. Brown, Sherrod [D-OH] (B000944)
 
-## Cosponsors (6)
+## Cosponsors (8)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Franken, Al [D-MN] (F000457)
@@ -24,6 +24,8 @@ A resolution expressing the sense of the Senate in disapproving the proposal of 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Blunt, Roy [R-MO] (B000575)
 
 ## Committees (1)
 
@@ -33,3 +35,7 @@ A resolution expressing the sense of the Senate in disapproving the proposal of 
 
 - 2013-02-14 — Introduced in Senate
 - 2013-02-14 — Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S788)
+- 2013-03-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 2/14/2013 S788)
+- 2013-03-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 2/14/2013 S788)
+- 2013-03-23 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S2435)
+- 2013-03-23 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S2435)
