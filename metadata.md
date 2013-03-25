@@ -1,7 +1,7 @@
 ---
 measure: H.R. 678
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 678
@@ -16,7 +16,7 @@ Bureau of Reclamation Small Conduit Hydropower Development and Rural Jobs Act
 
 - Rep. Tipton, Scott  R. [R-CO-3] (T000470)
 
-## Cosponsors (8)
+## Cosponsors (11)
 
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 - Rep. Costa, Jim [D-CA-16] (C001059)
@@ -26,6 +26,9 @@ Bureau of Reclamation Small Conduit Hydropower Development and Rural Jobs Act
 - Rep. Cramer, Kevin [R-ND-At Large] (C001096)
 - Rep. Lummis, Cynthia M. [R-WY-At Large] (L000571)
 - Rep. Coffman, Mike [R-CO-6] (C001077)
+- Rep. Gardner, Cory [R-CO-4] (G000562)
+- Rep. Daines, Steve [R-MT-At Large] (D000618)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
 
 ## Committees (1)
 
@@ -36,3 +39,11 @@ Bureau of Reclamation Small Conduit Hydropower Development and Rural Jobs Act
 - 2013-02-13 — Introduced in House
 - 2013-02-13 — Introduced in House
 - 2013-02-13 — Referred to the House Committee on Natural Resources.
+- 2013-02-22 — Referred to the Subcommittee on Water and Power.
+- 2013-03-05 — Subcommittee Hearings Held.
+- 2013-03-20 — Committee Consideration and Mark-up Session Held.
+- 2013-03-20 — Ordered to be Reported by the Yeas and Nays: 17 - 12.
+- 2013-03-20 — Subcommittee on Water and Power Discharged.
+- 2013-03-25 — Placed on the Union Calendar, Calendar No. 12.
+- 2013-03-25 — Reported by the Committee on Natural Resources. H. Rept. 113-24.
+- 2013-03-25 — Reported by the Committee on Natural Resources. H. Rept. 113-24.
