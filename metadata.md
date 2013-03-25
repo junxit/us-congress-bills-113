@@ -1,7 +1,7 @@
 ---
 measure: S. 540
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 540
@@ -20,9 +20,10 @@ Temporary Debt Limit Extension Act
 
 - Sen. Ayotte, Kelly [R-NH] (A000368)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -32,3 +33,6 @@ Temporary Debt Limit Extension Act
 - 2013-03-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2232)
 - 2013-03-21 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S2231-2232)
 - 2013-03-21 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S2231-2232)
+- 2013-03-22 — Message on Senate action sent to the House.
+- 2013-03-25 — Received in the House.
+- 2013-03-25 — Referred to the House Committee on Transportation and Infrastructure.
