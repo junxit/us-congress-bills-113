@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 11
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 11
