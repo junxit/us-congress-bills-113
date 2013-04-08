@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 10
 congress: 113
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 10
@@ -28,3 +28,7 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 
 - 2013-03-22 — Introduced in Senate
 - 2013-03-22 — Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S2339)
+- 2013-04-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2013-04-08 — Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2013-04-08 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S2474)
+- 2013-04-08 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S2474)
