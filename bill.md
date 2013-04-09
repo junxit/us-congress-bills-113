@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 1426
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1426
+
+> To amend the Internal Revenue Code of 1986 to disallow the deduction for income attributable to domestic production activities with respect to oil and gas activities of major integrated oil companies.
+
+## § 1. Short title
+
+This Act may be cited as the “Big Oil Welfare Repeal Act of 2013”.
+
+## § 2. Deduction for income attributable to domestic production activities not allowed with respect to oil and gas activities of major integrated oil companies
+
+- **(a)** *In general* Subparagraph (A) of section 199(d)(9) of the Internal Revenue Code of 1986 is amended by inserting “(9 percent in the case of any major integrated oil company (as defined in section 167(h)(5)(B)))” after “3 percent”.
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply to taxable years beginning after the date of the enactment of this Act.
