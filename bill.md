@@ -1,0 +1,40 @@
+---
+legis-num: H.R. 1429
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1429
+
+> To expand the research and awareness activities of the National Institute of Arthritis and Musculoskeletal and Skin Diseases and the Centers for Disease Control and Prevention with respect to scleroderma, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Scleroderma Research and Awareness Act of 2013”.
+
+## § 2. National institute of arthritis and musculoskeletal and skin diseases; scleroderma research expansion
+
+Part B of title IV of the Public Health Service Act (42 U.S.C. 284 et seq.) is amended by adding at the end the following:
+
+> ## § 409K. Scleroderma research
+>
+> The Director of NIH may expand, intensify, and coordinate the activities of the National Institutes of Health with respect to scleroderma, with particular emphasis on the following:
+>
+> - **(1)** Research focused on the etiology of scleroderma and the development of new treatment options.
+> - **(2)** Clinical research to evaluate new treatments options.
+> - **(3)** Basic research on the relationship between scleroderma and secondary conditions such as pulmonary hypertension, gastroparesis, Raynaud's phenomenon, Sjögren's Syndrome, and other diseases as determined by the Director.
+
+## § 3. Promoting public awareness of scleroderma
+
+Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is amended by adding at the end the following:
+
+> ## § 399V–6. Promoting public awareness of scleroderma
+>
+> The Secretary may carry out an educational campaign to increase public awareness of scleroderma. Print, video, and Web-based materials distributed through this campaign may include—
+>
+> - **(1)** basic information on scleroderma and its symptoms; and
+> - **(2)** information on—
+>   - **(A)** the incidence and prevalence of scleroderma;
+>   - **(B)** diseases and conditions affiliated with scleroderma; or
+>   - **(C)** the importance of early diagnosis and treatment of scleroderma.
