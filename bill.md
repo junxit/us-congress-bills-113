@@ -1,0 +1,15 @@
+---
+legis-num: S. 680
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 680
+
+> To rescind amounts appropriated for fiscal year 2013 for the Department of Defense for the Medium Extended Air Defense System, and for other purposes.
+
+## § 1. Rescission of amounts for fiscal year 2013 for the Department of Defense for the Medium Extended Air Defense System
+
+- **(a)** *Rescission* The amount appropriated or otherwise made available by title IV of division C of the Consolidated and Further Continuing Appropriations Act, 2013 (Public Law 113–6) under the heading “Research, Development, Test and Evaluation, Army” for the Medium Extended Air Defense System (MEADS), namely $380,900,000, is hereby rescinded.
+- **(b)** *Increase in amount for Operation and Maintenance* The aggregate amount appropriated by title II of division C of the Consolidated and Further Continuing Appropriations Act, 2013 is increased by $205,000,000, with the amount to be allocated among accounts funded by that title in a manner determined appropriate by the Secretary of Defense. The Secretary shall submit to Congress a report describing the allocation of funds among accounts pursuant to this subsection.
