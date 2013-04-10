@@ -1,7 +1,7 @@
 ---
 measure: H.R. 254
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 254
@@ -50,3 +50,12 @@ Bonneville Unit Clean Hydropower Facilitation Act
 - 2013-04-09 — Reported by the Committee on Natural Resources. H. Rept. 113-25, Part I.
 - 2013-04-09 — Reported by the Committee on Natural Resources. H. Rept. 113-25, Part I.
 - 2013-04-10 — Received in the Senate, read twice.
+- 2013-07-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5623)
+- 2013-07-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5623)
+- 2013-07-11 — Message on Senate action sent to the House.
+- 2013-07-12 — Presented to President.
+- 2013-07-12 — Presented to President.
+- 2013-07-18 — Became Public Law No: 113-20.
+- 2013-07-18 — Became Public Law No: 113-20.
+- 2013-07-18 — Signed by President.
+- 2013-07-18 — Signed by President.
