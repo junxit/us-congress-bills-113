@@ -1,7 +1,7 @@
 ---
 measure: H.R. 678
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 678
@@ -34,6 +34,12 @@ Bureau of Reclamation Small Conduit Hydropower Development and Rural Jobs Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (3)
+
+- 2013-04-10 — [House 113-1-94](votes/house-113-1-0094.md) — On Agreeing to the Amendment — **Failed** (189–232)
+- 2013-04-10 — [House 113-1-95](votes/house-113-1-0095.md) — On Motion to Recommit with Instructions — **Failed** (194–226)
+- 2013-04-10 — [House 113-1-96](votes/house-113-1-0096.md) — On Passage — **Passed** (416–7)
+
 ## Actions
 
 - 2013-02-13 — Introduced in House
@@ -47,3 +53,46 @@ Bureau of Reclamation Small Conduit Hydropower Development and Rural Jobs Act
 - 2013-03-25 — Placed on the Union Calendar, Calendar No. 12.
 - 2013-03-25 — Reported by the Committee on Natural Resources. H. Rept. 113-24.
 - 2013-03-25 — Reported by the Committee on Natural Resources. H. Rept. 113-24.
+- 2013-04-09 — Rules Committee Resolution H. Res. 140 Reported to House. Rule provides for consideration of H.R. 678 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is open to amendments.
+- 2013-04-10 — Amendment (A001) offered by Mr. Tipton. (consideration: CR H1884-1885; text: CR H1884)
+- 2013-04-10 — Amendment (A002) offered by Mrs. Napolitano. (consideration: CR H1885-1886, H1887-1888; text: CR H1885)
+- 2013-04-10 — Amendment (A003) offered by Mr. Tipton. (consideration: CR H1886-1887; text: CR H1886-1887)
+- 2013-04-10 — Amendment agreed to Committee of the Whole
+- 2013-04-10 — Amendment agreed to Committee of the Whole
+- 2013-04-10 — Amendment failed in Committee of the Whole
+- 2013-04-10 — Considered under the provisions of rule H. Res. 140. (consideration: CR H1878-1890; text of measure as reported in House: CR H1884)
+- 2013-04-10 — DEBATE - Pursuant to the provisions of H.Res. 140, the Committee of the Whole proceeded with debate on the Napolitano No. 1 amendment under the five-minute rule.
+- 2013-04-10 — DEBATE - Pursuant to the provisions of H.Res. 140, the Committee of the Whole proceeded with debate on the Tipton No. 2 amendment under the five-minute rule.
+- 2013-04-10 — DEBATE - Pursuant to the provisions of H.Res. 140, the Committee of the Whole proceeded with debate on the Tipton No. 3 amendment under the five-minute rule.
+- 2013-04-10 — DEBATE - The House proceeded with 10 minutes of debate on the Garamendi motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a section to the bill relating to Buy America provisions. The new section would require that, when practicable, all materials used for conduit hydropower generation be manufactured in the United States.
+- 2013-04-10 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 678.
+- 2013-04-10 — House amendment agreed to: On agreeing to the Tipton amendment (A001) Agreed to by voice vote.
+- 2013-04-10 — House amendment agreed to: On agreeing to the Tipton amendment (A003) Agreed to by voice vote.
+- 2013-04-10 — House amendment not agreed to: On agreeing to the Napolitano amendment (A002) Failed by recorded vote: 189 - 232 (Roll no. 94).
+- 2013-04-10 — House amendment not agreed to: On agreeing to the Napolitano amendment (A002) Failed by recorded vote: 189 - 232 (Roll no. 94).
+- 2013-04-10 — House amendment offered
+- 2013-04-10 — House amendment offered
+- 2013-04-10 — House amendment offered
+- 2013-04-10 — House amendment offered/reported by: Amendment (A001) offered by Mr. Tipton.(consideration: CR H1884-1885; text: CR H1884)
+- 2013-04-10 — House amendment offered/reported by: Amendment (A002) offered by Mrs. Napolitano.(consideration: CR H1885-1886, H1887-1888; text: CR H1885)
+- 2013-04-10 — House amendment offered/reported by: Amendment (A003) offered by Mr. Tipton.(consideration: CR H1886-1887; text: CR H1886-1887)
+- 2013-04-10 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 140 and Rule XVIII.
+- 2013-04-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-04-10 — Mr. Garamendi moved to recommit with instructions to Natural Resources. (consideration: CR H1888; text: CR H1888)
+- 2013-04-10 — On agreeing to the Napolitano amendment (A002) Failed by recorded vote: 189 - 232 (Roll no. 94).
+- 2013-04-10 — On agreeing to the Tipton amendment (A001) Agreed to by voice vote.
+- 2013-04-10 — On agreeing to the Tipton amendment (A003) Agreed to by voice vote.
+- 2013-04-10 — On motion to recommit with instructions Failed by the Yeas and Nays: 194 - 226 (Roll no. 95).
+- 2013-04-10 — On passage Passed by the Yeas and Nays: 416 - 7 (Roll no. 96).
+- 2013-04-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Napolitano No. 1 amendment, the Chair put the question on adoption of the amendment and by voice vote announced the noes had prevailed. Mrs. Napolitano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-04-10 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 416 - 7 (Roll no. 96).
+- 2013-04-10 — Roll call votes on amendments in House
+- 2013-04-10 — Roll call votes on amendments in House
+- 2013-04-10 — Rule H. Res. 140 passed House.
+- 2013-04-10 — Rule provides for consideration of H.R. 678 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is open to amendments.
+- 2013-04-10 — The Chair announced that proceedings would now resume on amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2013-04-10 — The House adopted the amendment as agreed to by the Committee of the Whole House on the state of the Union.
+- 2013-04-10 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 678.
+- 2013-04-10 — The Speaker designated the Honorable Ted Poe to act as Chairman of the Committee.
+- 2013-04-10 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1889)
+- 2013-04-10 — The previous question was ordered pursuant to the rule. (consideration: CR H1888)
