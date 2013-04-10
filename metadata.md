@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1033
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1033
@@ -34,9 +34,10 @@ American Battlefield Protection Program Amendments Act of 2013
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 - Rep. Beatty, Joyce [D-OH-3] (B001281)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -62,3 +63,4 @@ American Battlefield Protection Program Amendments Act of 2013
 - 2013-04-09 — Placed on the Union Calendar, Calendar No. 17.
 - 2013-04-09 — Reported by the Committee on Natural Resources. H. Rept. 113-29.
 - 2013-04-09 — Reported by the Committee on Natural Resources. H. Rept. 113-29.
+- 2013-04-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
