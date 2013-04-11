@@ -1,7 +1,7 @@
 ---
 measure: H.R. 756
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -48,17 +48,17 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 7403` | insert | by inserting “and usability” after “to the structure”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 7403` | strike | in subparagraph (H), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 7403` | replace | in subparagraph (I), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 7403` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 7403` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 7403` | insert | in subparagraph (A) by inserting “identity management,” after “cryptography,”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 7403` | insert | in subparagraph (I), by inserting “, crimes against children, and organized crime” after “intellectual property”. | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 7403` | replace | Section 4(a)(3) of such Act (15 U.S.C. 7403(a)(3)) is amended by striking subparagraphs (A) through (E) and inserting the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 7403` | strike | in subparagraph (C), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 7403` | replace | in subparagraph (D), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 7403` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 7403` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 7403` | replace | in paragraph (7) by striking subparagraphs (A) through (E) and inserting the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 7404` | replace | Section 5(a)(6) of such Act (15 U.S.C. 7404(a)(6)) is amended by striking subparagraphs (A) through (E) and inserting the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 7403` | replace | Section 5(a)(6) of such Act (15 U.S.C. 7404(a)(6)) is amended by striking subparagraphs (A) through (E) and inserting the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 7403` | replace | Section 5(b)(2) of such Act (15 U.S.C. 7404(b)(2)) is amended by striking subparagraphs (A) through (E) and inserting the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 7404` | replace | Section 5(c)(7) of such Act (15 U.S.C. 7404(c)(7)) is amended by striking subparagraphs (A) through (E) and inserting the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 7404` | repeal | Section 5(e) of such Act (15 U.S.C. 7404(e)) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 7403` | replace | Section 5(c)(7) of such Act (15 U.S.C. 7404(c)(7)) is amended by striking subparagraphs (A) through (E) and inserting the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 7403` | repeal | Section 5(e) of such Act (15 U.S.C. 7404(e)) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 7406` | amend | Section 8(c) of the Cyber Security Research and Development Act (15 U.S.C. 7406(c)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278g-3` | redesignate | Section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3) is amended by redesignating subsection (e) as subsection (f), and by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
