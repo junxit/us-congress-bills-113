@@ -1,7 +1,7 @@
 ---
 measure: S. 689
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 689
@@ -16,7 +16,7 @@ Mental Health Awareness and Improvement Act of 2013
 
 - Sen. Harkin, Tom [D-IA] (H000206)
 
-## Cosponsors (9)
+## Cosponsors (11)
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 - Sen. Franken, Al [D-MN] (F000457)
@@ -27,6 +27,8 @@ Mental Health Awareness and Improvement Act of 2013
 - Sen. Roberts, Pat [R-KS] (R000307)
 - Sen. Hagan, Kay R. [D-NC] (H001049)
 - Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
 
 ## Committees (1)
 
@@ -36,3 +38,7 @@ Mental Health Awareness and Improvement Act of 2013
 
 - 2013-04-09 — Introduced in Senate
 - 2013-04-09 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2013-04-10 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2013-04-11 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
+- 2013-04-11 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
+- 2013-04-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 37.
