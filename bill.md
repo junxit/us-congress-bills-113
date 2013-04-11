@@ -1,0 +1,15 @@
+---
+legis-num: S. 711
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 711
+
+> To designate the Federal building located at 118 South Mill Street, Fergus Falls, Minnesota, as the “Edward J. Devitt United States Courthouse”.
+
+## § 1. Edward J. Devitt United States Courthouse
+
+- **(a)** *Designation* The Federal building located at 118 South Mill Street, Fergus Falls, Minnesota, shall be known and designated as the “Edward J. Devitt United States Courthouse”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the Federal building referred to in subsection (a) shall be deemed to be a reference to the “Edward J. Devitt United States Courthouse”.
