@@ -46,15 +46,20 @@ This Act may be cited as the “Advancing America’s Networking and Information
   - **(1)** after the first sentence, by inserting the following: “The co-chairs of the advisory committee shall meet the qualifications of committee membership and may be members of the President’s Council of Advisors on Science and Technology.”; and
   - **(2)** in subparagraph (D), by striking “high-performance” and inserting “high-end”.
 - **(e)** *Report* Section 101(a)(3) of such Act (15 U.S.C. 5511(a)(3)) is amended—
-  - **(1)** in subparagraph (C)—
+  - **(1)** in subparagraph (B)—
+    - **(A)** by redesignating clauses (vii) through (xi) as clauses (viii) through (xii), respectively; and
+    - **(B)** by inserting after clause (vi) the following:
+      > - **(vii)** the Department of Homeland Security;
+
+  - **(2)** in subparagraph (C)—
     - **(A)** by striking “is submitted,” and inserting “is submitted, the levels for the previous fiscal year,”; and
     - **(B)** by striking “each Program Component Area;” and inserting “each Program Component Area and research area supported in accordance with section 104;”;
-  - **(2)** in subparagraph (D)—
+  - **(3)** in subparagraph (D)—
     - **(A)** by striking “each Program Component Area,” and inserting “each Program Component Area and research area supported in accordance with section 104,”;
     - **(B)** by striking “is submitted,” and inserting “is submitted, the levels for the previous fiscal year,”; and
     - **(C)** by striking “and” after the semicolon;
-  - **(3)** by redesignating subparagraph (E) as subparagraph (G); and
-  - **(4)** by inserting after subparagraph (D) the following new subparagraphs:
+  - **(4)** by redesignating subparagraph (E) as subparagraph (G); and
+  - **(5)** by inserting after subparagraph (D) the following new subparagraphs:
     > - **(E)** include a description of how the objectives for each Program Component Area, and the objectives for activities that involve multiple Program Component Areas, relate to the objectives of the Program identified in the strategic plan required under subsection (e);
     > - **(F)** include—
     >   - **(i)** a description of the funding required by the National Coordination Office to perform the functions specified under section 102(b) for the next fiscal year by category of activity;
@@ -94,29 +99,24 @@ Title I of such Act (15 U.S.C. 5511) is amended by adding at the end the followi
 
 - **(a)** *Additional Program characteristics* Section 101(a)(1) of such Act (15 U.S.C. 5511(a)(1)) is amended—
   - **(1)** in subparagraph (H), by striking “and” after the semicolon;
-  - **(2)** in subparagraph (I), by striking the period at the end and inserting a semicolon; and
+  - **(2)** in subparagraph (I)—
+    - **(A)** by striking “improving the security” and inserting “improving the security, reliability, and resilience”; and
+    - **(B)** by striking the period at the end and inserting a semicolon; and
   - **(3)** by adding at the end the following new subparagraphs:
     > - **(J)** provide for increased understanding of the scientific principles of cyber-physical systems and improve the methods available for the design, development, and operation of cyber-physical systems that are characterized by high reliability, safety, and security; and
     > - **(K)** provide for research and development on human-computer interactions, visualization, and big data.
 
-- **(b)** *Task force* Title I of such Act (15 U.S.C. 5511) is amended further by adding after section 104, as added by section 3 of this Act, the following new section:
-  > ## § 105. University/Industry Task force
+- **(b)** *Workshop* Title I of such Act (15 U.S.C. 5511) is amended further by adding after section 104, as added by section 3 of this Act, the following new section:
+  > ## § 105. University/Industry Workshop
   >
-  > - **(a)** *Establishment* Not later than 180 days after the date of enactment of the Advancing America’s Networking and Information Technology Research and Development Act of 2013, the Director of the National Coordination Office shall convene a task force to explore mechanisms for carrying out collaborative research and development activities for cyber-physical systems, including the related technologies required to enable these systems, through a consortium or other appropriate entity with participants from institutions of higher education, Federal laboratories, and industry.
-  > - **(b)** *Functions* The task force shall—
-  >   - **(1)** develop options for a collaborative model and an organizational structure for such entity under which the joint research and development activities could be planned, managed, and conducted effectively, including mechanisms for the allocation of resources among the participants in such entity for support of such activities;
-  >   - **(2)** propose a process for developing a research and development agenda for such entity, including guidelines to ensure an appropriate scope of work focused on nationally significant challenges and requiring collaboration and to ensure the development of related scientific and technological milestones;
-  >   - **(3)** define the roles and responsibilities for the participants from institutions of higher education, Federal laboratories, and industry in such entity;
-  >   - **(4)** propose guidelines for assigning intellectual property rights and for the transfer of research results to the private sector; and
-  >   - **(5)** make recommendations for how such entity could be funded from Federal, State, and non-governmental sources.
-  > - **(c)** *Composition* In establishing the task force under subsection (a), the Director of the National Coordination Office—
-  >   - **(1)** shall appoint an equal number of individuals with knowledge and expertise in cyber-physical systems from—
-  >     - **(A)** institutions of higher education, including minority-serving institutions and community colleges; and
-  >     - **(B)** industry; and
-  >   - **(2)** may appoint not more than 2 individuals from Federal laboratories.
-  > - **(d)** *Report* Not later than 1 year after the date of enactment of the Advancing America’s Networking and Information Technology Research and Development Act of 2013, the Director of the National Coordination Office shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report describing the findings and recommendations of the task force.
-  > - **(e)** *Termination* The task force shall terminate upon transmittal of the report required under subsection (d).
-  > - **(f)** *Compensation* Members of the task force shall serve without compensation.
+  > - **(a)** *Establishment* Not later than 1 year after the date of enactment of the Advancing America’s Networking and Information Technology Research and Development Act of 2013, the Director of the National Coordination Office shall convene a workshop, with participants from institutions of higher education, Federal laboratories, and industry, to explore mechanisms for carrying out collaborative research and development activities for cyber-physical systems, including the related technologies required to enable these systems, and to develop grand challenges in cyber-physical systems research and development.
+  > - **(b)** *Functions* The workshop participants shall—
+  >   - **(1)** develop options for models for research and development partnerships among institutions of higher education, Federal laboratories, and industry, including mechanisms for the support of research and development carried out under these partnerships;
+  >   - **(2)** develop options for grand challenges in cyber-physical systems research and development that would be addressed through such partnerships;
+  >   - **(3)** propose guidelines for assigning intellectual property rights and for the transfer of research results to the private sector; and
+  >   - **(4)** make recommendations for how Federal agencies participating in the Program can help support research and development partnerships in cyber-physical systems, including through existing or new grant programs.
+  > - **(c)** *Participants* The Director of the National Coordination Office shall ensure that participants in the workshop are individuals with knowledge and expertise in cyber-physical systems and that participants represent a broad mix of relevant stakeholders, including academic and industry researchers, cyber-physical systems and technologies manufacturers, cyber-physical systems and technologies users, and, as appropriate, Federal government regulators.
+  > - **(d)** *Report* Not later than 18 months after the date of enactment of the Advancing America’s Networking and Information Technology Research and Development Act of 2013, the Director of the National Coordination Office shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report describing the findings and recommendations resulting from the workshop required under this section.
 
 ## § 5. Cloud computing services for research
 
@@ -129,7 +129,9 @@ Title I of such Act (15 U.S.C. 5511) is amended further by adding after section 
 >     - **(A)** to enhance the effectiveness and efficiency of cloud computing environments;
 >     - **(B)** to increase the trustworthiness of cloud applications and infrastructure; and
 >     - **(C)** to enhance the foundations of cloud architectures, programming models, and interoperability; and
->   - **(2)** the potential use of cloud computing for federally funded science and engineering research, including issues around funding mechanisms and policies for the use of cloud computing services for such research.
+>   - **(2)** how Federal science agencies can facilitate the use of cloud computing for federally funded science and engineering research, including—
+>     - **(A)** making recommendations on changes in funding mechanisms, budget models, and policies needed to remove barriers to the adoption of cloud computing services for research and for data preservation and sharing; and
+>     - **(B)** providing guidance to organizations and researchers on opportunities and guidelines for using cloud computing services for federally supported research and related activities.
 > - **(b)** *Consultation* In carrying out the tasks in paragraphs (1) and (2) of subsection (a), the working group shall consult with academia, industry, Federal laboratories, and other relevant organizations and institutions, as appropriate.
 > - **(c)** *Report* Not later than 1 year after the date of enactment of the Advancing America’s Networking and Information Technology Research and Development Act of 2013, the Director of the National Coordination Office shall transmit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing the findings and any recommendations of the working group.
 > - **(d)** *Termination* The interagency working group shall terminate upon transmittal of the report required under subsection (c).

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 967
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-67 amendatory instructions. 43 executed, 24 stated and not applied.
+70 amendatory instructions. 44 executed, 26 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -89,6 +89,15 @@ to guess them.
 
 ### 15 U.S.C. § 5511
 
+> by striking “improving the security” and inserting “improving the security, reliability, and resilience”; and
+
+| | |
+|---|---|
+| Removed | `improving the security` |
+| Inserted | `improving the security, reliability, and resilience` |
+
+### 15 U.S.C. § 5502
+
 > in the matter preceding paragraph (1), by striking “high-performance computing” and inserting “networking and information technology”;
 
 | | |
@@ -96,7 +105,7 @@ to guess them.
 | Removed | `high-performance computing` |
 | Inserted | `networking and information technology` |
 
-### 15 U.S.C. § 5511
+### 15 U.S.C. § 5502
 
 > in the matter preceding subparagraph (A), by striking “high-performance computing” and inserting “networking and information technology”;
 
@@ -105,7 +114,7 @@ to guess them.
 | Removed | `high-performance computing` |
 | Inserted | `networking and information technology` |
 
-### 15 U.S.C. § 5511
+### 15 U.S.C. § 5502
 
 > in subparagraphs (A), (F), and (G), by striking “high-performance computing” each place it appears and inserting “networking and information technology”; and
 
@@ -114,7 +123,7 @@ to guess them.
 | Removed | `high-performance computing` |
 | Inserted | `networking and information technology` |
 
-### 15 U.S.C. § 5511
+### 15 U.S.C. § 5502
 
 > in subparagraph (H), by striking “high-performance” and inserting “high-end”; and
 
@@ -123,7 +132,7 @@ to guess them.
 | Removed | `high-performance` |
 | Inserted | `high-end` |
 
-### 15 U.S.C. § 5511
+### 15 U.S.C. § 5502
 
 > by striking “high-performance computing and” and inserting “networking and information technology and”; and
 
@@ -132,7 +141,7 @@ to guess them.
 | Removed | `high-performance computing and` |
 | Inserted | `networking and information technology and` |
 
-### 15 U.S.C. § 5511
+### 15 U.S.C. § 5502
 
 > by striking “high-performance computing network” and inserting “networking and information technology”.
 
@@ -426,6 +435,8 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 5511` | redesignate | by redesignating subparagraphs (E) and (F) as subparagraphs (F) and (G), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 5511` | insert | by inserting after subparagraph (D) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 5511` | insert | after the first sentence, by inserting the following: “The co-chairs of the advisory committee shall meet the qualifications of committee membership and may be members of the President’s Council of Advisors on Science and Technology.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 5511` | redesignate | by redesignating clauses (vii) through (xi) as clauses (viii) through (xii), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 5511` | insert | by inserting after clause (vi) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 5511` | strike | by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 5511` | redesignate | by redesignating subparagraph (E) as subparagraph (G); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 5511` | insert | by inserting after subparagraph (D) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -435,10 +446,10 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 5503` | replace | by striking “high-performance computing” and inserting “networking and information technology”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 5503` | replace | by striking “supercomputer” and inserting “high-end computing”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 5511` | add-at-end | Title I of such Act (15 U.S.C. 5511) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | strike | in subparagraph (H), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (I), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
-| — | amend | Title I of such Act (15 U.S.C. 5511) is amended further by adding after section 104, as added by section 3 of this Act, the following new section: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 5511` | strike | in subparagraph (H), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 5511` | replace | by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 5511` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 5511` | amend | Title I of such Act (15 U.S.C. 5511) is amended further by adding after section 104, as added by section 3 of this Act, the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 5511` | amend | Title I of such Act (15 U.S.C. 5511) is amended further by adding after section 105, as added by section 4(b) of this Act, the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 5512` | amend | Section 102 of such Act (15 U.S.C. 5512) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | by redesignating paragraphs (2) through (4) as paragraphs (3) through (5), respectively; and | the bill names no machine-readable US Code section |
