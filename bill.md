@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 1488
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1488
+
+> To amend title II of the Social Security Act to provide that the waiting period for disability insurance benefits shall not be applicable in the case of a recovering service member.
+
+## § 1. Short title
+
+This Act may be cited as the “Recovering Service Members Disability Benefits Act”.
+
+## § 2. Exception from waiting period for disability insurance benefits of recovering service members
+
+- **(a)** *Exception from waiting period* The first sentence of section 223(a)(1) of the Social Security Act (42 U.S.C. 423(a)(1)) is amended, in clause (ii) thereof in the matter following subparagraph (E)—
+  - **(1)** by inserting “(I)” after “but only”; and
+  - **(2)** by inserting “or (II) if such individual is a recovering service member,” after “the first month in which he is under such disability,”.
+- **(b)** *Definition of recovering service member* Section 223(a) of the Social Security Act (42 U.S.C. 423(a)) is further amended by adding at the end the following:
+  > - **(3)** For purposes of this subsection—
+  >   - **(A)** the term “recovering service member” means a member of the Armed Forces, including a member of the National Guard or a Reserve component, who is undergoing medical treatment, recuperation, or therapy while recovering from a serious bodily injury or physical illness related to the member’s military service; and
+  >   - **(B)** the term “serious bodily injury or physical illness” means in the case of a member of the Armed Forces, a bodily injury or physical illness incurred by the member in line of duty on active duty in the Armed Forces while in a combat zone designated under section 112(c)(2) of the Internal Revenue Code of 1986, that may render the member medically unfit to perform the duties of the member’s office, grade, rank, or rating.
+
+## § 3. Effective date
+
+The amendments made by this Act shall apply with respect to applications for benefits filed on or after the date that is 90 days after the date of enactment of this Act.
