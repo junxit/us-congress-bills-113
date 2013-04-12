@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1246
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1246
@@ -25,3 +25,8 @@ District of Columbia Chief Financial Officer Vacancy Act
 - 2013-03-19 — Introduced in House
 - 2013-03-19 — Introduced in House
 - 2013-03-19 — Referred to the House Committee on Oversight and Government Reform.
+- 2013-03-20 — Committee Consideration and Mark-up Session Held.
+- 2013-03-20 — Ordered to be Reported by Voice Vote.
+- 2013-04-12 — Placed on the Union Calendar, Calendar No. 23.
+- 2013-04-12 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-37.
+- 2013-04-12 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-37.
