@@ -15,7 +15,7 @@ This Act may be cited as the “Preventing Greater Uncertainty in Labor-Manageme
 
 ## § 2. Activities by the National Labor Relations Board prohibited
 
-Effective on the date of enactment of this Act, the National Labor Relations Board shall cease all activity that requires a quorum of the members of the Board, as set forth in the National Labor Relations Act (29 U.S.C. 151 et seq.). The Board shall not implement, administer, or enforce any decision, rule, vote, or other action decided, undertaken, adopted, issued, or finalized on or after January 4, 2012, that requires a quorum of the members of the Board, as set forth in such Act.
+Effective on the date of enactment of this Act, the National Labor Relations Board shall cease all activity that requires a quorum of the members of the Board, as set forth in the National Labor Relations Act (29 U.S.C. 151 et seq.). The Board shall not appoint any personnel nor implement, administer, or enforce any decision, rule, vote, or other action decided, undertaken, adopted, issued, or finalized on or after January 4, 2012, that requires a quorum of the members of the Board, as set forth in such Act.
 
 ## § 3. Termination
 
@@ -27,4 +27,4 @@ The provisions of this Act shall terminate on the date on which—
 
 ## § 4. Effect of certain board actions
 
-In the event that this Act terminates pursuant to paragraphs (1) or (3) of section 3, no decision, rule, vote, or other action decided, undertaken, adopted, issued, or finalized by the Board on or after January 4, 2012, that requires authorization by not less than a quorum of the members of the Board, as set forth in the National Labor Relations Act, may be implemented, administered, or enforced unless and until it is considered and acted upon by a Board constituting a quorum, as set forth in the National Labor Relations Act, or the Supreme Court issues a decision on the constitutionality of the appointments to the Board made in January 2012.
+In the event that this Act terminates pursuant to paragraph (1) or (3) of section 3, no appointment, decision, rule, vote, or other action decided, undertaken, adopted, issued, or finalized by the Board on or after January 4, 2012, that requires authorization by not less than a quorum of the members of the Board, as set forth in the National Labor Relations Act, may be implemented, administered, or enforced unless and until it is considered and acted upon by a Board constituting a quorum, as set forth in the National Labor Relations Act, or the Supreme Court issues a decision on the constitutionality of the appointments to the Board made in January 2012.

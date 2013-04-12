@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1120
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1120
@@ -48,6 +48,11 @@ Preventing Greater Uncertainty in Labor-Management Relations Act
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (2)
+
+- 2013-04-12 — [House 113-1-100](votes/house-113-1-0100.md) — On Motion to Recommit with Instructions — **Failed** (197–229)
+- 2013-04-12 — [House 113-1-101](votes/house-113-1-0101.md) — On Passage — **Passed** (219–209)
+
 ## Actions
 
 - 2013-03-13 — Introduced in House
@@ -58,3 +63,17 @@ Preventing Greater Uncertainty in Labor-Management Relations Act
 - 2013-04-09 — Placed on the Union Calendar, Calendar No. 18.
 - 2013-04-09 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-30.
 - 2013-04-09 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-30.
+- 2013-04-10 — Rules Committee Resolution H. Res. 146 Reported to House. Rule provides for consideration of H.R. 1120 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2013-04-11 — Rule H. Res. 146 passed House.
+- 2013-04-12 — Considered under the provisions of rule H. Res. 146. (consideration: CR H1963-1975)
+- 2013-04-12 — DEBATE - The House proceeded with 10 minutes of debate on the Bustos motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to protect the employment and election rights of veterans and the American workforce against outsourcing, abuse by foreign firms, unsafe working conditions and discrimination.
+- 2013-04-12 — DEBATE - The House proceeded with one hour of debate on H.R. 1120.
+- 2013-04-12 — House amendment offered
+- 2013-04-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-04-12 — Mrs. Bustos moved to recommit with instructions to Education and the Workforce. (consideration: CR H1973; text: CR H1973)
+- 2013-04-12 — On motion to recommit with instructions Failed by the Yeas and Nays: 197 - 229 (Roll no. 100).
+- 2013-04-12 — On passage Passed by recorded vote: 219 - 209 (Roll no. 101). (text: CR H1963)
+- 2013-04-12 — Passed/agreed to in House: On passage Passed by recorded vote: 219 - 209 (Roll no. 101).(text: CR H1963)
+- 2013-04-12 — Rule provides for consideration of H.R. 1120 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The resolution provides that an amendment in the nature of a substitute consisting of the text of the Rules Committee Print 113-6 shall be considered as adopted.
+- 2013-04-12 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1974)
+- 2013-04-12 — The previous question was ordered pursuant to the rule. (consideration: CR H1973)
