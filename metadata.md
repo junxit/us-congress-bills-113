@@ -1,7 +1,7 @@
 ---
 measure: H.R. 882
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 882
@@ -29,3 +29,8 @@ Contracting and Tax Accountability Act of 2013
 - 2013-02-28 — Introduced in House
 - 2013-02-28 — Introduced in House
 - 2013-02-28 — Referred to the House Committee on Oversight and Government Reform.
+- 2013-03-20 — Committee Consideration and Mark-up Session Held.
+- 2013-03-20 — Ordered to be Reported by Voice Vote.
+- 2013-04-12 — Placed on the Union Calendar, Calendar No. 21.
+- 2013-04-12 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-35.
+- 2013-04-12 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-35.
