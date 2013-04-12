@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 1537
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1537
+
+> To amend title 13, United States Code, to provide that individuals in prison shall, for the purposes of a decennial census, be attributed to the last place of residence before incarceration.
+
+## § 1. Residence of incarcerated individuals
+
+Section 141 of title 13, United States Code, is amended—
+
+- **(1)** by resdesignating subsection (g) as subsection (h); and
+- **(2)** by inserting after subsection (f) the following:
+  > - **(g)**
+  >   - **(1)** Effective beginning with the 2020 decennial census of population, in taking any tabulation of total population by States under subjection (a) for purposes of the apportionment of Representatives in Congress among the several States, the Secretary shall, with respect to an individual incarcerated in a State, Federal, county, or municipal correctional center as of the date on which such census is taken, attribute such individual to such individual’s last place of residence before incarceration.
+  >   - **(2)** In carrying out this subsection, the Secretary shall consult with each State department of corrections to collect the information necessary to make the determination required under paragraph (1).
