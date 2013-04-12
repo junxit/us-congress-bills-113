@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1162
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1162
@@ -29,3 +29,8 @@ Government Accountability Office Improvement Act
 - 2013-03-14 — Introduced in House
 - 2013-03-14 — Introduced in House
 - 2013-03-14 — Referred to the House Committee on Oversight and Government Reform.
+- 2013-03-20 — Committee Consideration and Mark-up Session Held.
+- 2013-03-20 — Ordered to be Reported by Voice Vote.
+- 2013-04-12 — Placed on the Union Calendar, Calendar No. 22.
+- 2013-04-12 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-36.
+- 2013-04-12 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-36.
