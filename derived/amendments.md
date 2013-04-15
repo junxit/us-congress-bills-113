@@ -1,0 +1,70 @@
+---
+measure: H.R. 1553
+congress: 113
+version: Introduced in House
+derived: true
+---
+
+# What H.R. 1553 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+19 amendatory instructions. 2 executed, 17 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Executed
+
+### 12 U.S.C. § 4806
+
+> in paragraph (2), by striking “the appellant from retaliation by agency examiners” and inserting “the insured depository institution or insured credit union from retaliation by the agencies referred to in subsection (a)”; and
+
+| | |
+|---|---|
+| Removed | `the appellant from retaliation by agency examiners` |
+| Inserted | `the insured depository institution or insured credit union from retaliation by the agencies referred to in subsection (a)` |
+
+### 12 U.S.C. § 3301
+
+> in section 1005, by striking “One-fifth” and inserting “One-fourth”.
+
+| | |
+|---|---|
+| Removed | `One-fifth` |
+| Inserted | `One-fourth` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| — | add-at-end | The Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3301 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The Federal Financial Institutions Examination Council Act of 1978 is further amended by adding after section 1012 the following: | the bill names no machine-readable US Code section |
+| — | strike | in clause (ii), by striking “and” at the end; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after clause (iii) the following: | the bill names no machine-readable US Code section |
+| — | amend | The Federal Financial Institutions Examination Council Act of 1978 is further amended by adding after section 1013 the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (2), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | amend | in paragraph (3), by adding “and” at the end; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `5 U.S.C. § 556` | amend | The Federal Financial Institutions Examination Council Act of 1978 is further amended by adding after section 1014 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 4806` | insert | in subsection (a), by inserting after “appropriate Federal banking agency” the following: “, the Bureau of Consumer Financial Protection,”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 4806` | amend | by adding at the end the following flush-left text: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 4806` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 4806` | replace | in subparagraph (C), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 4806` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1828` | insert | Section 18(x) of the Federal Deposit Insurance Act (12 U.S.C. 1828(x)) is amended by inserting “the Bureau of Consumer Financial Protection,” before “any Federal banking agency” each place such term appears. | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 1785` | insert | Section 205(j) of the Federal Credit Union Act (12 U.S.C. 1785(j)) is amended by inserting “the Bureau of Consumer Financial Protection,” before “the Administration” each place such term appears. | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 3301` | strike | in section 1003(1), by striking “the Office of Thrift Supervision,”; and | the bill quotes the text struck but describes what replaces it |
