@@ -1,7 +1,7 @@
 ---
 measure: H.R. 678
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 678
@@ -30,9 +30,10 @@ Bureau of Reclamation Small Conduit Hydropower Development and Rural Jobs Act
 - Rep. Daines, Steve [R-MT-At Large] (D000618)
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (3)
 
@@ -96,3 +97,4 @@ Bureau of Reclamation Small Conduit Hydropower Development and Rural Jobs Act
 - 2013-04-10 — The Speaker designated the Honorable Ted Poe to act as Chairman of the Committee.
 - 2013-04-10 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1889)
 - 2013-04-10 — The previous question was ordered pursuant to the rule. (consideration: CR H1888)
+- 2013-04-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
