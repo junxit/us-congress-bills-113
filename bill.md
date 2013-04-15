@@ -24,11 +24,11 @@ It is the policy of the United States Government that no Government contracts or
   - **(2)** authorizing the Secretary of the Treasury to disclose to the head of the agency information limited to describing whether the person has a seriously delinquent tax debt.
 - **(b)** *Impact on responsibility determination* The head of any executive agency, in evaluating any offer received in response to a solicitation issued by the agency for bids or proposals for a contract, shall consider a certification that the offeror has a seriously delinquent tax debt to be definitive proof that the offeror is not a responsible source as defined in section 113 of title 41, United States Code.
 - **(c)** *Debarment*
-  - **(1)** *Requirement* Except as provided in paragraph (2), the head of an executive agency shall propose a person for debarment after receiving an offer for a contract from such person if—
+  - **(1)** *Requirement* Except as provided in paragraph (2), the head of an executive agency shall initiate a suspension or debarment proceeding against a person after receiving an offer for a contract from such person if—
     - **(A)** such offer contains a certification (as required under subsection (a)(1)) that such person has a seriously delinquent tax debt; or
     - **(B)** the head of the agency receives information from the Secretary of the Treasury (as authorized under subsection (a)(2)) demonstrating that such a certification submitted by such person is false.
   - **(2)** *Waiver* The head of an executive agency may waive paragraph (1) with respect to a person based upon a written finding of urgent and compelling circumstances significantly affecting the interests of the United States. If the head of an executive agency waives paragraph (1) for a person, the head of the agency shall submit to Congress, within 30 days after the waiver is made, a report containing the rationale for the waiver and relevant information supporting the waiver decision.
-- **(d)** *Release of information* The Secretary of the Treasury shall make available to all executive agencies a standard form for the authorization described in subsection (a).
+- **(d)** *Release of information* The Secretary of the Treasury, in consultation with the Director of the Office of Management and Budget, shall make available to all executive agencies a standard form for the authorization described in subsection (a).
 - **(e)** *Revision of regulations* Not later than 270 days after the date of enactment of this subsection, the Federal Acquisition Regulation shall be revised to incorporate the requirements of this section.
 
 ## § 4. Disclosure and evaluation of grant applications from delinquent Federal debtors
@@ -38,11 +38,11 @@ It is the policy of the United States Government that no Government contracts or
   - **(2)** authorizing the Secretary of the Treasury to disclose to the head of the executive agency information limited to describing whether the person has a seriously delinquent tax debt.
 - **(b)** *Impact on determination of financial stability* The head of any executive agency, in evaluating any application for a grant offered by the agency, shall consider a certification that the grant applicant has a seriously delinquent tax debt to be definitive proof that the applicant is high-risk and, if the applicant is awarded the grant, shall take appropriate measures under guidelines issued by the Office of Management and Budget for enhanced oversight of high-risk grantees.
 - **(c)** *Debarment*
-  - **(1)** *Requirement* Except as provided in paragraph (2), the head of an executive agency shall propose a person for debarment after receiving a grant application from such person if—
+  - **(1)** *Requirement* Except as provided in paragraph (2), the head of an executive agency shall initiate a suspension or debarment proceeding against a person after receiving a grant application from such person if—
     - **(A)** such application contains a certification (as required under subsection (a)(1)) that such person has a seriously delinquent tax debt; or
     - **(B)** the head of the agency receives information from the Secretary of the Treasury (as authorized under subsection (a)(2)) demonstrating that such a certification submitted by such person is false.
   - **(2)** *Waiver* The head of an executive agency may waive paragraph (1) with respect to a person based upon a written finding of urgent and compelling circumstances significantly affecting the interests of the United States. If the head of an executive agency waives paragraph (1) for a person, the head of the agency shall submit to Congress, within 30 days after the waiver is made, a report containing the rationale for the waiver and relevant information supporting the waiver decision.
-- **(d)** *Release of information* The Secretary of the Treasury shall make available to all executive agencies a standard form for the authorization described in subsection (a).
+- **(d)** *Release of information* The Secretary of the Treasury, in consultation with the Director of the Office of Management and Budget, shall make available to all executive agencies a standard form for the authorization described in subsection (a).
 - **(e)** *Revision of regulations* Not later than 270 days after the date of the enactment of this section, the Director of the Office of Management and Budget shall revise such regulations as necessary to incorporate the requirements of this section.
 
 ## § 5. Definitions and special rules
@@ -63,7 +63,7 @@ For purposes of this Act:
     - **(ii)** has a seriously delinquent tax debt.
 - **(2)** *Executive agency* The term executive agency has the meaning given such term in section 133 of title 41, United States Code.
 - **(3)** *Seriously delinquent tax debt*
-  - **(A)** *In general* The term seriously delinquent tax debt means an outstanding debt under the Internal Revenue Code of 1986 for which a notice of lien has been filed in public records pursuant to section 6323 of such Code.
+  - **(A)** *In general* The term seriously delinquent tax debt means an outstanding Federal debt under the Internal Revenue Code of 1986 for which a notice of lien has been filed in public records pursuant to section 6323 of such Code.
   - **(B)** *Exceptions* Such term does not include—
     - **(i)** a debt that is being paid in a timely manner pursuant to an agreement under section 6159 or section 7122 of such Code; and
     - **(ii)** a debt with respect to which a collection due process hearing under section 6330 of such Code, or relief under subsection (a), (b), or (f) of section 6015 of such Code, is requested or pending.
