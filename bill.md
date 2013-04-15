@@ -41,12 +41,13 @@ This Act may be cited as the “Cyber Intelligence Sharing and Protection Act”
   >       - **(i)** use cybersecurity systems to identify and obtain cyber threat information to protect the rights and property of such self-protected entity; and
   >       - **(ii)** share such cyber threat information with any other entity, including the Federal Government.
   >   - **(2)** *Sharing with the Federal Government*
-  >     - **(A)** *Information shared with the National Cybersecurity and Communications Integration Center of the Department of Homeland Security* Subject to the use and protection of information requirements under paragraph (3), the head of a department or agency of the Federal Government receiving cyber threat information in accordance with paragraph (1) shall provide such cyber threat information to the National Cybersecurity and Communications Integration Center of the Department of Homeland Security.
-  >     - **(B)** *Request to share with another department or agency of the Federal Government* An entity sharing cyber threat information that is provided to the National Cybersecurity and Communications Integration Center of the Department of Homeland Security under subparagraph (A) or paragraph (1) may request the head of such Center to, and the head of such Center may, provide such information to another department or agency of the Federal Government.
+  >     - **(A)** *Information shared with the National Cybersecurity and Communications Integration Center of the Department of Homeland Security* Subject to the use and protection of information requirements under paragraph (3), the head of a department or agency of the Federal Government receiving cyber threat information in accordance with paragraph (1) shall provide such cyber threat information in as close to real time as possible to the National Cybersecurity and Communications Integration Center of the Department of Homeland Security.
+  >     - **(B)** *Request to share with another department or agency of the Federal Government* An entity sharing cyber threat information that is provided to the National Cybersecurity and Communications Integration Center of the Department of Homeland Security under subparagraph (A) or paragraph (1) may request the head of such Center to, and the head of such Center may, provide such information in as close to real time as possible to another department or agency of the Federal Government.
   >   - **(3)** *Use and protection of information* Cyber threat information shared in accordance with paragraph (1)—
-  >     - **(A)** shall only be shared in accordance with any restrictions placed on the sharing of such information by the protected entity or self-protected entity authorizing such sharing, including appropriate anonymization or minimization of such information;
+  >     - **(A)** shall only be shared in accordance with any restrictions placed on the sharing of such information by the protected entity or self-protected entity authorizing such sharing, including appropriate anonymization or minimization of such information and excluding limiting a department or agency of the Federal Government from sharing such information with another department or agency of the Federal Government in accordance with this section;
   >     - **(B)** may not be used by an entity to gain an unfair competitive advantage to the detriment of the protected entity or the self-protected entity authorizing the sharing of information;
-  >     - **(C)** if shared with the Federal Government—
+  >     - **(C)** may only be used by a non-Federal recipient of such information for a cybersecurity purpose;
+  >     - **(D)** if shared with the Federal Government—
   >       - **(i)** shall be exempt from disclosure under section 552 of title 5, United States Code (commonly known as the “Freedom of Information Act”);
   >       - **(ii)** shall be considered proprietary information and shall not be disclosed to an entity outside of the Federal Government except as authorized by the entity sharing such information;
   >       - **(iii)** shall not be used by the Federal Government for regulatory purposes;
@@ -54,25 +55,29 @@ This Act may be cited as the “Cyber Intelligence Sharing and Protection Act”
   >         - **(I)** the entity providing such information determines that the provision of such information will undermine the purpose for which such information is shared; or
   >         - **(II)** unless otherwise directed by the President, the head of the department or agency of the Federal Government receiving such cyber threat information determines that the provision of such information will undermine the purpose for which such information is shared; and
   >       - **(v)** shall be handled by the Federal Government consistent with the need to protect sources and methods and the national security of the United States; and
-  >     - **(D)** shall be exempt from disclosure under a State, local, or tribal law or regulation that requires public disclosure of information by a public or quasi-public entity.
-  >   - **(4)** *Exemption from liability* No civil or criminal cause of action shall lie or be maintained in Federal or State court against a protected entity, self-protected entity, cybersecurity provider, or an officer, employee, or agent of a protected entity, self-protected entity, or cybersecurity provider, acting in good faith—
-  >     - **(A)** for using cybersecurity systems to identify or obtain cyber threat information or for sharing such information in accordance with this section; or
-  >     - **(B)** for decisions made based on cyber threat information identified, obtained, or shared under this section.
+  >     - **(E)** shall be exempt from disclosure under a State, local, or tribal law or regulation that requires public disclosure of information by a public or quasi-public entity.
+  >   - **(4)** *Exemption from liability*
+  >     - **(A)** *Exemption* No civil or criminal cause of action shall lie or be maintained in Federal or State court against a protected entity, self-protected entity, cybersecurity provider, or an officer, employee, or agent of a protected entity, self-protected entity, or cybersecurity provider, acting in good faith—
+  >       - **(i)** for using cybersecurity systems to identify or obtain cyber threat information or for sharing such information in accordance with this section; or
+  >       - **(ii)** for decisions made for cybersecurity purposes and based on cyber threat information identified, obtained, or shared under this section.
+  >     - **(B)** *Lack of good faith* For purposes of the exemption from liability under subparagraph (A), a lack of good faith includes, but is not limited to, any act or omission taken with intent to injure, defraud, or otherwise endanger any individual, government entity, private entity, or utility.
   >   - **(5)** *Relationship to other laws requiring the disclosure of information* The submission of information under this subsection to the Federal Government shall not satisfy or affect—
   >     - **(A)** any requirement under any other provision of law for a person or entity to provide information to the Federal Government; or
   >     - **(B)** the applicability of other provisions of law, including section 552 of title 5, United States Code (commonly known as the “Freedom of Information Act”), with respect to information required to be provided to the Federal Government under such other provision of law.
+  >   - **(6)** *Rule of construction* Nothing in this subsection shall be construed to provide new authority to—
+  >     - **(A)** a cybersecurity provider to use a cybersecurity system to identify or obtain cyber threat information from a system or network other than a system or network owned or operated by a protected entity for which such cybersecurity provider is providing goods or services for cybersecurity purposes; or
+  >     - **(B)** a self-protected entity to use a cybersecurity system to identify or obtain cyber threat information from a system or network other than a system or network owned or operated by such self-protected entity.
   > - **(c)** *Federal Government use of information*
   >   - **(1)** *Limitation* The Federal Government may use cyber threat information shared with the Federal Government in accordance with subsection (b)—
   >     - **(A)** for cybersecurity purposes;
   >     - **(B)** for the investigation and prosecution of cybersecurity crimes;
-  >     - **(C)** for the protection of individuals from the danger of death or serious bodily harm and the investigation and prosecution of crimes involving such danger of death or serious bodily harm;
-  >     - **(D)** for the protection of minors from child pornography, any risk of sexual exploitation, and serious threats to the physical safety of minors, including kidnapping and trafficking and the investigation and prosecution of crimes involving child pornography, any risk of sexual exploitation, and serious threats to the physical safety of minors, including kidnapping and trafficking, and any crime referred to in section 2258A(a)(2) of title 18, United States Code; or
-  >     - **(E)** to protect the national security of the United States.
-  >   - **(2)** *Affirmative search restriction* The Federal Government may not affirmatively search cyber threat information shared with the Federal Government under subsection (b) for a purpose other than a purpose referred to in paragraph (1)(B).
+  >     - **(C)** for the protection of individuals from the danger of death or serious bodily harm and the investigation and prosecution of crimes involving such danger of death or serious bodily harm; or
+  >     - **(D)** for the protection of minors from child pornography, any risk of sexual exploitation, and serious threats to the physical safety of minors, including kidnapping and trafficking and the investigation and prosecution of crimes involving child pornography, any risk of sexual exploitation, and serious threats to the physical safety of minors, including kidnapping and trafficking, and any crime referred to in section 2258A(a)(2) of title 18, United States Code.
+  >   - **(2)** *Affirmative search restriction* The Federal Government may not affirmatively search cyber threat information shared with the Federal Government under subsection (b) for a purpose other than a purpose referred to in paragraph (1).
   >   - **(3)** *Anti-tasking restriction* Nothing in this section shall be construed to permit the Federal Government to—
-  >     - **(A)** require a private-sector entity to share information with the Federal Government; or
-  >     - **(B)** condition the sharing of cyber threat intelligence with a private-sector entity on the provision of cyber threat information to the Federal Government.
-  >   - **(4)** *Protection of sensitive personal documents* The Federal Government may not use the following information, containing information that identifies a person, shared with the Federal Government in accordance with subsection (b):
+  >     - **(A)** require a private-sector entity or utility to share information with the Federal Government; or
+  >     - **(B)** condition the sharing of cyber threat intelligence with a private-sector entity or utility on the provision of cyber threat information to the Federal Government.
+  >   - **(4)** *Protection of sensitive personal documents* The Federal Government may not use the following information, containing information that identifies a person, shared with the Federal Government in accordance with subsection (b) unless such information is used in accordance with the policies and procedures established under paragraph (7):
   >     - **(A)** Library circulation records.
   >     - **(B)** Library patron lists.
   >     - **(C)** Book sales records.
@@ -83,9 +88,20 @@ This Act may be cited as the “Cyber Intelligence Sharing and Protection Act”
   >     - **(H)** Medical records.
   >   - **(5)** *Notification of non-cyber threat information* If a department or agency of the Federal Government receiving information pursuant to subsection (b)(1) determines that such information is not cyber threat information, such department or agency shall notify the entity or provider sharing such information pursuant to subsection (b)(1).
   >   - **(6)** *Retention and use of cyber threat information* No department or agency of the Federal Government shall retain or use information shared pursuant to subsection (b)(1) for any use other than a use permitted under subsection (c)(1).
-  >   - **(7)** *Protection of individual information* The Federal Government may, consistent with the need to protect Federal systems and critical information infrastructure from cybersecurity threats and to mitigate such threats, undertake reasonable efforts to limit the impact on privacy and civil liberties of the sharing of cyber threat information with the Federal Government pursuant to this subsection.
+  >   - **(7)** *Privacy and civil liberties*
+  >     - **(A)** *Policies and procedures* The Director of National Intelligence, in consultation with the Secretary of Homeland Security and the Attorney General, shall establish and periodically review policies and procedures governing the receipt, retention, use, and disclosure of non-publicly available cyber threat information shared with the Federal Government in accordance with subsection (b)(1). Such policies and procedures shall, consistent with the need to protect systems and networks from cyber threats and mitigate cyber threats in a timely manner—
+  >       - **(i)** minimize the impact on privacy and civil liberties;
+  >       - **(ii)** reasonably limit the receipt, retention, use, and disclosure of cyber threat information associated with specific persons that is not necessary to protect systems or networks from cyber threats or mitigate cyber threats in a timely manner;
+  >       - **(iii)** include requirements to safeguard non-publicly available cyber threat information that may be used to identify specific persons from unauthorized access or acquisition;
+  >       - **(iv)** protect the confidentiality of cyber threat information associated with specific persons to the greatest extent practicable; and
+  >       - **(v)** not delay or impede the flow of cyber threat information necessary to defend against or mitigate a cyber threat.
+  >     - **(B)** *Submission to Congress* The Director of National Intelligence shall, consistent with the need to protect sources and methods, submit to Congress the policies and procedures required under subparagraph (A) and any updates to such policies and procedures.
+  >     - **(C)** *Implementation* The head of each department or agency of the Federal Government receiving cyber threat information shared with the Federal Government under subsection (b)(1) shall—
+  >       - **(i)** implement the policies and procedures established under subparagraph (A); and
+  >       - **(ii)** promptly notify the Director of National Intelligence, the Attorney General, and the congressional intelligence committees of any significant violations of such policies and procedures.
+  >     - **(D)** *Oversight* The Director of National Intelligence, in consultation with the Attorney General, the Secretary of Homeland Security, and the Secretary of Defense, shall establish a program to monitor and oversee compliance with the policies and procedures established under subparagraph (A).
   > - **(d)** *Federal Government liability for violations of restrictions on the disclosure, use, and protection of voluntarily shared information*
-  >   - **(1)** *In general* If a department or agency of the Federal Government intentionally or willfully violates subsection (b)(3)(C) or subsection (c) with respect to the disclosure, use, or protection of voluntarily shared cyber threat information shared under this section, the United States shall be liable to a person adversely affected by such violation in an amount equal to the sum of—
+  >   - **(1)** *In general* If a department or agency of the Federal Government intentionally or willfully violates subsection (b)(3)(D) or subsection (c) with respect to the disclosure, use, or protection of voluntarily shared cyber threat information shared under this section, the United States shall be liable to a person adversely affected by such violation in an amount equal to the sum of—
   >     - **(A)** the actual damages sustained by the person as a result of the violation or $1,000, whichever is greater; and
   >     - **(B)** the costs of the action together with reasonable attorney fees as determined by the court.
   >   - **(2)** *Venue* An action to enforce liability created under this subsection may be brought in the district court of the United States in—
@@ -93,10 +109,10 @@ This Act may be cited as the “Cyber Intelligence Sharing and Protection Act”
   >     - **(B)** the district in which the principal place of business of the complainant is located;
   >     - **(C)** the district in which the department or agency of the Federal Government that disclosed the information is located; or
   >     - **(D)** the District of Columbia.
-  >   - **(3)** *Statute of limitations* No action shall lie under this subsection unless such action is commenced not later than two years after the date of the violation of subsection (b)(3)(C) or subsection (c) that is the basis for the action.
-  >   - **(4)** *Exclusive cause of action* A cause of action under this subsection shall be the exclusive means available to a complainant seeking a remedy for a violation of subsection (b)(3)(C) or subsection (c).
-  > - **(e)** *Report on information sharing*
-  >   - **(1)** *Report* The Inspector General of the Intelligence Community shall annually submit to the congressional intelligence committees a report containing a review of the use of information shared with the Federal Government under this section, including—
+  >   - **(3)** *Statute of limitations* No action shall lie under this subsection unless such action is commenced not later than two years after the date of the violation of subsection (b)(3)(D) or subsection (c) that is the basis for the action.
+  >   - **(4)** *Exclusive cause of action* A cause of action under this subsection shall be the exclusive means available to a complainant seeking a remedy for a violation of subsection (b)(3)(D) or subsection (c).
+  > - **(e)** *Reports on information sharing*
+  >   - **(1)** *Inspector General report* The Inspector General of the Intelligence Community, in consultation with the Inspector General of the Department of Justice, the Inspector General of the Department of Defense, and the Privacy and Civil Liberties Oversight Board, shall annually submit to the congressional intelligence committees a report containing a review of the use of information shared with the Federal Government under this section, including—
   >     - **(A)** a review of the use by the Federal Government of such information for a purpose other than a cybersecurity purpose;
   >     - **(B)** a review of the type of information shared with the Federal Government under this section;
   >     - **(C)** a review of the actions taken by the Federal Government based on such information;
@@ -104,7 +120,8 @@ This Act may be cited as the “Cyber Intelligence Sharing and Protection Act”
   >     - **(E)** a list of the departments or agencies receiving such information;
   >     - **(F)** a review of the sharing of such information within the Federal Government to identify inappropriate stovepiping of shared information; and
   >     - **(G)** any recommendations of the Inspector General for improvements or modifications to the authorities under this section.
-  >   - **(2)** *Form* Each report required under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+  >   - **(2)** *Privacy and civil liberties officers report* The Civil Liberties Protection Officer of the Office of the Director of National Intelligence and the Chief Privacy and Civil Liberties Officer of the Department of Justice, in consultation with the Privacy and Civil Liberties Oversight Board, the Inspector General of the Intelligence Community, and the senior privacy and civil liberties officer of each department or agency of the Federal Government that receives cyber threat information shared with the Federal Government under this section, shall annually and jointly submit to Congress a report assessing the privacy and civil liberties impact of the activities conducted by the Federal Government under this section. Such report shall include any recommendations the Civil Liberties Protection Officer and Chief Privacy and Civil Liberties Officer consider appropriate to minimize or mitigate the privacy and civil liberties impact of the sharing of cyber threat information under this section.
+  >   - **(3)** *Form* Each report required under paragraph (1) or (2) shall be submitted in unclassified form, but may include a classified annex.
   > - **(f)** *Federal preemption* This section supersedes any statute of a State or political subdivision of a State that restricts or otherwise expressly regulates an activity authorized under subsection (b).
   > - **(g)** *Savings clauses*
   >   - **(1)** *Existing authorities* Nothing in this section shall be construed to limit any other authority to use a cybersecurity system or to identify, obtain, or share cyber threat intelligence or cyber threat information.
@@ -112,8 +129,9 @@ This Act may be cited as the “Cyber Intelligence Sharing and Protection Act”
   >   - **(3)** *Information sharing relationships* Nothing in this section shall be construed to—
   >     - **(A)** limit or modify an existing information sharing relationship;
   >     - **(B)** prohibit a new information sharing relationship;
-  >     - **(C)** require a new information sharing relationship between the Federal Government and a private-sector entity; or
-  >     - **(D)** modify the authority of a department or agency of the Federal Government to protect sources and methods and the national security of the United States.
+  >     - **(C)** require a new information sharing relationship between the Federal Government and a private-sector entity or utility;
+  >     - **(D)** modify the authority of a department or agency of the Federal Government to protect sources and methods and the national security of the United States; or
+  >     - **(E)** preclude the Federal Government from requiring an entity to report significant cyber incidents if authorized or required to do so under another provision of law.
   >   - **(4)** *Limitation on Federal Government use of cybersecurity systems* Nothing in this section shall be construed to provide additional authority to, or modify an existing authority of, any entity to use a cybersecurity system owned or controlled by the Federal Government on a private-sector system or network to protect such private-sector system or network.
   >   - **(5)** *No liability for non-participation* Nothing in this section shall be construed to subject a protected entity, self-protected entity, cyber security provider, or an officer, employee, or agent of a protected entity, self-protected entity, or cybersecurity provider, to liability for choosing not to engage in the voluntary activities authorized under this section.
   >   - **(6)** *Use and retention of information* Nothing in this section shall be construed to authorize, or to modify any existing authority of, a department or agency of the Federal Government to retain or use information shared pursuant to subsection (b)(1) for any use other than a use permitted under subsection (c)(1).
@@ -125,25 +143,25 @@ This Act may be cited as the “Cyber Intelligence Sharing and Protection Act”
   >   - **(3)** *Confidentiality* The term “confidentiality” means preserving authorized restrictions on access and disclosure, including means for protecting personal privacy and proprietary information.
   >   - **(4)** *Cyber threat information*
   >     - **(A)** *In General* The term “cyber threat information” means information directly pertaining to—
-  >       - **(i)** a vulnerability of a system or network of a government or private entity;
-  >       - **(ii)** a threat to the integrity, confidentiality, or availability of a system or network of a government or private entity or any information stored on, processed on, or transiting such a system or network;
-  >       - **(iii)** efforts to deny access to or degrade, disrupt, or destroy a system or network of a government or private entity; or
-  >       - **(iv)** efforts to gain unauthorized access to a system or network of a government or private entity, including to gain such unauthorized access for the purpose of exfiltrating information stored on, processed on, or transiting a system or network of a government or private entity.
-  >     - **(B)** *Exclusion* Such term does not include information pertaining to efforts to gain unauthorized access to a system or network of a government or private entity that solely involve violations of consumer terms of service or consumer licensing agreements and do not otherwise constitute unauthorized access.
+  >       - **(i)** a vulnerability of a system or network of a government or private entity or utility;
+  >       - **(ii)** a threat to the integrity, confidentiality, or availability of a system or network of a government or private entity or utility or any information stored on, processed on, or transiting such a system or network;
+  >       - **(iii)** efforts to deny access to or degrade, disrupt, or destroy a system or network of a government or private entity or utility; or
+  >       - **(iv)** efforts to gain unauthorized access to a system or network of a government or private entity or utility, including to gain such unauthorized access for the purpose of exfiltrating information stored on, processed on, or transiting a system or network of a government or private entity or utility.
+  >     - **(B)** *Exclusion* Such term does not include information pertaining to efforts to gain unauthorized access to a system or network of a government or private entity or utility that solely involve violations of consumer terms of service or consumer licensing agreements and do not otherwise constitute unauthorized access.
   >   - **(5)** *Cyber threat intelligence*
   >     - **(A)** *In general* The term “cyber threat intelligence” means intelligence in the possession of an element of the intelligence community directly pertaining to—
-  >       - **(i)** a vulnerability of a system or network of a government or private entity;
-  >       - **(ii)** a threat to the integrity, confidentiality, or availability of a system or network of a government or private entity or any information stored on, processed on, or transiting such a system or network;
-  >       - **(iii)** efforts to deny access to or degrade, disrupt, or destroy a system or network of a government or private entity; or
-  >       - **(iv)** efforts to gain unauthorized access to a system or network of a government or private entity, including to gain such unauthorized access for the purpose of exfiltrating information stored on, processed on, or transiting a system or network of a government or private entity.
-  >     - **(B)** *Exclusion* Such term does not include intelligence pertaining to efforts to gain unauthorized access to a system or network of a government or private entity that solely involve violations of consumer terms of service or consumer licensing agreements and do not otherwise constitute unauthorized access.
+  >       - **(i)** a vulnerability of a system or network of a government or private entity or utility;
+  >       - **(ii)** a threat to the integrity, confidentiality, or availability of a system or network of a government or private entity or utility or any information stored on, processed on, or transiting such a system or network;
+  >       - **(iii)** efforts to deny access to or degrade, disrupt, or destroy a system or network of a government or private entity or utility; or
+  >       - **(iv)** efforts to gain unauthorized access to a system or network of a government or private entity or utility, including to gain such unauthorized access for the purpose of exfiltrating information stored on, processed on, or transiting a system or network of a government or private entity or utility.
+  >     - **(B)** *Exclusion* Such term does not include intelligence pertaining to efforts to gain unauthorized access to a system or network of a government or private entity or utility that solely involve violations of consumer terms of service or consumer licensing agreements and do not otherwise constitute unauthorized access.
   >   - **(6)** *Cybersecurity crime* The term “cybersecurity crime” means—
   >     - **(A)** a crime under a Federal or State law that involves—
   >       - **(i)** efforts to deny access to or degrade, disrupt, or destroy a system or network;
   >       - **(ii)** efforts to gain unauthorized access to a system or network; or
   >       - **(iii)** efforts to exfiltrate information from a system or network without authorization; or
   >     - **(B)** the violation of a provision of Federal law relating to computer crimes, including a violation of any provision of title 18, United States Code, created or amended by the Computer Fraud and Abuse Act of 1986 (Public Law 99–474).
-  >   - **(7)** *Cybersecurity provider* The term cybersecurity provider means a non-governmental entity that provides goods or services intended to be used for cybersecurity purposes.
+  >   - **(7)** *Cybersecurity provider* The term cybersecurity provider means a non-Federal entity that provides goods or services intended to be used for cybersecurity purposes.
   >   - **(8)** *Cybersecurity purpose*
   >     - **(A)** *In general* The term “cybersecurity purpose” means the purpose of ensuring the integrity, confidentiality, or availability of, or safeguarding, a system or network, including protecting a system or network from—
   >       - **(i)** a vulnerability of a system or network;
@@ -165,14 +183,15 @@ This Act may be cited as the “Cyber Intelligence Sharing and Protection Act”
 
 - **(b)** *Procedures and guidelines* The Director of National Intelligence shall—
   - **(1)** not later than 60 days after the date of the enactment of this Act, establish procedures under paragraph (1) of section 1104(a) of the National Security Act of 1947, as added by subsection (a) of this section, and issue guidelines under paragraph (3) of such section 1104(a);
-  - **(2)** in establishing such procedures and issuing such guidelines, consult with the Secretary of Homeland Security to ensure that such procedures and such guidelines permit the owners and operators of critical infrastructure to receive all appropriate cyber threat intelligence (as defined in section 1104(h)(3) of such Act, as added by subsection (a)) in the possession of the Federal Government; and
-  - **(3)** following the establishment of such procedures and the issuance of such guidelines, expeditiously distribute such procedures and such guidelines to appropriate departments and agencies of the Federal Government, private-sector entities, and utilities (as defined in section 1104(h)(9) of such Act, as added by subsection (a)).
-- **(c)** *Initial report* The first report required to be submitted under subsection (e) of section 1104 of the National Security Act of 1947, as added by subsection (a) of this section, shall be submitted not later than 1 year after the date of the enactment of this Act.
-- **(d)** *Table of contents amendment* The table of contents in the first section of the National Security Act of 1947 is amended by adding at the end the following new item:
+  - **(2)** in establishing such procedures and issuing such guidelines, consult with the Secretary of Homeland Security to ensure that such procedures and such guidelines permit the owners and operators of critical infrastructure to receive all appropriate cyber threat intelligence (as defined in section 1104(h)(5) of such Act, as added by subsection (a)) in the possession of the Federal Government; and
+  - **(3)** following the establishment of such procedures and the issuance of such guidelines, expeditiously distribute such procedures and such guidelines to appropriate departments and agencies of the Federal Government, private-sector entities, and utilities (as defined in section 1104(h)(13) of such Act, as added by subsection (a)).
+- **(c)** *Privacy and civil liberties policies and procedures* Not later than 60 days after the date of the enactment of this Act, the Director of National Intelligence, in consultation with the Secretary of Homeland Security and the Attorney General, shall establish the policies and procedures required under section 1104(c)(7)(A) of the National Security Act of 1947, as added by subsection (a) of this section.
+- **(d)** *Initial reports* The first reports required to be submitted under paragraphs (1) and (2) of subsection (e) of section 1104 of the National Security Act of 1947, as added by subsection (a) of this section, shall be submitted not later than 1 year after the date of the enactment of this Act.
+- **(e)** *Table of contents amendment* The table of contents in the first section of the National Security Act of 1947 is amended by adding at the end the following new item:
 
 ## § 3. Sunset
 
 Effective on the date that is 5 years after the date of the enactment of this Act—
 
 - **(1)** section 1104 of the National Security Act of 1947, as added by section 2(a) of this Act, is repealed; and
-- **(2)** the table of contents in the first section of the National Security Act of 1947, as amended by section 2(d) of this Act, is amended by striking the item relating to section 1104, as added by such section 2(d).
+- **(2)** the table of contents in the first section of the National Security Act of 1947, as amended by section 2(e) of this Act, is amended by striking the item relating to section 1104, as added by such section 2(e).
