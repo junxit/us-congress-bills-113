@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1246
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Section 424(b) of the District of Columbia Home Rule Act (sec. 1–204.24(b), D.C. Official Code) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 424(b) of the District of Columbia Home Rule Act (sec. 1–204.24(b), D.C. Official Code) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 424(b)(2)(D) of such Act (sec. 1–204.24(b)(2)(D), D.C. Official Code) is amended by striking “Any vacancy” and inserting “Subject to paragraph (3), any vacancy”. | the bill names no machine-readable US Code section |
