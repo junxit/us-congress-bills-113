@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1162
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -54,7 +54,7 @@ complete account of the bill's effect, which it is not.
 | `31 U.S.C. § 716` | insert | by inserting after the section heading the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 716` | repeal | The Comptroller General is authorized to obtain such agency records as the Comptroller General requires to discharge his duties (including audit, evaluation, and investigative duties), including through the bringing of civil actions unde… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 711` | replace | Section 711 of title 31, United States Code, is amended by striking paragraph (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 331` | add-at-end | Subchapter II of chapter 7 of title 31, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 331` | insert | The table of sections for chapter 7 of title 31, United States Code, is amended by inserting after the item relating to section 720 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 653` | add-at-end | Subchapter II of chapter 7 of title 31, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 720` | insert | The table of sections for chapter 7 of title 31, United States Code, is amended by inserting after the item relating to section 720 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 720` | insert | in the matter preceding paragraph (1), by inserting “or planned” after “action taken”; and | the bill quotes the text inserted but describes where it goes |
 | `31 U.S.C. § 720` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

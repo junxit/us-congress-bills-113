@@ -32,13 +32,12 @@ This Act may be cited as the “Government Accountability Office Improvement Act
     >
     > - **(a)** No provision of the Social Security Act, including section 453(l) of that Act (42 U.S.C. 653(l)), shall be construed to limit, amend, or supersede the authority of the Comptroller General to obtain any information or to inspect or copy any record under section 716 of this title.
     > - **(b)** No provision of the Federal Food, Drug, and Cosmetic Act, including section 301(j) of that Act (21 U.S.C. 331(j)), shall be construed to limit, amend, or supersede the authority of the Comptroller General to obtain any information or to inspect or copy any record under section 716 of this title.
-    > - **(c)** No provision of the Hart-Scott-Rodino Antitrust Improvements Act of 1976 (Public Law 94–435) and the amendments made by that Act shall be construed to limit, amend, or supersede the authority of the Comptroller General to obtain any information or to inspect or copy any record under section 716 of this title, including with respect to any information disclosed to the Assistant Attorney General of the Antitrust Division of the Department of Justice or the Federal Trade Commission for purposes of pre-merger review under section 7A of the Clayton Act (15 U.S.C. 18a).
-    > - **(d)**
+    > - **(c)**
     >   - **(1)** The Comptroller General shall prescribe such policies and procedures as are necessary to protect from public disclosure proprietary or trade secret information obtained consistent with this section.
     >   - **(2)** Nothing in this section shall be construed to—
     >     - **(A)** alter or amend the prohibitions against the disclosure of trade secret or other sensitive information prohibited by section 1905 of title 18 and other applicable laws; or
     >     - **(B)** affect the applicability of section 716(e) of this title, including the protections against unauthorized disclosure contained in that section, to information obtained consistent with this section.
-    > - **(e)** Specific references to statutes in this section shall not be construed to affect access by the Government Accountability Office to information under statutes that are not so referenced.
+    > - **(d)** Specific references to statutes in this section shall not be construed to affect access by the Government Accountability Office to information under statutes that are not so referenced.
 
   - **(2)** *Technical and conforming amendment* The table of sections for chapter 7 of title 31, United States Code, is amended by inserting after the item relating to section 720 the following:
 - **(d)** *Agency reports* Section 720(b) of title 31, United States Code, is amended—
