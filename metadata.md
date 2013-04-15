@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1120
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1120
@@ -44,9 +44,10 @@ Preventing Greater Uncertainty in Labor-Management Relations Act
 - Rep. Messer, Luke [R-IN-6] (M001189)
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (2)
 
@@ -77,3 +78,4 @@ Preventing Greater Uncertainty in Labor-Management Relations Act
 - 2013-04-12 — Rule provides for consideration of H.R. 1120 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The resolution provides that an amendment in the nature of a substitute consisting of the text of the Rules Committee Print 113-6 shall be considered as adopted.
 - 2013-04-12 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1974)
 - 2013-04-12 — The previous question was ordered pursuant to the rule. (consideration: CR H1973)
+- 2013-04-15 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
