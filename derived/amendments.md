@@ -1,7 +1,7 @@
 ---
 measure: H.R. 967
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -452,6 +452,6 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 5511` | amend | Title I of such Act (15 U.S.C. 5511) is amended further by adding after section 104, as added by section 3 of this Act, the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 5511` | amend | Title I of such Act (15 U.S.C. 5511) is amended further by adding after section 105, as added by section 4(b) of this Act, the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 5512` | amend | Section 102 of such Act (15 U.S.C. 5512) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | redesignate | by redesignating paragraphs (2) through (4) as paragraphs (3) through (5), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (1) the following new paragraph: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 5521` | redesignate | by redesignating paragraphs (2) through (4) as paragraphs (3) through (5), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 5521` | insert | by inserting after paragraph (1) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 5524` | strike | by striking “sensitive”. | the bill quotes the text struck but describes what replaces it |

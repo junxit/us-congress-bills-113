@@ -1,7 +1,7 @@
 ---
 measure: H.R. 967
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 967
@@ -27,6 +27,10 @@ Advancing America's Networking and Information Technology Research and Developme
 
 - House — Science, Space, and Technology Committee
 
+## Recorded votes (1)
+
+- 2013-04-16 — [House 113-1-108](votes/house-113-1-0108.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (406–11)
+
 ## Actions
 
 - 2013-03-05 — Introduced in House
@@ -37,3 +41,11 @@ Advancing America's Networking and Information Technology Research and Developme
 - 2013-04-11 — Placed on the Union Calendar, Calendar No. 20.
 - 2013-04-11 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-34.
 - 2013-04-11 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-34.
+- 2013-04-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-04-16 — Considered as unfinished business. (consideration: CR H2054-2055)
+- 2013-04-16 — Considered under suspension of the rules. (consideration: CR H2048-2053)
+- 2013-04-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 967.
+- 2013-04-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-04-16 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2013-04-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 11 (Roll no. 108). (text: CR H2049-2051)
+- 2013-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 11 (Roll no. 108).(text: CR H2049-2051)
