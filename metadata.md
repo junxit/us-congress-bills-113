@@ -1,7 +1,7 @@
 ---
 measure: H.R. 756
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 756
@@ -36,6 +36,10 @@ Cybersecurity Enhancement Act of 2013
 
 - House — Science, Space, and Technology Committee
 
+## Recorded votes (1)
+
+- 2013-04-16 — [House 113-1-107](votes/house-113-1-0107.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (402–16)
+
 ## Actions
 
 - 2013-02-15 — Introduced in House
@@ -46,3 +50,11 @@ Cybersecurity Enhancement Act of 2013
 - 2013-04-11 — Placed on the Union Calendar, Calendar No. 19.
 - 2013-04-11 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-33.
 - 2013-04-11 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-33.
+- 2013-04-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-04-16 — Considered as unfinished business. (consideration: CR H2054)
+- 2013-04-16 — Considered under suspension of the rules. (consideration: CR H2042-2048)
+- 2013-04-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 756.
+- 2013-04-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-04-16 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2013-04-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 16 (Roll no. 107). (text: CR H2042-2045)
+- 2013-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 16 (Roll no. 107).(text: CR H2042-2045)
