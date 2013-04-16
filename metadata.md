@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1246
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1246
@@ -37,3 +37,12 @@ District of Columbia Chief Financial Officer Vacancy Act
 - 2013-04-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1999-2000)
 - 2013-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1999-2000)
 - 2013-04-16 — Received in the Senate, read twice.
+- 2013-04-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2817)
+- 2013-04-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2817)
+- 2013-04-19 — Message on Senate action sent to the House.
+- 2013-04-25 — Presented to President.
+- 2013-04-25 — Presented to President.
+- 2013-05-01 — Became Public Law No: 113-8.
+- 2013-05-01 — Became Public Law No: 113-8.
+- 2013-05-01 — Signed by President.
+- 2013-05-01 — Signed by President.
