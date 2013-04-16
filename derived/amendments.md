@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1163
 congress: 113
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `section 3532(3)` |
 | Inserted | `section 3552(b)` |
 
-### 10 U.S.C. § 2222
+### 6 U.S.C. § 511
 
 > Section 2222(j)(5) of title 10, United States Code, is amended by striking “section 3542(b)(2)” and inserting “section 3552(b)”.
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `section 3542(b)(2)` |
 | Inserted | `section 3552(b)` |
 
-### 10 U.S.C. § 2223
+### 6 U.S.C. § 511
 
 > Section 2223(c)(3) of title 10, United States Code, is amended, by striking “section 3542(b)(2)” and inserting “section 3552(b)”.
 
@@ -51,7 +51,7 @@ to guess them.
 | Removed | `section 3542(b)(2)` |
 | Inserted | `section 3552(b)` |
 
-### 10 U.S.C. § 2315
+### 6 U.S.C. § 511
 
 > Section 2315 of title 10, United States Code, is amended by striking “section 3542(b)(2)” and inserting “section 3552(b)”.
 
@@ -62,7 +62,7 @@ to guess them.
 
 ### 15 U.S.C. § 278g-3
 
-> in subsections (a)(2) and (e)(5), by striking “section 3532(b)(2)” and inserting “section 3552(b)”; and
+> in subsections (a)(2) and (e)(5) subsection (a)(2), by striking “section 3532(b)(2)” and inserting “section 3552(b)”; and
 
 | | |
 |---|---|

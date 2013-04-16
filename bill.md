@@ -26,7 +26,7 @@ Chapter 35 of title 44, United States Code, is amended by striking subchapters I
   - **(3)** Section 2223(c)(3) of title 10, United States Code, is amended, by striking “section 3542(b)(2)” and inserting “section 3552(b)”.
   - **(4)** Section 2315 of title 10, United States Code, is amended by striking “section 3542(b)(2)” and inserting “section 3552(b)”.
   - **(5)** Section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3) is amended—
-    - **(A)** in subsections (a)(2) and (e)(5), by striking “section 3532(b)(2)” and inserting “section 3552(b)”; and
+    - **(A)** in subsections (a)(2) and (e)(5) subsection (a)(2), by striking “section 3532(b)(2)” and inserting “section 3552(b)”; and
     - **(B)** in subsection (e)—
       - **(i)** in paragraph (2), by striking “section 3532(1)” and inserting “section 3552(b)”; and
       - **(ii)** in paragraph (5), by striking “section 3532(b)(2)” and inserting “section 3552(b)”.
