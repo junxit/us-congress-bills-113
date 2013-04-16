@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1246
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1246
@@ -36,3 +36,4 @@ District of Columbia Chief Financial Officer Vacancy Act
 - 2013-04-15 — Mr. Issa moved to suspend the rules and pass the bill.
 - 2013-04-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1999-2000)
 - 2013-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1999-2000)
+- 2013-04-16 — Received in the Senate, read twice.
