@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1163
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1163
@@ -24,9 +24,10 @@ Federal Information Security Amendments Act of 2013
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 - Rep. Tierney, John F. [D-MA-6] (T000266)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Federal Information Security Amendments Act of 2013
 - 2013-04-16 — Placed on the Union Calendar, Calendar No. 26.
 - 2013-04-16 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-40.
 - 2013-04-16 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-40.
+- 2013-04-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

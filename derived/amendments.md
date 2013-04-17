@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1163
 congress: 113
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 6 U.S.C. § 511
+### 15 U.S.C. § 278g-3
 
 > Section 1001(c)(1)(A) of the Homeland Security Act of 2002 (6 U.S.C. 511(c)(1)(A)) is amended by striking “section 3532(3)” and inserting “section 3552(b)”.
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `section 3532(3)` |
 | Inserted | `section 3552(b)` |
 
-### 6 U.S.C. § 511
+### 15 U.S.C. § 278g-3
 
 > Section 2222(j)(5) of title 10, United States Code, is amended by striking “section 3542(b)(2)” and inserting “section 3552(b)”.
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `section 3542(b)(2)` |
 | Inserted | `section 3552(b)` |
 
-### 6 U.S.C. § 511
+### 15 U.S.C. § 278g-3
 
 > Section 2223(c)(3) of title 10, United States Code, is amended, by striking “section 3542(b)(2)” and inserting “section 3552(b)”.
 
@@ -51,7 +51,7 @@ to guess them.
 | Removed | `section 3542(b)(2)` |
 | Inserted | `section 3552(b)` |
 
-### 6 U.S.C. § 511
+### 15 U.S.C. § 278g-3
 
 > Section 2315 of title 10, United States Code, is amended by striking “section 3542(b)(2)” and inserting “section 3552(b)”.
 
@@ -62,7 +62,7 @@ to guess them.
 
 ### 15 U.S.C. § 278g-3
 
-> in subsections (a)(2) and (e)(5) subsection (a)(2), by striking “section 3532(b)(2)” and inserting “section 3552(b)”; and
+> in subsections (a)(2) and (e)(5), by striking “section 3532(b)(2)” and inserting “section 3552(b)”; and
 
 | | |
 |---|---|
@@ -105,5 +105,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `40 U.S.C. § 11101` | replace | Chapter 35 of title 44, United States Code, is amended by striking subchapters II and III and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 511` | replace | The table of sections for chapter 35 of title 44, United States Code, is amended by striking the matter relating to subchapters II and III and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 278g-3` | replace | Chapter 35 of title 44, United States Code, is amended by striking subchapters II and III and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 278g-3` | replace | The table of sections for chapter 35 of title 44, United States Code, is amended by striking the matter relating to subchapters II and III and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
