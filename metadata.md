@@ -1,7 +1,7 @@
 ---
 measure: H.R. 756
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 756
@@ -32,9 +32,10 @@ Cybersecurity Enhancement Act of 2013
 - Rep. Stewart, Chris [R-UT-2] (S001192)
 - Rep. Esty, Elizabeth H. [D-CT-5] (E000293)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ Cybersecurity Enhancement Act of 2013
 - 2013-04-16 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
 - 2013-04-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 16 (Roll no. 107). (text: CR H2042-2045)
 - 2013-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 16 (Roll no. 107).(text: CR H2042-2045)
+- 2013-04-17 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
