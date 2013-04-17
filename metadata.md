@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 90
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 90
@@ -29,3 +29,7 @@ A resolution congratulating the people of Kenya on their commitment to peaceful 
 
 - 2013-03-22 — Introduced in Senate
 - 2013-03-22 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2338-2339)
+- 2013-04-16 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2013-04-17 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2013-04-17 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2013-04-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 42.
