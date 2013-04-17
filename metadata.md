@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 65
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 65
@@ -16,7 +16,7 @@ A resolution strongly supporting the full implementation of United States and in
 
 - Sen. Graham, Lindsey [R-SC] (G000359)
 
-## Cosponsors (21)
+## Cosponsors (83)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
@@ -39,6 +39,68 @@ A resolution strongly supporting the full implementation of United States and in
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Cowan, William M. [D-MA] (C001099)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Udall, Mark [D-CO] (U000038)
 
 ## Committees (1)
 
@@ -48,3 +110,7 @@ A resolution strongly supporting the full implementation of United States and in
 
 - 2013-02-28 — Introduced in Senate
 - 2013-02-28 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1035-1036)
+- 2013-04-16 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2013-04-17 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment and with a preamble. Without written report.
+- 2013-04-17 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment and with a preamble. Without written report.
+- 2013-04-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 43.

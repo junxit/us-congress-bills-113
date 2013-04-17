@@ -55,6 +55,7 @@ Congress—
 - **(6)** reaffirms its strong support for the full implementation of United States and international sanctions on Iran and urges the President to continue and strengthen enforcement of sanctions legislation;
 - **(7)** declares that the United States has a vital national interest in, and unbreakable commitment to, ensuring the existence, survival, and security of the State of Israel, and reaffirms United States support for Israel’s right to self-defense; and
 - **(8)** urges that, if the Government of Israel is compelled to take military action in self-defense, the United States Government should stand with Israel and provide diplomatic, military, and economic support to the Government of Israel in its defense of its territory, people, and existence.
+- **(8)** urges that, if the Government of Israel is compelled to take military action in legitimate self-defense against Iran’s nuclear weapons program, the United States Government should stand with Israel and provide, in accordance with United States law and the constitutional responsibility of Congress to authorize the use of military force, diplomatic, military, and economic support to the Government of Israel in its defense of its territory, people, and existence.
 
 ## § 2. Rules of construction
 
