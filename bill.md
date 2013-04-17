@@ -1,0 +1,19 @@
+---
+legis-num: S. 755
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 755
+
+> To amend title XIX of the Social Security Act to apply the Medicaid primary care payment rate to additional physician providers of primary care services.
+
+## § 1. Short title
+
+This Act may be cited as the “Enhanced Access to Medicaid Services Act of 2013”.
+
+## § 2. Primary care payment rate for additional physician providers of primary care services
+
+- **(a)** *In general* Section 1902(a)(13)(C) of the Social Security Act (42 U.S.C. 1396a(a)(13)(C)) is amended by striking “or pediatric” and inserting “neurology, psychiatry, obstetrics and gynecology, or pediatric”.
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect on the date of enactment of this Act and shall apply to medical assistance for primary care services provided on or after that date.
