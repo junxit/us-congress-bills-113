@@ -1,7 +1,7 @@
 ---
 measure: H.R. 967
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 967
@@ -23,9 +23,10 @@ Advancing America's Networking and Information Technology Research and Developme
 - Rep. Swalwell, Eric [D-CA-15] (S001193)
 - Rep. Cramer, Kevin [R-ND-At Large] (C001096)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Advancing America's Networking and Information Technology Research and Developme
 - 2013-04-16 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
 - 2013-04-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 11 (Roll no. 108). (text: CR H2049-2051)
 - 2013-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 11 (Roll no. 108).(text: CR H2049-2051)
+- 2013-04-17 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
