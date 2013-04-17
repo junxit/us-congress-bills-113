@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 5
 congress: 113
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 5
@@ -30,3 +30,7 @@ A concurrent resolution expressing the sense of Congress that John Arthur "Jack"
 - 2013-03-05 — Introduced in Senate
 - 2013-03-05 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S1134)
 - 2013-03-05 — Sponsor introductory remarks on measure. (CR S1134-1135)
+- 2013-04-17 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2013-04-17 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2013-04-17 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2773-2774)
+- 2013-04-17 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2773-2774)

@@ -14,7 +14,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas John Arthur Jack Johnson was a flamboyant, defiant, and controversial figure in the history of the United States who challenged racial biases;
 - Whereas Jack Johnson was born in Galveston, Texas, in 1878 to parents who were former slaves;
 - Whereas Jack Johnson became a professional boxer and traveled throughout the United States, fighting White and African-American heavyweights;
-- Whereas, after being denied (on purely racial grounds) the opportunity to fight 2 White champions, in 1908, Jack Johnson was granted an opportunity by an Australian promoter to fight the reigning White title-holder, Tommy Burns;
+- Whereas after being denied (on purely racial grounds) the opportunity to fight 2 White champions, in 1908, Jack Johnson was granted an opportunity by an Australian promoter to fight the reigning White title-holder, Tommy Burns;
 - Whereas Jack Johnson defeated Tommy Burns to become the first African-American to hold the title of Heavyweight Champion of the World;
 - Whereas the victory by Jack Johnson over Tommy Burns prompted a search for a White boxer who could beat Jack Johnson, a recruitment effort that was dubbed the search for the great white hope;
 - Whereas, in 1910, a White former champion named Jim Jeffries left retirement to fight Jack Johnson in Reno, Nevada;
