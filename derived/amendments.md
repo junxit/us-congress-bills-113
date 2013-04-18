@@ -1,7 +1,7 @@
 ---
 measure: H.R. 527
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,6 +33,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `50 U.S.C. § 167` | replace | in paragraph (1), by striking the semicolon at the end and inserting a period; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 167` | replace | in paragraph (2), by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 167` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 167` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 167d` | amend | Section 6 of the Helium Act (50 U.S.C. 167d) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 167` | redesignate | The Helium Act (50 U.S.C. 167 et seq.) is further amended by redesignating sections 15 through 17 as sections 17 through 19, and by inserting after section 14 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 167` | redesignate | The Helium Act (50 U.S.C. 167 et seq.) is further amended by redesignating sections 15 and 17 as sections 17 and 18, and by inserting after section 14 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
