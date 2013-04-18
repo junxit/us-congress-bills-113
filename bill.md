@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 1621
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1621
+
+> To amend the Internal Revenue Code of 1986 to make permanent the 2010 increase in the deduction for start-up expenditures.
+
+## § 1. Short title
+
+This Act may be cited as the “Help Entrepreneurs Create American Jobs Act of 2013”.
+
+## § 2. Increase in deduction for start-up expenses made permanent
+
+- **(a)** *In general* Clause (ii) of section 195(b)(1)(A) of the Internal Revenue Code of 1986 is amended—
+  - **(1)** by striking “$5,000” and inserting “$10,000”, and
+  - **(2)** by striking “$50,000” and inserting “$60,000”.
+- **(b)** *Conforming amendment* Subsection (b) of section 195 of such Code is amended by striking paragraph (3).
+- **(c)** *Effective date* The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
