@@ -1,0 +1,23 @@
+---
+legis-num: H. RES. 170
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 170
+
+> Recognizing the Falkland Islands referendum in favor of retaining their status as a British Overseas Territory.
+
+## Preamble
+
+- Whereas the Falkland Islands held a referendum on March 10, 2013, and March 11, 2013, to determine whether they wish to retain their status as a British Overseas Territory of the United Kingdom;
+- Whereas the Falkland Islands, supervised under an International Observer Mission, have voted 99.8 percent in favor of retaining their British Overseas Territory Status;
+- Whereas the Falkland Islands have the right, under the United Nations Charter and the International Covenant on Civil and Political Rights, to determine their own future; and
+- Whereas the United Kingdom is a loyal ally that has stood by the United States: Now, therefore, be it
+
+That it is the sense of the House of Representatives that—
+
+- **(1)** the United States recognizes that the Falkland Islands referendum reflects the freely expressed and democratic views of the Falkland Islanders;
+- **(2)** the Falkland Islands have expressed their desire to remain a self-governing British Overseas Territory; and
+- **(3)** the views and rights of the Falkland Islanders should be taken into account in any discussion on the future of the Falkland Islands.
