@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 5
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 5
@@ -21,9 +21,10 @@ A concurrent resolution expressing the sense of Congress that John Arthur "Jack"
 - Sen. Reid, Harry [D-NV] (R000146)
 - Sen. Cowan, William M. [D-MA] (C001099)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ A concurrent resolution expressing the sense of Congress that John Arthur "Jack"
 - 2013-04-17 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
 - 2013-04-17 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2773-2774)
 - 2013-04-17 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2773-2774)
+- 2013-04-18 — Message on Senate action sent to the House.
+- 2013-04-18 — Received in the House.
+- 2013-04-18 — Referred to the House Committee on the Judiciary.
