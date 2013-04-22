@@ -1,7 +1,7 @@
 ---
 measure: S. 393
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 393
@@ -16,9 +16,10 @@ White Clay Creek Wild and Scenic River Expansion Act of 2013
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ White Clay Creek Wild and Scenic River Expansion Act of 2013
 
 - 2013-02-27 — Introduced in Senate
 - 2013-02-27 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-03-14 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-31.
+- 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-31.
+- 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 62.
