@@ -96,3 +96,7 @@ This Act may be cited as the “Harriet Tubman National Historical Parks Act”.
     - **(A)** the Harriet Tubman Underground Railroad National Historical Park established by section 2(b)(1); and
     - **(B)** the National Underground Railroad Network to Freedom.
 - **(e)** *Authorization of appropriations* There are authorized to be appropriated such sums as are necessary to carry out this Act, except that not more than $7,500,000 shall be available to provide financial assistance under subsection (c)(3).
+
+## § 4. Offset
+
+Section 101(b)(12) of the Water Resources Development Act of 1996 (Public Law 104–303; 110 Stat. 3667) is amended by striking “$53,852,000” and inserting “$29,852,000”.

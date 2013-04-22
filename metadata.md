@@ -1,7 +1,7 @@
 ---
 measure: S. 247
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 247
@@ -31,3 +31,7 @@ Harriet Tubman National Historical Parks Act
 - 2013-02-07 — Introduced in Senate
 - 2013-02-07 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S523-524)
 - 2013-02-07 — Sponsor introductory remarks on measure. (CR S522-523)
+- 2013-03-14 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden with an amendment. With written report No. 113-23.
+- 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden with an amendment. With written report No. 113-23.
+- 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 54.
