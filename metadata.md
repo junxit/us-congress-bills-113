@@ -1,7 +1,7 @@
 ---
 measure: S. 230
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 230
@@ -16,9 +16,12 @@ A bill to authorize the Peace Corps Commemorative Foundation to establish a comm
 
 - Sen. Portman, Rob [R-OH] (P000449)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
 
 ## Committees (1)
 
@@ -28,3 +31,7 @@ A bill to authorize the Peace Corps Commemorative Foundation to establish a comm
 
 - 2013-02-07 — Introduced in Senate
 - 2013-02-07 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-03-14 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-21.
+- 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-21.
+- 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 52.
