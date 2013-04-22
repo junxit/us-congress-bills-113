@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 90
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 90
@@ -16,10 +16,11 @@ A resolution congratulating the people of Kenya on their commitment to peaceful 
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
 
 ## Committees (1)
 
@@ -33,3 +34,5 @@ A resolution congratulating the people of Kenya on their commitment to peaceful 
 - 2013-04-17 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
 - 2013-04-17 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
 - 2013-04-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 42.
+- 2013-04-22 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent.(consideration: CR S2853-2854; text of measure as reported in Senate: CR S2853-2854; text as passed Senate: CR S2854)
+- 2013-04-22 — Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent. (consideration: CR S2853-2854; text of measure as reported in Senate: CR S2853-2854; text as passed Senate: CR S2854)
