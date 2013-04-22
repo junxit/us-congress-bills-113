@@ -1,7 +1,7 @@
 ---
 measure: S. 383
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 383
@@ -28,3 +28,7 @@ A bill to amend the Wild and Scenic Rivers Act to designate a segment of Illabot
 
 - 2013-02-26 — Introduced in Senate
 - 2013-02-26 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-03-14 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-30.
+- 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-30.
+- 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 61.
