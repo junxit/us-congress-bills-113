@@ -1,7 +1,7 @@
 ---
 measure: S. 244
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 244
@@ -28,3 +28,7 @@ A bill to amend the Energy Policy Act of 2005 to modify the Pilot Project office
 
 - 2013-02-07 — Introduced in Senate
 - 2013-02-07 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-03-14 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-22.
+- 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-22.
+- 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 53.
