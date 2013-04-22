@@ -1,7 +1,7 @@
 ---
 measure: H.R. 624
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 624
@@ -56,9 +56,10 @@ Cyber Intelligence Sharing and Protection Act
 - Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
 - Rep. Vargas, Juan [D-CA-51] (V000130)
 
-## Committees (1)
+## Committees (2)
 
 - House — Intelligence (Permanent Select) Committee
+- Senate — Intelligence (Select) Committee
 
 ## Recorded votes (8)
 
@@ -209,3 +210,4 @@ Cyber Intelligence Sharing and Protection Act
 - 2013-04-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2143)
 - 2013-04-18 — The previous question was ordered pursuant to the rule. (consideration: CR H2142)
 - 2013-04-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2013-04-22 — Received in the Senate and Read twice and referred to the Select Committee on Intelligence.
