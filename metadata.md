@@ -1,7 +1,7 @@
 ---
 measure: S. 601
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 601
@@ -28,3 +28,7 @@ Water Resources Development Act of 2013
 
 - 2013-03-18 — Introduced in Senate
 - 2013-03-18 — Read twice and referred to the Committee on Environment and Public Works.
+- 2013-03-20 — Committee on Environment and Public Works. Ordered to be reported with amendments favorably.
+- 2013-04-22 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. With written report No. 113-13.
+- 2013-04-22 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. With written report No. 113-13.
+- 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 44.
