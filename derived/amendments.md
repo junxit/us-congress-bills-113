@@ -1,7 +1,7 @@
 ---
 measure: S. 222
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 

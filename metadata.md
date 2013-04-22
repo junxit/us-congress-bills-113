@@ -1,7 +1,7 @@
 ---
 measure: S. 222
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 222
@@ -30,3 +30,7 @@ A bill to amend the Surface Mining Control and Reclamation Act of 1977 to clarif
 
 - 2013-02-04 — Introduced in Senate
 - 2013-02-04 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-03-14 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-20.
+- 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-20.
+- 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 51.
