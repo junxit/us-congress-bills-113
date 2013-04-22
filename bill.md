@@ -84,3 +84,7 @@ In this Act:
 ## § 6. Authorization of appropriations
 
 There are authorized to be appropriated such sums as are necessary to carry out this Act.
+
+## § 7. Offset
+
+Section 7302(f) of the Omnibus Public Land Management Act of 2009 (16 U.S.C. 469n(f)) is amended by inserting before the period at the end the following: “, except that the amount authorized to be appropriated to carry out this section not appropriated as of the date of enactment of the First State National Historical Park Act shall be reduced by $6,500,000”.
