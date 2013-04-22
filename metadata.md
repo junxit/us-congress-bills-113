@@ -1,7 +1,7 @@
 ---
 measure: S. 352
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 352
@@ -29,3 +29,7 @@ Devil's Staircase Wilderness Act of 2013
 - 2013-02-14 — Introduced in Senate
 - 2013-02-14 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2013-02-14 — Sponsor introductory remarks on measure. (CR S780-782)
+- 2013-03-14 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-28.
+- 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-28.
+- 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 59.
