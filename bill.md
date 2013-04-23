@@ -1,0 +1,21 @@
+---
+legis-num: S. 778
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 778
+
+> To authorize the Secretary of Veterans Affairs to issue cards to veterans that identify them as veterans, and for other purposes.
+
+## § 1. Authority to issue Veterans ID Cards
+
+- **(a)** *Authority*
+  - **(1)** *In general* The Secretary of Veterans Affairs may issue a card to a veteran that identifies the veteran as a veteran and includes a photo of the veteran and the name of the veteran.
+  - **(2)** *No requirement for enrollment or receipt of benefits* The Secretary may issue a card under paragraph (1) to a veteran, notwithstanding whether such veteran is—
+    - **(A)** enrolled in the system of annual patient enrollment established under section 1705(a) of title 38, United States Code; or
+    - **(B)** in receipt of educational assistance, compensation, or pension under laws administered by the Secretary.
+  - **(3)** *Designation* A card issued under paragraph (1) may be known as a “Veterans ID Card”.
+- **(b)** *Recognition of Veterans ID Cards for reduced pricing of pharmaceuticals and consumer products* The Secretary may work with national retail chains that offer reduced prices on pharmaceuticals and consumer products to veterans to ensure that such retail chains recognize cards issued under subsection (a)(1) for purposes of offering reduced prices on pharmaceuticals and consumer products.
+- **(c)** *Veteran defined* In this section, the term veteran has the meaning given the term in section 101 of title 38, United States Code.
