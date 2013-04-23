@@ -1,0 +1,23 @@
+---
+legis-num: S. 785
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 785
+
+> To amend title 5, United States Code, to eliminate the use of official time by Federal employees.
+
+## § 1. Short title
+
+This Act may be cited as the “Federal Employee Accountability Act of 2013”.
+
+## § 2. Elimination of official time
+
+- **(a)** *In general* Section 7131 of title 5, United States Code, is amended to read as follows:
+  > ## § 7131. Elimination of official time
+  >
+  > Any activities performed by an employee relating to the internal business of a labor organization (including the solicitation of membership, elections of labor organization officials, and collection of dues) shall be performed during the time the employee is in a non-duty status.
+
+- **(b)** *Clerical amendment* The table of sections for chapter 71 of title 5, United States Code, is amended by striking the item relating to section 7131 and inserting the following:
