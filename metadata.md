@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1071
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1071
@@ -30,3 +30,9 @@ To specify the size of the precious-metal blanks that will be used in the produc
 - 2013-03-12 — Introduced in House
 - 2013-03-12 — Introduced in House
 - 2013-03-12 — Referred to the House Committee on Financial Services.
+- 2013-04-24 — Considered under suspension of the rules. (consideration: CR H2260-2261)
+- 2013-04-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1071.
+- 2013-04-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-04-24 — Mr. Bachus moved to suspend the rules and pass the bill.
+- 2013-04-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2260)
+- 2013-04-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2260)
