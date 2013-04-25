@@ -1,7 +1,7 @@
 ---
 measure: S. 853
 congress: 113
-version: Engrossed in Senate
+version: Considered and Passed Senate
 ---
 
 # S. 853
