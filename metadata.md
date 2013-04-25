@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1071
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1071
@@ -36,3 +36,4 @@ To specify the size of the precious-metal blanks that will be used in the produc
 - 2013-04-24 — Mr. Bachus moved to suspend the rules and pass the bill.
 - 2013-04-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2260)
 - 2013-04-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2260)
+- 2013-04-25 — Received in the Senate, read twice.
