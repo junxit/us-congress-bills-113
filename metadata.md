@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1071
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1071
@@ -37,3 +37,12 @@ To specify the size of the precious-metal blanks that will be used in the produc
 - 2013-04-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2260)
 - 2013-04-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2260)
 - 2013-04-25 — Received in the Senate, read twice.
+- 2013-05-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3212)
+- 2013-05-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3212)
+- 2013-05-08 — Message on Senate action sent to the House.
+- 2013-05-09 — Presented to President.
+- 2013-05-09 — Presented to President.
+- 2013-05-17 — Became Public Law No: 113-10.
+- 2013-05-17 — Became Public Law No: 113-10.
+- 2013-05-17 — Signed by President.
+- 2013-05-17 — Signed by President.
