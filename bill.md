@@ -90,3 +90,25 @@ Section 2705 of title 18, United States Code, is amended to read as follows:
 ## § 5. Rule of construction
 
 Nothing in this Act or an amendment made by this Act shall be construed to apply the warrant requirement for contents of a wire or electronic communication authorized under this Act or an amendment made by this Act to any other section of title 18, United States Code (including chapter 119 of such title (commonly known as the Wiretap Act)), the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), or any other provision of Federal law.
+
+## § 5. Evaluation by the Government Accountability Office
+
+Not later than September 30, 2015, the Comptroller General of the United States shall submit to Congress a report regarding the disclosure of customer communications and records under section 2703 of title 18, United States Code, which shall include—
+
+- **(1)** an analysis and evaluation of such disclosure under section 2703 of title 18, United States Code, as in effect before the date of enactment of this Act, including—
+  - **(A)** a comprehensive analysis and evaluation regarding the number of individual instances, in each of the 5 years before the year in which this Act is enacted, in which Federal, State, or local law enforcement officers used section 2703 of title 18, United States Code, to obtain information relevant to an ongoing criminal investigation;
+  - **(B)** an analysis of the average length of time taken by a provider of an electronic communication service or a remote computing service to comply with requests by law enforcement officers for information under section 2703 of title 18, United States Code;
+  - **(C)** the number of individual instances, in each of the 5 years before the year in which this Act is enacted, in which information was requested by law enforcement officers from a provider of an electronic communication service or a remote computing service under a warrant as authorized under section 2703(a) of title 18, United States Code;
+  - **(D)** the number of individual instances and type of request, in each of the 5 years before the year in which this Act is enacted, in which information was requested by law enforcement officers from a provider of an electronic communication service or a remote computing service under the other information request provisions in section 2703 of title 18, United States Code; and
+  - **(E)** the number of individual instances, in each of the 5 years before the year in which this Act is enacted, in which law enforcement officers requested delayed notification to the subscriber or customer under section 2705 of title 18, United States Code; and
+- **(2)** an analysis and evaluation of such disclosure under section 2703 of title 18, United States Code, as amended by this Act, including—
+  - **(A)** an evaluation of the effects of the amendments to the warrant requirements on judges, court dockets, or any other court operations;
+  - **(B)** a survey of Federal, State, and local judges and law enforcement officers to determine the average length of time required for providers of an electronic communication service or a remote computing service to provide the contents of communications requested under a search warrant, which shall include identifying the number of instances in which a judge was required to order a provider of an electronic communication service or a remote computing service to appear to show cause for failing to comply with a warrant or to issue an order of contempt against a provider of an electronic communication service or a remote computing service for such a failure; and
+  - **(C)** determining whether the amendments to the warrant requirements resulted in an increase in the use of the emergency exception under section 2702(b)(8) of title 18, United States Code.
+
+## § 6. Rule of construction
+
+Nothing in this Act or an amendment made by this Act shall be construed to preclude the acquisition by the United States Government of—
+
+- **(1)** the contents of a wire or electronic communication pursuant to other lawful authorities, including the authorities under chapter 119 of title 18 (commonly known as the “Wiretap Act”), the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), or any other provision of Federal law not specifically amended by this Act; or
+- **(2)** records or other information relating to a subscriber or customer of any electronic communications service or remote computing service (not including the content of such communications) pursuant to the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), chapter 119 of title 18 (commonly known as the “Wiretap Act”), or any other provision of Federal law not specifically amended by this Act.

@@ -1,7 +1,7 @@
 ---
 measure: S. 607
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 607
@@ -29,3 +29,7 @@ Electronic Communications Privacy Act Amendments Act of 2013
 - 2013-03-19 — Introduced in Senate
 - 2013-03-19 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S1952-1953)
 - 2013-03-19 — Sponsor introductory remarks on measure. (CR S1951-1952)
+- 2013-04-25 — Committee on the Judiciary. Ordered to be reported with amendments favorably.
+- 2013-04-25 — Committee on the Judiciary. Reported by Senator Leahy with an amendment. Without written report.
+- 2013-04-25 — Committee on the Judiciary. Reported by Senator Leahy with an amendment. Without written report.
+- 2013-04-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 66.
