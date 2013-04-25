@@ -1,7 +1,7 @@
 ---
 measure: H.R. 360
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 360
@@ -341,3 +341,4 @@ To award posthumously a Congressional Gold Medal to Addie Mae Collins, Denise Mc
 - 2013-04-24 — Mr. Bachus moved to suspend the rules and pass the bill, as amended.
 - 2013-04-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 123). (text: CR H2261)
 - 2013-04-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 123).(text: CR H2261)
+- 2013-04-25 — Received in the Senate, read twice.
