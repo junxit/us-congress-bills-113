@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 1805
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1805
+
+> To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to submit to Congress an annual report on the automatic processing of claims for compensation under the laws administered by the Secretary.
+
+## § 1. Short title
+
+This Act may be cited as the “Veterans Claims Efficiency Through Automation Act”.
+
+## § 2. Report on automatic processing of claims for compensation under the laws administered by the Secretary of Veterans Affairs
+
+- **(a)** *In general* Subchapter I of chapter 51 of title 38, United States Code, is amended by adding at the end the following new section:
+  > ## § 5109C. Annual report on automatic processing of claims
+  >
+  > The Secretary shall include in the annual report to Congress required under section 529 of this title a report on the automatic processing of claims for compensation during the year preceding the year during which the report is submitted. Each such report shall include, for the year covered by the report, each of the following:
+  >
+  > - **(1)** Each medical condition for which claims relating to such condition were processed in an electronic automated fashion during such year.
+  > - **(2)** The feasibility of processing any additional medical conditions in an electronic automated fashion and any barriers to so processing additional medical conditions, including any such barriers relating to the schedule for rating disabilities under section 1115 of this title.
+  > - **(3)** The number of claims for compensation relating to each medical condition submitted during such year.
+  > - **(4)** For each medical condition, the percentage of claims denied and the percentage of claims approved during such year.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding at the end of the items relating to such subchapter the following new item:
