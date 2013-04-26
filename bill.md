@@ -107,7 +107,7 @@ Section 2 of the Helium Act (50 U.S.C. 167) is amended—
   >     - **(B)** Capital investments in maintenance and upgrades of facilities that pressurize the Cliffside Gas Field helium storage reservoir.
   >     - **(C)** Capital investments in maintenance and upgrades of equipment related to the storage, withdrawal, transportation, purification, and sale of crude helium at the Cliffside Gas Field helium storage reservoir.
   >     - **(D)** Any other scheduled or unscheduled maintenance of the Cliffside Gas Field helium storage reservoir and helium pipeline.
-  >   - **(5)** *Excess funds* Amounts in the Helium Production Fund in excess of amounts the Secretary considers necessary to carry out paragraphs (1) through (4) shall be paid to the general fund of the Treasury.
+  >   - **(5)** *Excess funds and deficit reduction* Amounts in the Helium Production Fund in excess of amounts the Secretary considers necessary to carry out paragraphs (1) through (4) shall be paid to the general fund of the Treasury and used to reduce the annual Federal budget deficit.
   > - **(f)** *Extraction of helium from deposits on Federal land* All amounts received by the Secretary from the sale or disposition of crude helium on Federal land shall be paid to the general fund of the Treasury and credited against all amounts required to be repaid to the United States under this Act as of October 1, 1995.
   > - **(g)** *Maintenance of helium supply* The Secretary shall ensure that there is no disruption in the supply of helium from the Federal Helium Reserve during the transition between phases of helium sales under subsections (a), (b), and (c).
 
@@ -179,8 +179,11 @@ The Helium Act (50 U.S.C. 167 et seq.) is further amended by redesignating secti
   - **(3)** in consultation with the Secretary of Energy, acting through the Administrator of the Energy Information Administration, complete—
     - **(A)** an assessment of trends in global demand for helium, including the isotope helium-3;
     - **(B)** a 10-year forecast of domestic demand for helium across all sectors, including scientific and medical research, commercial, manufacturing, space technologies, cryogenics, and national defense; and
-    - **(C)** an inventory of medical, research, scientific, industrial, commercial, and other uses of helium in the United States, including Federal and commercial helium uses, that identifies the nature of the helium use, the amounts required, the technical and commercial viability of helium recapture and recycling in that use, and the availability of material substitutes wherever possible; and
-  - **(4)** submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report describing the results of the assessments required under this subsection.
+    - **(C)** an inventory of medical, research, scientific, industrial, commercial, and other uses of helium in the United States, including Federal and commercial helium uses, that identifies the nature of the helium use, the amounts required, the technical and commercial viability of helium recapture and recycling in that use, and the availability of material substitutes wherever possible;
+  - **(4)** complete an assessment of options for ensuring a domestic helium supply in the future, including—
+    - **(A)** an analysis of how the Federal Helium Reserve has influenced domestic and global helium supply and prices historically; and
+    - **(B)** an assessment of options for how the Federal Helium Reserve could promote the long term availability and security of domestic helium supplies; and
+  - **(5)** submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report describing the results of the assessments required under this subsection.
 - **(b)** *Helium-3 separation*
   - **(1)** *Interagency cooperation* The Secretary of the Interior shall cooperate with the Secretary of Energy, or a designee of the Secretary of Energy, on any assessment or research relating to the extraction and refining of the isotope helium-3 from crude helium at the Federal Helium Reserve (as that term is defined in the amendments made by section 2) or along the Federal Helium Reserve pipeline system, including—
     - **(A)** gas analysis;
@@ -190,3 +193,7 @@ The Helium Act (50 U.S.C. 167 et seq.) is further amended by redesignating secti
     - **(A)** the Federal Helium Reserve; or
     - **(B)** an existing helium separation or purification facility connected to the Federal Helium Reserve pipeline system.
   - **(3)** *Report* Not later than 1 year after the date of enactment of this Act, the Secretary of the Interior shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that contains a description of the results of the assessments conducted under this subsection.
+
+## § 6. Additional connections to the Federal Helium Reserve
+
+The Secretary of the Interior may allow any person not connected to the Federal Helium Reserve, as that term is defined under section 2 of the Helium Act (50 U.S.C. 167), as amended by this Act, to connect to the Federal Helium Reserve for the purpose of storing helium, subject to such storage fees as may be required by the Secretary. Withdrawal of such helium shall be governed by that Act.
