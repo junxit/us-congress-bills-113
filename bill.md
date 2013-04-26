@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 1781
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1781
+
+> To amend the Immigration and Nationality Act to provide for special immigrant status for certain spouses and children of employees of the United States Government abroad killed in the line of duty.
+
+## § 1. Short title
+
+This Act may be cited as the “Mustafa Akarsu Local Guard Force Support Act”.
+
+## § 2. Special immigrant status for certain surviving spouses and children
+
+- **(a)** *In general* Section 101(a)(27) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)) is amended in subparagraph (D)—
+  - **(1)** by inserting “(i)” before “an immigrant who is an employee”; and
+  - **(2)** by inserting the following:
+    > - **(ii)** an immigrant who is the surviving spouse or child of an employee of the United States Government abroad killed in the line of duty, provided that the employee had performed faithful service for a total of fifteen years, or more, and that the principal officer of a Foreign Service establishment (or, in the case of the American Institute of Taiwan, the Director thereof) in his discretion, recommends the granting of special immigrant status to the spouse and children and the Secretary of State approves such recommendation and find that it is in the national interest to grant such status;
+
+- **(b)** *Effective date* This Act and the amendments made by this Act shall take effect beginning on January 31, 2013, and shall have retroactive effect.
