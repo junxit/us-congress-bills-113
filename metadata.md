@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1765
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1765
@@ -45,3 +45,7 @@ Reducing Flight Delays Act of 2013
 - 2013-04-30 — Presented to President.
 - 2013-04-30 — Presented to President.
 - 2013-04-30 — Pursuant to the order of 4/25/13, ordered received, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.
+- 2013-05-01 — Became Public Law No: 113-9.
+- 2013-05-01 — Became Public Law No: 113-9.
+- 2013-05-01 — Signed by President.
+- 2013-05-01 — Signed by President.
