@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1406
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -43,4 +43,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `29 U.S.C. § 207` | add-at-end | Section 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 207) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 216` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 216` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
