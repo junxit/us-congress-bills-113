@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1580
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1580
@@ -61,3 +61,8 @@ To affirm the policy of the United States regarding Internet governance.
 - 2013-04-16 — Introduced in House
 - 2013-04-16 — Referred to the House Committee on Energy and Commerce.
 - 2013-04-16 — Referred to the Subcommittee on Communications and Technology.
+- 2013-04-17 — Committee Consideration and Mark-up Session Held.
+- 2013-04-17 — Ordered to be Reported by Voice Vote.
+- 2013-05-03 — Placed on the House Calendar, Calendar No. 21.
+- 2013-05-03 — Reported by the Committee on Energy and Commerce. H. Rept. 113-50.
+- 2013-05-03 — Reported by the Committee on Energy and Commerce. H. Rept. 113-50.
