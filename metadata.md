@@ -1,7 +1,7 @@
 ---
 measure: H.R. 588
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 588
@@ -61,6 +61,10 @@ Vietnam Veterans Donor Acknowledgment Act of 2013
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2013-05-06 — [House 113-1-129](votes/house-113-1-0129.md) — On Motion to Suspend the Rules and Pass — **Passed** (398–2)
+
 ## Actions
 
 - 2013-02-06 — Introduced in House
@@ -74,3 +78,11 @@ Vietnam Veterans Donor Acknowledgment Act of 2013
 - 2013-04-09 — Placed on the Union Calendar, Calendar No. 16.
 - 2013-04-09 — Reported by the Committee on Natural Resources. H. Rept. 113-28.
 - 2013-04-09 — Reported by the Committee on Natural Resources. H. Rept. 113-28.
+- 2013-05-06 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-05-06 — Considered as unfinished business. (consideration: CR H2412-2413)
+- 2013-05-06 — Considered under suspension of the rules. (consideration: CR H2409-2410)
+- 2013-05-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 588.
+- 2013-05-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-05-06 — Mr. Young (AK) moved to suspend the rules and pass the bill.
+- 2013-05-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 2 (Roll no. 129). (text: CR H2409)
+- 2013-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 2 (Roll no. 129).(text: CR H2409)
