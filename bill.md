@@ -17,10 +17,10 @@ This Act may be cited as the “Pascua Yaqui Tribe Trust Land Act”.
 
 For the purposes of this Act, the following definitions apply:
 
-- **(1)** *District* The term District means the Tucson Unified School District, a school district recognized as such under the laws of the State of Arizona.
-- **(2)** *Map* The term map means the map titled “PYT Land Department” and dated January 15, 2013.
-- **(3)** *Secretary* The term Secretary means the Secretary of the Interior.
-- **(4)** *Tribe* The term Tribe means the Pascua Yaqui Tribe of Arizona, a federally recognized Indian tribe.
+- **(1)** *District* The term “District” means the Tucson Unified School District, a school district recognized as such under the laws of the State of Arizona.
+- **(2)** *Map* The term “map” means the map titled “PYT Land Department” and dated January 15, 2013.
+- **(3)** *Secretary* The term “Secretary” means the Secretary of the Interior.
+- **(4)** *Tribe* The term “Tribe” means the Pascua Yaqui Tribe of Arizona, a federally recognized Indian tribe.
 
 ## § 3. Lands to be held in trust
 
