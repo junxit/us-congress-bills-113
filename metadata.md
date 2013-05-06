@@ -1,7 +1,7 @@
 ---
 measure: H.R. 527
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 527
@@ -23,9 +23,10 @@ Helium Stewardship Act of 2013
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (3)
 
@@ -105,3 +106,4 @@ Helium Stewardship Act of 2013
 - 2013-04-26 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 527.
 - 2013-04-26 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2375)
 - 2013-04-26 — The previous question was ordered pursuant to the rule. (consideration: CR H2375)
+- 2013-05-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
