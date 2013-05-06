@@ -1,7 +1,7 @@
 ---
 measure: H.R. 291
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 291
@@ -20,6 +20,10 @@ Black Hills Cemetery Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2013-05-06 — [House 113-1-130](votes/house-113-1-0130.md) — On Motion to Suspend the Rules and Pass — **Passed** (390–2)
+
 ## Actions
 
 - 2013-01-15 — Introduced in House
@@ -32,3 +36,11 @@ Black Hills Cemetery Act
 - 2013-04-09 — Placed on the Union Calendar, Calendar No. 14.
 - 2013-04-09 — Reported by the Committee on Natural Resources. H. Rept. 113-26.
 - 2013-04-09 — Reported by the Committee on Natural Resources. H. Rept. 113-26.
+- 2013-05-06 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-05-06 — Considered as unfinished business. (consideration: CR H2413)
+- 2013-05-06 — Considered under suspension of the rules. (consideration: CR H2410-2411)
+- 2013-05-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 291.
+- 2013-05-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-05-06 — Mr. Young (AK) moved to suspend the rules and pass the bill.
+- 2013-05-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 2 (Roll no. 130). (text: CR H2410)
+- 2013-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 2 (Roll no. 130).(text: CR H2410)
