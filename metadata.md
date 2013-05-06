@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 32
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 32
@@ -29,3 +29,11 @@ Authorizing the use of the Capitol Grounds for the National Honor Guard and Pipe
 - 2013-04-18 — Introduced in House
 - 2013-04-18 — Introduced in House
 - 2013-04-18 — Referred to the House Committee on Transportation and Infrastructure.
+- 2013-04-19 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2013-05-06 — Committee on Transportation discharged.
+- 2013-05-06 — Committee on Transportation discharged.
+- 2013-05-06 — Considered by unanimous consent. (consideration: CR H2414)
+- 2013-05-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-05-06 — Mr. Barletta asked unanimous consent to discharge from committee and consider.
+- 2013-05-06 — On agreeing to the resolution Agreed to without objection. (text: CR H2414)
+- 2013-05-06 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H2414)

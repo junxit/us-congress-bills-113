@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Use of the Capitol Grounds for National Honor Guard and Pipe Band Exhibition
 
-- **(a)** *In general* The Grand Lodge of the Fraternal Order of Police and its auxiliary (in this resolution referred to as the sponsor) shall be permitted to sponsor a public event, the National Honor Guard and Pipe Band Exhibition (in this resolution referred to as the event), on the Capitol Grounds, in order to allow law enforcement representatives to exhibit their ability to demonstrate Honor Guard programs and provide for a bag pipe exhibition.
+- **(a)** *In general* The Grand Lodge of the Fraternal Order of Police and its auxiliary (in this resolution referred to as the “sponsor”) shall be permitted to sponsor a public event, the National Honor Guard and Pipe Band Exhibition (in this resolution referred to as the “event”), on the Capitol Grounds, in order to allow law enforcement representatives to exhibit their ability to demonstrate Honor Guard programs and provide for a bag pipe exhibition.
 - **(b)** *Date of event* The event shall be held on May 14, 2013, or on such other date as the Speaker of the House of Representatives and the Committee on Rules and Administration of the Senate jointly designate.
 
 ## § 2. Terms and conditions
