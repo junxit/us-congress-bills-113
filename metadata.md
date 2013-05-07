@@ -1,7 +1,7 @@
 ---
 measure: H.R. 291
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 291
@@ -46,3 +46,14 @@ Black Hills Cemetery Act
 - 2013-05-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 2 (Roll no. 130). (text: CR H2410)
 - 2013-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 2 (Roll no. 130).(text: CR H2410)
 - 2013-05-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2014-07-09 — Passed Senate without amendment by Unanimous Consent.
+- 2014-07-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-07-09 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S4355-4364)
+- 2014-07-09 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S4355-4364)
+- 2014-07-10 — Message on Senate action sent to the House.
+- 2014-07-15 — Presented to President.
+- 2014-07-15 — Presented to President.
+- 2014-07-25 — Became Public Law No: 113-131.
+- 2014-07-25 — Became Public Law No: 113-131.
+- 2014-07-25 — Signed by President.
+- 2014-07-25 — Signed by President.
