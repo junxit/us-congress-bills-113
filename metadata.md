@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 32
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 32
@@ -37,3 +37,4 @@ Authorizing the use of the Capitol Grounds for the National Honor Guard and Pipe
 - 2013-05-06 — Mr. Barletta asked unanimous consent to discharge from committee and consider.
 - 2013-05-06 — On agreeing to the resolution Agreed to without objection. (text: CR H2414)
 - 2013-05-06 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H2414)
+- 2013-05-07 — Received in the Senate.
