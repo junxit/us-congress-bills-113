@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 32
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 32
@@ -38,3 +38,6 @@ Authorizing the use of the Capitol Grounds for the National Honor Guard and Pipe
 - 2013-05-06 — On agreeing to the resolution Agreed to without objection. (text: CR H2414)
 - 2013-05-06 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H2414)
 - 2013-05-07 — Received in the Senate.
+- 2013-05-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S3282)
+- 2013-05-08 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S3282)
+- 2013-05-09 — Message on Senate action sent to the House.
