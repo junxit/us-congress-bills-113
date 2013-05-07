@@ -1,7 +1,7 @@
 ---
 measure: H.R. 507
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 507
@@ -27,9 +27,10 @@ Pascua Yaqui Tribe Trust Land Act
 - Rep. Barber, Ron [D-AZ-2] (B001279)
 - Rep. Salmon, Matt [R-AZ-5] (S000018)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ Pascua Yaqui Tribe Trust Land Act
 - 2013-05-06 — Mr. Young (AK) moved to suspend the rules and pass the bill.
 - 2013-05-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 131). (text: CR H2411)
 - 2013-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 131).(text: CR H2411)
+- 2013-05-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
