@@ -1,7 +1,7 @@
 ---
 measure: H.R. 291
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 291
@@ -16,9 +16,10 @@ Black Hills Cemetery Act
 
 - Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ Black Hills Cemetery Act
 - 2013-05-06 — Mr. Young (AK) moved to suspend the rules and pass the bill.
 - 2013-05-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 2 (Roll no. 130). (text: CR H2410)
 - 2013-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 2 (Roll no. 130).(text: CR H2410)
+- 2013-05-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
