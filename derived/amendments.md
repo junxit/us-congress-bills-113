@@ -1,7 +1,7 @@
 ---
 measure: H.R. 588
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -33,4 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `16 U.S.C. § 431` | strike | in paragraph (4) by striking the “and” after the semicolon; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 431` | replace | in paragraph (5) by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `40 U.S.C. § 8905` | insert | by inserting at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 431` | insert | by inserting at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

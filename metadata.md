@@ -1,7 +1,7 @@
 ---
 measure: H.R. 588
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 588
@@ -86,3 +86,4 @@ Vietnam Veterans Donor Acknowledgment Act of 2013
 - 2013-05-06 — Mr. Young (AK) moved to suspend the rules and pass the bill.
 - 2013-05-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 2 (Roll no. 129). (text: CR H2409)
 - 2013-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 2 (Roll no. 129).(text: CR H2409)
+- 2013-05-07 — Received in the Senate, read twice.
