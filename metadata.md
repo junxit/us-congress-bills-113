@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1406
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1406
@@ -191,6 +191,12 @@ Working Families Flexibility Act of 2013
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (3)
+
+- 2013-05-08 — [House 113-1-135](votes/house-113-1-0135.md) — On Agreeing to the Amendment — **Agreed to** (384–42)
+- 2013-05-08 — [House 113-1-136](votes/house-113-1-0136.md) — On Motion to Recommit with Instructions — **Failed** (200–227)
+- 2013-05-08 — [House 113-1-137](votes/house-113-1-0137.md) — On Passage — **Passed** (223–204)
+
 ## Actions
 
 - 2013-04-09 — Introduced in House
@@ -202,3 +208,29 @@ Working Families Flexibility Act of 2013
 - 2013-04-30 — Placed on the Union Calendar, Calendar No. 30.
 - 2013-04-30 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-49.
 - 2013-04-30 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-49.
+- 2013-05-06 — Rules Committee Resolution H. Res. 198 Reported to House. Rule provides for consideration of H.R. 1406 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.
+- 2013-05-07 — Rule H. Res. 198 passed House.
+- 2013-05-08 — Amendment (A002) offered by Mr. Gibson. (consideration: CR H2516-2520; text: CR H2516-2517)
+- 2013-05-08 — Amendment agreed to by House: On agreeing to the Gibson amendment (A002) Agreed to by the Yeas and Nays: 384 - 42 (Roll no. 135).
+- 2013-05-08 — Amendment agreed to by House: On agreeing to the Gibson amendment (A002) Agreed to by the Yeas and Nays: 384 - 42 (Roll no. 135).
+- 2013-05-08 — Considered as unfinished business. (consideration: CR H2519-2523)
+- 2013-05-08 — Considered under the provisions of rule H. Res. 198. (consideration: CR H2502-2522; text of measure as reported in House: CR H2502-2503)
+- 2013-05-08 — DEBATE - Pursuant to the provisions of H.Res. 198, the House proceeded with 10 minutes of debate on the Gibson amendment.
+- 2013-05-08 — DEBATE - The House proceeded with 10 minutes of debate on the Shea-Porter motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to ensure that employees could not be denied the use of compensatory time for the following purposes: (1) to attend medical appointments; (2) to care for a sick family member or if the employee is sick; or (3) to attend counseling or rehabilitation appointments for injuries sustained by the employee as a member of the Armed Forces. The motion would also prohibit employers who have been found to violate the Equal Pay Act of 1963 from replacing monetary overtime with compensatory time.
+- 2013-05-08 — DEBATE - The House proceeded with one hour of debate on H.R. 1406.
+- 2013-05-08 — House amendment agreed to: On agreeing to the Gibson amendment (A002) Agreed to by the Yeas and Nays: 384 - 42 (Roll no. 135).
+- 2013-05-08 — House amendment agreed to: On agreeing to the Gibson amendment (A002) Agreed to by the Yeas and Nays: 384 - 42 (Roll no. 135).
+- 2013-05-08 — House amendment offered
+- 2013-05-08 — House amendment offered
+- 2013-05-08 — House amendment offered/reported by: Amendment (A002) offered by Mr. Gibson.(consideration: CR H2516-2520; text: CR H2516-2517)
+- 2013-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-05-08 — Ms. Shea-Porter moved to recommit with instructions to Education and the Workforce. (consideration: CR H2520-2521; text: CR H2520)
+- 2013-05-08 — On agreeing to the Gibson amendment (A002) Agreed to by the Yeas and Nays: 384 - 42 (Roll no. 135).
+- 2013-05-08 — On motion to recommit with instructions Failed by recorded vote: 200 - 227 (Roll no. 136).
+- 2013-05-08 — On passage Passed by recorded vote: 223 - 204 (Roll no. 137).
+- 2013-05-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gibson amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Courtney demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-05-08 — Passed/agreed to in House: On passage Passed by recorded vote: 223 - 204 (Roll no. 137).
+- 2013-05-08 — Roll call votes on amendments in House
+- 2013-05-08 — Rule provides for consideration of H.R. 1406 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.
+- 2013-05-08 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2521)
+- 2013-05-08 — The previous question was ordered on the amendment (A002) pursuant to the rule. (consideration: CR H2519)

@@ -58,6 +58,16 @@ Section 16 of the Fair Labor Standards Act of 1938 (29 U.S.C. 216) is amended—
 
 Not later than 30 days after the date of enactment of this Act, the Secretary of Labor shall revise the materials the Secretary provides, under regulations published in section 516.4 of title 29, Code of Federal Regulations, to employers for purposes of a notice explaining the Fair Labor Standards Act of 1938 to employees so that such notice reflects the amendments made to such Act by this Act.
 
-## § 5. Sunset
+## § 5. GAO report
+
+Beginning 2 years after the date of enactment of this Act and each of the 3 years thereafter, the Comptroller General shall submit a report to Congress providing, with respect to the reporting period immediately prior to each such report—
+
+- **(1)** data concerning the extent to which employers provide compensatory time pursuant to section 7(s) of the Fair Labor Standards Act of 1938, as added by this Act, and the extent to which employees opt to receive compensatory time;
+- **(2)** the number of complaints alleging a violation of such section filed by any employee with the Secretary of Labor;
+- **(3)** the number of enforcement actions commenced by the Secretary or commenced by the Secretary on behalf of any employee for alleged violations of such section;
+- **(4)** the disposition or status of such complaints and actions described in paragraphs (2) and (3); and
+- **(5)** an account of any unpaid wages, damages, penalties, injunctive relief, or other remedies obtained or sought by the Secretary in connection with such actions described in paragraph (3).
+
+## § 6. Sunset
 
 This Act and the amendments made by this Act shall expire 5 years after the date of enactment of this Act.
