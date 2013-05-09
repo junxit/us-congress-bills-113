@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1406
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1406
@@ -187,9 +187,10 @@ Working Families Flexibility Act of 2013
 - Rep. Collins, Doug [R-GA-9] (C001093)
 - Rep. Huelskamp, Tim [R-KS-1] (H001057)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (3)
 
@@ -234,3 +235,4 @@ Working Families Flexibility Act of 2013
 - 2013-05-08 — Rule provides for consideration of H.R. 1406 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.
 - 2013-05-08 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2521)
 - 2013-05-08 — The previous question was ordered on the amendment (A002) pursuant to the rule. (consideration: CR H2519)
+- 2013-05-09 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
