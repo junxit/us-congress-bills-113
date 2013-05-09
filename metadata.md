@@ -1,7 +1,7 @@
 ---
 measure: H.R. 807
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 807
@@ -129,6 +129,12 @@ Full Faith and Credit Act
 
 - House — Ways and Means Committee
 
+## Recorded votes (3)
+
+- 2013-05-09 — [House 113-1-140](votes/house-113-1-0140.md) — On Agreeing to the Amendment — **Agreed to** (340–84)
+- 2013-05-09 — [House 113-1-141](votes/house-113-1-0141.md) — On Motion to Recommit with Instructions — **Failed** (200–227)
+- 2013-05-09 — [House 113-1-142](votes/house-113-1-0142.md) — On Passage — **Passed** (221–207)
+
 ## Actions
 
 - 2013-02-25 — Introduced in House
@@ -138,3 +144,26 @@ Full Faith and Credit Act
 - 2013-04-30 — Placed on the Union Calendar, Calendar No. 29.
 - 2013-04-30 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-48.
 - 2013-04-30 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-48.
+- 2013-05-07 — Rules Committee Resolution H. Res. 202 Reported to House. Rule provides for consideration of H.R. 807 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Measure will be considered read. A specified amendment is in order.
+- 2013-05-08 — Rule H. Res. 202 passed House.
+- 2013-05-09 — Amendment (A002) offered by Mr. Camp. (consideration: CR H2546-2551; text: CR H2546)
+- 2013-05-09 — Amendment agreed to by House: On agreeing to the Camp amendment (A002) Agreed to by the Yeas and Nays: 340 - 84 (Roll no. 140).
+- 2013-05-09 — Considered under the provisions of rule H. Res. 202. (consideration: CR H2539-2553; text of measure as reported in House: CR H2539)
+- 2013-05-09 — DEBATE - Pursuant to the provisions of H.Res. 202, the House proceeded with 10 minutes of debate on the Camp amendment.
+- 2013-05-09 — DEBATE - The House continued with further debate on H.R. 807.
+- 2013-05-09 — DEBATE - The House proceeded with 10 minutes of debate on the Maffei motion to recommit with instructions pending reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment adding a new section pertaining to the prohibition on default that pays China first instead of protecting America's seniors, veterans, and those harmed by natural disasters. Subsequently, the reservation was removed.
+- 2013-05-09 — DEBATE - The House proceeded with one hour of debate on H.R. 807.
+- 2013-05-09 — House amendment agreed to: On agreeing to the Camp amendment (A002) Agreed to by the Yeas and Nays: 340 - 84 (Roll no. 140).
+- 2013-05-09 — House amendment offered
+- 2013-05-09 — House amendment offered
+- 2013-05-09 — House amendment offered/reported by: Amendment (A002) offered by Mr. Camp.(consideration: CR H2546-2551; text: CR H2546)
+- 2013-05-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-05-09 — Mr. Maffei moved to recommit with instructions to Ways and Means. (consideration: CR H2551-2553; text: CR H2551)
+- 2013-05-09 — On agreeing to the Camp amendment (A002) Agreed to by the Yeas and Nays: 340 - 84 (Roll no. 140).
+- 2013-05-09 — On motion to recommit with instructions Failed by recorded vote: 200 - 227 (Roll no. 141).
+- 2013-05-09 — On passage Passed by the Yeas and Nays: 221 - 207 (Roll no. 142).
+- 2013-05-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 221 - 207 (Roll no. 142).
+- 2013-05-09 — Roll call votes on amendments in House
+- 2013-05-09 — Rule provides for consideration of H.R. 807 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Measure will be considered read. A specified amendment is in order.
+- 2013-05-09 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2552)
+- 2013-05-09 — The previous question was ordered on the amendment (A002) pursuant to the rule. (consideration: CR H2550)

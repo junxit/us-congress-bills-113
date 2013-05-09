@@ -13,24 +13,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Full Faith and Credit Act”.
 
-## § 2. Findings
+## § 2. Payment of principal and interest on public debt and social security trust funds
 
-Congress finds that:
-
-- **(1)** The Act of Congress establishing the Treasury Department of 1789 states that the Secretary of the Treasury shall prepare plans for improving and managing the revenue of the United States Government and for the support of the public credit.
-- **(2)** Section 321 of title 31, United States Code, codifies the duty “to prepare plans for improving and managing receipts of the United States Government and managing the public debt”.
-- **(3)** In carrying out the statutory responsibilities to “support of the public credit” and “managing the public debt” the Secretary shall take all necessary actions to ensure all obligations of the United States Government with regard to debt held by the public are fully discharged when due.
-- **(4)** Such actions may include the forgoing of obligations not related to debt held by the public for a period of time deemed necessary by the Secretary as authorized under section 324 of title 31, United States Code, which states that—
-  > - **(a)** The Secretary of the Treasury may—
-  >   - **(1)** dispose of obligations—
-  >     - **(A)** acquired by the Secretary for the United States Government; or
-  >     - **(B)** delivered by an executive agency; and
-  >   - **(2)** make arrangements to extend the maturity of those obligations.
-  > - **(b)** The Secretary may dispose or extend the maturity of obligations under subsection (a) of this section in the way, in amounts, at prices (for cash, obligations, property, or a combination of cash, obligations, or property), and on conditions the Secretary considers advisable and in the public interest.
-
-## § 3. Duty to protect the full faith and credit of the United States Government
-
-- **(a)** *In general* In the event that the debt of the United States Government, as defined in section 3101 of title 31, United States Code, reaches the statutory limit, the authority of the Department of the Treasury provided in section 3123 of title 31, United States Code, to pay with legal tender the principal and interest on debt held by the public shall take priority over all other obligations incurred by the Government of the United States.
-- **(b)** *Special rule for insufficiency of funds* Section 324 of title 31, United States Code, is amended by redesignating subsection (c) as subsection (e), and by inserting after subsection (b) the following:
-  > - **(c)** If the Secretary expects that there will be insufficient funds available to dispose of all obligations consisting of interest and principal of the debt held by the public on the next calendar day on which such obligations are due, then the Secretary shall extend the maturities of any other obligations under section (a) and refuse to issue warrants under section 321(a)(3) to the extent necessary to provide such funds as the Secretary deems prudent to dispose of obligations consisting of interest and principal of the debt held by the public for no less than the next 30 calendar days.
-  > - **(d)** To the extent receipts exceed those required to meet the Secretary’s obligation under subsection (c), the Secretary shall prioritize the disposal of obligations under subsection (a) and issuance of warrants under section 321(a)(3) in that order the Secretary considers advisable and in the public interest.
+- **(a)** *In general* In the event that the debt of the United States Government, as defined in section 3101 of title 31, United States Code, reaches the statutory limit, the Secretary of the Treasury shall, in addition to any other authority provided by law, issue obligations under chapter 31 of title 31, United States Code, to pay with legal tender, and solely for the purpose of paying, the principal and interest on obligations of the United States described in subsection (b) after the date of the enactment of this Act.
+- **(b)** *Obligations described* For purposes of this subsection, obligations described in this subsection are obligations which are—
+  - **(1)** held by the public, or
+  - **(2)** held by the Old-Age and Survivors Insurance Trust Fund and Disability Insurance Trust Fund.
+- **(c)** *Prohibition on compensation for Members of Congress* None of the obligations issued under subsection (a) may be used to pay compensation for Members of Congress.
+- **(d)** *Obligations exempt from public debt limit* Obligations issued under subsection (a) shall not be taken into account in applying the limitation in section 3101(b) of title 31, United States Code, to the extent that such obligation would otherwise cause the limitation in section 3101(b) of title 31, United States Code, to be exceeded.
+- **(e)** *Report on certain actions*
+  - **(1)** *In general* If, after the date of the enactment of this Act, the Secretary of the Treasury exercises his authority under subsection (a), the Secretary shall thereafter submit a report each week the authority is in use providing an accounting relating to—
+    - **(A)** the principal on mature obligations and interest that is due or accrued of the United States, and
+    - **(B)** any obligations issued pursuant to subsection (a).
+  - **(2)** *Submission* The report required by paragraph (1) shall be submitted to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
