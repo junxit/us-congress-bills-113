@@ -1,7 +1,7 @@
 ---
 measure: H.R. 267
 congress: 113
-version: Reported to Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `5,000` |
 | Inserted | `10,000` |
 
-### 16 U.S.C. § 2705
+### 16 U.S.C. § 823a
 
 > in subsection (c), by striking “subsection (a)” and inserting “subsection (b)”; and
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `subsection (a)` |
 | Inserted | `subsection (b)` |
 
-### 16 U.S.C. § 2705
+### 16 U.S.C. § 823a
 
 > in subsection (d), by striking “subsection (a)” and inserting “subsection (b)”.
 
@@ -69,5 +69,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 2705` | replace | by striking subsections (a) and (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | by inserting after subsection (a) (as so designated) the following: | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 823a` | replace | by striking subsections (a) and (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 798` | insert | by inserting after subsection (a) (as so designated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
