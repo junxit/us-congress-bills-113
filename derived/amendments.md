@@ -1,7 +1,7 @@
 ---
 measure: S. 545
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 8 executed, 3 stated and not applied.
+17 amendatory instructions. 12 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -69,7 +69,7 @@ to guess them.
 | Removed | `subsection (a) of such section 30` |
 | Inserted | `section 30(c) of that Act` |
 
-### 16 U.S.C. § 824a-3
+### 42 U.S.C. § 7178
 
 > Section 3401(a)(2) of the Omnibus Budget Reconciliation Act of 1986 (42 U.S.C. 7178(a)(2)) is amended by striking “30(e)” and inserting “30(f)”.
 
@@ -96,6 +96,42 @@ to guess them.
 | Removed | `5,000` |
 | Inserted | `10,000` |
 
+### 16 U.S.C. § 2705
+
+> Subsection (d) of section 405 of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2705) is amended by striking “5,000” and inserting “10,000”.
+
+| | |
+|---|---|
+| Removed | `5,000` |
+| Inserted | `10,000` |
+
+### 16 U.S.C. § 2705
+
+> in subsection (c), by striking “subsection (a)” and inserting “subsection (b)”; and
+
+| | |
+|---|---|
+| Removed | `subsection (a)` |
+| Inserted | `subsection (b)` |
+
+### 16 U.S.C. § 2705
+
+> in subsection (d), by striking “subsection (a)” and inserting “subsection (b)”.
+
+| | |
+|---|---|
+| Removed | `subsection (a)` |
+| Inserted | `subsection (b)` |
+
+### 16 U.S.C. § 2705
+
+> Subsection (d) of section 405 of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2705), as amended, is further amended by striking “subsection (a) of such section 30” and inserting “subsection (b) of such section 30”.
+
+| | |
+|---|---|
+| Removed | `subsection (a) of such section 30` |
+| Inserted | `subsection (b) of such section 30` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -107,4 +143,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `16 U.S.C. § 824a-3` | redesignate | by redesignating subsections (c) through (e) as subsections (d) through (f), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 824a-3` | replace | by striking “Sec. 30.” and all that follows through the end of subsection (b) and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| — | insert | by inserting after subsection (a) (as so designated) the following: | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 2705` | replace | by striking subsections (a) and (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | by inserting after subsection (a) (as so designated) the following: | the bill names no machine-readable US Code section |
