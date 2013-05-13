@@ -1,7 +1,7 @@
 ---
 measure: H.R. 267
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 267
@@ -55,3 +55,8 @@ Hydropower Regulatory Efficiency Act of 2013
 - 2013-02-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 40). (text: CR 2/12/2013 H439-440)
 - 2013-02-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 40).(text: CR 2/12/2013 H439-440)
 - 2013-02-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-04-23 — Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 113-24.
+- 2013-05-08 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2013-05-13 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. Without written report.
+- 2013-05-13 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. Without written report.
+- 2013-05-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 71.
