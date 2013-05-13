@@ -1,7 +1,7 @@
 ---
 measure: H.R. 678
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 678
@@ -98,3 +98,8 @@ Bureau of Reclamation Small Conduit Hydropower Development and Rural Jobs Act
 - 2013-04-10 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1889)
 - 2013-04-10 — The previous question was ordered pursuant to the rule. (consideration: CR H1888)
 - 2013-04-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-04-23 — Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 113-24.
+- 2013-05-08 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2013-05-13 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. Without written report.
+- 2013-05-13 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. Without written report.
+- 2013-05-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 72.
