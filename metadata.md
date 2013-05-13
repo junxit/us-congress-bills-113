@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1062
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1062
@@ -16,7 +16,7 @@ SEC Regulatory Accountability Act
 
 - Rep. Garrett, Scott [R-NJ-5] (G000548)
 
-## Cosponsors (15)
+## Cosponsors (23)
 
 - Rep. Hurt, Robert [R-VA-5] (H001060)
 - Rep. Grimm, Michael G. [R-NY-11] (G000569)
@@ -33,6 +33,14 @@ SEC Regulatory Accountability Act
 - Rep. Pittenger, Robert [R-NC-9] (P000606)
 - Rep. Miller, Gary G. [R-CA-31] (M001139)
 - Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Cotton, Tom [R-AR-4] (C001095)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
 
 ## Committees (1)
 
@@ -43,3 +51,9 @@ SEC Regulatory Accountability Act
 - 2013-03-12 — Introduced in House
 - 2013-03-12 — Introduced in House
 - 2013-03-12 — Referred to the House Committee on Financial Services.
+- 2013-04-11 — Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.
+- 2013-05-07 — Committee Consideration and Mark-up Session Held.
+- 2013-05-07 — Ordered to be Reported by the Yeas and Nays: 31 - 28.
+- 2013-05-13 — Placed on the Union Calendar, Calendar No. 31.
+- 2013-05-13 — Reported by the Committee on Financial Services. H. Rept. 113-53.
+- 2013-05-13 — Reported by the Committee on Financial Services. H. Rept. 113-53.
