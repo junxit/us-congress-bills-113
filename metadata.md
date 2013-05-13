@@ -1,7 +1,7 @@
 ---
 measure: H.R. 678
 congress: 113
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 678
@@ -103,3 +103,14 @@ Bureau of Reclamation Small Conduit Hydropower Development and Rural Jobs Act
 - 2013-05-13 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. Without written report.
 - 2013-05-13 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. Without written report.
 - 2013-05-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 72.
+- 2013-06-03 — By Senator Wyden from Committee on Energy and Natural Resources filed written report. Report No. 113-39.
+- 2013-06-03 — By Senator Wyden from Committee on Energy and Natural Resources filed written report. Report No. 113-39.
+- 2013-08-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6257)
+- 2013-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6257)
+- 2013-08-02 — Message on Senate action sent to the House.
+- 2013-08-06 — Presented to President.
+- 2013-08-06 — Presented to President.
+- 2013-08-09 — Became Public Law No: 113-24.
+- 2013-08-09 — Became Public Law No: 113-24.
+- 2013-08-09 — Signed by President.
+- 2013-08-09 — Signed by President.
