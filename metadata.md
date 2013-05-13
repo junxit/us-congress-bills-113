@@ -1,7 +1,7 @@
 ---
 measure: H.R. 807
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 807
@@ -125,9 +125,10 @@ Full Faith and Credit Act
 - Rep. Neugebauer, Randy [R-TX-19] (N000182)
 - Rep. Burgess, Michael C. [R-TX-26] (B001248)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (3)
 
@@ -167,3 +168,4 @@ Full Faith and Credit Act
 - 2013-05-09 — Rule provides for consideration of H.R. 807 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Measure will be considered read. A specified amendment is in order.
 - 2013-05-09 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2552)
 - 2013-05-09 — The previous question was ordered on the amendment (A002) pursuant to the rule. (consideration: CR H2550)
+- 2013-05-13 — Received in the Senate and Read twice and referred to the Committee on Finance.
