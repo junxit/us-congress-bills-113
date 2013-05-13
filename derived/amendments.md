@@ -1,7 +1,7 @@
 ---
 measure: S. 761
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-23 amendatory instructions. 2 executed, 21 stated and not applied.
+29 amendatory instructions. 2 executed, 27 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,12 +35,12 @@ to guess them.
 
 ### 42 U.S.C. § 13451
 
-> Section 2101(a) of the Energy Policy Act of 1992 (42 U.S.C. 13451(a)) is amended in the third sentence by striking “sections 2102, 2103, 2104, 2105, 2106, 2107, and 2108” and inserting “sections 2102, 2104, 2105, 2106, and 2108, section 376 of the Energy Policy and Conservation Act,”.
+> Section 2101(a) of the Energy Policy Act of 1992 (42 U.S.C. 13451(a)) is amended in the third sentence by striking “sections 2102, 2103, 2104, 2105, 2106, 2107, and 2108” and inserting “sections 2102, 2104, 2105, 2106, and 2108,2108 of this Act and section 376 of the Energy Policy and Conservation Act,”.
 
 | | |
 |---|---|
 | Removed | `sections 2102, 2103, 2104, 2105, 2106, 2107, and 2108` |
-| Inserted | `sections 2102, 2104, 2105, 2106, and 2108, section 376 of the Energy Policy and Conservation Act,` |
+| Inserted | `sections 2102, 2104, 2105, 2106, and 2108,2108 of this Act and section 376 of the Energy Policy and Conservation Act,` |
 
 ## Stated, not applied
 
@@ -58,10 +58,10 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 17111` | replace | Section 452 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17111) is amended by striking the section heading and inserting the following: “Future of Industry program”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17111` | redesignate | by redesignating paragraphs (3) through (5) as paragraphs (4) through (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17111` | insert | by inserting after paragraph (2): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17111` | redesignate | by redesignating paragraphs (1) through (5) as subparagraphs (A) through (E), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17111` | replace | by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 17111` | redesignate | in subparagraph (A) (as redesignated by subparagraph (A)), by inserting before the semicolon at the end the following: “, including assessments of sustainable manufacturing goals and the implementation of information technology advanceme… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 631` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17111` | redesignate | (1) by redesignating paragraphs (1) through (5) as subparagraphs (A) through (E), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17111` | replace | (2) by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 17111` | redesignate | (3) in subparagraph (A) (as redesignated by subparagraph (A)paragraph (1)), by inserting before the semicolon at the end the following: “, including assessments of sustainable manufacturing goals and the implementation of information tec… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 631` | add-at-end | (4) by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6341` | amend | Part E of title III of the Energy Policy and Conservation Act (42 U.S.C. 6341) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6341` | add-at-end | The table of contents of the Energy Policy and Conservation Act (42 U.S.C. prec. 6201) is amended by adding at the end of the items relating to part E of title III the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 15811` | repeal | Section 106 of the Energy Policy Act of 2005 (42 U.S.C. 15811) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -72,3 +72,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 8287c` | strike | in subparagraph (A), by striking “or” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 8287c` | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 8287c` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 8256` | insert | Section 546(c)(1) of the National Energy Conservation Policy Act (42 U.S.C. 8256(c)(1)) is amended by inserting “(including measures to support the use of natural gas vehicles and electric vehicles or the fueling or charging infrastructu… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 8287c` | strike | in subparagraph (A), by striking “or” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 8287c` | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 8287c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17082` | strike | in paragraph (3), by striking “and” after the semicolon at the end; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 17082` | replace | by striking paragraph (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
