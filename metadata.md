@@ -1,7 +1,7 @@
 ---
 measure: H.R. 356
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 356
@@ -31,3 +31,11 @@ Hill Creek Cultural Preservation and Energy Development Act
 - 2013-01-23 — Introduced in House
 - 2013-01-23 — Introduced in House
 - 2013-01-23 — Referred to the House Committee on Natural Resources.
+- 2013-02-01 — Referred to the Subcommittee Indian and Alaska Native Affairs.
+- 2013-02-01 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2013-04-24 — Committee Consideration and Mark-up Session Held.
+- 2013-04-24 — Ordered to be Reported by Unanimous Consent.
+- 2013-04-24 — Subcommittee Indian and Alaska Native Affairs Discharged.
+- 2013-05-14 — Placed on the Union Calendar, Calendar No. 35.
+- 2013-05-14 — Reported by the Committee on Natural Resources. H. Rept. 113-57.
+- 2013-05-14 — Reported by the Committee on Natural Resources. H. Rept. 113-57.
