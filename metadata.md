@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1580
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1580
@@ -55,6 +55,10 @@ To affirm the policy of the United States regarding Internet governance.
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2013-05-14 — [House 113-1-145](votes/house-113-1-0145.md) — On Motion to Suspend the Rules and Pass — **Passed** (413–0)
+
 ## Actions
 
 - 2013-04-16 — Introduced in House
@@ -66,3 +70,11 @@ To affirm the policy of the United States regarding Internet governance.
 - 2013-05-03 — Placed on the House Calendar, Calendar No. 21.
 - 2013-05-03 — Reported by the Committee on Energy and Commerce. H. Rept. 113-50.
 - 2013-05-03 — Reported by the Committee on Energy and Commerce. H. Rept. 113-50.
+- 2013-05-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-05-14 — Considered as unfinished business. (consideration: CR H2587)
+- 2013-05-14 — Considered under suspension of the rules. (consideration: CR H2582-2584)
+- 2013-05-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1580.
+- 2013-05-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-05-14 — Mr. Walden moved to suspend the rules and pass the bill.
+- 2013-05-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 145). (text: CR H2582)
+- 2013-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 145).(text: CR H2582)
