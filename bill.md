@@ -20,7 +20,7 @@ In this Act:
 - **(1)** *Coordinator* The term Coordinator means the Blue Alert Coordinator of the Department of Justice designated under section 4(a).
 - **(2)** *Blue alert* The term Blue Alert means information relating to the serious injury or death of a law enforcement officer in the line of duty sent through the network.
 - **(3)** *Blue alert plan* The term Blue Alert plan means the plan of a State, unit of local government, or Federal agency participating in the network for the dissemination of information received as a Blue Alert.
-- **(4)** *Law enforcement officer* The term law enforcement officer shall have the same meaning as in section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796b).
+- **(4)** *Law enforcement officer* The term law enforcement officer shall have the same meaning as in section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796b(6)).
 - **(5)** *Network* The term network means the Blue Alert communications network established by the Attorney General under section 3.
 - **(6)** *State* The term State means each of the 50 States, the District of Columbia, Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 

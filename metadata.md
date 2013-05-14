@@ -1,7 +1,7 @@
 ---
 measure: H.R. 180
 congress: 113
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 180
