@@ -1,7 +1,7 @@
 ---
 measure: H.R. 573
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 573
@@ -16,7 +16,7 @@ To amend Public Law 93-435 with respect to the Northern Mariana Islands, providi
 
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 
-## Cosponsors (34)
+## Cosponsors (36)
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
@@ -52,6 +52,8 @@ To amend Public Law 93-435 with respect to the Northern Mariana Islands, providi
 - Rep. Green, Al [D-TX-9] (G000553)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 
 ## Committees (1)
 
@@ -63,3 +65,10 @@ To amend Public Law 93-435 with respect to the Northern Mariana Islands, providi
 - 2013-02-06 — Introduced in House
 - 2013-02-06 — Referred to the House Committee on Natural Resources.
 - 2013-02-06 — Sponsor introductory remarks on measure. (CR E106-107)
+- 2013-02-21 — Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.
+- 2013-04-24 — Committee Consideration and Mark-up Session Held.
+- 2013-04-24 — Ordered to be Reported by Unanimous Consent.
+- 2013-04-24 — Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.
+- 2013-05-14 — Placed on the Union Calendar, Calendar No. 34.
+- 2013-05-14 — Reported by the Committee on Natural Resources. H. Rept. 113-56.
+- 2013-05-14 — Reported by the Committee on Natural Resources. H. Rept. 113-56.
