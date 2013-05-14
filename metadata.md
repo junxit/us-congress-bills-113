@@ -1,7 +1,7 @@
 ---
 measure: H.R. 767
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 767
@@ -32,3 +32,11 @@ To amend the Energy Policy Act of 2005 to modify the Pilot Project offices of th
 - 2013-02-15 — Introduced in House
 - 2013-02-15 — Referred to the House Committee on Natural Resources.
 - 2013-02-15 — Sponsor introductory remarks on measure. (CR H572-573)
+- 2013-03-01 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2013-03-21 — Subcommittee Hearings Held.
+- 2013-04-24 — Committee Consideration and Mark-up Session Held.
+- 2013-04-24 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2013-04-24 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2013-05-14 — Placed on the Union Calendar, Calendar No. 33.
+- 2013-05-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-55.
+- 2013-05-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-55.

@@ -15,7 +15,7 @@ Section 365 of the Energy Policy Act of 2005 (42 U.S.C. 15924) is amended by str
 
 > - **(d)** *Pilot project offices* The following Bureau of Land Management Offices shall serve as the Pilot Project offices:
 >   - **(1)** Rawlins Field Office, Wyoming.
->   - **(2)** Buffalo Field Office, Wyoming.
+>   - **(2)** High Plains District Office, Wyoming.
 >   - **(3)** Montana/Dakotas State Office, Montana.
 >   - **(4)** Farmington Field Office, New Mexico.
 >   - **(5)** Carlsbad Field Office, New Mexico.
