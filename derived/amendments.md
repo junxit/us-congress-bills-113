@@ -1,7 +1,7 @@
 ---
 measure: H.R. 701
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 15 U.S.C. § 77c
 
-> Section 3(b)(2) of the Securities Act of 1933 (15 U.S.C. 77c(b)(2)) is amended by striking “The Commission” and inserting “Not later than October 31, 2013, the Commission”.
+> Section 3(b)(2) of the Securities Act of 1933 (15 U.S.C. 77c(b)(2)) is amended in the matter preceding subparagraph (A) by striking “The Commission” and inserting “Not later than October 31, 2013, the Commission”.
 
 | | |
 |---|---|
