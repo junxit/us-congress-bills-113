@@ -1,7 +1,7 @@
 ---
 measure: H.R. 573
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 573
@@ -72,3 +72,9 @@ To amend Public Law 93-435 with respect to the Northern Mariana Islands, providi
 - 2013-05-14 — Placed on the Union Calendar, Calendar No. 34.
 - 2013-05-14 — Reported by the Committee on Natural Resources. H. Rept. 113-56.
 - 2013-05-14 — Reported by the Committee on Natural Resources. H. Rept. 113-56.
+- 2013-05-15 — Considered under suspension of the rules. (consideration: CR H2633-2634)
+- 2013-05-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 573.
+- 2013-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-05-15 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
+- 2013-05-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2633)
+- 2013-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2633)
