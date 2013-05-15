@@ -1,7 +1,7 @@
 ---
 measure: S. 601
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 601
@@ -16,13 +16,229 @@ Water Resources Development Act of 2013
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Cosponsors (1)
+## Cosponsors (205)
 
 - Sen. Vitter, David [R-LA] (V000127)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cowan, William M. [D-MA] (C001099)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Cowan, William M. [D-MA] (C001099)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Cowan, William M. [D-MA] (C001099)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Tester, Jon [D-MT] (T000464)
 
 ## Committees (1)
 
 - Senate — Environment and Public Works Committee
+
+## Recorded votes (9)
+
+- 2013-05-08 — [Senate 113-1-115](votes/senate-113-1-0115.md) — On the Amendment — **Amendment Rejected** (56–43)
+- 2013-05-08 — [Senate 113-1-116](votes/senate-113-1-0116.md) — On the Amendment — **Amendment Agreed to** (67–32)
+- 2013-05-08 — [Senate 113-1-117](votes/senate-113-1-0117.md) — On the Amendment — **Amendment Agreed to** (95–0)
+- 2013-05-14 — [Senate 113-1-119](votes/senate-113-1-0119.md) — On the Amendment — **Amendment Rejected** (52–44)
+- 2013-05-14 — [Senate 113-1-120](votes/senate-113-1-0120.md) — On the Amendment — **Amendment Rejected** (56–40)
+- 2013-05-15 — [Senate 113-1-121](votes/senate-113-1-0121.md) — On the Amendment — **Amendment Rejected** (43–53)
+- 2013-05-15 — [Senate 113-1-122](votes/senate-113-1-0122.md) — On the Amendment — **Amendment Rejected** (35–61)
+- 2013-05-15 — [Senate 113-1-123](votes/senate-113-1-0123.md) — On the Amendment — **Amendment Agreed to** (60–36)
+- 2013-05-15 — [Senate 113-1-124](votes/senate-113-1-0124.md) — On Passage of the Bill — **Bill Passed** (83–14)
 
 ## Actions
 
@@ -32,3 +248,318 @@ Water Resources Development Act of 2013
 - 2013-04-22 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. With written report No. 113-13.
 - 2013-04-22 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. With written report No. 113-13.
 - 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 44.
+- 2013-04-25 — Cloture motion on the motion to proceed to measure presented in Senate. (consideration: CR S3020; text: CR S3020)
+- 2013-04-25 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S3020)
+- 2013-05-06 — Cloture motion on the motion to proceed to measure withdrawn by unanimous consent in Senate. (consideration: CR S3079)
+- 2013-05-07 — Amendment SA 799 proposed by Senator Boxer. (consideration: CR S3139-3152) In the nature of a substitute.
+- 2013-05-07 — Measure laid before Senate by motion. (consideration: CR S3110-3138, S3139-3152; text of measure as reported in Senate: CR S3110-3138)
+- 2013-05-07 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent. (consideration: CR S3110)
+- 2013-05-07 — Senate amendment proposed (on the floor): Amendment SA 799 proposed by Senator Boxer.(consideration: CR S3139-3152)
+- 2013-05-07 — Senate amendment submitted
+- 2013-05-07 — Senate amendment submitted
+- 2013-05-07 — Senate amendment submitted
+- 2013-05-07 — Senate amendment submitted
+- 2013-05-07 — Senate amendment submitted
+- 2013-05-07 — Senate amendment submitted
+- 2013-05-07 — Senate amendment submitted
+- 2013-05-07 — Senate amendment submitted
+- 2013-05-07 — Senate amendment submitted
+- 2013-05-07 — Senate amendment submitted
+- 2013-05-07 — Senate amendment submitted
+- 2013-05-07 — Senate amendment submitted
+- 2013-05-07 — Senate amendment submitted
+- 2013-05-07 — Senate amendment submitted
+- 2013-05-07 — Senate amendment submitted
+- 2013-05-07 — Senate amendment submitted
+- 2013-05-07 — Senate amendment submitted
+- 2013-05-07 — Senate amendment submitted
+- 2013-05-07 — The committee substitute was withdrawn by Unanimous Consent.
+- 2013-05-08 — Amendment SA 799 agreed to in Senate by Unanimous Consent.
+- 2013-05-08 — Amendment SA 801 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S3247)
+- 2013-05-08 — Amendment SA 801 proposed by Senator Boxer for Senator Pryor. (consideration CR S3247) To direct the Administrator of the Environmental Protection Agency to change the Spill Prevention, Control, and Countermeasure rule with respect to certain farms.
+- 2013-05-08 — Amendment SA 803 proposed by Senator Whitehouse to Amendment SA 799. (consideration: CR S3223-3227, S3227-3228) To create the National Endowment for the Oceans to promote the protection and conservation of United States ocean, coastal, and Great Lakes ecosystems.
+- 2013-05-08 — Amendment SA 803, under the order of 5/7/13, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 67 - 32. Record Vote Number: 116.
+- 2013-05-08 — Amendment SA 805 proposed by Senator Coburn to Amendment SA 799. (consideration: CR S3218-3223, S3227; text: CR S3219) To protect the right of individuals to bear arms at water resources development projects administered by the Secretary of the Army.
+- 2013-05-08 — Amendment SA 805, under the order of 5/7/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 115.
+- 2013-05-08 — Amendment SA 806 agreed to in Senate by Unanimous Consent.
+- 2013-05-08 — Amendment SA 806 proposed by Senator Boxer for Senator Pryor. (consideration: CR S3247; text: CR S3247) To provide a work-in-kind credit.
+- 2013-05-08 — Amendment SA 813 as modified agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 117. (text as modified: CR S3242)
+- 2013-05-08 — Amendment SA 813 proposed by Senator Brown. (consideration: CR S3242-3243) To provide a multiagency effort to slow the spread of Asian carp in the Upper Mississippi and Ohio River basins and tributaries.
+- 2013-05-08 — Amendment SA 832 agreed to in Senate by Unanimous Consent.
+- 2013-05-08 — Amendment SA 832 proposed by Senator Boxer for Senator Murray. (consideration: CR S3247; text: CR S3247) To modify the definition of the term "cargo container".
+- 2013-05-08 — Amendment SA 833 agreed to in Senate by Unanimous Consent.
+- 2013-05-08 — Amendment SA 833 proposed by Senator Boxer for Senator McCain. (consideration: CR S3247; text: CR S3247) To protect the American taxpayer by establishing metrics to measure the effectiveness of grants administered by the national levee safety program.
+- 2013-05-08 — Amendment SA 835 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S3247)
+- 2013-05-08 — Amendment SA 835 proposed by Senator Boxer for Senator Inhofe. (consideration: CR S3247) To provide for rural water infrastructure projects.
+- 2013-05-08 — Considered by Senate. (consideration: CR S3217)
+- 2013-05-08 — Considered by Senate. (consideration: CR S3217-3228, S3240-3248)
+- 2013-05-08 — Roll call votes on amendments in Senate: Amendment SA 803, under the order of 5/7/13, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 67 - 32. Record Vote Number: 116.
+- 2013-05-08 — Roll call votes on amendments in Senate: Amendment SA 805, under the order of 5/7/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 115.
+- 2013-05-08 — Roll call votes on amendments in Senate: Amendment SA 813 as modified agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 117.(text as modified: CR S3242)
+- 2013-05-08 — Senate amendment agreed to: Amendment SA 799 agreed to in Senate by Unanimous Consent.
+- 2013-05-08 — Senate amendment agreed to: Amendment SA 801 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S3247)
+- 2013-05-08 — Senate amendment agreed to: Amendment SA 803, under the order of 5/7/13, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 67 - 32. Record Vote Number: 116.
+- 2013-05-08 — Senate amendment agreed to: Amendment SA 806 agreed to in Senate by Unanimous Consent.
+- 2013-05-08 — Senate amendment agreed to: Amendment SA 813 as modified agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 117.(text as modified: CR S3242)
+- 2013-05-08 — Senate amendment agreed to: Amendment SA 832 agreed to in Senate by Unanimous Consent.
+- 2013-05-08 — Senate amendment agreed to: Amendment SA 833 agreed to in Senate by Unanimous Consent.
+- 2013-05-08 — Senate amendment agreed to: Amendment SA 835 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S3247)
+- 2013-05-08 — Senate amendment not agreed to: Amendment SA 805, under the order of 5/7/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 115.
+- 2013-05-08 — Senate amendment proposed (on the floor): Amendment SA 801 proposed by Senator Boxer for Senator Pryor.(consideration CR S3247)
+- 2013-05-08 — Senate amendment proposed (on the floor): Amendment SA 803 proposed by Senator Whitehouse to Amendment SA 799.(consideration: CR S3223-3227, S3227-3228)
+- 2013-05-08 — Senate amendment proposed (on the floor): Amendment SA 805 proposed by Senator Coburn to Amendment SA 799.(consideration: CR S3218-3223, S3227; text: CR S3219)
+- 2013-05-08 — Senate amendment proposed (on the floor): Amendment SA 806 proposed by Senator Boxer for Senator Pryor.(consideration: CR S3247; text: CR S3247)
+- 2013-05-08 — Senate amendment proposed (on the floor): Amendment SA 813 proposed by Senator Brown.(consideration: CR S3242-3243)
+- 2013-05-08 — Senate amendment proposed (on the floor): Amendment SA 832 proposed by Senator Boxer for Senator Murray.(consideration: CR S3247; text: CR S3247)
+- 2013-05-08 — Senate amendment proposed (on the floor): Amendment SA 833 proposed by Senator Boxer for Senator McCain.(consideration: CR S3247; text: CR S3247)
+- 2013-05-08 — Senate amendment proposed (on the floor): Amendment SA 835 proposed by Senator Boxer for Senator Inhofe.(consideration: CR S3247)
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-08 — Senate amendment submitted
+- 2013-05-09 — Amendment SA 800 agreed to in Senate by Unanimous Consent.
+- 2013-05-09 — Amendment SA 800 proposed by Senator Boxer for Senator Blunt. (consideration: CR S3310; text: CR S3310) To provide for the consideration of resilient construction techniques in certain studies relating to extreme weather events.
+- 2013-05-09 — Amendment SA 811 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S3310)
+- 2013-05-09 — Amendment SA 811 proposed by Senator Boxer for Senator Sessions. (consideration: CR S3310) To require the Tennessee Valley Authority to grant certain use restrictions.
+- 2013-05-09 — Amendment SA 823 agreed to in Senate by Unanimous Consent.
+- 2013-05-09 — Amendment SA 823 proposed by Senator Boxer for Senator Coburn. (consideration: CR S3310; text: CR S3310) To ensure environmental infrastructure activities are not exempt from review by the Infrastructure Deauthorization Commission.
+- 2013-05-09 — Amendment SA 873 agreed to in Senate by Unanimous Consent.
+- 2013-05-09 — Amendment SA 873 proposed by Senator Boxer for Senator Warner. (consideration: CR S3310; text: CR S3310) To include a provision relating to Four Mile Run, city of Alexandria and Arlington County, Virginia.
+- 2013-05-09 — Cloture motion on measure presented in Senate. (consideration: CR S3319; text: CR S3319)
+- 2013-05-09 — Considered by Senate. (consideration: CR S3294-3304, S3308-3319)
+- 2013-05-09 — Senate amendment agreed to: Amendment SA 800 agreed to in Senate by Unanimous Consent.
+- 2013-05-09 — Senate amendment agreed to: Amendment SA 811 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S3310)
+- 2013-05-09 — Senate amendment agreed to: Amendment SA 823 agreed to in Senate by Unanimous Consent.
+- 2013-05-09 — Senate amendment agreed to: Amendment SA 873 agreed to in Senate by Unanimous Consent.
+- 2013-05-09 — Senate amendment proposed (on the floor): Amendment SA 800 proposed by Senator Boxer for Senator Blunt.(consideration: CR S3310; text: CR S3310)
+- 2013-05-09 — Senate amendment proposed (on the floor): Amendment SA 811 proposed by Senator Boxer for Senator Sessions.(consideration: CR S3310)
+- 2013-05-09 — Senate amendment proposed (on the floor): Amendment SA 823 proposed by Senator Boxer for Senator Coburn.(consideration: CR S3310; text: CR S3310)
+- 2013-05-09 — Senate amendment proposed (on the floor): Amendment SA 873 proposed by Senator Boxer for Senator Warner.(consideration: CR S3310; text: CR S3310)
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-09 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-13 — Senate amendment submitted
+- 2013-05-14 — Amendment SA 797 agreed to in Senate by Voice Vote.
+- 2013-05-14 — Amendment SA 797 proposed by Senator Boxer for Senator Inhofe. (consideration: CR S3417; text: CR S3417) To authorize a land exchange.
+- 2013-05-14 — Amendment SA 847 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Amendment SA 847 proposed by Senator Boxer for Senator Baucus. (consideration: CR S3401-3408; text: CR S3404) To modify a provision relating to Northern Rockies headwaters extreme weather mitigation.
+- 2013-05-14 — Amendment SA 861 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR H3407)
+- 2013-05-14 — Amendment SA 861 proposed by Senator Boxer for Senator Cardin. (consideration: CR S3401-3408) To improve a provision relating to project acceleration.
+- 2013-05-14 — Amendment SA 867 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Amendment SA 867 proposed by Senator Vitter for Senator Inhofe. (consideration: CR S3401-3408; text: CR S3405) To allow the Secretary to accept and expend non-Federal amounts for repair, restoration, or replacement of certain water resources projects.
+- 2013-05-14 — Amendment SA 868 proposed by Senator Barrasso. (consideration: CR S3409-3411, S3412-3415, S3416-3417, S3417; text: CR S3409) To preserve existing rights and responsibilities with respect to waters of the United States.
+- 2013-05-14 — Amendment SA 868, under the order of 5/14/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 52 - 44. Record Vote Number: 119.
+- 2013-05-14 — Amendment SA 870 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR H3406)
+- 2013-05-14 — Amendment SA 870 proposed by Senator Boxer for Senator Wyden. (consideration: CR S3401-3408) To modify a provision relating to Harbor Maintenance Trust Fund prioritization.
+- 2013-05-14 — Amendment SA 872 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Amendment SA 872 proposed by Senator Vitter for Senator Boozman. (consideration: CR S3401-3408; text: CR S3405) To improve planning and administration relating to water supply storage activities.
+- 2013-05-14 — Amendment SA 880 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Amendment SA 880 proposed by Senator Vitter for Senator Cornyn. (consideration: CR S3401-3408; text: CR S3406) To deauthorize portions of the project for East Fork of Trinity River, Texas.
+- 2013-05-14 — Amendment SA 882 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Amendment SA 882 proposed by Senator Boxer for Senator Carper. (consideration: CR S3401-3408; text: CR S3406-3407) To modify the allocation of funds to the Susquehanna River Basin Commission, Delaware River Basin Commission, and the Interstate Commission on the Potomac River Basin to fulfill equitable funding requirements of the respective interstate compacts of the Commissions.
+- 2013-05-14 — Amendment SA 884 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Amendment SA 884 proposed by Senator Boxer for Senator Klobuchar. (consideration: CR S3401-3408; text: CR S3406) To require the closure of the Upper St. Anthony Falls Lock and Dam if certain conditions are met.
+- 2013-05-14 — Amendment SA 889 proposed by Senator Sanders. (consideration: CR S3411-3412, S3418; text: CR S3411) To address restoration of certain properties impacted by natural disasters, and for other purposes.
+- 2013-05-14 — Amendment SA 889, under the order of 5/14/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 40. Record Vote Number: 120.
+- 2013-05-14 — Amendment SA 893 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Amendment SA 893 proposed by Senator Boxer for Senator Levin. (consideration: CR S3401-3408; text: CR S3407) To provide for the policy relating to the Harbor Maintenance Trust Fund prioritization.
+- 2013-05-14 — Amendment SA 894 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Amendment SA 894 proposed by Senator Vitter for Senator Wicker. (consideration: CR S3401-3408; text: CR S3405) To express the sense of Congress that, in recognition of the contributions of Donald G. Waldon to the Tennessee-Tombigbee Waterway, a lock and dam on that waterway should be designated as the "Donald G. Waldon Lock and Dam".
+- 2013-05-14 — Amendment SA 895 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Amendment SA 895 proposed by Senator Vitter for Senator Inhofe. (consideration: CR S3401-3408; text: CR S3405) To clarify the role of the Cherokee Nation of Oklahoma regarding the maintenance of the W.D. Mayo Lock and Dam in the State of Oklahoma.
+- 2013-05-14 — Amendment SA 896 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Amendment SA 896 proposed by Senator Boxer for Senator Wyden. (consideration: CR S3401-3408; text: CR S3408) To require the Government Accountability Office to carry out a study evaluating the effectiveness of activities funded by the Harbor Maintenance Trust Fund in maximizing economic growth and job creation in port communities.
+- 2013-05-14 — Amendment SA 898 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Amendment SA 898 proposed by Senator Vitter for Senator Collins. (consideration: CR S3401-3408; text: CR S3407) To provide for the reopening of the Cape Arundel Disposal Site as a dredged material disposal site.
+- 2013-05-14 — Amendment SA 899 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S3404-3405)
+- 2013-05-14 — Amendment SA 899 proposed by Senator Boxer. (consideration: CR S3401-3408) Relating to the State of Louisiana's Comprehensive Master Plan for a Sustainable Coast, and to improve a provision relating to dam optimization.
+- 2013-05-14 — Amendment SA 903 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S3407)
+- 2013-05-14 — Amendment SA 903 proposed by Senator Vitter for Senator Murkowski. (consideration: CR S3401-3408) To authorize the Secretary to enter into deep draft port development partnerships.
+- 2013-05-14 — Amendment SA 904 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Amendment SA 904 proposed by Senator Vitter for Senator Murkowski. (consideration: CR S3401-3408; text: CR S3406) To declare certain areas in Seward, Alaska, as nonnavigable waters of the United States for purposes of navigational servitude.
+- 2013-05-14 — Amendment SA 906 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR H3407)
+- 2013-05-14 — Amendment SA 906 proposed by Senator Boxer for Senator Durbin. (consideration: CR S3401-3408) To provide for a serve flooding and drought management study of the greater Mississippi River Basin.
+- 2013-05-14 — Amendment SA 907 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Amendment SA 907 proposed by Senator Boxer for Senator Brown. (consideration: CR S3401-3408; text: CR S3407-3408) To provide for future project authorizations.
+- 2013-05-14 — Amendment SA 909 proposed by Senator Hoeven. (consideration: CR S3415-3416; text: CR S3416) To provide for the conservation and development of water and related resources, to authorize the Secretary of the Army to construct various projects for improvements to rivers and harbors of the United States, and for other purposes.
+- 2013-05-14 — Amendment SA 911 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR H3406)
+- 2013-05-14 — Amendment SA 911 proposed by Senator Vitter for Senator Cochran. (consideration: CR S3401-3408) To provide Crediting Authority for Federally Authorized Navigation Projects.
+- 2013-05-14 — Amendment SA 912 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Amendment SA 912 proposed by Senator Vitter for Senator Thune. (consideration: CR S3401-3408; text: CR S3405-3406) To authorize the Secretary to assist Indian tribes in addressing shoreline erosion in the Upper Missouri River Basin.
+- 2013-05-14 — Considered by Senate. (consideration: CR S3397-3400, S3400-3421)
+- 2013-05-14 — Roll call votes on amendments in Senate: Amendment SA 868, under the order of 5/14/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 52 - 44. Record Vote Number: 119.
+- 2013-05-14 — Roll call votes on amendments in Senate: Amendment SA 889, under the order of 5/14/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 40. Record Vote Number: 120.
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 797 agreed to in Senate by Voice Vote.
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 847 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 861 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR H3407)
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 867 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 870 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR H3406)
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 872 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 880 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 882 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 884 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 893 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 894 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 895 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 896 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 898 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 899 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S3404-3405)
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 903 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S3407)
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 904 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 906 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR H3407)
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 907 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 911 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR H3406)
+- 2013-05-14 — Senate amendment agreed to: Amendment SA 912 agreed to in Senate by Unanimous Consent.
+- 2013-05-14 — Senate amendment not agreed to: Amendment SA 868, under the order of 5/14/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 52 - 44. Record Vote Number: 119.
+- 2013-05-14 — Senate amendment not agreed to: Amendment SA 889, under the order of 5/14/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 40. Record Vote Number: 120.
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 797 proposed by Senator Boxer for Senator Inhofe.(consideration: CR S3417; text: CR S3417)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 847 proposed by Senator Boxer for Senator Baucus.(consideration: CR S3401-3408; text: CR S3404)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 861 proposed by Senator Boxer for Senator Cardin.(consideration: CR S3401-3408)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 867 proposed by Senator Vitter for Senator Inhofe.(consideration: CR S3401-3408; text: CR S3405)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 868 proposed by Senator Barrasso.(consideration: CR S3409-3411, S3412-3415, S3416-3417, S3417; text: CR S3409)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 870 proposed by Senator Boxer for Senator Wyden.(consideration: CR S3401-3408)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 872 proposed by Senator Vitter for Senator Boozman.(consideration: CR S3401-3408; text: CR S3405)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 880 proposed by Senator Vitter for Senator Cornyn.(consideration: CR S3401-3408; text: CR S3406)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 882 proposed by Senator Boxer for Senator Carper.(consideration: CR S3401-3408; text: CR S3406-3407)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 884 proposed by Senator Boxer for Senator Klobuchar.(consideration: CR S3401-3408; text: CR S3406)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 889 proposed by Senator Sanders.(consideration: CR S3411-3412, S3418; text: CR S3411)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 893 proposed by Senator Boxer for Senator Levin.(consideration: CR S3401-3408; text: CR S3407)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 894 proposed by Senator Vitter for Senator Wicker.(consideration: CR S3401-3408; text: CR S3405)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 895 proposed by Senator Vitter for Senator Inhofe.(consideration: CR S3401-3408; text: CR S3405)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 896 proposed by Senator Boxer for Senator Wyden.(consideration: CR S3401-3408; text: CR S3408)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 898 proposed by Senator Vitter for Senator Collins.(consideration: CR S3401-3408; text: CR S3407)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 899 proposed by Senator Boxer.(consideration: CR S3401-3408)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 903 proposed by Senator Vitter for Senator Murkowski.(consideration: CR S3401-3408)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 903 proposed by Senator Vitter for Senator Murkowski.(consideration: CR S3401-3408)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 904 proposed by Senator Vitter for Senator Murkowski.(consideration: CR S3401-3408; text: CR S3406)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 906 proposed by Senator Boxer for Senator Durbin.(consideration: CR S3401-3408)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 907 proposed by Senator Boxer for Senator Brown.(consideration: CR S3401-3408; text: CR S3407-3408)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 909 proposed by Senator Hoeven.(consideration: CR S3415-3416; text: CR S3416)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 911 proposed by Senator Vitter for Senator Cochran.(consideration: CR S3401-3408)
+- 2013-05-14 — Senate amendment proposed (on the floor): Amendment SA 912 proposed by Senator Vitter for Senator Thune.(consideration: CR S3401-3408; text: CR S3405-3406)
+- 2013-05-14 — Senate amendment submitted
+- 2013-05-14 — Senate amendment submitted
+- 2013-05-14 — Senate amendment submitted
+- 2013-05-15 — Amendment SA 815 not agreed to in Senate by Yea-Nay Vote. 43 - 53. Record Vote Number: 121.
+- 2013-05-15 — Amendment SA 815 proposed by Senator Coburn. (consideration: CR S3444-3445; text: CR S3444) To stop Federal subsidies for ongoing beach renourishment from being extended to 65 years.
+- 2013-05-15 — Amendment SA 816 not agreed to in Senate by Yea-Nay Vote. 35 - 61. Record Vote Number: 122.
+- 2013-05-15 — Amendment SA 816 proposed by Senator Coburn. (consideration: CR S3444, S3444-3445; text: CR S3444) To remove restrictions on projects the Infrastructure Deauthorization Commission may consider.
+- 2013-05-15 — Amendment SA 822 agreed to in Senate by Voice Vote.
+- 2013-05-15 — Amendment SA 822 proposed by Senator Boozman. (consideration: CR S3445; text: CR S3445) To authorize the Secretary to participate in the America the Beautiful National Parks and Federal Recreational Lands Pass program.
+- 2013-05-15 — Amendment SA 866 agreed to in Senate by Yea-Nay Vote. 60 - 36. Record Vote Number: 123.
+- 2013-05-15 — Amendment SA 866 proposed by Senator Merkley. (consideration: CR S3445-3446; text: CR S3446) To require the use of American iron, steel, and manufactured goods for innovative financing pilot projects.
+- 2013-05-15 — Amendment SA 909 as modified agreed to in Senate by Voice Vote. (text as modified: CR S3447)
+- 2013-05-15 — Cloture motion on the measure withdrawn by unanimous consent in Senate. (consideration: CR S3447)
+- 2013-05-15 — Considered by Senate. (consideration: CR S3444, S3447)
+- 2013-05-15 — Considered by Senate. (consideration: CR S3444-3496)
+- 2013-05-15 — Held at the desk.
+- 2013-05-15 — Message on Senate action sent to the House.
+- 2013-05-15 — Passed Senate with amendments by Yea-Nay Vote. 83 - 14. Record Vote Number: 124. (text: CR S3454-3496)
+- 2013-05-15 — Passed/agreed to in Senate: Passed Senate with amendments by Yea-Nay Vote. 83 - 14. Record Vote Number: 124.(text: CR S3454-3496)
+- 2013-05-15 — Received in the House.
+- 2013-05-15 — Roll call votes on amendments in Senate: Amendment SA 815 not agreed to in Senate by Yea-Nay Vote. 43 - 53. Record Vote Number: 121.
+- 2013-05-15 — Roll call votes on amendments in Senate: Amendment SA 816 not agreed to in Senate by Yea-Nay Vote. 35 - 61. Record Vote Number: 122.
+- 2013-05-15 — Roll call votes on amendments in Senate: Amendment SA 866 agreed to in Senate by Yea-Nay Vote. 60 - 36. Record Vote Number: 123.
+- 2013-05-15 — Senate amendment agreed to: Amendment SA 822 agreed to in Senate by Voice Vote.
+- 2013-05-15 — Senate amendment agreed to: Amendment SA 866 agreed to in Senate by Yea-Nay Vote. 60 - 36. Record Vote Number: 123.
+- 2013-05-15 — Senate amendment agreed to: Amendment SA 909 as modified agreed to in Senate by Voice Vote.(text as modified: CR S3447)
+- 2013-05-15 — Senate amendment not agreed to: Amendment SA 815 not agreed to in Senate by Yea-Nay Vote. 43 - 53. Record Vote Number: 121.
+- 2013-05-15 — Senate amendment not agreed to: Amendment SA 816 not agreed to in Senate by Yea-Nay Vote. 35 - 61. Record Vote Number: 122.
+- 2013-05-15 — Senate amendment proposed (on the floor): Amendment SA 815 proposed by Senator Coburn.(consideration: CR S3444-3445; text: CR S3444)
+- 2013-05-15 — Senate amendment proposed (on the floor): Amendment SA 816 proposed by Senator Coburn.(consideration: CR S3444, S3444-3445; text: CR S3444)
+- 2013-05-15 — Senate amendment proposed (on the floor): Amendment SA 822 proposed by Senator Boozman.(consideration: CR S3445; text: CR S3445)
+- 2013-05-15 — Senate amendment proposed (on the floor): Amendment SA 866 proposed by Senator Merkley.(consideration: CR S3445-3446; text: CR S3446)
