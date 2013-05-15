@@ -1,7 +1,7 @@
 ---
 measure: H.R. 384
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 384
@@ -16,7 +16,7 @@ Homes for Heroes Act of 2013
 
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Cosponsors (16)
+## Cosponsors (20)
 
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 - Rep. Green, Gene [D-TX-29] (G000410)
@@ -34,13 +34,30 @@ Homes for Heroes Act of 2013
 - Rep. Pingree, Chellie [D-ME-1] (P000597)
 - Rep. Rangel, Charles B. [D-NY-13] (R000053)
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 
 ## Committees (1)
 
 - House — Financial Services Committee
+
+## Recorded votes (1)
+
+- 2013-05-15 — [House 113-1-149](votes/house-113-1-0149.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (420–3)
 
 ## Actions
 
 - 2013-01-23 — Introduced in House
 - 2013-01-23 — Introduced in House
 - 2013-01-23 — Referred to the House Committee on Financial Services.
+- 2013-05-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-05-15 — Considered as unfinished business. (consideration: CR H2636-2637)
+- 2013-05-15 — Considered under suspension of the rules. (consideration: CR H2629-2631)
+- 2013-05-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 384.
+- 2013-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-05-15 — Mr. McHenry moved to suspend the rules and pass the bill, as amended.
+- 2013-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 149). (text: CR H2629-2630)
+- 2013-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 149).(text: CR H2629-2630)
+- 2013-05-15 — The title of the measure was amended. Agreed to without objection. (consideration: CR H2637)

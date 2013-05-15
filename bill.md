@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 384
 
-> To establish the position of Special Assistant for Veterans Affairs in the Department of Housing and Urban Development, and for other purposes.
+> To transfer the position of Special Assistant for Veterans Affairs in the Department of Housing and Urban Development to the Office of the Secretary, and for other purposes.
 
 ## § 1. Short title
 
@@ -15,21 +15,22 @@ This Act may be cited as the “Homes for Heroes Act of 2013”.
 
 ## § 2. Special assistant for Veterans Affairs in the Department of Housing and Urban Development
 
-Section 4 of the Department of Housing and Urban Development Act (42 U.S.C. 3533) is amended by adding at the end the following new subsection:
+- **(a)** *Transfer of position to Office of the Secretary* Section 4 of the Department of Housing and Urban Development Act (42 U.S.C. 3533) is amended by adding at the end the following new subsection:
+  > - **(h)** *Special assistant for veterans affairs*
+  >   - **(1)** *Position* There shall be in the Office of the Secretary a Special Assistant for Veterans Affairs, who shall report directly to the Secretary.
+  >   - **(2)** *Appointment* The Special Assistant for Veterans Affairs shall be appointed based solely on merit and shall be covered under the provisions of title 5, United States Code, governing appointments in the competitive service.
+  >   - **(3)** *Responsibilities* The Special Assistant for Veterans Affairs shall be responsible for—
+  >     - **(A)** ensuring veterans have fair access to housing and homeless assistance under each program of the Department providing either such assistance;
+  >     - **(B)** coordinating all programs and activities of the Department relating to veterans;
+  >     - **(C)** serving as a liaison for the Department with the Department of Veterans Affairs, including establishing and maintaining relationships with the Secretary of Veterans Affairs;
+  >     - **(D)** serving as a liaison for the Department, and establishing and maintaining relationships with the United States Interagency Council on Homelessness and officials of State, local, regional, and nongovernmental organizations concerned with veterans;
+  >     - **(E)** providing information and advice regarding—
+  >       - **(i)** sponsoring housing projects for veterans assisted under programs administered by the Department; or
+  >       - **(ii)** assisting veterans in obtaining housing or homeless assistance under programs administered by the Department;
+  >     - **(F)** coordinating with the Secretary of Housing and Urban Development and the Secretary of Veterans Affairs in carrying out section 3 of the Homes for Heroes Act of 2013; and
+  >     - **(G)** carrying out such other duties as may be assigned to the Special Assistant by the Secretary or by law.
 
-> - **(g)** *Special assistant for veterans affairs*
->   - **(1)** *Establishment* There shall be in the Department a Special Assistant for Veterans Affairs, who shall be a special assistant to the Secretary and shall report directly to the Secretary.
->   - **(2)** *Appointment* The Special Assistant for Veterans Affairs shall be appointed based solely on merit and shall be covered under the provisions of title 5, United States Code, governing appointments in the competitive service.
->   - **(3)** *Responsibilities* The Special Assistant for Veterans Affairs shall be responsible for—
->     - **(A)** ensuring veterans have fair access to housing and homeless assistance under each program of the Department providing either such assistance;
->     - **(B)** coordinating all programs and activities of the Department relating to veterans;
->     - **(C)** serving as a liaison for the Department with the Department of Veterans Affairs, including establishing and maintaining relationships with the Secretary of Veterans Affairs;
->     - **(D)** serving as a liaison for the Department, and establishing and maintaining relationships with the United States Interagency Council on Homelessness and officials of State, local, regional, and nongovernmental organizations concerned with veterans;
->     - **(E)** providing information and advice regarding—
->       - **(i)** sponsoring housing projects for veterans assisted under programs administered by the Department; or
->       - **(ii)** assisting veterans in obtaining housing or homeless assistance under programs administered by the Department;
->     - **(F)** coordinating with the Secretary of Housing and Urban Development and the Secretary of Veterans Affairs in carrying out section 3 of the Homes for Heroes Act of 2013; and
->     - **(G)** carrying out such other duties as may be assigned to the Special Assistant by the Secretary or by law.
+- **(b)** *Transfer of position in Office of Deputy Assistant Secretary for Special Needs* On the date that the initial Special Assistant for Veterans Affairs is appointed pursuant to section 4(h)(2) of the Department of Housing and Urban Development Act, as added by subsection (a) of this section, the position of Special Assistant for Veterans Programs in the Office of the Deputy Assistant Secretary for Special Needs of the Department of Housing and Urban Development shall be terminated.
 
 ## § 3. Annual supplemental report on veterans homelessness
 
