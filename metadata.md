@@ -1,7 +1,7 @@
 ---
 measure: H.R. 767
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 767
@@ -26,6 +26,10 @@ To amend the Energy Policy Act of 2005 to modify the Pilot Project offices of th
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2013-05-15 — [House 113-1-147](votes/house-113-1-0147.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (415–1)
+
 ## Actions
 
 - 2013-02-15 — Introduced in House
@@ -40,3 +44,11 @@ To amend the Energy Policy Act of 2005 to modify the Pilot Project offices of th
 - 2013-05-14 — Placed on the Union Calendar, Calendar No. 33.
 - 2013-05-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-55.
 - 2013-05-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-55.
+- 2013-05-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-05-15 — Considered as unfinished business. (consideration: CR H2634)
+- 2013-05-15 — Considered under suspension of the rules. (consideration: CR H2632-2633)
+- 2013-05-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 767.
+- 2013-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-05-15 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
+- 2013-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 147). (text: CR H2632)
+- 2013-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 147).(text: CR H2632)
