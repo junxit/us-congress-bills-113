@@ -1,7 +1,7 @@
 ---
 measure: H.R. 356
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 356
@@ -22,9 +22,10 @@ Hill Creek Cultural Preservation and Energy Development Act
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 - Rep. Stewart, Chris [R-UT-2] (S001192)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Hill Creek Cultural Preservation and Energy Development Act
 - 2013-05-15 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2013-05-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2631)
 - 2013-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2631)
+- 2013-05-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
