@@ -1,7 +1,7 @@
 ---
 measure: H.R. 384
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 384
@@ -39,9 +39,10 @@ Homes for Heroes Act of 2013
 - Rep. Carson, Andre [D-IN-7] (C001072)
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -61,3 +62,4 @@ Homes for Heroes Act of 2013
 - 2013-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 149). (text: CR H2629-2630)
 - 2013-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 149).(text: CR H2629-2630)
 - 2013-05-15 — The title of the measure was amended. Agreed to without objection. (consideration: CR H2637)
+- 2013-05-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
