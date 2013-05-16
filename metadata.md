@@ -1,7 +1,7 @@
 ---
 measure: H.R. 356
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 356
@@ -47,3 +47,15 @@ Hill Creek Cultural Preservation and Energy Development Act
 - 2013-05-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2631)
 - 2013-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2631)
 - 2013-05-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2014-04-24 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2014-07-09 — Passed Senate without amendment by Unanimous Consent.
+- 2014-07-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-07-09 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S4355-4364)
+- 2014-07-09 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S4355-4364)
+- 2014-07-10 — Message on Senate action sent to the House.
+- 2014-07-15 — Presented to President.
+- 2014-07-15 — Presented to President.
+- 2014-07-25 — Became Public Law No: 113-133.
+- 2014-07-25 — Became Public Law No: 113-133.
+- 2014-07-25 — Signed by President.
+- 2014-07-25 — Signed by President.

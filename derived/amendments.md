@@ -1,7 +1,7 @@
 ---
 measure: H.R. 356
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `30 U.S.C. § 181` | add-at-end | The Act entitled “An Act to define the exterior boundary of the Uintah and Ouray Indian Reservation in the State of Utah, and for other purposes”, approved March 11, 1948 (62 Stat. 72), as amended by the Act entitled “An Act to amend the… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 171` | add-at-end | The Act entitled “An Act to define the exterior boundary of the Uintah and Ouray Indian Reservation in the State of Utah, and for other purposes”, approved March 11, 1948 (62 Stat. 72), as amended by the Act entitled “An Act to amend the… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
