@@ -1,7 +1,7 @@
 ---
 measure: H.R. 767
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 767
@@ -22,9 +22,10 @@ To amend the Energy Policy Act of 2005 to modify the Pilot Project offices of th
 - Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
 - Rep. Lummis, Cynthia M. [R-WY-At Large] (L000571)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ To amend the Energy Policy Act of 2005 to modify the Pilot Project offices of th
 - 2013-05-15 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
 - 2013-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 147). (text: CR H2632)
 - 2013-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 147).(text: CR H2632)
+- 2013-05-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
