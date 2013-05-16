@@ -1,7 +1,7 @@
 ---
 measure: H.R. 767
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 767
@@ -54,3 +54,14 @@ To amend the Energy Policy Act of 2005 to modify the Pilot Project offices of th
 - 2013-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 147). (text: CR H2632)
 - 2013-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 147).(text: CR H2632)
 - 2013-05-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-12-20 — Message on Senate action sent to the House.
+- 2013-12-20 — Passed Senate without amendment by Unanimous Consent.
+- 2013-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2013-12-20 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S9068-9069)
+- 2013-12-20 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S9068-9069)
+- 2013-12-23 — Presented to President.
+- 2013-12-23 — Presented to President.
+- 2013-12-26 — Became Public Law No: 113-69.
+- 2013-12-26 — Became Public Law No: 113-69.
+- 2013-12-26 — Signed by President.
+- 2013-12-26 — Signed by President.

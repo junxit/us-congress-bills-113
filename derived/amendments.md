@@ -1,7 +1,7 @@
 ---
 measure: H.R. 767
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 365 of the Energy Policy Act of 2005 (42 U.S.C. 15924) is amended by striking subsection (d) and inserting the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 15924` | replace | Section 365 of the Energy Policy Act of 2005 (42 U.S.C. 15924) is amended by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
