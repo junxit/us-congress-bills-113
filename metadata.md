@@ -1,7 +1,7 @@
 ---
 measure: H.R. 573
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 573
@@ -55,9 +55,10 @@ To amend Public Law 93-435 with respect to the Northern Mariana Islands, providi
 - Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -78,3 +79,4 @@ To amend Public Law 93-435 with respect to the Northern Mariana Islands, providi
 - 2013-05-15 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2013-05-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2633)
 - 2013-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2633)
+- 2013-05-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
