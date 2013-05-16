@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 2010
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2010
+
+> To amend the Patient Protection and Affordable Care Act to apply to Delegates and Resident Commissioners to the Congress, and to employees of committees and leadership offices of Congress, the requirement of such Act that the only health plans that the Federal Government may make available to Members of Congress and congressional staff are plans created or offered through an Exchange established under such Act.
+
+## § 1. Short title
+
+This Act may be cited as the “Live by the Laws You Write Act”.
+
+## § 2. Treatment of delegates, committee staff, and leadership office staff under patient protection and affordable care act
+
+- **(a)** *Application of Same Requirements Applicable to Members and Employees of Member Offices* Section 1312(d)(3)(D) of the Patient Protection and Affordable Care Act (42 U.S.C. 18032(d)(3)(D)) is amended by striking clause (ii) and inserting the following:
+  > - **(ii)** *Treatment of delegates and resident commissioner* In this subparagraph, the term Member of Congress includes a Delegate or Resident Commissioner to the Congress.
+  > - **(iii)** *Congressional staff defined* In this subparagraph, the term Congressional staff means a full-time or part-time employee of any of the following offices:
+  >   - **(I)** The office of any Member of Congress.
+  >   - **(II)** The office of any standing, select, or joint committee of Congress.
+  >   - **(III)** An office of the House of Representatives for which the appropriation for salaries and expenses of the office for the year involved is provided under the heading House Leadership Offices in the Act making appropriations for the Legislative Branch for the fiscal year involved (in addition to any office of a Member of Congress referred to in subclause (I)).
+  >   - **(IV)** The offices of the President pro tempore, Majority and Minority Leaders, Majority and Minority Whips, Conferences of the Majority and of the Minority, and Majority and Minority Policy Committees of the Senate (in addition to any office of a Member of Congress referred to in subclause (I)).
+
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect as if included in the enactment of subtitle D of title I of the Patient Protection and Affordable Care Act.
