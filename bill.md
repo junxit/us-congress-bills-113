@@ -2,7 +2,7 @@
 legis-num: H.R. 701
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 701
@@ -11,4 +11,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Rulemaking deadline for exempting certain securities
 
-Section 3(b)(2) of the Securities Act of 1933 (15 U.S.C. 77c(b)(2)) is amended by striking “The Commission” and inserting “Not later than October 31, 2013, the Commission”.
+Section 3(b)(2) of the Securities Act of 1933 (15 U.S.C. 77c(b)(2)) is amended in the matter preceding subparagraph (A) by striking “The Commission” and inserting “Not later than October 31, 2013, the Commission”.

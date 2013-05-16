@@ -1,7 +1,7 @@
 ---
 measure: H.R. 701
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 701
@@ -25,9 +25,10 @@ To amend a provision of the Securities Act of 1933 directing the Securities and 
 - Rep. Collins, Chris [R-NY-27] (C001092)
 - Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ To amend a provision of the Securities Act of 1933 directing the Securities and 
 - 2013-05-15 — Placed on the Union Calendar, Calendar No. 36.
 - 2013-05-15 — Reported by the Committee on Financial Services. H. Rept. 113-58.
 - 2013-05-15 — Reported by the Committee on Financial Services. H. Rept. 113-58.
+- 2013-05-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
