@@ -20,5 +20,13 @@ This Act may be cited as the “Wood-Pawcatuck Watershed Protection Act”.
 
 - **(b)** *Study and report* Section 5(b) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(b)) is amended by adding at the end the following:
   > - **(__)** *Beaver, Chipuxet, Queen, Wood, and Pawcatuck Rivers, Rhode Island and Connecticut* Not later than 3 years after the date on which funds are made available to carry out this paragraph, the Secretary of the Interior shall—
-  >   - **(A)** complete the study of the Beaver, Chipuxet, Queen, Wood, and Pawcatuck Rivers, Rhode Island and Connecticut, described in subsection (a)(__); and
-  >   - **(B)** submit a report describing the results of that study to the appropriate committees of Congress.
+  >   - **(A)** complete the study of the Beaver, Chipuxet, Queen, Wood, and Pawcatuck Rivers, Rhode Island and Connecticut, described in subsection (a)(__);
+  >   - **(B)** submit a report describing the results of that study to the appropriate committees of Congress;
+  >   - **(C)** include in the report under subparagraph (B) the effect of the designation under this Act on—
+  >     - **(i)** existing commercial and recreational activities, such as hunting, fishing, trapping, recreational shooting, motor boat use, or bridge construction;
+  >     - **(ii)** the authorization, construction, operation, maintenance, or improvement of energy production and transmission infrastructure; and
+  >     - **(iii)** the authority of State and local governments to manage those activities encompassed in clauses (i) and (ii); and
+  >   - **(D)** identify—
+  >     - **(i)** all authorities that will authorize or require the Secretary to influence local land use decisions (such as zoning) or place restrictions on non-Federal land if the area studied is designated under this paragraph;
+  >     - **(ii)** all authorities that the Secretary may use to condemn property if the area studied is designated under this paragraph; and
+  >     - **(iii)** all private property located in the area studied under this provision.
