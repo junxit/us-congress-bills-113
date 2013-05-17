@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 2048
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2048
+
+> To amend the Internal Revenue Code of 1986 to improve the dependent care credit by repealing the phasedown of the credit percentage.
+
+## § 1. Short title; findings
+
+- **(a)** *Short title* This Act may be cited as the “Middle Class Dependent Care Fairness Act of 2013”.
+- **(b)** *Findings* Congress finds the following:
+  - **(1)** During the past few decades we have seen a greater need for childcare which means a greater cost for middle-class families. These child care costs can be a major burden for modern families.
+  - **(2)** In 2011, 44 percent of all American families included children under the age of 18. Fifty-eight and one-half percent of married couples with children both worked in 2011. The labor force participation rate of mothers with children under the age of 6 was 63.9 percent in 2011 compared with 39 percent in 1975.
+  - **(3)** Nationwide, on any given day, 4.6 million children under the age of 5 are in child care outside the home.
+  - **(4)** In 40 States, the average annual cost for center-based care for an infant is higher than a year’s tuition and related fees at a 4-year public college.
+
+## § 2. Dependent care credit improvements
+
+- **(a)** *Repeal of phasedown of credit percentage* Subsection (a) of section 21 of the Internal Revenue Code of 1986 is amended to read as follows:
+  > - **(a)** *Allowance of credit* In the case of an individual for which there are 1 or more qualifying individuals (as defined in subsection (b)(1)) with respect to such individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 35 percent of the employment-related expenses (as defined in subsection (b)(2)) paid by such individual during the taxable year.
+
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
