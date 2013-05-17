@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1206
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1206
@@ -29,3 +29,10 @@ Permanent Electronic Duck Stamp Act of 2013
 - 2013-03-14 — Introduced in House
 - 2013-03-14 — Introduced in House
 - 2013-03-14 — Referred to the House Committee on Natural Resources.
+- 2013-03-26 — Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.
+- 2013-04-24 — Committee Consideration and Mark-up Session Held.
+- 2013-04-24 — Ordered to be Reported by Unanimous Consent.
+- 2013-04-24 — Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.
+- 2013-05-17 — Placed on the Union Calendar, Calendar No. 43.
+- 2013-05-17 — Reported by the Committee on Natural Resources. H. Rept. 113-67.
+- 2013-05-17 — Reported by the Committee on Natural Resources. H. Rept. 113-67.
