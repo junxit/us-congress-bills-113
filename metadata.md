@@ -1,7 +1,7 @@
 ---
 measure: H.R. 862
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 862
@@ -29,3 +29,10 @@ To authorize the conveyance of two small parcels of land within the boundaries o
 - 2013-02-27 — Introduced in House
 - 2013-02-27 — Introduced in House
 - 2013-02-27 — Referred to the House Committee on Natural Resources.
+- 2013-03-04 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2013-04-24 — Committee Consideration and Mark-up Session Held.
+- 2013-04-24 — Ordered to be Reported by Unanimous Consent.
+- 2013-04-24 — Subcommittee on Public Lands and Environmental Regulation Discharged.
+- 2013-05-17 — Placed on the Union Calendar, Calendar No. 51.
+- 2013-05-17 — Reported by the Committee on Natural Resources. H. Rept. 113-75.
+- 2013-05-17 — Reported by the Committee on Natural Resources. H. Rept. 113-75.
