@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This title may be cited as the “SEC Regulatory Accountability Act”.
+This Act may be cited as the “SEC Regulatory Accountability Act”.
 
 ## § 2. Consideration by the Securities and Exchange Commission of the costs and benefits of its regulations and certain other agency actions
 
@@ -41,7 +41,7 @@ Section 23 of the Securities Exchange Act of 1934 (15 U.S.C. 78w) is amended by 
 >       - **(iii)** The assessment plan that will be used, consistent with the requirements of subparagraph (B) and under the supervision of the Chief Economist of the Commission, to assess whether the regulation has achieved the stated purposes.
 >       - **(iv)** Any unintended or negative consequences that the Commission foresees may result from the regulation.
 >     - **(B)** *Requirements of assessment plan and report*
->       - **(i)** *Requirements of plan* The assessment plan required under this paragraph shall consider the costs, benefits, and intended and unintended consequences of the regulation. The plan shall specify the data to be collected, the methods for collection and analysis of the data and a date for completion of the assessment.
+>       - **(i)** *Requirements of plan* The assessment plan required under this paragraph shall consider the costs, benefits, and intended and unintended consequences of the regulation. The plan shall specify the data to be collected, the methods for collection and analysis of the data and a date for completion of the assessment. The assessment plan shall include an analysis of any jobs added or lost as a result of the regulation, differentiating between public and private sector jobs.
 >       - **(ii)** *Submission and publication of report* The Chief Economist shall submit the completed assessment report to the Commission no later than 2 years after the publication of the adopting release, unless the Commission, at the request of the Chief Economist, has published at least 90 days before such date a notice in the Federal Register extending the date and providing specific reasons why an extension is necessary. Within 7 days after submission to the Commission of the final assessment report, it shall be published in the Federal Register for notice and comment. Any material modification of the plan, as necessary to assess unforeseen aspects or consequences of the regulation, shall be promptly published in the Federal Register for notice and comment.
 >       - **(iii)** *Data collection not subject to notice and comment requirements* If the Commission has published its assessment plan for notice and comment, specifying the data to be collected and method of collection, at least 30 days prior to adoption of a final regulation or amendment, such collection of data shall not be subject to the notice and comment requirements in section 3506(c) of title 44, United States Code (commonly referred to as the Paperwork Reduction Act). Any material modifications of the plan that require collection of data not previously published for notice and comment shall also be exempt from such requirements if the Commission has published notice for comment in the Federal Register of the additional data to be collected, at least 30 days prior to initiation of data collection.
 >       - **(iv)** *Final action* Not later than 180 days after publication of the assessment report in the Federal Register, the Commission shall issue for notice and comment a proposal to amend or rescind the regulation, or publish a notice that the Commission has determined that no action will be taken on the regulation. Such a notice will be deemed a final agency action.
@@ -55,4 +55,8 @@ Section 23 of the Securities Exchange Act of 1934 (15 U.S.C. 78w) is amended by 
 
 ## § 3. Sense of Congress relating to other regulatory entities
 
-It is the sense of the Congress that other regulatory entities, including the Public Company Accounting Oversight Board, the Municipal Securities Rulemaking Board, and any national securities association registered under section 15A of the Securities Exchange Act of 1934 (15 U.S.C. 78o–3) should also follow the requirements of section 23(e) of such Act, as added by this title.
+It is the sense of the Congress that the Public Company Accounting Oversight Board should also follow the requirements of section 23(e) of such Act, as added by this title.
+
+## § 4. Accountability provision relating to other regulatory entities
+
+A rule adopted by the Municipal Securities Rulemaking Board or any national securities association registered under section 15A of the Securities Exchange Act of 1934 (15 U.S.C. 78o–3) shall not take effect unless the Securities and Exchange Commission determines that, in adopting such rule, the Board or association has complied with the requirements of section 23(e) of such Act, as added by section 2, in the same manner as is required by the Commission under such section 23(e).

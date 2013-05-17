@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1062
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1062
@@ -46,6 +46,13 @@ SEC Regulatory Accountability Act
 
 - House — Financial Services Committee
 
+## Recorded votes (4)
+
+- 2013-05-17 — [House 113-1-157](votes/house-113-1-0157.md) — On Agreeing to the Amendment — **Agreed to** (233–163)
+- 2013-05-17 — [House 113-1-158](votes/house-113-1-0158.md) — On Agreeing to the Amendment — **Failed** (165–233)
+- 2013-05-17 — [House 113-1-159](votes/house-113-1-0159.md) — On Motion to Recommit with Instructions — **Failed** (179–217)
+- 2013-05-17 — [House 113-1-160](votes/house-113-1-0160.md) — On Passage — **Passed** (235–161)
+
 ## Actions
 
 - 2013-03-12 — Introduced in House
@@ -57,3 +64,47 @@ SEC Regulatory Accountability Act
 - 2013-05-13 — Placed on the Union Calendar, Calendar No. 31.
 - 2013-05-13 — Reported by the Committee on Financial Services. H. Rept. 113-53.
 - 2013-05-13 — Reported by the Committee on Financial Services. H. Rept. 113-53.
+- 2013-05-15 — Rules Committee Resolution H. Res. 216 Reported to House. Rule provides for consideration of H.R. 1062 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution waives all points of order against consideration of the bill. The resolution makes in order as original text for purpose of amendment an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-10 and provides that it shall be considered as read. The resolution waives all points of order against the amendment in the nature of a substitute. Each amendment may be offered only by a Member designated in the report, shall be considered as read, shall be debatable for the time specified in the report equally divided and controlled by the proponent and an opponent, shall not be subject to
+- 2013-05-17 — Amendment (A001) offered by Mr. Sessions. (consideration: CR H2743-2744; text: CR H2743-2744)
+- 2013-05-17 — Amendment (A002) offered by Mr. Hurt. (consideration: CR H2744-2745, H2747; text: CR H2744)
+- 2013-05-17 — Amendment (A003) offered by Mrs. Maloney, Carolyn. (consideration: CR H2745-2747, H2747-2748; text: CR H2745-2746)
+- 2013-05-17 — Amendment agreed to Committee of the Whole
+- 2013-05-17 — Amendment agreed to Committee of the Whole
+- 2013-05-17 — Amendment failed in Committee of the Whole
+- 2013-05-17 — Amendment failed in Committee of the Whole
+- 2013-05-17 — Considered under the provisions of rule H. Res. 216. (consideration: CR H2731-2751)
+- 2013-05-17 — DEBATE - Pursuant to the provisions of H. Res. 216, the Committee of the Whole proceeded with 10 minutes of debate on the Hurt amendment No.2.
+- 2013-05-17 — DEBATE - Pursuant to the provisions of H. Res. 216, the Committee of the Whole proceeded with 10 minutes of debate on the Maloney(NY) amendment No.3.
+- 2013-05-17 — DEBATE - Pursuant to the provisions of H.Res. 216, the Committee of the Whole proceeded with 10 minutes of debate on the Sessions amendment No.1.
+- 2013-05-17 — DEBATE - The House proceeded with 10 minutes of debate on the Waters motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to add a section to the bill prohibiting the authority of the SEC to enforce securities laws and ensure investor protections for various pension funds and against non-U.S. investors taking over American businesses.
+- 2013-05-17 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1062.
+- 2013-05-17 — House amendment agreed to: On agreeing to the Hurt amendment (A002) Agreed to by recorded vote: 233 - 163 (Roll no. 157).
+- 2013-05-17 — House amendment agreed to: On agreeing to the Hurt amendment (A002) Agreed to by recorded vote: 233 - 163 (Roll no. 157).
+- 2013-05-17 — House amendment agreed to: On agreeing to the Sessions amendment (A001) Agreed to by voice vote.
+- 2013-05-17 — House amendment not agreed to: On agreeing to the Maloney, Carolyn amendment (A003) Failed by recorded vote: 165 - 233 (Roll no. 158).
+- 2013-05-17 — House amendment offered
+- 2013-05-17 — House amendment offered
+- 2013-05-17 — House amendment offered
+- 2013-05-17 — House amendment offered/reported by: Amendment (A001) offered by Mr. Sessions.(consideration: CR H2743-2744; text: CR H2743-2744)
+- 2013-05-17 — House amendment offered/reported by: Amendment (A002) offered by Mr. Hurt.(consideration: CR H2744-2745, H2747; text: CR H2744)
+- 2013-05-17 — House amendment offered/reported by: Amendment (A003) offered by Mrs. Maloney, Carolyn.(consideration: CR H2745-2747, H2747-2748; text: CR H2745-2746)
+- 2013-05-17 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 216 and Rule XVIII.
+- 2013-05-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-05-17 — Ms. Waters moved to recommit with instructions to Financial Services. (consideration: CR H2748-2749; text: CR H2748)
+- 2013-05-17 — On agreeing to the Hurt amendment (A002) Agreed to by recorded vote: 233 - 163 (Roll no. 157).
+- 2013-05-17 — On agreeing to the Maloney, Carolyn amendment (A003) Failed by recorded vote: 165 - 233 (Roll no. 158).
+- 2013-05-17 — On agreeing to the Sessions amendment (A001) Agreed to by voice vote.
+- 2013-05-17 — On motion to recommit with instructions Failed by recorded vote: 179 - 217 (Roll no. 159). (consideration: CR H2749-2750)
+- 2013-05-17 — On passage Passed by recorded vote: 235 - 161 (Roll no. 160).
+- 2013-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hurt amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Waters demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Maloney(NY) amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Garrett demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-05-17 — Passed/agreed to in House: On passage Passed by recorded vote: 235 - 161 (Roll no. 160).
+- 2013-05-17 — Roll call votes on amendments in House
+- 2013-05-17 — Roll call votes on amendments in House
+- 2013-05-17 — Rule H. Res. 216 passed House.
+- 2013-05-17 — Rule provides for consideration of H.R. 1062 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution waives all points of order against consideration of the bill. The resolution makes in order as original text for purpose of amendment an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-10 and provides that it shall be considered as read. The resolution waives all points of order against the amendment in the nature of a substitute. Each amendment may be offered only by a Member designated in the report, shall be considered as read, shall be debatable for the time specified in the report equally divided and controlled by the proponent and an opponent, shall not be subject to amendment, and shall not be subject to a demand for division of the question in the House or in the Committee of the Whole. (consideration: CR H2743)
+- 2013-05-17 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H2743)
+- 2013-05-17 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1062.
+- 2013-05-17 — The Speaker designated the Honorable Rob Woodall to act as Chairman of the Committee.
+- 2013-05-17 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2749)
+- 2013-05-17 — The previous question was ordered pursuant to the rule. (consideration: CR H2748)
