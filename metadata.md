@@ -1,7 +1,7 @@
 ---
 measure: H.R. 829
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 829
@@ -30,3 +30,10 @@ To amend the Wild and Scenic Rivers Act to designate a segment of Illabot Creek 
 - 2013-02-26 — Introduced in House
 - 2013-02-26 — Referred to the House Committee on Natural Resources.
 - 2013-02-26 — Sponsor introductory remarks on measure. (CR E193)
+- 2013-03-04 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2013-04-24 — Committee Consideration and Mark-up Session Held.
+- 2013-04-24 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2013-04-24 — Subcommittee on Public Lands and Environmental Regulation Discharged.
+- 2013-05-17 — Placed on the Union Calendar, Calendar No. 50.
+- 2013-05-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-74.
+- 2013-05-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-74.
