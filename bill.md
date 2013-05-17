@@ -13,17 +13,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Ruth Moore Act of 2013”.
 
-## § 2. Standard of proof for service-connection of mental health conditions related to military sexual trauma
+## § 2. Reports on claims for disabilities incurred or aggravated by military sexual trauma
 
-- **(a)** *Standard of proof* Section 1154 of title 38, United States Code, is amended by adding at the end the following new subsection:
-  > - **(c)**
-  >   - **(1)** In the case of any veteran who claims that a covered mental health condition was incurred in or aggravated by military sexual trauma during active military, naval, or air service, the Secretary shall accept as sufficient proof of service-connection a diagnosis of such mental health condition by a mental health professional together with satisfactory lay or other evidence of such trauma and an opinion by the mental health professional that such covered mental health condition is related to such military sexual trauma, if consistent with the circumstances, conditions, or hardships of such service, notwithstanding the fact that there is no official record of such incurrence or aggravation in such service, and, to that end, shall resolve every reasonable doubt in favor of the veteran. Service-connection of such covered mental health condition may be rebutted by clear and convincing evidence to the contrary. The reasons for granting or denying service-connection in each case shall be recorded in full.
-  >   - **(2)** For purposes of this subsection, in the absence of clear and convincing evidence to the contrary, and provided that the claimed military sexual trauma is consistent with the circumstances, conditions, or hardships of the veteran’s service, the veteran’s lay testimony alone may establish the occurrence of the claimed military sexual trauma.
-  >   - **(3)** In this subsection:
-  >     - **(A)** The term covered mental health condition means post-traumatic stress disorder, anxiety, depression, or other mental health diagnosis described in the current version of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association that the Secretary determines to be related to military sexual trauma.
-  >     - **(B)** The term military sexual trauma means, with respect to a veteran, psychological trauma, which in the judgment of a mental health professional, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred during active military, naval, or air service.
-
-- **(b)** *Annual reports*
+- **(a)** *Annual reports*
   - **(1)** *In general* Subchapter VI of chapter 11 of title 38, United States Code, is amended by adding at the end the following new section:
     > ## § 1164. Reports on claims for disabilities incurred or aggravated by military sexual trauma
     >
@@ -43,8 +35,38 @@ This Act may be cited as the “Ruth Moore Act of 2013”.
     >   - **(7)** A description of the training that the Secretary provides to employees of the Veterans Benefits Administration specifically with respect to covered claims, including the frequency, length, and content of such training.
     > - **(c)** *Definitions* In this section:
     >   - **(1)** The term covered claims means claims for disability compensation submitted to the Secretary based on a covered mental health condition alleged to have been incurred or aggravated by military sexual trauma.
-    >   - **(2)** The term covered mental health condition has the meaning given that term in subparagraph (A) of section 1154(c)(3) of this title.
-    >   - **(3)** The term military sexual trauma has the meaning given that term in subparagraph (B) of such section.
+    >   - **(2)** The term covered mental health condition means post-traumatic stress disorder, anxiety, depression, or other mental health diagnosis described in the current version of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association that the Secretary determines to be related to military sexual trauma.
+    >   - **(3)** The term military sexual trauma means, with respect to a veteran, psychological trauma, which in the judgment of a mental health professional, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred during active military, naval, or air service.
 
   - **(2)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding at the end the following new item:
-- **(c)** *Effective date* Subsection (c) of section 1154 of title 38, United States Code, as added by subsection (a), shall apply with respect to any claim for disability compensation under laws administered by the Secretary of Veterans Affairs for which no final decision has been made before the date of the enactment of this Act.
+  - **(3)** *Initial report* The Secretary of Veterans Affairs shall submit to Congress an initial report described in section 1164 of title 38, United States Code, as added by paragraph (1), by not later than 90 days after the date of the enactment of this Act. Such initial report shall be in addition to the annual reports required under such section beginning in December 2014.
+- **(b)** *Sense of Congress* It is the sense of Congress that the Secretary of Veterans Affairs should update and improve the regulations of the Department of Veterans Affairs with respect to military sexual trauma by—
+  - **(1)** ensuring that military sexual trauma is specified as an in-service stressor in determining the service-connection of post-traumatic stress disorder by including military sexual trauma as a stressor described in section 3.304(f)(3) of title 38, Code of Federal Regulations; and
+  - **(2)** recognizing the full range of physical and mental disabilities (including depression, anxiety, and other disabilities as indicated in the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association) that can result from military sexual trauma.
+- **(c)** *Provision of information* During the period beginning on the date that is 15 months after the date of the enactment of this Act and ending on the date on which the Secretary updates and improves regulations as described in subsection (b), the Secretary shall—
+  - **(1)** provide to each veteran who has submitted a covered claim or been treated for military sexual trauma at a medical facility of the Department with a copy of the report under subsection (a)(3) or section 1164 of title 38, United States Code, as added by subsection (a)(1), that has most recently been submitted to Congress;
+  - **(2)** provide on a monthly basis to each veteran who has submitted any claim for disability compensation or been treated at a medical facility of the Department information that includes—
+    - **(A)** the date that the Secretary plans to complete such updates and improvements to such regulations;
+    - **(B)** the number of covered claims that have been granted or denied during the month covered by such information;
+    - **(C)** a comparison to such rate of grants and denials with the rate for other claims regarding post-traumatic stress disorder;
+    - **(D)** the three most common reasons for such denials;
+    - **(E)** the average time for completion of covered claims;
+    - **(F)** the average time for processing covered claims at each regional office; and
+    - **(G)** any information the Secretary determines relevant with respect to submitting a covered claim;
+  - **(3)** in addition to providing to veterans the information described in paragraph (2), the Secretary shall make available on a monthly basis such information on a conspicuous location of the Internet website of the Department; and
+  - **(4)** submit to Congress on a monthly basis a report that includes—
+    - **(A)** a list of all adjudicated covered claims, including ancillary claims, during the month covered by the report;
+    - **(B)** the outcome with respect to each medical condition included in the claim; and
+    - **(C)** the reason given for any denial of such a claim.
+- **(d)** *Military sexual trauma defined* In this section:
+  - **(1)** The term “covered claim” has the meaning given that term in section 1164(c)(1) of title 38, United States Code, as added by subsection (a)(1).
+  - **(2)** The term “military sexual trauma” has the meaning given that term in section 1164(c)(3) of title 38, United States Code, as added by subsection (a)(1).
+
+## § 3. Extension of rounding down of percentage increases of rates of certain educational assistance
+
+- **(a)** *Montgomery GI Bill* Section 3015(h)(2) of title 38, United States Code, is amended—
+  - **(1)** by striking “fiscal year 2014” and inserting “fiscal year 2019”; and
+  - **(2)** by striking “fiscal year 2013” and inserting “fiscal year 2018”.
+- **(b)** *Survivors’ and dependents’ educational assistance* Section 3564(b) of such title is amended—
+  - **(1)** by striking “fiscal year 2014” and inserting “fiscal year 2019”; and
+  - **(2)** by striking “fiscal year 2013” and inserting “fiscal year 2018”.

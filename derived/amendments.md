@@ -1,7 +1,7 @@
 ---
 measure: H.R. 671
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,51 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 4 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 38 U.S.C. § 3015
+
+> by striking “fiscal year 2014” and inserting “fiscal year 2019”; and
+
+| | |
+|---|---|
+| Removed | `fiscal year 2014` |
+| Inserted | `fiscal year 2019` |
+
+### 38 U.S.C. § 3015
+
+> by striking “fiscal year 2013” and inserting “fiscal year 2018”.
+
+| | |
+|---|---|
+| Removed | `fiscal year 2013` |
+| Inserted | `fiscal year 2018` |
+
+### 38 U.S.C. § 3015
+
+> by striking “fiscal year 2014” and inserting “fiscal year 2019”; and
+
+| | |
+|---|---|
+| Removed | `fiscal year 2014` |
+| Inserted | `fiscal year 2019` |
+
+### 38 U.S.C. § 3015
+
+> by striking “fiscal year 2013” and inserting “fiscal year 2018”.
+
+| | |
+|---|---|
+| Removed | `fiscal year 2013` |
+| Inserted | `fiscal year 2018` |
 
 ## Stated, not applied
 
@@ -31,6 +69,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `38 U.S.C. § 1154` | add-at-end | Section 1154 of title 38, United States Code, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1154` | add-at-end | Subchapter VI of chapter 11 of title 38, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1154` | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1164` | add-at-end | Subchapter VI of chapter 11 of title 38, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1164` | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
