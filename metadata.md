@@ -1,7 +1,7 @@
 ---
 measure: H.R. 126
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 126
@@ -25,3 +25,10 @@ Corolla Wild Horses Protection Act
 - 2013-01-03 — Introduced in House
 - 2013-01-03 — Introduced in House
 - 2013-01-03 — Referred to the House Committee on Natural Resources.
+- 2013-01-31 — Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.
+- 2013-04-24 — Committee Consideration and Mark-up Session Held.
+- 2013-04-24 — Ordered to be Reported by Unanimous Consent.
+- 2013-04-24 — Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.
+- 2013-05-17 — Placed on the Union Calendar, Calendar No. 53.
+- 2013-05-17 — Reported by the Committee on Natural Resources. H. Rept. 113-77.
+- 2013-05-17 — Reported by the Committee on Natural Resources. H. Rept. 113-77.
