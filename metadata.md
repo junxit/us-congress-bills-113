@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3
@@ -16,7 +16,7 @@ Northern Route Approval Act
 
 - Rep. Terry, Lee [R-NE-2] (T000459)
 
-## Cosponsors (83)
+## Cosponsors (134)
 
 - Rep. Matheson, Jim [D-UT-4] (M001142)
 - Rep. Upton, Fred [R-MI-6] (U000031)
@@ -101,6 +101,57 @@ Northern Route Approval Act
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 - Rep. Bentivolio, Kerry L. [R-MI-11] (B001280)
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Hurt, Robert [R-VA-5] (H001060)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Salmon, Matt [R-AZ-5] (S000018)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
+- Rep. Pompeo, Mike [R-KS-4] (P000602)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Bachmann, Michele [R-MN-6] (B001256)
+- Rep. Nunnelee, Alan [R-MS-1] (N000186)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+- Rep. Rohrabacher, Dana [R-CA-48] (R000409)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
+- Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Latham, Tom [R-IA-3] (L000111)
+- Rep. Graves, Tom [R-GA-14] (G000560)
+- Rep. Thornberry, Mac [R-TX-13] (T000238)
+- Rep. Brooks, Susan W. [R-IN-5] (B001284)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. DeSantis, Ron [R-FL-6] (D000621)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Radel, Trey [R-FL-19] (R000596)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Woodall, Rob [R-GA-7] (W000810)
+- Rep. Black, Diane [R-TN-6] (B001273)
+- Rep. Royce, Edward R. [R-CA-39] (R000487)
+- Rep. Webster, Daniel [R-FL-10] (W000806)
+- Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. Rothfus, Keith J. [R-PA-12] (R000598)
+- Rep. Denham, Jeff [R-CA-10] (D000612)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Lankford, James [R-OK-5] (L000575)
 
 ## Committees (3)
 
@@ -115,3 +166,23 @@ Northern Route Approval Act
 - 2013-03-15 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-03-15 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-03-15 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-03-22 — Referred to the Subcommittee on Energy and Power.
+- 2013-03-25 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2013-03-25 — Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.
+- 2013-03-25 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2013-04-16 — Subcommittee Hearings Held.
+- 2013-04-17 — Committee Consideration and Mark-up Session Held.
+- 2013-04-17 — Ordered to be Reported by the Yeas and Nays: 30 - 18.
+- 2013-04-24 — Committee Consideration and Mark-up Session Held.
+- 2013-04-24 — Ordered to be Reported by the Yeas and Nays: 24 - 17.
+- 2013-04-24 — Subcommittee Consideration and Mark-up Session Held.
+- 2013-04-24 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2013-05-16 — Committee Consideration and Mark-up Session Held.
+- 2013-05-16 — Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 24.
+- 2013-05-17 — Placed on the Union Calendar, Calendar No. 40.
+- 2013-05-17 — Reported by the Committee on Energy and Commerce. H. Rept. 113-61, Part I.
+- 2013-05-17 — Reported by the Committee on Energy and Commerce. H. Rept. 113-61, Part I.
+- 2013-05-17 — Reported by the Committee on Natural Resources. H. Rept. 113-61, Part II.
+- 2013-05-17 — Reported by the Committee on Natural Resources. H. Rept. 113-61, Part II.
+- 2013-05-17 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-61, Part III.
+- 2013-05-17 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-61, Part III.
