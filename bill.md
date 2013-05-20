@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Smarter Solutions for Students Act”.
 
-## § 2. Interest rates
+## § 2. Student loan interest rates
 
 Section 455(b) of the Higher Education Act of 1965 (20 U.S.C. 1087e(b)) is amended—
 
