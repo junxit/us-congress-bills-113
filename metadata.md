@@ -1,7 +1,7 @@
 ---
 measure: S. 309
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 309
@@ -16,7 +16,7 @@ A bill to award a Congressional Gold Medal to the World War II members of the Ci
 
 - Sen. Harkin, Tom [D-IA] (H000206)
 
-## Cosponsors (82)
+## Cosponsors (83)
 
 - Sen. Cochran, Thad [R-MS] (C000567)
 - Sen. Begich, Mark [D-AK] (B001265)
@@ -100,6 +100,7 @@ A bill to award a Congressional Gold Medal to the World War II members of the Ci
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Donnelly, Joe [D-IN] (D000607)
 - Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. McConnell, Mitch [R-KY] (M000355)
 
 ## Committees (1)
 
@@ -118,3 +119,17 @@ A bill to award a Congressional Gold Medal to the World War II members of the Ci
 - 2013-05-20 — Senate amendment agreed to: Amendment SA 951 agreed to in Senate by Unanimous Consent.
 - 2013-05-20 — Senate amendment proposed (on the floor): Amendment SA 951 proposed by Senator Boxer for Senator Harkin.(consideration: CR S3629; text: CR S3629)
 - 2013-05-20 — Senate amendment submitted
+- 2013-05-21 — Held at the desk.
+- 2013-05-21 — Message on Senate action sent to the House.
+- 2013-05-21 — Received in the House.
+- 2014-05-19 — Considered under suspension of the rules. (consideration: CR H4453-4456)
+- 2014-05-19 — DEBATE - The House proceeded with forty minutes of debate on S. 309.
+- 2014-05-19 — Mr. Huizenga (MI) moved to suspend the rules and pass the bill.
+- 2014-05-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4453-4454)
+- 2014-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4453-4454)
+- 2014-05-21 — Presented to President.
+- 2014-05-21 — Presented to President.
+- 2014-05-30 — Became Public Law No: 113-108.
+- 2014-05-30 — Became Public Law No: 113-108.
+- 2014-05-30 — Signed by President.
+- 2014-05-30 — Signed by President.
