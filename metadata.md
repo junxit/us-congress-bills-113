@@ -1,7 +1,7 @@
 ---
 measure: S. 743
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 743
@@ -75,6 +75,10 @@ Marketplace Fairness Act of 2013
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 - Sen. Blunt, Roy [R-MO] (B000575)
 - Sen. Johanns, Mike [R-NE] (J000291)
+
+## Committees (1)
+
+- House — Judiciary Committee
 
 ## Recorded votes (5)
 
@@ -173,3 +177,7 @@ Marketplace Fairness Act of 2013
 - 2013-05-06 — Proposed amendment SA 745 withdrawn in Senate. (consideration: CR S3081)
 - 2013-05-06 — Roll call votes on amendments in Senate: Amendment SA 741 agreed to in Senate by Yea-Nay Vote. 70 - 24. Record Vote Number: 112.
 - 2013-05-06 — Senate amendment agreed to: Amendment SA 741 agreed to in Senate by Yea-Nay Vote. 70 - 24. Record Vote Number: 112.
+- 2013-05-07 — Held at the desk.
+- 2013-05-07 — Message on Senate action sent to the House.
+- 2013-05-07 — Received in the House.
+- 2013-05-20 — Referred to the House Committee on the Judiciary.
