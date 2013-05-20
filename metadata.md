@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1949
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1949
@@ -34,3 +34,8 @@ Improving Postsecondary Education Data for Students Act
 - 2013-05-13 — Introduced in House
 - 2013-05-13 — Introduced in House
 - 2013-05-13 — Referred to the House Committee on Education and the Workforce.
+- 2013-05-16 — Committee Consideration and Mark-up Session Held.
+- 2013-05-16 — Ordered to be Reported (Amended) by Voice Vote.
+- 2013-05-20 — Placed on the Union Calendar, Calendar No. 58.
+- 2013-05-20 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-83.
+- 2013-05-20 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-83.
