@@ -109,10 +109,5 @@ Congress makes the following findings:
   - **(3)** *Smithsonian institution*
     - **(A)** *In general* Following the award of the gold medal referred to in paragraph (1) in honor of all of its World War II members of the Civil Air Patrol, the gold medal shall be given to the Smithsonian Institution, where it shall be displayed as appropriate and made available for research.
     - **(B)** *Sense of congress* It is the sense of Congress that the Smithsonian Institution should make the gold medal received under this paragraph available for display elsewhere, particularly at other locations associated with the Civil Air Patrol.
-- **(b)** *Duplicate medals* Under such regulations as the Secretary may prescribe, the Secretary may strike and sell duplicates in bronze of the gold medal struck under this Act, at a price sufficient to cover the costs of the medals, including labor, materials, dyes, use of machinery, and overhead expenses.
+- **(b)** *Duplicate medals* Under such regulations as the Secretary may prescribe, the Secretary may strike and sell duplicates in bronze of the gold medal struck under this Act, at a price sufficient to cover the costs of the medals, including labor, materials, dies, use of machinery, and overhead expenses, and amounts received from the sale of such duplicates shall be deposited in the United States Mint Public Enterprise Fund.
 - **(c)** *National medals* Medals struck pursuant to this Act are national medals for purposes of chapter 51 of title 31, United States Code.
-
-## § 3. Authorization of appropriations; proceeds of sale
-
-- **(a)** *Authorization of appropriations* There is authorized to be charged against the United States Mint Public Enterprise Fund, an amount not to exceed $30,000 to pay for the cost of the medal authorized under section 2.
-- **(b)** *Proceeds of sale* Amounts received from the sale of duplicate bronze medals under section 2(b) shall be deposited in the United States Mint Public Enterprise Fund.
