@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1073
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-33 amendatory instructions. 7 executed, 26 stated and not applied.
+33 amendatory instructions. 8 executed, 25 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -50,6 +50,15 @@ to guess them.
 |---|---|
 | Removed | `section 2(c)` |
 | Inserted | `section 13(c)` |
+
+### 18 U.S.C. § 2332b
+
+> Section 2332b(g)(5)(B) of title 18, United States Code, is amended by inserting “2280a (relating to maritime safety),” before “2281”, and by striking “2281” and inserting “2281 through 2281a”.
+
+| | |
+|---|---|
+| Removed | `2281` |
+| Inserted | `2281 through 2281a` |
 
 ### 18 U.S.C. § 831
 
@@ -102,14 +111,13 @@ complete account of the bill's effect, which it is not.
 | `8 U.S.C. § 1101` | replace | by striking subsection (e) and inserting after subsection (c): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 2280` | insert | by inserting after subsection (d) (as added by paragraph (4) of this section) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `46 U.S.C. § 70502` | amend | Chapter 111 of title 18, United States Code, is amended by adding after section 2280 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `46 U.S.C. § 70502` | amend | The table of sections at the beginning of chapter 111 of title 18, United States Code, is amended by adding after the item relating to section 2280 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 2280` | amend | The table of sections at the beginning of chapter 111 of title 18, United States Code, is amended by adding after the item relating to section 2280 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 2281` | strike | in subsection (d), by striking the definitions of “national of the United States,”“territorial sea of the United States,” and “United States”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 2281` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Chapter 111 of title 18, United States Code, is amended by adding after section 2281 the following new section: | the bill names no machine-readable US Code section |
-| — | amend | The table of sections at the beginning of chapter 111 of title 18, United States Code, is amended by adding after the item relating to section 2281 the following new item: | the bill names no machine-readable US Code section |
-| — | replace | Section 2332b(g)(5)(B) of title 18, United States Code, is amended by inserting “2280a (relating to maritime safety),” before “2281”, and by striking “2281” and inserting “2281 through 2281a”. | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 2281` | amend | Chapter 111 of title 18, United States Code, is amended by adding after section 2281 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 2281` | amend | The table of sections at the beginning of chapter 111 of title 18, United States Code, is amended by adding after the item relating to section 2281 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `46 U.S.C. § 70502` | amend | Chapter 113B of title 18, United States Code, is amended by adding after section 2332h the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `46 U.S.C. § 70502` | insert | The table of sections at the beginning of chapter 113B of title 18, United States Code, is amended by inserting after section 2332h the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 2332` | insert | The table of sections at the beginning of chapter 113B of title 18, United States Code, is amended by inserting after section 2332h the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 2332b` | insert | Section 2332b(g)(5)(B) of title 18, United States Code, is amended by inserting “2332i (relating to acts of nuclear terrorism),” before “2339 (relating to harboring terrorists)”. | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 831` | redesignate | by redesignating paragraphs (3) through (8) as (4) through (9); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 831` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -119,6 +127,6 @@ complete account of the bill's effect, which it is not.
 | `46 U.S.C. § 70502` | insert | by inserting after paragraph (4), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 831` | redesignate | by redesignating subsections (d) through (f) as (e) through (g), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 831` | insert | by inserting after subsection (c): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 831` | strike | in paragraph (6), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `18 U.S.C. § 831` | replace | in paragraph (7), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 831` | insert | by inserting after paragraph (7), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 70502` | strike | in paragraph (6), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `46 U.S.C. § 70502` | replace | in paragraph (7), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 70502` | insert | by inserting after paragraph (7), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
