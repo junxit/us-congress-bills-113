@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 258
 
-> To amend title 18, United States Code, with respect to fraudulent representations about having received military decorations or medals.
+> To amend title 18, United States Code, with respect to fraudulent representations about having received military declarations or medals.
 
 ## § 1. Short title
 

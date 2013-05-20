@@ -1,7 +1,7 @@
 ---
 measure: H.R. 258
 congress: 113
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 258
