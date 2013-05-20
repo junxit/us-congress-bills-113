@@ -1,7 +1,7 @@
 ---
 measure: H.R. 258
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 258
@@ -16,7 +16,7 @@ Stolen Valor Act of 2013
 
 - Rep. Heck, Joseph J. [R-NV-3] (H001055)
 
-## Cosponsors (69)
+## Cosponsors (127)
 
 - Rep. Hartzler, Vicky [R-MO-4] (H001053)
 - Rep. Roe, David P. [R-TN-1] (R000582)
@@ -87,13 +87,91 @@ Stolen Valor Act of 2013
 - Rep. Perry, Scott [R-PA-4] (P000605)
 - Rep. Miller, Gary G. [R-CA-31] (M001139)
 - Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Yoder, Kevin [R-KS-3] (Y000063)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Renacci, James B. [R-OH-16] (R000586)
+- Rep. Holding, George [R-NC-13] (H001065)
+- Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Rep. Whitfield, Ed [R-KY-1] (W000413)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Pastor, Ed [D-AZ-7] (P000099)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Southerland, Steve II [R-FL-2] (S001186)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Paulsen, Erik [R-MN-3] (P000594)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Labrador, Raul R. [R-ID-1] (L000573)
+- Rep. Reed, Tom [R-NY-23] (R000585)
+- Rep. Daines, Steve [R-MT-At Large] (D000618)
+- Rep. DeSantis, Ron [R-FL-6] (D000621)
+- Rep. Salmon, Matt [R-AZ-5] (S000018)
+- Rep. Peters, Gary C. [D-MI-14] (P000595)
+- Rep. O'Rourke, Beto [D-TX-16] (O000170)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Lankford, James [R-OK-5] (L000575)
+- Rep. Runyan, Jon [R-NJ-3] (R000594)
+- Rep. Sewell, Terri A. [D-AL-7] (S001185)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Marino, Tom [R-PA-10] (M001179)
+- Rep. Brooks, Susan W. [R-IN-5] (B001284)
+- Rep. Palazzo, Steven M. [R-MS-4] (P000601)
+- Rep. Kirkpatrick, Ann [D-AZ-1] (K000368)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Murphy, Patrick [D-FL-18] (M001191)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. Barber, Ron [D-AZ-2] (B001279)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Rooney, Thomas J. [R-FL-17] (R000583)
 
 ## Committees (1)
 
 - House — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2013-05-20 — [House 113-1-161](votes/house-113-1-0161.md) — On Motion to Suspend the Rules and Pass — **Passed** (390–3)
 
 ## Actions
 
 - 2013-01-15 — Introduced in House
 - 2013-01-15 — Introduced in House
 - 2013-01-15 — Referred to the House Committee on the Judiciary.
+- 2013-01-25 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.
+- 2013-03-13 — Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.
+- 2013-03-14 — Committee Consideration and Mark-up Session Held.
+- 2013-03-14 — Ordered to be Reported by Voice Vote.
+- 2013-05-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-05-20 — Considered as unfinished business. (consideration: CR H2786)
+- 2013-05-20 — Considered under suspension of the rules. (consideration: CR H2779-2781)
+- 2013-05-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 258.
+- 2013-05-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-05-20 — Mr. Collins (GA) moved to suspend the rules and pass the bill.
+- 2013-05-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 3 (Roll no. 161). (text: CR H2779)
+- 2013-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 3 (Roll no. 161).(text: CR H2779)
+- 2013-05-20 — Placed on the Union Calendar, Calendar No. 59.
+- 2013-05-20 — Reported by the Committee on Judiciary. H. Rept. 113-84.
+- 2013-05-20 — Reported by the Committee on Judiciary. H. Rept. 113-84.
+- 2013-05-20 — The title of the measure was amended. Agreed to without objection.
