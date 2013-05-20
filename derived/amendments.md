@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1062
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 78w` | add-at-end | Section 23 of the Securities Exchange Act of 1934 (15 U.S.C. 78w) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78c` | add-at-end | Section 23 of the Securities Exchange Act of 1934 (15 U.S.C. 78w) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

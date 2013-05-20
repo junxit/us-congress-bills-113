@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1062
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1062
@@ -42,9 +42,10 @@ SEC Regulatory Accountability Act
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (4)
 
@@ -108,3 +109,4 @@ SEC Regulatory Accountability Act
 - 2013-05-17 — The Speaker designated the Honorable Rob Woodall to act as Chairman of the Committee.
 - 2013-05-17 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2749)
 - 2013-05-17 — The previous question was ordered pursuant to the rule. (consideration: CR H2748)
+- 2013-05-20 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
