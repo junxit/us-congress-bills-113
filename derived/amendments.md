@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1412
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 2 executed, 0 stated and not applied.
+1 amendatory instruction. 1 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,15 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 38 U.S.C. § 5503
-
-> Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2016” and inserting “January 31, 2017”.
-
-| | |
-|---|---|
-| Removed | `November 30, 2016` |
-| Inserted | `January 31, 2017` |
 
 ### 38 U.S.C. § 5503
 
