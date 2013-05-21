@@ -1,7 +1,7 @@
 ---
 measure: H.R. 570
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 570
@@ -76,3 +76,10 @@ American Heroes COLA Act
 - 2013-05-17 — Placed on the Union Calendar, Calendar No. 37.
 - 2013-05-17 — Reported by the Committee on Veterans' Affairs. H. Rept. 113-62.
 - 2013-05-17 — Reported by the Committee on Veterans' Affairs. H. Rept. 113-62.
+- 2013-05-21 — Considered under suspension of the rules. (consideration: CR H2815-2817)
+- 2013-05-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 570.
+- 2013-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-05-21 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
+- 2013-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2815)
+- 2013-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2815)
+- 2013-05-21 — The title of the measure was amended. Agreed to without objection.
