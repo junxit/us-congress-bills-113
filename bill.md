@@ -2,12 +2,12 @@
 legis-num: H.R. 258
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 258
 
-> To amend title 18, United States Code, with respect to fraudulent representations about having received military declarations or medals.
+> To amend title 18, United States Code, with respect to fraudulent representations about having received military decorations or medals.
 
 ## § 1. Short title
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 258
 congress: 113
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 258
@@ -175,3 +175,4 @@ Stolen Valor Act of 2013
 - 2013-05-20 — Reported by the Committee on Judiciary. H. Rept. 113-84.
 - 2013-05-20 — Reported by the Committee on Judiciary. H. Rept. 113-84.
 - 2013-05-20 — The title of the measure was amended. Agreed to without objection.
+- 2013-05-21 — Received in the Senate, read twice.
