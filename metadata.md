@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1073
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1073
@@ -22,9 +22,10 @@ Nuclear Terrorism Conventions Implementation and Safety of Maritime Navigation A
 - Rep. Conyers, John, Jr. [D-MI-13] (C000714)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Nuclear Terrorism Conventions Implementation and Safety of Maritime Navigation A
 - 2013-05-20 — Placed on the Union Calendar, Calendar No. 60.
 - 2013-05-20 — Reported by the Committee on Judiciary. H. Rept. 113-85.
 - 2013-05-20 — Reported by the Committee on Judiciary. H. Rept. 113-85.
+- 2013-05-21 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.

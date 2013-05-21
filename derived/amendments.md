@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1073
 congress: 113
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-33 amendatory instructions. 7 executed, 26 stated and not applied.
+33 amendatory instructions. 2 executed, 31 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 46 U.S.C. § 70502
+### 8 U.S.C. § 1101
 
 > in paragraph (1)(A)(i), by striking “a ship flying the flag of the United States” and inserting “a vessel of the United States or a vessel subject to the jurisdiction of the United States (as defined in section 70502 of title 46)”;
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `a ship flying the flag of the United States` |
 | Inserted | `a vessel of the United States or a vessel subject to the jurisdiction of the United States (as defined in section 70502 of title 46)` |
 
-### 18 U.S.C. § 2280
+### 8 U.S.C. § 1101
 
 > in subsection (c), by striking “section 2(c)” and inserting “section 13(c)”;
 
@@ -41,51 +41,6 @@ to guess them.
 |---|---|
 | Removed | `section 2(c)` |
 | Inserted | `section 13(c)` |
-
-### 18 U.S.C. § 2281
-
-> in subsection (c), by striking “section 2(c)” and inserting “section 13(c)”;
-
-| | |
-|---|---|
-| Removed | `section 2(c)` |
-| Inserted | `section 13(c)` |
-
-### 18 U.S.C. § 831
-
-> in paragraph (8), as redesignated, by striking “an offense under paragraph (1), (2), (3), or (4)” and inserting “any act prohibited under paragraphs (1) through (5)”; and
-
-| | |
-|---|---|
-| Removed | `an offense under paragraph (1), (2), (3), or (4)` |
-| Inserted | `any act prohibited under paragraphs (1) through (5)` |
-
-### 18 U.S.C. § 831
-
-> in paragraph (9), as redesignated, by striking “an offense under paragraph (1), (2), (3), or (4)” and inserting “any act prohibited under paragraphs (1) through (7)”;
-
-| | |
-|---|---|
-| Removed | `an offense under paragraph (1), (2), (3), or (4)` |
-| Inserted | `any act prohibited under paragraphs (1) through (7)` |
-
-### 18 U.S.C. § 831
-
-> in paragraph (1), by striking “(7)” and inserting “(8)”; and
-
-| | |
-|---|---|
-| Removed | `(7)` |
-| Inserted | `(8)` |
-
-### 18 U.S.C. § 831
-
-> in paragraph (2), by striking “(8)” and inserting “(9)”;
-
-| | |
-|---|---|
-| Removed | `(8)` |
-| Inserted | `(9)` |
 
 ## Stated, not applied
 
@@ -96,29 +51,34 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `46 U.S.C. § 70502` | insert | in paragraph (1)(A)(ii), by inserting “, including the territorial seas” after “in the United States”; and | the bill quotes the text inserted but describes where it goes |
-| `46 U.S.C. § 70502` | insert | in paragraph (1)(A)(iii), by inserting “, by a United States corporation or legal entity,” after “by a national of the United States”; | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 2280` | strike | by striking subsection (d); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | insert | in paragraph (1)(A)(ii), by inserting “, including the territorial seas” after “in the United States”; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1101` | insert | in paragraph (1)(A)(iii), by inserting “, by a United States corporation or legal entity,” after “by a national of the United States”; | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1101` | strike | by striking subsection (d); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | replace | by striking subsection (e) and inserting after subsection (c): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 2280` | insert | by inserting after subsection (d) (as added by paragraph (4) of this section) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `46 U.S.C. § 70502` | amend | Chapter 111 of title 18, United States Code, is amended by adding after section 2280 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `46 U.S.C. § 70502` | amend | The table of sections at the beginning of chapter 111 of title 18, United States Code, is amended by adding after the item relating to section 2280 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 2281` | strike | in subsection (d), by striking the definitions of “national of the United States,”“territorial sea of the United States,” and “United States”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 2281` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | insert | by inserting after subsection (d) (as added by paragraph (4) of this section) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Chapter 111 of title 18, United States Code, is amended by adding after section 2280 the following new section: | the bill names no machine-readable US Code section |
+| — | amend | The table of sections at the beginning of chapter 111 of title 18, United States Code, is amended by adding after the item relating to section 2280 the following new item: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking “section 2(c)” and inserting “section 13(c)”; | the bill names no machine-readable US Code section |
+| — | strike | in subsection (d), by striking the definitions of “national of the United States,”“territorial sea of the United States,” and “United States”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
 | — | amend | Chapter 111 of title 18, United States Code, is amended by adding after section 2281 the following new section: | the bill names no machine-readable US Code section |
 | — | amend | The table of sections at the beginning of chapter 111 of title 18, United States Code, is amended by adding after the item relating to section 2281 the following new item: | the bill names no machine-readable US Code section |
 | — | replace | Section 2332b(g)(5)(B) of title 18, United States Code, is amended by inserting “2280a (relating to maritime safety),” before “2281”, and by striking “2281” and inserting “2281 through 2281a”. | the bill names no machine-readable US Code section |
-| `46 U.S.C. § 70502` | amend | Chapter 113B of title 18, United States Code, is amended by adding after section 2332h the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `46 U.S.C. § 70502` | insert | The table of sections at the beginning of chapter 113B of title 18, United States Code, is amended by inserting after section 2332h the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 2332b` | insert | Section 2332b(g)(5)(B) of title 18, United States Code, is amended by inserting “2332i (relating to acts of nuclear terrorism),” before “2339 (relating to harboring terrorists)”. | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 831` | redesignate | by redesignating paragraphs (3) through (8) as (4) through (9); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 831` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `46 U.S.C. § 70502` | amend | in subparagraph (2)(A), by adding after “United States” the following: “or a stateless person whose habitual residence is in the United States”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `46 U.S.C. § 70502` | strike | by striking paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `46 U.S.C. § 70502` | strike | in paragraph (4), by striking “or” at the end; and | the bill quotes the text struck but describes what replaces it |
-| `46 U.S.C. § 70502` | insert | by inserting after paragraph (4), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 831` | redesignate | by redesignating subsections (d) through (f) as (e) through (g), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 831` | insert | by inserting after subsection (c): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 831` | strike | in paragraph (6), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `18 U.S.C. § 831` | replace | in paragraph (7), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 831` | insert | by inserting after paragraph (7), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | amend | Chapter 113B of title 18, United States Code, is amended by adding after section 2332h the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | insert | The table of sections at the beginning of chapter 113B of title 18, United States Code, is amended by inserting after section 2332h the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | insert | Section 2332b(g)(5)(B) of title 18, United States Code, is amended by inserting “2332i (relating to acts of nuclear terrorism),” before “2339 (relating to harboring terrorists)”. | the bill quotes the text inserted but describes where it goes |
+| — | redesignate | by redesignating paragraphs (3) through (8) as (4) through (9); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (8), as redesignated, by striking “an offense under paragraph (1), (2), (3), or (4)” and inserting “any act prohibited under paragraphs (1) through (5)”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (9), as redesignated, by striking “an offense under paragraph (1), (2), (3), or (4)” and inserting “any act prohibited under paragraphs (1) through (7)”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “(7)” and inserting “(8)”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “(8)” and inserting “(9)”; | the bill names no machine-readable US Code section |
+| — | amend | in subparagraph (2)(A), by adding after “United States” the following: “or a stateless person whose habitual residence is in the United States”; | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (5); | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (4), by striking “or” at the end; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (4), the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (d) through (f) as (e) through (g), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (c): | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (6), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (7), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (7), the following: | the bill names no machine-readable US Code section |
