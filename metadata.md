@@ -1,7 +1,7 @@
 ---
 measure: H.R. 258
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 258
@@ -176,3 +176,12 @@ Stolen Valor Act of 2013
 - 2013-05-20 — Reported by the Committee on Judiciary. H. Rept. 113-84.
 - 2013-05-20 — The title of the measure was amended. Agreed to without objection.
 - 2013-05-21 — Received in the Senate, read twice.
+- 2013-05-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3789)
+- 2013-05-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3789)
+- 2013-05-23 — Message on Senate action sent to the House.
+- 2013-05-28 — Presented to President.
+- 2013-05-28 — Presented to President.
+- 2013-06-03 — Became Public Law No: 113-12.
+- 2013-06-03 — Became Public Law No: 113-12.
+- 2013-06-03 — Signed by President.
+- 2013-06-03 — Signed by President.
