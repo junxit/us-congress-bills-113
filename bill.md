@@ -38,23 +38,14 @@ Congress finds the following:
 
 ## § 2. Congressional gold medal
 
-- **(a)** *Award authorized* The Speaker of the House of Representatives and the President pro tempore of the Senate shall make appropriate arrangements for the award, on behalf of the Congress, of 2 gold medals of appropriate design to the First Special Service Force, collectively, in recognition of their dedicated service during World War II.
-- **(b)** *Design and striking* For the purposes of the award referred to in subsection (a), the Secretary of the Treasury (in this Act referred to as the Secretary) shall strike the gold medals with suitable emblems, devices, and inscriptions, to be determined by the Secretary.
-- **(c)** *Award to Smithsonian and First Special Service Force Association*
-  - **(1)** *In general* Following the award of the gold medals in honor of the First Special Service Force, under subsection (a)—
-    - **(A)** one gold medal shall be given to the Smithsonian Institution, where it will be displayed as appropriate and made available for research; and
-    - **(B)** one gold medal shall be given to the First Special Service Force Association in Helena, Montana.
-  - **(2)** *Sense of Congress* It is the sense of the Congress that the Smithsonian Institution and the First Special Service Force Association should make the gold medals received under paragraph (1) available for display elsewhere, particularly at other appropriate locations associated with the First Special Service Force, including Fort William Henry Harrison in Helena, Montana.
+- **(a)** *Award authorized* The Speaker of the House of Representatives and the President pro tempore of the Senate shall make appropriate arrangements for the award, on behalf of the Congress, of a gold medal of appropriate design to the First Special Service Force, collectively, in recognition of their dedicated service during World War II.
+- **(b)** *Design and striking* For the purposes of the award referred to in subsection (a), the Secretary of the Treasury (in this Act referred to as the Secretary) shall strike the gold medal with suitable emblems, devices, and inscriptions, to be determined by the Secretary.
+- **(c)** *Award of medal* Following the award of the gold medal in honor of the First Special Service Force under subsection (a), the medal shall be given to the First Special Service Force Association in Helena, Montana, where it shall be available for display or temporary loan to be displayed elsewhere, particularly at other appropriate locations associated with the First Special Service Force, including Fort William Henry Harrison in Helena, Montana.
 
 ## § 3. Duplicate medals
 
-The Secretary may strike and sell duplicates in bronze of the gold medals struck under section 2, at a price sufficient to cover the costs of the medals, including labor, materials, dies, use of machinery, and overhead expenses.
+The Secretary may strike and sell duplicates in bronze of the gold medal struck under section 2, at a price sufficient to cover the costs of the medal, including labor, materials, dies, use of machinery, and overhead expenses, and amounts received from the sale of such duplicates shall be deposited in the United States Mint Public Enterprise Fund.
 
 ## § 4. National medals
 
 Medals struck pursuant to this Act are national medals for purposes of chapter 51 of title 31, United States Code.
-
-## § 5. Authority to use funds; proceeds of sale
-
-- **(a)** *Authority To use funds* There is authorized to be charged against the United States Mint Public Enterprise Fund, an amount not to exceed $30,000 to pay for the cost of the medals authorized under section 2.
-- **(b)** *Proceeds of sale* Amounts received from the sale of duplicate bronze medals under section 3 shall be deposited in the United States Mint Public Enterprise Fund.
