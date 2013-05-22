@@ -1,7 +1,7 @@
 ---
 measure: H.R. 324
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 324
@@ -370,3 +370,14 @@ To grant the Congressional Gold Medal, collectively, to the First Special Servic
 - 2013-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 165). (text: CR H2817-2818)
 - 2013-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 165).(text: CR H2817-2818)
 - 2013-05-22 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2013-06-27 — Passed Senate without amendment by Unanimous Consent.
+- 2013-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2013-06-27 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S5509-5510)
+- 2013-06-27 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S5509-5510)
+- 2013-06-28 — Message on Senate action sent to the House.
+- 2013-07-02 — Presented to President.
+- 2013-07-02 — Presented to President.
+- 2013-07-12 — Became Public Law No: 113-16.
+- 2013-07-12 — Became Public Law No: 113-16.
+- 2013-07-12 — Signed by President.
+- 2013-07-12 — Signed by President.
