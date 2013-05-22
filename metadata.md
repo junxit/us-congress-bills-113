@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1412
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1412
@@ -20,9 +20,10 @@ Department of Veterans Affairs Expiring Authorities Act of 2013
 
 - Rep. Takano, Mark [D-CA-41] (T000472)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Department of Veterans Affairs Expiring Authorities Act of 2013
 - 2013-05-21 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
 - 2013-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 164). (text: CR H2813-2814)
 - 2013-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 164).(text: CR H2813-2814)
+- 2013-05-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
