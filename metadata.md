@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1949
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1949
@@ -39,3 +39,9 @@ Improving Postsecondary Education Data for Students Act
 - 2013-05-20 — Placed on the Union Calendar, Calendar No. 58.
 - 2013-05-20 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-83.
 - 2013-05-20 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-83.
+- 2013-05-22 — Considered under suspension of the rules. (consideration: CR H2895-2898)
+- 2013-05-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1949.
+- 2013-05-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-05-22 — Mr. Messer moved to suspend the rules and pass the bill, as amended.
+- 2013-05-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2895-2896)
+- 2013-05-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2895-2896)
