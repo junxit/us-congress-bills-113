@@ -1,7 +1,7 @@
 ---
 measure: H.R. 324
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 324
@@ -345,10 +345,11 @@ To grant the Congressional Gold Medal, collectively, to the First Special Servic
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 - Rep. Cartwright, Matt [D-PA-17] (C001090)
 
-## Committees (2)
+## Committees (3)
 
 - House — Committee on House Administration
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -368,3 +369,4 @@ To grant the Congressional Gold Medal, collectively, to the First Special Servic
 - 2013-05-21 — Mr. Cotton moved to suspend the rules and pass the bill, as amended.
 - 2013-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 165). (text: CR H2817-2818)
 - 2013-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 165).(text: CR H2817-2818)
+- 2013-05-22 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
