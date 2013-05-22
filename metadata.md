@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1344
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1344
@@ -43,9 +43,10 @@ Helping Heroes Fly Act
 - Rep. Brooks, Susan W. [R-IN-5] (B001284)
 - Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -65,3 +66,4 @@ Helping Heroes Fly Act
 - 2013-05-21 — Mrs. Brooks (IN) moved to suspend the rules and pass the bill, as amended.
 - 2013-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 166). (text: CR H2819-2820)
 - 2013-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 166).(text: CR H2819-2820)
+- 2013-05-22 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
