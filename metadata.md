@@ -1,7 +1,7 @@
 ---
 measure: H.R. 45
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 45
@@ -195,3 +195,6 @@ To repeal the Patient Protection and Affordable Care Act and health care-related
 - 2013-05-16 — Rule provides for consideration of H.R. 45 with 2 hours of general debate. Motion to recommit with or without instructions allowed. Measure will be considered read. Bill is closed to amendments.
 - 2013-05-16 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2704)
 - 2013-05-16 — The previous question was ordered pursuant to the rule. (consideration: CR H2703)
+- 2013-05-20 — Received in the Senate.
+- 2013-05-21 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2013-05-22 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 78.
