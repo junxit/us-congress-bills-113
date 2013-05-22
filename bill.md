@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 2095
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2095
+
+> To prohibit an increase in the lands administered by the Bureau of Land Management until a centralized database of all lands identified as suitable for disposal by Resource Management Plans for lands under the administrative jurisdiction of the Bureau is easily accessible to the public on a website of the Bureau.
+
+## § 1. Prohibition on acquisition of land
+
+- **(a)** *Short title* This Act may be cited as the “Land Disposal Transparency and Efficiency Act”.
+- **(b)** *Prohibition on acquisition of land* No land or interests in land may be added by acquisition, donation, transfer of administrative jurisdiction, or otherwise to the inventory of land and interests in land administered by the Bureau of Land Management until a centralized database of all lands identified as suitable for disposal by Resource Management Plans for lands under the administrative jurisdiction of the Bureau is easily accessible to the public on a website of the Bureau.
