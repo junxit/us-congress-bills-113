@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 228
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 228
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 3) to approve the construction, op
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2013-05-22 — [House 113-1-167](votes/house-113-1-0167.md) — On Ordering the Previous Question — **Passed** (223–194)
+- 2013-05-22 — [House 113-1-168](votes/house-113-1-0168.md) — On Agreeing to the Resolution — **Passed** (228–185)
+
 ## Actions
 
 - 2013-05-21 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 3) to approve the construction, op
 - 2013-05-21 — Rule provides for consideration of H.R. 3 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
 - 2013-05-21 — The House Committee on Rules reported an original measure, H. Rept. 113-88, by Mr. Webster (FL).
 - 2013-05-21 — The House Committee on Rules reported an original measure, H. Rept. 113-88, by Mr. Webster (FL).
+- 2013-05-22 — Considered as privileged matter. (consideration: CR H2852-2862)
+- 2013-05-22 — DEBATE - The House proceeded with one hour of debate on H. Res. 228.
+- 2013-05-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-05-22 — On agreeing to the resolution Agreed to by recorded vote: 228 - 185 (Roll no. 168). (text: CR H2852)
+- 2013-05-22 — On ordering the previous question Agreed to by the Yeas and Nays: 223 - 194 (Roll no. 167). (consideration: CR H2861-2862)
+- 2013-05-22 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 228 - 185 (Roll no. 168).(text: CR H2852)
