@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 143
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 143
@@ -28,3 +28,7 @@ A resolution recognizing the threats to freedom of the press and expression arou
 
 - 2013-05-16 — Introduced in Senate
 - 2013-05-16 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S3581)
+- 2013-05-21 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2013-05-22 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2013-05-22 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2013-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 79.
