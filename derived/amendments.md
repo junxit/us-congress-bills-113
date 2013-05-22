@@ -1,7 +1,7 @@
 ---
 measure: H.R. 570
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,33 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 2 executed, 1 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 38 U.S.C. § 1114
-
-> in paragraph (1), by striking “$2,002” and inserting “$3,163”; and
-
-| | |
-|---|---|
-| Removed | `$2,002` |
-| Inserted | `$3,163` |
-
-### 38 U.S.C. § 1114
-
-> in paragraph (2), by striking “$2,983” and inserting “$4,713”.
-
-| | |
-|---|---|
-| Removed | `$2,983` |
-| Inserted | `$4,713` |
 
 ## Stated, not applied
 
@@ -52,3 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `38 U.S.C. § 5312` | add-at-end | Section 5312 of title 38, United States Code, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in paragraph (1), by striking “$2,002” and inserting “$3,163”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “$2,983” and inserting “$4,713”. | the bill names no machine-readable US Code section |

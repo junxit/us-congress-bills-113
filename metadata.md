@@ -1,7 +1,7 @@
 ---
 measure: H.R. 570
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 570
@@ -58,9 +58,10 @@ American Heroes COLA Act
 - Rep. Loebsack, David [D-IA-2] (L000565)
 - Rep. Barletta, Lou [R-PA-11] (B001269)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -83,3 +84,4 @@ American Heroes COLA Act
 - 2013-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2815)
 - 2013-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2815)
 - 2013-05-21 — The title of the measure was amended. Agreed to without objection.
+- 2013-05-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
