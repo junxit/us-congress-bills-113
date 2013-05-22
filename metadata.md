@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 65
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 65
@@ -16,7 +16,7 @@ A resolution strongly supporting the full implementation of United States and in
 
 - Sen. Graham, Lindsey [R-SC] (G000359)
 
-## Cosponsors (83)
+## Cosponsors (91)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
@@ -101,10 +101,22 @@ A resolution strongly supporting the full implementation of United States and in
 - Sen. Murphy, Christopher [D-CT] (M001169)
 - Sen. Corker, Bob [R-TN] (C001071)
 - Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
 
 ## Committees (1)
 
 - Senate — Foreign Relations Committee
+
+## Recorded votes (1)
+
+- 2013-05-22 — [Senate 113-1-133](votes/senate-113-1-0133.md) — On the Resolution — **Resolution Agreed to** (99–0)
 
 ## Actions
 
@@ -114,3 +126,6 @@ A resolution strongly supporting the full implementation of United States and in
 - 2013-04-17 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment and with a preamble. Without written report.
 - 2013-04-17 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment and with a preamble. Without written report.
 - 2013-04-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 43.
+- 2013-05-22 — Measure laid before Senate by unanimous consent. (consideration: CR S3736-3745; text as reported in Senate: CR S3736-3737)
+- 2013-05-22 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and with a preamble by Yea-Nay Vote. 99 - 0. Record Vote Number: 133.(text: CR S3745)
+- 2013-05-22 — Resolution agreed to in Senate with an amendment and with a preamble by Yea-Nay Vote. 99 - 0. Record Vote Number: 133. (text: CR S3745)
