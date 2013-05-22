@@ -1,7 +1,7 @@
 ---
 measure: H.R. 271
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,5 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `16 U.S.C. § 824a` | insert | by inserting “(1)” after “(c)”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 824a` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 824a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 824a` | insert | Section 202(d) of the Federal Power Act (16 U.S.C. 824a(d)) is amended by inserting “or municipality” before “engaged in the transmission or sale of electric energy”. | the bill quotes the text inserted but describes where it goes |
