@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3
@@ -159,6 +159,20 @@ Northern Route Approval Act
 - House — Transportation and Infrastructure Committee
 - House — Energy and Commerce Committee
 
+## Recorded votes (11)
+
+- 2013-05-22 — [House 113-1-169](votes/house-113-1-0169.md) — On Agreeing to the Amendment — **Agreed to** (246–168)
+- 2013-05-22 — [House 113-1-170](votes/house-113-1-0170.md) — On Agreeing to the Amendment — **Failed** (146–269)
+- 2013-05-22 — [House 113-1-171](votes/house-113-1-0171.md) — On Agreeing to the Amendment — **Failed** (177–239)
+- 2013-05-22 — [House 113-1-172](votes/house-113-1-0172.md) — On Agreeing to the Amendment — **Failed** (176–239)
+- 2013-05-22 — [House 113-1-173](votes/house-113-1-0173.md) — On Agreeing to the Amendment — **Failed** (177–238)
+- 2013-05-22 — [House 113-1-174](votes/house-113-1-0174.md) — On Agreeing to the Amendment — **Failed** (182–234)
+- 2013-05-22 — [House 113-1-175](votes/house-113-1-0175.md) — On Agreeing to the Amendment — **Failed** (182–234)
+- 2013-05-22 — [House 113-1-176](votes/house-113-1-0176.md) — On Agreeing to the Amendment — **Failed** (185–231)
+- 2013-05-22 — [House 113-1-177](votes/house-113-1-0177.md) — On Agreeing to the Amendment — **Failed** (162–255)
+- 2013-05-22 — [House 113-1-178](votes/house-113-1-0178.md) — On Motion to Recommit with Instructions — **Failed** (194–223)
+- 2013-05-22 — [House 113-1-179](votes/house-113-1-0179.md) — On Passage — **Passed** (241–175)
+
 ## Actions
 
 - 2013-03-15 — Introduced in House
@@ -186,3 +200,112 @@ Northern Route Approval Act
 - 2013-05-17 — Reported by the Committee on Natural Resources. H. Rept. 113-61, Part II.
 - 2013-05-17 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-61, Part III.
 - 2013-05-17 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-61, Part III.
+- 2013-05-21 — Rules Committee Resolution H. Res. 228 Reported to House. Rule provides for consideration of H.R. 3 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2013-05-22 — Amendment (A001) offered by Mr. Weber (TX). (consideration: CR H2876-2877, H2886-2887; text: CR H2876)
+- 2013-05-22 — Amendment (A002) offered by Mr. Waxman. (consideration: CR H2877-2878, H2887; text: CR H2877)
+- 2013-05-22 — Amendment (A003) offered by Mr. Johnson (GA). (consideration: CR H2878-2879, H2887-2888; text: CR H2878)
+- 2013-05-22 — Amendment (A004) offered by Mr. Connolly. (consideration: CR H2879-2880, H2888-2889; text: CR H2879)
+- 2013-05-22 — Amendment (A005) offered by Mr. Rahall. (consideration: CR H2880-2881, H2889; text: CR H2880)
+- 2013-05-22 — Amendment (A006) offered by Ms. Esty. (consideration: CR H2881-2882, H2889-2890; text: CR H2881)
+- 2013-05-22 — Amendment (A007) offered by Ms. Jackson Lee. (consideration: CR H2882-2883, H2890; text: CR H2882)
+- 2013-05-22 — Amendment (A008) offered by Ms. Chu. (consideration: CR H2883-2884, H2890-2891; text: CR H2883)
+- 2013-05-22 — Amendment (A009) offered by Mr. Cohen. (consideration: CR H2884-2885; text: CR H2884)
+- 2013-05-22 — Amendment (A010) offered by Mr. Holt. (consideration: CR H2885-2886; H2891-2892; text: CR H2885)
+- 2013-05-22 — Amendment agreed to Committee of the Whole
+- 2013-05-22 — Amendment agreed to Committee of the Whole
+- 2013-05-22 — Amendment failed in Committee of the Whole
+- 2013-05-22 — Amendment failed in Committee of the Whole
+- 2013-05-22 — Amendment failed in Committee of the Whole
+- 2013-05-22 — Amendment failed in Committee of the Whole
+- 2013-05-22 — Amendment failed in Committee of the Whole
+- 2013-05-22 — Amendment failed in Committee of the Whole
+- 2013-05-22 — Amendment failed in Committee of the Whole
+- 2013-05-22 — Amendment failed in Committee of the Whole
+- 2013-05-22 — Considered under the provisions of rule H. Res. 228. (consideration: CR H2862-2895)
+- 2013-05-22 — DEBATE - Pursuant to the provisions of H.Res. 228, the Committee of the Whole proceeded with 10 minutes of debate on the Chu amendment No. 8.
+- 2013-05-22 — DEBATE - Pursuant to the provisions of H.Res. 228, the Committee of the Whole proceeded with 10 minutes of debate on the Cohen amendment No. 9.
+- 2013-05-22 — DEBATE - Pursuant to the provisions of H.Res. 228, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly amendment No. 4.
+- 2013-05-22 — DEBATE - Pursuant to the provisions of H.Res. 228, the Committee of the Whole proceeded with 10 minutes of debate on the Esty amendment No. 6.
+- 2013-05-22 — DEBATE - Pursuant to the provisions of H.Res. 228, the Committee of the Whole proceeded with 10 minutes of debate on the Holt amendment No. 10.
+- 2013-05-22 — DEBATE - Pursuant to the provisions of H.Res. 228, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 7.
+- 2013-05-22 — DEBATE - Pursuant to the provisions of H.Res. 228, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson(GA) amendment No. 3.
+- 2013-05-22 — DEBATE - Pursuant to the provisions of H.Res. 228, the Committee of the Whole proceeded with 10 minutes of debate on the Rahall amendment No. 5.
+- 2013-05-22 — DEBATE - Pursuant to the provisions of H.Res. 228, the Committee of the Whole proceeded with 10 minutes of debate on the Waxman amendment No. 2.
+- 2013-05-22 — DEBATE - Pursuant to the provisions of H.Res. 228, the Committee of the Whole proceeded with 10 minutes of debate on the Weber(TX) amendment No. 1.
+- 2013-05-22 — DEBATE - The House proceeded with 10 minutes of debate on the Bishop (NY) motion to recommit with instructions. The instructions contained in the motion seek to require the House to report the same back with an amendment requiring TransCanada Keystone Pipeline, L.P. to certify to the President that diluted bitumen and other materials derived from tar sands or oils sands that are transported through the Keystone XL pipeline be treated as crude oil for the purposes of determining contributions that fund the Oil Spill Liability Trust Fund.
+- 2013-05-22 — GENERAL DEBATE - The Committee of the Whole proceeded with 90 minutes of general debate on H.R. 3.
+- 2013-05-22 — House amendment agreed to: On agreeing to the Cohen amendment (A009) Agreed to by voice vote.
+- 2013-05-22 — House amendment agreed to: On agreeing to the Weber (TX) amendment (A001) Agreed to by recorded vote: 246 - 168 (Roll no. 169).
+- 2013-05-22 — House amendment not agreed to: On agreeing to the Chu amendment (A008) Failed by recorded vote: 185 - 231 (Roll no. 176).
+- 2013-05-22 — House amendment not agreed to: On agreeing to the Connolly amendment (A004) Failed by recorded vote: 176 - 239 (Roll no. 172).
+- 2013-05-22 — House amendment not agreed to: On agreeing to the Esty amendment (A006) Failed by recorded vote: 182 - 234 (Roll no. 174).
+- 2013-05-22 — House amendment not agreed to: On agreeing to the Holt amendment (A010) Failed by recorded vote: 162 - 255 (Roll no. 177).
+- 2013-05-22 — House amendment not agreed to: On agreeing to the Holt amendment (A010) Failed by recorded vote: 162 - 255 (Roll no. 177).
+- 2013-05-22 — House amendment not agreed to: On agreeing to the Jackson Lee amendment (A007) Failed by recorded vote: 182 - 234 (Roll no. 175).
+- 2013-05-22 — House amendment not agreed to: On agreeing to the Johnson (GA) amendment (A003) Failed by recorded vote: 177 - 239 (Roll no. 171).
+- 2013-05-22 — House amendment not agreed to: On agreeing to the Rahall amendment (A005) Failed by recorded vote: 177 - 238 (Roll no. 173).
+- 2013-05-22 — House amendment not agreed to: On agreeing to the Waxman amendment (A002) Failed by recorded vote: 146 - 269 (Roll no. 170).
+- 2013-05-22 — House amendment offered
+- 2013-05-22 — House amendment offered
+- 2013-05-22 — House amendment offered
+- 2013-05-22 — House amendment offered
+- 2013-05-22 — House amendment offered
+- 2013-05-22 — House amendment offered
+- 2013-05-22 — House amendment offered
+- 2013-05-22 — House amendment offered
+- 2013-05-22 — House amendment offered
+- 2013-05-22 — House amendment offered
+- 2013-05-22 — House amendment offered/reported by: Amendment (A001) offered by Mr. Weber (TX).(consideration: CR H2876-2877, H2886-2887; text: CR H2876)
+- 2013-05-22 — House amendment offered/reported by: Amendment (A002) offered by Mr. Waxman.(consideration: CR H2877-2878, H2887; text: CR H2877)
+- 2013-05-22 — House amendment offered/reported by: Amendment (A003) offered by Mr. Johnson (GA).(consideration: CR H2878-2879, H2887-2888; text: CR H2878)
+- 2013-05-22 — House amendment offered/reported by: Amendment (A003) offered by Mr. Johnson (GA).(consideration: CR H2878-2879, H2887-2888; text: CR H2878)
+- 2013-05-22 — House amendment offered/reported by: Amendment (A004) offered by Mr. Connolly.(consideration: CR H2879-2880, H2888-2889; text: CR H2879)
+- 2013-05-22 — House amendment offered/reported by: Amendment (A005) offered by Mr. Rahall.(consideration: CR H2880-2881, H2889; text: CR H2880)
+- 2013-05-22 — House amendment offered/reported by: Amendment (A006) offered by Ms. Esty.(consideration: CR H2881-2882, H2889-2890; text: CR H2881)
+- 2013-05-22 — House amendment offered/reported by: Amendment (A007) offered by Ms. Jackson Lee.(consideration: CR H2882-2883, H2890; text: CR H2882)
+- 2013-05-22 — House amendment offered/reported by: Amendment (A007) offered by Ms. Jackson Lee.(consideration: CR H2882-2883, H2890; text: CR H2882)
+- 2013-05-22 — House amendment offered/reported by: Amendment (A008) offered by Ms. Chu.(consideration: CR H2883-2884, H2890-2891; text: CR H2883)
+- 2013-05-22 — House amendment offered/reported by: Amendment (A009) offered by Mr. Cohen.(consideration: CR H2884-2885; text: CR H2884)
+- 2013-05-22 — House amendment offered/reported by: Amendment (A010) offered by Mr. Holt.(consideration: CR H2885-2886; H2891-2892; text: CR H2885)
+- 2013-05-22 — House amendment offered/reported by: Amendment (A010) offered by Mr. Holt.(consideration: CR H2885-2886; H2891-2892; text: CR H2885)
+- 2013-05-22 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 228 and Rule XVIII.
+- 2013-05-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-05-22 — Mr. Bishop (NY) moved to recommit with instructions to Transportation. (consideration: CR H2892-2893; text: CR H2892)
+- 2013-05-22 — On agreeing to the Chu amendment (A008) Failed by recorded vote: 185 - 231 (Roll no. 176).
+- 2013-05-22 — On agreeing to the Cohen amendment (A009) Agreed to by voice vote.
+- 2013-05-22 — On agreeing to the Connolly amendment (A004) Failed by recorded vote: 176 - 239 (Roll no. 172).
+- 2013-05-22 — On agreeing to the Esty amendment (A006) Failed by recorded vote: 182 - 234 (Roll no. 174).
+- 2013-05-22 — On agreeing to the Holt amendment (A010) Failed by recorded vote: 162 - 255 (Roll no. 177).
+- 2013-05-22 — On agreeing to the Jackson Lee amendment (A007) Failed by recorded vote: 182 - 234 (Roll no. 175).
+- 2013-05-22 — On agreeing to the Johnson (GA) amendment (A003) Failed by recorded vote: 177 - 239 (Roll no. 171).
+- 2013-05-22 — On agreeing to the Rahall amendment (A005) Failed by recorded vote: 177 - 238 (Roll no. 173).
+- 2013-05-22 — On agreeing to the Waxman amendment (A002) Failed by recorded vote: 146 - 269 (Roll no. 170).
+- 2013-05-22 — On agreeing to the Weber (TX) amendment (A001) Agreed to by recorded vote: 246 - 168 (Roll no. 169).
+- 2013-05-22 — On motion to recommit with instructions Failed by the Yeas and Nays: 194 - 223 (Roll no. 178).
+- 2013-05-22 — On passage Passed by recorded vote: 241 - 175, 1 Present (Roll no. 179).
+- 2013-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Chu amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Chu demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Connolly amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Connolly demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Esty amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Esty demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Holt amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Holt demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Johnson (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Johnson (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rahall amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Rahall demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Waxman amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Waxman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Weber amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Weber demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-05-22 — Passed/agreed to in House: On passage Passed by recorded vote: 241 - 175, 1 Present (Roll no. 179).
+- 2013-05-22 — Roll call votes on amendments in House
+- 2013-05-22 — Roll call votes on amendments in House
+- 2013-05-22 — Roll call votes on amendments in House
+- 2013-05-22 — Roll call votes on amendments in House
+- 2013-05-22 — Roll call votes on amendments in House
+- 2013-05-22 — Roll call votes on amendments in House
+- 2013-05-22 — Roll call votes on amendments in House
+- 2013-05-22 — Roll call votes on amendments in House
+- 2013-05-22 — Roll call votes on amendments in House
+- 2013-05-22 — Rule H. Res. 228 passed House.
+- 2013-05-22 — Rule provides for consideration of H.R. 3 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2013-05-22 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H2875-2876)
+- 2013-05-22 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3.
+- 2013-05-22 — The Speaker designated the Honorable Steve Womack to act as Chairman of the Committee.
+- 2013-05-22 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2893)
+- 2013-05-22 — The previous question was ordered pursuant to the rule. (consideration: CR H2892)

@@ -21,8 +21,13 @@ The Congress finds the following:
 - **(2)** The delivery of oil from Canada, a close ally not only in proximity but in shared values and ideals, to domestic markets is in the national interest because of the need to lessen dependence upon insecure foreign sources.
 - **(3)** The Keystone XL pipeline would provide both short-term and long-term employment opportunities and related labor income benefits, such as government revenues associated with taxes.
 - **(4)** The State of Nebraska has thoroughly reviewed and approved the proposed Keystone XL pipeline reroute, concluding that the concerns of Nebraskans have had a major influence on the pipeline reroute and that the reroute will have minimal environmental impacts.
-- **(5)** The Department of State and other Federal agencies have over a long period of time conducted extensive studies and analysis of the technical aspects and of the environmental, social, and economic impacts of the proposed Keystone XL pipeline.
-- **(6)** The transportation of oil via pipeline is the safest and most economically and environmentally effective means of doing so.
+- **(5)** The Department of State and other Federal agencies have over a long period of time conducted extensive studies and analysis of the technical aspects and of the environmental, social, and economic impacts of the proposed Keystone XL pipeline, and—
+  - **(A)** the Department of State assessments found that the Keystone XL pipeline “is not likely to impact the amount of crude oil produced from the oil sands” and that “approval or denial of the proposed project is unlikely to have a substantial impact on the rate of development in the oil sands”;
+  - **(B)** the Department of State found that incremental life-cycle greenhouse gas emissions associated with the Keystone XL project are estimated in the range of 0.07 to 0.83 million metric tons of carbon dioxide equivalents, with the upper end of this range representing twelve one-thousandths of one percent of the 6,702 million metric tons of carbon dioxide emitted in the United States in 2011; and
+  - **(C)** after extensive evaluation of potential impacts to land and water resources along the Keystone XL pipeline’s 875 mile proposed route, the Department of State found that “The analyses of potential impacts associated with construction and normal operation of the proposed Project suggest that there would be no significant impacts to most resources along the proposed Project route (assuming Keystone complies with all laws and required conditions and measures).”.
+- **(6)** The transportation of oil via pipeline is the safest and most economically and environmentally effective means of doing so, and—
+  - **(A)** transportation of oil via pipeline has a record of unmatched safety and environmental protection, and the Department of State found that “Spills associated with the proposed Project that enter the environment expected to be rare and relatively small”, and that “there is no evidence of increased corrosion or other pipeline threat due to viscosity” of diluted bitumen oil that will be transported by the Keystone XL pipeline; and
+  - **(B)** plans to incorporate 57 project-specific special conditions related to the design, construction, and operations of the Keystone XL pipeline led the Department of State to find that the pipeline will have “a degree of safety over any other typically constructed domestic oil pipeline”.
 - **(7)** The Keystone XL is in much the same position today as the Alaska Pipeline in 1973 prior to congressional action. Once again, the Federal regulatory process remains an insurmountable obstacle to a project that is likely to reduce oil imports from insecure foreign sources.
 
 ## § 3. Keystone XL permit approval
@@ -59,3 +64,8 @@ The Secretary of the Interior is deemed to have granted or issued a grant of rig
 ## § 8. Migratory Bird Treaty Act permit
 
 The Secretary of the Interior is deemed to have issued a special purpose permit under the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.), as described in the application filed with the United States Fish and Wildlife Service for the Keystone XL pipeline on January 11, 2013.
+
+## § 9. Oil spill response plan disclosure
+
+- **(a)** *In general* Any pipeline owner or operator required under Federal law to develop an oil spill response plan for the Keystone XL pipeline shall make such plan available to the Governor of each State in which such pipeline operates to assist with emergency response preparedness.
+- **(b)** *Updates* A pipeline owner or operator required to make available to a Governor a plan under subsection (a) shall make available to such Governor any update of such plan not later than 7 days after the date on which such update is made.
