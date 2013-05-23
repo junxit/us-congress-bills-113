@@ -1,0 +1,34 @@
+---
+measure: H.Res. 238
+congress: 113
+version: Introduced in House
+---
+
+# H.Res. 238
+
+Expressing the sense of the House of Representatives regarding United States efforts to promote Israeli-Palestinian peace.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Lee, Barbara [D-CA-13] (L000551)
+
+## Cosponsors (4)
+
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Miller, George [D-CA-11] (M000725)
+- Rep. Conyers, John, Jr. [D-MI-13] (C000714)
+
+## Committees (1)
+
+- House — Foreign Affairs Committee
+
+## Actions
+
+- 2013-05-23 — Introduced in House
+- 2013-05-23 — Introduced in House
+- 2013-05-23 — Referred to the House Committee on Foreign Affairs.
