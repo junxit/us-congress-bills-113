@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 2191
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2191
+
+> To direct the Secretary of Transportation to issue regulations with respect to ensuring families are able to sit together on flights, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Families Flying Together Act of 2013”.
+
+## § 2. Seating families together on flights
+
+- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Secretary of Transportation shall issue regulations directing each air carrier to—
+  - **(1)** establish a policy to ensure, to the extent practicable, that a family that purchases tickets for a flight with that air carrier is seated together during that flight; and
+  - **(2)** make the policy described in paragraph (1) available to the public on an appropriate Internet Web site of the air carrier.
+- **(b)** *Definitions* In this section, the following definitions apply:
+  - **(1)** *Air carrier* The term air carrier has the meaning given that term in section 40102(a) of title 49, United States Code.
+  - **(2)** *Family* The term family means a grouping of individuals that includes, at a minimum—
+    - **(A)** a child who is 12 years of age or younger; and
+    - **(B)** an individual who is—
+      - **(i)** 18 years of age or older; and
+      - **(ii)** responsible for accompanying that child, including a parent or legal guardian of that child.
