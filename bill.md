@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 2123
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2123
+
+> To amend title XIX of the Social Security Act to extend the Medicaid rules regarding supplemental needs trusts for Medicaid beneficiaries to trusts established by those beneficiaries.
+
+## § 1. Short title
+
+This Act may be cited as the “Special Needs Trust Fairness Act of 2013”.
+
+## § 2. Fairness in Medicaid supplemental needs trusts
+
+- **(a)** *In general* Section 1917(d)(4)(A) of the Social Security Act (42 U.S.C. 1396p(d)(4)(A)) is amended by inserting “the individual,” after “for the benefit of such individual by”.
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply to trusts established on or after the date of the enactment of this Act.
