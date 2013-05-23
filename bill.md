@@ -2,14 +2,14 @@
 legis-num: H. RES. 232
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 232
 
 > Providing for consideration of the bill (H.R. 1911) to amend the Higher Education Act of 1965 to establish interest rates for new loans made on or after July 1, 2013, and for other purposes.
 
-That upon the adoption of this resolution it shall be in order to consider in the House the bill (H.R. 1911) to amend the Higher Education Act of 1965 to establish interest rates for new loans made on or after July 1, 2013. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on Education and the Workforce now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-12 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Education and the Workforce; and (2) one motion to recommit with or without instructions.
+That upon the adoption of this resolution it shall be in order to consider in the House the bill (H.R. 1911) to amend the Higher Education Act of 1965 to establish interest rates for new loans made on or after July 1, 2013. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on Education and the Workforce now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113–12 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Education and the Workforce; and (2) one motion to recommit with or without instructions.
 
 ## § 2.
 
