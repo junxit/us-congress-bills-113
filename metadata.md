@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1949
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1949
@@ -25,9 +25,10 @@ Improving Postsecondary Education Data for Students Act
 - Rep. Thompson, Glenn [R-PA-5] (T000467)
 - Rep. Bucshon, Larry [R-IN-8] (B001275)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Improving Postsecondary Education Data for Students Act
 - 2013-05-22 — Mr. Messer moved to suspend the rules and pass the bill, as amended.
 - 2013-05-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2895-2896)
 - 2013-05-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2895-2896)
+- 2013-05-23 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
