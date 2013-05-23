@@ -1,6 +1,6 @@
 ---
 legis-num: S. CON. RES. 17
-congress: 113th CONGRESS
+congress: One Hundred Thirteenth Congress of the United States of America
 session: 1st Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
