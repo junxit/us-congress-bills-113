@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 2157
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2157
+
+> To authorize the ground burial at Arlington National Cemetery of members of the United States Army who served honorably in the Tomb of the Unknown Soldier platoon, Third Infantry Regiment (Old Guard), United States Army.
+
+## § 1. Burial of deceased former members of the Tomb Guard Platoon at Arlington National Cemetery
+
+Section 4722(a) of title 10, United States Code, is amended by adding at the end the following new paragraph:
+
+> - **(3)**
+>   - **(A)** Subject to section 985(b) of this title, an individual who served as a Tomb Guard described in subparagraph (B) is eligible for interment of casketed remains or cremated remains at Arlington National Cemetery.
+>   - **(B)** Subparagraph (A) applies with respect to an individual who—
+>     - **(i)** served honorably in the Army;
+>     - **(ii)** served at the Tomb of the Unknown Soldier as a Tomb Guard; and
+>     - **(iii)** was awarded the Tomb Guard Identification Badge or a certificate of participation if service occurred prior to the introduction of the badge.
+>   - **(C)** Subparagraph (A) shall not apply to an individual otherwise described in subparagraph (B) whose Tomb Guard Identification Badge or certificate was revoked before the burial of the individual.
+>   - **(D)** The Society of the Honor Guard, Tomb of the Unknown Soldier, shall be responsible for verifying the eligibility requirements specified in subparagraph (B).
