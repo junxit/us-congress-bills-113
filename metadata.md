@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3
@@ -309,3 +309,5 @@ Northern Route Approval Act
 - 2013-05-22 — The Speaker designated the Honorable Steve Womack to act as Chairman of the Committee.
 - 2013-05-22 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2893)
 - 2013-05-22 — The previous question was ordered pursuant to the rule. (consideration: CR H2892)
+- 2013-05-23 — Received in the Senate, read the first time.
+- 2013-06-03 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 81.
