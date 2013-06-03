@@ -1,7 +1,7 @@
 ---
 measure: H.R. 271
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 271
@@ -49,3 +49,5 @@ Resolving Environmental and Grid Reliability Conflicts Act of 2013
 - 2013-05-22 — Mr. Olson moved to suspend the rules and pass the bill.
 - 2013-05-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2898)
 - 2013-05-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2898)
+- 2013-05-23 — Received in the Senate, read the first time.
+- 2013-06-03 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 82.
