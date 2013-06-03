@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1919
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,7 +35,7 @@ to guess them.
 
 ### 21 U.S.C. § 331
 
-> by striking “or the distribution of drugs in violation of section 503(e) or the failure to otherwise comply with the requirements of section 503(e)” and inserting “the failure to comply with any requirement of section 582, engaging in the wholesale distribution of a drug in violation of section 583 or the failure to otherwise comply with the requirements of section 583, or engaging in the activities of a third-party logistics provider in violation of section 584 or the failure to otherwise comply with the requirements of section 584”.
+> Section 301(t) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 331(t)) is amended by striking “or the distribution of drugs in violation of section 503(e) or the failure to otherwise comply with the requirements of section 503(e)” and inserting “the failure to comply with any requirement of section 582, engaging in the wholesale distribution of a drug in violation of section 583 or the failure to otherwise comply with the requirements of section 583, or engaging in the activities of a third-party logistics provider in violation of section 584 or the failure to otherwise comply with the requirements of section 584”.
 
 | | |
 |---|---|
@@ -61,10 +61,10 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `21 U.S.C. § 351` | add-at-end | Chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 353` | replace | in section 503 of such Act (21 U.S.C. 353), by striking “(e)(1)(A)” and all that follows through “(3) For purposes of this subsection and subsection (d)—” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 1504` | add-at-end | in subchapter H of chapter V of the Federal Food, Drug, and Cosmetic Act, as added by section 2, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 353` | replace | in section 503 (21 U.S.C. 353), by striking “(e)(1)(A)” and all that follows through “(3) For the purposes of this subsection and subsection (d)—” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 353` | redesignate | in section 503(e) (21 U.S.C. 353(e)), by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1365` | add-at-end | in subchapter H, as added by section 2, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 1365` | add-at-end | Subchapter H of chapter V of the Federal Food, Drug, and Cosmetic Act, as amended by section 4, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 331` | strike | by striking “or” after “the requirements of section 503(d)”; and | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 352` | add-at-end | Section 502 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 352) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Subchapter H of chapter V of the Federal Food, Drug, and Cosmetic Act, as amended by section 5, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `21 U.S.C. § 352` | add-at-end | Section 502(f) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 352(f)) is amended by adding at the end the following new sentence: “Required labeling, other than immediate container or carton labels, for a drug may be made availab… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 352` | add-at-end | Section 502(f) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 352(f)) is amended by adding at the end the following new sentence: “Required labeling (other than immediate container or carton labels) that is intended for use by a … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
