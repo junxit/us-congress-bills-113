@@ -1,7 +1,7 @@
 ---
 measure: H.R. 885
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 885
@@ -40,3 +40,10 @@ San Antonio Missions National Historical Park Boundary Expansion Act of 2013
 - 2013-05-17 — Placed on the Union Calendar, Calendar No. 46.
 - 2013-05-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-70.
 - 2013-05-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-70.
+- 2013-06-03 — Considered under suspension of the rules. (consideration: CR H2996-2998)
+- 2013-06-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 885.
+- 2013-06-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-06-03 — Mr. Wittman moved to suspend the rules and pass the bill, as amended.
+- 2013-06-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2996)
+- 2013-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2996)
+- 2013-06-03 — The title of the measure was amended. Agreed to without objection.

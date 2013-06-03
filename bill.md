@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 885
 
-> To expand the boundary of San Antonio Missions National Historical Park, to conduct a study of potential land acquisitions, and for other purposes.
+> To expand the boundary of the San Antonio Missions National Historical Park, and for other purposes.
 
 ## § 1. Short title
 
