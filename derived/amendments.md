@@ -1,7 +1,7 @@
 ---
 measure: H.R. 588
 congress: 113
-version: Received in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 431` | strike | in paragraph (4) by striking the “and” after the semicolon; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 431` | replace | in paragraph (5) by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 431` | insert | by inserting at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 8905(b) of title 40, United States Code is amended by striking paragraph (7) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 6(b)(5) of Public Law 96–297 (16 U.S.C. 431 note; 124 Stat. 2851) is amended by striking “2014” and inserting “2018”. | the bill names no machine-readable US Code section |
