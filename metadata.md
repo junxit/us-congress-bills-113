@@ -1,7 +1,7 @@
 ---
 measure: H.R. 885
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 885
@@ -23,9 +23,10 @@ San Antonio Missions National Historical Park Boundary Expansion Act of 2013
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ San Antonio Missions National Historical Park Boundary Expansion Act of 2013
 - 2013-06-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2996)
 - 2013-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2996)
 - 2013-06-03 — The title of the measure was amended. Agreed to without objection.
+- 2013-06-04 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
