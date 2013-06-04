@@ -2,7 +2,7 @@
 legis-num: H.R. 1919
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1919
@@ -38,7 +38,7 @@ Chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351 et seq.) is
     - **(A)** Best practices in each of the sectors within the pharmaceutical distribution supply chain to implement the requirements of section 582 of the Federal Food, Drug, and Cosmetic Act, as added by section 2.
     - **(B)** The costs and benefits of implementation of such section 582, including the impact on each pharmaceutical distribution supply chain sector and on public health.
     - **(C)** Whether additional electronic traceability requirements, including tracing of prescription drug product at the package level, are feasible, cost effective, overly burdensome on small businesses, and needed to protect public health.
-    - **(D)** The systems and processes needed to utilize the prescription drug product identifiers to enhance tracing of prescription drug product at the package level.
+    - **(D)** The systems and processes needed to utilize the prescription drug product identifiers to enhance tracing of prescription drug product at the package level, including allowing for verification, aggregation, and inference by each sector within the pharmaceutical distribution supply chain for cases, pallets, totes, and other containers of aggregated prescription drug product as necessary.
     - **(E)** The technical capabilities and legal authorities, if any, needed to establish an electronic system that provides for enhanced tracing of prescription drug product at the package level.
     - **(F)** The impact that the requirements, systems, processes, capabilities, and legal authorities referred to in subparagraphs (C), (D), and (E) would have on patient safety, the drug supply, cost and regulatory burden, the timeliness of patient access to prescription drugs, and small businesses.
 - **(c)** *Study of the pharmaceutical distribution supply chain*
@@ -49,7 +49,7 @@ Chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351 et seq.) is
       - **(ii)** the scalability of such requirements, including with respect to prescription drug product lines; and
       - **(iii)** the capability of different sectors within the pharmaceutical distribution supply chain, including small businesses, to affix and utilize the prescription drug product identifier.
     - **(B)** The need for additional legal authorities and activities to address additional gaps in the pharmaceutical distribution supply chain, if any, after the implementation of the requirements established under such subchapter H with respect to—
-      - **(i)** the systems and processes needed to enhance tracing of prescription drug product at the package level;
+      - **(i)** the systems and processes needed to enhance tracing of prescription drug product at the package level, including the use and evaluation of verification, aggregation, and inference by each sector within the pharmaceutical distribution supply chain as necessary;
       - **(ii)** the impact, feasibility, and cost effectiveness that additional requirements pursuant to this section would have on each pharmaceutical distribution supply chain sector and the public health; and
       - **(iii)** the systems and processes needed to enhance interoperability among trading partners.
     - **(C)** Risks to the security and privacy of data collected, maintained, or exchanged pursuant to the requirements established under such subchapter H.
@@ -74,7 +74,7 @@ Chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351 et seq.) is
   - **(1)** *In general* Notwithstanding any other provision of this Act, including the amendments made by this Act, not earlier than January 1, 2027, and not later than March 1, 2027, the Secretary shall issue proposed regulations that establish additional requirements to prevent a suspect product, illegitimate product, or a product that is counterfeit, stolen, diverted, or otherwise unfit for distribution from entering into or being further distributed in the supply chain, including—
     - **(A)** requirements related to the use of interoperable electronic systems and technologies for enhanced tracing of prescription drug product at the package level, which may include verification of the prescription drug product identifier of a package of prescription drug product and enhanced verification of saleable returns;
     - **(B)** requirements related to the use of additional prescription drug product identifiers or prescription drug product identifier technology that meet the standards developed under section 582(a)(2) of the Federal Food, Drug, and Cosmetic Act, as added by section 2;
-    - **(C)** requirements related to the use of aggregation, inference, and other methods, if determined to be necessary components of the systems and technologies referred to in subparagraph (A); and
+    - **(C)** requirements related to the use of aggregation, inference, and other methods, which shall permit the use of aggregation and inference for cases, pallets, totes, and other containers of aggregated prescription drug products by each sector of the pharmaceutical distribution supply chain, if determined to be necessary components of the systems and technologies referred to in subparagraph (A); and
     - **(D)** other data transmission and maintenance requirements and interoperability standards.
   - **(2)** *Flexibility* The requirements described in paragraph (1) shall provide for flexibility for a member of the pharmaceutical supply chain, by—
     - **(A)** with respect to dispensers, allowing a dispenser to enter into a written agreement with a third party, including an authorized wholesale distributor, under which—
@@ -84,8 +84,8 @@ Chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351 et seq.) is
     - **(C)** not requiring the adoption of specific business systems by a member of the pharmaceutical supply chain for the maintenance and transmission of prescription drug product tracing data; and
     - **(D)** prescribing alternative methods of compliance for small businesses, as specified in paragraph (4).
   - **(3)** *Considerations* In issuing proposed regulations under paragraph (1), the Secretary shall consider—
-    - **(A)** the results of the pilot project conducted under subsection (a);
-    - **(B)** the public meetings held under subsection (b);
+    - **(A)** the results of, and public comments resulting from, the pilot project conducted under subsection (a);
+    - **(B)** the public meetings held under subsection (b) and public comments from such meetings;
     - **(C)** the studies conducted under subsections (c) and (d);
     - **(D)** the reports submitted under subsection (e);
     - **(E)** the public health benefits of such regulations compared with the cost of compliance with the requirements contained in such regulations, including with respect to entities of varying sizes and capabilities; and
@@ -124,13 +124,16 @@ Chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351 et seq.) is
     >     - **(G)** in accordance with paragraph (5), the prohibition of certain persons from engaging in wholesale distribution.
     >   - **(3)** *Bond or other security* The requirements under paragraph (2)(C) shall provide for the following:
     >     - **(A)** An applicant that is not a government-owned-and-operated wholesale distributor, for the issuance or renewal of a wholesale distributor license, shall submit a surety bond of $100,000 or other equivalent means of security acceptable to the applicable licensing authority.
-    >     - **(B)** For purposes of subparagraph (A), the applicable licensing authority may accept a surety bond less than $100,000 if the annual gross receipts of the previous tax year for the wholesale distributor is $10,000,000 or less, in which case the surety bond may not be less than $25,000.
+    >     - **(B)** For purposes of subparagraph (A), the applicable licensing authority may accept a surety bond of less than $100,000 if the annual gross receipts of the previous tax year for the wholesale distributor is $10,000,000 or less, in which case the surety bond may not be less than $25,000.
     >     - **(C)** If a wholesale distributor can provide evidence that it possesses the required bond in a State, the requirement for a bond in another State is waived.
     >   - **(4)** *Inspections* To satisfy the inspection requirement under paragraph (2)(F), the Secretary may conduct the inspection, or may accept an inspection by—
     >     - **(A)** the government of the State in which the facility is located; or
     >     - **(B)** a third-party accreditation or inspection service approved by the Secretary.
     >   - **(5)** *Prohibited persons* The requirements under paragraph (2) shall include requirements to prohibit a person from receiving or maintaining licensure for wholesale distribution if the person—
-    >     - **(A)** has been convicted of any felony for conduct relating to wholesale distribution; any felony violation of section 301(i) or 301(k); or any felony violation of section 1365 of title 18, United States Code, relating to prescription drug product tampering; or
+    >     - **(A)** has been convicted of—
+    >       - **(i)** any felony for conduct relating to wholesale distribution;
+    >       - **(ii)** any felony violation of section 301(i) or 301(k); or
+    >       - **(iii)** any felony violation of section 1365 of title 18, United States Code, relating to prescription drug product tampering; or
     >     - **(B)** has engaged in a pattern of violating the requirements of this section that presents a threat of serious adverse health consequences or death to humans.
     > - **(b)** *Reporting by licensed wholesale distributors*
     >   - **(1)** *Annual report* Beginning not later than 1 year after the date of the enactment of this section, each person engaged in wholesale distribution in interstate commerce shall submit on an annual basis, and update as necessary, a report to the Secretary including—
@@ -155,8 +158,8 @@ Chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351 et seq.) is
     >   - **(10)** the transport of a drug by a common carrier, provided that the common carrier does not take ownership of the drug;
     >   - **(11)** the distribution of a drug, or an offer to distribute a drug, by an authorized repackager that has taken ownership of the drug and repacked it in accordance with section 582(e);
     >   - **(12)** saleable drug returns when conducted by a dispenser in accordance with section 203.23 of title 21, Code of Federal Regulations (or any successor regulation);
-    >   - **(13)** the distribution of a combination prescription drug product described in section 581(20)(B)(xiii);
-    >   - **(14)** the distribution of a medical convenience kit described in section 581(21)(B)(xiv);
+    >   - **(13)** the distribution of a combination prescription drug product described in section 581(20)(B)(xii);
+    >   - **(14)** the distribution of a medical convenience kit described in section 581(21)(B)(xiii);
     >   - **(15)** the distribution of an intravenous drug that, by its formulation, is intended for the replenishment of fluids and electrolytes (such as sodium, chloride, and potassium) or calories (such as dextrose and amino acids);
     >   - **(16)** the distribution of an intravenous drug used to maintain the equilibrium of water and minerals in the body, such as dialysis solutions;
     >   - **(17)** the distribution of a drug that is intended for irrigation or reconstitution, or sterile water, whether intended for such purposes or for injection;

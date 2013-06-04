@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1919
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1919
@@ -39,9 +39,10 @@ Safeguarding America's Pharmaceuticals Act of 2013
 - Rep. Walberg, Tim [R-MI-7] (W000798)
 - Rep. Walorski, Jackie [R-IN-2] (W000813)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Safeguarding America's Pharmaceuticals Act of 2013
 - 2013-06-03 — Placed on the Union Calendar, Calendar No. 65.
 - 2013-06-03 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-93.
 - 2013-06-03 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-93.
+- 2013-06-04 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
