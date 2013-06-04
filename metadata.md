@@ -1,7 +1,7 @@
 ---
 measure: S. 993
 congress: 113
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 993
@@ -16,11 +16,15 @@ A bill to authorize and request the President to award the Medal of Honor to Jam
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
 - 2013-05-21 — Introduced in Senate
 - 2013-05-21 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (text of measure as introduced: CR S3660)
+- 2013-06-04 — Referred to the Committee on Armed Services by unanimous consent.
+- 2013-06-04 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2013-06-04 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
