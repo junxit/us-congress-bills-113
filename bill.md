@@ -2,7 +2,7 @@
 legis-num: H. RES. 243
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 243
@@ -17,4 +17,4 @@ At any time after the adoption of this resolution the Speaker may, pursuant to c
 
 ## § 3.
 
-Pending the adoption of a concurrent resolution on the budget for fiscal year 2014, the provisions of House Concurrent Resolution 25, as adopted by the House, shall have force and effect in the House as though Congress has adopted such concurrent resolution, and the allocations of spending authority printed in Tables 11 and 12 of House Report 113-17 shall be considered for all purposes in the House to be the allocations under section 302(a) of the Congressional Budget Act of 1974.
+Pending the adoption of a concurrent resolution on the budget for fiscal year 2014, the provisions of House Concurrent Resolution 25, as adopted by the House, shall have force and effect in the House as though Congress has adopted such concurrent resolution, and the allocations of spending authority printed in Tables 11 and 12 of House Report 113–17 shall be considered for all purposes in the House to be the allocations under section 302(a) of the Congressional Budget Act of 1974.
