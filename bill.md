@@ -1,11 +1,11 @@
 ---
-legis-num: S. RES. 162
+legis-num: S. Res. 162
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
-# S. RES. 162
+# S. Res. 162
 
 > Expressing the sense of the Senate with respect to childhood stroke and recognizing May 2013 as “National Pediatric Stroke Awareness Month”.
 

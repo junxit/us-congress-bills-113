@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 162
 congress: 113
-version: Agreed to Senate
+version: Engrossed in Senate
 ---
 
 # S.Res. 162
