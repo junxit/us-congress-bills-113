@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 671
 
-> To amend title 38, United States Code, to improve the disability compensation evaluation procedure of the Secretary of Veterans Affairs for veterans with mental health conditions related to military sexual trauma, and for other purposes.
+> To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to submit to Congress an annual report on claims for disabilities incurred or aggravated by military sexual trauma, and for other purposes.
 
 ## § 1. Short title
 

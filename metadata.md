@@ -1,7 +1,7 @@
 ---
 measure: H.R. 671
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 671
@@ -76,3 +76,10 @@ Ruth Moore Act of 2013
 - 2013-05-17 — Placed on the Union Calendar, Calendar No. 38.
 - 2013-05-17 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-63.
 - 2013-05-17 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-63.
+- 2013-06-04 — Considered under suspension of the rules. (consideration: CR H3029-3032)
+- 2013-06-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 671.
+- 2013-06-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-06-04 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
+- 2013-06-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3029-3030)
+- 2013-06-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3029-3030)
+- 2013-06-04 — The title of the measure was amended. Agreed to without objection.
