@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1092
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1092
@@ -29,3 +29,9 @@ To designate the air route traffic control center located in Nashua, New Hampshi
 - 2013-03-12 — Introduced in House
 - 2013-03-12 — Introduced in House
 - 2013-03-12 — Referred to the House Committee on Transportation and Infrastructure.
+- 2013-03-13 — Referred to the Subcommittee on Aviation.
+- 2013-05-16 — Committee Consideration and Mark-up Session Held.
+- 2013-05-16 — Ordered to be Reported by Voice Vote.
+- 2013-06-05 — Placed on the House Calendar, Calendar No. 30.
+- 2013-06-05 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-97.
+- 2013-06-05 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-97.
