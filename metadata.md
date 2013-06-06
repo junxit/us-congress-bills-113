@@ -1,7 +1,7 @@
 ---
 measure: H.R. 671
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 671
@@ -58,9 +58,10 @@ Ruth Moore Act of 2013
 - Rep. Latham, Tom [R-IA-3] (L000111)
 - Rep. Takano, Mark [D-CA-41] (T000472)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -83,3 +84,4 @@ Ruth Moore Act of 2013
 - 2013-06-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3029-3030)
 - 2013-06-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3029-3030)
 - 2013-06-04 — The title of the measure was amended. Agreed to without objection.
+- 2013-06-06 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
