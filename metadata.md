@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2217
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2217
@@ -20,9 +20,399 @@ Department of Homeland Security Appropriations Act, 2014
 
 - House — Appropriations Committee
 
+## Recorded votes (18)
+
+- 2013-06-05 — [House 113-1-194](votes/house-113-1-0194.md) — On Agreeing to the Amendment — **Failed** (167–257)
+- 2013-06-05 — [House 113-1-195](votes/house-113-1-0195.md) — On Agreeing to the Amendment — **Failed** (180–245)
+- 2013-06-05 — [House 113-1-196](votes/house-113-1-0196.md) — On Agreeing to the Amendment — **Failed** (156–268)
+- 2013-06-05 — [House 113-1-197](votes/house-113-1-0197.md) — On Agreeing to the Amendment — **Failed** (186–236)
+- 2013-06-05 — [House 113-1-198](votes/house-113-1-0198.md) — On Agreeing to the Amendment — **Failed** (190–232)
+- 2013-06-05 — [House 113-1-199](votes/house-113-1-0199.md) — On Agreeing to the Amendment — **Failed** (80–345)
+- 2013-06-05 — [House 113-1-200](votes/house-113-1-0200.md) — On Agreeing to the Amendment — **Failed** (165–261)
+- 2013-06-05 — [House 113-1-201](votes/house-113-1-0201.md) — On Agreeing to the Amendment — **Failed** (180–247)
+- 2013-06-05 — [House 113-1-202](votes/house-113-1-0202.md) — On Agreeing to the Amendment — **Failed** (50–373)
+- 2013-06-05 — [House 113-1-203](votes/house-113-1-0203.md) — On Agreeing to the Amendment — **Agreed to** (281–146)
+- 2013-06-05 — [House 113-1-204](votes/house-113-1-0204.md) — On Agreeing to the Amendment — **Agreed to** (234–192)
+- 2013-06-05 — [House 113-1-205](votes/house-113-1-0205.md) — On Agreeing to the Amendment — **Failed** (146–280)
+- 2013-06-05 — [House 113-1-206](votes/house-113-1-0206.md) — On Agreeing to the Amendment — **Failed** (148–278)
+- 2013-06-06 — [House 113-1-207](votes/house-113-1-0207.md) — On Agreeing to the Amendment — **Agreed to** (287–136)
+- 2013-06-06 — [House 113-1-208](votes/house-113-1-0208.md) — On Agreeing to the Amendment — **Agreed to** (224–201)
+- 2013-06-06 — [House 113-1-209](votes/house-113-1-0209.md) — On Agreeing to the Amendment — **Failed** (196–225)
+- 2013-06-06 — [House 113-1-210](votes/house-113-1-0210.md) — On Motion to Recommit with Instructions — **Failed** (196–226)
+- 2013-06-06 — [House 113-1-211](votes/house-113-1-0211.md) — On Passage — **Passed** (245–182)
+
 ## Actions
 
 - 2013-05-29 — Introduced in House
 - 2013-05-29 — Placed on the Union Calendar, Calendar No. 64.
 - 2013-05-29 — The House Committee on Appropriations reported an original measure, H. Rept. 113-91, by Mr. Carter.
 - 2013-05-29 — The House Committee on Appropriations reported an original measure, H. Rept. 113-91, by Mr. Carter.
+- 2013-06-03 — Rules Committee Resolution H. Res. 243 Reported to House. Resolution provides for one hour of general debate for each bill.
+- 2013-06-05 — Amendment (A001) offered by Ms. Moore. (consideration: CR H3132-3133, H3159; text: CR H3132)
+- 2013-06-05 — Amendment (A002) offered by Mr. Reichert. (consideration: CR H3133; text: CR H3133)
+- 2013-06-05 — Amendment (A003) offered by Mr. Polis. (consideration: CR H3133-3135, H3159-3160; text: CR H3133)
+- 2013-06-05 — Amendment (A004) offered by Mr. Poe (TX). (consideration: CR H3135; text: CR H3135)
+- 2013-06-05 — Amendment (A005) offered by Mr. Heck (NV). (consideration: CR H3136-3137, H3160-3161; text: CR H3136)
+- 2013-06-05 — Amendment (A006) offered by Mr. Runyan. (consideration: CR H3137; text: CR H3137)
+- 2013-06-05 — Amendment (A007) offered by Mr. Grimm. (consideration: CR H3137-3138; text: CR H3137)
+- 2013-06-05 — Amendment (A008) offered by Mr. Lynch. (consideration: CR H3138-3139; text: CR H3138)
+- 2013-06-05 — Amendment (A009) offered by Mr. Garcia. (consideration: CR H3139-3140, H3161; text: CR H3139)
+- 2013-06-05 — Amendment (A010) offered by Mr. Tipton. (consideration: CR H3140-3141; text: CR H3140)
+- 2013-06-05 — Amendment (A011) offered by Mr. Deutch. (consideration: CR H3142-3145, H3162-3163; text: CR H3142)
+- 2013-06-05 — Amendment (A012) offered by Mr. Broun (GA). (consideration: CR H3146-3147; text: CR H3146)
+- 2013-06-05 — Amendment (A013) offered by Mr. Tipton. (consideration: CR H3147; text: CR H3147)
+- 2013-06-05 — Amendment (A014) offered by Mr. Hudson. (consideration: CR H3147-3149; text: CR H3147)
+- 2013-06-05 — Amendment (A015) offered by Mr. Mica. (consideration: CR H3149; text: CR H3149)
+- 2013-06-05 — Amendment (A016) offered by Mr. Mica. (consideration: CR H3150-3154; text: CR H3150)
+- 2013-06-05 — Amendment (A017) offered by Ms. Brownley (CA). (consideration: CR H3157-3158; text: CR H3157)
+- 2013-06-05 — Amendment (A018) offered by Mr. Swalwell (CA). (consideration: CR H3158-3159; text: CR H3158)
+- 2013-06-05 — Amendment (A019) offered by Mr. Bishop (NY). (consideration: CR H3166-3168, H3199-3200; text: CR H3166)
+- 2013-06-05 — Amendment (A020) offered by Mr. Moran. (consideration: CR H3170-3173, H3200-3201; text: CR H3170)
+- 2013-06-05 — Amendment (A021) offered by Mr. Garrett. (consideration: CR H3178-3179, H3201; text: CR H3178)
+- 2013-06-05 — Amendment (A022) offered by Mr. Pierluisi. (consideration: CR H3179-3180; text: CR H3179)
+- 2013-06-05 — Amendment (A023) offered by Mr. Grimm. (consideration: CR H3180-3182; text: CR H3180)
+- 2013-06-05 — Amendment (A024) offered by Mr. Ryan (OH). (consideration: CR H3182-3184, H3201-3202; text: CR H3182)
+- 2013-06-05 — Amendment (A025) offered by Mr. Cassidy. (consideration: CR H3184-3189, H3202-3203; text: CR H3184)
+- 2013-06-05 — Amendment (A026) offered by Mrs. Bustos. (consideration: CR H3190; text: CR H3190)
+- 2013-06-05 — Amendment (A027) offered by Mr. Meadows. (consideration: CR H3190-3191, H3203; text: CR H3190)
+- 2013-06-05 — Amendment (A029) offered by Mr. Murphy (FL). (consideration: CR H3192-3193; text: CR H3192)
+- 2013-06-05 — Amendment (A030) offered by Mr. Collins (GA). (consideration: CR H3193; text: CR H3193)
+- 2013-06-05 — Amendment (A031) offered by Mr. Thompson (MS). (consideration: CR H3193-3194, H3203-3204; text: CR H3193)
+- 2013-06-05 — Amendment (A032) offered by Mr. Salmon. (consideration: CR H3194-3196; text: CR H3194)
+- 2013-06-05 — Amendment (A033) offered by Mr. Runyan. (consideration: CR H3196-3197, H3204-3205; text: CR H3196)
+- 2013-06-05 — Amendment (A034) offered by Ms. Jackson Lee. (consideration: CR H3197-3198; text: CR H3197)
+- 2013-06-05 — Amendment (A035) offered by Mr. Gingrey (GA). (consideration: CR H3198-3199; text: CR H3198)
+- 2013-06-05 — Amendment (A036) offered by Mr. Flores. (consideration: CR H3205-3206; text: CR H3205)
+- 2013-06-05 — Amendment (A037) offered by Mr. Meehan. (consideration: CR H3206-3207; text: CR H3206)
+- 2013-06-05 — Amendment (A038) offered by Mr. Lujan, Ben Ray (NM). (consideration: CR H3207; text: CR H3207)
+- 2013-06-05 — Amendment (A039) offered by Mr. Engel. (consideration: CR H3208; text: CR H3208)
+- 2013-06-05 — Amendment (A040) offered by Mr. King (IA). (consideration: CR H3208-3212; text: CR H3208)
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment agreed to Committee of the Whole
+- 2013-06-05 — Amendment failed in Committee of the Whole
+- 2013-06-05 — Amendment failed in Committee of the Whole
+- 2013-06-05 — Amendment failed in Committee of the Whole
+- 2013-06-05 — Amendment failed in Committee of the Whole
+- 2013-06-05 — Amendment failed in Committee of the Whole
+- 2013-06-05 — Amendment failed in Committee of the Whole
+- 2013-06-05 — Amendment failed in Committee of the Whole
+- 2013-06-05 — Amendment failed in Committee of the Whole
+- 2013-06-05 — Amendment failed in Committee of the Whole
+- 2013-06-05 — Amendment failed in Committee of the Whole
+- 2013-06-05 — Amendment failed in Committee of the Whole
+- 2013-06-05 — Amendment failed in Committee of the Whole
+- 2013-06-05 — Amendment failed in Committee of the Whole
+- 2013-06-05 — Amendments en bloc (A028) offered by Mr. Grayson. (consideration: CR H3191-3192; text en bloc: CR H3191-3192)
+- 2013-06-05 — By unanimous consent, the Mica amendment was withdrawn. (consideration: CR H3154)
+- 2013-06-05 — Committee of the Whole House on the state of the Union rises leaving H.R. 2217 as unfinished business.
+- 2013-06-05 — Considered as unfinished business. (consideration: CR H3162-3214; text of Title III as reported in House: CR H3165-3166; text of Title IV as reported in House: CR H3166, H3168; text of Title V as reported in House: CR H3168-3170, H3173-3174, H3176)
+- 2013-06-05 — Considered under the provisions of rule H. Res. 243. (consideration: CR H3110-3161; text of measure as reported in House: CR H3131; text of Title I as reported in House: CR H3132, H3135, H3139; text of Title II as reported in House: CR H3139, H3140, H3141-3142, H3146, H3154-3156; text of Title III as reported in House: CR H3156, H3156-3157, H3159)
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Ben Ray Lujan amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Bishop (NY) amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Broun (GA) amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Brownley amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Bustos amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Cassidy amendment No. 1 under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Collins (GA) amendment No. 2 under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Deutch amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Engel amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Flores amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Garcia amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Garrett (NJ) amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Gingrey amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Grayson amendments en bloc under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Grimm amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Grimm amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Heck (NV) amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Hudson amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Jackson Lee amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the King (IA) amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Lynch amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Meadows amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Meehan amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Mica amendment No. 6 under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Mica amendment No. 8 under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Moore amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Moran amendment under the five-minute rule, pending reservation of a point of order. Subsequently, the reservation was removed.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Murphy (FL) amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Pierluisi amendment No. 12 under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Poe (TX) amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Polis amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Reichert amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Runyan amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Runyan amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Ryan (OH) amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Salmon amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Swalwell amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Thompson (MS) amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Tipton amendment under the five-minute rule.
+- 2013-06-05 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Tipton amendment under the five-minute rule.
+- 2013-06-05 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2217.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Brownley (CA) amendment (A017) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Bustos amendment (A026) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Cassidy amendment (A025) Agreed to by recorded vote: 281 - 146 (Roll no. 203).
+- 2013-06-05 — House amendment agreed to: On agreeing to the Collins (GA) amendment (A030) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Engel amendment (A039) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Flores amendment (A036) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Gingrey (GA) amendment (A035) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Grayson amendments (A028) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Grimm amendment (A007) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Grimm amendment (A023) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Hudson amendment (A014) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A034) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Lynch amendment (A008) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Meadows amendment (A027) Agreed to by recorded vote: 234 - 192 (Roll no. 204).
+- 2013-06-05 — House amendment agreed to: On agreeing to the Meehan amendment (A037) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Meehan amendment (A037) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Mica amendment (A015) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Pierluisi amendment (A022) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Poe (TX) amendment (A004) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Reichert amendment (A002) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Runyan amendment (A006) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Salmon amendment (A032) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Swalwell (CA) amendment (A018) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Tipton amendment (A010) Agreed to by voice vote.
+- 2013-06-05 — House amendment agreed to: On agreeing to the Tipton amendment (A013) Agreed to by voice vote.
+- 2013-06-05 — House amendment not agreed to: On agreeing to the Bishop (NY) amendment (A019) Failed by recorded vote: 80 - 345 (Roll no. 199).
+- 2013-06-05 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A012) Failed by voice vote.
+- 2013-06-05 — House amendment not agreed to: On agreeing to the Deutch amendment (A011) Failed by recorded vote: 190 - 232 (Roll no. 198).
+- 2013-06-05 — House amendment not agreed to: On agreeing to the Garcia amendment (A009) Failed by recorded vote: 186 - 236 (Roll no. 197).
+- 2013-06-05 — House amendment not agreed to: On agreeing to the Garrett amendment (A021) Failed by recorded vote: 180 - 247 (Roll no. 201).
+- 2013-06-05 — House amendment not agreed to: On agreeing to the Heck (NV) amendment (A005) Failed by recorded vote: 156 - 268 (Roll no. 196).
+- 2013-06-05 — House amendment not agreed to: On agreeing to the Moore amendment (A001) Failed by recorded vote: 167 - 257 (Roll no. 194).
+- 2013-06-05 — House amendment not agreed to: On agreeing to the Moran amendment (A020) Failed by recorded vote: 165 - 261 (Roll no. 200).
+- 2013-06-05 — House amendment not agreed to: On agreeing to the Murphy (FL) amendment (A029) Failed by voice vote.
+- 2013-06-05 — House amendment not agreed to: On agreeing to the Polis amendment (A003) Failed by recorded vote: 180 - 245 (Roll no. 195).
+- 2013-06-05 — House amendment not agreed to: On agreeing to the Runyan amendment (A033) Failed by recorded vote: 148 - 278 (Roll no. 206).
+- 2013-06-05 — House amendment not agreed to: On agreeing to the Ryan (OH) amendment (A024) Failed by recorded vote: 50 - 373, 1 Present (Roll no. 202).
+- 2013-06-05 — House amendment not agreed to: On agreeing to the Thompson (MS) amendment (A031) Failed by recorded vote: 146 - 280 (Roll no. 205).
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered
+- 2013-06-05 — House amendment offered/reported by: Amendment (A001) offered by Ms. Moore.(consideration: CR H3132-3133, H3159; text: CR H3132)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A002) offered by Mr. Reichert.(consideration: CR H3133; text: CR H3133)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A003) offered by Mr. Polis.(consideration: CR H3133-3135, H3159-3160; text: CR H3133)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A004) offered by Mr. Poe (TX).(consideration: CR H3135; text: CR H3135)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A005) offered by Mr. Heck (NV).(consideration: CR H3136-3137, H3160-3161; text: CR H3136)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A006) offered by Mr. Runyan.(consideration: CR H3137; text: CR H3137)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A007) offered by Mr. Grimm.(consideration: CR H3137-3138; text: CR H3137)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A008) offered by Mr. Lynch.(consideration: CR H3138-3139; text: CR H3138)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A009) offered by Mr. Garcia.(consideration: CR H3139-3140, H3161; text: CR H3139)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A010) offered by Mr. Tipton.(consideration: CR H3140-3141; text: CR H3140)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A011) offered by Mr. Deutch.(consideration: CR H3142-3145, H3162-3163; text: CR H3142)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A012) offered by Mr. Broun (GA).(consideration: CR H3146-3147; text: CR H3146)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A013) offered by Mr. Tipton.(consideration: CR H3147; text: CR H3147)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A014) offered by Mr. Hudson.(consideration: CR H3147-3149; text: CR H3147)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A015) offered by Mr. Mica.(consideration: CR H3149; text: CR H3149)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A016) offered by Mr. Mica.(consideration: CR H3150-3154; text: CR H3150)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A017) offered by Ms. Brownley (CA).(consideration: CR H3157-3158; text: CR H3157)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A018) offered by Mr. Swalwell (CA).(consideration: CR H5158-5159; text: CR H5158)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A019) offered by Mr. Bishop (NY).(consideration: CR H3166-3168, H3199-3200; text: CR H3166)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A020) offered by Mr. Moran.(consideration: CR H3170-3173, H3200-3201; text: CR H3170)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A021) offered by Mr. Garrett.(consideration: CR H3178-3179, H3201; text: CR H3178)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A022) offered by Mr. Pierluisi.(consideration: CR H3179-3180; text: CR H3179)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A023) offered by Mr. Grimm.(consideration: CR H3180-3182; text: CR H3180)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A024) offered by Mr. Ryan (OH).(consideration: CR H3182-3184, H3201-3202; text: CR H3182)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A025) offered by Mr. Cassidy.(consideration: CR H3184-3189, H3202-3203; text: CR H3184)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A026) offered by Mrs. Bustos.(consideration: CR H3190; text: CR H3190)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A027) offered by Mr. Meadows.(consideration: CR H3190-3191, H3203; text: CR H3190)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A029) offered by Mr. Murphy (FL).(consideration: CR H3192-3193; text: CR H3192)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A030) offered by Mr. Collins (GA).(consideration: CR H3193; text: CR H3193)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A031) offered by Mr. Thompson (MS).(consideration: CR H3193-3194, H3203-3204; text: CR H3193)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A032) offered by Mr. Salmon.(consideration: CR H3194-3196; text: CR H3194)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A033) offered by Mr. Runyan.(consideration: CR H3196-3197, H3204-3205; text: CR H3196)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A034) offered by Ms. Jackson Lee.(consideration: CR H3197-3198; text: CR H3197)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A035) offered by Mr. Gingrey (GA).(consideration: CR H3198-3199; text: CR H3198)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A036) offered by Mr. Flores.(consideration: CR H3205-3206; text: CR H3205)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A037) offered by Mr. Meehan.(consideration: CR H3206-3207; text: CR H3206)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A038) offered by Mr. Lujan, Ben Ray (NM).(consideration: CR H3207; text: CR H3207)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A039) offered by Mr. Engel.(consideration: CR H3208; text: CR H3208)
+- 2013-06-05 — House amendment offered/reported by: Amendment (A040) offered by Mr. King (IA).(consideration: CR H3208-3212; text: CR H3208)
+- 2013-06-05 — House amendment offered/reported by: Amendments en bloc (A028) offered by Mr. Grayson.(consideration: CR H3191-3192; text en bloc: CR H3191-3192)
+- 2013-06-05 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 243 and Rule XVIII.
+- 2013-06-05 — Mr. Fincher moved that the Committee rise.
+- 2013-06-05 — Mr. Goodlatte raised a point of order against the content of the measure. Mr. Goodlatte stated that section 563 changes existing law in an appropriations bill. The Chair sustained the point of order.
+- 2013-06-05 — On agreeing to the Bishop (NY) amendment (A019) Failed by recorded vote: 80 - 345 (Roll no. 199).
+- 2013-06-05 — On agreeing to the Broun (GA) amendment (A012) Failed by voice vote.
+- 2013-06-05 — On agreeing to the Brownley (CA) amendment (A017) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Bustos amendment (A026) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Cassidy amendment (A025) Agreed to by recorded vote: 281 - 146 (Roll no. 203).
+- 2013-06-05 — On agreeing to the Collins (GA) amendment (A030) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Deutch amendment (A011) Failed by recorded vote: 190 - 232 (Roll no. 198).
+- 2013-06-05 — On agreeing to the Engel amendment (A039) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Flores amendment (A036) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Garcia amendment (A009) Failed by recorded vote: 186 - 236 (Roll no. 197).
+- 2013-06-05 — On agreeing to the Garrett amendment (A021) Failed by recorded vote: 180 - 247 (Roll no. 201).
+- 2013-06-05 — On agreeing to the Gingrey (GA) amendment (A035) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Grayson amendments (A028) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Grimm amendment (A007) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Grimm amendment (A023) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Heck (NV) amendment (A005) Failed by recorded vote: 156 - 268 (Roll no. 196).
+- 2013-06-05 — On agreeing to the Hudson amendment (A014) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Jackson Lee amendment (A034) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Lynch amendment (A008) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Meadows amendment (A027) Agreed to by recorded vote: 234 - 192 (Roll no. 204).
+- 2013-06-05 — On agreeing to the Meehan amendment (A037) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Mica amendment (A015) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Moore amendment (A001) Failed by recorded vote: 167 - 257 (Roll no. 194).
+- 2013-06-05 — On agreeing to the Moran amendment (A020) Failed by recorded vote: 165 - 261 (Roll no. 200).
+- 2013-06-05 — On agreeing to the Murphy (FL) amendment (A029) Failed by voice vote.
+- 2013-06-05 — On agreeing to the Pierluisi amendment (A022) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Poe (TX) amendment (A004) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Polis amendment (A003) Failed by recorded vote: 180 - 245 (Roll no. 195).
+- 2013-06-05 — On agreeing to the Reichert amendment (A002) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Runyan amendment (A006) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Runyan amendment (A033) Failed by recorded vote: 148 - 278 (Roll no. 206).
+- 2013-06-05 — On agreeing to the Ryan (OH) amendment (A024) Failed by recorded vote: 50 - 373, 1 Present (Roll no. 202).
+- 2013-06-05 — On agreeing to the Salmon amendment (A032) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Swalwell (CA) amendment (A018) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Thompson (MS) amendment (A031) Failed by recorded vote: 146 - 280 (Roll no. 205).
+- 2013-06-05 — On agreeing to the Tipton amendment (A010) Agreed to by voice vote.
+- 2013-06-05 — On agreeing to the Tipton amendment (A013) Agreed to by voice vote.
+- 2013-06-05 — On motion that the Committee rise Agreed to by voice vote.
+- 2013-06-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ben Ray Lujan amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Carter demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-06-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bishop(NY) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Bishop (NY) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cassidy amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Westmoreland demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Deutch amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Deutch demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garcia amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Garcia demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garrett (NJ) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Garrett (NJ) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Heck (NV) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Heck (NV) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Meadows amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Meadows demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moore amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Moore demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moran amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Moran demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Polis demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Runyan amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Runyan demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ryan (OH) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Ryan (OH) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Thompson (MS) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Thompson (MS) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-05 — Roll call votes on amendments in House
+- 2013-06-05 — Roll call votes on amendments in House
+- 2013-06-05 — Roll call votes on amendments in House
+- 2013-06-05 — Roll call votes on amendments in House
+- 2013-06-05 — Roll call votes on amendments in House
+- 2013-06-05 — Roll call votes on amendments in House
+- 2013-06-05 — Roll call votes on amendments in House
+- 2013-06-05 — Roll call votes on amendments in House
+- 2013-06-05 — Roll call votes on amendments in House
+- 2013-06-05 — Roll call votes on amendments in House
+- 2013-06-05 — Roll call votes on amendments in House
+- 2013-06-05 — Roll call votes on amendments in House
+- 2013-06-05 — Roll call votes on amendments in House
+- 2013-06-05 — The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2013-06-05 — The Chair recognized Members for the purpose of conducting colloquys.
+- 2013-06-05 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2013-06-05 — The Speaker designated the Honorable David P. Roe to act as Chairman of the Committee.
+- 2013-06-05 — The resolution provides for consideration of H.R. 2216 and H.R. 2217. The resolution provides for one hour of general debate on each bill. The resolution provides that each bill shall be considered for amendment under the five-minute rule. The resolution provides that the Chair may accord priority in recognition to Members who have pre-printed their amendments in the Congressional Record. The resolution provides one motion to recommit for each bill with or without instructions.
+- 2013-06-05 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2013-06-06 — Amendment (A041) offered by Mr. Ellison. (consideration: CR 6/5/2013 H3212-3213; text: CR 6/5/2013 H3212)
+- 2013-06-06 — Amendment (A042) offered by Mrs. Blackburn. (consideration: CR 6/5/2013 H3213-3214; text: CR 6/5/2013 H3213)
+- 2013-06-06 — Amendment (A043) offered by Mr. Barletta. (consideration: CR 6/5/2013 H3214; text: CR 6/5/2013 H3214)
+- 2013-06-06 — Amendment agreed to Committee of the Whole
+- 2013-06-06 — Amendment agreed to Committee of the Whole
+- 2013-06-06 — Amendment agreed to Committee of the Whole
+- 2013-06-06 — Amendment agreed to Committee of the Whole
+- 2013-06-06 — Amendment failed in Committee of the Whole
+- 2013-06-06 — Committee of the Whole House on the state of the Union rises leaving H.R. 2217 as unfinished business.
+- 2013-06-06 — Committee of the Whole House on the state of the Union rises leaving H.R. 2217 as unfinished business.
+- 2013-06-06 — Considered as unfinished business. (consideration: CR H3220)
+- 2013-06-06 — Considered as unfinished business. (consideration: CR H3221-3225)
+- 2013-06-06 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Barletta amendment under the five-minute rule.
+- 2013-06-06 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Blackburn amendment under the five-minute rule.
+- 2013-06-06 — DEBATE - Pursuant to the provisions of H. Res. 243, the Committee of the Whole proceeded with debate on the Ellison amendment under the five-minute rule.
+- 2013-06-06 — DEBATE - The House prodeeded with 10 minutes of debate on the Murphy (FL) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back forthwith with an amendment to increase funds for the Federal Emergency Management Agency Salaries and Expenses by $7,500,000 and the National Predisaster Mitigation Fund by $2,500,000.
+- 2013-06-06 — House amendment agreed to: On agreeing to the Barletta amendment (A043) Agreed to by voice vote.
+- 2013-06-06 — House amendment agreed to: On agreeing to the Ellison amendment (A041) Agreed to by voice vote.
+- 2013-06-06 — House amendment agreed to: On agreeing to the King (IA) amendment (A040) Agreed to by recorded vote: 224 - 201 (Roll no. 208).(consideration: CR H3222)
+- 2013-06-06 — House amendment agreed to: On agreeing to the Lujan, Ben Ray (NM) amendment (A038) Agreed to by recorded vote: 287 - 136 (Roll no. 207).(consideration: CR H3221)
+- 2013-06-06 — House amendment not agreed to: On agreeing to the Blackburn amendment (A042) Failed by recorded vote: 196 - 225 (Roll no. 209).(consideration: CR H3222-3223)
+- 2013-06-06 — House amendment offered
+- 2013-06-06 — House amendment offered
+- 2013-06-06 — House amendment offered
+- 2013-06-06 — House amendment offered/reported by: Amendment (A041) offered by Mr. Ellison.(consideration: CR 6/5/2013 H3212-3213; text: CR 6/5/2013 H3212)
+- 2013-06-06 — House amendment offered/reported by: Amendment (A042) offered by Mrs. Blackburn.(consideration: CR 6/5/2013 H3213-3214; text: CR 6/5/2013 H3213)
+- 2013-06-06 — House amendment offered/reported by: Amendment (A043) offered by Mr. Barletta.(consideration: CR 6/5/2013 H3214; text: CR 6/5/2013 H3214)
+- 2013-06-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-06-06 — Mr. Carter moved that the Committee rise.
+- 2013-06-06 — Mr. Carter moved that the Committee rise.
+- 2013-06-06 — Mr. Murphy (FL) moved to recommit with instructions to Appropriations. (consideration: CR H3223-3225; text: CR H3223)
+- 2013-06-06 — On agreeing to the Barletta amendment (A043) Agreed to by voice vote.
+- 2013-06-06 — On agreeing to the Blackburn amendment (A042) Failed by recorded vote: 196 - 225 (Roll no. 209). (consideration: CR H3222-3223)
+- 2013-06-06 — On agreeing to the Ellison amendment (A041) Agreed to by voice vote.
+- 2013-06-06 — On agreeing to the King (IA) amendment (A040) Agreed to by recorded vote: 224 - 201 (Roll no. 208). (consideration: CR H3222)
+- 2013-06-06 — On agreeing to the Lujan, Ben Ray (NM) amendment (A038) Agreed to by recorded vote: 287 - 136 (Roll no. 207). (consideration: CR H3221)
+- 2013-06-06 — On motion that the Committee rise Agreed to by voice vote.
+- 2013-06-06 — On motion that the Committee rise Agreed to by voice vote.
+- 2013-06-06 — On motion to recommit with instructions Failed by recorded vote: 196 - 226 (Roll no. 210).
+- 2013-06-06 — On passage Passed by the Yeas and Nays: 245 - 182 (Roll no. 211).
+- 2013-06-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Blackburn demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-06-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. King (IA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-06-06 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 245 - 182 (Roll no. 211).
+- 2013-06-06 — Roll call votes on amendments in House
+- 2013-06-06 — Roll call votes on amendments in House
+- 2013-06-06 — Roll call votes on amendments in House
+- 2013-06-06 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2013-06-06 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2013-06-06 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2013-06-06 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2217.
+- 2013-06-06 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3224)
+- 2013-06-06 — The previous question was ordered pursuant to the rule. (consideration: CR H3223)
+- 2013-06-06 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
