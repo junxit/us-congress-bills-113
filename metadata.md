@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2216
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2216
@@ -16,9 +16,10 @@ Military Construction and Veterans Affairs, and Related Agencies Appropriations 
 
 - Rep. Culberson, John Abney [R-TX-7] (C001048)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (6)
 
@@ -204,3 +205,4 @@ Military Construction and Veterans Affairs, and Related Agencies Appropriations 
 - 2013-06-04 — The previous question was ordered pursuant to the rule. (consideration: CR H3086)
 - 2013-06-04 — The resolution provides for consideration of H.R. 2216 and H.R. 2217. The resolution provides for one hour of general debate on each bill. The resolution provides that each bill shall be considered for amendment under the five-minute rule. The resolution provides that the Chair may accord priority in recognition to Members who have pre-printed their amendments in the Congressional Record. The resolution provides one motion to recommit for each bill with or without instructions.
 - 2013-06-04 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2013-06-06 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
