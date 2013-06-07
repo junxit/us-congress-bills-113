@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2217
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2217
@@ -16,9 +16,10 @@ Department of Homeland Security Appropriations Act, 2014
 
 - Rep. Carter, John R. [R-TX-31] (C001051)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (18)
 
@@ -416,3 +417,4 @@ Department of Homeland Security Appropriations Act, 2014
 - 2013-06-06 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3224)
 - 2013-06-06 — The previous question was ordered pursuant to the rule. (consideration: CR H3223)
 - 2013-06-06 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2013-06-07 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
