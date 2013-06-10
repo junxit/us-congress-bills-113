@@ -1,7 +1,7 @@
 ---
 measure: S. 954
 congress: 113
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 954
@@ -16,9 +16,405 @@ Agriculture Reform, Food, and Jobs Act of 2013
 
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 
+## Cosponsors (377)
+
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Cowan, William M. [D-MA] (C001099)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cowan, William M. [D-MA] (C001099)
+- Sen. Cowan, William M. [D-MA] (C001099)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Cowan, William M. [D-MA] (C001099)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cowan, William M. [D-MA] (C001099)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Cowan, William M. [D-MA] (C001099)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Cowan, William M. [D-MA] (C001099)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Cowan, William M. [D-MA] (C001099)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Cowan, William M. [D-MA] (C001099)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cowan, William M. [D-MA] (C001099)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Cowan, William M. [D-MA] (C001099)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+
 ## Committees (1)
 
 - Senate — Agriculture, Nutrition, and Forestry Committee
+
+## Recorded votes (13)
+
+- 2013-05-21 — [Senate 113-1-129](votes/senate-113-1-0129.md) — On the Amendment — **Amendment Agreed to** (87–8)
+- 2013-05-21 — [Senate 113-1-130](votes/senate-113-1-0130.md) — On the Amendment — **Amendment Rejected** (40–58)
+- 2013-05-21 — [Senate 113-1-131](votes/senate-113-1-0131.md) — On the Amendment — **Amendment Rejected** (26–70)
+- 2013-05-22 — [Senate 113-1-132](votes/senate-113-1-0132.md) — On the Amendment — **Amendment Rejected** (36–60)
+- 2013-05-22 — [Senate 113-1-134](votes/senate-113-1-0134.md) — On the Amendment — **Amendment Rejected** (45–54)
+- 2013-05-23 — [Senate 113-1-135](votes/senate-113-1-0135.md) — On the Amendment — **Amendment Rejected** (27–71)
+- 2013-05-23 — [Senate 113-1-137](votes/senate-113-1-0137.md) — On the Amendment — **Amendment Rejected** (44–52)
+- 2013-05-23 — [Senate 113-1-138](votes/senate-113-1-0138.md) — On the Amendment — **Amendment Agreed to** (94–0)
+- 2013-05-23 — [Senate 113-1-139](votes/senate-113-1-0139.md) — On the Amendment — **Amendment Agreed to** (59–33)
+- 2013-06-03 — [Senate 113-1-140](votes/senate-113-1-0140.md) — On the Amendment — **Amendment Agreed to** (72–18)
+- 2013-06-06 — [Senate 113-1-141](votes/senate-113-1-0141.md) — On the Cloture Motion — **Cloture Motion Agreed to** (75–22)
+- 2013-06-10 — [Senate 113-1-144](votes/senate-113-1-0144.md) — On the Amendment — **Amendment Agreed to** (48–38)
+- 2013-06-10 — [Senate 113-1-145](votes/senate-113-1-0145.md) — On Passage of the Bill — **Bill Passed** (66–27)
 
 ## Actions
 
@@ -26,3 +422,356 @@ Agriculture Reform, Food, and Jobs Act of 2013
 - 2013-05-14 — Committee on Agriculture, Nutrition, and Forestry. Original measure reported to Senate by Senator Stabenow. Without written report.
 - 2013-05-14 — Introduced in Senate
 - 2013-05-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 73.
+- 2013-05-15 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S3519-3525)
+- 2013-05-20 — Amendment SA 919 proposed by Senator Stabenow for Senator Cantwell. (consideration: CR S3592; text: CR S3592) To allow Indian tribes to participate in certain soil and water conservation programs.
+- 2013-05-20 — Measure laid before Senate by unanimous consent. (consideration: CR S3591-3595, S3597)
+- 2013-05-20 — Senate amendment proposed (on the floor): Amendment SA 919 proposed by Senator Stabenow for Senator Cantwell.(consideration: CR S3592; text: CR S3592)
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-20 — Senate amendment submitted
+- 2013-05-21 — Amendment SA 919 agreed to in Senate by Yea-Nay Vote. 87 - 8. Record Vote Number: 129.
+- 2013-05-21 — Amendment SA 931 not agreed to in Senate by Yea-Nay Vote. 26 - 70. Record Vote Number: 131.
+- 2013-05-21 — Amendment SA 931 proposed by Senator Gillibrand. (consideration: CR S3636-3637, S3637, S3647-3648; text: CR S3636-3637) To strike a reduction in the supplemental nutrition assistance program, with an offset that limits crop insurance reimbursements to providers.
+- 2013-05-21 — Amendment SA 945 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S3637)
+- 2013-05-21 — Amendment SA 945 proposed by Senator Stabenow for Senator Sessions. (consideration: CR S3637) To clarify eligibility criteria for agricultural irrigation assistance.
+- 2013-05-21 — Amendment SA 948 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 130.
+- 2013-05-21 — Amendment SA 948 proposed by Senator Roberts. (consideration: CR S3641-3647; text: CR S3641-3642) To improve and extend certain nutrition programs.
+- 2013-05-21 — Amendment SA 998 proposed by Senator Stabenow for Senator Leahy. (consideration: CR S3652) To establish a pilot program for gigabit Internet projects in rural areas.
+- 2013-05-21 — Considered by Senate. (consideration: CR S3634, S3636)
+- 2013-05-21 — Considered by Senate. (consideration: CR S3634-3637, S3637-3648, S3652)
+- 2013-05-21 — Roll call votes on amendments in Senate: Amendment SA 919 agreed to in Senate by Yea-Nay Vote. 87 - 8. Record Vote Number: 129.
+- 2013-05-21 — Roll call votes on amendments in Senate: Amendment SA 931 not agreed to in Senate by Yea-Nay Vote. 26 - 70. Record Vote Number: 131.
+- 2013-05-21 — Roll call votes on amendments in Senate: Amendment SA 948 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 130.
+- 2013-05-21 — Senate amendment agreed to: Amendment SA 919 agreed to in Senate by Yea-Nay Vote. 87 - 8. Record Vote Number: 129.
+- 2013-05-21 — Senate amendment agreed to: Amendment SA 945 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S3637)
+- 2013-05-21 — Senate amendment not agreed to: Amendment SA 931 not agreed to in Senate by Yea-Nay Vote. 26 - 70. Record Vote Number: 131.
+- 2013-05-21 — Senate amendment not agreed to: Amendment SA 948 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 130.
+- 2013-05-21 — Senate amendment proposed (on the floor): Amendment SA 931 proposed by Senator Gillibrand.(consideration: CR S3636-3637, S3637, S3647-3648; text: CR S3636-3637)
+- 2013-05-21 — Senate amendment proposed (on the floor): Amendment SA 945 proposed by Senator Stabenow for Senator Sessions.(consideration: CR S3637)
+- 2013-05-21 — Senate amendment proposed (on the floor): Amendment SA 948 proposed by Senator Roberts.(consideration: CR S3641-3647; text: CR S3641-3642)
+- 2013-05-21 — Senate amendment proposed (on the floor): Amendment SA 998 proposed by Senator Stabenow for Senator Leahy.(consideration: CR S3652)
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-21 — Senate amendment submitted
+- 2013-05-22 — Amendment SA 1056 agreed to in Senate by Unanimous Consent.
+- 2013-05-22 — Amendment SA 1056 proposed by Senator Stabenow for Senator Vitter. (consideration: CR S3716-3717; text: CR S3717) To end food stamp eligibility for convicted violent rapists, pedophiles, and murderers.
+- 2013-05-22 — Amendment SA 925 not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 134.
+- 2013-05-22 — Amendment SA 925 proposed by Senator Stabenow for Senator Shaheen. (consideration: CR S3727-3728, S3734-3736, S3745-3746; text: CR S3727-3728) To reform the Federal sugar program, and for other purposes.
+- 2013-05-22 — Amendment SA 960 not agreed to in Senate by Yea-Nay Vote. 36 - 60. Record Vote Number: 132.
+- 2013-05-22 — Amendment SA 960 proposed by Senator Inhofe. (consideration: CR S3712-3716; text: CR S3713-3714) To repeal the nutrition entitlement programs and establish a nutrition assistance block grant program.
+- 2013-05-22 — Amendment SA 965 proposed by Senator Sanders. (consideration: CR S3749-3752 ; text: CR S3749-3750) To permit States to require that any food, beverage, or other edible product offered for sale have a label on indicating that the food, beverage, or other edible product contains a genetically engineered ingredient.
+- 2013-05-22 — Amendment SA 992 agreed to in Senate by Unanimous Consent.
+- 2013-05-22 — Amendment SA 992 proposed by Senator Stabenow for Senator Franken. (consideration: CR S3716-3717; text; CR S3716-3717) To provide access to grocery delivery for homebound seniors and individuals with disabilities eligible for supplemental nutrition assistance benefits.
+- 2013-05-22 — Considered by Senate. (consideration: CR S3712)
+- 2013-05-22 — Considered by Senate. (consideration: CR S3712-3736, S3745-3752)
+- 2013-05-22 — Roll call votes on amendments in Senate: Amendment SA 925 not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 134.
+- 2013-05-22 — Roll call votes on amendments in Senate: Amendment SA 960 not agreed to in Senate by Yea-Nay Vote. 36 - 60. Record Vote Number: 132.
+- 2013-05-22 — Senate amendment agreed to: Amendment SA 1056 agreed to in Senate by Unanimous Consent.
+- 2013-05-22 — Senate amendment agreed to: Amendment SA 992 agreed to in Senate by Unanimous Consent.
+- 2013-05-22 — Senate amendment not agreed to: Amendment SA 925 not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 134.
+- 2013-05-22 — Senate amendment not agreed to: Amendment SA 960 not agreed to in Senate by Yea-Nay Vote. 36 - 60. Record Vote Number: 132.
+- 2013-05-22 — Senate amendment proposed (on the floor): Amendment SA 1056 proposed by Senator Stabenow for Senator Vitter.(consideration: CR S3716-3717; text: CR S3717)
+- 2013-05-22 — Senate amendment proposed (on the floor): Amendment SA 925 proposed by Senator Stabenow for Senator Shaheen.(consideration: CR S3727-3728, S3734-3736, S3745-3746; text: CR S3727-3728)
+- 2013-05-22 — Senate amendment proposed (on the floor): Amendment SA 960 proposed by Senator Inhofe.(consideration: CR S3712-3716; text: CR S3713-3714)
+- 2013-05-22 — Senate amendment proposed (on the floor): Amendment SA 965 proposed by Senator Sanders.(consideration: CR S3749-3752 ; text: CR S3749-3750)
+- 2013-05-22 — Senate amendment proposed (on the floor): Amendment SA 992 proposed by Senator Stabenow for Senator Franken.(consideration: CR S3716-3717; text; CR S3716-3717)
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-22 — Senate amendment submitted
+- 2013-05-23 — Amendment SA 1031 agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 138.
+- 2013-05-23 — Amendment SA 1031 proposed by Senator Hagan. (consideration: CR S3817, S3819-3820; text: CR S3817) To authorize the use of the insurance fund to reduce fraud and maintain program integrity in the crop insurance program.
+- 2013-05-23 — Amendment SA 923 proposed by Senator Feinstein. (consideration: CR S3805-3809, S3816-3817; text: CR S3805) To prohibit the payment by the Federal Crop Insurance Corporation of any portion of the premium for a policy or plan of insurance for tobacco.
+- 2013-05-23 — Amendment SA 923, under the order of 5/23/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 52. Record Vote Number: 137.
+- 2013-05-23 — Amendment SA 953 agreed to in Senate by Yea-Nay Vote. 59 - 33. Record Vote Number: 139.
+- 2013-05-23 — Amendment SA 953 proposed by Senator Durbin. (consideration: CR S3817-3819, S3820; text: CR S3819) To limit the amount of premium subsidy provided by the Federal Crop Insurance Corporation on behalf of any person or legal entity with an average adjusted gross income in excess of $750,000, with a delayed application of the limitation until completion of a study on the effects of the limitation.
+- 2013-05-23 — Amendment SA 965, under the order of 5/22/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 27 - 71. Record Vote Number: 135.
+- 2013-05-23 — Considered by Senate. (consideration: CR S3797)
+- 2013-05-23 — Considered by Senate. (consideration: CR S3797)
+- 2013-05-23 — Considered by Senate. (consideration: CR S3797-3809, S3816-3826)
+- 2013-05-23 — Roll call votes on amendments in Senate: Amendment SA 1031 agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 138.
+- 2013-05-23 — Roll call votes on amendments in Senate: Amendment SA 923, under the order of 5/23/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 52. Record Vote Number: 137.
+- 2013-05-23 — Roll call votes on amendments in Senate: Amendment SA 953 agreed to in Senate by Yea-Nay Vote. 59 - 33. Record Vote Number: 139.
+- 2013-05-23 — Roll call votes on amendments in Senate: Amendment SA 965, under the order of 5/22/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 27 - 71. Record Vote Number: 135.
+- 2013-05-23 — Senate amendment agreed to: Amendment SA 1031 agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 138.
+- 2013-05-23 — Senate amendment agreed to: Amendment SA 953 agreed to in Senate by Yea-Nay Vote. 59 - 33. Record Vote Number: 139.
+- 2013-05-23 — Senate amendment not agreed to: Amendment SA 923, under the order of 5/23/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 52. Record Vote Number: 137.
+- 2013-05-23 — Senate amendment not agreed to: Amendment SA 965, under the order of 5/22/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 27 - 71. Record Vote Number: 135.
+- 2013-05-23 — Senate amendment proposed (on the floor): Amendment SA 1031 proposed by Senator Hagan.(consideration: CR S3817, S3819-3820; text: CR S3817)
+- 2013-05-23 — Senate amendment proposed (on the floor): Amendment SA 923 proposed by Senator Feinstein.(consideration: CR S3805-3809, S3816-3817; text: CR S3805)
+- 2013-05-23 — Senate amendment proposed (on the floor): Amendment SA 953 proposed by Senator Durbin.(consideration: CR S3817-3819, S3820; text: CR S3819)
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-05-23 — Senate amendment submitted
+- 2013-06-03 — Amendment SA 1079 agreed to in Senate by Voice Vote.
+- 2013-06-03 — Amendment SA 1079 proposed by Senator Stabenow for Senator Coons. (consideration: CR S3901; text: CR S3901) To modify a provision relating to funding of local and regional food aid procurement projects.
+- 2013-06-03 — Amendment SA 987 agreed to in Senate by Yea-Nay Vote. 72 - 18. Record Vote Number: 140.
+- 2013-06-03 — Amendment SA 987 proposed by Senator Moran. (consideration: CR S3900-3901; text: CR S3900) To require the Federal Crop Insurance Corporation to carry out research and development regarding a crop insurance program for alfalfa.
+- 2013-06-03 — Considered by Senate. (consideration: CR S3895)
+- 2013-06-03 — Considered by Senate. (consideration: CR S3895-3902)
+- 2013-06-03 — Roll call votes on amendments in Senate: Amendment SA 987 agreed to in Senate by Yea-Nay Vote. 72 - 18. Record Vote Number: 140.
+- 2013-06-03 — Senate amendment agreed to: Amendment SA 1079 agreed to in Senate by Voice Vote.
+- 2013-06-03 — Senate amendment agreed to: Amendment SA 987 agreed to in Senate by Yea-Nay Vote. 72 - 18. Record Vote Number: 140.
+- 2013-06-03 — Senate amendment proposed (on the floor): Amendment SA 1079 proposed by Senator Stabenow for Senator Coons.(consideration: CR S3901; text: CR S3901)
+- 2013-06-03 — Senate amendment proposed (on the floor): Amendment SA 987 proposed by Senator Moran.(consideration: CR S3900-3901; text: CR S3900)
+- 2013-06-03 — Senate amendment submitted
+- 2013-06-03 — Senate amendment submitted
+- 2013-06-03 — Senate amendment submitted
+- 2013-06-03 — Senate amendment submitted
+- 2013-06-03 — Senate amendment submitted
+- 2013-06-03 — Senate amendment submitted
+- 2013-06-03 — Senate amendment submitted
+- 2013-06-03 — Senate amendment submitted
+- 2013-06-03 — Senate amendment submitted
+- 2013-06-03 — Senate amendment submitted
+- 2013-06-03 — Senate amendment submitted
+- 2013-06-04 — Cloture motion on the measure presented in Senate. (consideration: CR S3949; text: CR S3949)
+- 2013-06-04 — Considered by Senate. (consideration: CR S3923-3926, S3927-3949)
+- 2013-06-04 — Considered by Senate. (consideration: CR S3924)
+- 2013-06-04 — Senate amendment submitted
+- 2013-06-04 — Senate amendment submitted
+- 2013-06-04 — Senate amendment submitted
+- 2013-06-04 — Senate amendment submitted
+- 2013-06-04 — Senate amendment submitted
+- 2013-06-04 — Senate amendment submitted
+- 2013-06-04 — Senate amendment submitted
+- 2013-06-04 — Senate amendment submitted
+- 2013-06-05 — Senate amendment submitted
+- 2013-06-05 — Senate amendment submitted
+- 2013-06-05 — Senate amendment submitted
+- 2013-06-05 — Senate amendment submitted
+- 2013-06-05 — Senate amendment submitted
+- 2013-06-05 — Senate amendment submitted
+- 2013-06-05 — Senate amendment submitted
+- 2013-06-05 — Senate amendment submitted
+- 2013-06-05 — Senate amendment submitted
+- 2013-06-05 — Senate amendment submitted
+- 2013-06-06 — Cloture invoked in Senate by Yea-Nay Vote. 75 - 22. Record Vote Number: 141. (consideration: CR S3976; text: CR S3976)
+- 2013-06-06 — Considered by Senate. (consideration: CR S3971)
+- 2013-06-06 — Considered by Senate. (consideration: CR S3971-3976)
+- 2013-06-06 — Senate amendment submitted
+- 2013-06-06 — Senate amendment submitted
+- 2013-06-06 — Senate amendment submitted
+- 2013-06-06 — Senate amendment submitted
+- 2013-06-06 — Senate amendment submitted
+- 2013-06-06 — Senate amendment submitted
+- 2013-06-06 — Senate amendment submitted
+- 2013-06-10 — Amendment SA 998 agreed to in Senate by Yea-Nay Vote. 48 - 38. Record Vote Number: 144.
+- 2013-06-10 — Considered by Senate. (consideration: CR S4043, S4051)
+- 2013-06-10 — Considered by Senate. (consideration: CR S4043-4053)
+- 2013-06-10 — Passed Senate with amendments by Yea-Nay Vote. 66 - 27. Record Vote Number: 145. (text: CR 6/11/2013 S4232-4349)
+- 2013-06-10 — Passed/agreed to in Senate: Passed Senate with amendments by Yea-Nay Vote. 66 - 27. Record Vote Number: 145.(text: CR 6/11/2013 S4232-4349)
+- 2013-06-10 — Roll call votes on amendments in Senate: Amendment SA 998 agreed to in Senate by Yea-Nay Vote. 48 - 38. Record Vote Number: 144.
+- 2013-06-10 — Senate amendment agreed to: Amendment SA 998 agreed to in Senate by Yea-Nay Vote. 48 - 38. Record Vote Number: 144.

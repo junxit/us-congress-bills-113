@@ -1,7 +1,7 @@
 ---
 measure: S. 954
 congress: 113
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-908 amendatory instructions. 287 executed, 621 stated and not applied.
+925 amendatory instructions. 270 executed, 655 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -555,6 +555,33 @@ to guess them.
 | Removed | `2012` |
 | Inserted | `2018` |
 
+### 16 U.S.C. § 2004
+
+> in subsection (a)(4), by striking “and State” and inserting “, State, and tribal”;
+
+| | |
+|---|---|
+| Removed | `and State` |
+| Inserted | `, State, and tribal` |
+
+### 16 U.S.C. § 2004
+
+> by striking “State soil” and inserting “State and tribal soil”; and
+
+| | |
+|---|---|
+| Removed | `State soil` |
+| Inserted | `State and tribal soil` |
+
+### 16 U.S.C. § 2004
+
+> by striking “local” and inserting “local, tribal,”.
+
+| | |
+|---|---|
+| Removed | `local` |
+| Inserted | `local, tribal,` |
+
 ### 16 U.S.C. § 3841
 
 > in subsection (d) (as redesignated by paragraph (1)), by striking “subsection (b)” and inserting “subsection (c)”.
@@ -672,33 +699,6 @@ to guess them.
 | Removed | `new` |
 | Inserted | `and enhancing` |
 
-### 7 U.S.C. § 1722
-
-> in paragraph (3), by striking “2011” and inserting “2018”.
-
-| | |
-|---|---|
-| Removed | `2011` |
-| Inserted | `2018` |
-
-### 7 U.S.C. § 1724
-
-> in paragraph (1), by striking “2012” and inserting “2018”; and
-
-| | |
-|---|---|
-| Removed | `2012` |
-| Inserted | `2018` |
-
-### 7 U.S.C. § 1724
-
-> in paragraph (2), by striking “2012” and inserting “2018”.
-
-| | |
-|---|---|
-| Removed | `2012` |
-| Inserted | `2018` |
-
 ### 7 U.S.C. § 1725
 
 > Section 205(f) of the Food for Peace Act (7 U.S.C. 1725(f)) is amended by striking “2012” and inserting “2018”.
@@ -707,24 +707,6 @@ to guess them.
 |---|---|
 | Removed | `2012` |
 | Inserted | `2018` |
-
-### 7 U.S.C. § 1726a
-
-> by striking “2012” and inserting “2018”; and
-
-| | |
-|---|---|
-| Removed | `2012` |
-| Inserted | `2018` |
-
-### 7 U.S.C. § 1726a
-
-> by striking “during fiscal year 2009” and inserting “during the period of fiscal years 2014 through 2018”.
-
-| | |
-|---|---|
-| Removed | `during fiscal year 2009` |
-| Inserted | `during the period of fiscal years 2014 through 2018` |
 
 ### 7 U.S.C. § 1726b
 
@@ -753,15 +735,6 @@ to guess them.
 | Removed | `for each such fiscal year not more than $10,000,000 of such funds` |
 | Inserted | `for each of fiscal years 2001 through 2012 not more than $10,000,000 of such funds and for each of fiscal years 2014 through 2018 not more than $15,000,000 of such funds` |
 
-### 7 U.S.C. § 1736b
-
-> Section 408 of the Food for Peace Act (7 U.S.C. 1736b) is amended by striking “2012” and inserting “2018”.
-
-| | |
-|---|---|
-| Removed | `2012` |
-| Inserted | `2018` |
-
 ### 7 U.S.C. § 1736g
 
 > by striking “(a) In general.—To the maximum” and inserting “To the maximum”; and
@@ -774,33 +747,6 @@ to guess them.
 ### 7 U.S.C. § 1736g-2
 
 > Section 415(c) of the Food for Peace Act (7 U.S.C. 1736g–2(c)) is amended by striking “2012” and inserting “2018”.
-
-| | |
-|---|---|
-| Removed | `2012` |
-| Inserted | `2018` |
-
-### 7 U.S.C. § 1737
-
-> by striking “0.5 percent” and inserting “0.6 percent”; and
-
-| | |
-|---|---|
-| Removed | `0.5 percent` |
-| Inserted | `0.6 percent` |
-
-### 7 U.S.C. § 1737
-
-> by striking “2012” and inserting “2018”; and
-
-| | |
-|---|---|
-| Removed | `2012` |
-| Inserted | `2018` |
-
-### 7 U.S.C. § 1737
-
-> in subsection (e)(1), by striking “2012” and inserting “2018”.
 
 | | |
 |---|---|
@@ -1140,7 +1086,7 @@ to guess them.
 | Removed | `civil money penalties` |
 | Inserted | `civil penalties` |
 
-### 7 U.S.C. § 1786
+### 42 U.S.C. § 1786
 
 > in subsection (g)(1), by striking “(7 U.S.C. 1786)” and inserting “(42 U.S.C. 1786)”.
 
@@ -1248,7 +1194,7 @@ to guess them.
 | Removed | `2012` |
 | Inserted | `2018` |
 
-### 7 U.S.C. § 2013
+### 7 U.S.C. § 612c
 
 > in paragraph (3)(D), by striking “the Committee on Education and Labor” and inserting “the Committee on Education and the Workforce”;
 
@@ -1257,7 +1203,7 @@ to guess them.
 | Removed | `the Committee on Education and Labor` |
 | Inserted | `the Committee on Education and the Workforce` |
 
-### 7 U.S.C. § 601
+### 7 U.S.C. § 612c
 
 > in subsection (b)(1)(A)(ii), by striking “section 32 of the Agricultural Adjustment Act (7 U.S.C. 601 et seq.)” and inserting “section 32 of the Act of August 24, 1935 (7 U.S.C. 612c)”;
 
@@ -1293,7 +1239,7 @@ to guess them.
 | Removed | `2012` |
 | Inserted | `2018` |
 
-### 42 U.S.C. § 1771
+### 42 U.S.C. § 1758
 
 > by striking “paragraph (1) of the policy described in that paragraph and paragraph (3)” and inserting “subparagraph (A) of the policy described in that subparagraph and subparagraph (C)”; and
 
@@ -1311,7 +1257,7 @@ to guess them.
 | Removed | `2015` |
 | Inserted | `2018` |
 
-### 25 U.S.C. § 488
+### 25 U.S.C. § 2204
 
 > in subsection (a), in the first sentence, by striking “loans from” and all that follows through “1929)” and inserting “direct loans in a manner consistent with direct loans pursuant to chapter 4 of subtitle A of the Consolidated Farm and Rural Development Act”;
 
@@ -1338,7 +1284,7 @@ to guess them.
 | Removed | `section 355(e)(1)(D)(ii) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1985(e)(1)(D)(ii))` |
 | Inserted | `section 3409(c)(1)(A) of the Consolidated Farm and Rural Development Act)` |
 
-### 7 U.S.C. § 2008f
+### 7 U.S.C. § 1508
 
 > in subsection (b)(7)(A), by striking “section 371 of the Consolidated Farm and Rural Development Act (7 U.S.C. 2008f)” and inserting “section 3424 of the Consolidated Farm and Rural Development Act”; and
 
@@ -1347,7 +1293,7 @@ to guess them.
 | Removed | `section 371 of the Consolidated Farm and Rural Development Act (7 U.S.C. 2008f)` |
 | Inserted | `section 3424 of the Consolidated Farm and Rural Development Act` |
 
-### 7 U.S.C. § 1961
+### 7 U.S.C. § 1508
 
 > in subsection (n)(2), by striking “subtitle C of the Consolidated Farm and Rural Development Act (7 U.S.C. 1961 et seq.)” and inserting “chapter 3 of subtitle A of the Consolidated Farm and Rural Development Act”.
 
@@ -1356,7 +1302,7 @@ to guess them.
 | Removed | `subtitle C of the Consolidated Farm and Rural Development Act (7 U.S.C. 1961 et seq.)` |
 | Inserted | `chapter 3 of subtitle A of the Consolidated Farm and Rural Development Act` |
 
-### 7 U.S.C. § 1991
+### 7 U.S.C. § 1632a
 
 > in paragraph (1), by striking “section 343(a) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1991(a))” and inserting “section 3002 of the Consolidated Farm and Rural Development Act”; and
 
@@ -1365,7 +1311,7 @@ to guess them.
 | Removed | `section 343(a) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1991(a))` |
 | Inserted | `section 3002 of the Consolidated Farm and Rural Development Act` |
 
-### 7 U.S.C. § 2003
+### 7 U.S.C. § 1632a
 
 > in paragraph (4), by striking “section 355(e) of the Consolidated Farm and Rural Development Act (7 U.S.C. 2003(e))” and inserting “section 3002 of the Consolidated Farm and Rural Development Act”.
 
@@ -1536,7 +1482,7 @@ to guess them.
 | Removed | `section 343(a) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1991(a))` |
 | Inserted | `section 3002 of the Consolidated Farm and Rural Development Act` |
 
-### 25 U.S.C. § 492
+### 7 U.S.C. § 917
 
 > Section 5 of Public Law 91–229 (25 U.S.C. 492) is amended by striking “section 307(a)(3)(B) of the Consolidated Farmers Home Administration Act of 1961, as amended, and to the provisions of subtitle D of that Act except sections 340, 341, 342, and 343” and inserting “3105(b)(2) of the Consolidated Farm and Rural Development Act”.
 
@@ -1545,7 +1491,7 @@ to guess them.
 | Removed | `section 307(a)(3)(B) of the Consolidated Farmers Home Administration Act of 1961, as amended, and to the provisions of subtitle D of that Act except sections 340, 341, 342, and 343` |
 | Inserted | `3105(b)(2) of the Consolidated Farm and Rural Development Act` |
 
-### 25 U.S.C. § 493
+### 7 U.S.C. § 1983b
 
 > Section 6(c) of Public Law 91–229 (25 U.S.C. 493(c)) is amended by striking “section 333B of the Consolidated Farm and Rural Development Act (7 U.S.C. 1983b)” and inserting “subtitle H of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6991 et seq.)”.
 
@@ -1554,7 +1500,7 @@ to guess them.
 | Removed | `section 333B of the Consolidated Farm and Rural Development Act (7 U.S.C. 1983b)` |
 | Inserted | `subtitle H of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6991 et seq.)` |
 
-### 26 U.S.C. § 181
+### 7 U.S.C. § 917
 
 > Section 181(a)(2)(B)(ii) of the Internal Revenue Code of 1986 is amended by striking “section 2009aa–1 of title 7, United States Code” and inserting “section 3801 of the Consolidated Farm and Rural Development Act”.
 
@@ -1709,7 +1655,7 @@ to guess them.
 
 ### 7 U.S.C. § 950bb
 
-> in the subparagraph heading, by striking “3” and inserting “2”; and
+> in the subparagraph heading, by striking “3” and inserting “2”;
 
 | | |
 |---|---|
@@ -1815,24 +1761,6 @@ to guess them.
 | Removed | `2012` |
 | Inserted | `2018` |
 
-### 7 U.S.C. § 950aaa-5
-
-> Section 2335A of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 950aaa–5) is amended by striking “2012” and inserting “2018”.
-
-| | |
-|---|---|
-| Removed | `2012` |
-| Inserted | `2018` |
-
-### 7 U.S.C. § 950aaa
-
-> Section 1(b) of Public Law 102–551 (7 U.S.C. 950aaa note) is amended by striking “2012” and inserting “2018”.
-
-| | |
-|---|---|
-| Removed | `2012` |
-| Inserted | `2018` |
-
 ### 42 U.S.C. § 1490
 
 > by striking “1990 or 2000 decennial census shall continue to be so classified until the receipt of data from the decennial census in the year 2010” and inserting “1990, 2000, or 2010 decennial census, and any area deemed to be a rural area for purposes of this title under any other provision of law at any time during the period beginning January 1, 2000, and ending December 31, 2010, shall continue to be so classified until the receipt of data from the decennial census in the year 2020”; and
@@ -1877,24 +1805,6 @@ to guess them.
 |---|---|
 | Removed | `subsection (d)` |
 | Inserted | `subsection (e)` |
-
-### 7 U.S.C. § 3155
-
-> by striking “Secretary may” and inserting “Secretary shall, acting through the Office of the Chief Economist,”; and
-
-| | |
-|---|---|
-| Removed | `Secretary may` |
-| Inserted | `Secretary shall, acting through the Office of the Chief Economist,` |
-
-### 7 U.S.C. § 3155
-
-> in subsection (b), by striking “other research institutions” and all that follows through “shall be eligible” and inserting “other public research institutions and organizations shall be eligible”;
-
-| | |
-|---|---|
-| Removed | `other research institutions” and all that follows through “shall be eligible` |
-| Inserted | `other public research institutions and organizations shall be eligible` |
 
 ### 7 U.S.C. § 3156
 
@@ -2031,24 +1941,6 @@ to guess them.
 | Removed | `and marketing` |
 | Inserted | `, marketing, and food safety` |
 
-### 7 U.S.C. § 5933
-
-> by striking “is” and inserting “are”; and
-
-| | |
-|---|---|
-| Removed | `is` |
-| Inserted | `are` |
-
-### 7 U.S.C. § 3125b
-
-> Section 2381(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 3125b(e)) is amended by striking “2012” and inserting “2018”.
-
-| | |
-|---|---|
-| Removed | `2012` |
-| Inserted | `2018` |
-
 ### 7 U.S.C. § 7626
 
 > Section 406(f) of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7626(f)) is amended by striking “2012” and inserting “2018”.
@@ -2058,15 +1950,6 @@ to guess them.
 | Removed | `2012` |
 | Inserted | `2018` |
 
-### 7 U.S.C. § 7628
-
-> Section 408(e) of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7628(e)) is amended by striking “such sums as may be necessary for each of fiscal years 1999 through 2012” and inserting “$10,000,000 for each of fiscal years 2014 through 2018”.
-
-| | |
-|---|---|
-| Removed | `such sums as may be necessary for each of fiscal years 1999 through 2012` |
-| Inserted | `$10,000,000 for each of fiscal years 2014 through 2018` |
-
 ### 7 U.S.C. § 3123a
 
 > in paragraph (3), by striking “non-Federal” and all that follows through the end of the paragraph and inserting “other sources in an amount that is at least equal to the amount provided by a grant received under this section.”; and
@@ -2075,15 +1958,6 @@ to guess them.
 |---|---|
 | Removed | `non-Federal` |
 | Inserted | `other sources in an amount that is at least equal to the amount provided by a grant received under this section.` |
-
-### 7 U.S.C. § 7642
-
-> Section 604(e) of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7642(e)) is amended by striking “2012” and inserting “2018”.
-
-| | |
-|---|---|
-| Removed | `2012` |
-| Inserted | `2018` |
 
 ### 7 U.S.C. § 343
 
@@ -2237,24 +2111,6 @@ to guess them.
 |---|---|
 | Removed | `subsection (d)(1)` |
 | Inserted | `subsection (d)` |
-
-### 16 U.S.C. § 2101a
-
-> Section 2A(f)(1) of the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2101a(f)(1)) is amended by striking “2012” and inserting “2018”.
-
-| | |
-|---|---|
-| Removed | `2012` |
-| Inserted | `2018` |
-
-### 7 U.S.C. § 6601
-
-> Section 2371(d)(2) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 6601(d)(2)) is amended by striking “2012” and inserting “2018”.
-
-| | |
-|---|---|
-| Removed | `2012` |
-| Inserted | `2018` |
 
 ### 7 U.S.C. § 6704
 
@@ -2553,15 +2409,6 @@ to guess them.
 | Removed | `$1,875` |
 | Inserted | `$1,950` |
 
-### 40 U.S.C. § 15751
-
-> in subsection (a), by striking “2012” and inserting “2018”; and
-
-| | |
-|---|---|
-| Removed | `2012` |
-| Inserted | `2018` |
-
 ### 7 U.S.C. § 2156
 
 > in the heading, by striking “Sponsoring or Exhibiting an Animal in” and inserting “Sponsoring or Exhibiting an Animal in, Attending, or Causing a Minor To Attend”;
@@ -2589,7 +2436,7 @@ to guess them.
 | Removed | `paragraph (2)` |
 | Inserted | `paragraph (3)` |
 
-### 18 U.S.C. § 49
+### 7 U.S.C. § 2156
 
 > by striking “Whoever” and inserting “(a) In general.—Whoever”;
 
@@ -2598,7 +2445,7 @@ to guess them.
 | Removed | `Whoever` |
 | Inserted | `(a) In general.—Whoever` |
 
-### 18 U.S.C. § 49
+### 7 U.S.C. § 2156
 
 > in subsection (a), as designated by paragraph (1) of this section, by striking “subsection (a),” and inserting “subsection (a)(1),”; and
 
@@ -2644,7 +2491,7 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 1308-1` | insert | by inserting “under usual and customary terms” after “services”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 1308-1` | strike | by striking subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1308-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 7333` | replace | Section 1001D(b)) of the Food Security Act of 1985 (7 U.S.C. 1308–3a(b)) is amended by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 1001D(b)) of the Food Security Act of 1985 (7 U.S.C. 1308–3a(b)) is amended by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
 | `7 U.S.C. § 6992` | replace | Section 272 of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6992) is amended by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 7014` | replace | by striking the semicolon at the end of each of paragraphs (1) through (5) and inserting a period; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 7014` | replace | in paragraph (6)(C), by striking “; or” at the end and inserting a period; and | the bill quotes the text struck but describes what replaces it |
@@ -2682,7 +2529,7 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 3839aa` | replace | in paragraph (4), by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 3839aa` | strike | by striking paragraph (5). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3839aa-1` | redesignate | by striking paragraph (2) and redesignating paragraphs (3) through (6) as paragraphs (2) through (5), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 6501` | redesignate | in paragraph (2) (as so redesignated), by inserting “established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.)” after “national organic program”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 3839aa-1` | redesignate | in paragraph (2) (as so redesignated), by inserting “established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.)” after “national organic program”. | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 3839aa-2` | replace | in subsection (b), by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2279` | replace | in paragraph (3), by striking subparagraphs (A) through (G) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2279` | insert | in subparagraph (A) in the matter preceding clause (i), by inserting “, veteran farmer or rancher (as defined in section 2501(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279(e))),” before “or a beginning f… | the bill quotes the text inserted but describes where it goes |
@@ -2704,6 +2551,12 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 2203` | replace | by striking “Sec. 402.—The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 2203` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 2211` | amend | Section 2507 of the Food, Security, and Rural Investment Act of 2002 (43 U.S.C. 2211 note; Public Law 107–171) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2003` | insert | in subsection (b), by inserting “and tribal” after “State” each place it appears; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 2003` | insert | in subsection (c)(2), by inserting “, tribal,” after “State”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 2004` | insert | in subsection (b), by inserting “, tribal” after “State” each place it appears; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 2005` | insert | by inserting “, tribal” after “State” each place it appears; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 2005` | insert | by inserting “, tribal,” after “private”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 2008` | insert | Section 9 of the Soil and Water Resources Conservation Act of 1977 (16 U.S.C. 2008) is amended by inserting “, tribal” after “State”. | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 3841` | replace | Section 1241 of the Food Security Act of 1985 (16 U.S.C. 3841) is amended by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3841` | redesignate | by redesignating subsections (b) through (h) as subsections (c) through (i), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3841` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2712,17 +2565,17 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 2279` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3841` | redesignate | by striking paragraphs (2) and (3) and redesignating paragraphs (4), (5), and (6) as paragraphs (2), (3), and (4), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3841` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2279` | add-at-end | in subsection (a)(2), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 3844` | add-at-end | in subsection (a)(2), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3844` | insert | in subsection (d), by inserting “, H, and I” before the period at the end; | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 3844` | insert | in subsection (h)(2), by inserting “including, to the extent practicable, practices that maximize benefits for honey bees” after “pollinators”; and | the bill quotes the text inserted but describes where it goes |
-| `7 U.S.C. § 1421` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 3844` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3841` | add-at-end | Subtitle E of title XII of the Food Security Act of 1985 (16 U.S.C. 3841 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3811` | strike | in subparagraph (C), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 3811` | amend | in subparagraph (D), by adding “or” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1501` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3812` | replace | in the first sentence, by striking “(2) If,” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 3812` | replace | in the second sentence, by striking “In carrying” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 8701` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 3812` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1501` | add-at-end | in subsection (b), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3821` | redesignate | by redesignating subsections (c), (d), and (e) as subsections (d), (e), and (f), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1501` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2739,15 +2592,24 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 3839bb-4` | repeal | Section 1240Q of the Food Security Act of 1985 (16 U.S.C. 3839bb–4) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3843` | repeal | Section 1243 of the Food Security Act of 1985 (16 U.S.C. 3843) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3839` | repeal | Chapter 3 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3839 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 1722` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 1726a` | redesignate | by striking paragraph (4) and redesignating paragraphs (5) and (6) as paragraphs (4) and (5), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking “2011” and inserting “2018”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “2012” and inserting “2018”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “2012” and inserting “2018”. | the bill names no machine-readable US Code section |
+| — | redesignate | by striking paragraph (4) and redesignating paragraphs (5) and (6) as paragraphs (4) and (5), respectively; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “2012” and inserting “2018”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “during fiscal year 2009” and inserting “during the period of fiscal years 2014 through 2018”. | the bill names no machine-readable US Code section |
 | `7 U.S.C. § 1733` | add-at-end | Section 403 of the Food for Peace Act (7 U.S.C. 1733) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 1736` | redesignate | by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 1736` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | redesignate | by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
 | `7 U.S.C. § 1736o-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 408 of the Food for Peace Act (7 U.S.C. 1736b) is amended by striking “2012” and inserting “2018”. | the bill names no machine-readable US Code section |
 | `7 U.S.C. § 1736f` | replace | Section 412 of the Food for Peace Act (7 U.S.C. 1736f) is amended by striking subsection (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1736g` | strike | by striking subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1736g-2` | strike | Section 415(a)(2)(B) of the Food for Peace Act (7 U.S.C. 1736g–2(a)(2)(B)) is amended by striking “, using recommendations” and all that follows through “quality enhancements”. | the bill quotes the text struck but describes what replaces it |
+| — | replace | by striking “0.5 percent” and inserting “0.6 percent”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “2012” and inserting “2018”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e)(1), by striking “2012” and inserting “2018”. | the bill names no machine-readable US Code section |
 | `7 U.S.C. § 5641` | replace | Section 211 of the Agricultural Trade Act of 1978 (7 U.S.C. 5641) is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1736o` | strike | Subsection (f) of the Food for Progress Act of 1985 (7 U.S.C. 1736o) is amended by striking paragraph (6). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1736o` | add-at-end | The Food for Progress Act of 1985 (7 U.S.C. 1736o) is amended in subsection (l) by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2764,11 +2626,14 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 1726c` | redesignate | by redesignating clause (ii) as subparagraph (B) and indenting appropriately; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1726c` | strike | by striking paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1736o-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2012` | strike | in paragraph (3), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 2012` | replace | in paragraph (4), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 2012` | insert | by inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2026` | insert | Section 17 of the Food and Nutrition Act of 2008 (7 U.S.C. 2026) is amended by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2013` | redesignate | by redesignating subparagraph (F) as subparagraph (G); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2013` | insert | by inserting after subparagraph (E) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2014` | insert | in clause (i), by inserting “, subject to clause (iv)” after “Secretary”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 8621` | replace | in clause (iv), by striking subclause (I) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2014` | replace | in clause (iv), by striking subclause (I) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8624` | insert | Section 2605(f)(2)(A) of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8624(f)(2)(A)) is amended by inserting before the semicolon at the end “, except that, for purposes of the supplemental nutrition assistance program es… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2015` | replace | Section 6(e)(3)(B) of Food and Nutrition Act of 2008 (7 U.S.C. 2015(e)(3)(B)) is amended by striking “section” and inserting the following: “section, subject to the condition that the course or program of study— | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 2015` | add-at-end | Section 6 of the Food and Nutrition Act of 2008 (7 U.S.C. 2015) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2779,14 +2644,14 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 2016` | replace | by striking the paragraph heading and inserting “Replacement of cards.—”; | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 2016` | replace | by striking “A State” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 2016` | amend | by adding after subparagraph (A) (as so designated by paragraph (2)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2016` | add-at-end | Section 7(h) of the Food and Nutrition Act of 2008 (7 U.S.C. 2016(h)) (as amended by section 4018(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2016` | amend | Section 7(h) of the Food and Nutrition Act of 2008 (7 U.S.C. 2016(h)) (as amended by section 4018(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2016` | add-at-end | Section 7 of the Food and Nutrition Act of 2008 (7 U.S.C. 2016) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2019` | insert | Section 10 of the Food and Nutrition Act of 2008 (7 U.S.C. 2019) is amended in the first sentence by inserting “retail food stores authorized to accept and redeem benefits through on-line transactions shall be authorized to accept benefi… | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 2012` | redesignate | Subsection (o)(4) of section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012) (as redesignated by section 4018(a)(4)) is amended by inserting “, or agricultural producers who market agricultural products directly to consumers” aft… | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 2020` | strike | in paragraph (22), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 2020` | replace | in paragraph (23), by striking the period at the end of subparagraph (C) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 2020` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2018` | add-at-end | Section 9 of the Food and Nutrition Act of 2008 (7 U.S.C. 2018) (as amended by section 4005(d)(3)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2018` | amend | Section 9 of the Food and Nutrition Act of 2008 (7 U.S.C. 2018) (as amended by section 4005(d)(3)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2012` | insert | Section 3(k) of the Food and Nutrition Act of 2008 (7 U.S.C. 2012(k)) is amended by inserting “subject to section 9(h)” after “concessional prices” each place it appears. | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 2025` | strike | Section 16(c)(1)(D)(i) of the Food and Nutrition Act of 2008 (7 U.S.C. 2025(c)(1)(D)(i)) is amended by striking subclause (I). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2025` | redesignate | by redesignating subclauses (II) through (IV) as subclauses (I) through (III), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2810,31 +2675,32 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 2036` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2036` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2036a` | insert | Section 28(b) of the Food and Nutrition Act of 2008 (7 U.S.C. 2036a(b)) is amended by inserting “and physical activity” after “healthy food choices”. | the bill quotes the text inserted but describes where it goes |
-| `7 U.S.C. § 2011` | add-at-end | The Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | The Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `7 U.S.C. § 2012` | strike | by striking subsection (l); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2012` | redesignate | by redesignating subsections (m) through (t) as subsections (l) through (s), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2012` | redesignate | by inserting after subsection (s) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2016` | redesignate | Section 7(h) of the Food and Nutrition Act of 2008 (7 U.S.C. 2016(h)) is amended by redesignating the second paragraph (12) (relating to interchange fees) as paragraph (13). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2025` | strike | Section 16(a) of the Food and Nutrition Act of 2008 (7 U.S.C. 2025(a)) is amended in the proviso following paragraph (8) by striking “as amended.”. | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 2015` | amend | Section 6 of the Food and Nutrition Act of 2008 (7 U.S.C. 2015) (as amended by section 4004) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 612c` | replace | by striking subsection (g) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 612c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 612c` | insert | in the section heading, by inserting “and processing” after “donations”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 612c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 612c` | replace | Section 18 of the Commodity Distribution Reform Act and WIC Amendments of 1987 (7 U.S.C. 612c note; Public Law 100–237) is amended by striking paragraphs (1) and (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2013` | replace | in paragraph (2), by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2013` | replace | in subsection (e)(1)(D)(iii), by striking subclause (II) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 612c` | replace | in paragraph (2), by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 612c` | replace | in subsection (e)(1)(D)(iii), by striking subclause (II) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 3171` | repeal | Section 4403 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 3171 note; Public Law 107–171) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 7517` | amend | Section 4405 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 7517) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 6951` | add-at-end | Subtitle D of title II of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6951 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 5341` | add-at-end | Section 301(a) of the National Nutrition Monitoring and Related Research Act of 1990 (7 U.S.C. 5341(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 4702` | add-at-end | Subtitle D of title II of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6951 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 301(a) of the National Nutrition Monitoring and Related Research Act of 1990 (7 U.S.C. 5341(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 1758` | redesignate | by redesignating paragraphs (1) through (3) as subparagraphs (A) through (C), respectively, and indenting the subparagraphs appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1758` | replace | by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1771` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1771` | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1771` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1758` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1758` | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1758` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1758` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 6951` | add-at-end | Subtitle D of title II of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6951 et seq.) (as amended by section 4205) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 6951` | add-at-end | Subtitle D of title II of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6951 et seq.) (as amended by section 4209) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7801` | add-at-end | Subtitle D of title II of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6951 et seq.) (as amended by section 4209) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3812` | insert | The Consolidated Farm and Rural Development Act (as amended by section 6001) is amended by inserting after section 3002 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | not to exceed the sum obtained by adding— | the bill names no machine-readable US Code section |
 | — | amend | not greater than the sum obtained by adding— | the bill names no machine-readable US Code section |
@@ -2843,10 +2709,10 @@ complete account of the bill's effect, which it is not.
 | — | amend | greater than the sum obtained by adding— | the bill names no machine-readable US Code section |
 | `25 U.S.C. § 2204` | strike | by striking “pursuant to section 205(c) of the Indian Land Consolidation Act (25 U.S.C. 2204(c))”; and | the bill quotes the text struck but describes what replaces it |
 | `25 U.S.C. § 2204` | insert | by inserting “or to intermediaries in order to establish revolving loan funds for the purchase of highly fractionated land under that section” before the period at the end; and | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 488` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 2204` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1921` | amend | Title III of the Agricultural Act of 1961 (7 U.S.C. 1921 et seq.) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9902` | amend | not to exceed a sum obtained by adding— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9902` | amend | The interest rates described in subparagraph (A) shall be not less than the sum obtained by adding— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | not to exceed a sum obtained by adding— | the bill names no machine-readable US Code section |
+| — | amend | The interest rates described in subparagraph (A) shall be not less than the sum obtained by adding— | the bill names no machine-readable US Code section |
 | `7 U.S.C. § 917` | replace | Section 17(c) of the Rural Electrification Act of 1936 (7 U.S.C. 917(c)) is amended by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 936f` | replace | Section 306F(a)(1) of the Rural Electrification Act of 1936 (7 U.S.C. 936f(a)(1)) is amended by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 950aaa-2` | amend | in paragraph (11), by adding “and” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2865,10 +2731,11 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 950bb` | replace | in subsection (b), by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 950bb` | insert | in paragraph (1), by inserting “make grants and” after “Secretary shall”; | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 950bb` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 950bb` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 950bb` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 950bb` | replace | by striking clause (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 950bb` | replace | by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 950bb` | insert | in clause (i), by inserting “the minimum acceptable level of broadband service established under subsection (e) in” after “service to”; | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 950bb` | insert | in clause (i), by inserting “the minimum acceptable level of broadband service established under subsection (e) in” after “service to”; and | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 950bb` | replace | by striking clause (ii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 950bb` | add-at-end | in subparagraph (B), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 950bb` | replace | by striking “Subject to paragraph (1),” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 950bb` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2890,7 +2757,9 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 950bb` | strike | in clause (i), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 950bb` | replace | in clause (ii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 950bb` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 808` | add-at-end | Subtitle E of title VI of the Farm Security and Rural Investment Act of 2002 (Public Law 107–171; 116 Stat. 424) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 2335A of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 950aaa–5) is amended by striking “2012” and inserting “2018”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1(b) of Public Law 102–551 (7 U.S.C. 950aaa note) is amended by striking “2012” and inserting “2018”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Subtitle E of title VI of the Farm Security and Rural Investment Act of 2002 (Public Law 107–171; 116 Stat. 424) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `7 U.S.C. § 1622` | replace | Section 203 of the Agricultural Marketing Act of 1946 (7 U.S.C. 1622) is amended by striking subsection (j) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2279` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 2279` | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
@@ -2901,28 +2770,30 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 3123a` | replace | by striking “Individuals” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 3123a` | replace | by striking “Members” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 3123a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 7632` | add-at-end | in subsection (c), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 3123a` | add-at-end | in subsection (c), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 3123a` | redesignate | by redesignating subsections (d) and (e) as subsections (e) and (f), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 3123a` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 3151a` | insert | The National Agricultural Research, Extension, and Teaching Policy Act of 1977 is amended by inserting after section 1415A (7 U.S.C. 3151a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 3152` | replace | Section 1417(m) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3152(m)) is amended by striking “section $60,000,000” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 3155` | insert | in the section heading, by inserting “Agricultural and food” before “policy”; | the bill quotes the text inserted but describes where it goes |
-| `7 U.S.C. § 3155` | insert | by inserting “with a history of providing unbiased, nonpartisan economic analysis to Congress” after “subsection (b)”; | the bill quotes the text inserted but describes where it goes |
-| `7 U.S.C. § 3155` | insert | in the matter preceding paragraph (1), by inserting “, with preference given to policy research centers having extensive databases, models, and demonstrated experience in providing Congress with agricultural market projections, rural dev… | the bill quotes the text inserted but describes where it goes |
-| `7 U.S.C. § 3155` | insert | in paragraph (2), by inserting “applied” after “theoretical”; and | the bill quotes the text inserted but describes where it goes |
-| `7 U.S.C. § 3155` | replace | by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | in the section heading, by inserting “Agricultural and food” before “policy”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “Secretary may” and inserting “Secretary shall, acting through the Office of the Chief Economist,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “with a history of providing unbiased, nonpartisan economic analysis to Congress” after “subsection (b)”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “other research institutions” and all that follows through “shall be eligible” and inserting “other public research institutions and organizations shall be eligible”; | the bill names no machine-readable US Code section |
+| — | insert | in the matter preceding paragraph (1), by inserting “, with preference given to policy research centers having extensive databases, models, and demonstrated experience in providing Congress with agricultural market projections, rural dev… | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2), by inserting “applied” after “theoretical”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (d) and inserting the following: | the bill names no machine-readable US Code section |
 | `7 U.S.C. § 3156` | strike | in paragraph (1), by striking “(or grants without regard to any requirement for competition)”; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 3156` | strike | in subsection (b)(1), by striking “(or grants without regard to any requirement for competition)”; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 3195` | replace | Section 1433 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3195) is amended by striking the section designation and heading and all that follows through subsection (a) and inserting the follo… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 3292b` | replace | Section 1459A of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3292b) is amended by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 3319d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 3322` | insert | Section 1475(b) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3322(b)) is amended in the matter preceding paragraph (1) by inserting “competitive” before “grants”. | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 3324` | insert | Section 1475(b) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3322(b)) is amended in the matter preceding paragraph (1) by inserting “competitive” before “grants”. | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 3324` | amend | Section 1477 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3324) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 3336` | replace | Section 1483(a) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3336(a)) is amended by striking “subtitle” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 3351` | replace | Section 1484(a) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3351(a)) is amended by striking “response such sums as are necessary” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 3362` | strike | Section 1490(a) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3362(a)) is amended by striking “or noncompetitive”. | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 3362` | replace | Section 1490(f) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3362(f)) is amended by striking “section” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 3363` | replace | Section 1491(c) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3363(c)) is amended by striking “such sums as are necessary ” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 3362` | replace | Section 1491(c) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3363(c)) is amended by striking “such sums as are necessary ” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 5814` | strike | by striking “$40,000,000 for each fiscal year”; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 5814` | insert | by inserting “$40,000,000 for each of fiscal years 2014 through 2018” after “chapter”. | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 5821` | replace | Section 1627 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5821) is amended by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2940,7 +2811,7 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 5925` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 5925` | strike | by striking subsections (f), (g), and (i); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 5925` | redesignate | by redesignating subsections (h) and (j) as subsections (j) and (k), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1642` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 5925` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 5925b` | insert | in the matter preceding paragraph (1), by inserting “, education,” after “support research”; | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 5925b` | insert | in paragraph (1), by inserting “and improvement” after “development”; | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 5925b` | insert | in paragraph (5), by inserting “and researching solutions to” after “identifying”; and | the bill quotes the text inserted but describes where it goes |
@@ -2952,24 +2823,28 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 5925b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 5925f` | replace | Section 1672D(d) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5925f(d)) is amended by striking “such sums as are necessary to carry out this section.” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 5925` | insert | Subtitle H of the Food, Agriculture, Conservation, and Trade Act of 1990 is amended by inserting after section 1672D (7 U.S.C. 5925) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 5933` | replace | by striking “section” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| — | replace | by striking “is” and inserting “are”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “section” and all that follows and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 2381(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 3125b(e)) is amended by striking “2012” and inserting “2018”. | the bill names no machine-readable US Code section |
 | `7 U.S.C. § 7613` | replace | by striking the paragraph designation and heading and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 7613` | insert | by inserting “relevance and” before “merit”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 7613` | replace | by striking “extension or education” and inserting, “research, extension, or education”; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 7613` | insert | in subparagraph (B) by inserting “on a continuous basis” after “procedures”. | the bill quotes the text inserted but describes where it goes |
-| `7 U.S.C. § 7630` | replace | Section 410(d) of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7630(d)) is amended by striking “section such sums as are necessary” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 7632` | insert | in subsection (b)(3), by inserting “handling and processing,” after “production efficiency,”; | the bill quotes the text inserted but describes where it goes |
+| — | replace | Section 408(e) of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7628(e)) is amended by striking “such sums as may be necessary for each of fiscal years 1999 through 2012” and inserting “$10,000,000 for … | the bill names no machine-readable US Code section |
+| — | replace | Section 410(d) of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7630(d)) is amended by striking “section such sums as are necessary” and all that follows and inserting the following: | the bill names no machine-readable US Code section |
+| `7 U.S.C. § 3123a` | insert | in subsection (b)(3), by inserting “handling and processing,” after “production efficiency,”; | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 3123a` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 3123a` | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 3123a` | insert | by inserting after subparagraph (C) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 7632` | replace | in subsection (h), by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 7653` | strike | by striking “such sums as are necessary”; and | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 7653` | replace | by striking “section” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 3123a` | replace | in subsection (h), by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 604(e) of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7642(e)) is amended by striking “2012” and inserting “2018”. | the bill names no machine-readable US Code section |
+| — | strike | by striking “such sums as are necessary”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “section” and all that follows and inserting the following: | the bill names no machine-readable US Code section |
 | `7 U.S.C. § 7651` | add-at-end | Subtitle B of title VI of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7651 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 178n` | strike | by striking “such sums as are necessary”; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 178n` | replace | by striking “Act” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 301` | amend | Section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 343` | insert | Section 3(d) of the Smith-Lever Act (7 U.S.C. 343(d)) is amended in the second sentence by inserting “and, in the case of programs for children, youth, and families at risk and for Federally recognized tribes, the 1994 Institutions (as d… | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 301` | insert | Section 3(d) of the Smith-Lever Act (7 U.S.C. 343(d)) is amended in the second sentence by inserting “and, in the case of programs for children, youth, and families at risk and for Federally recognized tribes, the 1994 Institutions (as d… | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 301` | replace | Section 536(b) of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382) is amended by striking “with at least 1 other land-grant college or university” and all that follows and inserting the foll… | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 450i` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 3125a` | replace | Section 308(b)(6) of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 3125a note; Public Law 103–354) is amended by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2994,7 +2869,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 7502 of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 112 Stat. 2019) is amended by striking “for the 5-year period beginning on the date of enactment of this Act” and inserting “until September 30, 2018”. | the bill names no machine-readable US Code section |
 | `7 U.S.C. § 6971` | replace | by striking “(a) Definition of competitive programs.—In this section, the term”; and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 6971` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 450i` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 5811` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 5937` | replace | Section 7525 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 5937) is amended by striking subsection (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 8114` | strike | in subparagraph (A), by striking “at South Dakota State University”; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 8114` | strike | in subparagraph (B), by striking “at the University of Tennessee at Knoxville”; | the bill quotes the text struck but describes what replaces it |
@@ -3011,15 +2886,17 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 2103` | strike | Section 8002 of the Farm Security and Rural Investment Act of 2002 (Public Law 107–171; 16 U.S.C. 2103 note) is amended by striking subsection (a). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1649a` | repeal | Section 8402 of the Food, Conservation, and Energy Act of 2008 (16 U.S.C. 1649a) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6542` | repeal | Section 303 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6542) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 2A(f)(1) of the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2101a(f)(1)) is amended by striking “2012” and inserting “2018”. | the bill names no machine-readable US Code section |
+| — | replace | Section 2371(d)(2) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 6601(d)(2)) is amended by striking “2012” and inserting “2018”. | the bill names no machine-readable US Code section |
 | `16 U.S.C. § 6591` | add-at-end | Title VI of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6591` | add-at-end | Title VI of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591) (as amended by section 8203) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6591` | amend | Title VI of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591) (as amended by section 8203) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 2104` | repeal | Section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 (16 U.S.C. 2104 note; Public Law 105–277) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6572` | redesignate | by redesignating subparagraphs (A) through (C) as clauses (i) through (iii), respectively, and indenting appropriately; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 477` | replace | by striking “In the case of” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 6578` | redesignate | by redesignating subsection (b) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 590a` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 582a-3` | insert | Section 4 of Public Law 87–788 (commonly known as the “McIntire-Stennis Cooperative Forestry Act”) (16 U.S.C. 582a–3) is amended by inserting “The matching funds requirement shall not be applicable to eligible 1890 Institutions (as defin… | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 582a-7` | insert | Section 8 of Public Law 87–788 (commonly known as the “McIntire-Stennis Cooperative Forestry Act”) (16 U.S.C. 582a–7) is amended by inserting “the Federated States of Micronesia, American Samoa, the Northern Mariana Islands, the District… | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 6578` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 4 of Public Law 87–788 (commonly known as the “McIntire-Stennis Cooperative Forestry Act”) (16 U.S.C. 582a–3) is amended by inserting “The matching funds requirement shall not be applicable to eligible 1890 Institutions (as defin… | the bill names no machine-readable US Code section |
+| — | insert | Section 8 of Public Law 87–788 (commonly known as the “McIntire-Stennis Cooperative Forestry Act”) (16 U.S.C. 582a–7) is amended by inserting “the Federated States of Micronesia, American Samoa, the Northern Mariana Islands, the District… | the bill names no machine-readable US Code section |
 | `7 U.S.C. § 8101` | redesignate | by redesignating paragraphs (9) through (12) and (13) and (14) as paragraphs (10) through (13) and (15) and (16) respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 8101` | insert | by inserting after paragraph (8) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 8101` | redesignate | by inserting after paragraph (13) (as redesignated by paragraph (1)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -3110,7 +2987,7 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 6522` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 7721` | replace | by striking the section heading and inserting “Coordinated plant management program.”; | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 7721` | redesignate | by redesignating subsection (e) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 3103` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 7721` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 7721` | strike | in paragraph (3), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 7721` | replace | in paragraph (4), by striking “and each fiscal year thereafter.” and inserting a semicolon; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 7721` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -3122,14 +2999,14 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 1621` | strike | in paragraph (2), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 1621` | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 1621` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 6519` | insert | The Organic Foods Production Act of 1990 is amended by inserting after section 2120 (7 U.S.C. 6519) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 706` | insert | The Organic Foods Production Act of 1990 is amended by inserting after section 2120 (7 U.S.C. 6519) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 7401` | replace | Section 501 of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7401) is amended by striking subsection (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 7401` | add-at-end | Section 501 of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7401) (as amended by subsection (a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 7412` | redesignate | by redesignating subparagraphs (E) and (F) as subparagraphs (F) and (G), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 6502` | redesignate | by redesignating subparagraphs (E) and (F) as subparagraphs (F) and (G), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 6502` | insert | by inserting after subparagraph (D) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1508` | replace | Section 508(c) of the Federal Crop Insurance Act (7 U.S.C. 1508(c)) is amended by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1508` | replace | Section 508(c) of the Federal Crop Insurance Act (7 U.S.C. 1508(c)) is amended by striking paragraph (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 1508` | add-at-end | Section 508(e)(2) of the Federal Crop Insurance Act (7 U.S.C. 1508(e)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1508` | amend | Section 508(e)(2) of the Federal Crop Insurance Act (7 U.S.C. 1508(e)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1508` | insert | Section 508(k)(4)(F) of the Federal Crop Insurance Act (7 U.S.C. 1508(k)(4)(F)) is amended by inserting “or authorized under subsection (c)(4)(C)” after “of this subparagraph”. | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 1508` | strike | in subparagraph (A)(ii), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 1508` | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
@@ -3154,14 +3031,16 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 1515` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1515` | replace | in subsection (j), by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1515` | replace | in subsection (k), by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1516` | add-at-end | Section 516(b)(2) of the Federal Crop Insurance Act (7 U.S.C. 1516(b)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1522` | replace | Section 522(b)(2) of the Federal Crop Insurance Act (7 U.S.C. 1522(b)(2)) is amended by striking subparagraph (E) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 1522` | add-at-end | Section 522(c) of the Federal Crop Insurance Act (7 U.S.C. 1522(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1522` | amend | Section 522(c) of the Federal Crop Insurance Act (7 U.S.C. 1522(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1522` | add-at-end | Section 522(c) of the Federal Crop Insurance Act (7 U.S.C. 1522(c)) (as amended by section 11018) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 522(c) of the Federal Crop Insurance Act (as amended by section 11019) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 522(c) of the Federal Crop Insurance Act (as amended by section 11020) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `7 U.S.C. § 1522` | add-at-end | Section 522(c) of the Federal Crop Insurance Act (7 U.S.C. 1522(c)) (as amended by section 11021) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1522` | add-at-end | Section 522(c) of the Federal Crop Insurance Act (7 U.S.C. 1522(c)) (as amended by section 11022) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1522` | add-at-end | Section 522(c) of the Federal Crop Insurance Act of 1938 (7 U.S.C. 1522(c)) (as amended by section 11023) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1522` | add-at-end | Section 522(c) of the Federal Crop Insurance Act (7 U.S.C. 1522(c)) (as amended by section 11024) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1508` | add-at-end | Section 508(c)(6) of the Federal Crop Insurance Act (7 U.S.C. 1508(c)(6)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1522` | strike | by striking paragraph (10); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1522` | redesignate | by redesignating paragraphs (11) through (24) as paragraphs (10) through (23), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -3178,7 +3057,7 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 1523` | replace | by striking “Under” inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 1523` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1502` | redesignate | by redesignating paragraphs (6) through (9) as paragraphs (7) through (10), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 5925f` | insert | by inserting after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1502` | insert | by inserting after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1522` | insert | Section 522(d)(3)(F) of the Federal Crop Insurance Act (7 U.S.C. 1522(d)(3)(F)) is amended by inserting “farm financial benchmarking,” after “management,”. | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 1524` | insert | in paragraph (3)(A), by inserting “farm financial benchmarking,” after “risk reduction,”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 1524` | insert | in paragraph (4), in the matter preceding subparagraph (A), by inserting “(including farm financial benchmarking)” after “management strategies”. | the bill quotes the text inserted but describes where it goes |
@@ -3192,11 +3071,12 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 1508` | insert | by inserting “(I)” after “(ii)”; | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 1508` | replace | by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 1508` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1508` | amend | Section 508(e) of the Federal Crop Insurance Act (7 U.S.C. 1508(e)) (as amended by section 11030(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1524` | replace | Section 524 of the Federal Crop Insurance Act (7 U.S.C. 1524) is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1508` | insert | in paragraph (1)(B), by inserting “, or the producer cannot substantiate that the ground has ever been tilled,” after “tilled”; | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 7333` | replace | in paragraph (2)(A), by striking “for benefits under—” and all that follows through the period at the end and inserting “for— | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 1508` | replace | by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 7333` | insert | in subparagraph (A)(ii), by inserting “, or the producer cannot substantiate that the ground has ever been tilled,” after “tilled”; | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 1501` | insert | in subparagraph (A)(ii), by inserting “, or the producer cannot substantiate that the ground has ever been tilled,” after “tilled”; | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 1501` | replace | in subparagraph (B)(i), by striking “for benefits under—” and all that follows through the period at the end and inserting “for— | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 1501` | replace | by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1508` | strike | by striking paragraph (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -3212,14 +3092,14 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 2279` | insert | in paragraph (1)(A), by inserting “veteran farmers or ranchers and” before “members”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 2279` | insert | in paragraph (2)(A), by inserting “veteran farmers or ranchers and” before “members”. | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 2279` | add-at-end | Section 2501(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2279` | add-at-end | Section 2501 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 7601` | add-at-end | Section 2501 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 6934` | amend | Section 226B(f)(3) of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6934(f)(3)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 7621` | add-at-end | Title IV of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7621 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Title IV of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7621 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `7 U.S.C. § 1621` | add-at-end | Subtitle A of the Agricultural Marketing Act of 1946 (7 U.S.C. 1621 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2008j` | strike | by striking paragraph (6); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 8301` | insert | Subtitle E of title X of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8301 et seq.) is amended by inserting after section 10409 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 6918` | insert | Subtitle A of the Department of Agriculture Reorganization Act of 1994 is amended by inserting after section 218 (7 U.S.C. 6918) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 8791` | add-at-end | Section 1619(b)(3) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8791) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 8791` | amend | Section 1619(b)(3) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8791) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2008q-1` | amend | Section 14204(d) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 2008q–1(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1508` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1508` | strike | in clause (i), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
@@ -3229,10 +3109,11 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 1508` | insert | by inserting “(except ferns)” after “ornamental nursery”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 1508` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 7333` | repeal | Effective October 1, 2018, subsection (a) and the amendments made by subsection (a) (other than the amendments made by clauses (i)(I) and (ii) of subsection (a)(1)(B)) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 7333` | insert | Section 196(a)(2)(B) of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7333(a)(2)(B)) is amended by inserting “(including those grown expressly for the purpose of producing a feedstock for renewable biofuel, renewab… | the bill quotes the text inserted but describes where it goes |
-| `40 U.S.C. § 15751` | replace | by striking “Not more than” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `40 U.S.C. § 15751` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 3125a` | amend | Title III of the Department of Agriculture Reorganization Act of 1994 is amended by adding after section 308 (7 U.S.C. 3125a note; Public Law 103–354) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 196(a)(2)(B) of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7333(a)(2)(B)) is amended by inserting “(including those grown expressly for the purpose of producing a feedstock for renewable biofuel, renewab… | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “2012” and inserting “2018”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “Not more than” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Title III of the Department of Agriculture Reorganization Act of 1994 is amended by adding after section 308 (7 U.S.C. 3125a note; Public Law 103–354) the following: | the bill names no machine-readable US Code section |
 | `7 U.S.C. § 2156` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2156` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2156` | add-at-end | in subsection (g), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
