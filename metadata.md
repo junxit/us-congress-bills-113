@@ -1,7 +1,7 @@
 ---
 measure: H.R. 126
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 126
@@ -38,3 +38,6 @@ Corolla Wild Horses Protection Act
 - 2013-06-03 — Mr. Wittman moved to suspend the rules and pass the bill.
 - 2013-06-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2993-2994)
 - 2013-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2993-2994)
+- 2013-06-04 — Received in the Senate.
+- 2013-06-07 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2013-06-10 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 84.
