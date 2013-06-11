@@ -1,7 +1,7 @@
 ---
 measure: H.R. 723
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 723
@@ -37,3 +37,9 @@ Wood-Pawcatuck Watershed Protection Act
 - 2013-05-17 — Placed on the Union Calendar, Calendar No. 49.
 - 2013-05-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-73.
 - 2013-05-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-73.
+- 2013-06-11 — Considered under suspension of the rules. (consideration: CR H3268-3269)
+- 2013-06-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 723.
+- 2013-06-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-06-11 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
+- 2013-06-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3268)
+- 2013-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3268)
