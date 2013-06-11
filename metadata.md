@@ -1,7 +1,7 @@
 ---
 measure: H.R. 993
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 993
@@ -37,3 +37,9 @@ Fruit Heights Land Conveyance Act
 - 2013-05-17 — Placed on the Union Calendar, Calendar No. 41.
 - 2013-05-17 — Reported by the Committee on Natural Resources. H. Rept. 113-65.
 - 2013-05-17 — Reported by the Committee on Natural Resources. H. Rept. 113-65.
+- 2013-06-11 — Considered under suspension of the rules. (consideration: CR H3265-3266)
+- 2013-06-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 993.
+- 2013-06-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-06-11 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
+- 2013-06-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3265)
+- 2013-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3265)
