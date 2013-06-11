@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1158
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1158
@@ -32,3 +32,9 @@ North Cascades National Park Service Complex Fish Stocking Act
 - 2013-05-17 — Placed on the Union Calendar, Calendar No. 44.
 - 2013-05-17 — Reported by the Committee on Natural Resources. H. Rept. 113-68.
 - 2013-05-17 — Reported by the Committee on Natural Resources. H. Rept. 113-68.
+- 2013-06-11 — Considered under suspension of the rules. (consideration: CR H3267-3268)
+- 2013-06-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1158.
+- 2013-06-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-06-11 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
+- 2013-06-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3267)
+- 2013-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3267)
