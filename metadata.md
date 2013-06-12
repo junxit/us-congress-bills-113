@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 256
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 256
@@ -20,6 +20,10 @@ Providing for consideration of the bill (H.R. 1960) to authorize appropriations 
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2013-06-12 — [House 113-1-214](votes/house-113-1-0214.md) — On Agreeing to the Resolution — **Passed** (239–184)
+
 ## Actions
 
 - 2013-06-11 — Introduced in House
@@ -27,3 +31,9 @@ Providing for consideration of the bill (H.R. 1960) to authorize appropriations 
 - 2013-06-11 — Resolution provides for one hour of general debate on H.R. 1960. Resolution also provides for one hour of general debate on H.R. 1256 under a closed rule.
 - 2013-06-11 — The House Committee on Rules reported an original measure, H. Rept. 113-104, by Mr. Nugent.
 - 2013-06-11 — The House Committee on Rules reported an original measure, H. Rept. 113-104, by Mr. Nugent.
+- 2013-06-12 — Considered as privileged matter. (consideration: CR H3309-3316)
+- 2013-06-12 — DEBATE - The House proceeded with one hour of debate on H. Res. 256.
+- 2013-06-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-06-12 — On agreeing to the resolution Agreed to by the Yeas and Nays: 239 - 184 (Roll no. 214). (text: CR H3309)
+- 2013-06-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 239 - 184 (Roll no. 214).(text: CR H3309)
+- 2013-06-12 — The previous question was ordered without objection. (consideration: CR H3315)
