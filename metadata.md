@@ -1,7 +1,7 @@
 ---
 measure: H.R. 251
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 251
@@ -44,3 +44,4 @@ South Utah Valley Electric Conveyance Act
 - 2013-06-11 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
 - 2013-06-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 212). (text: CR H3264)
 - 2013-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 212).(text: CR H3264)
+- 2013-06-12 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 85.
