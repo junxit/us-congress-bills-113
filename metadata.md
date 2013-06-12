@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1256
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1256
@@ -27,6 +27,11 @@ Swap Jurisdiction Certainty Act
 - House — Agriculture Committee
 - House — Financial Services Committee
 
+## Recorded votes (2)
+
+- 2013-06-12 — [House 113-1-217](votes/house-113-1-0217.md) — On Motion to Recommit with Instructions — **Failed** (194–230)
+- 2013-06-12 — [House 113-1-218](votes/house-113-1-0218.md) — On Passage — **Passed** (301–124)
+
 ## Actions
 
 - 2013-03-19 — Introduced in House
@@ -43,3 +48,16 @@ Swap Jurisdiction Certainty Act
 - 2013-06-10 — Reported (Amended) by the Committee on Financial Services. H. Rept. 113-103, Part I.
 - 2013-06-10 — Reported by the Committee on Agriculture. H. Rept. 113-103, Part II.
 - 2013-06-10 — Reported by the Committee on Agriculture. H. Rept. 113-103, Part II.
+- 2013-06-11 — Rules Committee Resolution H. Res. 256 Reported to House. Resolution provides for one hour of general debate on H.R. 1960. Resolution also provides for one hour of general debate on H.R. 1256 under a closed rule.
+- 2013-06-12 — Considered under the provisions of rule H. Res. 256. (consideration: CR H3317-3332)
+- 2013-06-12 — DEBATE - The House proceeded with 10 minutes of debate on the Sean Maloney motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to require the Securities and Exchange Commission (SEC) and Commodity Futures Trading Commission (CFTC) to rule that foreign entities are not broadly equivalent to U.S. swaps requirements if they: (1) engage in cyber attacks against the U.S. (including U.S. persons and businesses), do not have or enforce laws to deter cyber attacks, or have ever been the subject of a civil or criminal proceeding for cyber attacks; or (2) are in violation of, do not enforce comparable restrictions to, or have ever been the subject of a civil or criminal proceeding for violating Iran Sanctions.
+- 2013-06-12 — DEBATE - The House proceeded with one hour of debate on H.R. 1256.
+- 2013-06-12 — House amendment offered
+- 2013-06-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-06-12 — Mr. Maloney, Sean moved to recommit with instructions to Financial Services. (consideration: CR H3330-3332; text: CR H3330-3331)
+- 2013-06-12 — On motion to recommit with instructions Failed by the Yeas and Nays: 194 - 230 (Roll no. 217). (consideration: CR H3332)
+- 2013-06-12 — On passage Passed by recorded vote: 301 - 124 (Roll no. 218). (text: CR H3318)
+- 2013-06-12 — Passed/agreed to in House: On passage Passed by recorded vote: 301 - 124 (Roll no. 218).(text: CR H3318)
+- 2013-06-12 — Resolution provides for one hour of general debate on H.R. 1960. Resolution also provides for one hour of general debate on H.R. 1256 under a closed rule.
+- 2013-06-12 — Rule H. Res. 256 passed House.
+- 2013-06-12 — The previous question was ordered pursuant to the rule. (consideration: CR H3330)
