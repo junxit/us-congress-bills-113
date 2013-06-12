@@ -1,7 +1,7 @@
 ---
 measure: H.R. 742
 congress: 113
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,5 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `7 U.S.C. § 7a-1` | amend | Section 5b(k)(5) of the Commodity Exchange Act (7 U.S.C. 7a–1(k)(5)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 24a` | amend | Section 21(d) of the Commodity Exchange Act (7 U.S.C. 24a(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 7a-1` | amend | Section 21(d) of the Commodity Exchange Act (7 U.S.C. 24a(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78m` | amend | Section 13(n)(5)(H) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(n)(5)(H)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
