@@ -1,7 +1,7 @@
 ---
 measure: H.R. 251
 congress: 113
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 251
@@ -45,3 +45,12 @@ South Utah Valley Electric Conveyance Act
 - 2013-06-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 212). (text: CR H3264)
 - 2013-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 212).(text: CR H3264)
 - 2013-06-12 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 85.
+- 2013-07-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5623)
+- 2013-07-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5623)
+- 2013-07-11 — Message on Senate action sent to the House.
+- 2013-07-12 — Presented to President.
+- 2013-07-12 — Presented to President.
+- 2013-07-18 — Became Public Law No: 113-19.
+- 2013-07-18 — Became Public Law No: 113-19.
+- 2013-07-18 — Signed by President.
+- 2013-07-18 — Signed by President.
