@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1158
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1158
@@ -16,9 +16,10 @@ North Cascades National Park Service Complex Fish Stocking Act
 
 - Rep. Hastings, Doc [R-WA-4] (H000329)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ North Cascades National Park Service Complex Fish Stocking Act
 - 2013-06-11 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
 - 2013-06-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3267)
 - 2013-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3267)
+- 2013-06-12 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
