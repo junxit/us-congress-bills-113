@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1157
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1157
@@ -16,9 +16,10 @@ Rattlesnake Mountain Public Access Act
 
 - Rep. Hastings, Doc [R-WA-4] (H000329)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ Rattlesnake Mountain Public Access Act
 - 2013-06-11 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
 - 2013-06-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 213). (text: CR H3266)
 - 2013-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 213).(text: CR H3266)
+- 2013-06-12 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
