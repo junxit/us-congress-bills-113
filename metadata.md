@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2167
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2167
@@ -29,3 +29,9 @@ Reverse Mortgage Stabilization Act of 2013
 - 2013-05-23 — Introduced in House
 - 2013-05-23 — Introduced in House
 - 2013-05-23 — Referred to the House Committee on Financial Services.
+- 2013-06-12 — Considered under suspension of the rules. (consideration: CR H3299-3301)
+- 2013-06-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2167.
+- 2013-06-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-06-12 — Mr. Hensarling moved to suspend the rules and pass the bill.
+- 2013-06-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3300)
+- 2013-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3300)

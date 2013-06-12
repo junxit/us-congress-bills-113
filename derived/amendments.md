@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2167
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -33,4 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `12 U.S.C. § 1715z-20` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1715z-20` | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 1715z-20` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1715z-20` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
