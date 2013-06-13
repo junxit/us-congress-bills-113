@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1038
 congress: 113
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `7 U.S.C. § 1a` | add-at-end | Section 1a(49) of the Commodity Exchange Act (7 U.S.C. 1a(49)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 6s` | amend | Section 4s(h)(2) of the Commodity Exchange Act (7 U.S.C. 6s(h)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 1a(49) of the Commodity Exchange Act (7 U.S.C. 1a(49)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `7 U.S.C. § 6s` | add-at-end | Section 4s(h)(2) of the Commodity Exchange Act (7 U.S.C. 6s(h)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | by striking “and” at the end of subclause (XXI); | the bill names no machine-readable US Code section |
 | — | amend | by adding “and” at the end of subclause (XXII); and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |

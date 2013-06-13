@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1038
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1038
@@ -61,9 +61,10 @@ Public Power Risk Management Act of 2013
 - Rep. Hartzler, Vicky [R-MO-4] (H001053)
 - Rep. Hudson, Richard [R-NC-8] (H001067)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (1)
 
@@ -88,3 +89,4 @@ Public Power Risk Management Act of 2013
 - 2013-06-12 — Placed on the Union Calendar, Calendar No. 76.
 - 2013-06-12 — Reported by the Committee on Agriculture. H. Rept. 113-107.
 - 2013-06-12 — Reported by the Committee on Agriculture. H. Rept. 113-107.
+- 2013-06-13 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
