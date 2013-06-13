@@ -418,3 +418,9 @@ Department of Homeland Security Appropriations Act, 2014
 - 2013-06-06 — The previous question was ordered pursuant to the rule. (consideration: CR H3223)
 - 2013-06-06 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2013-06-07 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2013-06-12 — House requested return of papers pursuant to H. Res. 255.
+- 2013-06-12 — Senate Committee on Appropriations discharged by Unanimous Consent.
+- 2013-06-12 — Senate Committee on Appropriations discharged by Unanimous Consent.
+- 2013-06-12 — Senate returned papers to House, per House request of June 11, 2013, by Unanimous Consent. (consideration: CR S4403-4404)
+- 2013-06-13 — Message on Senate action sent to the House.
+- 2013-06-13 — Received in the Senate and Read twice and referred to the Committee on Appropriations pursuant to the order of 6/12/13.
