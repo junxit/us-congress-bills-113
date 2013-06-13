@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1256
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1256
@@ -22,10 +22,11 @@ Swap Jurisdiction Certainty Act
 - Rep. Carney, John C., Jr. [D-DE-At Large] (C001083)
 - Rep. Scott, David [D-GA-13] (S001157)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Financial Services Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (2)
 
@@ -61,3 +62,4 @@ Swap Jurisdiction Certainty Act
 - 2013-06-12 — Resolution provides for one hour of general debate on H.R. 1960. Resolution also provides for one hour of general debate on H.R. 1256 under a closed rule.
 - 2013-06-12 — Rule H. Res. 256 passed House.
 - 2013-06-12 — The previous question was ordered pursuant to the rule. (consideration: CR H3330)
+- 2013-06-13 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.

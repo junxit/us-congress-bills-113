@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1256
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 78mm` | insert | Section 36(c) of the Securities Exchange Act of 1934 (15 U.S.C. 78mm(c)) is amended by inserting “or except as necessary to effectuate the purposes of the Swap Jurisdiction Certainty Act,” after “to grant exemptions,”. | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 6` | insert | Section 36(c) of the Securities Exchange Act of 1934 (15 U.S.C. 78mm(c)) is amended by inserting “or except as necessary to effectuate the purposes of the Swap Jurisdiction Certainty Act,” after “to grant exemptions,”. | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 6` | insert | Section 4(c)(1)(A) of the Commodity Exchange Act (7 U.S.C. 6(c)(1)(A)) is amended by inserting “or except as necessary to effectuate the purposes of the Swap Jurisdiction Certainty Act,” after “to grant exemptions,”. | the bill quotes the text inserted but describes where it goes |
