@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2167
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2167
@@ -37,3 +37,14 @@ Reverse Mortgage Stabilization Act of 2013
 - 2013-06-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3300)
 - 2013-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3300)
 - 2013-06-13 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2013-07-30 — Passed Senate without amendment by Unanimous Consent.
+- 2013-07-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2013-07-30 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S6082)
+- 2013-07-30 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S6082)
+- 2013-07-31 — Message on Senate action sent to the House.
+- 2013-08-01 — Presented to President.
+- 2013-08-01 — Presented to President.
+- 2013-08-09 — Became Public Law No: 113-29.
+- 2013-08-09 — Became Public Law No: 113-29.
+- 2013-08-09 — Signed by President.
+- 2013-08-09 — Signed by President.
