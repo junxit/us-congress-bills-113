@@ -1,7 +1,7 @@
 ---
 measure: H.R. 634
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 634
@@ -27,10 +27,11 @@ Business Risk Mitigation and Price Stabilization Act of 2013
 - Rep. Vargas, Juan [D-CA-51] (V000130)
 - Rep. Scott, David [D-GA-13] (S001157)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -62,3 +63,4 @@ Business Risk Mitigation and Price Stabilization Act of 2013
 - 2013-06-12 — Reported by the Committee on Agriculture. H. Rept. 113-105, Part II.
 - 2013-06-12 — Reported by the Committee on Financial Services. H. Rept. 113-105, Part I.
 - 2013-06-12 — Reported by the Committee on Financial Services. H. Rept. 113-105, Part I.
+- 2013-06-13 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
