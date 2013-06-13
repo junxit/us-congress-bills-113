@@ -1,7 +1,7 @@
 ---
 measure: H.R. 742
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 742
@@ -32,10 +32,11 @@ Swap Data Repository and Clearinghouse Indemnification Correction Act of 2013
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 - Rep. Hastings, Alcee L. [D-FL-20] (H000324)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ Swap Data Repository and Clearinghouse Indemnification Correction Act of 2013
 - 2013-06-12 — Reported by the Committee on Agriculture. H. Rept. 113-106, Part I.
 - 2013-06-12 — Reported by the Committee on Financial Services. H. Rept. 113-106, Part II.
 - 2013-06-12 — Reported by the Committee on Financial Services. H. Rept. 113-106, Part II.
+- 2013-06-13 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
