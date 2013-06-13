@@ -1,0 +1,16 @@
+---
+legis-num: H.R. 2353
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2353
+
+> To amend title 23, United States Code, with respect to the operation of vehicles on certain Wisconsin highways, and for other purposes.
+
+## § 1. Operation of vehicles on certain Wisconsin highways
+
+Section 127 of title 23, United States Code, is amended by adding at the end the following:
+
+> - **(j)** *Operation of vehicles on certain Wisconsin highways* If any segment of the United States Route 41 corridor, as described in section 1105(c)(57) of the Intermodal Surface Transportation Efficiency Act of 1991, is designated as a route on the Interstate System, a vehicle that could operate legally on that segment before the date of such designation may continue to operate on that segment, without regard to any requirement under subsection (a).
