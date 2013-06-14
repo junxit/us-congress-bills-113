@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1797
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1797
@@ -16,7 +16,7 @@ Pain-Capable Unborn Child Protection Act
 
 - Rep. Franks, Trent [R-AZ-8] (F000448)
 
-## Cosponsors (93)
+## Cosponsors (184)
 
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. Scalise, Steve [R-LA-1] (S001176)
@@ -111,6 +111,97 @@ Pain-Capable Unborn Child Protection Act
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 - Rep. Schock, Aaron [R-IL-18] (S001179)
 - Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Camp, Dave [R-MI-4] (C000071)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Labrador, Raul R. [R-ID-1] (L000573)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. Daines, Steve [R-MT-At Large] (D000618)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. McIntyre, Mike [D-NC-7] (M000485)
+- Rep. Ellmers, Renee L. [R-NC-2] (E000291)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Bachmann, Michele [R-MN-6] (B001256)
+- Rep. Latham, Tom [R-IA-3] (L000111)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Southerland, Steve II [R-FL-2] (S001186)
+- Rep. Ribble, Reid J. [R-WI-8] (R000587)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
+- Rep. Cotton, Tom [R-AR-4] (C001095)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. Collins, Doug [R-GA-9] (C001093)
+- Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Duffy, Sean P. [R-WI-7] (D000614)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Turner, Michael R. [R-OH-10] (T000463)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Denham, Jeff [R-CA-10] (D000612)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Brooks, Susan W. [R-IN-5] (B001284)
+- Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. Bentivolio, Kerry L. [R-MI-11] (B001280)
+- Rep. Brooks, Mo [R-AL-5] (B001274)
+- Rep. Renacci, James B. [R-OH-16] (R000586)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Mica, John L. [R-FL-7] (M000689)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Gibbs, Bob [R-OH-7] (G000563)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Perry, Scott [R-PA-4] (P000605)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Nunes, Devin [R-CA-22] (N000181)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Radel, Trey [R-FL-19] (R000596)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Reed, Tom [R-NY-23] (R000585)
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Crenshaw, Ander [R-FL-4] (C001045)
+- Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Sanford, Mark [R-SC-1] (S000051)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Rice, Tom [R-SC-7] (R000597)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Smith, Jason [R-MO-8] (S001195)
+- Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Rep. Graves, Tom [R-GA-14] (G000560)
+- Rep. Webster, Daniel [R-FL-10] (W000806)
+- Rep. Rigell, E. Scott [R-VA-2] (R000589)
+- Rep. Hurt, Robert [R-VA-5] (H001060)
 
 ## Committees (2)
 
@@ -123,3 +214,16 @@ Pain-Capable Unborn Child Protection Act
 - 2013-04-26 — Introduced in House
 - 2013-04-26 — Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-04-26 — Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-05-23 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2013-05-23 — Referred to the Subcommittee on the Constitution and Civil Justice.
+- 2013-05-23 — Subcommittee Hearings Held.
+- 2013-06-03 — Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.
+- 2013-06-04 — Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 6 - 4 .
+- 2013-06-04 — Subcommittee Consideration and Mark-up Session Held.
+- 2013-06-12 — Committee Consideration and Mark-up Session Held.
+- 2013-06-12 — Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 12.
+- 2013-06-14 — Committee on Oversight and Government discharged.
+- 2013-06-14 — Committee on Oversight and Government discharged.
+- 2013-06-14 — Placed on the Union Calendar, Calendar No. 77.
+- 2013-06-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-109, Part I.
+- 2013-06-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-109, Part I.
