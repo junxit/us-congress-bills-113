@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1960
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1960
@@ -23,6 +23,32 @@ National Defense Authorization Act for Fiscal Year 2014
 ## Committees (1)
 
 - House — Armed Services Committee
+
+## Recorded votes (23)
+
+- 2013-06-13 — [House 113-1-222](votes/house-113-1-0222.md) — On Agreeing to the Amendment — **Failed** (106–318)
+- 2013-06-13 — [House 113-1-223](votes/house-113-1-0223.md) — On Agreeing to the Amendment — **Agreed to** (235–189)
+- 2013-06-13 — [House 113-1-224](votes/house-113-1-0224.md) — On Agreeing to the Amendment — **Failed** (206–220)
+- 2013-06-13 — [House 113-1-225](votes/house-113-1-0225.md) — On Agreeing to the Amendment — **Failed** (178–248)
+- 2013-06-13 — [House 113-1-226](votes/house-113-1-0226.md) — On Agreeing to the Amendment — **Agreed to** (305–121)
+- 2013-06-13 — [House 113-1-227](votes/house-113-1-0227.md) — On Agreeing to the Amendment — **Agreed to** (214–211)
+- 2013-06-13 — [House 113-1-228](votes/house-113-1-0228.md) — On Agreeing to the Amendment — **Failed** (200–226)
+- 2013-06-14 — [House 113-1-229](votes/house-113-1-0229.md) — On Agreeing to the Amendment — **Agreed to** (239–182)
+- 2013-06-14 — [House 113-1-230](votes/house-113-1-0230.md) — On Agreeing to the Amendment — **Failed** (61–362)
+- 2013-06-14 — [House 113-1-231](votes/house-113-1-0231.md) — On Agreeing to the Amendment — **Failed** (134–290)
+- 2013-06-14 — [House 113-1-232](votes/house-113-1-0232.md) — On Agreeing to the Amendment — **Failed** (71–353)
+- 2013-06-14 — [House 113-1-233](votes/house-113-1-0233.md) — On Agreeing to the Amendment — **Failed** (195–229)
+- 2013-06-14 — [House 113-1-234](votes/house-113-1-0234.md) — On Agreeing to the Amendment — **Failed** (123–301)
+- 2013-06-14 — [House 113-1-235](votes/house-113-1-0235.md) — On Agreeing to the Amendment — **Failed** (110–313)
+- 2013-06-14 — [House 113-1-236](votes/house-113-1-0236.md) — On Agreeing to the Amendment — **Agreed to** (236–188)
+- 2013-06-14 — [House 113-1-237](votes/house-113-1-0237.md) — On Agreeing to the Amendment — **Failed** (174–249)
+- 2013-06-14 — [House 113-1-238](votes/house-113-1-0238.md) — On Agreeing to the Amendment — **Failed** (150–274)
+- 2013-06-14 — [House 113-1-239](votes/house-113-1-0239.md) — On Agreeing to the Amendment — **Failed** (146–278)
+- 2013-06-14 — [House 113-1-240](votes/house-113-1-0240.md) — On Agreeing to the Amendment — **Failed** (191–232)
+- 2013-06-14 — [House 113-1-241](votes/house-113-1-0241.md) — On Agreeing to the Amendment — **Agreed to** (420–3)
+- 2013-06-14 — [House 113-1-242](votes/house-113-1-0242.md) — On Agreeing to the Amendment — **Agreed to** (423–0)
+- 2013-06-14 — [House 113-1-243](votes/house-113-1-0243.md) — On Motion to Recommit with Instructions — **Failed** (194–225)
+- 2013-06-14 — [House 113-1-244](votes/house-113-1-0244.md) — On Passage — **Passed** (315–108)
 
 ## Actions
 
@@ -53,3 +79,332 @@ National Defense Authorization Act for Fiscal Year 2014
 - 2013-06-07 — Placed on the Union Calendar, Calendar No. 71.
 - 2013-06-07 — Reported (Amended) by the Committee on Armed Services. H. Rept. 113-102.
 - 2013-06-07 — Reported (Amended) by the Committee on Armed Services. H. Rept. 113-102.
+- 2013-06-11 — FILING AUTHORITY - Mr. Wilson (SC) asked unanimous consent that the Committee on Armed Services be authorized to file a supplemental report on the bill H.R. 1960. Agreed to without objection.
+- 2013-06-11 — Rules Committee Resolution H. Res. 256 Reported to House. Resolution provides for one hour of general debate on H.R. 1960. Resolution also provides for one hour of general debate on H.R. 1256 under a closed rule.
+- 2013-06-11 — Supplemental report filed by the Committee on Armed Services, H. Rept. 113-102, Part II.
+- 2013-06-11 — Supplemental report filed by the Committee on Armed Services, H. Rept. 113-102, Part II.
+- 2013-06-12 — Committee of the Whole House on the state of the Union rises leaving H.R. 1960 as unfinished business.
+- 2013-06-12 — Considered under the provisions of rule H. Res. 256. (consideration: CR H3333-3341)
+- 2013-06-12 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1960.
+- 2013-06-12 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 256 and Rule XVIII.
+- 2013-06-12 — Resolution provides for one hour of general debate on H.R. 1960. Resolution also provides for one hour of general debate on H.R. 1256 under a closed rule.
+- 2013-06-12 — The Speaker designated the Honorable Steve Womack to act as Chairman of the Committee.
+- 2013-06-13 — Amendment (A001) offered by Mr. McKeon. (consideration: CR H3520; text: CR H3520)
+- 2013-06-13 — Amendment (A002) offered by Mr. Blumenauer. (consideration: CR H3520-3521, H3548; text: CR H3520)
+- 2013-06-13 — Amendment (A003) offered by Mrs. Lummis. (consideration: CR H3521-3523, H3549; text: CR H3522)
+- 2013-06-13 — Amendment (A004) offered by Mr. Pearce. (consideration: CR H3523-3524; text: CR H3523)
+- 2013-06-13 — Amendment (A005) offered by Mr. Coffman. (consideration: CR H3524-3526, H3549-3550; text: CR H3524)
+- 2013-06-13 — Amendment (A007) offered by Mr. Turner. (consideration: CR H3532-3533; text: CR H3532)
+- 2013-06-13 — Amendment (A008) offered by Mr. Rigell. (consideration: CR H3533-3535, H3550; text: CR H3533)
+- 2013-06-13 — Amendment (A009) offered by Mr. McGovern. (consideration: CR H3535-3537, H3550-3551; text: CR H3535)
+- 2013-06-13 — Amendment (A010) offered by Mr. Goodlatte. (consideration: CR H3537-3538, H3551-3552, text: CR H3537)
+- 2013-06-13 — Amendment (A011) offered by Mr. Radel. (consideration: CR H3538-3539; text: CR H3539)
+- 2013-06-13 — Amendment (A012) offered by Mr. Smith (WA). (consideration: CR H3539-3542, H3552; text: CR H3539-3540)
+- 2013-06-13 — Amendment (A014) offered by Mr. Denham. (consideration: CR H3553-3554; text: CR H3553)
+- 2013-06-13 — Amendment (A015) offered by Mr. Turner. (consideration: CR H3555-3556; text: CR H3555)
+- 2013-06-13 — Amendment (A017) offered by Mr. Holt. (consideration: CR H3562-3563; text: CR H3562)
+- 2013-06-13 — Amendment (A018) offered by Ms. McCollum. (consideration: CR H3563-3566; text: CR H3563-3564)
+- 2013-06-13 — Amendment (A019) offered by Mr. Nolan. (consideration: CR H3566-3567; text: CR H3566)
+- 2013-06-13 — Amendment (A021) offered by Mr. Larsen (WA). (consideration: CR H3571-3572; text: CR H3571)
+- 2013-06-13 — Amendment (A022) offered by Mr. Gibson. (consideration: CR H3572-3574; text: CR H3572)
+- 2013-06-13 — Amendment (A023) offered by Mr. Coffman. (consideration: CR H3574-3575; text: CR H3574)
+- 2013-06-13 — Amendment agreed to Committee of the Whole
+- 2013-06-13 — Amendment agreed to Committee of the Whole
+- 2013-06-13 — Amendment agreed to Committee of the Whole
+- 2013-06-13 — Amendment agreed to Committee of the Whole
+- 2013-06-13 — Amendment agreed to Committee of the Whole
+- 2013-06-13 — Amendment agreed to Committee of the Whole
+- 2013-06-13 — Amendment agreed to Committee of the Whole
+- 2013-06-13 — Amendment agreed to Committee of the Whole
+- 2013-06-13 — Amendment agreed to Committee of the Whole
+- 2013-06-13 — Amendment agreed to Committee of the Whole
+- 2013-06-13 — Amendment agreed to Committee of the Whole
+- 2013-06-13 — Amendment agreed to Committee of the Whole
+- 2013-06-13 — Amendment agreed to Committee of the Whole
+- 2013-06-13 — Amendment agreed to Committee of the Whole
+- 2013-06-13 — Amendment agreed to Committee of the Whole
+- 2013-06-13 — Amendment failed in Committee of the Whole
+- 2013-06-13 — Amendment failed in Committee of the Whole
+- 2013-06-13 — Amendment failed in Committee of the Whole
+- 2013-06-13 — Amendment failed in Committee of the Whole
+- 2013-06-13 — Amendments en bloc (A006) offered by Mr. McKeon. (consideration: CR H3526-3531; text en bloc: CR H3526-3530)
+- 2013-06-13 — Amendments en bloc (A013) offered by Mr. McKeon. (consideration: CR H3542-3548; text en bloc: CR H3542-3544)
+- 2013-06-13 — Amendments en bloc (A016) offered by Mr. McKeon. (consideration: CR H3556-3562; text en bloc: CR H3556-3559)
+- 2013-06-13 — Amendments en bloc (A020) offered by Mr. Thornberry. (consideration: CR H3567-3571; text en bloc: CR H3567-3570)
+- 2013-06-13 — Amendments en bloc (A024) offered by Mr. McKeon. (consideration: CR H3575-3579; text en bloc: CR H3575-3579)
+- 2013-06-13 — Amendments en bloc (A025) offered by Mr. McKeon. (consideration: CR H3579-3585; text en bloc: CR H3579-3584)
+- 2013-06-13 — Amendments en bloc (A026) offered by Mr. McKeon. (consideration: CR H3585-3589; text en bloc: CR H3585-3588)
+- 2013-06-13 — By unanimous consent, the Denham amendment was withdrawn. (consideration: CR H3554)
+- 2013-06-13 — Committee of the Whole House on the state of the Union rises leaving H.R. 1960 as unfinished business.
+- 2013-06-13 — Considered as unfinished business. (consideration: CR H3382-3553; text of amendment in the nature of a substitute: CR H3382-3519)
+- 2013-06-13 — Considered as unfinished business. (consideration: CR H3553-3589)
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer Part B amendment No. 2.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Coffman (CO) Part B amendment No. 5.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Coffman (CO) amendment No. 37.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Denham amendment No. 15.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Gibson amendment No. 36.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Goodlatte amendment No. 11.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Holt amendment No. 22.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Larsen (WA) amendment No. 33.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Lummis Part B amendment No. 3.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the McCollum amendment No. 25.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the McGovern amendment No. 10.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the McKeon Part B amendment No. 1.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Nolan amendment No. 32.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce Part B amendment No. 4.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Radel amendment No. 12.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Rigell Part B amendment No. 9.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (WA) amendment No. 13.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Turner (OH) amendment No. 21.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Turner Part B amendment No. 6.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon en bloc amendments #1.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon en bloc amendments #2.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon en bloc amendments #3.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon en bloc amendments #5.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon en bloc amendments #6.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon en bloc amendments #7.
+- 2013-06-13 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry (TX) en bloc amendments #4.
+- 2013-06-13 — House amendment agreed to: On agreeing to the Goodlatte amendment (A010) Agreed to by recorded vote: 214 - 211 (Roll no. 227).
+- 2013-06-13 — House amendment agreed to: On agreeing to the Lummis amendment (A003) Agreed to by recorded vote: 235 - 189 (Roll no. 223).
+- 2013-06-13 — House amendment agreed to: On agreeing to the McGovern amendment (A009) Agreed to by recorded vote: 305 - 121 (Roll no. 226).
+- 2013-06-13 — House amendment agreed to: On agreeing to the McKeon amendment (A001) Agreed to by voice vote.
+- 2013-06-13 — House amendment agreed to: On agreeing to the McKeon amendments (A006) Agreed to by voice vote.
+- 2013-06-13 — House amendment agreed to: On agreeing to the McKeon amendments (A013) Agreed to by voice vote.
+- 2013-06-13 — House amendment agreed to: On agreeing to the McKeon amendments (A016) as modified Agreed to by voice vote.
+- 2013-06-13 — House amendment agreed to: On agreeing to the McKeon amendments (A024) Agreed to by voice vote.
+- 2013-06-13 — House amendment agreed to: On agreeing to the McKeon amendments (A025) Agreed to by voice vote.
+- 2013-06-13 — House amendment agreed to: On agreeing to the McKeon amendments (A026) Agreed to by voice vote.
+- 2013-06-13 — House amendment agreed to: On agreeing to the Pearce amendment (A004) Agreed to by voice vote.
+- 2013-06-13 — House amendment agreed to: On agreeing to the Radel amendment (A011) Agreed to by voice vote.
+- 2013-06-13 — House amendment agreed to: On agreeing to the Thornberry amendments (A020) Agreed to by voice vote.
+- 2013-06-13 — House amendment agreed to: On agreeing to the Turner amendment (A007) Agreed to by voice vote.
+- 2013-06-13 — House amendment not agreed to: On agreeing to the Blumenauer amendment (A002) Failed by recorded vote: 106 - 318 (Roll no. 222).
+- 2013-06-13 — House amendment not agreed to: On agreeing to the Coffman amendment (A005) Failed by recorded vote: 206 - 220 (Roll no. 224).
+- 2013-06-13 — House amendment not agreed to: On agreeing to the Rigell amendment (A008) Failed by recorded vote: 178 - 248 (Roll no. 225).
+- 2013-06-13 — House amendment not agreed to: On agreeing to the Smith (WA) amendment (A012) Failed by recorded vote: 200 - 226 (Roll no. 228).
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered
+- 2013-06-13 — House amendment offered/reported by: Amendment (A001) offered by Mr. McKeon.(consideration: CR H3520; text: CR H3520)
+- 2013-06-13 — House amendment offered/reported by: Amendment (A002) offered by Mr. Blumenauer.(consideration: CR H3520-3521, H3548; text: CR H3520)
+- 2013-06-13 — House amendment offered/reported by: Amendment (A003) offered by Mrs. Lummis.(consideration: CR H3521-3523, H3549; text: CR H3522)
+- 2013-06-13 — House amendment offered/reported by: Amendment (A004) offered by Mr. Pearce.(consideration: CR H3523-3524; text: CR H3523)
+- 2013-06-13 — House amendment offered/reported by: Amendment (A005) offered by Mr. Coffman.(consideration: CR H3524-3526, H3549-3550; text: CR H3524)
+- 2013-06-13 — House amendment offered/reported by: Amendment (A007) offered by Mr. Turner.(consideration: CR H3532-3533; text: CR H3532)
+- 2013-06-13 — House amendment offered/reported by: Amendment (A008) offered by Mr. Rigell.(consideration: CR H3533-3535, H3550; text: CR H3533)
+- 2013-06-13 — House amendment offered/reported by: Amendment (A009) offered by Mr. McGovern.(consideration: CR H3535-3537, H3550-3551; text: CR H3535)
+- 2013-06-13 — House amendment offered/reported by: Amendment (A010) offered by Mr. Goodlatte.(consideration: CR H3537-3538, H3551-3552, text: CR H3537)
+- 2013-06-13 — House amendment offered/reported by: Amendment (A011) offered by Mr. Radel.(consideration: CR H3538-3539; text: CR H3539)
+- 2013-06-13 — House amendment offered/reported by: Amendment (A012) offered by Mr. Smith (WA).(consideration: CR H3539-3542, H3552; text: CR H3539-3540)
+- 2013-06-13 — House amendment offered/reported by: Amendment (A014) offered by Mr. Denham.(consideration: CR H3553-3554; text: CR H3553)
+- 2013-06-13 — House amendment offered/reported by: Amendment (A015) offered by Mr. Turner.(consideration: CR H3555-3556; text: CR H3555)
+- 2013-06-13 — House amendment offered/reported by: Amendment (A017) offered by Mr. Holt.(consideration: CR H3562-3563; text: CR H3562)
+- 2013-06-13 — House amendment offered/reported by: Amendment (A018) offered by Ms. McCollum.(consideration: CR H3563-3566; text: CR H3563-3564)
+- 2013-06-13 — House amendment offered/reported by: Amendment (A019) offered by Mr. Nolan.(consideration: CR H3566-3567; text: CR H3566)
+- 2013-06-13 — House amendment offered/reported by: Amendment (A021) offered by Mr. Larsen (WA).(consideration: CR H3571-3572; text: CR H3571)
+- 2013-06-13 — House amendment offered/reported by: Amendment (A022) offered by Mr. Gibson.(consideration: CR H3572-3574; text: CR H3572)
+- 2013-06-13 — House amendment offered/reported by: Amendment (A023) offered by Mr. Coffman.(consideration: CR H3574-3575; text: CR H3574)
+- 2013-06-13 — House amendment offered/reported by: Amendments en bloc (A006) offered by Mr. McKeon.(consideration: CR H3526-3531; text en bloc: CR H3526-3530)
+- 2013-06-13 — House amendment offered/reported by: Amendments en bloc (A013) offered by Mr. McKeon.(consideration: CR H3542-3548; text en bloc: CR H3542-3544)
+- 2013-06-13 — House amendment offered/reported by: Amendments en bloc (A016) offered by Mr. McKeon.(consideration: CR H3556-3562; text en bloc: CR H3556-3559)
+- 2013-06-13 — House amendment offered/reported by: Amendments en bloc (A020) offered by Mr. Thornberry.(consideration: CR H3567-3571; text en bloc: CR H3567-3570)
+- 2013-06-13 — House amendment offered/reported by: Amendments en bloc (A024) offered by Mr. McKeon.(consideration: CR H3575-3579; text en bloc: CR H3575-3579)
+- 2013-06-13 — House amendment offered/reported by: Amendments en bloc (A025) offered by Mr. McKeon.(consideration: CR H3579-3585; text en bloc: CR H3579-3584)
+- 2013-06-13 — House amendment offered/reported by: Amendments en bloc (A026) offered by Mr. McKeon.(consideration: CR H3585-3589; text en bloc: CR H3585-3588)
+- 2013-06-13 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 260 and Rule XVIII.
+- 2013-06-13 — McKeon amendment (A016) modified by unanimous consent. (consideration: CR H3559)
+- 2013-06-13 — Mr. McKeon moved that the Committee rise.
+- 2013-06-13 — Mr. McKeon moved that the Committee rise.
+- 2013-06-13 — ORDER OF PROCEDURE - Mr. McKeon asked unanimous consent that during further consideration of H.R. 1960 pursuant to H. Res. 260, amendments 18, 19, and 20 printed in Part B of House Report 113-108 may be considered out of sequence. Agreed to without objection.
+- 2013-06-13 — ORDER OF PROCEDURE - Mr. McKeon asked unanimous consent that during further consideration of H.R. 1960 pursuant to H.Res. 260, amendments 14 and 23 printed in part B of House Report 113-108 may be considered out of sequence. Agreed to without objection.
+- 2013-06-13 — On agreeing to the Blumenauer amendment (A002) Failed by recorded vote: 106 - 318 (Roll no. 222).
+- 2013-06-13 — On agreeing to the Coffman amendment (A005) Failed by recorded vote: 206 - 220 (Roll no. 224).
+- 2013-06-13 — On agreeing to the Goodlatte amendment (A010) Agreed to by recorded vote: 214 - 211 (Roll no. 227).
+- 2013-06-13 — On agreeing to the Lummis amendment (A003) Agreed to by recorded vote: 235 - 189 (Roll no. 223).
+- 2013-06-13 — On agreeing to the McGovern amendment (A009) Agreed to by recorded vote: 305 - 121 (Roll no. 226).
+- 2013-06-13 — On agreeing to the McKeon amendment (A001) Agreed to by voice vote.
+- 2013-06-13 — On agreeing to the McKeon amendments (A006) Agreed to by voice vote.
+- 2013-06-13 — On agreeing to the McKeon amendments (A013) Agreed to by voice vote.
+- 2013-06-13 — On agreeing to the McKeon amendments (A016) as modified Agreed to by voice vote.
+- 2013-06-13 — On agreeing to the McKeon amendments (A024) Agreed to by voice vote.
+- 2013-06-13 — On agreeing to the McKeon amendments (A025) Agreed to by voice vote.
+- 2013-06-13 — On agreeing to the McKeon amendments (A026) Agreed to by voice vote.
+- 2013-06-13 — On agreeing to the Pearce amendment (A004) Agreed to by voice vote.
+- 2013-06-13 — On agreeing to the Radel amendment (A011) Agreed to by voice vote.
+- 2013-06-13 — On agreeing to the Rigell amendment (A008) Failed by recorded vote: 178 - 248 (Roll no. 225).
+- 2013-06-13 — On agreeing to the Smith (WA) amendment (A012) Failed by recorded vote: 200 - 226 (Roll no. 228).
+- 2013-06-13 — On agreeing to the Thornberry amendments (A020) Agreed to by voice vote.
+- 2013-06-13 — On agreeing to the Turner amendment (A007) Agreed to by voice vote.
+- 2013-06-13 — On motion that the Committee rise Agreed to by voice vote.
+- 2013-06-13 — On motion that the Committee rise Agreed to by voice vote.
+- 2013-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blumenauer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Blumenauer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Coffman (CO) amendment No. 37, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Coffman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Coffman amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Coffman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gibson amendment No. 36, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Gibson demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Goodlatte amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Holt amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Holt demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Larsen (WA) amendment No. 33, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Larsen (WA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lummis amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McCollum amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McGovern amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. McGovern demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Nolan amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Nolan demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rigell amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Rigell demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (WA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Turner (OH) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Larsen (WA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-06-13 — Roll call votes on amendments in House
+- 2013-06-13 — Roll call votes on amendments in House
+- 2013-06-13 — Roll call votes on amendments in House
+- 2013-06-13 — Roll call votes on amendments in House
+- 2013-06-13 — Roll call votes on amendments in House
+- 2013-06-13 — Roll call votes on amendments in House
+- 2013-06-13 — Roll call votes on amendments in House
+- 2013-06-13 — Rule H. Res. 260 passed House.
+- 2013-06-13 — Rule provides for consideration of H.R. 1960. Motion to recommit with or without instructions allowed. Measure will be considered read. Specified amendments are in order. The resolution makes in order only those further amendments printed in part B of this report and amendments en bloc described in Section 3 of this resolution.
+- 2013-06-13 — Rules Committee Resolution H. Res. 260 Reported to House. Rule provides for consideration of H.R. 1960. Motion to recommit with or without instructions allowed. Measure will be considered read. Specified amendments are in order. The resolution makes in order only those further amendments printed in part B of this report and amendments en bloc described in Section 3 of this resolution.
+- 2013-06-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2013-06-13 — The Speaker designated the Honorable Lee Terry to act as Chairman of the Committee.
+- 2013-06-13 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2013-06-14 — Amendment (A027) offered by Mrs. Walorski. (consideration: CR H3595-3596, H3629; text: CR H3595)
+- 2013-06-14 — Amendment (A028) offered by Mr. Smith (WA). (consideration: CR H3596-3599, H3629-3630; text: CR H3596-3597)
+- 2013-06-14 — Amendment (A029) offered by Mr. Polis. (consideration: CR H3599-3601, H3630-3631; text: CR H3600)
+- 2013-06-14 — Amendment (A030) offered by Mr. Polis. (consideration: CR H3601-3603, H3631; text: CR H3601)
+- 2013-06-14 — Amendment (A031) offered by Mr. Van Hollen. (consideration: CR H3603-3605, H3631-3632; text: CR H3603)
+- 2013-06-14 — Amendment (A032) offered by Mr. Walz. (consideration: CR H3605; text: CR H3605)
+- 2013-06-14 — Amendment (A034) offered by Mr. Blumenauer. (consideration: CR H3620-3623, H3632-3633; text: CR H3620-3621)
+- 2013-06-14 — Amendment (A035) offered by Ms. DeLauro. (consideration: CR H3623-3624, H3633; text: CR H3623)
+- 2013-06-14 — Amendment agreed to Committee of the Whole
+- 2013-06-14 — Amendment agreed to Committee of the Whole
+- 2013-06-14 — Amendment agreed to Committee of the Whole
+- 2013-06-14 — Amendment agreed to Committee of the Whole
+- 2013-06-14 — Amendment agreed to Committee of the Whole
+- 2013-06-14 — Amendment agreed to Committee of the Whole
+- 2013-06-14 — Amendment failed in Committee of the Whole
+- 2013-06-14 — Amendment failed in Committee of the Whole
+- 2013-06-14 — Amendment failed in Committee of the Whole
+- 2013-06-14 — Amendment failed in Committee of the Whole
+- 2013-06-14 — Amendment failed in Committee of the Whole
+- 2013-06-14 — Amendment failed in Committee of the Whole
+- 2013-06-14 — Amendment failed in Committee of the Whole
+- 2013-06-14 — Amendment failed in Committee of the Whole
+- 2013-06-14 — Amendment failed in Committee of the Whole
+- 2013-06-14 — Amendment failed in Committee of the Whole
+- 2013-06-14 — Amendment failed in Committee of the Whole
+- 2013-06-14 — Amendments en bloc (A033) offered by Mr. McKeon. (consideration: CR H3605-3620; text en bloc: CR H3605-3616)
+- 2013-06-14 — Considered as unfinished business. (consideration: CR H3594-3636)
+- 2013-06-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer amendment No. 123.
+- 2013-06-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the DeLauro amendment No. 137.
+- 2013-06-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 14.
+- 2013-06-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 23.
+- 2013-06-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Van Hollen amendment No. 39.
+- 2013-06-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Walorksi amendment No. 19.
+- 2013-06-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Walz amendment No. 53.
+- 2013-06-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon en bloc amendments #8.
+- 2013-06-14 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 20 minutes of debate on the Smith (WA) amendment No. 20.
+- 2013-06-14 — DEBATE - The House proceeded with 10 minutes of debate on the Duckworth motion to recommit with instructions to report the same back to the House forthwith with an amendment to require that for any sexual assault or sex-related offense, the commander refers the charges to the staff judge advocate. If the victim chooses not to pursue the case through the commander, the victim can seek to refer the charges to the Office of the Chief Prosecutor of the armed force of which the accused is a member. Finally, the motion would require any armed force which does not currently have a Chief Prosecutor to appoint one.
+- 2013-06-14 — House amendment agreed to: On agreeing to the Blumenauer amendment (A034) Agreed to by recorded vote: 420 - 3 (Roll no. 241).
+- 2013-06-14 — House amendment agreed to: On agreeing to the DeLauro amendment (A035) Agreed to by recorded vote: 423 - 0 (Roll no. 242).
+- 2013-06-14 — House amendment agreed to: On agreeing to the McKeon amendments (A033) Agreed to by voice vote.
+- 2013-06-14 — House amendment agreed to: On agreeing to the Turner amendment (A015) Agreed to by recorded vote: 239 - 182 (Roll no. 229).(consideration: CR H3624)
+- 2013-06-14 — House amendment agreed to: On agreeing to the Walorski amendment (A027) Agreed to by recorded vote: 236 - 188 (Roll no. 236).
+- 2013-06-14 — House amendment agreed to: On agreeing to the Walz amendment (A032) Agreed to by voice vote.
+- 2013-06-14 — House amendment not agreed to: On agreeing to the Coffman amendment (A023) Failed by recorded vote: 110 - 313 (Roll no. 235).(consideration: CR H3628-3629)
+- 2013-06-14 — House amendment not agreed to: On agreeing to the Gibson amendment (A022) Failed by recorded vote: 123 - 301 (Roll no. 234).(consideration: CR H3627-3628)
+- 2013-06-14 — House amendment not agreed to: On agreeing to the Holt amendment (A017) Failed by recorded vote: 61 - 362 (Roll no. 230).(consideration: CR H3625)
+- 2013-06-14 — House amendment not agreed to: On agreeing to the Larsen (WA) amendment Failed by recorded vote: 195 - 229 (Roll no. 233).(consideration: CR H3627)
+- 2013-06-14 — House amendment not agreed to: On agreeing to the McCollum amendment (A018) Failed by recorded vote: 134 - 290 (Roll no. 231).(consideration: CR H3625-3626)
+- 2013-06-14 — House amendment not agreed to: On agreeing to the Nolan amendment (A019) Failed by recorded vote: 71 - 353 (Roll no. 232).(consideration: CR H3626-3627)
+- 2013-06-14 — House amendment not agreed to: On agreeing to the Polis amendment (A029) Failed by recorded vote: 150 - 274 (Roll no. 238).
+- 2013-06-14 — House amendment not agreed to: On agreeing to the Polis amendment (A030) Failed by recorded vote: 146 - 278 (Roll no. 239).
+- 2013-06-14 — House amendment not agreed to: On agreeing to the Smith (WA) amendment (A028) Failed by recorded vote: 174 - 249 (Roll no. 237).
+- 2013-06-14 — House amendment not agreed to: On agreeing to the Van Hollen amendment (A031) Failed by recorded vote: 191 - 232 (Roll no. 240).
+- 2013-06-14 — House amendment offered
+- 2013-06-14 — House amendment offered
+- 2013-06-14 — House amendment offered
+- 2013-06-14 — House amendment offered
+- 2013-06-14 — House amendment offered
+- 2013-06-14 — House amendment offered
+- 2013-06-14 — House amendment offered
+- 2013-06-14 — House amendment offered
+- 2013-06-14 — House amendment offered
+- 2013-06-14 — House amendment offered/reported by: Amendment (A027) offered by Mrs. Walorski.(consideration: CR H3595-3596, H3629; text: CR H3595)
+- 2013-06-14 — House amendment offered/reported by: Amendment (A028) offered by Mr. Smith (WA).(consideration: CR H3596-3599, H3629-3630; text: CR H3596-3597)
+- 2013-06-14 — House amendment offered/reported by: Amendment (A029) offered by Mr. Polis.(consideration: CR H3599-3601, H3630-3631; text: CR H3600)
+- 2013-06-14 — House amendment offered/reported by: Amendment (A030) offered by Mr. Polis.(consideration: CR H3601-3603, H3631; text: CR H3601)
+- 2013-06-14 — House amendment offered/reported by: Amendment (A031) offered by Mr. Van Hollen.(consideration: CR H3603-3605, H3631-3632; text: CR H3603)
+- 2013-06-14 — House amendment offered/reported by: Amendment (A032) offered by Mr. Walz.(consideration: CR H3605; text: CR H3605)
+- 2013-06-14 — House amendment offered/reported by: Amendment (A034) offered by Mr. Blumenauer.(consideration: CR H3620-3623, H3632-3633; text: CR H3620-3621)
+- 2013-06-14 — House amendment offered/reported by: Amendment (A035) offered by Ms. DeLauro.(consideration: CR H3623-3624, H3633; text: CR H3623)
+- 2013-06-14 — House amendment offered/reported by: Amendments en bloc (A033) offered by Mr. McKeon.(consideration: CR H3605-3620; text en bloc: CR H3605-3616)
+- 2013-06-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-06-14 — Ms. Duckworth moved to recommit with instructions to Armed Services. (consideration: CR H3633-3635; text: CR H3633-3634)
+- 2013-06-14 — On agreeing to the Blumenauer amendment (A034) Agreed to by recorded vote: 420 - 3 (Roll no. 241).
+- 2013-06-14 — On agreeing to the Coffman amendment (A023) Failed by recorded vote: 110 - 313 (Roll no. 235). (consideration: CR H3628-3629)
+- 2013-06-14 — On agreeing to the DeLauro amendment (A035) Agreed to by recorded vote: 423 - 0 (Roll no. 242).
+- 2013-06-14 — On agreeing to the Gibson amendment (A022) Failed by recorded vote: 123 - 301 (Roll no. 234). (consideration: CR H3627-3628)
+- 2013-06-14 — On agreeing to the Holt amendment (A017) Failed by recorded vote: 61 - 362 (Roll no. 230). (consideration: CR H3625)
+- 2013-06-14 — On agreeing to the Larsen (WA) amendment Failed by recorded vote: 195 - 229 (Roll no. 233). (consideration: CR H3627)
+- 2013-06-14 — On agreeing to the McCollum amendment (A018) Failed by recorded vote: 134 - 290 (Roll no. 231). (consideration: CR H3625-3626)
+- 2013-06-14 — On agreeing to the McKeon amendments (A033) Agreed to by voice vote.
+- 2013-06-14 — On agreeing to the Nolan amendment (A019) Failed by recorded vote: 71 - 353 (Roll no. 232). (consideration: CR H3626-3627)
+- 2013-06-14 — On agreeing to the Polis amendment (A029) Failed by recorded vote: 150 - 274 (Roll no. 238).
+- 2013-06-14 — On agreeing to the Polis amendment (A030) Failed by recorded vote: 146 - 278 (Roll no. 239).
+- 2013-06-14 — On agreeing to the Smith (WA) amendment (A028) Failed by recorded vote: 174 - 249 (Roll no. 237).
+- 2013-06-14 — On agreeing to the Turner amendment (A015) Agreed to by recorded vote: 239 - 182 (Roll no. 229). (consideration: CR H3624)
+- 2013-06-14 — On agreeing to the Van Hollen amendment (A031) Failed by recorded vote: 191 - 232 (Roll no. 240).
+- 2013-06-14 — On agreeing to the Walorski amendment (A027) Agreed to by recorded vote: 236 - 188 (Roll no. 236).
+- 2013-06-14 — On agreeing to the Walz amendment (A032) Agreed to by voice vote.
+- 2013-06-14 — On motion to recommit with instructions Failed by recorded vote: 194 - 225, 1 Present (Roll no. 243). (consideration: CR H3635)
+- 2013-06-14 — On passage Passed by recorded vote: 315 - 108 (Roll no. 244).
+- 2013-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blumenauer amendment No. 123, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Blumenauer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeLauro amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. DeLauro demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment No. 14, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Polis demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment No. 23, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Polis demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (WA) amendment No. 20, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Van Hollen amendment No. 39, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Van Hollen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Walorski amendment No. 19, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith(WA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-06-14 — Passed/agreed to in House: On passage Passed by recorded vote: 315 - 108 (Roll no. 244).
+- 2013-06-14 — Roll call votes on amendments in House
+- 2013-06-14 — Roll call votes on amendments in House
+- 2013-06-14 — Roll call votes on amendments in House
+- 2013-06-14 — Roll call votes on amendments in House
+- 2013-06-14 — Roll call votes on amendments in House
+- 2013-06-14 — Roll call votes on amendments in House
+- 2013-06-14 — Roll call votes on amendments in House
+- 2013-06-14 — Roll call votes on amendments in House
+- 2013-06-14 — Roll call votes on amendments in House
+- 2013-06-14 — Roll call votes on amendments in House
+- 2013-06-14 — Roll call votes on amendments in House
+- 2013-06-14 — Roll call votes on amendments in House
+- 2013-06-14 — Roll call votes on amendments in House
+- 2013-06-14 — Roll call votes on amendments in House
+- 2013-06-14 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 1960.
+- 2013-06-14 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2013-06-14 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2013-06-14 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1960.
+- 2013-06-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3634)
+- 2013-06-14 — The previous question was ordered pursuant to the rule. (consideration: CR H3633)
+- 2013-06-14 — The title of the measure was amended. Agreed to without objection.
+- 2013-06-14 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
