@@ -2,40 +2,38 @@
 legis-num: H.R. 588
 congress: 113th CONGRESS
 session: 1st Session
-chamber: In the Senate of the United States,
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H.R. 588
 
-That the bill from the House of Representatives (H.R. 588) entitled “An Act to provide for donor contribution acknowledgments to be displayed at the Vietnam Veterans Memorial Visitor Center, and for other purposes.”, do pass with the following
+That the House agree to the amendment of the Senate to the bill (H.R. 588) entitled “An Act to provide for donor contribution acknowledgments to be displayed at the Vietnam Veterans Memorial Visitor Center, and for other purposes.”, with the following
 
-*Strike all after the enacting clause and insert the following:*
+*In lieu of the matter proposed to be inserted by the amendment of the Senate to the text of the bill, insert the following:*
 
-## § 1. Donor contributions
+## § 1. Short title
 
-Section 8905(b) of title 40, United States Code is amended by striking paragraph (7) and inserting the following:
+This Act may be cited as the “Vietnam Veterans Donor Acknowledgment Act of 2013”.
 
-> - **(7)** *Donor contributions*
->   - **(A)** *In general* Except as otherwise provided in this paragraph, the Secretary or Administrator, as applicable, may permit a sponsor described in subsection (a) to acknowledge donor contributions at the commemorative work.
->   - **(B)** *Requirements* Acknowledgments shall—
->     - **(i)** be displayed inside a visitor center or other ancillary structure associated with the commemorative work; and
->     - **(ii)** conform to applicable National Park Service or General Services Administration guidelines for donor recognition, as applicable.
->   - **(C)** *Limitations* Acknowledgments shall—
->     - **(i)** be limited to an appropriate statement or credit recognizing the contribution;
->     - **(ii)** be displayed in a form approved by the Secretary or Administrator;
->     - **(iii)** be displayed for a period of time determined by the Secretary or Administrator to be appropriate, commensurate with the level of the contribution;
->     - **(iv)** be limited to short, discrete, and unobtrusive acknowledgments or credits; and
->     - **(v)** not include any advertising slogans or company logos.
->   - **(D)** *Submittal of plan*
->     - **(i)** *In general* Prior to the display of donor acknowledgments, the sponsor shall submit to the Secretary or Administrator, as applicable, for approval a plan for displaying the donor acknowledgments, including—
->       - **(I)** the sample text and types of acknowledgments to be displayed; and
->       - **(II)** the form and location of all displays.
->     - **(ii)** *Notification and resubmittal* If the Secretary or Administrator does not approve the plan submitted under clause (i), the Secretary or Administrator shall—
->       - **(I)** not later than 60 days after the date on which the plan is received, notify the sponsor of the reasons the plan is not approved; and
->       - **(II)** allow the sponsor to resubmit a revised donor acknowledgment plan.
->   - **(E)** *Cost* The sponsor shall bear all expenses related to the display of donor acknowledgments.
->   - **(F)** *Applicability* This paragraph shall apply to any commemorative work dedicated after January 1, 2010.
+## § 2. Donor contribution acknowledgments at the Vietnam Veterans Memorial Visitor Center
 
-## § 2. Extension of legislative authority for vietnam memorial visitor center
+Section 6(b) of Public Law 96–297 (16 U.S.C. 431 note) is amended—
 
-Section 6(b)(5) of Public Law 96–297 (16 U.S.C. 431 note; 124 Stat. 2851) is amended by striking “2014” and inserting “2018”.
+- **(1)** in paragraph (4) by striking the “and” after the semicolon;
+- **(2)** in paragraph (5)—
+  - **(A)** by striking “2014” and inserting “2018”; and
+  - **(B)** by striking the period and inserting “; and”; and
+- **(3)** by inserting at the end the following new paragraph:
+  > - **(6)** notwithstanding section 8905(b)(7) of title 40, United States Code—
+  >   - **(A)** the Secretary of the Interior shall allow the Vietnam Veterans Memorial Fund, Inc. to acknowledge donor contributions to the visitor center by displaying, inside the visitor center, an appropriate statement or credit acknowledging the contribution;
+  >   - **(B)** donor contribution acknowledgments shall be displayed in a form approved by the Secretary of the Interior and for a period of time commensurate with the level of the contribution and the life of the facility;
+  >   - **(C)** the Vietnam Veterans Memorial Fund shall bear all expenses related to the display of donor acknowledgments;
+  >   - **(D)** prior to the display of donor acknowledgments, the Vietnam Veterans Memorial Fund, Inc. shall submit to the Secretary for approval, its plan for displaying donor acknowledgments;
+  >   - **(E)** such plan shall include the sample text and types of the acknowledgments or credits to be displayed and the form and location of all displays;
+  >   - **(F)** the Secretary shall approve the plan, if the Secretary determines that the plan—
+  >     - **(i)** allows only short, discrete, and unobtrusive acknowledgments or credits;
+  >     - **(ii)** does not permit any advertising slogans or company logos; and
+  >     - **(iii)** conforms to applicable National Park Service guidelines for indoor donor recognition; and
+  >   - **(G)** if the Secretary of the Interior determines that the proposed plan submitted under this paragraph, does not meet the requirements of this paragraph, the Secretary shall—
+  >     - **(i)** advise the Vietnam Veterans Memorial Fund, Inc. not later than 30 days after receipt of the proposed plan of the reasons that such plan does not meet the requirements; and
+  >     - **(ii)** allow the Vietnam Veterans Memorial Fund, Inc. to submit a revised donor recognition plan.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 588
 congress: 113
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 588
@@ -95,3 +95,5 @@ Vietnam Veterans Donor Acknowledgment Act of 2013
 - 2013-06-03 — Senate amendment agreed to: Amendment SA 1154 agreed to in Senate by Unanimous Consent.
 - 2013-06-03 — Senate amendment proposed (on the floor): Amendment SA 1154 proposed by Senator Stabenow for Senator Wyden.(consideration: CR S3912; text: CR S3912)
 - 2013-06-03 — Senate amendment submitted
+- 2013-06-04 — Message on Senate action sent to the House.
+- 2013-06-17 — House agreed to Senate amendment with an amendment pursuant to H. Res. 264 (consideration: CR H3660-3661)
