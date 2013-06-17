@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1300
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 16 U.S.C. § 742f
 
-> Section 7(g) of the Fish and Wildlife Act of 1956 (16 U.S.C. 742f(g)) is amended by striking “2011 through 2014” and inserting “2014 through 2018”.
+> Section 7(g) of the Fish and Wildlife Act of 1956 (16 U.S.C. 742f(g)) is amended by striking “2011 through 2014” and inserting “2015 through 2017”.
 
 | | |
 |---|---|
 | Removed | `2011 through 2014` |
-| Inserted | `2014 through 2018` |
+| Inserted | `2015 through 2017` |
