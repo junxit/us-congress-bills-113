@@ -1,7 +1,7 @@
 ---
 measure: S. 330
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 4 executed, 8 stated and not applied.
+7 amendatory instructions. 3 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,15 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 42 U.S.C. § 273
-
-> Section 371(b)(3)(C) of the Public Health Service Act (42 U.S.C. 273(b)(3)(C); relating to organ procurement organizations) is amended by striking “including arranging for testing with respect to preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome” and inserting “including arranging for testing with respect to identifying organs that are infected with human immunodeficiency virus (HIV)”.
-
-| | |
-|---|---|
-| Removed | `including arranging for testing with respect to preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome` |
-| Inserted | `including arranging for testing with respect to identifying organs that are infected with human immunodeficiency virus (HIV)` |
 
 ### 42 U.S.C. § 273
 
@@ -70,10 +61,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 274` | strike | in paragraph (2)(E), by striking “, including standards for preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 274` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 273` | insert | Part H of title III of the Public Health Service Act (42 U.S.C. 273 et seq.) is amended by inserting after section 377D the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1122` | add-at-end | Section 1122 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 274` | strike | in paragraph (2)(E), by striking “, including standards for preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 274` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 273` | insert | Part H of title III of the Public Health Service Act (42 U.S.C. 273 et seq.) is amended by inserting after section 377D the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1122` | add-at-end | Section 1122 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1122` | insert | Section 1122(a) of title 18, United States Code, is amended by inserting “or in accordance with all applicable guidelines and regulations made by the Secretary of Health and Human Services under section 377E of the Public Health Service … | the bill quotes the text inserted but describes where it goes |
