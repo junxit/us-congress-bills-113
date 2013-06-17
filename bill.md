@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 588
-congress: 113th CONGRESS
-session: 1st Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 588
 
-That the House agree to the amendment of the Senate to the bill (H.R. 588) entitled “An Act to provide for donor contribution acknowledgments to be displayed at the Vietnam Veterans Memorial Visitor Center, and for other purposes.”, with the following
-
-*In lieu of the matter proposed to be inserted by the amendment of the Senate to the text of the bill, insert the following:*
+> To provide for donor contribution acknowledgments to be displayed at the Vietnam Veterans Memorial Visitor Center, and for other purposes.
 
 ## § 1. Short title
 

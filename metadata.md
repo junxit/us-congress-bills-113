@@ -1,7 +1,7 @@
 ---
 measure: H.R. 588
 congress: 113
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 588
@@ -97,3 +97,13 @@ Vietnam Veterans Donor Acknowledgment Act of 2013
 - 2013-06-03 — Senate amendment submitted
 - 2013-06-04 — Message on Senate action sent to the House.
 - 2013-06-17 — House agreed to Senate amendment with an amendment pursuant to H. Res. 264 (consideration: CR H3660-3661)
+- 2013-06-18 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2013-07-10 — Resolving differences -- Senate actions: Senate agreed to House amendment to Senate amendment by Unanimous Consent.(consideration: CR S5623)
+- 2013-07-10 — Senate agreed to House amendment to Senate amendment by Unanimous Consent. (consideration: CR S5623)
+- 2013-07-11 — Message on Senate action sent to the House.
+- 2013-07-12 — Presented to President.
+- 2013-07-12 — Presented to President.
+- 2013-07-18 — Became Public Law No: 113-21.
+- 2013-07-18 — Became Public Law No: 113-21.
+- 2013-07-18 — Signed by President.
+- 2013-07-18 — Signed by President.
