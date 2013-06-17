@@ -1,7 +1,7 @@
 ---
 measure: H.R. 520
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 520
@@ -58,3 +58,9 @@ Buffalo Soldiers in the National Parks Study Act
 - 2013-05-17 — Placed on the Union Calendar, Calendar No. 56.
 - 2013-05-17 — Reported by the Committee on Natural Resources. H. Rept. 113-81.
 - 2013-05-17 — Reported by the Committee on Natural Resources. H. Rept. 113-81.
+- 2013-06-17 — Considered under suspension of the rules. (consideration: CR H3665-3666)
+- 2013-06-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 520.
+- 2013-06-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-06-17 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
+- 2013-06-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3665)
+- 2013-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3665)
