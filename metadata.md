@@ -1,7 +1,7 @@
 ---
 measure: H.R. 862
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 862
@@ -20,9 +20,10 @@ To authorize the conveyance of two small parcels of land within the boundaries o
 
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ To authorize the conveyance of two small parcels of land within the boundaries o
 - 2013-06-17 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2013-06-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 1 (Roll no. 247). (text: CR H3664)
 - 2013-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 1 (Roll no. 247).(text: CR H3664)
+- 2013-06-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
