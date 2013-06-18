@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1797
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 1 U.S.C. § 8
+### 18 U.S.C. § 1531
 
 > The chapter heading for chapter 74 of title 18, United States Code, is amended by striking “Partial-Birth Abortions” and inserting “Abortions”.
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `Partial-Birth Abortions` |
 | Inserted | `Abortions` |
 
-### 1 U.S.C. § 8
+### 18 U.S.C. § 1531
 
 > The item relating to chapter 74 in the table of chapters at the beginning of part I of title 18, United States Code, is amended by striking “Partial-Birth Abortions” and inserting “Abortions”.
 
@@ -51,5 +51,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `1 U.S.C. § 8` | insert | Chapter 74 of title 18, United States Code, is amended by inserting after section 1531 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `1 U.S.C. § 8` | add-at-end | The table of sections at the beginning of chapter 74 of title 18, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1531` | insert | Chapter 74 of title 18, United States Code, is amended by inserting after section 1531 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1531` | add-at-end | The table of sections at the beginning of chapter 74 of title 18, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

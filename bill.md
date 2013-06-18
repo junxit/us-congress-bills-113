@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1797
 
-> To amend title 18, United States Code, to protect pain-capable unborn children in the District of Columbia, and for other purposes.
+> To amend title 18, United States Code, to protect pain-capable unborn children, and for other purposes.
 
 ## § 1. Short title
 
@@ -42,27 +42,29 @@ Congress finds and declares the following:
   >   - **(1)** The physician performing or attempting the abortion shall first make a determination of the probable post-fertilization age of the unborn child or reasonably rely upon such a determination made by another physician. In making such a determination, the physician shall make such inquiries of the pregnant woman and perform or cause to be performed such medical examinations and tests as a reasonably prudent physician, knowledgeable about the case and the medical conditions involved, would consider necessary to make an accurate determination of post-fertilization age.
   >   - **(2)**
   >     - **(A)** Except as provided in subparagraph (B), the abortion shall not be performed or attempted, if the probable post-fertilization age, as determined under paragraph (1), of the unborn child is 20 weeks or greater.
-  >     - **(B)** Subject to subparagraph (C), subparagraph (A) does not apply if, in reasonable medical judgment, the abortion is necessary to save the life of a pregnant woman whose life is endangered by a physical disorder, physical illness, or physical injury, including a life-endangering physical condition caused by or arising from the pregnancy itself, but not including psychological or emotional conditions.
-  >     - **(C)** Notwithstanding the definitions of “abortion” and “attempt an abortion” in this section, a physician terminating or attempting to terminate a pregnancy under the exception provided by subparagraph (B) may do so only in the manner which, in reasonable medical judgment, provides the best opportunity for the unborn child to survive, unless, in reasonable medical judgment, termination of the pregnancy in that manner would pose a greater risk of—
+  >     - **(B)** Subject to subparagraph (C), subparagraph (A) does not apply if—
+  >       - **(i)** in reasonable medical judgment, the abortion is necessary to save the life of a pregnant woman whose life is endangered by a physical disorder, physical illness, or physical injury, including a life-endangering physical condition caused by or arising from the pregnancy itself, but not including psychological or emotional conditions; or
+  >       - **(ii)** the pregnancy is the result of rape, or the result of incest against a minor, if the rape has been reported at any time prior to the abortion to an appropriate law enforcement agency, or if the incest against a minor has been reported at any time prior to the abortion to an appropriate law enforcement agency or to a government agency legally authorized to act on reports of child abuse or neglect.
+  >     - **(C)** Notwithstanding the definitions of “abortion” and “attempt an abortion” in this section, a physician terminating or attempting to terminate a pregnancy under an exception provided by subparagraph (B) may do so only in the manner which, in reasonable medical judgment, provides the best opportunity for the unborn child to survive, unless, in reasonable medical judgment, termination of the pregnancy in that manner would pose a greater risk of—
   >       - **(i)** the death of the pregnant woman; or
   >       - **(ii)** the substantial and irreversible physical impairment of a major bodily function, not including psychological or emotional conditions, of the pregnant woman;
   > - **(c)** *Criminal penalty* Whoever violates subsection (a) shall be fined under this title or imprisoned for not more than 5 years, or both.
   > - **(d)** *Bar to prosecution* A woman upon whom an abortion in violation of subsection (a) is performed or attempted may not be prosecuted under, or for a conspiracy to violate, subsection (a), or for an offense under section 2, 3, or 4 of this title based on such a violation.
   > - **(e)** *Definitions* In this section the following definitions apply:
-  >   - **(1)** *Abortion* The term “abortion” means the use or prescription of any instrument, medicine, drug, or any other substance or device—
+  >   - **(1)** *Abortion* The term abortion means the use or prescription of any instrument, medicine, drug, or any other substance or device—
   >     - **(A)** to intentionally kill the unborn child of a woman known to be pregnant; or
   >     - **(B)** to intentionally terminate the pregnancy of a woman known to be pregnant, with an intention other than—
   >       - **(i)** after viability to produce a live birth and preserve the life and health of the child born alive; or
   >       - **(ii)** to remove a dead unborn child.
-  >   - **(2)** *Attempt an abortion* The term “attempt”, with respect to an abortion, means conduct that, under the circumstances as the actor believes them to be, constitutes a substantial step in a course of conduct planned to culminate in performing an abortion.
-  >   - **(3)** *Fertilization* The term “fertilization” means the fusion of human spermatozoon with a human ovum.
-  >   - **(4)** *Perform* The term “perform”, with respect to an abortion, includes induce an abortion through a medical or chemical intervention including writing a prescription for a drug or device intended to result in an abortion.
-  >   - **(5)** *Physician* The term “physician” means a person licensed to practice medicine and surgery or osteopathic medicine and surgery, or otherwise legally authorized to perform an abortion.
-  >   - **(6)** *Post-fertilization age* The term “post-fertilization age” means the age of the unborn child as calculated from the fusion of a human spermatozoon with a human ovum.
-  >   - **(7)** *Probable post-fertilization age of the unborn child* The term “probable post-fertilization age of the unborn child” means what, in reasonable medical judgment, will with reasonable probability be the postfertilization age of the unborn child at the time the abortion is planned to be performed or induced.
-  >   - **(8)** *Reasonable medical judgment* The term “reasonable medical judgment” means a medical judgment that would be made by a reasonably prudent physician, knowledgeable about the case and the treatment possibilities with respect to the medical conditions involved.
-  >   - **(9)** *Unborn child* The term “unborn child” means an individual organism of the species homo sapiens, beginning at fertilization, until the point of being born alive as defined in section 8(b) of title 1.
-  >   - **(10)** *Woman* The term “woman” means a female human being whether or not she has reached the age of majority.
+  >   - **(2)** *Attempt an abortion* The term attempt, with respect to an abortion, means conduct that, under the circumstances as the actor believes them to be, constitutes a substantial step in a course of conduct planned to culminate in performing an abortion.
+  >   - **(3)** *Fertilization* The term fertilization means the fusion of human spermatozoon with a human ovum.
+  >   - **(4)** *Perform* The term perform, with respect to an abortion, includes induce an abortion through a medical or chemical intervention including writing a prescription for a drug or device intended to result in an abortion.
+  >   - **(5)** *Physician* The term physician means a person licensed to practice medicine and surgery or osteopathic medicine and surgery, or otherwise legally authorized to perform an abortion.
+  >   - **(6)** *Post-fertilization age* The term post-fertilization age means the age of the unborn child as calculated from the fusion of a human spermatozoon with a human ovum.
+  >   - **(7)** *Probable post-fertilization age of the unborn child* The term probable post-fertilization age of the unborn child means what, in reasonable medical judgment, will with reasonable probability be the postfertilization age of the unborn child at the time the abortion is planned to be performed or induced.
+  >   - **(8)** *Reasonable medical judgment* The term reasonable medical judgment means a medical judgment that would be made by a reasonably prudent physician, knowledgeable about the case and the treatment possibilities with respect to the medical conditions involved.
+  >   - **(9)** *Unborn child* The term unborn child means an individual organism of the species homo sapiens, beginning at fertilization, until the point of being born alive as defined in section 8(b) of title 1.
+  >   - **(10)** *Woman* The term woman means a female human being whether or not she has reached the age of majority.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 74 of title 18, United States Code, is amended by adding at the end the following new item:
 - **(c)** *Chapter heading amendments*

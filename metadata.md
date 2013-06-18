@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1797
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1797
@@ -208,6 +208,10 @@ Pain-Capable Unborn Child Protection Act
 - House — Oversight and Accountability Committee
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2013-06-18 — [House 113-1-251](votes/house-113-1-0251.md) — On Passage — **Passed** (228–196)
+
 ## Actions
 
 - 2013-04-26 — Introduced in House
@@ -227,3 +231,14 @@ Pain-Capable Unborn Child Protection Act
 - 2013-06-14 — Placed on the Union Calendar, Calendar No. 77.
 - 2013-06-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-109, Part I.
 - 2013-06-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-109, Part I.
+- 2013-06-17 — Rules Committee Resolution H. Res. 266 Reported to House. The resolution provides for one hour of debate on H.R. 1947 and provides for consideration of H.R. 1797 with one hour of debate and one motion to recommit with or without instructions.
+- 2013-06-18 — Considered as unfinished business. (consideration: CR H3743-3744)
+- 2013-06-18 — Considered under the provisions of rule H. Res. 266. (consideration: CR H3730-3743)
+- 2013-06-18 — DEBATE - The House proceeded with one hour of debate on H.R. 1797.
+- 2013-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-06-18 — On passage Passed by the Yeas and Nays: 228 - 196 (Roll no. 251). (text: CR H3730-3731)
+- 2013-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1797, the Chair put the question on passage and, by voice vote, announced that the ayes had prevailed. Ms. Ros-Lehtinen demanded the yeas and nays and the Chair postponed further proceedings on the question of passage until later in the legislative day.
+- 2013-06-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 228 - 196 (Roll no. 251).(text: CR H3730-3731)
+- 2013-06-18 — The previous question was ordered pursuant to the rule. (consideration: CR H3743)
+- 2013-06-18 — The resolution provides for one hour of debate on H.R. 1947 and provides for consideration of H.R. 1797 with one hour of debate and one motion to recommit with or without instructions.
+- 2013-06-18 — The title of the measure was amended. Agreed to without objection.
