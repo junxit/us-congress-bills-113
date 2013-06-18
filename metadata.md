@@ -1,7 +1,7 @@
 ---
 measure: H.R. 876
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 876
@@ -16,9 +16,10 @@ Idaho Wilderness Water Resources Protection Act
 
 - Rep. Simpson, Michael K. [R-ID-2] (S001148)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ Idaho Wilderness Water Resources Protection Act
 - 2013-06-17 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2013-06-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 245). (text: CR H3659)
 - 2013-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 245).(text: CR H3659)
+- 2013-06-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
