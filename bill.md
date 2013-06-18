@@ -2,7 +2,7 @@
 legis-num: H. RES. 266
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 266
@@ -13,4 +13,4 @@ That at any time after the adoption of this resolution the Speaker may, pursuant
 
 ## § 2.
 
-Upon the adoption of this resolution it shall be in order to consider in the House the bill (H.R. 1797) to amend title 18, United States Code, to protect pain-capable unborn children in the District of Columbia, and for other purposes. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-15 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any amendment thereto to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary; and (2) one motion to recommit with or without instructions.
+Upon the adoption of this resolution it shall be in order to consider in the House the bill (H.R. 1797) to amend title 18, United States Code, to protect pain-capable unborn children in the District of Columbia, and for other purposes. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113–15 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any amendment thereto to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary; and (2) one motion to recommit with or without instructions.
