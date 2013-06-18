@@ -1,7 +1,7 @@
 ---
 measure: S. 330
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 330
@@ -16,7 +16,7 @@ HIV Organ Policy Equity Act
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Cosponsors (14)
+## Cosponsors (15)
 
 - Sen. Coburn, Tom [R-OK] (C000560)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
@@ -32,6 +32,7 @@ HIV Organ Policy Equity Act
 - Sen. Blunt, Roy [R-MO] (B000575)
 - Sen. Levin, Carl [D-MI] (L000261)
 - Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Harkin, Tom [D-IA] (H000206)
 
 ## Committees (3)
 
@@ -60,3 +61,16 @@ HIV Organ Policy Equity Act
 - 2013-06-18 — Received in the House.
 - 2013-06-18 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-06-18 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-06-21 — Referred to the Subcommittee on Health.
+- 2013-07-15 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2013-11-12 — Considered under suspension of the rules. (consideration: CR H6967-6971)
+- 2013-11-12 — DEBATE - The House proceeded with forty minutes of debate on S. 330.
+- 2013-11-12 — Mr. Upton moved to suspend the rules and pass the bill.
+- 2013-11-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6968)
+- 2013-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6968)
+- 2013-11-14 — Presented to President.
+- 2013-11-14 — Presented to President.
+- 2013-11-21 — Became Public Law No: 113-51.
+- 2013-11-21 — Became Public Law No: 113-51.
+- 2013-11-21 — Signed by President.
+- 2013-11-21 — Signed by President.
