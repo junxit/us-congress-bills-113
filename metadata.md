@@ -1,7 +1,7 @@
 ---
 measure: H.R. 674
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 674
@@ -24,9 +24,10 @@ Rota Cultural and Natural Resources Study Act
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 - Rep. Markey, Edward J. [D-MA-5] (M000133)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Rota Cultural and Natural Resources Study Act
 - 2013-06-17 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2013-06-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3663)
 - 2013-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3663)
+- 2013-06-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
