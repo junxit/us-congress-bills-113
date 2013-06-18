@@ -1,7 +1,7 @@
 ---
 measure: H.R. 253
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 253
@@ -16,9 +16,10 @@ Y Mountain Access Enhancement Act
 
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ Y Mountain Access Enhancement Act
 - 2013-06-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 1 (Roll no. 246). (text: CR H3661-3662)
 - 2013-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 1 (Roll no. 246).(text: CR H3661-3662)
 - 2013-06-17 — The title of the measure was amended. Agreed to without objection.
+- 2013-06-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
