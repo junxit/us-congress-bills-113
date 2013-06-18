@@ -16,7 +16,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 2. Amendments to ensure access to child support services for international child support cases
 
-- **(a)** *Authority of the secretary of hhs To ensure compliance with multilateral child support conventions*
+- **(a)** *Authority of the secretary of HHS To ensure compliance with multilateral child support conventions*
   - **(1)** *In general* Section 452 (42 U.S.C. 652) is amended—
     - **(A)** by redesignating the second subsection (l) (as added by section 7306 of the Deficit Reduction Act of 2005) as subsection (m); and
     - **(B)** by adding at the end the following:
@@ -46,7 +46,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(B)** in paragraph (2), by inserting “and foreign treaty countries” after “foreign reciprocating countries”; and
   - **(3)** in subsection (d), by striking “the subject of a declaration pursuant to subsection (a)” and inserting “foreign reciprocating countries or foreign treaty countries”.
 - **(e)** *Collection of past-Due support from federal tax refunds* Section 464(a)(2)(A) (42 U.S.C. 664(a)(2)(A)) is amended by striking “under section 454(4)(A)(ii)” and inserting “under paragraph (4)(A)(ii) or (32) of section 454”.
-- **(f)** *State law requirement concerning the uniform interstate family support act (uifsa)*
+- **(f)** *State law requirement concerning the uniform interstate family support act (UIFSA)*
   - **(1)** *In general* Section 466(f) (42 U.S.C. 666(f)) is amended—
     - **(A)** by striking “on and after January 1, 1998,”;
     - **(B)** by striking “and as in effect on August 22, 1996,”; and

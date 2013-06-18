@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1896
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `or foreign obligee` |
 | Inserted | `, foreign treaty country, or foreign individual` |
 
-### 42 U.S.C. § 652
+### 42 U.S.C. § 659a
 
 > in the matter preceding paragraph (1), by striking “foreign countries that are the subject of a declaration under this section” and inserting “foreign reciprocating countries or foreign treaty countries”; and
 
@@ -51,7 +51,7 @@ to guess them.
 | Removed | `foreign countries that are the subject of a declaration under this section` |
 | Inserted | `foreign reciprocating countries or foreign treaty countries` |
 
-### 42 U.S.C. § 652
+### 42 U.S.C. § 659a
 
 > in subsection (d), by striking “the subject of a declaration pursuant to subsection (a)” and inserting “foreign reciprocating countries or foreign treaty countries”.
 
@@ -78,7 +78,7 @@ to guess them.
 | Removed | `adopted as of such date` |
 | Inserted | `adopted as of September 30, 2008` |
 
-### 42 U.S.C. § 666
+### 28 U.S.C. § 1738B
 
 > in subsection (d), by striking “individual contestant” and inserting “individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order,”;
 
@@ -87,7 +87,7 @@ to guess them.
 | Removed | `individual contestant` |
 | Inserted | `individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order,` |
 
-### 42 U.S.C. § 666
+### 28 U.S.C. § 1738B
 
 > in subsection (e)(2)(A), by striking “individual contestant” and inserting “individual contestant and the parties have not consented in a record or open court that the tribunal of the other State may continue to exercise jurisdiction to modify its order”; and
 
@@ -96,7 +96,7 @@ to guess them.
 | Removed | `individual contestant` |
 | Inserted | `individual contestant and the parties have not consented in a record or open court that the tribunal of the other State may continue to exercise jurisdiction to modify its order` |
 
-### 42 U.S.C. § 666
+### 28 U.S.C. § 1738B
 
 > by striking “child means” and inserting “(1) The term child means”;
 
@@ -105,7 +105,7 @@ to guess them.
 | Removed | `child means` |
 | Inserted | `(1) The term child means` |
 
-### 42 U.S.C. § 666
+### 28 U.S.C. § 1738B
 
 > by striking “child’s State means” and inserting “(2) The term child’s State means”;
 
@@ -114,7 +114,7 @@ to guess them.
 | Removed | `child’s State means` |
 | Inserted | `(2) The term child’s State means` |
 
-### 42 U.S.C. § 666
+### 28 U.S.C. § 1738B
 
 > by striking “child’s home State means” and inserting “(3) The term child’s home State means”;
 
@@ -123,7 +123,7 @@ to guess them.
 | Removed | `child’s home State means` |
 | Inserted | `(3) The term child’s home State means` |
 
-### 42 U.S.C. § 666
+### 28 U.S.C. § 1738B
 
 > by striking “child support means” and inserting “(4) The term child support means”;
 
@@ -132,7 +132,7 @@ to guess them.
 | Removed | `child support means` |
 | Inserted | `(4) The term child support means` |
 
-### 42 U.S.C. § 666
+### 28 U.S.C. § 1738B
 
 > by striking “child support order” and inserting “(5) The term child support order”;
 
@@ -141,7 +141,7 @@ to guess them.
 | Removed | `child support order` |
 | Inserted | `(5) The term child support order` |
 
-### 42 U.S.C. § 666
+### 28 U.S.C. § 1738B
 
 > by striking “contestant means” and inserting “(6) The term contestant means”;
 
@@ -150,7 +150,7 @@ to guess them.
 | Removed | `contestant means` |
 | Inserted | `(6) The term contestant means` |
 
-### 42 U.S.C. § 666
+### 28 U.S.C. § 1738B
 
 > by striking “court means” and inserting “(7) The term court means”;
 
@@ -159,7 +159,7 @@ to guess them.
 | Removed | `court means` |
 | Inserted | `(7) The term court means` |
 
-### 42 U.S.C. § 666
+### 28 U.S.C. § 1738B
 
 > by striking “modification means” and inserting “(8) The term modification means”; and
 
@@ -168,7 +168,7 @@ to guess them.
 | Removed | `modification means` |
 | Inserted | `(8) The term modification means` |
 
-### 42 U.S.C. § 666
+### 28 U.S.C. § 1738B
 
 > by striking “State means” and inserting “(9) The term State means”.
 
@@ -196,14 +196,14 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 652` | redesignate | by redesignating the second subsection (l) (as added by section 7306 of the Deficit Reduction Act of 2005) as subsection (m); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 652` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 652` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 653` | strike | by striking “and” at the end of paragraph (3); | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 653` | replace | by striking the period at the end of paragraph (4) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 653` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 653` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 654` | insert | in paragraph (4)(A)(ii), by inserting before the semicolon “(except that, if the individual applying for the services resides in a foreign reciprocating country or foreign treaty country, the State may opt to require the individual to re… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 654` | insert | in subparagraph (A), by inserting “, a foreign treaty country,” after “a foreign reciprocating country”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 652` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 652` | insert | in paragraph (2), by inserting “and foreign treaty countries” after “foreign reciprocating countries”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 659a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 659a` | insert | in paragraph (2), by inserting “and foreign treaty countries” after “foreign reciprocating countries”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 666` | strike | by striking “on and after January 1, 1998,”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 666` | strike | by striking “and as in effect on August 22, 1996,”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 652` | add-at-end | Section 452 (42 U.S.C. 652), as amended by section 2(a)(1) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
