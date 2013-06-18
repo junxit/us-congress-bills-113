@@ -1,7 +1,7 @@
 ---
 measure: S. 330
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 330
@@ -33,9 +33,11 @@ HIV Organ Policy Equity Act
 - Sen. Levin, Carl [D-MI] (L000261)
 - Sen. Pryor, Mark L. [D-AR] (P000590)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Judiciary Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -54,3 +56,7 @@ HIV Organ Policy Equity Act
 - 2013-06-17 — Senate amendment proposed (on the floor): Amendment SA 1315 proposed by Senator King for Senator Grassley.(consideration: CR S4534; text: CR S4534)
 - 2013-06-17 — Senate amendment submitted
 - 2013-06-17 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2013-06-18 — Message on Senate action sent to the House.
+- 2013-06-18 — Received in the House.
+- 2013-06-18 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-06-18 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
