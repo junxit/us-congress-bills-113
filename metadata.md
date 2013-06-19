@@ -1,7 +1,7 @@
 ---
 measure: H.R. 475
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 475
@@ -38,3 +38,10 @@ To amend the Internal Revenue Code of 1986 to include vaccines against seasonal 
 - 2013-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3704)
 - 2013-06-19 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.(consideration: CR S4725)
 - 2013-06-19 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S4725)
+- 2013-06-20 — Message on Senate action sent to the House.
+- 2013-06-21 — Presented to President.
+- 2013-06-21 — Presented to President.
+- 2013-06-25 — Became Public Law No: 113-15.
+- 2013-06-25 — Became Public Law No: 113-15.
+- 2013-06-25 — Signed by President.
+- 2013-06-25 — Signed by President.

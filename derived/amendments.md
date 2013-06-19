@@ -1,7 +1,7 @@
 ---
 measure: H.R. 475
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Subparagraph (N) of section 4132(a)(1) of the Internal Revenue Code of 1986 is amended by inserting “or any other vaccine against seasonal influenza” before the period. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 4132` | insert | Subparagraph (N) of section 4132(a)(1) of the Internal Revenue Code of 1986 is amended by inserting “or any other vaccine against seasonal influenza” before the period. | the bill quotes the text inserted but describes where it goes |
