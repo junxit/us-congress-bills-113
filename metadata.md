@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1896
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1896
@@ -34,11 +34,12 @@ International Child Support Recovery Improvement Act of 2013
 - Rep. Paulsen, Erik [R-MN-3] (P000594)
 - Rep. Buchanan, Vern [R-FL-16] (B001260)
 
-## Committees (3)
+## Committees (4)
 
 - House — Judiciary Committee
 - House — Ways and Means Committee
 - House — Budget Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -62,3 +63,4 @@ International Child Support Recovery Improvement Act of 2013
 - 2013-06-18 — Mr. Reichert moved to suspend the rules and pass the bill.
 - 2013-06-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 27 (Roll no. 252). (text: CR H3700-3702)
 - 2013-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 27 (Roll no. 252).(text: CR H3700-3702)
+- 2013-06-19 — Received in the Senate and Read twice and referred to the Committee on Finance.
