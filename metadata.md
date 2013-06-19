@@ -1,7 +1,7 @@
 ---
 measure: S. 579
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 579
@@ -16,7 +16,7 @@ A bill to direct the Secretary of State to develop a strategy to obtain observer
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (21)
+## Cosponsors (22)
 
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Coats, Daniel [R-IN] (C000542)
@@ -39,6 +39,7 @@ A bill to direct the Secretary of State to develop a strategy to obtain observer
 - Sen. Murphy, Christopher [D-CT] (M001169)
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (1)
 
@@ -52,3 +53,5 @@ A bill to direct the Secretary of State to develop a strategy to obtain observer
 - 2013-06-13 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. With written report No. 113-42.
 - 2013-06-13 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. With written report No. 113-42.
 - 2013-06-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 86.
+- 2013-06-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4716-4717; text as passed Senate: CR S4716-4717)
+- 2013-06-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4716-4717; text as passed Senate: CR S4716-4717)
