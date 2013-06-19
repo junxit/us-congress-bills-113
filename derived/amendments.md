@@ -1,7 +1,7 @@
 ---
 measure: S. 459
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 461` | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 461` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
