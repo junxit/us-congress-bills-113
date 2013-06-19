@@ -1,7 +1,7 @@
 ---
 measure: S. 304
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 304
@@ -32,3 +32,5 @@ Natchez Trace Parkway Land Conveyance Act of 2013
 - 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-25.
 - 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-25.
 - 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 56.
+- 2013-06-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4717-4722; text as passed Senate: CR S4720-4721)
+- 2013-06-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4717-4722; text as passed Senate: CR S4720-4721)
