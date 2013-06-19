@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1151
 congress: 113
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1151
@@ -127,3 +127,12 @@ To direct the Secretary of State to develop a strategy to obtain observer status
 - 2013-06-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 250). (text: CR H3706)
 - 2013-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 250).(text: CR H3706)
 - 2013-06-19 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 90.
+- 2013-06-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5509)
+- 2013-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5509)
+- 2013-06-28 — Message on Senate action sent to the House.
+- 2013-07-02 — Presented to President.
+- 2013-07-02 — Presented to President.
+- 2013-07-12 — Became Public Law No: 113-17.
+- 2013-07-12 — Became Public Law No: 113-17.
+- 2013-07-12 — Signed by President.
+- 2013-07-12 — Signed by President.
