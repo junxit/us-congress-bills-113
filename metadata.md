@@ -1,7 +1,7 @@
 ---
 measure: S. 276
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 276
@@ -32,3 +32,5 @@ A bill to reinstate and extend the deadline for commencement of construction of 
 - 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-24. Additional views filed.
 - 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-24. Additional views filed.
 - 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 55.
+- 2013-06-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4717-4722; text as passed Senate: CR S4720)
+- 2013-06-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4717-4722; text as passed Senate: CR S4720)
