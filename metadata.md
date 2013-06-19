@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1797
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1797
@@ -203,10 +203,11 @@ Pain-Capable Unborn Child Protection Act
 - Rep. Rigell, E. Scott [R-VA-2] (R000589)
 - Rep. Hurt, Robert [R-VA-5] (H001060)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -242,3 +243,4 @@ Pain-Capable Unborn Child Protection Act
 - 2013-06-18 — The previous question was ordered pursuant to the rule. (consideration: CR H3743)
 - 2013-06-18 — The resolution provides for one hour of debate on H.R. 1947 and provides for consideration of H.R. 1797 with one hour of debate and one motion to recommit with or without instructions.
 - 2013-06-18 — The title of the measure was amended. Agreed to without objection.
+- 2013-06-19 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
