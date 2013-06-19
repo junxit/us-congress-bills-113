@@ -1,7 +1,7 @@
 ---
 measure: S. 393
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 393
@@ -33,3 +33,5 @@ White Clay Creek Wild and Scenic River Expansion Act of 2013
 - 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-31.
 - 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-31.
 - 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 62.
+- 2013-06-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4717-4722; text as passed Senate: CR S4721)
+- 2013-06-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4717-4722; text as passed Senate: CR S4721)
