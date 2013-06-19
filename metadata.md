@@ -1,7 +1,7 @@
 ---
 measure: S. 230
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 230
@@ -35,3 +35,5 @@ A bill to authorize the Peace Corps Commemorative Foundation to establish a comm
 - 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-21.
 - 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-21.
 - 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 52.
+- 2013-06-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4717-4722; text as passed Senate: CR S4720)
+- 2013-06-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4717-4722; text as passed Senate: CR S4720)
