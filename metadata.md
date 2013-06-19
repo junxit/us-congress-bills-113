@@ -1,7 +1,7 @@
 ---
 measure: S. 112
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 112
@@ -32,3 +32,5 @@ Alpine Lakes Wilderness Additions and Pratt and Middle Fork Snoqualmie Rivers Pr
 - 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-17.
 - 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-17.
 - 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 48.
+- 2013-06-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4717-4722; text as passed Senate: CR S4718-4719)
+- 2013-06-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4717-4722; text as passed Senate: CR S4718-4719)
