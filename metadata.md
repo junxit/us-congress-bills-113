@@ -1,7 +1,7 @@
 ---
 measure: S. 25
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 25
@@ -32,3 +32,5 @@ To ensure that the reduced annual cost-of-living adjustment to the retired pay o
 - 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-15.
 - 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-15.
 - 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 46.
+- 2013-06-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4717-4722; text as passed Senate: CR S4717-4718)
+- 2013-06-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4717-4722; text as passed Senate: CR S4717-4718)
