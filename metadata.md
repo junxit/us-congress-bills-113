@@ -1,7 +1,7 @@
 ---
 measure: S. 157
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 157
@@ -20,9 +20,10 @@ Denali National Park Improvement Act
 
 - Sen. Begich, Mark [D-AK] (B001265)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ Denali National Park Improvement Act
 - 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 50.
 - 2013-06-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4717-4722; text as passed Senate: CR S4719-4720)
 - 2013-06-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4717-4722; text as passed Senate: CR S4719-4720)
+- 2013-06-20 — Message on Senate action sent to the House.
+- 2013-06-20 — Received in the House.
+- 2013-06-20 — Referred to the House Committee on Natural Resources.
