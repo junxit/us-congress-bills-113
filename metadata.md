@@ -1,7 +1,7 @@
 ---
 measure: S. 304
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 304
@@ -20,9 +20,10 @@ Natchez Trace Parkway Land Conveyance Act of 2013
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ Natchez Trace Parkway Land Conveyance Act of 2013
 - 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 56.
 - 2013-06-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4717-4722; text as passed Senate: CR S4720-4721)
 - 2013-06-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4717-4722; text as passed Senate: CR S4720-4721)
+- 2013-06-20 — Message on Senate action sent to the House.
+- 2013-06-20 — Received in the House.
+- 2013-06-20 — Referred to the House Committee on Natural Resources.
