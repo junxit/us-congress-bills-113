@@ -1,7 +1,7 @@
 ---
 measure: S. 393
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 393
@@ -21,9 +21,10 @@ White Clay Creek Wild and Scenic River Expansion Act of 2013
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ White Clay Creek Wild and Scenic River Expansion Act of 2013
 - 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 62.
 - 2013-06-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4717-4722; text as passed Senate: CR S4721)
 - 2013-06-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4717-4722; text as passed Senate: CR S4721)
+- 2013-06-20 — Message on Senate action sent to the House.
+- 2013-06-20 — Received in the House.
+- 2013-06-20 — Referred to the House Committee on Natural Resources.
