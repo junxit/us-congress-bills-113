@@ -1,7 +1,7 @@
 ---
 measure: S. 112
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
