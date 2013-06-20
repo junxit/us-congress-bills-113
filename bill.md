@@ -1,0 +1,46 @@
+---
+legis-num: H.R. 2454
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2454
+
+> To amend title 18, United States Code, to provide for clarification as to the meaning of access without authorization, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Aaron’s Law Act of 2013”.
+
+## § 2. Clarifying that “access without authorization” under 18 U.S.C. 1030 means circumvention of technological barriers in order to gain unauthorized access
+
+- **(a)** *In general* Section 1030(e)(6) of title 18, United States Code, is amended by—
+  - **(1)** striking “exceeds authorized access” and all that follows; and
+  - **(2)** inserting the following:
+    > “access without authorization” means—
+    > - **(A)** to obtain information on a protected computer;
+    > - **(B)** that the accesser lacks authorization to obtain; and
+    > - **(C)** by knowingly circumventing one or more technological or physical measures that are designed to exclude or prevent unauthorized individuals from obtaining that information;
+
+- **(b)** *Conforming amendment* Section 1030 of title 18, United States Code, is amended—
+  - **(1)** in subsection (d)(10) by striking “unauthorized access, or exceeding authorized access, to a” and inserting “access without authorization of a protected”; and
+  - **(2)** by striking “exceeds authorized access” each place it appears.
+
+## § 3. Eliminating redundancy
+
+Section 1030(a)(4) of title 18, United States Code, is repealed.
+
+## § 4. Making penalties proportional to crimes
+
+Section 1030(c)(2) of title 18, United States Code is amended—
+
+- **(1)** in subparagraph (A)—
+  - **(A)** by striking “conviction for another” and inserting “subsequent”; and
+  - **(B)** by inserting “such” after “attempt to commit”;
+- **(2)** in subparagraph (B)(i), by inserting after “financial gain” the following: “and the fair market value of the information obtained exceeds $5,000”;
+- **(3)** in subparagraph (B)(ii), by striking “the offense was committed” and all that follows through the semicolon, and inserting the following: “the offense was committed in furtherance of any criminal act in violation of the Constitution or laws of the United States or of any State punishable by a term of imprisonment greater than one year, unless such criminal acts are prohibited by this section or such State violation would be based solely on accessing information without authorization;”;
+- **(4)** in subparagraph (B)(iii), by inserting “fair market” before “value”; and
+- **(5)** in subparagraph (C)—
+  - **(A)** by striking “conviction for another” and inserting “subsequent”; and
+  - **(B)** by inserting “such” after “attempt to commit”.
