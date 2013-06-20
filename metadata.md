@@ -1,7 +1,7 @@
 ---
 measure: S. 276
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 276
@@ -38,3 +38,18 @@ A bill to reinstate and extend the deadline for commencement of construction of 
 - 2013-06-20 — Message on Senate action sent to the House.
 - 2013-06-20 — Received in the House.
 - 2013-06-20 — Referred to the House Committee on Energy and Commerce.
+- 2013-06-21 — Referred to the Subcommittee on Energy and Power.
+- 2014-09-10 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Whitfield objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2014-09-10 — Considered under suspension of the rules. (consideration: CR H7408-7409)
+- 2014-09-10 — DEBATE - The House proceeded with forty minutes of debate on S. 276.
+- 2014-09-10 — Mr. Whitfield moved to suspend the rules and pass the bill.
+- 2014-09-11 — Considered as unfinished business. (consideration: CR H7439)
+- 2014-09-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR: 9/10/2014 H7408)
+- 2014-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR: 9/10/2014 H7408)
+- 2014-09-16 — Presented to President.
+- 2014-09-16 — Presented to President.
+- 2014-09-26 — Became Public Law No: 113-177.
+- 2014-09-26 — Became Public Law No: 113-177.
+- 2014-09-26 — Signed by President.
+- 2014-09-26 — Signed by President.

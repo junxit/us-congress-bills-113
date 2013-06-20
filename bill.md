@@ -1,8 +1,8 @@
 ---
 legis-num: S. 276
-congress: 113th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+congress: One Hundred Thirteenth Congress of the United States of America
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 276
