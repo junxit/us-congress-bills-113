@@ -1,7 +1,7 @@
 ---
 measure: S. 230
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 230
@@ -23,9 +23,11 @@ A bill to authorize the Peace Corps Commemorative Foundation to establish a comm
 - Sen. Begich, Mark [D-AK] (B001265)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
+- House — Budget Committee
 
 ## Actions
 
@@ -37,3 +39,7 @@ A bill to authorize the Peace Corps Commemorative Foundation to establish a comm
 - 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 52.
 - 2013-06-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4717-4722; text as passed Senate: CR S4720)
 - 2013-06-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4717-4722; text as passed Senate: CR S4720)
+- 2013-06-20 — Message on Senate action sent to the House.
+- 2013-06-20 — Received in the House.
+- 2013-06-20 — Referred to the Committee on Natural Resources, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-06-20 — Referred to the Committee on Natural Resources, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
