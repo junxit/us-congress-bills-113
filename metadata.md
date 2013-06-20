@@ -1,7 +1,7 @@
 ---
 measure: S. 23
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 23
@@ -38,3 +38,15 @@ Sleeping Bear Dunes National Lakeshore Conservation and Recreation Act
 - 2013-06-20 — Message on Senate action sent to the House.
 - 2013-06-20 — Received in the House.
 - 2013-06-20 — Referred to the House Committee on Natural Resources.
+- 2013-06-21 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2014-03-04 — Considered under suspension of the rules. (consideration: CR H2125-2126)
+- 2014-03-04 — DEBATE - The House proceeded with forty minutes of debate on S. 23.
+- 2014-03-04 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
+- 2014-03-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2125)
+- 2014-03-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2125)
+- 2014-03-06 — Presented to President.
+- 2014-03-06 — Presented to President.
+- 2014-03-13 — Became Public Law No: 113-87.
+- 2014-03-13 — Became Public Law No: 113-87.
+- 2014-03-13 — Signed by President.
+- 2014-03-13 — Signed by President.
