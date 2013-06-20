@@ -1,7 +1,7 @@
 ---
 measure: S. 162
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 162
@@ -16,7 +16,7 @@ Justice and Mental Health Collaboration Act of 2013
 
 - Sen. Franken, Al [D-MN] (F000457)
 
-## Cosponsors (18)
+## Cosponsors (30)
 
 - Sen. Johanns, Mike [R-NE] (J000291)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
@@ -36,6 +36,18 @@ Justice and Mental Health Collaboration Act of 2013
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
 
 ## Committees (1)
 
@@ -45,3 +57,7 @@ Justice and Mental Health Collaboration Act of 2013
 
 - 2013-01-28 — Introduced in Senate
 - 2013-01-28 — Read twice and referred to the Committee on the Judiciary.
+- 2013-06-20 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2013-06-20 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2013-06-20 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2013-06-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 92.

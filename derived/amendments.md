@@ -1,7 +1,7 @@
 ---
 measure: S. 162
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-17 amendatory instructions. 2 executed, 15 stated and not applied.
+35 amendatory instructions. 4 executed, 31 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,24 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 42 U.S.C. § 3797aa
+
+> in the heading, by striking “Mental illness” and inserting “Mental illness; mental health disorder”; and
+
+| | |
+|---|---|
+| Removed | `Mental illness` |
+| Inserted | `Mental illness; mental health disorder` |
+
+### 42 U.S.C. § 3797aa
+
+> by striking “term mental illness means” and inserting “terms mental illness and mental health disorder mean”; and
+
+| | |
+|---|---|
+| Removed | `term mental illness means` |
+| Inserted | `terms mental illness and mental health disorder mean` |
 
 ### 42 U.S.C. § 3797aa
 
@@ -66,3 +84,19 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 3797aa` | replace | in subparagraph (C), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3797aa` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3797aa` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797aa` | redesignate | Section 2991 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797aa) is amended by redesignating subsection (i) as subsection (n). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797aa` | insert | Section 2991 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797aa) is amended by inserting after subsection (h) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797aa` | insert | Section 2991 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797aa) is amended by inserting after subsection (i), as so added by section 2, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797aa` | insert | Section 2991 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797aa) is amended by inserting after subsection (j), as added by section 3, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797aa` | add-at-end | in paragraph (1), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797aa` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797aa` | strike | in paragraph (3), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3797aa` | redesignate | by redesignating paragraph (4) as paragraph (6); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797aa` | insert | by inserting after paragraph (3), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797aa` | replace | by striking paragraph (9) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797s-6` | replace | Section 2927(2) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797s–6(2)) is amended by striking “has the meaning given that term in section 2991(a).” and inserting “means an offense that— | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3797aa` | insert | Section 2991 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797aa) is amended by inserting after subsection (k), as so added by section 4, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | in subparagraph (B), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
