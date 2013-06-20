@@ -1,7 +1,7 @@
 ---
 measure: S. 230
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 230
@@ -29,6 +29,10 @@ A bill to authorize the Peace Corps Commemorative Foundation to establish a comm
 - House — Natural Resources Committee
 - House — Budget Committee
 
+## Recorded votes (1)
+
+- 2014-01-13 — [House 113-2-13](votes/house-113-2-0013.md) — On Motion to Suspend the Rules and Pass — **Passed** (387–7)
+
 ## Actions
 
 - 2013-02-07 — Introduced in Senate
@@ -43,3 +47,20 @@ A bill to authorize the Peace Corps Commemorative Foundation to establish a comm
 - 2013-06-20 — Received in the House.
 - 2013-06-20 — Referred to the Committee on Natural Resources, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-06-20 — Referred to the Committee on Natural Resources, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-06-25 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2013-12-04 — Committee Consideration and Mark-up Session Held.
+- 2013-12-04 — Ordered to be Reported by Unanimous Consent.
+- 2013-12-04 — Subcommittee on Public Lands and Environmental Regulation Discharged.
+- 2014-01-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-01-13 — Considered as unfinished business. (consideration: CR H172-173)
+- 2014-01-13 — Considered under suspension of the rules. (consideration: CR H168-170)
+- 2014-01-13 — DEBATE - The House proceeded with forty minutes of debate on S. 230.
+- 2014-01-13 — Mr. Hastings (WA) moved to suspend the rules and pass the bill. (consideration: CR H168)
+- 2014-01-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 7 (Roll no. 13). (text: CR H168)
+- 2014-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 7 (Roll no. 13).(text: CR H168)
+- 2014-01-15 — Presented to President.
+- 2014-01-15 — Presented to President.
+- 2014-01-24 — Became Public Law No: 113-78.
+- 2014-01-24 — Became Public Law No: 113-78.
+- 2014-01-24 — Signed by President.
+- 2014-01-24 — Signed by President.
