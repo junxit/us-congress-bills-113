@@ -15,7 +15,7 @@ This Act may be cited as the “Chocolate Mountain Aerial Gunnery Range Transfer
 
 ## § 2. Transfer of administrative jurisdiction, Chocolate Mountain Aerial Gunnery Range, California
 
-- **(a)** *Transfer required* The Secretary of the Interior shall transfer to the administrative jurisdiction of the Secretary of the Navy the surface estate in certain public land administered by the Bureau of Land Management in Imperial and Riverside Counties, California, consisting of approximately 226,711 acres, as generally depicted on the map titled “Chocolate Mountain Aerial Gunnery Range Proposed–Withdrawal” dated 1987 (revised July 1993), and identified as WESTDIV Drawing No. C–102370, which was prepared by the Naval Facilities Engineering Command of the Department of the Navy and is on file with the California State Office of the Bureau of Land Management.
+- **(a)** *Transfer required* The Secretary of the Interior shall transfer to the administrative jurisdiction of the Secretary of the Navy certain public land administered by the Bureau of Land Management in Imperial and Riverside Counties, California, consisting of approximately 226,711 acres, as generally depicted on the map titled “Chocolate Mountain Aerial Gunnery Range Proposed–Withdrawal” dated 1987 (revised July 1993), and identified as WESTDIV Drawing No. C–102370, which was prepared by the Naval Facilities Engineering Command of the Department of the Navy and is on file with the California State Office of the Bureau of Land Management.
 - **(b)** *Valid existing rights* The transfer of administrative jurisdiction under subsection (a) shall be subject to any valid existing rights, including any property, easements, or improvements held by the Bureau of Reclamation and appurtenant to the Coachella Canal. The Secretary of the Navy shall provide for reasonable access by the Bureau of Reclamation for inspection and maintenance purposes not inconsistent with military training.
 - **(c)** *Time for conveyance* The transfer of administrative jurisdiction under subsection (a) shall occur pursuant to a schedule agreed to by the Secretary of the Interior and the Secretary of the Navy, but in no case later than the date of the completion of the boundary realignment required by section 4.
 - **(d)** *Map and legal description*
@@ -35,7 +35,7 @@ This Act may be cited as the “Chocolate Mountain Aerial Gunnery Range Transfer
 
 - **(a)** *Use of transferred land* Upon the receipt of the land under section 2, the Secretary of the Navy shall administer the land as the Chocolate Mountain Aerial Gunnery Range, California, and continue to authorize use of the land for military purposes.
 - **(b)** *Protection of desert tortoise* Nothing in the transfer required by section 2 shall affect the prior designation of certain lands within the Chocolate Mountain Aerial Gunnery Range as critical habitat for the desert tortoise (Gopherus Agassizii).
-- **(c)** *Withdrawal of Mineral Estate* Subject to valid existing rights, the mineral estate of the land to be transferred under section 2 are withdrawn from all forms of appropriation under the public land laws, including the mining laws and the mineral and geothermal leasing laws.
+- **(c)** *Withdrawal of Mineral Estate* Subject to valid existing rights, the mineral estate of the land to be transferred under section 2 are withdrawn from all forms of appropriation under the public land laws, including the mining laws and the mineral and geothermal leasing laws, for as long as the land is under the administrative jurisdiction of the Secretary of the Navy.
 - **(d)** *Integrated natural resources management plan* Not later than one year after the transfer of the land under section 2, the Secretary of the Navy, in cooperation with the Secretary of the Interior, shall prepare an integrated natural resources management plan pursuant to the Sikes Act (16 U.S.C. 670a et seq.) for the transferred land and for land that, as of the date of the enactment of this Act, is under the jurisdiction of the Secretary of the Navy underlying the Chocolate Mountain Aerial Gunnery Range.
 
 ## § 4. Realignment of range boundary and related transfer of title
@@ -61,6 +61,11 @@ This Act may be cited as the “Chocolate Mountain Aerial Gunnery Range Transfer
 
 ## § 6. Temporary extension of existing withdrawal period
 
-Subsection (a) of section 806 of the California Military Lands Withdrawal and Overflights Act of 1994 (title VIII of Public Law 103–433; 108 Stat. 4505) is amended to read as follows:
+Notwithstanding subsection (a) of section 806 of the California Military Lands Withdrawal and Overflights Act of 1994 (title VIII of Public Law 103–433; 108 Stat. 4505), the withdrawal and reservation of the land transferred under section 2 of this Act shall not terminate until the date on which the land transfer required by section 2 is executed.
 
-> - **(a)** *Duration* The withdrawal and reservation established by subsection (a) of section 803 shall terminate on October 31, 2014. The withdrawal and reservation established by subsection (b) of such section shall not terminate until the date on which the land transfer required by section 2 of the Chocolate Mountain Aerial Gunnery Range Transfer Act of 2013 is executed.
+## § 7. Water rights
+
+- **(a)** *Water rights* Nothing in this Act shall be construed—
+  - **(1)** to establish a reservation in favor of the United States with respect to any water or water right on lands transferred by this Act; or
+  - **(2)** to authorize the appropriation of water on lands transferred by this Act except in accordance with applicable State law.
+- **(b)** *Effect on previously acquired or reserved water rights* This section shall not be construed to affect any water rights acquired or reserved by the United States before the date of the enactment of this Act.
