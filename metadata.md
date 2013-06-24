@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2231
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2231
@@ -16,7 +16,7 @@ Offshore Energy and Jobs Act
 
 - Rep. Hastings, Doc [R-WA-4] (H000329)
 
-## Cosponsors (6)
+## Cosponsors (11)
 
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
 - Rep. Cramer, Kevin [R-ND-At Large] (C001096)
@@ -24,6 +24,11 @@ Offshore Energy and Jobs Act
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Daines, Steve [R-MT-At Large] (D000618)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Benishek, Dan [R-MI-1] (B001271)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Mullin, Markwayne [R-OK-2] (M001190)
 
 ## Committees (1)
 
@@ -35,3 +40,11 @@ Offshore Energy and Jobs Act
 - 2013-06-04 — Introduced in House
 - 2013-06-04 — Referred to the House Committee on Natural Resources.
 - 2013-06-04 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2013-06-06 — Subcommittee Hearings Held.
+- 2013-06-11 — Subcommittee Hearings Held.
+- 2013-06-12 — Committee Consideration and Mark-up Session Held.
+- 2013-06-12 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 18.
+- 2013-06-12 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2013-06-24 — Placed on the Union Calendar, Calendar No. 90.
+- 2013-06-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-125.
+- 2013-06-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-125.
