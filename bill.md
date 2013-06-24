@@ -24,7 +24,7 @@ This Act may be cited as the “Johnson Valley National Off-Highway Vehicle Recr
 
 ## § 3. Limited biannual Marine Corps Air Ground Combat Center Twentynine Palms use of Johnson Valley National Off-Highway Vehicle Recreation Area
 
-- **(a)** *Use for military purposes authorized* Subject to subsection (b), the Secretary of the Interior shall authorize the Secretary of the Navy to utilize portions of Johnson Valley National Off-Highway Vehicle Recreation Area twice in each calendar year for up to a total of 42 days per year for the following purposes:
+- **(a)** *Use for military purposes authorized* Subject to subsection (b), the Secretary of the Interior shall authorize the Secretary of the Navy to utilize portions of Johnson Valley National Off-Highway Vehicle Recreation Area twice in each calendar year for up to a total of 60 days per year for the following purposes:
   - **(1)** Sustained, combined arms, live-fire, and maneuver field training for large-scale Marine air-ground task forces.
   - **(2)** Individual and unit live-fire training ranges.
   - **(3)** Equipment and tactics development.
@@ -48,7 +48,14 @@ This Act may be cited as the “Johnson Valley National Off-Highway Vehicle Recr
 
 - **(a)** *Transfer required* Not later than September 30, 2014, the Secretary of the Interior shall transfer, without reimbursement, to the administrative jurisdiction of the Secretary of the Navy certain public land administered by the Bureau of Land Management consisting of approximately 20,000 acres in San Bernardino County, California, as generally depicted as the “Southern Study Area” on the map referred to in section 2.
 - **(b)** *Use of transferred land* Upon the receipt of the land under subsection (a), the Secretary of the Navy shall include the land as part of the Marine Corps Air Ground Combat Center Twentynine Palms, California, and authorize use of the land for military purposes.
-- **(c)** *Legal description*
-  - **(1)** *Preparation and publication* The Secretary of the Interior shall publish in the Federal Register a legal description of the public land to be transferred under subsection (a).
-  - **(2)** *Force of law* The legal description filed under paragraph (1) shall have the same force and effect as if included in this Act, except that the Secretary of the Interior may correct clerical and typographical errors in the legal description.
+- **(c)** *Legal description and map*
+  - **(1)** *Preparation and publication* The Secretary of the Interior shall publish in the Federal Register a legal description and map of the public land to be transferred under subsection (a).
+  - **(2)** *Force of law* The legal description and map filed under paragraph (1) shall have the same force and effect as if included in this Act, except that the Secretary of the Interior may correct clerical and typographical errors in the legal description and map.
 - **(d)** *Reimbursement of costs* The Secretary of the Navy shall reimburse the Secretary of the Interior for any costs incurred by the Secretary of the Interior to carry out this section.
+
+## § 5. Water rights
+
+- **(a)** *Water rights* Nothing in this Act shall be construed—
+  - **(1)** to establish a reservation in favor of the United States with respect to any water or water right on lands transferred by this Act; or
+  - **(2)** to authorize the appropriation of water on lands transferred by this Act except in accordance with applicable State law.
+- **(b)** *Effect on previously acquired or reserved water rights* This section shall not be construed to affect any water rights acquired or reserved by the United States before the date of the enactment of this Act.

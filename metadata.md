@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1676
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1676
@@ -16,9 +16,10 @@ Johnson Valley National Off-Highway Vehicle Recreation Area Establishment Act
 
 - Rep. Cook, Paul [R-CA-8] (C001094)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
 
 ## Committees (2)
 
@@ -32,3 +33,13 @@ Johnson Valley National Off-Highway Vehicle Recreation Area Establishment Act
 - 2013-04-23 — Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-04-23 — Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-04-23 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2013-04-26 — Subcommittee Hearings Held.
+- 2013-05-06 — Referred to the Subcommittee on Readiness.
+- 2013-05-15 — Committee Consideration and Mark-up Session Held.
+- 2013-05-15 — Ordered to be Reported (Amended) by Voice Vote.
+- 2013-05-15 — Subcommittee on Public Lands and Environmental Regulation Discharged.
+- 2013-06-24 — Committee on Armed Services discharged.
+- 2013-06-24 — Committee on Armed Services discharged.
+- 2013-06-24 — Placed on the Union Calendar, Calendar No. 88.
+- 2013-06-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-123, Part I.
+- 2013-06-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-123, Part I.
