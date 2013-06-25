@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 167
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 167
@@ -16,10 +16,13 @@ A resolution reaffirming the strong support of the United States for the peacefu
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (2)
+## Cosponsors (5)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Murphy, Christopher [D-CT] (M001169)
 
 ## Committees (1)
 
@@ -29,3 +32,7 @@ A resolution reaffirming the strong support of the United States for the peacefu
 
 - 2013-06-10 — Introduced in Senate
 - 2013-06-10 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S4062-4063)
+- 2013-06-25 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2013-06-25 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2013-06-25 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2013-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 97.
