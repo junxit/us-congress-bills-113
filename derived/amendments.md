@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1234
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 0 executed, 11 stated and not applied.
+15 amendatory instructions. 0 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,14 +31,18 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `44 U.S.C. § 2901` | add-at-end | Chapter 29 of title 44, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `44 U.S.C. § 2901` | amend | The table of sections at the beginning of chapter 29 of title 44, United States Code, is amended by adding after the item relating to section 2910 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `44 U.S.C. § 2901` | strike | by striking “and” at the end of paragraph (14); and | the bill quotes the text struck but describes what replaces it |
-| `44 U.S.C. § 2901` | replace | by striking paragraph (15) and inserting the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 105` | add-at-end | Chapter 29 of title 44, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 105` | amend | The table of sections at the beginning of chapter 29 of title 44, United States Code, is amended by adding after the item relating to section 2910 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 105` | add-at-end | Chapter 29 of title 44, United States Code, as amended by subsection (a)(1), is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 105` | add-at-end | The table of sections at the beginning of chapter 29 of title 44, United States Code, as amended by subsection (a)(2), is further amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 105` | strike | by striking “and” at the end of paragraph (14); and | the bill quotes the text struck but describes what replaces it |
+| `5 U.S.C. § 105` | replace | by striking paragraph (15) and inserting the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 2206` | strike | by striking “and” at the end of paragraph (3); | the bill quotes the text struck but describes what replaces it |
 | `44 U.S.C. § 2206` | replace | by striking the period at the end of paragraph (4) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `44 U.S.C. § 2206` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `44 U.S.C. § 2201` | add-at-end | Section 2201 of title 44, United States Code, is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `44 U.S.C. § 2206` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `44 U.S.C. § 2206` | add-at-end | Section 2201 of title 44, United States Code, is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 2206` | add-at-end | Chapter 22 of title 44, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `44 U.S.C. § 2206` | add-at-end | The table of sections at the beginning of chapter 22 of title 44, United States Code, as amended by subsection (a)(4), is further amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `44 U.S.C. § 2203` | add-at-end | Section 2203(f) of title 44, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `44 U.S.C. § 2206` | add-at-end | The table of sections at the beginning of chapter 22 of title 44, United States Code, as amended by subsection (a)(4), is further amendedis amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `44 U.S.C. § 2206` | add-at-end | Section 2203(f) of title 44, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 105` | add-at-end | Chapter 22 of title 44, United States Code, as amended by subsection (b)(1), is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 105` | add-at-end | The table of sections at the beginning of chapter 22 of title 44, United States Code, as amended by subsection (b)(2), is further amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

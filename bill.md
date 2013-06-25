@@ -33,7 +33,21 @@ This Act may be cited as the “Electronic Message Preservation Act”.
     >   - **(2)** *Archivist report to congress* Not later than 90 days after receipt of all reports required by paragraph (1), the Archivist shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report on Federal agency compliance with the regulations promulgated under subsection (a).
 
   - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 29 of title 44, United States Code, is amended by adding after the item relating to section 2910 the following new item:
-- **(b)** *Definitions* Section 2901 of title 44, United States Code, is amended—
+- **(b)** *Disclosure requirement for official business conducted using non-official electronic messaging account*
+  - **(1)** *Amendment* Chapter 29 of title 44, United States Code, as amended by subsection (a)(1), is further amended by adding at the end the following new section:
+    > ## § 2912. Disclosure requirement for official business conducted using non-official electronic messaging accounts
+    >
+    > - **(a)** *In general* An officer or employee of an executive agency may not create or send a record using a non-official electronic messaging account unless such officer or employee—
+    >   - **(1)** copies an official electronic messaging account of the officer or employee in the original creation or transmission of the record; or
+    >   - **(2)** forwards a complete copy of the record to an official electronic messaging account of the officer or employee within five days after the original creation or transmission of the record.
+    > - **(b)** *Adverse Actions* The intentional violation of subsection (a) (including any rules, regulations, or other implementing guidelines), as determined by the appropriate supervisor, shall be a basis for disciplinary action in accordance with subchapter I, II, or V of chapter 75 of title 5, as the case may be.
+    > - **(c)** *Definitions* In this section:
+    >   - **(1)** *Electronic messages* The term “electronic messages” has the meaning given that term in section 2901.
+    >   - **(2)** *Electronic messaging account* The term “electronic messaging account” means any account that sends electronic messages.
+    >   - **(3)** *Executive agency* The term “executive agency” has the meaning given that term in section 105 of title 5.
+
+  - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 29 of title 44, United States Code, as amended by subsection (a)(2), is further amended by adding at the end the following new item:
+- **(b) (c)** *Definitions* Section 2901 of title 44, United States Code, is amended—
   - **(1)** by striking “and” at the end of paragraph (14); and
   - **(2)** by striking paragraph (15) and inserting the following new paragraphs:
     > - **(15)** the term electronic messages means electronic mail and other electronic messaging systems that are used for purposes of communicating between individuals; and
@@ -66,10 +80,24 @@ This Act may be cited as the “Electronic Message Preservation Act”.
     > - **(a)** *Annual Certification* The Archivist shall annually certify whether the electronic records management controls established by the President meet requirements under sections 2203(a) and 2206(5) of this title.
     > - **(b)** *Report to Congress* The Archivist shall report annually to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives on the status of the certification.
 
-  - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 22 of title 44, United States Code, as amended by subsection (a)(4), is further amended by adding at the end the following new item:
+  - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 22 of title 44, United States Code, as amended by subsection (a)(4), is further amendedis amended by adding at the end the following new item:
 - **(c)** *Report to Congress* Section 2203(f) of title 44, United States Code, is amended by adding at the end the following:
   > - **(4)** One year following the conclusion of a President’s term of office, or if a President serves consecutive terms one year following the conclusion of the last term, the Archivist shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report on—
   >   - **(A)** the volume and format of electronic Presidential records deposited into that President’s Presidential archival depository; and
   >   - **(B)** whether the electronic records management controls of that President met the requirements under sections 2203(a) and 2206(5) of this title.
 
-- **(d)** *Effective date* The amendments made by this section shall take effect one year after the date of the enactment of this Act.
+- **(d)** *Effective date* The amendments made by this sectionsubsections (a), (b), and (c) shall take effect one year after the date of the enactment of this Act.
+- **(e)** *Disclosure requirement for official business conducted using non-official electronic messaging account*
+  - **(1)** *Amendment* Chapter 22 of title 44, United States Code, as amended by subsection (b)(1), is further amended by adding at the end the following new section:
+    > ## § 2209. Disclosure requirement for official business conducted using non-official electronic messaging accounts
+    >
+    > - **(a)** *In general* An officer or employee of an executive agency may not create or send a Presidential record using a non-official electronic messaging account unless such officer or employee—
+    >   - **(1)** copies an official electronic messaging account of the officer or employee in the original creation or transmission of the Presidential record; or
+    >   - **(2)** forwards a complete copy of the Presidential record to an official electronic messaging account of the officer or employee within five days after the original creation or transmission of the Presidential record.
+    > - **(b)** *Adverse actions* The intentional violation of subsection (a) (including any rules, regulations, or other implementing guidelines), as determined by the appropriate supervisor, shall be a basis for disciplinary action in accordance with subchapter I, II, or V of chapter 75 of title 5, as the case may be.
+    > - **(c)** *Definitions* In this section:
+    >   - **(1)** *Electronic messages* The term “electronic messages” has the meaning given that term in section 2901.
+    >   - **(2)** *Electronic messaging account* The term “electronic messaging account” means any account that sends electronic messages.
+    >   - **(3)** *Executive agency* The term “executive agency” has the meaning given that term in section 105 of title 5.
+
+  - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 22 of title 44, United States Code, as amended by subsection (b)(2), is further amended by adding at the end the following new item:
