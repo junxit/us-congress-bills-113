@@ -27,6 +27,21 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas United States taxpayers have invested more than $89,500,000,000 in reconstruction and humanitarian assistance to Afghanistan since October 2001, according to the Special Inspector General for Afghanistan Reconstruction (SIGAR);
 - Whereas a democratically elected and legitimate government that reflects the will of the Afghan people is in the vital security interests of Afghanistan, the United States, its partners in the NATO International Security Assistance Force (ISAF), and Afghanistan’s neighbors; and
 - Whereas the most critical milestone for Afghanistan’s future stability is a peaceful and credible transition of power through presidential elections in 2014: Now, therefore, be it
+- Whereas Afghanistan’s Independent Election Commission has affirmed that Afghanistan will hold presidential and provincial elections in April 2014 and parliamentary elections in 2015;
+- Whereas Afghanistan's current electoral process was established in 2004 by the Constitution of Afghanistan;
+- Whereas the Tokyo Mutual Accountability Framework conditions some international assistance to Afghanistan on the holding of credible, inclusive, and transparent elections in 2014 and 2015, among other measures to improve governance;
+- Whereas Afghanistan lacks a comprehensive and accurate voter registry, and previous voter registration drives have resulted in duplicate or fraudulent registrations, according to a report by the National Democratic Institute;
+- Whereas security concerns and voter intimidation have impeded the ability of people in Afghanistan to cast votes reliably and safely in past elections;
+- Whereas Afghan women in particular are prevented from meaningful participation in the electoral process due to the security environment, the scarcity of female poll workers, and lack of awareness of women’s political rights and opportunities, according to the Free and Fair Election Foundation of Afghanistan;
+- Whereas Afghanistan’s 2009 presidential election was characterized by inadequate security for voters and candidates, low voter turnout, and widespread fraud, according to the National Democratic Institute;
+- Whereas Afghan officials disputed the results of Afghanistan’s 2010 parliamentary elections and established a Special Election Tribunal to investigate allegations of fraud;
+- Whereas, following the 2010 parliamentary elections, Democracy International’s Afghanistan Election Observation Mission concluded that comprehensive electoral reform is necessary to ensure a free, fair, and credible election process in 2014;
+- Whereas the current president of Afghanistan is serving a second elective term and the Constitution of Afghanistan states, “No one can be elected as president for more than two terms.”;
+- Whereas the current president of Afghanistan has committed to not seeking another term in office;
+- Whereas, on several occasions since the late 1970s, civil war has broken out in Afghanistan over the legitimacy of the Afghan government;
+- Whereas United States taxpayers have invested more than $89,500,000,000 in reconstruction and humanitarian assistance to Afghanistan since October 2001, according to the Special Inspector General for Afghanistan Reconstruction (SIGAR);
+- Whereas a democratically-elected and legitimate government that reflects the will of the Afghan people is in the vital security interests of Afghanistan, the United States, its partners in the NATO International Security Assistance Force (ISAF), and Afghanistan’s neighbors; and
+- Whereas one of the most critical milestones for Afghanistan’s future stability is a peaceful and credible transition of power through presidential elections in 2014: Now, therefore, be it
 
 That the Senate—
 
