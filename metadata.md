@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 166
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 166
@@ -28,3 +28,7 @@ A resolution commemorating the 50th anniversary of the founding of the Organizat
 
 - 2013-06-10 — Introduced in Senate
 - 2013-06-10 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S4062)
+- 2013-06-25 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2013-06-25 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2013-06-25 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2013-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 96.
