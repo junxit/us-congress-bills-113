@@ -76,6 +76,21 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(d)** *Restrictions on access to presidential records* Section 2204 of title 44, United States Code, is amended by adding at the end the following new subsection:
   > - **(f)** The Archivist shall not make available any original Presidential records to any individual claiming access to any Presidential record as a designated representative under section 2205(3) of this title if that individual has been convicted of a crime relating to the review, retention, removal, or destruction of records of the Archives.
 
+- **(e)** *Disclosure requirement for official business conducted using non-official electronic messaging account*
+  - **(1)** *Amendment* Chapter 22 of title 44, United States Code, as amended by subsection (a)(1), is further amended by adding at the end the following new section:
+    > ## § 2209. Disclosure requirement for official business conducted using non-official electronic messaging accounts
+    >
+    > - **(a)** *In general* An officer or employee of an executive agency may not create or send a Presidential record using a non-official electronic messaging account unless such officer or employee—
+    >   - **(1)** copies an official electronic messaging account of the officer or employee in the original creation or transmission of the Presidential record; or
+    >   - **(2)** forwards a complete copy of the Presidential record to an official electronic messaging account of the officer or employee within five days after the original creation or transmission of the Presidential record.
+    > - **(b)** *Adverse actions* The intentional violation of subsection (a) (including any rules, regulations, or other implementing guidelines), as determined by the appropriate supervisor, shall be a basis for disciplinary action in accordance with subchapter I, II, or V of chapter 75 of title 5, as the case may be.
+    > - **(c)** *Definitions* In this section:
+    >   - **(1)** *Electronic messages* The term “electronic messages” means electronic mail and other electronic messaging systems that are used for purposes of communicating between individuals.
+    >   - **(2)** *Electronic messaging account* The term “electronic messaging account” means any account that sends electronic messages.
+    >   - **(3)** *Executive agency* The term “executive agency” has the meaning given that term in section 105 of title 5.
+
+  - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 22 of title 44, United States Code, as amended by subsection (a)(3), is further amended by adding at the end the following new item:
+
 ## § 3. National Archives and Records Administration
 
 - **(a)** *Acceptance of records for historical preservation* Section 2107 of title 44, United States Code, is amended to read as follows:
@@ -87,7 +102,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(3)** direct and effect, with the approval of the head of the originating Federal agency, or if the existence of the agency has been terminated, with the approval of the head of that agency’s successor in function, if any, the transfer of records, deposited or approved for deposit with the National Archives of the United States to public or educational institutions or associations; title to the records to remain vested in the United States unless otherwise authorized by Congress; and
   >   - **(4)** transfer materials from private sources authorized to be received by the Archivist by section 2111 of this title.
   > - **(b)** *Early transfer of records* The Archivist—
-  >   - **(1)** in consultation with the head of the originating Federal agency, is authorized to accept for deposit the records described in subsection (a)(2) that have been in existence for less than thirty years; and
+  >   - **(1)** in consultation with the head of the originating Federal agency, is authorized to accept for deposita copy of the records described in subsection (a)(2) that have been in existence for less than thirty years; and
   >   - **(2)** may not disclose any such records until the expiration of—
   >     - **(A)** the thirty-year period described in paragraph (1);
   >     - **(B)** any longer period established by the Archivist by order; or
@@ -137,7 +152,7 @@ Section 3106 of title 44, United States Code, is amended to read as follows:
 - **(c)** *Lists and schedules of records To be submitted to the Archivist by head of each Government agency* Section 3303(1) of title 44, United States Code, is amended by striking “photographed or microphotographed” and inserting “photographed, microphotographed, or digitized”.
 - **(d)** *Examination by Archivist of lists and schedules of records lacking preservation value; disposal of records* Section 3303a(c) of title 44, United States Code, is amended by striking “the Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives” and inserting “the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate”.
 - **(e)** *Photographs or microphotographs of records considered as originals; certified reproductions admissible in evidence* Section 3312 of title 44, United States Code, is amended—
-  - **(1)** in the first sentence, by striking “Photographs and microphotographs of records” and inserting “Photographs, microphotographs of records, or digitized records”; and
+  - **(1)** in the first sentence, by striking “Photographs andor microphotographs of records” and inserting “Photographs, microphotographs of records, or digitized records”; and
   - **(2)** in the second sentence, by striking “photographs or microphotographs” and inserting “photographs, microphotographs, or digitized records”, each place it appears.
 
 ## § 6. Procedures to prevent unauthorized removal of classified records from National Archives
@@ -185,7 +200,7 @@ Title 44, United States Code, is amended—
   - **(B)** in subsection (b)—
     - **(i)** in paragraph (1)(B), by striking “his” and inserting “the President’s”; and
     - **(ii)** in paragraph (3)—
-      - **(I)** by striking “his” and inserting “the Archivist’s”; and
+      - **(I)** by striking “his”the first place it appears and inserting “the Archivist’s”; and
       - **(II)** by striking “his designee” and inserting “the Archivist’s designee”;
 - **(5)** in section 2205—
   - **(A)** in paragraph (2)(B), by striking “his” and inserting “the incumbent President’s”; and
@@ -197,7 +212,7 @@ Title 44, United States Code, is amended—
   - **(B)** by striking “his” and inserting “the Archivist’s”;
 - **(9)** in section 3103, by striking “he” and inserting “the head of such agency”;
 - **(10)** in section 3104—
-  - **(A)** by striking “his” and inserting “such official’s”; and
+  - **(A)** by striking “his”the first place it appears and inserting “such official’s”; and
   - **(B)** by striking “him or his” and inserting “such official or such official’s”;
 - **(11)** in section 3105, by striking “he” and inserting “the head of such agency”;
 - **(12)** in section 3302(1), by striking “him” and inserting “the Archivist”; and
@@ -218,6 +233,11 @@ Title 44, United States Code, is amended—
 - **(b)** *Records centers and centralized microfilming services* Section 2907 of title 44, United States Code, is amended—
   - **(1)** in the subject heading by inserting “or digitization” after “microfilming”; and
   - **(2)** by inserting “or digitization” after “microfilming”.
+- **(b)** *Records centers and centralized microfilming services*
+  - **(1)** *Amendment* Section 2907 of title 44, United States Code, is amended—
+    - **(A)** in the section heading by inserting “or digitization” after “microfilming”; and
+    - **(B)** by inserting “or digitization” after “microfilming”.
+  - **(2)** *Conforming amendment* The table of sections at the beginning of chapter 29 of title 44, United States Code, is amended in the item relating to section 2907 by inserting “or digitization” after “microfilming”.
 - **(c)** *General responsibilities for records management* Section 2904 of title 44, United States Code, is amended—
   - **(1)** in subsection (b), by striking “The Administrator” and inserting “The Archivist”;
   - **(2)** in subsection (c)—
@@ -230,7 +250,7 @@ Title 44, United States Code, is amended—
   - **(3)** subsection (d) is amended to read as follows:
     > - **(d)** The Archivist shall promulgate regulations requiring all Federal agencies to transfer all digital or electronic records to the National Archives of the United States in digital or electronic form to the greatest extent possible.
 
-- **(d)** *Inspection of agency records* Section 2906(a)(1) of title 44, United States Code, is amended—
+- **(d)** *Inspection of agency records* Section 2906(a)(1)2906 of title 44, United States Code, is amended—
   - **(1)** in subsection (a)—
     - **(A)** in paragraph (1)—
       - **(i)** by striking “their respective” and inserting “the”;
@@ -259,4 +279,22 @@ Title 44, United States Code, is amended—
     - **(B)** by striking “or the Administrator”, each place it appears; and
     - **(C)** by striking “inaugurated” and inserting “demonstrably commenced”.
 - **(f)** *Records management by the Archivist* The heading for chapter 29 of title 44, United States Code, is amended by striking “and by the Administrator of General Services”.
+  - **(1)** *Amendment* The heading for chapter 29 of title 44, United States Code, is amended by striking “and by the Administrator of General Services”.
+  - **(2)** *Conforming amendment* The table of chapters at the beginning of title 44, United States Code, is amended in the item related to chapter 29 by striking “and by the Administrator of General Services”.
 - **(g)** *Establishment of program of management* Section 3102(2) of title 44, United States Code, is amended by striking “the Administrator of General Services and”.
+
+## § 10. Disclosure requirement for official business conducted using non-official electronic messaging account
+
+- **(a)** *Amendment* Chapter 29 of title 44, United States Code is amended by adding at the end the following new section:
+  > ## § 2911. Disclosure requirement for official business conducted using non-official electronic messaging accounts
+  >
+  > - **(a)** *In general* An officer or employee of an executive agency may not create or send a record using a non-official electronic messaging account unless such officer or employee—
+  >   - **(1)** copies an official electronic messaging account of the officer or employee in the original creation or transmission of the record; or
+  >   - **(2)** forwards a complete copy of the record to an official electronic messaging account of the officer or employee within five days after the original creation or transmission of the record.
+  > - **(b)** *Adverse Actions* The intentional violation of subsection (a) (including any rules, regulations, or other implementing guidelines), as determined by the appropriate supervisor, shall be a basis for disciplinary action in accordance with subchapter I, II, or V of chapter 75 of title 5, as the case may be.
+  > - **(c)** *Definitions* In this section:
+  >   - **(1)** *Electronic messages* The term “electronic messages” means electronic mail and other electronic messaging systems that are used for purposes of communicating between individuals.
+  >   - **(2)** *Electronic messaging account* The term “electronic messaging account” means any account that sends electronic messages.
+  >   - **(3)** *Executive agency* The term “executive agency” has the meaning given that term in section 105 of title 5.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 29 of title 44, United States Code, is amended by adding at the end the following new item:
