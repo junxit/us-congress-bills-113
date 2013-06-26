@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2383
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2383
@@ -57,3 +57,5 @@ To designate the new Interstate Route 70 bridge over the Mississippi River conne
 - 2013-06-25 — Mr. Davis, Rodney moved to suspend the rules and pass the bill.
 - 2013-06-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 2 (Roll no. 287). (text: CR H4002)
 - 2013-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 2 (Roll no. 287).(text: CR H4002)
+- 2013-06-26 — Received in the Senate, read twice.
+- 2013-06-26 — Received in the Senate.
