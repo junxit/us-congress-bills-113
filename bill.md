@@ -1,0 +1,30 @@
+---
+legis-num: S. RES. 189
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 189
+
+> Relative to the death of the Honorable William Dodd Hathaway, former United States Senator for the State of Maine.
+
+## Preamble
+
+- Whereas William Dodd Hathaway served in the Army Air Corps during World War II from 1942 to 1946, during which time he was held as a prisoner of war for 2 months after being shot down over Romania;
+- Whereas William Dodd Hathaway achieved the rank of Captain and received a Decorated Air Medal, a Purple Heart, a Presidential citation, and a Prisoner of War Medal for his military service;
+- Whereas, following his military service, William Dodd Hathaway graduated from Harvard University in 1949 and Harvard Law School in 1953;
+- Whereas William Dodd Hathaway began his legal career in the State of Maine, working in both private practice and government service;
+- Whereas William Dodd Hathaway was first elected to the United States House of Representatives in 1964 and served 4 terms as a Representative from the State of Maine before running for the United States Senate in 1972;
+- Whereas, as a Senator, William Dodd Hathaway served on the Committee on Agriculture and Forestry, the Committee on Banking, Housing, and Urban Affairs, the Committee on Labor and Public Welfare, the Committee on Finance, the Select Committee on Small Business, and the Select Committee on Intelligence of the Senate;
+- Whereas, as Chairman of the Subcommittee on Alcoholism and Drug Abuse of the Committee on Labor and Public Welfare, William Dodd Hathaway crafted numerous legislative measures that addressed health problems related to substance abuse and worked to ensure that the Federal and State governments responded effectively to those problems;
+- Whereas, in 1978, William Dodd Hathaway was recognized by Majority Leader Robert C. Byrd for his efforts to address health problems related to substance abuse; and
+- Whereas, following his service as a Senator, William Dodd Hathaway resumed the private practice of law in Washington, D.C., until President George H.W. Bush appointed him to the Federal Maritime Commission in 1990: Now, therefore, be it
+
+That—
+
+- **(1)** the Senate has heard with profound sorrow and deep regret the announcement of the death of the Honorable William Dodd Hathaway, former member of the United States Senate;
+- **(2)** when the Senate adjourns today, it stands adjourned as a further mark of respect to the memory of the Honorable William Dodd Hathaway; and
+- **(3)** the Senate respectfully requests the Secretary of the Senate—
+  - **(A)** to communicate this resolution to the House of Representatives; and
+  - **(B)** to transmit an enrolled copy of this resolution to the family of the Honorable William Dodd Hathaway.
