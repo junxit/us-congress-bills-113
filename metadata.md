@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 277
 congress: 113
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Res. 277
