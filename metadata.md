@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2289
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2289
@@ -44,9 +44,10 @@ To rename section 219(c) of the Internal Revenue Code of 1986 as the Kay Bailey 
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 - Rep. Green, Gene [D-TX-29] (G000410)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ To rename section 219(c) of the Internal Revenue Code of 1986 as the Kay Bailey 
 - 2013-06-25 — Mr. Johnson, Sam moved to suspend the rules and pass the bill.
 - 2013-06-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4006-4007)
 - 2013-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4006-4007)
+- 2013-06-26 — Received in the Senate and Read twice and referred to the Committee on Finance.
