@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2289
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2289
@@ -61,3 +61,14 @@ To rename section 219(c) of the Internal Revenue Code of 1986 as the Kay Bailey 
 - 2013-06-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4006-4007)
 - 2013-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4006-4007)
 - 2013-06-26 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2013-07-11 — Passed Senate without amendment by Unanimous Consent.
+- 2013-07-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2013-07-11 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S5672)
+- 2013-07-11 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S5672)
+- 2013-07-15 — Message on Senate action sent to the House.
+- 2013-07-17 — Presented to President.
+- 2013-07-17 — Presented to President.
+- 2013-07-25 — Became Public Law No: 113-22.
+- 2013-07-25 — Became Public Law No: 113-22.
+- 2013-07-25 — Signed by President.
+- 2013-07-25 — Signed by President.
