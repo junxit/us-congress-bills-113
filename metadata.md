@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 144
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 144
@@ -42,3 +42,5 @@ A resolution concerning the ongoing conflict in the Democratic Republic of the C
 - 2013-06-25 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with a preamble. Without written report.
 - 2013-06-25 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with a preamble. Without written report.
 - 2013-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 93.
+- 2013-06-26 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.(consideration: CR S5302-5304; text of measure as reported in Senate: CR S5302-5303; text as passed Senate: CR S5303-5304)
+- 2013-06-26 — Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent. (consideration: CR S5302-5304; text of measure as reported in Senate: CR S5302-5303; text as passed Senate: CR S5303-5304)
