@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 270
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 270
@@ -25,3 +25,10 @@ Permitting official photographs of the House of Representatives to be taken whil
 - 2013-06-18 — Introduced in House
 - 2013-06-18 — Introduced in House
 - 2013-06-18 — Referred to the House Committee on House Administration.
+- 2013-06-26 — Committee on House Administration discharged.
+- 2013-06-26 — Committee on House Administration discharged.
+- 2013-06-26 — Considered by unanimous consent. (consideration: CR H4057)
+- 2013-06-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-06-26 — Mrs. Miller (MI) asked unanimous consent to discharge from committee and consider.
+- 2013-06-26 — On agreeing to the resolution Agreed to without objection. (text: CR H4057)
+- 2013-06-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H4057)
