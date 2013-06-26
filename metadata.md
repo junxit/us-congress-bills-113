@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1092
 congress: 113
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1092
@@ -48,3 +48,12 @@ To designate the air route traffic control center located in Nashua, New Hampshi
 - 2013-06-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 3, 1 Present (Roll no. 288). (text: CR H4006)
 - 2013-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 3, 1 Present (Roll no. 288).(text: CR H4006)
 - 2013-06-26 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 98.
+- 2013-07-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5923)
+- 2013-07-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5923)
+- 2013-07-25 — Message on Senate action sent to the House.
+- 2013-08-01 — Presented to President.
+- 2013-08-01 — Presented to President.
+- 2013-08-09 — Became Public Law No: 113-25.
+- 2013-08-09 — Became Public Law No: 113-25.
+- 2013-08-09 — Signed by President.
+- 2013-08-09 — Signed by President.

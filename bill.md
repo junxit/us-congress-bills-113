@@ -1,15 +1,15 @@
 ---
 legis-num: H.R. 1092
-congress: 113th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 1092
 
-> To designate the air route traffic control center located in Nashua, New Hampshire, as the Patricia Clark Boston Air Route Traffic Control Center.
+> To designate the air route traffic control center located in Nashua, New Hampshire, as the “Patricia Clark Boston Air Route Traffic Control Center”.
 
 ## § 1. Designation of Patricia Clark Boston Air Route Traffic Control Center
 
-- **(a)** *In general* The air route traffic control center located in Nashua, New Hampshire, and any successor air route traffic control center at that location, shall be known and designated as the Patricia Clark Boston Air Route Traffic Control Center.
-- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the air route traffic control center referred to in subsection (a) shall be deemed to be a reference to the Patricia Clark Boston Air Route Traffic Control Center.
+- **(a)** *In general* The air route traffic control center located in Nashua, New Hampshire, and any successor air route traffic control center at that location, shall be known and designated as the “Patricia Clark Boston Air Route Traffic Control Center”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the air route traffic control center referred to in subsection (a) shall be deemed to be a reference to the “Patricia Clark Boston Air Route Traffic Control Center”.
