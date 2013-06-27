@@ -1,7 +1,7 @@
 ---
 measure: H.R. 316
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 316
@@ -15,6 +15,10 @@ Collinsville Renewable Energy Production Act
 ## Sponsor
 
 - Rep. Esty, Elizabeth H. [D-CT-5] (E000293)
+
+## Cosponsors (1)
+
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (2)
 
@@ -37,3 +41,10 @@ Collinsville Renewable Energy Production Act
 - 2013-02-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H441)
 - 2013-02-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H441)
 - 2013-02-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-03-22 — Senate amendment submitted
+- 2013-04-16 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 113-32.
+- 2013-04-16 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 113-32.
+- 2013-05-16 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2013-06-27 — Committee on Energy and Natural Resources. Reported by Senator Wyden with an amendment in the nature of a substitute. With written report No. 113-69.
+- 2013-06-27 — Committee on Energy and Natural Resources. Reported by Senator Wyden with an amendment in the nature of a substitute. With written report No. 113-69.
+- 2013-06-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 123.
