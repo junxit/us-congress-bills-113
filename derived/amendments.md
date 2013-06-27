@@ -1,7 +1,7 @@
 ---
 measure: S. 256
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 1 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 29 U.S.C. § 206
+
+> Section 8103(b)(1)(B) of the Fair Minimum Wage Act of 2007 (29 U.S.C. 206 note; Public Law 110–28) is amended by striking “2011” and inserting “2011, 2013, and 2015”.
+
+| | |
+|---|---|
+| Removed | `2011` |
+| Inserted | `2011, 2013, and 2015` |
 
 ## Stated, not applied
 
