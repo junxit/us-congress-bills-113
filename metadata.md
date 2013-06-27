@@ -1,7 +1,7 @@
 ---
 measure: S. 744
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 744
@@ -16,7 +16,7 @@ Border Security, Economic Opportunity, and Immigration Modernization Act
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 
-## Cosponsors (7)
+## Cosponsors (459)
 
 - Sen. McCain, John [R-AZ] (M000303)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
@@ -25,6 +25,458 @@ Border Security, Economic Opportunity, and Immigration Modernization Act
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Chiesa, Jeff [R-NJ] (C001100)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Chiesa, Jeff [R-NJ] (C001100)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Chiesa, Jeff [R-NJ] (C001100)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Chiesa, Jeff [R-NJ] (C001100)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Murphy, Christopher [D-CT] (M001169)
 
 ## Committees (4)
 
@@ -32,6 +484,27 @@ Border Security, Economic Opportunity, and Immigration Modernization Act
 - Senate — Homeland Security and Governmental Affairs Committee
 - House — Judiciary Committee
 - Senate — Small Business and Entrepreneurship Committee
+
+## Recorded votes (18)
+
+- 2013-06-11 — [Senate 113-1-146](votes/senate-113-1-0146.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (82–15)
+- 2013-06-11 — [Senate 113-1-147](votes/senate-113-1-0147.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (84–15)
+- 2013-06-13 — [Senate 113-1-148](votes/senate-113-1-0148.md) — On the Motion to Table — **Motion to Table Agreed to** (57–43)
+- 2013-06-18 — [Senate 113-1-151](votes/senate-113-1-0151.md) — On the Amendment — **Amendment Rejected** (39–54)
+- 2013-06-18 — [Senate 113-1-152](votes/senate-113-1-0152.md) — On the Amendment — **Amendment Rejected** (36–58)
+- 2013-06-18 — [Senate 113-1-153](votes/senate-113-1-0153.md) — On the Amendment — **Amendment Agreed to** (94–0)
+- 2013-06-19 — [Senate 113-1-154](votes/senate-113-1-0154.md) — On the Motion to Table — **Motion to Table Agreed to** (61–37)
+- 2013-06-19 — [Senate 113-1-155](votes/senate-113-1-0155.md) — On the Amendment — **Amendment Agreed to** (72–26)
+- 2013-06-19 — [Senate 113-1-156](votes/senate-113-1-0156.md) — On the Amendment — **Amendment Rejected** (39–59)
+- 2013-06-19 — [Senate 113-1-157](votes/senate-113-1-0157.md) — On the Amendment — **Amendment Agreed to** (89–9)
+- 2013-06-20 — [Senate 113-1-159](votes/senate-113-1-0159.md) — On the Motion to Table — **Motion to Table Agreed to** (54–43)
+- 2013-06-24 — [Senate 113-1-160](votes/senate-113-1-0160.md) — On the Cloture Motion — **Cloture Motion Agreed to** (67–27)
+- 2013-06-26 — [Senate 113-1-162](votes/senate-113-1-0162.md) — On the Motion — **Motion Agreed to** (68–30)
+- 2013-06-26 — [Senate 113-1-163](votes/senate-113-1-0163.md) — On the Amendment — **Amendment Agreed to** (69–29)
+- 2013-06-26 — [Senate 113-1-164](votes/senate-113-1-0164.md) — On the Cloture Motion — **Cloture Motion Agreed to** (67–31)
+- 2013-06-27 — [Senate 113-1-166](votes/senate-113-1-0166.md) — On the Amendment — **Amendment Agreed to** (68–32)
+- 2013-06-27 — [Senate 113-1-167](votes/senate-113-1-0167.md) — On the Cloture Motion — **Cloture Motion Agreed to** (68–32)
+- 2013-06-27 — [Senate 113-1-168](votes/senate-113-1-0168.md) — On Passage of the Bill — **Bill Passed** (68–32)
 
 ## Actions
 
@@ -52,3 +525,742 @@ Border Security, Economic Opportunity, and Immigration Modernization Act
 - 2013-05-28 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2013-05-28 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2013-05-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 80.
+- 2013-06-06 — Cloture motion on the motion to proceed presented in Senate. (consideration: CR S3969; text: CR S3969)
+- 2013-06-06 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S3969)
+- 2013-06-06 — Motion to proceed to consideration of measure withdrawn in Senate. (consideration: CR S3969)
+- 2013-06-06 — Star Print ordered on the bill.
+- 2013-06-07 — By Senator Leahy from Committee on the Judiciary filed written report. Report No. 113-40. Additional and Minority views filed.
+- 2013-06-07 — By Senator Leahy from Committee on the Judiciary filed written report. Report No. 113-40. Additional and Minority views filed.
+- 2013-06-07 — Motion to proceed to measure considered in Senate. (consideration: CR S3998-4014)
+- 2013-06-10 — Motion to proceed to measure considered in Senate. (consideration: CR S4028-4040, S4041-4043)
+- 2013-06-11 — Amendment SA 1183 proposed by Senator Leahy. (consideration: CR S4195-4197; text: CR S4195-4196) To strengthen border security and enforcement.
+- 2013-06-11 — Amendment SA 1195 proposed by Senator Grassley. (consideration: CR S4197-4206; text: CR S4197-4198) To prohibit the granting of registered provisional immigrant status until the Secretary has maintained effective control of the borders for 6 months.
+- 2013-06-11 — Cloture on the motion to proceed to measure invoked in Senate by Yea-Nay Vote. 82 - 15. Record Vote Number: 146. (consideration: CR S4086; text: CR S4086)
+- 2013-06-11 — Measure laid before Senate by motion. (consideration: CR S4093-4206; text of measure as reported in Senate: CR S4093-4195))
+- 2013-06-11 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 84 - 15. Record Vote Number: 147. (consideration: CR S4093)
+- 2013-06-11 — Motion to proceed to measure considered in Senate. (consideration: CR S4071-4086, S4086-4093)
+- 2013-06-11 — Senate amendment proposed (on the floor): Amendment SA 1183 proposed by Senator Leahy.(consideration: CR S4195-4197; text: CR S4195-4196)
+- 2013-06-11 — Senate amendment proposed (on the floor): Amendment SA 1195 proposed by Senator Grassley.(consideration: CR S4197-4206; text: CR S4197-4198)
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-11 — Senate amendment submitted
+- 2013-06-12 — Considered by Senate. (consideration: CR S4359)
+- 2013-06-12 — Considered by Senate. (consideration: CR S4359)
+- 2013-06-12 — Considered by Senate. (consideration: CR S4359-4400)
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-12 — Senate amendment submitted
+- 2013-06-13 — Amendment SA 1197 proposed by Senator Thune. (consideration: CR S4440-4441; text: CR S4441) To require the completion of the 350 miles of reinforced, double-layered fencing described in section 102(b)(1)(A) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 before registered provisional immigrant status may be granted and to require the completion of 700 miles of such fencing before the status of registered provisional immigrants may be adjusted to permanent resident status.
+- 2013-06-13 — Amendment SA 1198 proposed by Senator Tester. (consideration: CR S4450; text: CR S4450) To modify the Border Oversight Task Force to include tribal government officials.
+- 2013-06-13 — Amendment SA 1222 proposed by Senator Landrieu. (consideration: CR S4441-4443; text: CR S4441-4442) To apply the amendments made by the Child Citizenship Act of 2000 retroactively to all individuals adopted by a citizen of the United States in an international adoption and to repeal the pre-adoption parental visitation requirement for automatic citizenship and to amend section 320 of the Immigration and Nationality Act relating to automatic citizenship for children born outside of the United States who have a United States citizen parent.
+- 2013-06-13 — Amendment SA 1228 proposed by Senator Vitter. (consideration: CR S4450; text: CR S4450) To prohibit the temporary grant of legal status to, or adjustment to citizenship status of, any individual who is unlawfully present in the United States until the Secretary of Homeland Security certifies that the US-VISIT System (a biometric border check-in and check-out system first required by Congress in 1996) has been fully implemented at every land, sea, and airport of entry and Congress passes a joint resolution, under fast track procedures, stating that such integrated entry and exit data system has been sufficiently implemented.
+- 2013-06-13 — Considered by Senate. (consideration: CR S4435)
+- 2013-06-13 — Considered by Senate. (consideration: CR S4435, S4437-4438)
+- 2013-06-13 — Considered by Senate. (consideration: CR S4435-4443, S4450-4460, S4460-4472)
+- 2013-06-13 — Motion to table amendment SA 1195 agreed to in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 148.
+- 2013-06-13 — Roll call votes on amendments in Senate: Motion to table amendment SA 1195 agreed to in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 148.
+- 2013-06-13 — Senate amendment proposed (on the floor): Amendment SA 1197 proposed by Senator Thune.(consideration: CR S4440-4441; text: CR S4441)
+- 2013-06-13 — Senate amendment proposed (on the floor): Amendment SA 1198 proposed by Senator Tester.(consideration: CR S4450; text: CR S4450)
+- 2013-06-13 — Senate amendment proposed (on the floor): Amendment SA 1222 proposed by Senator Landrieu.(consideration: CR S4441-4443; text: CR S4441-4442)
+- 2013-06-13 — Senate amendment proposed (on the floor): Amendment SA 1228 proposed by Senator Vitter.(consideration: CR S4450; text: CR S4450)
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-13 — Senate amendment submitted
+- 2013-06-17 — Considered by Senate. (consideration: CR S4518-4520)
+- 2013-06-17 — Considered by Senate. (consideration: CR S4519)
+- 2013-06-17 — Considered by Senate. (consideration: CR S4519)
+- 2013-06-17 — Considered by Senate. (consideration: CR S4519)
+- 2013-06-17 — Considered by Senate. (consideration: CR S4519)
+- 2013-06-17 — Considered by Senate. (consideration: CR S4519)
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-17 — Senate amendment submitted
+- 2013-06-18 — Amendment SA 1197, under the order of 6/17/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 39 - 54. Record Vote Number: 151.
+- 2013-06-18 — Amendment SA 1198, under the order of 6/17/2013, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 153.
+- 2013-06-18 — Amendment SA 1222 agreed to in Senate by Voice Vote.
+- 2013-06-18 — Amendment SA 1228, under the order of 6/17/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 36 - 58. Record Vote Number: 152.
+- 2013-06-18 — Considered by Senate. (consideration: CR S4546)
+- 2013-06-18 — Considered by Senate. (consideration: CR S4546, S4558)
+- 2013-06-18 — Considered by Senate. (consideration: CR S4546, S4558-4559)
+- 2013-06-18 — Considered by Senate. (consideration: CR S4546, S4559)
+- 2013-06-18 — Considered by Senate. (consideration: CR S4546-4554, S4554-4574)
+- 2013-06-18 — Considered by Senate. (consideration:CR S4546, S4548-4554, S4558)
+- 2013-06-18 — Roll call votes on amendments in Senate: Amendment SA 1197, under the order of 6/17/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 39 - 54. Record Vote Number: 151.
+- 2013-06-18 — Roll call votes on amendments in Senate: Amendment SA 1198, under the order of 6/17/2013, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 153.
+- 2013-06-18 — Roll call votes on amendments in Senate: Amendment SA 1228, under the order of 6/17/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 36 - 58. Record Vote Number: 152.
+- 2013-06-18 — Senate amendment agreed to: Amendment SA 1198, under the order of 6/17/2013, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 153.
+- 2013-06-18 — Senate amendment agreed to: Amendment SA 1222 agreed to in Senate by Voice Vote.
+- 2013-06-18 — Senate amendment not agreed to: Amendment SA 1197, under the order of 6/17/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 39 - 54. Record Vote Number: 151.
+- 2013-06-18 — Senate amendment not agreed to: Amendment SA 1228, under the order of 6/17/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 36 - 58. Record Vote Number: 152.
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-18 — Senate amendment submitted
+- 2013-06-19 — Amendment SA 1200 proposed by Senator Paul. (consideration: CR S4644-4651, S4657; text as modified: CR S4644-4650) To provide for enhanced border security, including strong border security metrics and congressional votes on border security and for other purposes.
+- 2013-06-19 — Amendment SA 1208 proposed by Senator Lee. (consideration: CR S4628-4629, S4659, S4660; text: CR S4628; text as modified: CR S4659) To require fast-track congressional approval when the Secretary of Homeland Security notifies Congress of the implementation of the border security strategies and certifies that the strategies are substantially operational.
+- 2013-06-19 — Amendment SA 1208, under the order of 6/19/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 39 - 59. Record Vote Number: 156.
+- 2013-06-19 — Amendment SA 1224 proposed by Senator Leahy for Senator Reed. (consideration: CR S4656-4661; text: CR S4656) To clarify the physical present requirements for merit-based immigrant visa applicants.
+- 2013-06-19 — Amendment SA 1227 proposed by Senator Heller. (consideration: CR S4631-4632, S4661; text: CR S4631) To include a representative from the Southwestern State of Nevada on the Southern Border Security Commission.
+- 2013-06-19 — Amendment SA 1227, under the order of 6/19/2013, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 89 - 9. Record Vote Number: 157.
+- 2013-06-19 — Amendment SA 1237 as modified agreed to in Senate by Voice Vote. (text as modified: CR S4653)
+- 2013-06-19 — Amendment SA 1237 proposed by Senator Merkley. (consideration: CR S4653-4654, S4661) To increase the employment of Americans by requiring State workforce agencies to certify that employers are actively recruiting Americans and that Americans are not qualified or available to fill the positions that the employer seeks to fill with H-2B nonimmigrants.
+- 2013-06-19 — Amendment SA 1240 proposed by Senator Boxer. (consideration: CR S4631; text: CR S4631) To require training for National Guard and Coast Guard officers and agents in training programs on border protection, immigration law enforcement, and how to address vulnerable populations, such as children and victims of crime.
+- 2013-06-19 — Amendment SA 1251 proposed by Senator Cornyn. (consideration: CR S4651-4652) Requiring Enforcement, Security and safety while Upgrading Lawful Trade and travel Simultaneously (RESULTS).
+- 2013-06-19 — Amendment SA 1268 proposed by Senator Leahy for Senator Manchin. (consideration: CR S4656-4661; text: CR S4656) To provide for common sense limitations on salaries for contractor executives and employees involved in border security.
+- 2013-06-19 — Amendment SA 1268, under the order of 6/19/2013, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 72 - 26. Record Vote Number: 155.
+- 2013-06-19 — Amendment SA 1298 agreed to in Senate by Voice Vote.
+- 2013-06-19 — Amendment SA 1298 proposed by Senator Leahy for Senator Pryor. (consideration: CR S4656-4661; text: CR S4656) To promote recruitment of former members of the Armed Forces and members of the reserve components of the Armed Forces to serve in United States Customs and Border Protection and United States Immigration and Customs Enforcement.
+- 2013-06-19 — Amendment SA 1320 proposed by Senator Cruz. (consideration: CR S4634-4637; text: CR S4635) To replace title I of the bill with specific border security requirements, which shall be met before the Secretary of Homeland Security may process applications for registered immigrant status or blue card status and to avoid Department of Homeland Security budget reductions.
+- 2013-06-19 — Considered by Senate. (consideration: CR S4628)
+- 2013-06-19 — Considered by Senate. (consideration: CR S4628-4629, S4631-4637, S4640-4641, S4641-4642, S4644-4654, S4655-4661, S4663-4670)
+- 2013-06-19 — Motion to table amendment SA 1200 agreed to in Senate by Yea-Nay Vote. 61 - 37. Record Vote Number: 154.
+- 2013-06-19 — Roll call votes on amendments in Senate: Amendment SA 1208, under the order of 6/19/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 39 - 59. Record Vote Number: 156.
+- 2013-06-19 — Roll call votes on amendments in Senate: Amendment SA 1227, under the order of 6/19/2013, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 89 - 9. Record Vote Number: 157.
+- 2013-06-19 — Roll call votes on amendments in Senate: Amendment SA 1268, under the order of 6/19/2013, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 72 - 26. Record Vote Number: 155.
+- 2013-06-19 — Roll call votes on amendments in Senate: Motion to table amendment SA 1200 agreed to in Senate by Yea-Nay Vote. 61 - 37. Record Vote Number: 154.
+- 2013-06-19 — Senate amendment agreed to: Amendment SA 1227, under the order of 6/19/2013, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 89 - 9. Record Vote Number: 157.
+- 2013-06-19 — Senate amendment agreed to: Amendment SA 1237 as modified agreed to in Senate by Voice Vote.(text as modified: CR S4653)
+- 2013-06-19 — Senate amendment agreed to: Amendment SA 1268, under the order of 6/19/2013, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 72 - 26. Record Vote Number: 155.
+- 2013-06-19 — Senate amendment agreed to: Amendment SA 1298 agreed to in Senate by Voice Vote.
+- 2013-06-19 — Senate amendment not agreed to: Amendment SA 1208, under the order of 6/19/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 39 - 59. Record Vote Number: 156.
+- 2013-06-19 — Senate amendment proposed (on the floor): Amendment SA 1200 proposed by Senator Paul.(consideration: CR S4644-4651, S4657; text as modified: CR S4644-4650)
+- 2013-06-19 — Senate amendment proposed (on the floor): Amendment SA 1208 proposed by Senator Lee.(consideration: CR S4628-4629, S4659, S4660; text: CR S4628; text as modified: CR S4659)
+- 2013-06-19 — Senate amendment proposed (on the floor): Amendment SA 1224 proposed by Senator Leahy for Senator Reed.(consideration: CR S4656-4661; text: CR S4656)
+- 2013-06-19 — Senate amendment proposed (on the floor): Amendment SA 1227 proposed by Senator Heller.(consideration: CR S4631-4632, S4661; text: CR S4631)
+- 2013-06-19 — Senate amendment proposed (on the floor): Amendment SA 1237 proposed by Senator Merkley.(consideration: CR S4653-4654, S4661)
+- 2013-06-19 — Senate amendment proposed (on the floor): Amendment SA 1240 proposed by Senator Boxer.(consideration: CR S4631; text: CR S4631)
+- 2013-06-19 — Senate amendment proposed (on the floor): Amendment SA 1251 proposed by Senator Cornyn.(consideration: CR S4651-4652)
+- 2013-06-19 — Senate amendment proposed (on the floor): Amendment SA 1268 proposed by Senator Leahy for Senator Manchin.(consideration: CR S4656-4661; text: CR S4656)
+- 2013-06-19 — Senate amendment proposed (on the floor): Amendment SA 1298 proposed by Senator Leahy for Senator Pryor.(consideration: CR S4656-4661; text: CR S4656)
+- 2013-06-19 — Senate amendment proposed (on the floor): Amendment SA 1320 proposed by Senator Cruz.(consideration: CR S4634-4637; text: CR S4635)
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-19 — Senate amendment submitted
+- 2013-06-20 — Amendment SA 1507 proposed by Senator Vitter to Amendment SA 1183. (consideration: CR S4755; text: CR S4755) To ensure that aliens convicted of crimes of violence against women and children are ineligible for registered provisional immigrant status.
+- 2013-06-20 — Amendment SA 1507 ruled out of order by the chair.
+- 2013-06-20 — Considered by Senate. (consideration: CR S4730)
+- 2013-06-20 — Considered by Senate. (consideration: CR S4730)
+- 2013-06-20 — Considered by Senate. (consideration: CR S4730)
+- 2013-06-20 — Considered by Senate. (consideration: CR S4730)
+- 2013-06-20 — Considered by Senate. (consideration: CR S4730-4732, S4733-4737)
+- 2013-06-20 — Considered by Senate. (consideration: CR S4730-4740, S4741-4742, S4743-4757, S4758-4763, S4764-4786)
+- 2013-06-20 — Motion to table amendment SA 1251 agreed to in Senate by Yea-Nay Vote. 54 - 43. Record Vote Number: 159.
+- 2013-06-20 — Point of order raised in Senate with respect to amendment SA 1507.
+- 2013-06-20 — Roll call votes on amendments in Senate: Motion to table amendment SA 1251 agreed to in Senate by Yea-Nay Vote. 54 - 43. Record Vote Number: 159.
+- 2013-06-20 — Senate amendment proposed (on the floor): Amendment SA 1507 proposed by Senator Vitter to Amendment SA 1183.(consideration: CR S4755; text: CR S4755)
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-20 — Senate amendment submitted
+- 2013-06-21 — Amendment SA 1551 proposed by Senator Reid to Amendment SA 1183. (consideration: CR S4976; text as modified: CR S4976) To change the enactment date.
+- 2013-06-21 — Amendment SA 1552 proposed by Senator Reid to language proposed to be stricken by the committee reported substitute amendment. (consideration: CR S4977; text: CR S4977) To change the enactment date.
+- 2013-06-21 — Amendment SA 1553 proposed by Senator Reid to Amendment SA 1552. (consideration: CR S4977; text: CR S4977) Of a perfecting nature.
+- 2013-06-21 — Amendment SA 1554 proposed by Senator Reid. (consideration: CR S4977; text: CR S4977) To change the enactment date.
+- 2013-06-21 — Amendment SA 1555 proposed by Senator Reid to Amendment SA 1554 (the instructions of the motion to recommit). (consideration: CR S4977; text: CR S4977) Of a perfecting nature.
+- 2013-06-21 — Amendment SA 1556 proposed by Senator Reid to Amendment SA 1555. (consideration: CR S4977; text: CR S4977) Of a perfecting nature.
+- 2013-06-21 — Cloture motion on amendment SA 1183 as modified presented in Senate. (consideration: CR S4976-4977; text: CR S4976-4977)
+- 2013-06-21 — Considered by Senate. (consideration: CR S4850)
+- 2013-06-21 — Considered by Senate. (consideration: CR S4850)
+- 2013-06-21 — Considered by Senate. (consideration: CR S4850)
+- 2013-06-21 — Considered by Senate. (consideration: CR S4850, S4860-4976; text as modified: CR S4860-4976)
+- 2013-06-21 — Considered by Senate. (consideration: CR S4850-4980)
+- 2013-06-21 — Motion by Senator Reid to recommit to Senate Committee on the Judiciary with instructions to report back forthwith with amendment SA 1554 made in Senate. (consideration: CR S4977; text: CR S4977)
+- 2013-06-21 — Senate amendment proposed (on the floor): Amendment SA 1551 proposed by Senator Reid to Amendment SA 1183.(consideration: CR S4976; text as modified: CR S4976)
+- 2013-06-21 — Senate amendment proposed (on the floor): Amendment SA 1552 proposed by Senator Reid to language proposed to be stricken by the committee reported substitute amendment.(consideration: CR S4977; text: CR S4977)
+- 2013-06-21 — Senate amendment proposed (on the floor): Amendment SA 1553 proposed by Senator Reid to Amendment SA 1552.(consideration: CR S4977; text: CR S4977)
+- 2013-06-21 — Senate amendment proposed (on the floor): Amendment SA 1554 proposed by Senator Reid.(consideration: CR S4977; text: CR S4977)
+- 2013-06-21 — Senate amendment proposed (on the floor): Amendment SA 1555 proposed by Senator Reid to Amendment SA 1554 (the instructions of the motion to recommit).(consideration: CR S4977; text: CR S4977)
+- 2013-06-21 — Senate amendment proposed (on the floor): Amendment SA 1556 proposed by Senator Reid to Amendment SA 1555.(consideration: CR S4977; text: CR S4977)
+- 2013-06-21 — Senate amendment submitted
+- 2013-06-21 — Senate amendment submitted
+- 2013-06-21 — Senate amendment submitted
+- 2013-06-21 — Senate amendment submitted
+- 2013-06-21 — Senate amendment submitted
+- 2013-06-21 — Senate amendment submitted
+- 2013-06-24 — Cloture motion on the committee reported substitute amendment presented in Senate. (consideration: CR S4988; text: CR S4988)
+- 2013-06-24 — Cloture motion on the measure presented in Senate. (consideration: CR S4988; text: CR S4988)
+- 2013-06-24 — Cloture on the amendment SA 1183 as modified invoked in Senate by Yea-Nay Vote. 67 - 27. Record Vote Number: 160. (consideration: CR S5012-5013; text: CR S5012)
+- 2013-06-24 — Considered by Senate. (consideration: CR S4988)
+- 2013-06-24 — Considered by Senate. (consideration: CR S4988)
+- 2013-06-24 — Considered by Senate. (consideration: CR S4988)
+- 2013-06-24 — Considered by Senate. (consideration: CR S4988)
+- 2013-06-24 — Considered by Senate. (consideration: CR S4988)
+- 2013-06-24 — Considered by Senate. (consideration: CR S4988)
+- 2013-06-24 — Considered by Senate. (consideration: CR S4988)
+- 2013-06-24 — Considered by Senate. (consideration: CR S4988)
+- 2013-06-24 — Considered by Senate. (consideration: CR S4988)
+- 2013-06-24 — Considered by Senate. (consideration: CR S4988)
+- 2013-06-24 — Considered by Senate. (consideration: CR S4988-5013)
+- 2013-06-24 — Motion by Senator Reid to recommit to Senate Committee on the Judiciary with instructions to report back forthwith with amendment SA 1554 fell when cloture was invoked on SA 1183 as modified in Senate. (consideration: CR S4988; text: CR S4988)
+- 2013-06-24 — Roll call votes on amendments in Senate: Cloture on the amendment SA 1183 as modified invoked in Senate by Yea-Nay Vote. 67 - 27. Record Vote Number: 160.(consideration: CR S5012-5013; text: CR S5012)
+- 2013-06-24 — SA 1554 fell when cloture invoked on SA 1183 as modified. (consideration: CR S5013)
+- 2013-06-24 — SA 1555 fell when SA 1554 fell. (consideration: CR S5013)
+- 2013-06-24 — SA 1556 fell when SA 1555 fell. (consideration: CR S5013)
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-24 — Senate amendment submitted
+- 2013-06-25 — Considered by Senate. (consideration: CR S5112)
+- 2013-06-25 — Considered by Senate. (consideration: CR S5112)
+- 2013-06-25 — Considered by Senate. (consideration: CR S5112)
+- 2013-06-25 — Considered by Senate. (consideration: CR S5112)
+- 2013-06-25 — Considered by Senate. (consideration: CR S5112)
+- 2013-06-25 — Considered by Senate. (consideration: CR S5112)
+- 2013-06-25 — Considered by Senate. (consideration: CR S5112)
+- 2013-06-25 — Considered by Senate. (consideration: CR S5112-5119, S5122-5134)
+- 2013-06-25 — Motion to waive all applicable budgetary discipline with respect to the measure made in Senate. (consideration: CR S5128-5129)
+- 2013-06-25 — Point of order that the measure violates the Congressional Budget Act raised in Senate. (consideration: CR S5128)
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-25 — Senate amendment submitted
+- 2013-06-26 — Amendment SA 1183 as modified agreed to in Senate by Yea-Nay Vote. 69 - 29. Record Vote Number: 163. (consideration: CR S5215)
+- 2013-06-26 — Cloture on the committee reported substitute amendment, as amended, invoked in Senate by Yea-Nay Vote. 67 - 31. Record Vote Number: 164. (consideration: CR S5215-5216; text: CR S5215)
+- 2013-06-26 — Considered by Senate. (consideration: CR S5205)
+- 2013-06-26 — Considered by Senate. (consideration: CR S5205)
+- 2013-06-26 — Considered by Senate. (consideration: CR S5205)
+- 2013-06-26 — Considered by Senate. (consideration: CR S5205)
+- 2013-06-26 — Considered by Senate. (consideration: CR S5205)
+- 2013-06-26 — Considered by Senate. (consideration: CR S5205, S5215)
+- 2013-06-26 — Considered by Senate. (consideration: CR S5205-5216, S5216-5219, S5220-5222, S5223-5226, S5227-5229, S5235-5236, S5238-5247, S5249-5252, S5306-5313)
+- 2013-06-26 — Considered by Senate. (consideration: CR S5215)
+- 2013-06-26 — Motion to waive all applicable budgetary discipline with respect to the measure agreed to in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 162. (consideration: CR S5215)
+- 2013-06-26 — Proposed amendment SA 1551 withdrawn in Senate. (consideration: CR S5215)
+- 2013-06-26 — Roll call votes on amendments in Senate: Amendment SA 1183 as modified agreed to in Senate by Yea-Nay Vote. 69 - 29. Record Vote Number: 163.(consideration: CR S5215)
+- 2013-06-26 — Senate amendment agreed to: Amendment SA 1183 as modified agreed to in Senate by Yea-Nay Vote. 69 - 29. Record Vote Number: 163.(consideration: CR S5215)
+- 2013-06-26 — Senate amendment submitted
+- 2013-06-26 — Senate amendment submitted
+- 2013-06-26 — Senate amendment submitted
+- 2013-06-26 — Senate amendment submitted
+- 2013-06-26 — Senate amendment submitted
+- 2013-06-26 — Senate amendment submitted
+- 2013-06-26 — Senate amendment submitted
+- 2013-06-26 — Senate amendment submitted
+- 2013-06-26 — Senate amendment submitted
+- 2013-06-26 — Senate amendment submitted
+- 2013-06-26 — Senate amendment submitted
+- 2013-06-26 — Senate amendment submitted
+- 2013-06-26 — Senate amendment submitted
+- 2013-06-26 — Senate amendment submitted
+- 2013-06-26 — Senate amendment submitted
+- 2013-06-26 — Senate amendment submitted
+- 2013-06-26 — Senate amendment submitted
+- 2013-06-26 — Senate amendment submitted
+- 2013-06-27 — Amendment SA 1224 ruled out of order by the chair.
+- 2013-06-27 — Amendment SA 1240 ruled out of order by the chair.
+- 2013-06-27 — Amendment SA 1320 ruled out of order by the chair.
+- 2013-06-27 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 68 - 32. Record Vote Number: 167. (consideration: CR S5330; text: CR S5330)
+- 2013-06-27 — Considered by Senate. (consideration: CR S5315-5317, S5317-5320, S5320-5329, S5357-5475)
+- 2013-06-27 — Considered by Senate. (consideration: CR S5316)
+- 2013-06-27 — Considered by Senate. (consideration: CR S5316)
+- 2013-06-27 — Considered by Senate. (consideration: CR S5316)
+- 2013-06-27 — Considered by Senate. (consideration: CR S5316, S5329-5330)
+- 2013-06-27 — Considered by Senate. (consideration: CR S5316, S5329-5330)
+- 2013-06-27 — Passed Senate with an amendment by Yea-Nay Vote. 68 - 32. Record Vote Number: 168. (text: CR S5357-5475)
+- 2013-06-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 68 - 32. Record Vote Number: 168.(text: CR S5357-5475)
+- 2013-06-27 — Point of order raised in Senate with respect to amendment SA 1224. (consideration: CR S5329-5330)
+- 2013-06-27 — Point of order raised in Senate with respect to amendment SA 1240. (consideration: CR S5329-5330)
+- 2013-06-27 — Point of order raised in Senate with respect to amendment SA 1320. (consideration: CR S5329-5330)
+- 2013-06-27 — Proposed amendment SA 1552 withdrawn in Senate. (consideration: CR S5329-5330)
+- 2013-06-27 — Proposed amendment SA 1553 withdrawn in Senate. (consideration: CR S5329-5330)
+- 2013-06-27 — Senate ordered measure printed as passed.
+- 2013-06-27 — The committee substitute as amended agreed to by Yea-Nay Vote. 68 - 32. Record Vote Number: 166. (consideration: CR S5330)

@@ -19,37 +19,39 @@ chamber: IN THE SENATE OF THE UNITED STATES
 Congress makes the following findings:
 
 - **(1)** The passage of this Act recognizes that the primary tenets of its success depend on securing the sovereignty of the United States of America and establishing a coherent and just system for integrating those who seek to join American society.
-- **(2)** We have a right, and duty, to maintain and secure our borders, and to keep our country safe and prosperous. As a nation founded, built and sustained by immigrants we also have a responsibility to harness the power of that tradition in a balanced way that secures a more prosperous future for America.
-- **(3)** We have always welcomed newcomers to the United States and will continue to do so. But in order to qualify for the honor and privilege of eventual citizenship, our laws must be followed. The world depends on America to be strong — economically, militarily and ethically. The establishment of a stable, just and efficient immigration system only supports those goals. As a nation, we have the right and responsibility to make our borders safe, to establish clear and just rules for seeking citizenship, to control the flow of legal immigration, and to eliminate illegal immigration, which in some cases has become a threat to our national security.
+- **(2)** We have a right, and duty, to maintain and secure our borders, and to keep our country safe and prosperous. As a Nation founded, built and sustained by immigrants we also have a responsibility to harness the power of that tradition in a balanced way that secures a more prosperous future for America.
+- **(3)** We have always welcomed newcomers to the United States and will continue to do so. But in order to qualify for the honor and privilege of eventual citizenship, our laws must be followed. The world depends on America to be strong—economically, militarily and ethically. The establishment of a stable, just, and efficient immigration system only supports those goals. As a Nation, we have the right and responsibility to make our borders safe, to establish clear and just rules for seeking citizenship, to control the flow of legal immigration, and to eliminate illegal immigration, which in some cases has become a threat to our national security.
 - **(4)** All parts of this Act are premised on the right and need of the United States to achieve these goals, and to protect its borders and maintain its sovereignty.
 
 ## § 3. Effective date triggers
 
 - **(a)** *Definitions* In this section:
   - **(1)** *Commission* The term Commission means the Southern Border Security Commission established pursuant to section 4.
-  - **(2)** *Comprehensive southern border security strategy* The term Comprehensive Southern Border Security Strategy means the strategy established by the Secretary pursuant to section 5(a) to achieve and maintain an effectiveness rate of 90 percent or higher in all high risk border sectors.
+  - **(2)** *Comprehensive southern border security strategy* The term Comprehensive Southern Border Security Strategy means the strategy established by the Secretary pursuant to section 5(a) to achieve and maintain an effectiveness rate of 90 percent or higher in all border sectors.
   - **(3)** *Effective control* The term effective control means the ability to achieve and maintain, in a Border Patrol sector—
     - **(A)** persistent surveillance; and
     - **(B)** an effectiveness rate of 90 percent or higher.
   - **(4)** *Effectiveness rate* The effectiveness rate, in the case of a border sector, is the percentage calculated by dividing the number of apprehensions and turn backs in the sector during a fiscal year by the total number of illegal entries in the sector during such fiscal year.
-  - **(5)** *High risk border sector* The term high risk border sector means a border sector in which more than 30,000 individuals were apprehended during the most recent fiscal year.
-  - **(6)** *Southern border* The term Southern border means the international border between the United States and Mexico.
-  - **(7)** *Southern border fencing strategy* The term Southern Border Fencing Strategy means the strategy established by the Secretary pursuant to section 5(b) that identifies where fencing, including double-layer fencing, should be deployed along the Southern border.
-- **(b)** *Border security goal* The Department's border security goal is to achieve and maintain effective control in high risk border sectors along the Southern border.
+  - **(5)** *Southern border* The term Southern border means the international border between the United States and Mexico.
+  - **(6)** *Southern border fencing strategy* The term Southern Border Fencing Strategy means the strategy established by the Secretary pursuant to section 5(b) that identifies where fencing (including double-layer fencing), infrastructure, and technology, including at ports of entry, should be deployed along the Southern border.
+- **(b)** *Border security goal* The Department's border security goal is to achieve and maintain effective control in all border sectors along the Southern border.
 - **(c)** *Triggers*
   - **(1)** *Processing of applications for registered provisional immigrant status* Not earlier than the date upon which the Secretary has submitted to Congress the Notice of Commencement of implementation of the Comprehensive Southern Border Security Strategy and the Southern Border Fencing Strategy under section 5 of this Act, the Secretary may commence processing applications for registered provisional immigrant status pursuant to section 245B of the Immigration and Nationality Act, as added by section 2101 of this Act.
   - **(2)** *Adjustment of status of registered provisional immigrants*
-    - **(A)** *In general* Except as provided in subparagraph (B), the Secretary may not adjust the status of aliens who have been granted registered provisional immigrant status, except for aliens granted agriculture card status under section 2201 of this Act or described in section 245D(b) of the Immigration and Nationality Act, until the Secretary, after consultation with the Comptroller General of the United States, submits to the President and Congress a written certification that—
-      - **(i)** the Comprehensive Southern Border Security Strategy has been submitted to Congress and is substantially deployed and substantially operational;
-      - **(ii)** the Southern Border Fencing Strategy has been submitted to Congress, implemented, and is substantially completed;
-      - **(iii)** the Secretary has implemented a mandatory employment verification system to be used by all employers to prevent unauthorized workers from obtaining employment in the United States; and
-      - **(iv)** the Secretary is using an electronic exit system at air and sea ports of entry that operates by collecting machine-readable visa or passport information from air and vessel carriers.
+    - **(A)** *In general* Except as provided in subparagraph (B), the Secretary may not adjust the status of aliens who have been granted registered provisional immigrant status, except for aliens granted blue card status under section 2201 of this Act or described in section 245D(b) of the Immigration and Nationality Act, until 6 months after the date on which the Secretary, after consultation with the Attorney General, the Secretary of Defense, the Inspector General of the Department, and the Comptroller General of the United States, submits to the President and Congress a written certification that—
+      - **(i)** the Comprehensive Southern Border Security Strategy—
+        - **(I)** has been submitted to Congress and includes minimum requirements described under paragraph (3), (4), and (5) of section 5(a);
+        - **(II)** is deployed and operational (for purposes of this clause the term operational means the technology, infrastructure, and personnel, deemed necessary by the Secretary, in consultation with the Attorney General and the Secretary of Defense, and the Comptroller General, and includes the technology described under section 5(a)(3) to achieve effective control of the Southern border, has been procured, funded, and is in current use by the Department to achieve effective control, except in the event of routine maintenance, de minimis non-deployment, or natural disaster that would prevent the use of such assets);
+      - **(ii)** the Southern Border Fencing Strategy has been submitted to Congress and implemented, and as a result the Secretary will certify that there is in place along the Southern Border no fewer than 700 miles of pedestrian fencing which will include replacement of all currently existing vehicle fencing on non-tribal lands on the Southern Border with pedestrian fencing where possible, and after this has been accomplished may include a second layer of pedestrian fencing in those locations along the Southern Border which the Secretary deems necessary or appropriate;
+      - **(iii)** the Secretary has implemented the mandatory employment verification system required by section 274A of the Immigration and Nationality Act (8 U.S.C.1324a), as amended by section 3101, for use by all employers to prevent unauthorized workers from obtaining employment in the United States;
+      - **(iv)** the Secretary is using the electronic exit system created by section 3303(a)(1) at all international air and sea ports of entry within the United States where U.S. Customs and Border Protection officers are currently deployed; and
+      - **(v)** no fewer than 38,405 trained full-time active duty U.S. Border Patrol agents are deployed, stationed, and maintained along the Southern Border.
     - **(B)** *Exception* The Secretary shall permit registered provisional immigrants to apply for an adjustment to lawful permanent resident status if—
       - **(i)**
-        - **(I)** litigation or a force majeure has prevented one or more of the conditions described in clauses (i) through (iv) of subparagraph (A) from being implemented; or
+        - **(I)** litigation or a force majeure has prevented 1 or more of the conditions described in clauses (i) through (iv) of subparagraph (A) from being implemented; or
         - **(II)** the implementation of subparagraph (A) has been held unconstitutional by the Supreme Court of the United States or the Supreme Court has granted certiorari to the litigation on the constitutionality of implementation of subparagraph (A); and
       - **(ii)** 10 years have elapsed since the date of the enactment of this Act.
-- **(d)** *Waiver of legal requirements necessary for improvement at borders* Notwithstanding any other provision of law, the Secretary is authorized to waive all legal requirements that the Secretary determines to be necessary to ensure expeditious construction of the barriers, roads, or other physical tactical infrastructure needed to fulfill the requirements under this section. Any determination by the Secretary under this section shall be effective upon publication in the Federal Register.
+- **(d)** *Waiver of legal requirements necessary for improvement at borders* Notwithstanding any other provision of law, the Secretary is authorized to waive all legal requirements that the Secretary determines to be necessary to ensure expeditious construction of the barriers, roads, or other physical tactical infrastructure needed to fulfill the requirements under this section. Any determination by the Secretary under this section shall be effective upon publication in the Federal Register of a notice that specifies each law that is being waived and the Secretary's explanation for the determination to waive that law. The waiver shall expire on the later of the date on which the Secretary submits the written certification that the Southern Border Fencing Strategy is substantially completed as specified in subsection (c)(2)(A)(ii) or the date that the Secretary submits the written certification that the Comprehensive Southern Border Security Strategy is substantially deployed and substantially operational as specified in subsection (c)(2)(A)(i).
 - **(e)** *Federal court review*
   - **(1)** *In general* The district courts of the United States shall have exclusive jurisdiction to hear all causes or claims arising from any action undertaken, or any decision made, by the Secretary under subsection (d). A cause of action or claim may only be brought alleging a violation of the Constitution of the United States. The court does not have jurisdiction to hear any claim not specified in this paragraph.
   - **(2)** *Time for filing complaint* If a cause or claim under paragraph (1) is not filed within 60 days after the date of the contested action or decision by the Secretary, the claim shall be barred.
@@ -57,7 +59,11 @@ Congress makes the following findings:
 
 ## § 4. Southern Border Security Commission
 
-- **(a)** *Establishment* If Secretary certifies that the Department has not achieved effective control in all high risk border sectors during any fiscal year beginning before the date that is 5 years after the date of the enactment of this Act, not later than 60 days after the date of the certification there shall be established a commission to be known as the “Southern Border Security Commission” (referred to in this section as the “Commission”).
+- **(a)** *Establishment*
+  - **(1)** *In general* No later than the date that is 1 year after the date of the enactment of this Act, there is established a commission to be known as the “Southern Border Security Commission” (referred to in this section as the “Commission”).
+  - **(2)** *Expenditures and report* Only if the Secretary cannot certify that the Department has achieved effective control in all border sectors for at least 1 fiscal year before the date that is 5 years after the date of the enactment of this Act—
+    - **(A)** the report described in subsection (d) shall be submitted; and
+    - **(B)** 60 days after such report is submitted, the funds made available in section 6(a)(3)(A)(iii) may be expended (except as provided in subsection (i)).
 - **(b)** *Composition*
   - **(1)** *In general* The Commission shall be composed of—
     - **(A)** 2 members who shall be appointed by the President;
@@ -67,58 +73,205 @@ Congress makes the following findings:
     - **(C)** 2 members who shall be appointed by the Speaker of the House of Representatives, of which—
       - **(i)** 1 shall be appointed upon the recommendation of the leader in the House of Representatives of the political party that is not the political party of the President; and
       - **(ii)** 1 shall be appointed upon the recommendation of the leader in the House of Representatives of the other political party; and
-    - **(D)** 4 members, consisting of 1 member from each of the States along the Southern border, who shall be—
+    - **(D)** 5 members, consisting of 1 member from the Southwestern State of Nevada and 1 member from each of the States along the Southern border, who shall be—
       - **(i)** the Governor of such State; or
       - **(ii)** appointed by the Governor of each such State.
-  - **(2)** *Qualification for appointment* Appointed members of the Commission shall be distinguished individuals noted for their knowledge and experience in the field of border security at the Federal, State, or local level.
-  - **(3)** *Time of appointment* The appointments required by paragraph (1) shall be made not later than 60 days after the Secretary makes a certification described in subsection (a).
+  - **(2)** *Qualifications for appointment* The members of the Commission shall be distinguished individuals noted for their knowledge and experience in the field of border security at the Federal, State, or local level and may also include reputable individuals who are landowners in the Southern border area with first-hand experience with border issues.
+  - **(3)** *Time of appointment* The appointments required by paragraph (1) shall be made not later than 1 year after the date of the enactment of this Act.
   - **(4)** *Chair* At the first meeting of the Commission, a majority of the members of the Commission present and voting shall elect the Chair of the Commission.
   - **(5)** *Vacancies* Any vacancy of the Commission shall not affect its powers, but shall be filled in the manner in which the original appointment was made.
   - **(6)** *Rules* The Commission shall establish the rules and procedures of the Commission which shall require the approval of at least 6 members of the Commission.
-- **(c)** *Duties* The Commission's primary responsibility shall be making recommendations to the President, the Secretary, and Congress on policies to achieve and maintain the border security goal specified in section 3(b) by achieving and maintaining—
-  - **(1)** the capability to engage in, and to engage in, persistent surveillance in high risk border sectors along the Southern border; and
-  - **(2)** an effectiveness rate of 90 percent or higher in all high risk border sectors along the Southern border.
-- **(d)** *Report* Not later than 180 days after the end of the 5-year period described in subsection (a), the Commission shall submit to the President, the Secretary, and Congress a report setting forth specific recommendations for policies for achieving and maintaining the border security goals specified in subsection (c). The report shall include, at a minimum, recommendations for the personnel, infrastructure, technology, and other resources required to achieve and maintain an effectiveness rate of 90 percent or higher in all high risk border sectors.
+- **(c)** *Duties*
+  - **(1)** *In general* The Commission's primary responsibility shall be to make recommendations to the President, the Secretary, and Congress on policies to achieve and maintain the border security goal specified in section 3(b) by achieving and maintaining—
+    - **(A)** the capability to engage in, and engaging in, persistent surveillance in border sectors along the Southern border; and
+    - **(B)** an effectiveness rate of 90 percent or higher in all border sectors along the Southern border.
+  - **(2)** *Public hearings*
+    - **(A)** *In general* The Commission shall convene at least 1 public hearing each year on border security.
+    - **(B)** *Report* The Commission shall provide a summary of each hearing convened pursuant to subparagraph (A) to the entities set out in subparagraphs (A) through (G) of section 5(a)(1).
+- **(d)** *Report* If required pursuant to subsection (a)(2)(B) and in no case earlier than the date that is 5 years after the date of the enactment of this Act, the Commission shall submit to the President, the Secretary, and Congress a report setting forth specific recommendations for policies for achieving and maintaining the border security goals specified in subsection (c). The report shall include, at a minimum, recommendations for the personnel, infrastructure, technology, and other resources required to achieve and maintain an effectiveness rate of 90 percent or higher in all border sectors.
 - **(e)** *Travel expenses* Members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
 - **(f)** *Administrative support* The Secretary shall provide the Commission such staff and administrative services as may be necessary and appropriate for the Commission to perform its functions. Any employee of the executive branch of Government may be detailed to the Commission without reimbursement to the agency of that employee and such detail shall be without interruption or loss of civil service or status or privilege.
 - **(g)** *Comptroller General review* The Comptroller General of the United States shall review the recommendations in the report submitted under subsection (d) in order to determine—
-  - **(1)** whether any of the recommendations are likely to achieve effective control in all high risk border sectors;
+  - **(1)** whether any of the recommendations are likely to achieve effective control in all border sectors;
   - **(2)** which recommendations are most likely to achieve effective control; and
   - **(3)** whether such recommendations are feasible within existing budget constraints.
-- **(h)** *Termination* The Commission shall terminate 30 days after the date on which the report is submitted under subsection (d).
+- **(h)** *Termination* The Commission shall terminate 10 years after the date of the enactment of this Act.
+- **(i)** *Funding* The amounts made available under section 6(a)(3)(A)(iii) to carry out programs, projects, and activities recommended by the Commission may not be expended prior to the date that is 60 days after a report required by subsection (d) is submitted and, in no case, prior to 60 days after the date that is 5 years after the date of the enactment of this Act, except that funds made available under section 6(a)(3)(A)(iii) may be used for minimal administrative expenses directly associated with convening the public hearings required by subsection (c)(2)(A) and preparing and providing summaries of such hearings required by subsection (c)(2)(B).
 
 ## § 5. Comprehensive Southern Border Security Strategy and Southern Border Fencing Strategy
 
 - **(a)** *Comprehensive Southern Border Security Strategy*
-  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit a strategy, to be known as the “Comprehensive Southern Border Security Strategy”, for achieving and maintaining effective control between the ports of entry in all high risk border sectors along the Southern border, to—
+  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary, in consultation with the Attorney General and the Secretary of Defense, shall submit a strategy, to be known as the “Comprehensive Southern Border Security Strategy”, for achieving and maintaining effective control between and at the ports of entry in all border sectors along the Southern border, to—
     - **(A)** the Committee on Homeland Security and Governmental Affairs of the Senate;
     - **(B)** the Committee on Homeland Security of the House of Representatives;
     - **(C)** the Committee on Appropriations of the Senate;
-    - **(D)** the Committee on Appropriations of the House of Representatives; and
-    - **(E)** the Comptroller General of the United States.
+    - **(D)** the Committee on Appropriations of the House of Representatives;
+    - **(E)** the Committee on the Judiciary of the Senate;
+    - **(F)** the Committee on the Judiciary of the House of Representatives;
+    - **(G)** the Committee on Armed Services of the Senate;
+    - **(H)** the Committee on Armed Services of the House of Representatives; and
+    - **(I)** the Comptroller General of the United States.
   - **(2)** *Elements* The Comprehensive Southern Border Security Strategy shall specify—
-    - **(A)** the priorities that must be met for the strategy to be successfully executed;
-    - **(B)** the capabilities that must be obtained to meet each of the priorities referred to in subparagraph (A), including—
-      - **(i)** surveillance and detection capabilities developed or used by the Department of Defense to increase situational awareness; and
-      - **(ii)** the requirement for stationing sufficient Border Patrol agents and Customs and Border Protection officers at and between ports of entry along the Southern border; and
-    - **(C)** the resources, including personnel, infrastructure, and technology that must be procured and successfully deployed to obtain the capabilities referred to in subparagraph (B), including—
-      - **(i)** fixed, mobile, and agent portable surveillance systems; and
-      - **(ii)** unarmed, unmanned aerial systems and unarmed, fixed-wing aircraft and necessary and qualified staff and equipment to fully utilize such systems.
-  - **(3)** *Additional elements regarding execution* The Comprehensive Southern Border Security Strategy shall describe—
+    - **(A)** the priorities that must be met for the strategy to be successfully executed; and
+    - **(B)** the capabilities required to meet each of the priorities referred to in subparagraph (A), including—
+      - **(i)** surveillance and detection capabilities developed or used by the various Departments and Agencies for the Federal government for the purposes of enhancing the functioning and operational capability to conduct continuous and integrated manned or unmanned, monitoring, sensing, or surveillance of 100 percent of Southern border mileage or the immediate vicinity of the Southern border;
+      - **(ii)** the requirement for stationing sufficient Border Patrol agents and Customs and Border Protection officers between and at ports of entry along the Southern border; and
+      - **(iii)** the necessary and qualified staff and equipment to fully utilize available unarmed, unmanned aerial systems and unarmed, fixed wing aircraft.
+  - **(3)** *Minimum requirements* The Comprehensive Southern Border Security Strategy shall require, at a minimum, the deployment of the following technologies for each Border Patrol sector along the Southern Border:
+    - **(A)** *Arizona (Yuma and Tucson Sectors)* For Arizona (Yuma and Tucson Sectors) between ports of entry the following:
+      - **(i)** 50 integrated fixed towers.
+      - **(ii)** 73 fixed camera systems (with relocation capability), which include Remote Video Surveillance Systems.
+      - **(iii)** 28 mobile surveillance systems, which include mobile video surveillance systems, agent-portable surveillance systems, and mobile surveillance capability systems.
+      - **(iv)** 685 unattended ground sensors, including seismic, imaging, and infrared.
+      - **(v)** 22 handheld equipment devices, including handheld thermal imaging systems and night vision goggles.
+    - **(B)** *San Diego, California* For San Diego, California the following:
+      - **(i)** *Between ports of entry* Between ports of entry the following:
+        - **(I)** 3 integrated fixed towers.
+        - **(II)** 41 fixed camera systems (with relocation capability), which include Remote Video Surveillance Systems.
+        - **(III)** 14 mobile surveillance systems, which include mobile video surveillance systems, agent-portable surveillance systems, and mobile surveillance capability systems.
+        - **(IV)** 393 unattended ground sensors, including seismic, imaging, and infrared.
+        - **(V)** 83 handheld equipment devices, including handheld thermal imaging systems and night vision goggles.
+      - **(ii)** *At points of entry, checkpoints* At points of entry, checkpoints the following:
+        - **(I)** 2 non-intrusive inspection systems, including fixed and mobile.
+        - **(II)** 1 radiation portal monitor.
+        - **(III)** 1 littoral detection and classification network
+    - **(C)** *El Centro, California* For El Centro, California the following:
+      - **(i)** *Between ports of entry* Between ports of entry the following:
+        - **(I)** 66 fixed camera systems (with relocation capability), which include Remote Video Surveillance Systems.
+        - **(II)** 18 mobile surveillance systems, which include mobile video surveillance systems, agent-portable surveillance systems, and mobile surveillance capability systems.
+        - **(III)** 85 unattended ground sensors, including seismic, imaging, and infrared.
+        - **(IV)** 57 handheld equipment devices, including handheld thermal imaging systems and night vision goggles.
+        - **(V)** 2 sensor repeaters.
+        - **(VI)** 2 communications repeaters.
+      - **(ii)** *At points of entry, checkpoints* At points of entry, checkpoints the following:
+        - **(I)** 5 fiber-optic tank inspection scopes.
+        - **(II)** 1 license plate reader.
+        - **(III)** 1 backscatter.
+        - **(IV)** 2 portable contraband detectors.
+        - **(V)** 2 radiation isotope identification devices.
+        - **(VI)** 8 radiation isotope identification devices updates.
+        - **(VII)** 3 personal radiation detectors.
+        - **(VIII)** 16 mobile automated targeting systems.
+    - **(D)** *El Paso, Texas* For El Paso, Texas the following:
+      - **(i)** *Between ports of entry* Between ports of entry the following:
+        - **(I)** 27 integrated fixed towers.
+        - **(II)** 71 fixed camera systems (with relocation capability), which include Remote Video Surveillance Systems.
+        - **(III)** 31 mobile surveillance systems, which include mobile video surveillance systems, agent-portable surveillance systems, and mobile surveillance capability systems.
+        - **(IV)** 170 unattended ground sensors, including seismic, imaging, and infrared.
+        - **(V)** 24 handheld equipment devices, including handheld thermal imaging systems and night vision goggles.
+        - **(VI)** 1 communications repeater.
+        - **(VII)** 1 sensor repeater.
+        - **(VIII)** 2 camera refresh.
+      - **(ii)** *At points of entry, checkpoints* At points of entry, checkpoints the following:
+        - **(I)** 4 non-intrusive inspection systems, including fixed and mobile.
+        - **(II)** 23 fiber-optic tank inspection scopes.
+        - **(III)** 1 portable contraband detectors.
+        - **(IV)** 19 radiation isotope identification devices updates.
+        - **(V)** 1 real time radioscopy version 4.
+        - **(VI)** 8 personal radiation detectors.
+    - **(E)** *Big Bend, Texas* For Big Bend, Texas the following:
+      - **(i)** *Between ports of entry* Between ports of entry the following:
+        - **(I)** 7 fixed camera systems (with relocation capability), which include remote video surveillance systems.
+        - **(II)** 29 mobile surveillance systems, which include mobile video surveillance systems, agent-portable surveillance systems, and mobile surveillance capability systems.
+        - **(III)** 1105 unattended ground sensors, including seismic, imaging, and infrared.
+        - **(IV)** 131 handheld equipment devices, including handheld thermal imaging systems and night vision goggles.
+        - **(V)** 1 mid-range camera refresh.
+        - **(VI)** 1 improved surveillance capabilities for existing aerostat.
+        - **(VII)** 27 sensor repeaters.
+        - **(VIII)** 27 communications repeaters.
+      - **(ii)** *At points of entry, checkpoints* At points of entry, checkpoints the following:
+        - **(I)** 7 fiber-optic tank inspection scopes.
+        - **(II)** 3 license plate readers, including mobile, tactical, and fixed.
+        - **(III)** 12 portable contraband detectors.
+        - **(IV)** 7 radiation isotope identification devices.
+        - **(V)** 12 radiation isotope identification devices updates.
+        - **(VI)** 254 personal radiation detectors.
+        - **(VII)** 19 mobile automated targeting systems.
+    - **(F)** *Del Rio, Texas* For Del Rio, Texas the following:
+      - **(i)** *Between ports of entry* Between ports of entry the following:
+        - **(I)** 3 integrated fixed towers.
+        - **(II)** 74 fixed camera systems (with relocation capability), which include remote video surveillance systems.
+        - **(III)** 47 mobile surveillance systems, which include mobile video surveillance systems, agent-portable surveillance systems, and mobile surveillance capability systems.
+        - **(IV)** 868 unattended ground sensors, including seismic, imaging, and infrared.
+        - **(V)** 174 handheld equipment devices, including handheld thermal imaging systems and night vision goggles.
+        - **(VI)** 26 mobile/handheld inspection scopes and sensors for checkpoints.
+        - **(VII)** 1 improved surveillance capabilities for existing aerostat.
+        - **(VIII)** 21 sensor repeaters.
+        - **(IX)** 21 communications repeaters.
+      - **(ii)** *At points of entry, checkpoints* At points of entry, checkpoints the following:
+        - **(I)** 4 license plate readers, including mobile, tactical, and fixed.
+        - **(II)** 13 radiation isotope identification devices updates.
+        - **(III)** 3 mobile automated targeting systems.
+        - **(IV)** 6 land automated targeting systems.
+    - **(G)** *Laredo, Texas* For Laredo, Texas the following:
+      - **(i)** *Between the ports of entry* Between ports of entry the following:
+        - **(I)** 2 integrated fixed towers.
+        - **(II)** 69 fixed camera systems (with relocation capability), which include remote video surveillance systems.
+        - **(III)** 38 mobile surveillance systems, which include mobile video surveillance systems, agent-portable surveillance systems, and mobile surveillance capability systems.
+        - **(IV)** 573 unattended ground sensors, including seismic, imaging, and infrared.
+        - **(V)** 124 handheld equipment devices, including handheld thermal imaging systems and night vision goggles.
+        - **(VI)** 38 sensor repeaters.
+        - **(VII)** 38 communications repeaters.
+      - **(ii)** *At points of entry, checkpoints* At points of entry, checkpoints the following:
+        - **(I)** 1 non-intrusive inspection system.
+        - **(II)** 7 fiber-optic tank inspection scopes.
+        - **(III)** 19 license plate readers, including mobile, tactical, and fixed.
+        - **(IV)** 2 backscatter.
+        - **(V)** 14 portable contraband detectors.
+        - **(VI)** 2 radiation isotope identification devices.
+        - **(VII)** 18 radiation isotope identification devices updates.
+        - **(VIII)** 16 personal radiation detectors.
+        - **(IX)** 24 mobile automated targeting systems.
+        - **(X)** 3 land automated targeting systems.
+    - **(H)** *Rio Grande Valley* For Rio Grande Valley the following:
+      - **(i)** *Between ports of entry* Between ports of entry the following:
+        - **(I)** 1 integrated fixed towers.
+        - **(II)** 87 fixed camera systems (with relocation capability), which include remote video surveillance systems.
+        - **(III)** 27 mobile surveillance systems, which include mobile video surveillance systems, agent-portable surveillance systems, and mobile surveillance capability systems.
+        - **(IV)** 716 unattended ground sensors, including seismic, imaging, and infrared.
+        - **(V)** 205 handheld equipment devices, including handheld thermal imaging systems and night vision goggles.
+        - **(VI)** 4 sensor repeaters.
+        - **(VII)** 1 communications repeater.
+        - **(VIII)** 2 camera refresh.
+      - **(ii)** *At points of entry, checkpoints* At points of entry, checkpoints the following:
+        - **(I)** 1 mobile non-intrusive inspection system.
+        - **(II)** 11 fiberoptic tank inspection scopes.
+        - **(III)** 1 license plate reader.
+        - **(IV)** 2 backscatter.
+        - **(V)** 2 card reader system.
+        - **(VI)** 8 portable contraband detectors.
+        - **(VII)** 5 radiation isotope identification devices.
+        - **(VIII)** 18 radiation isotope identification devices updates.
+        - **(IX)** 135 personal radiation detectors.
+      - **(iii)** *Air and marine across the southwest border* For air and marine across the Southwest border the following:
+        - **(I)** 4 unmanned aircraft systems.
+        - **(II)** 6 VADER radar systems.
+        - **(III)** 17 UH–1N helicopters.
+        - **(IV)** 8 C–206H aircraft upgrades.
+        - **(V)** 8 AS–350 light enforcement helicopters.
+        - **(VI)** 10 Blackhawk helicopter 10 A–L conversions, 5 new Blackhawk M Model.
+        - **(VII)** 30 marine vessels.
+  - **(4)** *Redeployment of resources to achieve effective control* The Secretary may reallocate the personnel, infrastructure, and technologies required in the Southern Border Security Strategy to achieve effective control of the Southern border.
+  - **(5)** *Alternate technology* If the Secretary determines that an alternate or new technology is at least as effective as the technologies described in paragraph (3) and provides a commensurate level of security, the Secretary may deploy that technology in its place and without regard to the minimums in this section. The Secretary shall notify Congress within 60 days of any such determination.
+  - **(6)** *Annual report* Beginning 1 year after the enactment of this Act, and annually thereafter, the Secretary shall provide to Congress a written report to Congress on the sector-by-sector deployment of infrastructure and technologies.
+  - **(7)** *Additional elements regarding execution* The Comprehensive Southern Border Security Strategy shall describe—
     - **(A)** how the resources referred to in paragraph (2)(C) will be properly aligned with the priorities referred to in paragraph (2)(A) to ensure that the strategy will be successfully executed;
     - **(B)** the interim goals that must be accomplished to successfully implement the strategy; and
     - **(C)** the schedule and supporting milestones under which the Department will accomplish the interim goals referred to in subparagraph (B).
-  - **(4)** *Implementation*
+  - **(8)** *Implementation*
     - **(A)** *In general* The Secretary shall commence the implementation of the Comprehensive Southern Border Security Strategy immediately after submitting the strategy under paragraph (1).
     - **(B)** *Notice of commencement* Upon commencing the implementation of the strategy, the Secretary shall submit a notice of commencement of such implementation to—
       - **(i)** Congress; and
       - **(ii)** the Comptroller General of the United States.
-  - **(5)** *Semiannual reports*
-    - **(A)** *In general* After the Comprehensive Southern Border Security Strategy is submitted under paragraph (1),the Secretary shall submit, not later than May 15 and November 15 of each year, a report on the status of the Department's implementation of the strategy to—
+  - **(9)** *Semiannual reports*
+    - **(A)** *In general* Not later than 180 days after the Comprehensive Southern Border Security Strategy is submitted under paragraph (1), and every 180 days thereafter, the Secretary shall submit a report on the status of the Department's implementation of the strategy to—
       - **(i)** the Committee on Homeland Security and Governmental Affairs of the Senate;
       - **(ii)** the Committee on Homeland Security of the House of Representatives;
-      - **(iii)** the Committee on Appropriations of the Senate; and
-      - **(iv)** the Committee on Appropriations of the House of Representatives.
+      - **(iii)** the Committee on Appropriations of the Senate;
+      - **(iv)** the Committee on Appropriations of the House of Representatives;
+      - **(v)** the Committee on the Judiciary of the Senate;
+      - **(vi)** the Committee on the Judiciary of the House of Representatives; and
+      - **(vii)** the Comptroller General of the United States.
     - **(B)** *Elements* Each report submitted under subparagraph (A) shall include—
       - **(i)** a detailed description of the steps the Department has taken, or plans to take, to execute the strategy submitted under paragraph (1), including the progress made toward achieving the interim goals and milestone schedule established pursuant to subparagraphs (B) and (C) of paragraph (3);
       - **(ii)** a detailed description of—
@@ -129,52 +282,123 @@ Congress makes the following findings:
         - **(I)** the effectiveness rate for each individual Border Patrol sector and the aggregated effectiveness rate;
         - **(II)** the number of recidivist apprehensions, sorted by Border Patrol sector; and
         - **(III)** the recidivism rate for all unique subjects that received a criminal consequence through the Consequence Delivery System process.
+    - **(C)** *Annual review* The Comptroller General of the United States shall conduct an annual review of the information contained in the semiannual reports submitted by the Secretary under this paragraph and submit an assessment of the status and progress of the Southern Border Security Strategy to the committees set forth in subparagraph (A).
 - **(b)** *Southern Border Fencing Strategy*
-  - **(1)** *Establishment* Not later than 180 days after the date of the enactment of this Act, the Secretary shall establish a strategy, to be known as the “Southern Border Fencing Strategy”, to identify where fencing, including double-layer fencing, infrastructure, and technology should be deployed along the Southern border.
-  - **(2)** *Submittal* The Secretary shall submit the Southern Border Fencing Strategy to Congress and the Comptroller General of the United States for review.
+  - **(1)** *Establishment* Not later than 180 days after the date of the enactment of this Act, the Secretary shall establish a strategy, to be known as the “Southern Border Fencing Strategy”, to identify where 700 miles of fencing (including double-layer fencing), infrastructure, and technology, including at ports of entry, should be deployed along the Southern border.
+  - **(2)** *Submission* The Secretary shall submit the Southern Border Fencing Strategy to Congress and the Comptroller General of the United States for review.
   - **(3)** *Notice of commencement* Upon commencing the implementation of the Southern Border Fencing Strategy, the Secretary shall submit a notice of commencement of the implementation of the Strategy to Congress and the Comptroller General of the United States.
+  - **(4)** *Consultation*
+    - **(A)** *In general* In implementing the Southern Border Fencing Strategy required by this subsection, the Secretary shall consult with the Secretary of the Interior, the Secretary of Agriculture, States, local governments, Indian tribes, and property owners in the United States to minimize the impact on the environment, culture, commerce, and quality of life for the communities and residents located near the sites at which such fencing is to be constructed.
+    - **(B)** *Savings provision* Nothing in this paragraph may be construed to—
+      - **(i)** create or negate any right of action for a State or local government or other person or entity affected by this subsection; or
+      - **(ii)** affect the eminent domain laws of the United States or of any State.
+  - **(5)** *Limitation on requirements* Notwithstanding paragraph (1), nothing in this subsection shall require the Secretary to install fencing, or infrastructure that directly results from the installation of such fencing, in a particular location along the Southern border, if the Secretary determines that the use or placement of such resources is not the most appropriate means to achieve and maintain effective control over the Southern border at such location.
 
-## § 6. Comprehensive Immigration Reform Trust Fund
+## § 6. Comprehensive Immigration Reform Funds
 
 - **(a)** *Comprehensive Immigration Reform Trust Fund*
   - **(1)** *Establishment* There is established in the Treasury a separate account, to be known as the Comprehensive Immigration Reform Trust Fund (referred to in this section as the “Trust Fund”), consisting of—
     - **(A)** amounts transferred from the general fund of the Treasury under paragraph (2)(A); and
     - **(B)** proceeds from the fees described in paragraph (2)(B).
   - **(2)** *Deposits*
-    - **(A)** *Initial funding* On the later of the date of the enactment of this Act or October 1, 2013, $6,500,000,000 shall be transferred from the general fund of the Treasury to the Trust Fund.
-    - **(B)** *Start-up costs* On the later of the date of the enactment of this Act or October 1, 2013, $100,000,000 is hereby appropriated from the general fund of the Treasury, to remain available until September 30, 2015, to the Department to pay for one-time and startup costs necessary to implement this Act,
-    - **(C)** *Ongoing funding* In addition to the funding described in subparagraph (A), the following amounts shall be deposited in the trust fund:
-      - **(i)** *Electronic travel authorization system fees* 75 percent of the fees collected under section 217(h)(3)(B) of the Immigration and Nationality Act (8 U.S.C. 1187(h)(3)).
-      - **(ii)** *J–1 visa mitigation fees* Mitigation fees collected from employers who employ aliens described in section 101(a)(15)(J) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(J)) through the Summer Work Travel Program.
-      - **(iii)** *H–1B visa fees* Fees collected from employers hiring nonimmigrants described in section 101(a)(15)(H)(i)(b) of the Immigration and Nationality Act (8 U.S.C. 1101 (a)(15)(H)(i)(b)).
-      - **(iv)** *L–1 visa fees* Fees collected under section 214(c)(12) of the Immigration and Nationality Act (8 U.S.C. 1184(c)(12) from employers hiring a nonimmigrant described in section 101(a)(15)(L) of such Act (8 U.S.C. 1101(a)(15)(L)).
-      - **(v)** *H–2B visa fees* Fees collected from employers hiring nonimmigrants described in section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act (8 U.S.C. 1101 (a)(15)(H)(i i)(b)) in the amount of $500 under section 214 of the Immigration and Nationality Act (8 U.S.C. 1184).
-      - **(vi)** *F–1 visa fees* Fees collected for nonimmigrants admitted under section 101(a)(15)(F)(i) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(F)(i)) in the amount of $500 under section 214 of the Immigration and Nationality Act (8 U.S.C. 1184)
-      - **(vii)** *Visitor visa fees* Amend Section 214 to add a $5 fee for visitor visas 101(a)(15)(B).
-      - **(viii)** *Merit system green card fees* Include the fee charged in the document to get a “merit system” green card.
-      - **(ix)** *Other aliens* An alien who is allocated a visa under section 211 shall pay a fee of $1,500.
-      - **(x)** *Penalty* Penalties collected from applicants for provisional immigrant status under section 245B(c)(9)(C) of the Immigration and Nationality Act, as added by section 2101 of this Act.
-      - **(xi)** *H-1b nonimmigrant dependent employer fees* Fees collected under section 423(a)(2).
-      - **(xii)** *H–1B outplacement fee* Fees collected under section 212(n)(1)(F)(ii) of the Immigration and Nationality Act, as amended by section 4201(d).
-      - **(xiii)** *L nonimmigrant dependent employer fees* Fees collected under section 435(a)(2).
-      - **(xiv)** *Retiree visa fees* Fees collected under section 101(a)(15)(Y) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(Y)).
-      - **(xv)** *Nonimmigrants performing maintenance on common carriers* Fees collected under subsection (z) of section 214 of the Immigration and Nationality Act (8 U.S.C. 1184), as added by section 4604.
+    - **(A)** *Initial funding* On the later of the date of the enactment of this Act or October 1, 2013, $46,300,000,000 shall be transferred from the general fund of the Treasury to the Trust Fund.
+    - **(B)** *Ongoing funding* Notwithstanding section 3302 of title 31, United States Code, in addition to the funding described in subparagraph (A), and subject to paragraphs (3)(B) and (4), the following amounts shall be deposited in the Trust Fund:
+      - **(i)** *Electronic travel authorization system fees* Fees collected under section 217(h)(3)(B)(i)(II) of the Immigration and Nationality Act, as added by section 1102(c).
+      - **(ii)** *Registered provisional immigrant penalties* Penalties collected under section 245B(c)(10)(C) of the Immigration and Nationality Act, as added by section 2101.
+      - **(iii)** *Blue card penalty* Penalties collected under section 2211(b)(9)(C).
+      - **(iv)** *Fine for adjustment from blue card status* Fines collected under section 245F(a)(5) of the Immigration and Nationality Act, as added by section 2212(a).
+      - **(v)** *Penalties for false statements in applications* Fines collected under section 245F(f) of the Immigration and Nationality Act, as added by section 2212(a).
+      - **(vi)** *Merit system green card fees* Fees collected under section 203(c)(6) of the Immigration and Nationality Act, as amended by section 2301(a)(2).
+      - **(vii)** *H–1B and L visa fees* Fees collected under section 281(d) of the Immigration and Nationality Act, as added by section 4105.
+      - **(viii)** *H–1B outplacement fee* Fees collected under section 212(n)(1)(F)(ii) of the Immigration and Nationality Act, as amended by section 4211(d).
+      - **(ix)** *H–1B nonimmigrant dependent employer fees* Fees collected under section 4233(a)(2).
+      - **(x)** *L nonimmigrant dependent employer fees* Fees collected under section 4305(a)(2).
+      - **(xi)** *J–1 visa mitigation fees* Fees collected under section 281(e) of the Immigration and Nationality Act, as added by section 4407.
+      - **(xii)** *F–1 visa fees* Fees collected under section 281(f) of the Immigration and Nationality Act, as added by section 4409.
+      - **(xiii)** *Retiree visa fees* Fees collected under section 214(w)(1)(B) of the Immigration and Nationality Act, as added by section 4504(b).
+      - **(xiv)** *Visitor visa fees* Fees collected under section 281(g) of the Immigration and Nationality Act, as added by section 4509.
+      - **(xv)** *H–2B visa fees* Fees collected under section 214(x)(5)(A) of the Immigration and Nationality Act, as added by section 4602(a).
+      - **(xvi)** *Nonimmigrants performing maintenance on common carriers* Fees collected under section 214(z) of the Immigration and Nationality Act, as added by section 4604.
+      - **(xvii)** *X–1 visa fees* Fees collected under section 214(s)(6) of the Immigration and Nationality Act, as added by section 4801.
+      - **(xviii)** *Penalty for adjustment from registered provisional immigrant status* Penalties collected under section 245C(c)(5)(B) of the Immigration and Nationality Act, as added by section 2102.
+    - **(C)** *Authority to adjust fees* As necessary to carry out the purposes of this Act, the Secretary may adjust the amounts of the fees and penalties set out under subparagraph (B), except for the fines and penalties referred to in clauses (ii), (iii), (iv), or (xviii) of such subparagraph; provided further that the Secretary shall adjust the amounts of the fees and penalties set out under subparagraph (B), except for the fines and penalties referred to in clauses (ii), (iii), (iv), or (xviii) of such subparagraph to result in no less than $500,000,000 being available for fiscal year 2014 and $1,000,000,000 for fiscal years 2015 through 2023 for appropriations for activities authorized under this Act. If the Secretary determines that adjusting the fees and penalties set out under subparagraph (B) will be insufficient or impractical to cover the costs of the mandatory enforcement expenditures in this Act, the Secretary may charge an additional surcharge on every immigrant and nonimmigrant petition filed with the Secretary in an amount designed to be the minimum proportional surcharge necessary to recover the annual mandatory enforcement expenditures in this legislation.
   - **(3)** *Use of funds*
     - **(A)** *Initial funding* Of the amounts transferred to the Trust Fund pursuant to paragraph (2)(A)—
-      - **(i)** $3,000,000,000 shall be made available to the Secretary, during the 5-year period beginning on the date of the enactment of this Act, to carry out the Comprehensive Southern Border Security Strategy;
-      - **(ii)** $2,000,000,000 shall be made available to the Secretary, during the 10-year period beginning on the date of the enactment of this Act, to carry out programs, projects, and activities recommended by the Commission pursuant to section 4(c) to achieve and maintain the border security goal specified in section 3(b); and
-      - **(iii)** $1,500,000,000 shall be made available to the Secretary, during the 5-year period beginning on the date of the enactment of this Act, to procure and deploy additional fencing in high-risk border sectors in accordance with the Southern Border Fencing Strategy established pursuant to section 5(b).
-    - **(B)** *Ongoing funding* Of the amounts deposited into the Trust Fund pursuant to paragraph (2)(B)—
-      - **(i)** $50,000,000 shall be available during each of the fiscal years 2014 through 2018 to carry out the activities described in section 1104(a)(1); and
-      - **(ii)** $50,000,000 shall be available during each of the fiscal years 2014 through 2018 to carry out the activities described in section 1104(b).
-- **(b)** *Limitation on collection* No fee described in paragraph (2)(B) may be collected under this Act except to the extent that the expenditure of the fee to pay the costs of activities and services for which the fee is imposed is provided for in advance in an appropriations Act.
-- **(c)** *Receipts collected as offsetting receipts* Notwithstanding section 3302 of title 31, United States Code, any fee collected under this Act—
-  - **(1)** shall be credited as offsetting collections to the Trust Fund;
-  - **(2)** shall be available for expenditure only to pay the costs of activities and services authorized from the Trust Fund; and
-  - **(3)** shall remain available until expended.
+      - **(i)** $30,000,000,000 shall remain available for the 10-year period beginning on the date specified in paragraph (2)(A) for use by the Secretary in hiring and deploying at least 19,200 additional trained full-time active duty U.S. Border Patrol agents along the Southern Border;
+      - **(ii)** $4,500,000,000 shall remain available for the 5-year period beginning on the date specified in paragraph (2)(A) for use by the Secretary to carry out the Comprehensive Southern Border Security Strategy;
+      - **(iii)** $2,000,000,000 shall remain available for the 10-year period beginning on the date specified in paragraph (2)(A) for use by the Secretary to carry out programs, projects, and activities recommended by the Commission pursuant to section 4(d) to achieve and maintain the border security goal specified in section 3(b), and for the administrative expenses directly associated with convening the public hearings required by section 3(c)(2)(A) and preparing and providing summaries of such hearings required by section 3(c)(2)(B);
+      - **(iv)** $8,000,000,000 shall be made available to the Secretary, during the 5-year period beginning on the date of the enactment of this Act, to procure and deploy fencing, infrastructure, and technology in accordance with the Southern Border Fencing Strategy established pursuant to section 5(b), not less than $7,500,000,000 of which shall be used to deploy, repair, or replace fencing;
+      - **(v)** $750,000,000 shall remain available for the 6-year period beginning on the date specified in paragraph (2)(A) for use by the Secretary to expand and implement the mandatory employment verification system, which shall be used as required by section 274A of the Immigration and Nationality Act (8 U.S.C. 1324a), as amended by section 3101;
+      - **(vi)** $900,000,000 shall remain available for the 8-year period beginning on the date specified in paragraph (2)(A) for use by the Secretary of State to pay for one-time and startup costs necessary to implement this Act; and
+      - **(vii)** $150,000,000 shall remain available for the 2-year period beginning on the date specified in paragraph (2)(A) for use by the Secretary for transfer to the Secretary of Labor, the Secretary of Agriculture, or the Attorney General, for initial costs of implementing this Act.
+    - **(B)** *Repayment of Trust Fund expenses* The first $8,300,000,000 collected pursuant to the fees, penalties, and fines referred to in clauses (ii), (iii), (iv), (vi), (xiii), (xvii), and (xviii) of paragraph (2)(B) shall be collected, deposited in the general fund of the Treasury, and used for Federal budget deficit reduction. Collections in excess of $8,300,000,000 shall be deposited into the Trust Fund, as specified in paragraph (2)(B).
+    - **(C)** *Program implementation* Amounts deposited into the Trust Fund pursuant to paragraph (2)(B) shall be available during each of fiscal years 2014 through 2018 as follows:
+      - **(i)** $50,000,000 to carry out the activities referenced in section 1104(a)(1).
+      - **(ii)** $50,000,000 to carry out the activities referenced in section 1104(b).
+    - **(D)** *Ongoing funding* Subject to the availability of appropriations, amounts deposited in the Trust Fund pursuant to paragraph (2)(B) are authorized to be appropriated as follows:
+      - **(i)** Such sums as may be necessary to carry out the authorizations included in this Act, including the costs, including pay and benefits, associated with the additional personnel required by section 1102.
+      - **(ii)** Such sums as may be necessary to carry out the operations and maintenance of border security and immigration enforcement investments referenced in subparagraph (A).
+    - **(E)** *Expenditure plan* The Secretary, in consultation with the Attorney General and the Secretary of Defense, shall submit to the Committee on Appropriations of the Senate, the Committee on the Judiciary of the Senate, the Committee on Appropriations of the House of Representatives, and the Committee on the Judiciary of the House of Representatives, in conjunction with the Comprehensive Southern Border Strategy and the Southern Border Fencing Strategy, a plan for expenditure that describes—
+      - **(i)** the types and planned deployment of fixed, mobile, video, and agent and officer portable surveillance and detection equipment, including those recommended or provided by the Department of Defense;
+      - **(ii)** the number of Border Patrol agents and Customs and Border Protection officers to be hired, including a detailed description of which Border Patrol sectors and which land border ports of entry they will be stationed;
+      - **(iii)** the numbers and type of unarmed, unmanned aerial systems and unarmed, fixed-wing and rotary aircraft, including pilots, air interdiction agents, and support staff to fly or otherwise operate and maintain the equipment;
+      - **(iv)** the numbers, types, and planned deployment of marine and riverine vessels, if any, including marine interdiction agents and support staff to operate and maintain the vessels;
+      - **(v)** the locations, amount, and planned deployment of fencing, including double layer fencing, tactical and other infrastructure, and technology, including but not limited to fixed towers, sensors, cameras, and other detection technology;
+      - **(vi)** the numbers, types, and planned deployment of ground-based mobile surveillance systems;
+      - **(vii)** the numbers, types, and planned deployment of tactical and other interoperable law enforcement communications systems and equipment;
+      - **(viii)** required construction, including repairs, expansion, and maintenance, and location of additional checkpoints, Border Patrol stations, and forward operating bases;
+      - **(ix)** the number of additional attorneys and support staff for the Office of the United States Attorney for Tucson;
+      - **(x)** the number of additional support staff and interpreters in the Office of the Clerk of the Court for Tucson;
+      - **(xi)** the number of additional personnel, including Marshals and Deputy Marshals for the United States Marshals Office for Tucson;
+      - **(xii)** the number of additional magistrate judges for the southern border United States District Courts;
+      - **(xiii)** activities to be funded by the Homeland Security Border Oversight Task Force;
+      - **(xiv)** amounts and types of grants to States and other entities;
+      - **(xv)** amounts and activities necessary to hire additional personnel and for start-up costs related to upgrading software and information technology necessary to transition from a voluntary E-Verify system to mandatory employment verification system under section 274A of the Immigration and Nationality Act (8 U.S.C. 1324a) within 5 years;
+      - **(xvi)** the number of additional personnel and other costs associated with implementing the immigration courts and removal proceedings mandated in subtitle E of title III;
+      - **(xvii)** the steps the Commissioner of Social Security plans to take to create a fraud-resistant, tamper-resistant, wear-resistant, and identity-theft resistant Social Security card, including—
+        - **(I)** the types of equipment needed to create the card;
+        - **(II)** the total estimated costs for completion that clearly delineates costs associated with the acquisition of equipment and transition to operation, subdivided by fiscal year and including a description of the purpose by fiscal year for design, pre-acquisition activities, production, and transition to operation;
+        - **(III)** the number and type of personnel, including contract personnel, required to research, design, test, and produce the card; and
+        - **(IV)** a detailed schedule for production of the card, including an estimated completion date at the projected funding level provided in this Act; and
+      - **(xviii)** the operations and maintenance costs associated with the implementation of clauses (i) through (xvii).
+    - **(F)** *Annual revision* The expenditure plan required in (E) shall be revised and submitted with the President’s budget proposals for fiscal year 2016, 2017, 2018, and 2019 pursuant to the requirements of section 1105(a) of title 31, United States Code.
+    - **(G)** *Commission expenditure plan*
+      - **(i)** *Requirement for plan* If the Southern Border Security Commission referenced in section 4 is established, the Secretary shall submit to the appropriate committees of Congress, not later than 60 days after the submission of the review required by section 4(g), a plan for expenditure that achieves the recommendations in the report required by section 4(d) and the review required by section 4(g).
+      - **(ii)** *Appropriate committees of Congress defined* In clause (i), the term “appropriate committees of Congress” means—
+        - **(I)** the Committee on Appropriations, the Committee on the Judiciary, and the Committee on Finance of the Senate; and
+        - **(II)** the Committee on Appropriations, the Committee on the Judiciary, and the Committee on Ways and Means of the House of Representatives.
+  - **(4)** *Limitation on collection*
+    - **(A)** *In general* No fee deposited in the Trust Fund may be collected except to the extent that the expenditure of the fee is provided for in advance in an appropriations Act only to pay the costs of activities and services for which appropriations are authorized to be funded from the Trust Fund.
+    - **(B)** *Receipts collected as offsetting receipts* Until the date of the enactment of an Act making appropriations for the activities authorized under this Act through September 30, 2014, the fees authorized by paragraph (2)(B) that are not deposited into the general fund pursuant to paragraph (3)(B) may be collected and shall be credited as to the Trust Fund to remain available until expended only to pay the costs of activities and services for which appropriations are authorized to be funded from the Trust Fund.
+- **(b)** *Comprehensive Immigration Reform Startup Account*
+  - **(1)** *Establishment* There is established in the Treasury a separate account, to be known as the “Comprehensive Immigration Reform Startup Account,” (referred to in this section as the “Startup Account”), consisting of amounts transferred from the general fund of the Treasury under paragraph (2).
+  - **(2)** *Deposits* There is appropriated to the Startup Account, out of any funds in the Treasury not otherwise appropriated, $3,000,000,000, to remain available until expended on the later of the date that is—
+    - **(A)** the date of the enactment of this Act; or
+    - **(B)** October 1, 2013.
+  - **(3)** *Repayment of startup costs*
+    - **(A)** *In general* Notwithstanding section 286(m) of the Immigration and Nationality Act (8 U.S.C. 1356(m)), 50 percent of fees collected under section 245B(c)(10)(A) of the Immigration and Nationality Act, as added by section 2101 of this Act, shall be deposited monthly in the general fund of the Treasury and used for Federal budget deficit reduction until the funding provided by paragraph (2) has been repaid.
+    - **(B)** *Deposit in the Immigration Examinations Fee Account* Fees collected in excess of the amount referenced in subparagraph (A) shall be deposited in the Immigration Examinations Fee Account, pursuant to section 286(m) of the Immigration and Nationality Act (8 U.S.C. 1356(m)), and shall remain available until expended pursuant to section 286(n) of the Immigration and Nationality Act (8 U.S.C. 1356(n)).
+  - **(4)** *Use of funds* The Secretary shall use the amounts transferred to the Startup Account to pay for one-time and startup costs necessary to implement this Act, including—
+    - **(A)** equipment, information technology systems, infrastructure, and human resources;
+    - **(B)** outreach to the public, including development and promulgation of any regulations, rules, or other public notice;
+    - **(C)** grants to community and faith-based organizations; and
+    - **(D)** anti-fraud programs and actions related to implementation of this Act.
+  - **(5)** *Expenditure plan* Not later than 90 days after the date of the enactment of this Act, the Secretary, in consultation with the Attorney General and the Secretary of Defense, shall submit to the Committee on Appropriations and the Committee on the Judiciary of the Senate and the Committee on Appropriations and the Committee on the Judiciary of the House of Representatives, a plan for expenditure of the one-time and startup funds in the Startup Account that provides details on—
+    - **(A)** the types of equipment, information technology systems, infrastructure, and human resources;
+    - **(B)** the plans for outreach to the public, including development and promulgation of any regulations, rules, or other public notice;
+    - **(C)** the types and amounts of grants to community and faith-based organizations; and
+    - **(D)** the anti-fraud programs and actions related to implementation of this Act.
+- **(c)** *Annual audits*
+  - **(1)** *Audits required* Not later than October 1 each year beginning on or after the date of the enactment of this Act, the Chief Financial Officer of the Department of Homeland Security shall, in conjunction with the Inspector General of the Department of Homeland Security, conduct an audit of the Trust Fund.
+  - **(2)** *Reports* Upon completion of each audit of the Trust Fund under paragraph (1), the Chief Financial Officer shall, in conjunction with the Inspector General, submit to Congress, and make available to the public on an Internet website of the Department available to the public, a jointly audited financial statement concerning the Trust Fund.
+  - **(3)** *Elements* Each audited financial statement under paragraph (2) shall include the following:
+    - **(A)** The report of an independent certified public accountant.
+    - **(B)** A balance sheet reporting admitted assets, liabilities, capital and surplus.
+    - **(C)** A statement of cash flow.
+    - **(D)** Such other information on the Trust Fund as the Chief Financial Officer, the Inspector General, or the independent certified public accountant considers appropriate to facilitate a comprehensive understanding of the Trust Fund during the year covered by the financial statement.
 - **(d)** *Determination of budgetary effects*
-  - **(1)** *Emergency designation for congressional enforcement* In the Senate, amounts made available under this section are designated as an emergency requirement pursuant to section 403(a) of S. Con. Res. 13 (111th Congress), the concurrent resolution on the budget for fiscal year 2010.
-  - **(2)** *Emergency designation for statutory PAYGO* Amounts made available under this section are designated as an emergency requirement under section 4(g) of the Statutory Pay-As-You-Go Act of 2010 (Public Law 111–139; 2 U.S.C. 933(g)).
+  - **(1)** *Emergency designation for congressional enforcement* In the Senate, amounts appropriated by or deposited in the general fund of the Treasury pursuant to this section are designated as an emergency requirement pursuant to section 403(a) of S. Con. Res. 13 (111th Congress), the concurrent resolution on the budget for fiscal year 2010.
+  - **(2)** *Emergency designation for statutory PAYGO* Amounts appropriated by or deposited in the general fund of the Treasury pursuant to this section are designated as an emergency requirement under section 4(g) of the Statutory Pay-As-You-Go Act of 2010 (Public Law 111–139; 2 U.S.C. 933(g)).
 
 ## § 7. Reference to the Immigration and Nationality Act
 
@@ -186,3 +410,31 @@ In this Act:
 
 - **(1)** *Department* Except as otherwise provided, the term Department means the Department of Homeland Security.
 - **(2)** *Secretary* Except as otherwise provided, the term Secretary means the Secretary of Homeland Security.
+
+## § 9. Grant accountability
+
+- **(a)** *Definitions* In this section:
+  - **(1)** *Awarding entities* The term awarding entities means the Secretary of Homeland Security, the Director of the Federal Emergency Management Agency (FEMA), the Chief of the Office of Citizenship and New Americans, as designated by this Act, and the Director of the National Science Foundation.
+  - **(2)** *Nonprofit organization* The term nonprofit organization means an organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 and is exempt from taxation under section 501(a) of such Code.
+  - **(3)** *Unresolved audit finding* The term unresolved audit finding means a finding in a final audit report conducted by the Inspector General of the Department of Homeland Security, or the Inspector General for the National Science Foundation for grants awarded by the Director of the National Science Foundation, that the audited grantee has utilized grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 1 year from the date when the final audit report is issued.
+- **(b)** *Accountability* All grants awarded by awarding entities pursuant to this Act shall be subject to the following accountability provisions:
+  - **(1)** *Audit requirement*
+    - **(A)** *Audits* Beginning in the first fiscal year beginning after the date of the enactment of this section, and in each fiscal year thereafter, the Inspector General of the Department of Homeland Security, or the Inspector General for the National Science Foundation for grants awarded by the Director of the National Science Foundation, shall conduct audits of recipients of grants under this Act to prevent waste, fraud, and abuse of funds by grantees. The Inspector Generals shall determine the appropriate number of grantees to be audited each year.
+    - **(B)** *Mandatory exclusion* A recipient of grant funds under this Act that is found to have an unresolved audit finding shall not be eligible to receive grant funds under this Act during the first 2 fiscal years beginning after the end of the 1-year period described in subsection (a)(3).
+    - **(C)** *Priority* In awarding grants under this Act, the awarding entities shall give priority to eligible applicants that did not have an unresolved audit finding during the 3 fiscal years before submitting an application for a grant under this Act.
+    - **(D)** *Reimbursement* If an entity is awarded grant funds under this Act during the 2-fiscal-year period during which the entity is barred from receiving grants under subparagraph (B), the awarding entity shall—
+      - **(i)** deposit an amount equal to the amount of the grant funds that were improperly awarded to the grantee into the General Fund of the Treasury; and
+      - **(ii)** seek to recoup the costs of the repayment to the fund from the grant recipient that was erroneously awarded grant funds.
+  - **(2)** *Nonprofit organization requirements*
+    - **(A)** *Prohibition* An awarding entity may not award a grant under this Act to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in section 511(a) of the Internal Revenue Code of 1986.
+    - **(B)** *Disclosure* Each nonprofit organization that is awarded a grant under this Act and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees, and key employees, shall disclose to the awarding entity, in the application for the grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the awarding entity shall make the information disclosed under this subparagraph available for public inspection.
+  - **(3)** *Conference expenditures*
+    - **(A)** *Limitation* No amounts authorized to be appropriated to the Department of Homeland Security or the National Science Foundation for grant programs under this Act may be used by an awarding entity or by any individual or entity awarded discretionary funds through a cooperative agreement under this Act to host or support any expenditure for conferences that uses more than $20,000 in funds made available by the Department of Homeland Security or the National Science Foundation unless the Deputy Secretary for Homeland Security, or the Deputy Director of the National Science Foundation, or their designee, provides prior written authorization that the funds may be expended to host the conference.
+    - **(B)** *Written approval* Written approval under subparagraph (A) shall include a written estimate of all costs associated with the conference, including the cost of all food, beverages, audio-visual equipment, honoraria for speakers, and entertainment.
+    - **(C)** *Report* The Deputy Secretary of Homeland Security and the Deputy Director of the National Science Foundation shall submit an annual report to Congress on all conference expenditures approved under this paragraph.
+  - **(4)** *Annual certification* Beginning in the first fiscal year beginning after the date of the enactment of this subsection, each awarding entity shall submit to Congress a report—
+    - **(A)** indicating whether—
+      - **(i)** all audits issued by the Offices of the Inspector General under paragraph (1) have been completed and reviewed by the appropriate individuals;
+      - **(ii)** all mandatory exclusions required under paragraph (1)(B) have been issued; and
+      - **(iii)** all reimbursements required under paragraph (1)(D) have been made; and
+    - **(B)** including a list of any grant recipients excluded under paragraph (1) from the previous year.
