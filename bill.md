@@ -21,6 +21,8 @@ The Federal Land Transaction Facilitation Act is amended—
 - **(2)** in section 205 (43 U.S.C. 2304)—
   - **(A)** in subsection (a), by striking “this Act” and inserting “the Federal Land Transaction Facilitation Act Reauthorization of 2013”; and
   - **(B)** in subsection (d), by striking “11” and inserting “21”;
+  - **(A)** in subsection (a), by striking “(as in effect on the date of enactment of this Act)”; and
+  - **(B)** by striking subsection (d);
 - **(3)** in section 206 (43 U.S.C. 2305), by striking subsection (f); and
 - **(4)** in section 207(b) (43 U.S.C. 2306(b))—
   - **(A)** in paragraph (1)—

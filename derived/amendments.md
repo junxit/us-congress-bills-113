@@ -1,7 +1,7 @@
 ---
 measure: S. 368
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 4 executed, 5 stated and not applied.
+11 amendatory instructions. 4 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -69,6 +69,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `43 U.S.C. § 2304` | strike | in subsection (a), by striking “(as in effect on the date of enactment of this Act)”; and | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 2304` | strike | by striking subsection (d); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 2305` | strike | in section 206 (43 U.S.C. 2305), by striking subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 2306` | replace | by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 2306` | insert | by inserting “Public Law 105–263;” before “112 Stat.”; and | the bill quotes the text inserted but describes where it goes |
