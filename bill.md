@@ -18,6 +18,7 @@ This Act may be cited as the “Alaska Subsistence Structure Protection Act of 2
 In this Act:
 
 - **(1)** *Covered cabin* The term “covered cabin” means a cabin (including related structures) on National Forest System land in the State of Alaska—
+- **(1)** *Covered cabin or temporary structure* The term covered cabin or temporary structure means a cabin (including related structures) or a tent platform on National Forest System land in the State of Alaska—
   - **(A)** that is used for subsistence uses;
   - **(B)** that is subject to section 1303(d) of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3193(d));
   - **(C)** that is subject to section 1316(a) of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3204(a)); or
@@ -27,3 +28,7 @@ In this Act:
 ## § 3. Alaska subsistence use cabin permit fees
 
 The maximum amount of the fee for the issuance of a special use permit by the Secretary of Agriculture for the use and occupancy of National Forest System land for a covered cabin shall be not more than $250.
+
+## § 3. Alaska subsistence use cabin and temporary structure special use land use fees
+
+The maximum land use fee for a special use permit issued by the Secretary of Agriculture for the use and occupancy of National Forest System land for a covered cabin or temporary structure shall be not more than $250.
