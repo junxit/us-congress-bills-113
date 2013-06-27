@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2216
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2216
@@ -206,3 +206,7 @@ Military Construction and Veterans Affairs, and Related Agencies Appropriations 
 - 2013-06-04 — The resolution provides for consideration of H.R. 2216 and H.R. 2217. The resolution provides for one hour of general debate on each bill. The resolution provides that each bill shall be considered for amendment under the five-minute rule. The resolution provides that the Chair may accord priority in recognition to Members who have pre-printed their amendments in the Congressional Record. The resolution provides one motion to recommit for each bill with or without instructions.
 - 2013-06-04 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2013-06-06 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2013-06-20 — Committee on Appropriations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2013-06-27 — Committee on Appropriations. Reported by Senator Johnson SD, with an amendment in the nature of a substitute. With written report No. 113-48.
+- 2013-06-27 — Committee on Appropriations. Reported by Senator Johnson SD, with an amendment in the nature of a substitute. With written report No. 113-48.
+- 2013-06-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 102.
