@@ -52,13 +52,18 @@ In this Act:
 ## § 5. Establishment of manhattan project national historical park
 
 - **(a)** *Establishment* Not later than 1 year after the date of enactment of this Act, there shall be established as a unit of the National Park System the Manhattan Project National Historical Park.
-- **(b)** *Eligible areas* The Historical Park may be comprised of 1 or more of the following areas or portions of the areas, as generally depicted on the map entitled “Manhattan Project National Historical Park Sites”, numbered 540/108,834–C, and dated September 2012:
+- **(a)** *Establishment*
+  - **(1)** *In general* Subject to paragraph (2), there is established in the States of Washington, New Mexico, and Tennessee a unit of the National Park System to be known as the “Manhattan Project National Historical Park”.
+  - **(2)** *Determination by Secretary required* The Historical Park shall not be established until the date on which the Secretary determines that—
+    - **(A)** sufficient land or interests in land have been acquired from among the sites described in subsection (b) to constitute a manageable park unit; or
+    - **(B)** the Secretary has entered into an agreement with the Secretary of Energy in accordance with section 6.
+- **(b)** *Eligible areas* The Historical Park may be comprised of 1 or more of the following areas or portions of the areas, as generally depicted on the map entitled “Manhattan Project National Historical Park Sites”, numbered 540/108,834–C (4 pages), and dated September 2012:
   - **(1)** *Oak ridge, Tennessee* Facilities, land, or interests in land that are—
     - **(A)** at Buildings 9204–3 and 9731 at the Y–12 National Security Complex;
     - **(B)** at the X–10 Graphite Reactor at the Oak Ridge National Laboratory;
     - **(C)** at the K–25 Building site at the East Tennessee Technology Park;
     - **(D)** at the former Guest House located at 210 East Madison Road; and
-    - **(E)** at other sites within the boundary of the city of Oak Ridge, Tennessee, that are not depicted on the map described in this subsection, but are determined by the Secretary to be suitable and appropriate for inclusion.
+    - **(E)** at other sites within the boundary of the city of Oak Ridge, Tennessee, that are not depicted on the map described in this subsection, but are determined by the Secretary to be suitable and appropriate for inclusion, except that sites owned or managed by the Secretary of Energy may be included only with the concurrence of the Secretary of Energy.
   - **(2)** *Los Alamos, New Mexico* Facilities, land, or interests in land that are—
     - **(A)** in the Los Alamos Scientific Laboratory National Historic Landmark District or any addition to the Landmark District proposed in the National Historic Landmark Nomination—Los Alamos Scientific Laboratory (LASL) NHL District (Working Draft of NHL Revision), Los Alamos National Laboratory document LA–UR 12–00387 (January 26, 2012);
     - **(B)** at the former East Cafeteria located at 1670 Nectar Street; and
