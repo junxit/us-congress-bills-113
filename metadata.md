@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1613
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1613
@@ -42,6 +42,12 @@ Outer Continental Shelf Transboundary Hydrocarbon Agreements Authorization Act
 - House — Foreign Affairs Committee
 - House — Natural Resources Committee
 
+## Recorded votes (3)
+
+- 2013-06-27 — [House 113-1-291](votes/house-113-1-0291.md) — On Agreeing to the Amendment — **Failed** (213–213)
+- 2013-06-27 — [House 113-1-292](votes/house-113-1-0292.md) — On Motion to Recommit with Instructions — **Failed** (194–232)
+- 2013-06-27 — [House 113-1-293](votes/house-113-1-0293.md) — On Passage — **Passed** (256–171)
+
 ## Actions
 
 - 2013-04-18 — Introduced in House
@@ -63,3 +69,34 @@ Outer Continental Shelf Transboundary Hydrocarbon Agreements Authorization Act
 - 2013-06-06 — Placed on the Union Calendar, Calendar No. 70.
 - 2013-06-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-101, Part I.
 - 2013-06-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-101, Part I.
+- 2013-06-25 — Rules Committee Resolution H. Res. 274 Reported to House. Resolution provides for 3 separate measures and for proceedings during the period from June 29, 2013 through July 5, 2013.
+- 2013-06-27 — AMENDMENT MODIFICATION AUTHORITY - Mr. Sessions asked unanimous consent that during the consideration of H.R. 1613 and H.R. 2231 pursuant to H.Res. 274, amendment numbered 1 printed in part A of House Report 113-131 and amendments numbered 5 and 10 printed in part B of that report be modified. Agreed to without objection. ((consideration: CR H4096-4097; text of certain modified House amendments: CR H4097)
+- 2013-06-27 — Amendment (A001) offered by Mr. Grayson. (consideration: CR H4104-4105; text: CR H4104)
+- 2013-06-27 — Amendment failed by House: On agreeing to the Grayson amendment (A001) as modified Failed by the Yeas and Nays: 213 - 213 (Roll no. 291).
+- 2013-06-27 — Amendment failed by House: On agreeing to the Grayson amendment (A001) as modified Failed by the Yeas and Nays: 213 - 213 (Roll no. 291).
+- 2013-06-27 — Before the House recessed, the Chair had declared that the noes had prevailed by voice vote on the Grayson amendment. Mr. Grayson demanded the yeas and nays.
+- 2013-06-27 — Considered as unfinished business. (consideration: CR H4105-4108)
+- 2013-06-27 — Considered under the provisions of rule H. Res. 274. (consideration: CR H4096-4108; text of measure as reported in House: CR H4097-4098)
+- 2013-06-27 — DEBATE - Pursuant to the provisions of H.Res. 274, the House proceeded with 10 minutes of the Grayson amendment No. 1, as modified.
+- 2013-06-27 — DEBATE - The House proceeded with 10 minutes of debate on the Garcia motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to require that, prior to the commencement of drilling operations authorized under this bill, the Secretary of the Interior ensure that requirements are met for well safety, blowout protection, and risk assessment. The amendment would also require increased fines for every day in which a well is found to be in violation of these requirements and give the Secretary authority to collect these fines and also to increase their maximum amounts.
+- 2013-06-27 — DEBATE - The House proceeded with one hour of debate on H.R. 1613.
+- 2013-06-27 — Grayson amendment (A001) modified pursuant to the order of the House of June 27, 2013.
+- 2013-06-27 — House amendment not agreed to: On agreeing to the Grayson amendment (A001) as modified Failed by the Yeas and Nays: 213 - 213 (Roll no. 291).
+- 2013-06-27 — House amendment not agreed to: On agreeing to the Grayson amendment (A001) as modified Failed by the Yeas and Nays: 213 - 213 (Roll no. 291).
+- 2013-06-27 — House amendment offered
+- 2013-06-27 — House amendment offered
+- 2013-06-27 — House amendment offered/reported by: Amendment (A001) offered by Mr. Grayson.(consideration: CR H4104-4105; text: CR H4104)
+- 2013-06-27 — House amendment offered/reported by: Amendment (A001) offered by Mr. Grayson.(consideration: CR H4104-4105; text: CR H4104)
+- 2013-06-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-06-27 — Mr. Garcia moved to recommit with instructions to Natural Resources. (consideration: CR H4106; text CR H4106)
+- 2013-06-27 — On agreeing to the Grayson amendment (A001) as modified Failed by the Yeas and Nays: 213 - 213 (Roll no. 291).
+- 2013-06-27 — On motion to recommit with instructions Failed by recorded vote: 194 - 232 (Roll no. 292).
+- 2013-06-27 — On passage Passed by recorded vote: 256 - 171 (Roll no. 293).
+- 2013-06-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grayson amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed.
+- 2013-06-27 — POSTPONED PROCEEDINGS - The Chair announced that further proceedings on H.R. 1613 had been postponed.
+- 2013-06-27 — Passed/agreed to in House: On passage Passed by recorded vote: 256 - 171 (Roll no. 293).
+- 2013-06-27 — Pursuant to clause 1(c) of rule 19, further consideration of H.R. 1613 resumed.
+- 2013-06-27 — Resolution provides for 3 separate measures and for proceedings during the period from June 29, 2013 through July 5, 2013.
+- 2013-06-27 — Roll call votes on amendments in House
+- 2013-06-27 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4107)
+- 2013-06-27 — The previous question was ordered on the amendment (A001) pursuant to the rule. (consideration: CR H4105)
