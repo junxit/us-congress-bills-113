@@ -1,0 +1,141 @@
+---
+measure: H.R. 2575
+congress: 113
+version: Introduced in House
+---
+
+# H.R. 2575
+
+Save American Workers Act of 2014
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Young, Todd [R-IN-9] (Y000064)
+
+## Cosponsors (111)
+
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Griffin, Tim [R-AR-2] (G000567)
+- Rep. Rigell, E. Scott [R-VA-2] (R000589)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Southerland, Steve II [R-FL-2] (S001186)
+- Rep. Duncan, Jeff [R-SC-3] (D000615)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Yoder, Kevin [R-KS-3] (Y000063)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Boustany, Charles W., Jr. [R-LA-3] (B001255)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+- Rep. Camp, Dave [R-MI-4] (C000071)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
+- Rep. Nunes, Devin [R-CA-22] (N000181)
+- Rep. Paulsen, Erik [R-MN-3] (P000594)
+- Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Broun, Paul C. [R-GA-10] (B001262)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Ribble, Reid J. [R-WI-8] (R000587)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. McKinley, David B. [R-WV-1] (M001180)
+- Rep. Rooney, Thomas J. [R-FL-17] (R000583)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Black, Diane [R-TN-6] (B001273)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Graves, Tom [R-GA-14] (G000560)
+- Rep. Reed, Tom [R-NY-23] (R000585)
+- Rep. Palazzo, Steven M. [R-MS-4] (P000601)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. Duffy, Sean P. [R-WI-7] (D000614)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Long, Billy [R-MO-7] (L000576)
+- Rep. Nunnelee, Alan [R-MS-1] (N000186)
+- Rep. Cramer, Kevin [R-ND-At Large] (C001096)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Radel, Trey [R-FL-19] (R000596)
+- Rep. Salmon, Matt [R-AZ-5] (S000018)
+- Rep. Hanna, Richard L. [R-NY-22] (H001051)
+- Rep. Benishek, Dan [R-MI-1] (B001271)
+- Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. Price, Tom [R-GA-6] (P000591)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Renacci, James B. [R-OH-16] (R000586)
+- Rep. Holding, George [R-NC-13] (H001065)
+- Rep. Davis, Rodney [R-IL-13] (D000619)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Fleming, John [R-LA-4] (F000456)
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Franks, Trent [R-AZ-8] (F000448)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Collins, Doug [R-GA-9] (C001093)
+- Rep. Pompeo, Mike [R-KS-4] (P000602)
+- Rep. Nugent, Richard B. [R-FL-11] (N000185)
+- Rep. Mullin, Markwayne [R-OK-2] (M001190)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Huelskamp, Tim [R-KS-1] (H001057)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
+- Rep. Brooks, Susan W. [R-IN-5] (B001284)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. Brooks, Mo [R-AL-5] (B001274)
+- Rep. Rogers, Mike J. [R-MI-8] (R000572)
+- Rep. Chaffetz, Jason [R-UT-3] (C001076)
+- Rep. Hunter, Duncan D. [R-CA-50] (H001048)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Webster, Daniel [R-FL-10] (W000806)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Thornberry, Mac [R-TX-13] (T000238)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Pitts, Joseph R. [R-PA-16] (P000373)
+- Rep. Perry, Scott [R-PA-4] (P000605)
+- Rep. Rothfus, Keith J. [R-PA-12] (R000598)
+
+## Committees (1)
+
+- House — Ways and Means Committee
+
+## Actions
+
+- 2013-06-28 — Introduced in House
+- 2013-06-28 — Introduced in House
+- 2013-06-28 — Referred to the House Committee on Ways and Means.
