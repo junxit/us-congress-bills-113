@@ -28,6 +28,7 @@ This Act may be cited as the “Financial Competitive Act of 2013”.
       - **(iii)** the competitiveness of United States financial institutions and United States derivatives markets, including the extent to which differences in the CVA capital requirement could shift derivatives business among jurisdictions; and
     - **(C)** the interaction between differing CVA capital requirements and margin rules; and
   - **(2)** recommendations regarding steps that the Congress and the Federal financial regulatory agencies that comprise the Financial Stability Oversight Council should take to—
-    - **(A)** minimize any expected negative effects on United States financial institutions, derivatives markets, and end users; and
-    - **(B)** encourage greater international consistency in implementation of internationally agreed capital, liquidity, and other prudential standards.
+    - **(A)** minimize any expected negative effects on United States financial institutions, derivatives markets, and end users; and;
+    - **(B)** encourage greater international consistency in implementation of internationally agreed capital, liquidity, and other prudential standards.; and
+    - **(C)** ensure that the Financial Stability Oversight Council fulfills its statutory mandate to identify risks and respond to emerging threats to financial stability.
 - **(c)** *Report* No later than 90 days after the date of the enactment of this Act, the Financial Stability Oversight Council shall submit a written report containing the results of the study to the Chairman and ranking minority member of the Committees on Agriculture and Financial Services of the House of Representatives, and the Chairman and ranking minority member of the Committees on Agriculture, Nutrition, and Forestry, and Banking, Housing, and Urban Affairs of the Senate.
