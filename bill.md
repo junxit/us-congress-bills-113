@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 2600
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2600
+
+> To amend the Interstate Land Sales Full Disclosure Act to clarify how the Act applies to condominiums.
+
+## § 1. Exemption for residential condominium units
+
+- **(a)** *Exemption* Section 1403 of the Interstate Land Sales Full Disclosure Act (15 U.S.C. 1702) is amended—
+  - **(1)** in subsection (b)—
+    - **(A)** in paragraph (7)(C), by striking “or” at the end;
+    - **(B)** in paragraph (8)(G), by striking the period at the end and inserting “; or”; and
+    - **(C)** by adding at the end the following:
+      > - **(9)** the sale or lease of a condominium unit that is not exempt under subsection (a).
+
+  - **(2)** by adding at the end the following:
+    > - **(d)** For purposes of subsection (b), the term condominium unit means a unit of residential or commercial property to be designated for separate ownership pursuant to a condominium plan or declaration provided that upon conveyance—
+    >   - **(1)** the owner of such unit will have sole ownership of the unit and an undivided interest in the common elements appurtenant to the unit; and
+    >   - **(2)** the unit will be an improved lot.
+
+## § 2. Effective date
+
+The amendments made by this Act shall take effect 180 days after the date of the enactment of this Act.
