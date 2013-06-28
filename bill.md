@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 2582
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2582
+
+> To end the application of sequestration to the United States Patent and Trademark Office, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Patents and Trademarks Encourage New Technology Jobs Act” or the “PATENT Jobs Act”.
+
+## § 2. Termination of sequestration in fiscal year 2013 for the Patent and Trademark Office
+
+Notwithstanding the Presidential order issued on March 1, 2013, under section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901a), on and after the date of the enactment of this Act, the budgetary resources sequestered under such order with respect to the United States Patent and Trademark Office shall be available for obligation for the same purpose and in the same manner as if such order had not been issued.
+
+## § 3. Exemption from sequestration in fiscal years 2014 through 2021
+
+- **(a)** *In general* Section 255(g)(1)(A) of the Balanced Budget and Emergency Deficit Control Act is amended by adding at the end the following:
+- **(b)** *Application* The amendment made by subsection (a) shall apply to any sequestration order issued by the President under section 254 of such Act.
