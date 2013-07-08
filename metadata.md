@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1613
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1613
@@ -36,11 +36,12 @@ Outer Continental Shelf Transboundary Hydrocarbon Agreements Authorization Act
 - Rep. Mullin, Markwayne [R-OK-2] (M001190)
 - Rep. Stockman, Steve [R-TX-36] (S000937)
 
-## Committees (3)
+## Committees (4)
 
 - House — Financial Services Committee
 - House — Foreign Affairs Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (3)
 
@@ -100,3 +101,4 @@ Outer Continental Shelf Transboundary Hydrocarbon Agreements Authorization Act
 - 2013-06-27 — Roll call votes on amendments in House
 - 2013-06-27 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4107)
 - 2013-06-27 — The previous question was ordered on the amendment (A001) pursuant to the rule. (consideration: CR H4105)
+- 2013-07-08 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
