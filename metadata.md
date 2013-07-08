@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1960
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1960
@@ -408,3 +408,4 @@ National Defense Authorization Act for Fiscal Year 2014
 - 2013-06-14 — The previous question was ordered pursuant to the rule. (consideration: CR H3633)
 - 2013-06-14 — The title of the measure was amended. Agreed to without objection.
 - 2013-06-14 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2013-07-08 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 126.
