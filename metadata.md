@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1574
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1574
@@ -25,3 +25,11 @@ To amend the Dayton Aviation Heritage Preservation Act of 1992 to rename a site 
 - 2013-04-15 — Introduced in House
 - 2013-04-15 — Introduced in House
 - 2013-04-15 — Referred to the House Committee on Natural Resources.
+- 2013-04-22 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2013-04-26 — Subcommittee Hearings Held.
+- 2013-05-15 — Committee Consideration and Mark-up Session Held.
+- 2013-05-15 — Ordered to be Reported by Unanimous Consent.
+- 2013-05-15 — Subcommittee on Public Lands and Environmental Regulation Discharged.
+- 2013-07-08 — Placed on the House Calendar, Calendar No. 38.
+- 2013-07-08 — Reported by the Committee on Natural Resources. H. Rept. 113-141.
+- 2013-07-08 — Reported by the Committee on Natural Resources. H. Rept. 113-141.
