@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1864
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1864
@@ -130,9 +130,10 @@ To amend title 10, United States Code, to require an Inspector General investiga
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 - Rep. Braley, Bruce L. [D-IA-1] (B001259)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Recorded votes (1)
 
@@ -153,3 +154,4 @@ To amend title 10, United States Code, to require an Inspector General investiga
 - 2013-06-27 — Motion to reconsider laid on the table Agreed to without objection.
 - 2013-06-27 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 294). (text: CR 6/26/2013 H4057)
 - 2013-06-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 294).(text: CR 6/26/2013 H4057)
+- 2013-07-08 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
