@@ -33,7 +33,7 @@ In this Act:
 - **(1)** *Strategic and critical minerals* The term strategic and critical minerals means minerals that are necessary—
   - **(A)** for national defense and national security requirements;
   - **(B)** for the Nation’s energy infrastructure, including pipelines, refining capacity, electrical power generation and transmission, and renewable energy production;
-  - **(C)** to support domestic manufacturing, agriculture, housing, telecommunications, healthcare, and transportation infrastructure; and
+  - **(C)** to support domestic manufacturing, agriculture, housing, telecommunications, healthcare, and transportation infrastructure; or
   - **(D)** for the Nation’s economic security and balance of trade.
 - **(2)** *Agency* The term agency means any agency, department, or other unit of Federal, State, local, or tribal government, or Alaska Native Corporation.
-- **(3)** *mineral exploration or mine permit* The term mineral exploration or mine permit includes plans of operation issued by the Bureau of Land Management and the Forest Service pursuant to 43 C.F.R. 3809 and 36 C.F.R. 228A, respectively.
+- **(3)** *mineral exploration or mine permit* The term mineral exploration or mine permit includes plans of operation issued by the Bureau of Land Management and the Forest Service pursuant to 43 C.F.R. 3809 and 36 C.F.R. 228A or the authorities listed in 43 C.F.R. 3503.13, respectively.
