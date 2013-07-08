@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2231
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2231
@@ -30,9 +30,10 @@ Offshore Energy and Jobs Act
 - Rep. McClintock, Tom [R-CA-4] (M001177)
 - Rep. Mullin, Markwayne [R-OK-2] (M001190)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (10)
 
@@ -186,3 +187,4 @@ Offshore Energy and Jobs Act
 - 2013-06-28 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2231.
 - 2013-06-28 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4159)
 - 2013-06-28 — The previous question was ordered pursuant to the rule. (consideration: CR H4157)
+- 2013-07-08 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
