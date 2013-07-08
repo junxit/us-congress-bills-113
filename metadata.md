@@ -1,7 +1,7 @@
 ---
 measure: S. 793
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 793
@@ -34,3 +34,5 @@ Organization of American States Revitalization and Reform Act of 2013
 - 2013-06-13 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. With written report No. 113-43.
 - 2013-06-13 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. With written report No. 113-43.
 - 2013-06-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 87.
+- 2013-07-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5529-5530; text as passed Senate: CR S5529-5530)
+- 2013-07-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5529-5530; text as passed Senate: CR S5529-5530)
