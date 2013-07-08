@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1341
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1341
@@ -28,6 +28,10 @@ Financial Competitive Act of 2013
 - House — Agriculture Committee
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2013-07-08 — [House 113-1-305](votes/house-113-1-0305.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (353–24)
+
 ## Actions
 
 - 2013-03-21 — Introduced in House
@@ -44,3 +48,11 @@ Financial Competitive Act of 2013
 - 2013-06-28 — Placed on the Union Calendar, Calendar No. 96.
 - 2013-06-28 — Reported (Amended) by the Committee on Financial Services. H. Rept. 113-134, Part I.
 - 2013-06-28 — Reported (Amended) by the Committee on Financial Services. H. Rept. 113-134, Part I.
+- 2013-07-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-07-08 — Considered as unfinished business. (consideration: CR H4186)
+- 2013-07-08 — Considered under suspension of the rules. (consideration: CR H4181-4182)
+- 2013-07-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1341.
+- 2013-07-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-07-08 — Mr. Fincher moved to suspend the rules and pass the bill, as amended.
+- 2013-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 353 - 24 (Roll no. 305). (text: CR H4181)
+- 2013-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 353 - 24 (Roll no. 305).(text: CR H4181)
