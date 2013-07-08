@@ -19,19 +19,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(4)** *Presidential Proclamation 7264* The term Presidential Proclamation 7264 means Presidential Proclamation Number 7264, dated January 11, 2000 (65 Fed. Reg. 2821).
   - **(5)** *Secretary* The term Secretary means the Secretary of the Interior.
 
-## § 2. Findings; purpose
+## § 2. Purpose
 
-- **(a)** *Findings* Congress finds that—
-  - **(1)** the Point Arena-Stornetta Public Lands contain significant natural resources, including important wildlife habitat, several riparian corridors, extensive wetlands, ponds and other water sources, cypress groves, meadows, and sand dunes that should be preserved for present and future generations;
-  - **(2)** the ocean and coastal ecosystems adjacent to the Point Arena-Stornetta Public Lands are internationally recognized as significant centers of coastal upwelling that support the diverse, abundant, and productive marine ecosystems and wildlife underlying the local economy and identity of coastal communities;
-  - **(3)** the Point Arena-Stornetta Public Lands tell an important story about the coastal prehistory and history of California in the context of the surrounding region and communities;
-  - **(4)** the coastal area surrounding the Point Arena-Stornetta Public Lands was traditionally used by Indian people, including the Pomo Indian tribes;
-  - **(5)** the Point Arena-Stornetta Public Lands are historically associated with adjacent land managed for the enjoyment of current and future generations, including the Arena Rock Marine Natural Preserve, and Manchester Beach State Park;
-  - **(6)** the Point Arena-Stornetta Public Lands represent a model partnership where future management can be successfully accomplished among the Federal Government, State of California, Mendocino County, local communities, and private groups;
-  - **(7)** permanent protection of the Point Arena-Stornetta Public Lands will provide important economic benefits to surrounding communities, and has broad public support;
-  - **(8)** the Point Arena-Stornetta Public Lands would make a significant addition to the California Coastal National Monument and National Landscape Conservation System administered by the Bureau of Land Management of the Department of the Interior; and
-  - **(9)** statutory protection is necessary to ensure that the Point Arena-Stornetta Public Lands remain a part of the historical, cultural, and natural heritage of the United States and a source of inspiration for the people of the United States.
-- **(b)** *Purpose* The purpose of this Act is to protect, conserve, and enhance for the benefit and enjoyment of present and future generations the unique and nationally important historical, natural, cultural, scientific, educational, scenic, and recreational values of the Point Arena-Stornetta Public Lands, while allowing certain recreational and research activities to continue.
+The purpose of this Act is to protect, conserve, and enhance for the benefit and enjoyment of present and future generations the unique and nationally important historical, natural, cultural, scientific, educational, scenic, economic and recreational values of the Point Arena-Stornetta Public Lands, while allowing certain recreational, research and traditional ecomomic activities or uses, such as grazing, to continue.
 
 ## § 3. Expansion of California Coastal National Monument
 
@@ -45,7 +35,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *In general* The Secretary shall manage the land added to the Monument by this Act—
   - **(1)** as a part of the Monument; and
-  - **(2)** in accordance with Presidential Proclamation 7264.
+  - **(2)** in accordance with Presidential Proclamation 7264, except that—
+    - **(A)** traditional economic activities and existing uses, such as grazing and the maintenance of existing structures that are used for grazing, shall not be restricted; and
+    - **(B)** lands and interests in land within the proposed land addition not owned by the United States shall not be part of the monument and the future acquisition of those lands and interests in lands by the United States may occur only through donation or exchange with the written consent of the landowner.
 - **(b)** *Management plan*
   - **(1)** *In general* Not later than 2 years after the date of enactment of this Act, the Secretary shall finalize an amendment to the Monument management plan for the long-term protection and management of the land added to the Monument by this Act.
   - **(2)** *Requirements* The plan amendment shall—
@@ -53,8 +45,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(B)** describe the appropriate uses and management of the land consistent with this Act.
 - **(c)** *Motorized and mechanized transport* Except as needed for emergency or authorized administrative purposes, the use of motorized and mechanized vehicles in the Monument shall be permitted only on roads and trails designated for that use.
 - **(d)** *Incorporation of land and interests*
-  - **(1)** *Authority* The Secretary may acquire non-Federal land or interests in land within or adjacent to the land added to the Monument by this Act only through exchange, donation, or purchase from a willing seller.
+  - **(1)** *Authority* The Secretary may acquire non-Federal land or interests in land within or adjacent to the land added to the Monument by this Act only through exchange, or donation with the written consent of the landowner, and such non-Federal land shall not be included within the boundaries of the Monument absent written consent of the landowner.
   - **(2)** *Management* Any land or interests in land within or adjacent to the land added to the Monument by this Act acquired by the United States after the date of enactment of this Act shall be added to and administered as part of the Monument.
+  - **(3)** *Access to private property* The addition of lands under this Act to the Monument may not result in a lack of or restricted access by motorized vehicle to any non-Federal lands within the Monument.
 - **(e)** *Overflights* Nothing in this Act—
   - **(1)** restricts or precludes overflights, including low-level overflights or military, commercial, and general aviation overflights that can be seen or heard within the land added to the Monument by this Act;
   - **(2)** restricts or precludes the designation or creation of new units of special use airspace or the establishment of military flight training routes over the land added to the Monument by this Act; or
@@ -64,5 +57,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(h)** *Buffer zones*
   - **(1)** *In general* The expansion of the Monument is not intended to lead to the establishment of protective perimeters or buffer zones around the land included in the Monument by this Act.
   - **(2)** *Activities outside the Monument* The fact that activities outside the Monument can be seen or heard within the land added to the Monument by this Act shall not, of itself, preclude those activities or uses up to the boundary of the Monument.
-- **(i)** *Grazing* Nothing in this Act affects the grazing of livestock within the Point Arena-Stornetta Public Lands.
+- **(i)** *Grazing* Nothing in this Act affects the grazing of livestock and the maintenance of existing structures that are used for grazing with the Point Arena-Stornetta Public Lands or the Monument.
 - **(j)** *National landscape conservation system* The Secretary shall manage the Monument as part of the National Landscape Conservation System.

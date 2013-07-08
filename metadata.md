@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1411
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1411
@@ -29,3 +29,11 @@ California Coastal National Monument Expansion Act of 2013
 - 2013-04-09 — Introduced in House
 - 2013-04-09 — Introduced in House
 - 2013-04-09 — Referred to the House Committee on Natural Resources.
+- 2013-04-15 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2013-05-09 — Subcommittee Hearings Held.
+- 2013-06-12 — Committee Consideration and Mark-up Session Held.
+- 2013-06-12 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2013-06-12 — Subcommittee on Public Lands and Environmental Regulation Discharged.
+- 2013-07-08 — Placed on the Union Calendar, Calendar No. 101.
+- 2013-07-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-139.
+- 2013-07-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-139.
