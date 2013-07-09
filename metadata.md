@@ -1,7 +1,7 @@
 ---
 measure: S. 793
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 793
@@ -22,9 +22,10 @@ Organization of American States Revitalization and Reform Act of 2013
 - Sen. Udall, Tom [D-NM] (U000039)
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,6 @@ Organization of American States Revitalization and Reform Act of 2013
 - 2013-06-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 87.
 - 2013-07-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5529-5530; text as passed Senate: CR S5529-5530)
 - 2013-07-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5529-5530; text as passed Senate: CR S5529-5530)
+- 2013-07-09 — Message on Senate action sent to the House.
+- 2013-07-09 — Received in the House.
+- 2013-07-09 — Referred to the House Committee on Foreign Affairs.
