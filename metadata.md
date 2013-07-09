@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1171
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1171
@@ -26,9 +26,10 @@ Formerly Owned Resources for Veterans to Express Thanks for Service Act of 2013
 - Rep. Bentivolio, Kerry L. [R-MI-11] (B001280)
 - Rep. Cotton, Tom [R-AR-4] (C001095)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ Formerly Owned Resources for Veterans to Express Thanks for Service Act of 2013
 - 2013-07-08 — Mr. DeSantis moved to suspend the rules and pass the bill.
 - 2013-07-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 1 (Roll no. 307). (text: CR H4184-4185)
 - 2013-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 1 (Roll no. 307).(text: CR H4184-4185)
+- 2013-07-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
