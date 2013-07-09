@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1341
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1341
@@ -23,10 +23,11 @@ Financial Competitive Act of 2013
 - Rep. Huizenga, Bill [R-MI-2] (H001058)
 - Rep. Graves, Tom [R-GA-14] (G000560)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ Financial Competitive Act of 2013
 - 2013-07-08 — Mr. Fincher moved to suspend the rules and pass the bill, as amended.
 - 2013-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 353 - 24 (Roll no. 305). (text: CR H4181)
 - 2013-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 353 - 24 (Roll no. 305).(text: CR H4181)
+- 2013-07-09 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
