@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 151
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 151
@@ -16,7 +16,7 @@ A resolution urging the Government of Afghanistan to ensure transparent and cred
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
-## Cosponsors (7)
+## Cosponsors (8)
 
 - Sen. McCain, John [R-AZ] (M000303)
 - Sen. Menendez, Robert [D-NJ] (M000639)
@@ -25,6 +25,7 @@ A resolution urging the Government of Afghanistan to ensure transparent and cred
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
 - Sen. Donnelly, Joe [D-IN] (D000607)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Cornyn, John [R-TX] (C001056)
 
 ## Committees (1)
 
@@ -38,3 +39,5 @@ A resolution urging the Government of Afghanistan to ensure transparent and cred
 - 2013-06-25 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2013-06-25 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2013-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 94.
+- 2013-07-09 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S5572-5575; text of measure as reported in Senate: CR S5573-5574; text as passed Senate: CR S5574-5575)
+- 2013-07-09 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S5572-5575; text of measure as reported in Senate: CR S5573-5574; text as passed Senate: CR S5574-5575)
