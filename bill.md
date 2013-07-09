@@ -17,12 +17,15 @@ This Act may be cited as the “Grazing Improvement Act”.
 
 Section 402 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1752) is amended—
 
-- **(1)** by striking “ten years” each place it appears and inserting “20 years”; and
+- **(1)** by striking “ten years” each place it appears and inserting “20 years”;
 - **(2)** in subsection (b)—
   - **(A)** by striking “or” at the end of each of paragraphs (1) and (2);
   - **(B)** in paragraph (3), by striking the period at the end and inserting “; or”; and
   - **(C)** by adding at the end the following:
     > - **(4)** the initial environmental analysis under National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) regarding a grazing allotment, permit, or lease has not been completed.
+
+- **(3)** after subsection (h), insert the following new subsection:
+  > - **(i)** Only applicants, permittees and lessees whose interest in grazing livestock is directly affected by a final grazing decision may appeal the decision to an administrative law judge.
 
 ## § 3. Renewal, transfer, and reissuance of grazing permits and leases
 
@@ -50,5 +53,6 @@ Section 402 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 175
   > - **(h)** *NEPA exemptions* The National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) shall not apply to the following:
   >   - **(1)** Crossing and trailing authorizations of domestic livestock.
   >   - **(2)** Transfer of grazing preference.
+  >   - **(3)** Range improvements as defined under 43 U.S.C. 315c and 16 U.S.C. 580h.
 
 - **(b)** *Table of contents* The table of contents for the Federal Land Policy and Management Act of 1976 is amended by adding after the item for section 404, the following:

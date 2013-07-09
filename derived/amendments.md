@@ -1,7 +1,7 @@
 ---
 measure: H.R. 657
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 43 U.S.C. § 1752
 
-> by striking “ten years” each place it appears and inserting “20 years”; and
+> by striking “ten years” each place it appears and inserting “20 years”;
 
 | | |
 |---|---|
