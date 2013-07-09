@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1564
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1564
@@ -32,9 +32,10 @@ Audit Integrity and Job Protection Act
 - Rep. Scott, David [D-GA-13] (S001157)
 - Rep. Peters, Gary C. [D-MI-14] (P000595)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -59,3 +60,4 @@ Audit Integrity and Job Protection Act
 - 2013-07-08 — Placed on the Union Calendar, Calendar No. 103.
 - 2013-07-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 113-142.
 - 2013-07-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 113-142.
+- 2013-07-09 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
