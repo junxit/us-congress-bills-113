@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 43
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 43
@@ -32,3 +32,4 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - 2013-07-09 — Mr. Harper asked unanimous consent to discharge from committee and consider.
 - 2013-07-09 — On agreeing to the resolution Agreed to without objection. (text: CR H4231)
 - 2013-07-09 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H4231)
+- 2013-07-10 — Received in the Senate.
