@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2218
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2218
@@ -16,7 +16,7 @@ Coal Residuals Reuse and Management Act of 2013
 
 - Rep. McKinley, David B. [R-WV-1] (M001180)
 
-## Cosponsors (35)
+## Cosponsors (54)
 
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
 - Rep. Whitfield, Ed [R-KY-1] (W000413)
@@ -53,6 +53,25 @@ Coal Residuals Reuse and Management Act of 2013
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Shimkus, John [R-IL-15] (S000364)
 - Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Salmon, Matt [R-AZ-5] (S000018)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Davis, Rodney [R-IL-13] (D000619)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
+- Rep. Ross, Dennis A. [R-FL-15] (R000593)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Daines, Steve [R-MT-At Large] (D000618)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Cramer, Kevin [R-ND-At Large] (C001096)
+- Rep. Franks, Trent [R-AZ-8] (F000448)
+- Rep. Visclosky, Peter J. [D-IN-1] (V000108)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. Cotton, Tom [R-AR-4] (C001095)
 
 ## Committees (1)
 
@@ -64,3 +83,12 @@ Coal Residuals Reuse and Management Act of 2013
 - 2013-06-03 — Introduced in House
 - 2013-06-03 — Introduced in House
 - 2013-06-03 — Referred to the House Committee on Energy and Commerce.
+- 2013-06-04 — Referred to the Subcommittee on Environment and the Economy.
+- 2013-06-06 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2013-06-06 — Subcommittee Consideration and Mark-up Session Held.
+- 2013-06-18 — Committee Consideration and Mark-up Session Held.
+- 2013-06-19 — Committee Consideration and Mark-up Session Held.
+- 2013-06-19 — Ordered to be Reported by the Yeas and Nays: 31 - 16.
+- 2013-07-10 — Placed on the Union Calendar, Calendar No. 107.
+- 2013-07-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-148.
+- 2013-07-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-148.
