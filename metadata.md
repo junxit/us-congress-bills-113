@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2609
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2609
@@ -20,9 +20,658 @@ Energy and Water Development and Related Agencies Appropriations Act, 2014
 
 - House — Appropriations Committee
 
+## Recorded votes (35)
+
+- 2013-07-09 — [House 113-1-311](votes/house-113-1-0311.md) — On Agreeing to the Amendment — **Failed** (177–236)
+- 2013-07-09 — [House 113-1-312](votes/house-113-1-0312.md) — On Agreeing to the Amendment — **Failed** (188–226)
+- 2013-07-09 — [House 113-1-313](votes/house-113-1-0313.md) — On Agreeing to the Amendment — **Failed** (152–264)
+- 2013-07-09 — [House 113-1-314](votes/house-113-1-0314.md) — On Agreeing to the Amendment — **Failed** (140–275)
+- 2013-07-09 — [House 113-1-315](votes/house-113-1-0315.md) — On Agreeing to the Amendment — **Failed** (153–257)
+- 2013-07-09 — [House 113-1-316](votes/house-113-1-0316.md) — On Agreeing to the Amendment — **Failed** (168–241)
+- 2013-07-09 — [House 113-1-317](votes/house-113-1-0317.md) — On Agreeing to the Amendment — **Failed** (158–256)
+- 2013-07-09 — [House 113-1-318](votes/house-113-1-0318.md) — On Agreeing to the Amendment — **Failed** (201–213)
+- 2013-07-09 — [House 113-1-319](votes/house-113-1-0319.md) — On Agreeing to the Amendment — **Failed** (115–300)
+- 2013-07-09 — [House 113-1-320](votes/house-113-1-0320.md) — On Agreeing to the Amendment — **Failed** (191–223)
+- 2013-07-09 — [House 113-1-321](votes/house-113-1-0321.md) — On Agreeing to the Amendment — **Failed** (177–238)
+- 2013-07-09 — [House 113-1-322](votes/house-113-1-0322.md) — On Agreeing to the Amendment — **Failed** (174–242)
+- 2013-07-09 — [House 113-1-323](votes/house-113-1-0323.md) — On Agreeing to the Amendment — **Failed** (164–252)
+- 2013-07-09 — [House 113-1-324](votes/house-113-1-0324.md) — On Agreeing to the Amendment — **Failed** (166–250)
+- 2013-07-09 — [House 113-1-325](votes/house-113-1-0325.md) — On Agreeing to the Amendment — **Failed** (81–335)
+- 2013-07-09 — [House 113-1-326](votes/house-113-1-0326.md) — On Agreeing to the Amendment — **Failed** (150–266)
+- 2013-07-09 — [House 113-1-327](votes/house-113-1-0327.md) — On Agreeing to the Amendment — **Failed** (143–273)
+- 2013-07-10 — [House 113-1-328](votes/house-113-1-0328.md) — On Agreeing to the Amendment — **Failed** (156–266)
+- 2013-07-10 — [House 113-1-329](votes/house-113-1-0329.md) — On Agreeing to the Amendment — **Failed** (155–266)
+- 2013-07-10 — [House 113-1-330](votes/house-113-1-0330.md) — On Agreeing to the Amendment — **Failed** (165–252)
+- 2013-07-10 — [House 113-1-331](votes/house-113-1-0331.md) — On Agreeing to the Amendment — **Failed** (184–238)
+- 2013-07-10 — [House 113-1-332](votes/house-113-1-0332.md) — On Agreeing to the Amendment — **Failed** (196–227)
+- 2013-07-10 — [House 113-1-333](votes/house-113-1-0333.md) — On Agreeing to the Amendment — **Failed** (86–338)
+- 2013-07-10 — [House 113-1-334](votes/house-113-1-0334.md) — On Agreeing to the Amendment — **Failed** (182–243)
+- 2013-07-10 — [House 113-1-335](votes/house-113-1-0335.md) — On Agreeing to the Amendment — **Failed** (114–308)
+- 2013-07-10 — [House 113-1-336](votes/house-113-1-0336.md) — On Agreeing to the Amendment — **Failed** (131–291)
+- 2013-07-10 — [House 113-1-337](votes/house-113-1-0337.md) — On Agreeing to the Amendment — **Failed** (87–337)
+- 2013-07-10 — [House 113-1-338](votes/house-113-1-0338.md) — On Agreeing to the Amendment — **Agreed to** (217–206)
+- 2013-07-10 — [House 113-1-339](votes/house-113-1-0339.md) — On Agreeing to the Amendment — **Failed** (94–329)
+- 2013-07-10 — [House 113-1-340](votes/house-113-1-0340.md) — On Agreeing to the Amendment — **Agreed to** (230–194)
+- 2013-07-10 — [House 113-1-341](votes/house-113-1-0341.md) — On Agreeing to the Amendment — **Failed** (170–253)
+- 2013-07-10 — [House 113-1-342](votes/house-113-1-0342.md) — On Agreeing to the Amendment — **Failed** (174–250)
+- 2013-07-10 — [House 113-1-343](votes/house-113-1-0343.md) — On Agreeing to the Amendment — **Failed** (147–273)
+- 2013-07-10 — [House 113-1-344](votes/house-113-1-0344.md) — On Motion to Recommit with Instructions — **Failed** (195–230)
+- 2013-07-10 — [House 113-1-345](votes/house-113-1-0345.md) — On Passage — **Passed** (227–198)
+
 ## Actions
 
 - 2013-07-02 — Introduced in House
 - 2013-07-02 — Placed on the Union Calendar, Calendar No. 97.
 - 2013-07-02 — The House Committee on Appropriations reported an original measure, H. Rept. 113-135, by Mr. Frelinghuysen.
 - 2013-07-02 — The House Committee on Appropriations reported an original measure, H. Rept. 113-135, by Mr. Frelinghuysen.
+- 2013-07-08 — Rules Committee Resolution H. Res. 288 Reported to House. Rule provides for consideration of H.R. 2609 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is open to amendments. The resolution provides that the bill shall be considered for amendment under the five-minute rule.
+- 2013-07-09 — Amendment (A001) offered by Mr. Kelly (PA). (consideration: CR H4246; text: CR H4246)
+- 2013-07-09 — Amendment (A002) offered by Mr. Moran. (consideration: CR H4246-4250, H4265-4266; text: CR H4247)
+- 2013-07-09 — Amendment (A003) offered by Mr. Moran. (consideration: CR H4250-4253, H4266; text: CR H4250)
+- 2013-07-09 — Amendment (A004) offered by Mrs. Noem. (consideration: CR H4255-4256; text: CR H4255)
+- 2013-07-09 — Amendment (A005) offered by Mr. Hastings (WA). (consideration: CR H4256-4257; text: CR H4256)
+- 2013-07-09 — Amendment (A006) offered by Ms. Johnson, E. B.. (consideration: CR H4257-4260; text: CR H4257)
+- 2013-07-09 — Amendment (A007) offered by Mr. Takano. (consideration: CR H4260-4261, H4266-4267; text: CR H4260)
+- 2013-07-09 — Amendment (A008) offered by Mr. Perry. (consideration: CR H4261-4262, H4267-4268; text: CR H4261)
+- 2013-07-09 — Amendment (A009) offered by Ms. Castor (FL). (consideration: CR H4262; text: CR H4262)
+- 2013-07-09 — Amendment (A010) offered by Mr. Broun (GA). (consideration: CR H4262-4263, H4268-4269; text: CR H4262-4263)
+- 2013-07-09 — Amendment (A011) offered by Mr. Cohen. (consideration: CR H4263-4265, H4290-4291; text: CR H4263)
+- 2013-07-09 — Amendment (A012) offered by Mr. Broun (GA). (consideration: CR H4265, H4291; text: CR H4265)
+- 2013-07-09 — Amendment (A013) offered by Mr. Swalwell (CA). (consideration: CR H4269-4270, H4292; text: CR H4269)
+- 2013-07-09 — Amendment (A014) offered by Mr. McClintock. (consideration: CR H4270-4272, H4292-4293; text: CR H4270)
+- 2013-07-09 — Amendment (A015) offered by Mr. Peters (CA). (consideration: CR H4272, H4293; text: CR H4272)
+- 2013-07-09 — Amendment (A016) offered by Mr. Perlmutter. (consideration: CR H4272-4273, H4293-4294; text: CR H4272)
+- 2013-07-09 — Amendment (A017) offered by Mr. Connolly. (consideration: CR H4273-4274, H4294-4295; text: CR H4273)
+- 2013-07-09 — Amendment (A018) offered by Mr. Tonko. (consideration: CR H4274-4275; text: CR H4274)
+- 2013-07-09 — Amendment (A019) offered by Mr. Takano. (consideration: CR H4275, H4295; text: CR H4275)
+- 2013-07-09 — Amendment (A020) offered by Mr. Takano. (consideration: CR H4275-4276, H4295-4296; text: H4275)
+- 2013-07-09 — Amendment (A021) offered by Mr. Heck (NV). (consideration: CR H4276-4277, H4296-4297; text: CR H4276)
+- 2013-07-09 — Amendment (A022) offered by Ms. Brownley (CA). (consideration: CR H4277-4278; text: CR H4277-4278)
+- 2013-07-09 — Amendment (A023) offered by Mr. Butterfield. (consideration: CR H4278-4279, H4297; text: CR H4278)
+- 2013-07-09 — Amendment (A024) offered by Mr. Reed. (consideration: CR H4279-4280; text: CR H4279)
+- 2013-07-09 — Amendment (A025) offered by Mr. Broun (GA). (consideration: CR H4280; text: CR H4280)
+- 2013-07-09 — Amendment (A026) offered by Mr. Hastings (FL). (consideration: CR H4280-4281; text: CR H4280)
+- 2013-07-09 — Amendment (A027) offered by Mr. Foster. (consideration: CR H4281-4283, H4297-4298; text: CR H4282)
+- 2013-07-09 — Amendment (A028) offered by Mr. Garamendi. (consideration: CR H4283-4284, H4302-4305; text: CR H4283)
+- 2013-07-09 — Amendment (A029) offered by Mr. Schiff. (consideration: CR H4284-4285 text: CR H4284)
+- 2013-07-09 — Amendment (A030) offered by Mr. Broun (GA). (consideration: CR H4286; text: CR H4286)
+- 2013-07-09 — Amendment (A031) offered by Ms. Jackson Lee. (consideration: CR H4286-4287; text: CR H4286)
+- 2013-07-09 — Amendment (A032) offered by Mr. Broun (GA). (consideration: CR H4288; text: CR H4288)
+- 2013-07-09 — Amendment (A033) offered by Mr. Quigley. (consideration: CR H4288-4290; text: CR H4288)
+- 2013-07-09 — Amendment (A034) offered by Mr. Heck (NV). (consideration: CR H4298-4299; text: CR H4298)
+- 2013-07-09 — Amendment (A035) offered by Mr. Polis. (consideration: CR H4298-4299; text: CR H4298)
+- 2013-07-09 — Amendment (A036) offered by Mr. Burgess. (consideration: CR H4300; text: CR H4300)
+- 2013-07-09 — Amendment (A037) offered by Mr. Burgess. (consideration: CR H4302; text: CR H4302)
+- 2013-07-09 — Amendment (A038) offered by Mr. Garamendi. (consideration: CR H4302-4303; text: CR H4302)
+- 2013-07-09 — Amendment (A039) offered by Mr. Frelinghuysen. (consideration: CR H4305; text: CR H4305)
+- 2013-07-09 — Amendment (A040) offered by Ms. Titus. (consideration: CR H4307-4308; text: CR H4307)
+- 2013-07-09 — Amendment agreed to Committee of the Whole
+- 2013-07-09 — Amendment agreed to Committee of the Whole
+- 2013-07-09 — Amendment agreed to Committee of the Whole
+- 2013-07-09 — Amendment agreed to Committee of the Whole
+- 2013-07-09 — Amendment agreed to Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — Amendment failed in Committee of the Whole
+- 2013-07-09 — By unanimous consent, the Kelly (PA) amendment was withdrawn. (consideration: CR H4246)
+- 2013-07-09 — Committee of the Whole House on the state of the Union rises leaving H.R. 2609 as unfinished business.
+- 2013-07-09 — Considered as unfinished business. (consideration CR H4269-4308)
+- 2013-07-09 — Considered under the provisions of rule H. Res. 288. (consideration:  CR H4231-4308; text of Title I as reported in House: CR H4239-4240, H4243, H4245-4246, H4246, H4250, H4253; text of Title II as reported in House: CR H4254-4255, H4256; text of Title III as reported in House: CR H4256, H4276, H4278, H4279, H4280, H4285-4286, H4286, H4288, H4300, H4303-4305; text of Title IV as reported in House: CR H4305-4306; text of Title V as reported in House: CR H4306-4307, H4307-4308)
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Broun amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Broun amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Broun amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Broun amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Broun amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Brownley amendment under the five-minute rule, pending the reservation of a point of order.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Burgess amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Burgess amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Butterfield amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Castor amendment under the five-minute rule pending a reservation of a point of order.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Cohen amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Connolly amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the E.B. Johnson (TX) amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Foster amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Frelinghuysen amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Garamendi amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Garamendi amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Hastings (FL) amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Hastings (WA) amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Heck (NV) amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Heck (NV) amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Jackson Lee amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Kelly (PA) amendment under the five-minute rule, pending reservation of a point of order.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the McClintock amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Moran amendment No. 1 under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Moran amendment No. 2 under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Noem amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Perlmutter amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Perry amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Peters (CA) amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Polis amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Quigley amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Reed amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Schiff amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Swalwell amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Takano amendment No. 7 amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Takano amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Takano amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Titus amendment under the five-minute rule.
+- 2013-07-09 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Tonko amendment under the five-minute rule, pending the reservation of a point of order.
+- 2013-07-09 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2609.
+- 2013-07-09 — House amendment agreed to: On agreeing to the Frelinghuysen amendment (A039) Agreed to by voice vote.
+- 2013-07-09 — House amendment agreed to: On agreeing to the Hastings (WA) amendment (A005) Agreed to by voice vote.
+- 2013-07-09 — House amendment agreed to: On agreeing to the Noem amendment (A004) Agreed to by voice vote.
+- 2013-07-09 — House amendment agreed to: On agreeing to the Reed amendment (A024) Agreed to by voice vote.
+- 2013-07-09 — House amendment agreed to: On agreeing to the Schiff amendment (A029) Agreed to by voice vote.
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A010) Failed by recorded vote: 153 - 257 (Roll no. 315).
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A012) Failed by recorded vote: 158 - 256 (Roll no. 317).
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A025) Failed by voice vote.
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A032) Failed by voice vote.
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Butterfield amendment (A023) Failed by recorded vote: 150 - 266 (Roll no. 326).
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Cohen amendment (A011) Failed by recorded vote: 168 - 241 (Roll no. 316).
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Connolly amendment (A017) Failed by recorded vote: 174 - 242 (Roll no. 322).
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Foster amendment (A027) Failed by recorded vote: 143 - 273 (Roll no. 327).
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Garamendi amendment (A038) Failed by voice vote.
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Heck (NV) amendment (A021) Failed by recorded vote: 81 - 335 (Roll no. 325).
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Johnson, E. B. amendment (A006) Failed by voice vote.
+- 2013-07-09 — House amendment not agreed to: On agreeing to the McClintock amendment (A014) Failed by recorded vote: 115 - 300 (Roll no. 319).
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Moran amendment (A002) Failed by recorded vote: 177 - 236 (Roll no. 311).
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Moran amendment (A003) Failed by recorded vote: 188 - 226 (Roll no. 312).
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Perlmutter amendment (A016) Failed by recorded vote: 177 - 238 (Roll no. 321).
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Perry amendment (A008) Failed by recorded vote: 140 - 275 (Roll no. 314).
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Peters (CA) amendment (A015) Failed by recorded vote: 191 - 223 (Roll no. 320).
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Swalwell (CA) amendment (A013) Failed by recorded vote: 201 - 213 (Roll no. 318).
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Takano amendment (A007) Failed by recorded vote: 152 - 264 (Roll no. 313).
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Takano amendment (A019) Failed by recorded vote: 164 - 252 (Roll no. 323).
+- 2013-07-09 — House amendment not agreed to: On agreeing to the Takano amendment (A020) Failed by recorded vote: 166 - 250 (Roll no. 324).
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered
+- 2013-07-09 — House amendment offered/reported by: Amendment (A001) offered by Mr. Kelly (PA).(consideration: CR H4246; text: CR H4246)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A002) offered by Mr. Moran.(consideration: CR H4246-4250, H4265-4266; text: CR H4247)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A003) offered by Mr. Moran.(consideration: CR H4250-4253, H4266; text: CR H4250)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A004) offered by Mrs. Noem.(consideration: CR H4255-4256; text: CR H4255)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A005) offered by Mr. Hastings (WA).(consideration: CR H4256-4257; text: CR H4256)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A006) offered by Ms. Johnson, E. B..(consideration: CR H4257-4260; text: CR H4257)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A007) offered by Mr. Takano.(consideration: CR H4260-4261, H4266-4267; text: CR H4260)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A008) offered by Mr. Perry.(consideration: CR H4261-4262, H4267-4268; text: CR H4261)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A009) offered by Ms. Castor (FL).(consideration: CR H4262; text: CR H4262)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A010) offered by Mr. Broun (GA).(consideration: CR H4262-4263, H4268-4269; text: CR H4262-4263)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A011) offered by Mr. Cohen.(consideration: CR H4263-4265, H4290-4291; text: CR H4263)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A012) offered by Mr. Broun (GA).(consideration: CR H4265, H4291; text: CR H4265)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A013) offered by Mr. Swalwell (CA).(consideration: CR H4269-4270, H4292; text: CR H4269)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A014) offered by Mr. McClintock.(consideration: CR H4270-4272, H4292-4293; text: CR H4270)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A015) offered by Mr. Peters (CA).(consideration: CR H4272, H4293; text: CR H4272)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A016) offered by Mr. Perlmutter.(consideration: CR H4272-4273, H4293-4294; text: CR H4272)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A017) offered by Mr. Connolly.(consideration: CR H4273-4274, H4294-4295; text: CR H4273)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A018) offered by Mr. Tonko.(consideration: CR H4274-4275; text: CR H4274)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A019) offered by Mr. Takano.(consideration: CR H4275, H4295; text: CR H4275)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A020) offered by Mr. Takano.(consideration: CR H4275-4276, H4295-4296; text: H4275)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A021) offered by Mr. Heck (NV).(consideration: CR H4276-4277, H4296-4297; text: CR H4276)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A022) offered by Ms. Brownley (CA).(consideration: CR H4277-4278; text: CR H4277-4278)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A023) offered by Mr. Butterfield.(consideration: CR H4278-4279, H4297; text: CR H4278)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A024) offered by Mr. Reed.(consideration: CR H4279-4280; text: CR H4279)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A025) offered by Mr. Broun (GA).(consideration: CR H4280; text: CR H4280)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A026) offered by Mr. Hastings (FL).(consideration: CR H4280-4281; text: CR H4280)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A027) offered by Mr. Foster.(consideration: CR H4281-4283, H4297-4298; text: CR H4282)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A028) offered by Mr. Garamendi.(consideration: CR H4283-4284, H4302-4305; text: CR H4283)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A029) offered by Mr. Schiff.(consideration: CR H4284-4285 text: CR H4284)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A030) offered by Mr. Broun (GA).(consideration: CR H4286; text: CR H4286)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A031) offered by Ms. Jackson Lee.(consideration: CR H4286-4287; text: CR H4286)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A032) offered by Mr. Broun (GA).(consideration: CR H4288; text: CR H4288)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A033) offered by Mr. Quigley.(consideration: CR H4288-4290; text: CR H4288)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A034) offered by Mr. Heck (NV).(consideration: CR H4298-4299; text: CR H4298)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A035) offered by Mr. Polis.(consideration: CR H4298-4299; text: CR H4298)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A036) offered by Mr. Burgess.(consideration: CR H4300; text: CR H4300)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A037) offered by Mr. Burgess.(consideration: CR H4302; text: CR H4302)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A038) offered by Mr. Garamendi.(consideration: CR H4302-4303; text: CR H4302)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A039) offered by Mr. Frelinghuysen.(consideration: CR H4305; text: CR H4305)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A039) offered by Mr. Frelinghuysen.(consideration: CR H4305; text: CR H4305)
+- 2013-07-09 — House amendment offered/reported by: Amendment (A040) offered by Ms. Titus.(consideration: CR H4307-4308; text: CR H4307)
+- 2013-07-09 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 288 and Rule XVIII.
+- 2013-07-09 — Mr. Frelinghuysen moved that the Committee rise.
+- 2013-07-09 — Mr. Frelinghuysen raised a point of order against the Brownley (CA) amendment (A022). Mr. Frelinghuysen stated that the amendment increased net budget authority. The Chair sustained the point of order.
+- 2013-07-09 — Mr. Frelinghuysen raised a point of order against the Castor (FL) amendment (A009). Mr. Frelinghuysen stated that the amendment increased net budget authority. The Chair sustained the point of order.
+- 2013-07-09 — Mr. Frelinghuysen raised a point of order against the Tonko amendment (A018). Mr. Frelinghuysen stated that the amendment increased net budget authority. The Chair sustained the point of order.
+- 2013-07-09 — Ms. Brownley (CA) appealed the ruling of the Chair. The question was then put on sustaining the ruling of the Chair.
+- 2013-07-09 — Ms. Castor (FL) appealed the ruling of the Chair. The question was then put on sustaining the ruling of the Chair.
+- 2013-07-09 — On agreeing to the Broun (GA) amendment (A010) Failed by recorded vote: 153 - 257 (Roll no. 315).
+- 2013-07-09 — On agreeing to the Broun (GA) amendment (A012) Failed by recorded vote: 158 - 256 (Roll no. 317).
+- 2013-07-09 — On agreeing to the Broun (GA) amendment (A025) Failed by voice vote.
+- 2013-07-09 — On agreeing to the Broun (GA) amendment (A032) Failed by voice vote.
+- 2013-07-09 — On agreeing to the Butterfield amendment (A023) Failed by recorded vote: 150 - 266 (Roll no. 326).
+- 2013-07-09 — On agreeing to the Cohen amendment (A011) Failed by recorded vote: 168 - 241 (Roll no. 316).
+- 2013-07-09 — On agreeing to the Connolly amendment (A017) Failed by recorded vote: 174 - 242 (Roll no. 322).
+- 2013-07-09 — On agreeing to the Foster amendment (A027) Failed by recorded vote: 143 - 273 (Roll no. 327).
+- 2013-07-09 — On agreeing to the Frelinghuysen amendment (A039) Agreed to by voice vote.
+- 2013-07-09 — On agreeing to the Garamendi amendment (A038) Failed by voice vote.
+- 2013-07-09 — On agreeing to the Hastings (WA) amendment (A005) Agreed to by voice vote.
+- 2013-07-09 — On agreeing to the Heck (NV) amendment (A021) Failed by recorded vote: 81 - 335 (Roll no. 325).
+- 2013-07-09 — On agreeing to the Johnson, E. B. amendment (A006) Failed by voice vote.
+- 2013-07-09 — On agreeing to the McClintock amendment (A014) Failed by recorded vote: 115 - 300 (Roll no. 319).
+- 2013-07-09 — On agreeing to the Moran amendment (A002) Failed by recorded vote: 177 - 236 (Roll no. 311).
+- 2013-07-09 — On agreeing to the Moran amendment (A003) Failed by recorded vote: 188 - 226 (Roll no. 312).
+- 2013-07-09 — On agreeing to the Noem amendment (A004) Agreed to by voice vote.
+- 2013-07-09 — On agreeing to the Perlmutter amendment (A016) Failed by recorded vote: 177 - 238 (Roll no. 321).
+- 2013-07-09 — On agreeing to the Perry amendment (A008) Failed by recorded vote: 140 - 275 (Roll no. 314).
+- 2013-07-09 — On agreeing to the Peters (CA) amendment (A015) Failed by recorded vote: 191 - 223 (Roll no. 320).
+- 2013-07-09 — On agreeing to the Reed amendment (A024) Agreed to by voice vote.
+- 2013-07-09 — On agreeing to the Schiff amendment (A029) Agreed to by voice vote.
+- 2013-07-09 — On agreeing to the Swalwell (CA) amendment (A013) Failed by recorded vote: 201 - 213 (Roll no. 318).
+- 2013-07-09 — On agreeing to the Takano amendment (A007) Failed by recorded vote: 152 - 264 (Roll no. 313).
+- 2013-07-09 — On agreeing to the Takano amendment (A019) Failed by recorded vote: 164 - 252 (Roll no. 323).
+- 2013-07-09 — On agreeing to the Takano amendment (A020) Failed by recorded vote: 166 - 250 (Roll no. 324).
+- 2013-07-09 — On motion that the Committee rise Agreed to by voice vote.
+- 2013-07-09 — On sustaining the ruling of the Chair. Agreed to by voice vote.
+- 2013-07-09 — On sustaining the ruling of the Chair. Agreed to by voice vote.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Butterfield amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Butterfield demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cohen amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Cohen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Connolly amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Connolly demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the First Broun amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Kaptur demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the First Burgess amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Burgess demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Foster amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Foster demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Fourth Broun amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Broun (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Polis demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hastings (FL) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Hastings (FL) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Heck (NV) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Heck (NV) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Heck (NV) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Heck (NV) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. McClintock demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moran amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Moran demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moran amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Moran demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perlmutter amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Perlmutter demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Perry demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Peters (CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Peters (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Polis demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Quigley amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Quigley demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Second Broun amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Broun demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Second Burgess amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Burgess demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Second Takano amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Takano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Swalwell amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Swalwell demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Takano amendment No. 7, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Takano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Third Takano amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Takano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-09 — Roll call votes on amendments in House
+- 2013-07-09 — Roll call votes on amendments in House
+- 2013-07-09 — Roll call votes on amendments in House
+- 2013-07-09 — Roll call votes on amendments in House
+- 2013-07-09 — Roll call votes on amendments in House
+- 2013-07-09 — Roll call votes on amendments in House
+- 2013-07-09 — Roll call votes on amendments in House
+- 2013-07-09 — Roll call votes on amendments in House
+- 2013-07-09 — Roll call votes on amendments in House
+- 2013-07-09 — Roll call votes on amendments in House
+- 2013-07-09 — Roll call votes on amendments in House
+- 2013-07-09 — Roll call votes on amendments in House
+- 2013-07-09 — Roll call votes on amendments in House
+- 2013-07-09 — Roll call votes on amendments in House
+- 2013-07-09 — Roll call votes on amendments in House
+- 2013-07-09 — Roll call votes on amendments in House
+- 2013-07-09 — Roll call votes on amendments in House
+- 2013-07-09 — Roll call votes on amendments in House
+- 2013-07-09 — Rule H. Res. 288 passed House.
+- 2013-07-09 — Rule provides for consideration of H.R. 2609 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is open to amendments. The resolution provides that the bill shall be considered for amendment under the five-minute rule.
+- 2013-07-09 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2013-07-09 — The Speaker designated the Honorable Randy Hultgren to act as Chairman of the Committee.
+- 2013-07-09 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2013-07-10 — Amendment (A041) offered by Mr. Burgess. (consideration: CR H4322-4323; text: CR H4322)
+- 2013-07-10 — Amendment (A042) offered by Ms. Bass. (consideration: CR H4323, H4336; text: CR H4323)
+- 2013-07-10 — Amendment (A043) offered by Mr. Meadows. (consideration: CR H4323-4324; text: CR H4323)
+- 2013-07-10 — Amendment (A044) offered by Mr. Scalise. (consideration: CR H4324-4325; text: CR H4324)
+- 2013-07-10 — Amendment (A045) offered by Mr. Lynch. (consideration: CR H4325-4326, H4339; text: CR H4325)
+- 2013-07-10 — Amendment (A046) offered by Mrs. Blackburn. (consideration: CR H4326-4328; text: CR H4326)
+- 2013-07-10 — Amendment (A047) offered by Mr. Higgins. (consideration: CR H4328-4329; text: CR H4328)
+- 2013-07-10 — Amendment (A048) offered by Mr. Walberg. (consideration: CR H4329; text: CR H4329)
+- 2013-07-10 — Amendment (A049) offered by Mr. Grayson. (consideration: CR H4329-4330; text: CR H4329)
+- 2013-07-10 — Amendment (A050) offered by Mr. Barrow (GA). (consideration: CR H4330; text: CR H4330)
+- 2013-07-10 — Amendment (A051) offered by Mr. Scalise. (consideration: CR H4330-4331; text: CR H4330)
+- 2013-07-10 — Amendment (A052) offered by Mr. Gosar. (consideration: CR H4339-4340; text: CR H4339)
+- 2013-07-10 — Amendment (A053) offered by Mr. Whitfield. (consideration: CR H4340-4342, H4362-4363; text: CR H4340)
+- 2013-07-10 — Amendment (A054) offered by Mr. Turner. (consideration: CR H4342-4344; text: CR H4342)
+- 2013-07-10 — Amendment (A055) offered by Mr. Lujan, Ben Ray (NM). (consideration: CR H4344-4345; text: CR H4344)
+- 2013-07-10 — Amendment (A056) offered by Mr. Nugent. (consideration: CR H4345; text: CR H4345)
+- 2013-07-10 — Amendment (A057) offered by Mr. Engel. (consideration: CR H4345-4346; text: CR H4345)
+- 2013-07-10 — Amendment (A058) offered by Mr. Garcia. (consideration: CR H4346; text: CR H4346)
+- 2013-07-10 — Amendment (A059) offered by Mr. Fleming. (consideration: CR H4346-4347, H4363; text: CR H4346)
+- 2013-07-10 — Amendment (A060) offered by Mr. Garamendi. (consideration: CR H4347-4348, H4363-4364; text: CR H4347)
+- 2013-07-10 — Amendment (A061) offered by Mr. Luetkemeyer. (consideration: CR H4348-4349; text: CR H4348-4349)
+- 2013-07-10 — Amendment (A062) offered by Mr. Luetkemeyer. (consideration: CR H4349-4351; text: CR H4349-4350)
+- 2013-07-10 — Amendment (A063) offered by Mrs. Noem. (consideration: CR H4351-4352; text: CR H4351)
+- 2013-07-10 — Amendment (A064) offered by Ms. Speier. (consideration: CR H4352, H4364; text: CR H4352)
+- 2013-07-10 — Amendment (A065) offered by Mr. Grayson. (consideration: CR H4352-4353; text: CR H4353)
+- 2013-07-10 — Amendment (A066) offered by Mr. Chabot. (consideration: CR H4353-4355, H4364-4365; text: CR H4353)
+- 2013-07-10 — Amendment (A067) offered by Mr. Butterfield. (consideration: CR H4355-4356; text: CR H4355)
+- 2013-07-10 — Amendment (A068) offered by Mr. Kelly (PA). (consideration: CR H4356-4358; text: CR H4356)
+- 2013-07-10 — Amendment (A069) offered by Mr. LaMalfa. (consideration: CR H4358-4359; text: CR H4358)
+- 2013-07-10 — Amendment (A070) offered by Mr. King (IA). (consideration: CR H4359-4360; text: CR H4359)
+- 2013-07-10 — Amendment (A071) offered by Mr. Flores. (consideration: CR H4360-4361; text: CR H4360)
+- 2013-07-10 — Amendment (A072) offered by Mr. Flores. (consideration: CR H4361; text: CR H4361)
+- 2013-07-10 — Amendment (A073) offered by Mr. Bridenstine. (consideration: CR H4361; text: CR H4361)
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment agreed to Committee of the Whole
+- 2013-07-10 — Amendment failed in Committee of the Whole
+- 2013-07-10 — Amendment failed in Committee of the Whole
+- 2013-07-10 — Amendment failed in Committee of the Whole
+- 2013-07-10 — Amendment failed in Committee of the Whole
+- 2013-07-10 — Amendment failed in Committee of the Whole
+- 2013-07-10 — Amendment failed in Committee of the Whole
+- 2013-07-10 — Amendment failed in Committee of the Whole
+- 2013-07-10 — Amendment failed in Committee of the Whole
+- 2013-07-10 — Amendment failed in Committee of the Whole
+- 2013-07-10 — Amendment failed in Committee of the Whole
+- 2013-07-10 — Amendment failed in Committee of the Whole
+- 2013-07-10 — Amendment failed in Committee of the Whole
+- 2013-07-10 — Amendment failed in Committee of the Whole
+- 2013-07-10 — Amendment failed in Committee of the Whole
+- 2013-07-10 — Amendment failed in Committee of the Whole
+- 2013-07-10 — Amendment failed in Committee of the Whole
+- 2013-07-10 — Amendment failed in Committee of the Whole
+- 2013-07-10 — Amendment failed in Committee of the Whole
+- 2013-07-10 — By unanimous consent, the Nugent amendment was withdrawn. (consideration: CR H4345)
+- 2013-07-10 — Committee of the Whole House on the state of the Union rises leaving H.R. 2609 as unfinished business.
+- 2013-07-10 — Committee of the Whole House on the state of the Union rises leaving H.R. 2609 as unfinished business.
+- 2013-07-10 — Considered as unfinished business. (consideration: CR H4322-4336)
+- 2013-07-10 — Considered as unfinished business. (consideration: CR H4336-4367)
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 2609, the Committee of the Whole proceeded with debate on the Garcia amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Barrow amendment No. 26 amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Bass amendment No. 29 amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Ben Ray Lujan amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Blackburn amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Bridenstine amendment under the five-minute rule, pending reservation of a point of order.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Burgess amendment No. 17 amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Butterfield amendment under the five-minute rule, pending reservation of a point order.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Chabot amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Engel amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Fleming amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Flores amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Flores amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Garamendi amendment No. 28 under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Gosar amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Grayson amendment No. 14 amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Grayson amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Higgins amendment No. 31 amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Kelly (PA) amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the King (IA) amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the LaMalfa amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Leutkemeyer amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Luetkemeyer amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Lynch amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Meadows amendment amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Noem amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Nugent amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Scalise amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Scalise amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Speier amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Turner amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Walberg amendment No. 32 amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - Pursuant to the provisions of H. Res. 288, the Committee of the Whole proceeded with debate on the Whitfield amendment under the five-minute rule.
+- 2013-07-10 — DEBATE - The House proceeded with ten minutes of debate on the Schneider motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with amendments which would increase the Corps of Engineers Investigations and Construction accounts by a total of $3.65 million (intended to combat invasive species in the Great Lakes and across the nation); increase the Flood Control and Coastal Emergencies account by $7 million (intended to deal with upcoming hurricanes); increase the Renewable Energy, Energy Reliability, and Efficiency account by $2 million (intended for the US-Israel Energy Cooperation Program); and decrease the Departmental Administration account by $12.65 million.
+- 2013-07-10 — House amendment agreed to: On agreeing to the Blackburn amendment (A046) Agreed to by voice vote.
+- 2013-07-10 — House amendment agreed to: On agreeing to the Burgess amendment (A041) Agreed to by voice vote.
+- 2013-07-10 — House amendment agreed to: On agreeing to the Engel amendment (A057) Agreed to by voice vote.
+- 2013-07-10 — House amendment agreed to: On agreeing to the Fleming amendment (A059) Agreed to by recorded vote: 230 - 194 (Roll no. 340).
+- 2013-07-10 — House amendment agreed to: On agreeing to the Flores amendment (A071) Agreed to by voice vote.
+- 2013-07-10 — House amendment agreed to: On agreeing to the Flores amendment (A072) Agreed to by voice vote.
+- 2013-07-10 — House amendment agreed to: On agreeing to the Garcia amendment (A058) Agreed to by voice vote.
+- 2013-07-10 — House amendment agreed to: On agreeing to the Gosar amendment (A052) Agreed to by voice vote.
+- 2013-07-10 — House amendment agreed to: On agreeing to the Grayson amendment (A049) Agreed to by voice vote.
+- 2013-07-10 — House amendment agreed to: On agreeing to the Higgins amendment (A047) Agreed to by voice vote.
+- 2013-07-10 — House amendment agreed to: On agreeing to the Kelly (PA) amendment (A068) Agreed to by voice vote.
+- 2013-07-10 — House amendment agreed to: On agreeing to the King (IA) amendment (A070) Agreed to by voice vote.
+- 2013-07-10 — House amendment agreed to: On agreeing to the LaMalfa amendment (A069) Agreed to by voice vote.
+- 2013-07-10 — House amendment agreed to: On agreeing to the Luetkemeyer amendment (A061) Agreed to by voice vote.
+- 2013-07-10 — House amendment agreed to: On agreeing to the Luetkemeyer amendment (A062) Agreed to by voice vote.
+- 2013-07-10 — House amendment agreed to: On agreeing to the Lynch amendment (A045) Agreed to by recorded vote: 217 - 206 (Roll no. 338).
+- 2013-07-10 — House amendment agreed to: On agreeing to the Meadows amendment (A043) Agreed to by voice vote.
+- 2013-07-10 — House amendment agreed to: On agreeing to the Noem amendment (A063) Agreed to by voice vote.
+- 2013-07-10 — House amendment agreed to: On agreeing to the Scalise amendment (A044) Agreed to by voice vote.
+- 2013-07-10 — House amendment agreed to: On agreeing to the Scalise amendment (A051) Agreed to by voice vote.
+- 2013-07-10 — House amendment agreed to: On agreeing to the Turner amendment (A054) Agreed to by voice vote.
+- 2013-07-10 — House amendment agreed to: On agreeing to the Walberg amendment (A048) Agreed to by voice vote.
+- 2013-07-10 — House amendment not agreed to: On agreeing to the Barrow (GA) amendment (A050) Failed by voice vote.
+- 2013-07-10 — House amendment not agreed to: On agreeing to the Bass amendment (A042) Failed by voice vote.
+- 2013-07-10 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A030) Failed by recorded vote: 165 - 252 (Roll no. 330).(consideration: CR H4333-4334)
+- 2013-07-10 — House amendment not agreed to: On agreeing to the Burgess amendment (A036) Failed by recorded vote: 114 - 308 (Roll no. 335).(consideration: CR H4337)
+- 2013-07-10 — House amendment not agreed to: On agreeing to the Burgess amendment (A037) Failed by recorded vote: 131 - 291 (Roll no. 336).(consideration: CR H4337-4338)
+- 2013-07-10 — House amendment not agreed to: On agreeing to the Chabot amendment (A066) Failed by recorded vote: 147 - 273 (Roll no. 343).
+- 2013-07-10 — House amendment not agreed to: On agreeing to the Garamendi amendment (A028) Failed by recorded vote: 155 - 266 (Roll no. 329).(consideration: CR H4332-4333)
+- 2013-07-10 — House amendment not agreed to: On agreeing to the Garamendi amendment (A028) Failed by recorded vote: 155 - 266 (Roll no. 329).(consideration: CR H4332-4333)
+- 2013-07-10 — House amendment not agreed to: On agreeing to the Garamendi amendment (A060) Failed by recorded vote: 170 - 253 (Roll no. 341).
+- 2013-07-10 — House amendment not agreed to: On agreeing to the Grayson amendment (A065) Failed by voice vote.
+- 2013-07-10 — House amendment not agreed to: On agreeing to the Hastings (FL) amendment (A026) Failed by recorded vote: 156 - 266 (Roll no. 328).(consideration: CR H4332)
+- 2013-07-10 — House amendment not agreed to: On agreeing to the Heck (NV) amendment (A034) Failed by recorded vote: 86 - 338 (Roll no. 333).(consideration: CR H4335-4336)
+- 2013-07-10 — House amendment not agreed to: On agreeing to the Jackson Lee amendment (A031) Failed by recorded vote: 184 - 238 (Roll no. 331).(consideration: CR H4334)
+- 2013-07-10 — House amendment not agreed to: On agreeing to the Lujan, Ben Ray (NM) amendment (A055) Failed by voice vote.
+- 2013-07-10 — House amendment not agreed to: On agreeing to the Polis amendment (A035) Failed by recorded vote: 182 - 243 (Roll no. 334).(consideration: CR H4336-4337)
+- 2013-07-10 — House amendment not agreed to: On agreeing to the Quigley amendment (A033) Failed by recorded vote: 196 - 227 (Roll no. 332).(consideration: CR H4334-4335)
+- 2013-07-10 — House amendment not agreed to: On agreeing to the Speier amendment (A064) Failed by recorded vote: 174 - 250 (Roll no. 342).
+- 2013-07-10 — House amendment not agreed to: On agreeing to the Titus amendment (A040) Failed by recorded vote: 87 - 337 (Roll no. 337).(consideration: CR H4338-4339)
+- 2013-07-10 — House amendment not agreed to: On agreeing to the Whitfield amendment (A053) Failed by recorded vote: 94 - 329 (Roll no. 339).
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered
+- 2013-07-10 — House amendment offered/reported by: Amendment (A041) offered by Mr. Burgess.(consideration: CR H4322-4323; text: CR H4322)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A042) offered by Ms. Bass.(consideration: CR H4323, H4336; text: CR H4323)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A042) offered by Ms. Bass.(consideration: CR H4323, H4336; text: CR H4323)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A043) offered by Mr. Meadows.(consideration: CR H4323-4324; text: CR H4323)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A044) offered by Mr. Scalise.(consideration: CR H4324-4325; text: CR H4324)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A045) offered by Mr. Lynch.(consideration: CR H4325-4326, H4339; text: CR H4325)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A046) offered by Mrs. Blackburn.(consideration: CR H4326-4328; text: CR H4326)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A047) offered by Mr. Higgins.(consideration: CR H4328-4329; text: CR H4328)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A048) offered by Mr. Walberg.(consideration: CR H4329; text: CR H4329)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A049) offered by Mr. Grayson.(consideration: CR H4329-4330; text: CR H4329)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A050) offered by Mr. Barrow (GA).(consideration: CR H4330; text: CR H4330)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A051) offered by Mr. Scalise.(consideration: CR H4330-4331; text: CR H4330)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A052) offered by Mr. Gosar.(consideration: CR H4339-4340; text: CR H4339)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A053) offered by Mr. Whitfield.(consideration: CR H4340-4342, H4362-4363; text: CR H4340)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A054) offered by Mr. Turner.(consideration: CR H4342-4344; text: CR H4342)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A055) offered by Mr. Lujan, Ben Ray (NM).(consideration: CR H4344-4345; text: CR H4344)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A056) offered by Mr. Nugent.(consideration: CR H4345; text: CR H4345)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A057) offered by Mr. Engel.(consideration: CR H4345-4346; text: CR H4345)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A058) offered by Mr. Garcia.(consideration: CR H4346; text: CR H4346)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A059) offered by Mr. Fleming.(consideration: CR H4346-4347, H4363; text: CR H4346)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A060) offered by Mr. Garamendi.(consideration: CR H4347-4348, H4363-4364; text: CR H4347)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A061) offered by Mr. Luetkemeyer.(consideration: CR H4348-4349; text: CR H4348-4349)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A062) offered by Mr. Luetkemeyer.(consideration: CR H4349-4351; text: CR H4349-4350)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A063) offered by Mrs. Noem.(consideration: CR H4351-4352; text: CR H4351)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A064) offered by Ms. Speier.(consideration: CR H4352, H4364; text: CR H4352)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A065) offered by Mr. Grayson.(consideration: CR H4352-4353; text: CR H4353)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A066) offered by Mr. Chabot.(consideration: CR H4353-4355, H4364-4365; text: CR H4353)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A067) offered by Mr. Butterfield.(consideration: CR H4355-4356; text: CR H4355)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A068) offered by Mr. Kelly (PA).(consideration: CR H4356-4358; text: CR H4356)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A069) offered by Mr. LaMalfa.(consideration: CR H4358-4359; text: CR H4358)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A070) offered by Mr. King (IA).(consideration: CR H4359-4360; text: CR H4359)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A071) offered by Mr. Flores.(consideration: CR H4360-4361; text: CR H4360)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A072) offered by Mr. Flores.(consideration: CR H4361; text: CR H4361)
+- 2013-07-10 — House amendment offered/reported by: Amendment (A073) offered by Mr. Bridenstine.(consideration: CR H4361; text: CR H4361)
+- 2013-07-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-07-10 — Mr. Frelinghuysen moved for the Committee of the Whole to rise and report.
+- 2013-07-10 — Mr. Frelinghuysen moved that the Committee rise.
+- 2013-07-10 — Mr. Frelinghuysen moved that the committee rise.
+- 2013-07-10 — Mr. Frelinghuysen raised a point of order against the Bridenstine amendment (A073). Mr. Frelinghuysen stated that the provisions of the Bridenstine amendment result in a net increase in budget authority and violate H. Res. 5, 113th Congress. The Chair sustained the point of order.
+- 2013-07-10 — Mr. Frelinghuysen raised a point of order against the Butterfield amendment (A067). Mr. Frelinghuysen stated that the amendment proposed to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order.
+- 2013-07-10 — Mr. Schneider moved to recommit with instructions to Appropriations. (consideration: CR H4365-4367; text: CR H4365)
+- 2013-07-10 — On agreeing to the Barrow (GA) amendment (A050) Failed by voice vote.
+- 2013-07-10 — On agreeing to the Bass amendment (A042) Failed by voice vote.
+- 2013-07-10 — On agreeing to the Blackburn amendment (A046) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the Broun (GA) amendment (A030) Failed by recorded vote: 165 - 252 (Roll no. 330). (consideration: CR H4333-4334)
+- 2013-07-10 — On agreeing to the Burgess amendment (A036) Failed by recorded vote: 114 - 308 (Roll no. 335). (consideration: CR H4337)
+- 2013-07-10 — On agreeing to the Burgess amendment (A037) Failed by recorded vote: 131 - 291 (Roll no. 336). (consideration: CR H4337-4338)
+- 2013-07-10 — On agreeing to the Burgess amendment (A041) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the Chabot amendment (A066) Failed by recorded vote: 147 - 273 (Roll no. 343).
+- 2013-07-10 — On agreeing to the Engel amendment (A057) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the Fleming amendment (A059) Agreed to by recorded vote: 230 - 194 (Roll no. 340).
+- 2013-07-10 — On agreeing to the Flores amendment (A071) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the Flores amendment (A072) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the Garamendi amendment (A028) Failed by recorded vote: 155 - 266 (Roll no. 329). (consideration: CR H4332-4333)
+- 2013-07-10 — On agreeing to the Garamendi amendment (A060) Failed by recorded vote: 170 - 253 (Roll no. 341).
+- 2013-07-10 — On agreeing to the Garcia amendment (A058) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the Gosar amendment (A052) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the Grayson amendment (A049) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the Grayson amendment (A065) Failed by voice vote.
+- 2013-07-10 — On agreeing to the Hastings (FL) amendment (A026) Failed by recorded vote: 156 - 266 (Roll no. 328). (consideration: CR H4332)
+- 2013-07-10 — On agreeing to the Heck (NV) amendment (A034) Failed by recorded vote: 86 - 338 (Roll no. 333). (consideration: CR H4335-4336)
+- 2013-07-10 — On agreeing to the Higgins amendment (A047) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the Jackson Lee amendment (A031) Failed by recorded vote: 184 - 238 (Roll no. 331). (consideration: CR H4334)
+- 2013-07-10 — On agreeing to the Kelly (PA) amendment (A068) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the King (IA) amendment (A070) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the LaMalfa amendment (A069) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the Luetkemeyer amendment (A061) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the Luetkemeyer amendment (A062) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the Lujan, Ben Ray (NM) amendment (A055) Failed by voice vote.
+- 2013-07-10 — On agreeing to the Lynch amendment (A045) Agreed to by recorded vote: 217 - 206 (Roll no. 338).
+- 2013-07-10 — On agreeing to the Meadows amendment (A043) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the Noem amendment (A063) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the Polis amendment (A035) Failed by recorded vote: 182 - 243 (Roll no. 334). (consideration: CR H4336-4337)
+- 2013-07-10 — On agreeing to the Quigley amendment (A033) Failed by recorded vote: 196 - 227 (Roll no. 332). (consideration: CR H4334-4335)
+- 2013-07-10 — On agreeing to the Scalise amendment (A044) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the Scalise amendment (A051) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the Speier amendment (A064) Failed by recorded vote: 174 - 250 (Roll no. 342).
+- 2013-07-10 — On agreeing to the Titus amendment (A040) Failed by recorded vote: 87 - 337 (Roll no. 337). (consideration: CR H4338-4339)
+- 2013-07-10 — On agreeing to the Turner amendment (A054) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the Walberg amendment (A048) Agreed to by voice vote.
+- 2013-07-10 — On agreeing to the Whitfield amendment (A053) Failed by recorded vote: 94 - 329 (Roll no. 339).
+- 2013-07-10 — On motion that the Committee rise Agreed to by voice vote.
+- 2013-07-10 — On motion that the committee rise Agreed to by voice vote.
+- 2013-07-10 — On motion to recommit with instructions Failed by recorded vote: 195 - 230 (Roll no. 344). (consideration: CR H4367)
+- 2013-07-10 — On motion to rise and report Agreed to by voice vote.
+- 2013-07-10 — On passage Passed by the Yeas and Nays: 227 - 198 (Roll no. 345).
+- 2013-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bass amendment No. 29, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Bass demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Chabot amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Chabot demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Fleming amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Fleming demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Garamendi demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lynch amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Lynch demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Speier amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Speier demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Titus amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Titus demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Whitfield amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Whitfield demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-10 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 227 - 198 (Roll no. 345).
+- 2013-07-10 — Roll call votes on amendments in House
+- 2013-07-10 — Roll call votes on amendments in House
+- 2013-07-10 — Roll call votes on amendments in House
+- 2013-07-10 — Roll call votes on amendments in House
+- 2013-07-10 — Roll call votes on amendments in House
+- 2013-07-10 — Roll call votes on amendments in House
+- 2013-07-10 — Roll call votes on amendments in House
+- 2013-07-10 — Roll call votes on amendments in House
+- 2013-07-10 — Roll call votes on amendments in House
+- 2013-07-10 — Roll call votes on amendments in House
+- 2013-07-10 — Roll call votes on amendments in House
+- 2013-07-10 — Roll call votes on amendments in House
+- 2013-07-10 — Roll call votes on amendments in House
+- 2013-07-10 — Roll call votes on amendments in House
+- 2013-07-10 — Roll call votes on amendments in House
+- 2013-07-10 — Roll call votes on amendments in House
+- 2013-07-10 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2013-07-10 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2013-07-10 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2013-07-10 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2609.
+- 2013-07-10 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4366)
+- 2013-07-10 — The previous question was ordered pursuant to the rule. (consideration: CR H4365)
+- 2013-07-10 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2013-07-10 — VACATING PROCEEDINGS - Ms. Bass asked unanimous consent to withdraw her request for a recorded vote on the Bass (CA) amendment to the end that the amendment stand disposed of by voice vote. Agreed to without objection.
