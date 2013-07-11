@@ -7,11 +7,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. RES. 191
 
-> Designating July 27, 2013, as “National Day of the American Cowboy”.
+> Designating July 27, 2013, as National Day of the American Cowboy.
 
 ## Preamble
 
-- Whereas pioneering men and women, recognized as “cowboys”, helped establish the American West;
+- Whereas pioneering men and women, recognized as cowboys, helped establish the American West;
 - Whereas the cowboy embodies honesty, integrity, courage, compassion, respect, a strong work ethic, and patriotism;
 - Whereas the cowboy spirit exemplifies strength of character, sound family values, and good common sense;
 - Whereas the cowboy archetype transcends ethnicity, gender, geographic boundaries, and political affiliations;
@@ -26,5 +26,5 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 That the Senate—
 
-- **(1)** designates July 27, 2013, as “National Day of the American Cowboy”; and
+- **(1)** designates July 27, 2013, as National Day of the American Cowboy; and
 - **(2)** encourages the people of the United States to observe the day with appropriate ceremonies and activities.
