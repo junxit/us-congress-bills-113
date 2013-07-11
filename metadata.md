@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5
@@ -16,7 +16,7 @@ Student Success Act
 
 - Rep. Kline, John [R-MN-2] (K000363)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Rep. Rokita, Todd [R-IN-4] (R000592)
 - Rep. Petri, Thomas E. [R-WI-6] (P000265)
@@ -29,6 +29,7 @@ Student Success Act
 - Rep. Heck, Joseph J. [R-NV-3] (H001055)
 - Rep. Brooks, Susan W. [R-IN-5] (B001284)
 - Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Salmon, Matt [R-AZ-5] (S000018)
 
 ## Committees (2)
 
@@ -41,3 +42,9 @@ Student Success Act
 - 2013-06-06 — Introduced in House
 - 2013-06-06 — Referred to the Committee on Education and the Workforce, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-06-06 — Referred to the Committee on Education and the Workforce, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-06-19 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 16.
+- 2013-07-11 — Committee on Financial Services discharged.
+- 2013-07-11 — Committee on Financial Services discharged.
+- 2013-07-11 — Placed on the Union Calendar, Calendar No. 108.
+- 2013-07-11 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-150, Part I.
+- 2013-07-11 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-150, Part I.
