@@ -1,0 +1,18 @@
+---
+legis-num: S. 1289
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1289
+
+> To retain the existing vehicle weight limitations for vehicles traveling along any segment of U.S. Highway 78 within Mississippi after such segment is incorporated into the Interstate Highway System.
+
+## § 1. Retention of vehicle weight limitations on U.S. Highway 78
+
+Section 127(a) of title 23, United States Code, is amended—
+
+- **(1)** by redesignating paragraph (12) as paragraph (13); and
+- **(2)** by inserting after paragraph (11) the following:
+  > - **(12)** With respect to all segments of the Interstate Highway System within Mississippi that were previously designated as U.S. Highway 78, the single axle weight, tandem axle weight, gross vehicle weight, and bridge formula limits set forth in paragraph (2) shall not apply to a vehicle using any such segment if the vehicle could have legally operated on such segment before it was designated as part of the Interstate Highway System.
