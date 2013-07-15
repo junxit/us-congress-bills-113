@@ -1,7 +1,7 @@
 ---
 measure: S. 659
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 3 executed, 0 stated and not applied.
+4 amendatory instructions. 4 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -45,6 +45,15 @@ to guess them.
 ### 43 U.S.C. § 2241
 
 > by striking “2012” and inserting “2018”.
+
+| | |
+|---|---|
+| Removed | `2012` |
+| Inserted | `2018` |
+
+### 43 U.S.C. § 2241
+
+> Section 301 of the Reclamation States Emergency Drought Relief Act of 1991 (43 U.S.C. 2241) is amended by striking “2012” and inserting “2018”.
 
 | | |
 |---|---|

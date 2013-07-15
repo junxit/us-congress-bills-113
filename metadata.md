@@ -1,7 +1,7 @@
 ---
 measure: S. 659
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 659
@@ -25,3 +25,8 @@ A bill to reauthorize the Reclamation States Emergency Drought Relief Act of 199
 - 2013-03-22 — Introduced in Senate
 - 2013-03-22 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2013-03-22 — Sponsor introductory remarks on measure. (CR S2337)
+- 2013-04-16 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 113-32.
+- 2013-05-16 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2013-07-15 — Committee on Energy and Natural Resources. Reported by Senator Wyden with an amendment. With written report No. 113-73.
+- 2013-07-15 — Committee on Energy and Natural Resources. Reported by Senator Wyden with an amendment. With written report No. 113-73.
+- 2013-07-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 130.
