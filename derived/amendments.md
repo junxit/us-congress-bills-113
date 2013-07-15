@@ -1,7 +1,7 @@
 ---
 measure: S. 693
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | insert | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) is amended by inserting after section 1656 the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections in section 2 of the Reclamation Projects Authorization and Adjustment Act of 1992 is amended by inserting after the item relating to section 1656 the following: | the bill names no machine-readable US Code section |
+| — | repeal | Section 1634 of the Reclamation Projects Authorization and Adjustment Act of 1992 (43 U.S.C. 390h–16) is repealed. | the bill names no machine-readable US Code section |
+| — | strike | The table of contents of title XVI of the Reclamation Projects Authorization and Adjustment Act of 1992 (Public Law 102–575; 106 Stat. 4602) is amended by striking the item relating to section 1634. | the bill names no machine-readable US Code section |
