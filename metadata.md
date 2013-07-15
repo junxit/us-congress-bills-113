@@ -1,7 +1,7 @@
 ---
 measure: S. 363
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 363
@@ -33,3 +33,7 @@ Geothermal Production Expansion Act of 2013
 - 2013-02-14 — Introduced in Senate
 - 2013-02-14 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced in Senate: CR S784-785)
 - 2013-02-14 — Sponsor introductory remarks on measure. (CR S784)
+- 2013-05-16 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2013-07-15 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-72.
+- 2013-07-15 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-72.
+- 2013-07-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 129.
