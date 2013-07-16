@@ -18,20 +18,20 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2013”
 - **(a)** *Electronic accessibility* Section 552 of title 5, United States Code is amended—
   - **(1)** in subsection (a)—
     - **(A)** in paragraph (2)—
-      - **(i)** by striking “for public inspection and copying” and inserting “in an electronic, publicly accessible format”;
+      - **(i)** by striking “for public inspection and copying” and inserting “in an electronic, publicly accessible format”each place it appears;
       - **(ii)** by striking subparagraph (E) and inserting the following new subparagraphs:
         > - **(E)** copies of all records, regardless of form or format, that have been released three or more times under paragraph (3); and
         > - **(F)** a general index of the records referred to under subparagraphs (D) and (E);
 
-      - **(iii)** in the matter proceeding subparagraph (F) (as added by clause (ii) of this subparagraph)—
+      - **(iii)** in the matter proceedingfollowing subparagraph (F) (as added by clause (ii) of this subparagraph)—
         - **(I)** by striking “subparagraph (D)” and inserting “subparagraphs (D) and (E)”; and
         - **(II)** by striking “subparagraph (E)” and inserting “subparagraph (F)”; and
     - **(B)** in paragraph (7)—
       - **(i)** in subparagraph (A), by striking “that will take longer than ten days to process”; and
       - **(ii)** in subparagraph (B), by inserting “automated” after “provides”;
-  - **(2)** in subsection (g), by striking “make publicly available upon request” and inserting “make available in an electronic, publicly accessible format”;
+  - **(2)** in subsection (g), by striking “make publicly available upon request” and inserting “make available in an electronic, publicly accessible format”; and
   - **(3)** in subsection (i), by striking “the implementation” and inserting “compliance with and implementation of the requirements”; and
-  - **(4)** by adding at the end the following new subsection:
+  - **(4) (3)** by adding at the end the following new subsection:
     > - **(m)** *FOIA Web site required* Not later than one year after the date of enactment of this subsection, the Office of Management and Budget shall ensure the existence and operation of a single Web site, accessible by the public at no cost to access, that allows the public to—
     >   - **(1)** submit requests for records under subsection (a)(3); and
     >   - **(2)** receive automated information about the status of a request under subsection (a)(7).
@@ -62,7 +62,7 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2013”
     >   - **(6)** *Annual meeting required* Not less than once a year, the Office of Government Information Services shall hold a meeting that is open to the public on the review and reports by the Office and permit interested persons to appear and present oral or written statements at such meeting.
 
 - **(d)** *Public resources* Section 552(a)(6)(A) of title 5, United States Code, is amended—
-  - **(1)** in clause (i), by striking “such determination and the reasons therefor, and of the right of such person to appeal to the head of the agency any adverse determination; and” and inserting the following new subclauses:
+  - **(1)** in clause (i), by striking “of such determination and the reasons therefor, and of the right of such person to appeal to the head of the agency any adverse determination; and” and inserting the following new subclauses: : “of—
     > - **(I)** such determination and the reasons therefor;
     > - **(II)** the right of such person to seek assistance from the agency FOIA Public Liaison; and
     > - **(III)** the right of such person to appeal to the head of the agency any adverse determination, not later than 90 days after the receipt of such adverse determination; and
@@ -87,7 +87,8 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2013”
     - **(D)** by adding at the end the following new subparagraphs:
       > - **(P)** the number of times the agency invoked a law enforcement exclusion under subsection (c);
       > - **(Q)** the number of times the agency engaged in dispute resolution with the assistance of the Office of Government Information Services or the FOIA Public Liaison; and
-      > - **(R)** the number of records that were made available in an electronic, publicly accessible format under subsection (a)(2).
+      > - **(R)** the number of records that were made available in an electronic, publicly accessible format under subsection (a)(2).”;; and
+      > - **(S)** the number of times the agency assessed a search or duplication fee under subsection (a)(4)(A) and did not comply with a time limit under subsection (a)(6).
 
   - **(2)** by amending paragraph (3) to read as follows:
     > - **(3)** *Electronic accessibility of reports* Each agency shall make each such report available in an electronic, publicly accessible format. In addition, each agency shall make the raw statistical data used in its reports available in a timely manner in an electronic, publicly accessible format. Such data shall be—
@@ -115,12 +116,15 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2013”
     >       - **(II)** capable of being searched and aggregated; and
     >       - **(III)** permitted to be downloaded, including downloaded in bulk.
 
-- **(g)** *Government Accountability Office* Subsection (i) of section 552 of title 5, United States Code, is amended to read as follows:
+- **(g)** *Search or duplication fees* Section 552(a)(4)(A)(viii) of title 5, United States Code, is amended by adding at the end the following new sentence: “Any agency that does assess search or duplication fees after failing to comply with a time limit under paragraph (6) shall provide written notice to the requester of the circumstance that justifies the fees. If an agency fails to provide such notice, the agency may not assess search or duplication fees.”.
+- **(g) (h)** *Government Accountability Office* Subsection (i) of section 552 of title 5, United States Code, is amended to read as follows:
   > - **(i)** *Government Accountability Office* The Government Accountability Office shall—
-  >   - **(1)** conduct audits of administrative agencies on the implementation of this section and issue reports detailing the results of such audits; and
+  >   - **(1)** conduct audits of administrative agencies on the implementationcompliance with and implementation of the requirements of this section and issue reports detailing the results of such audits; and;
   >   - **(2)** catalog the number of exemptions under subsection (b)(3) and agency use of such exemptions.
+  >   - **(2)** catalog the number of exemptions under subsection (b)(3) and agency use of such exemptions; and
+  >   - **(3)** review and prepare a report on the processing of requests by agencies for information pertaining to an entity that has received assistance under title I of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5211 et seq.) during any period in which the Government owns or owned more than 50 percent of the stock of such entity.
 
-- **(h)** *Chief FOIA Officer responsibilities; Council; review* Section 552 of title 5, United States Code is amended—
+- **(h) (i)** *Chief FOIA Officer responsibilities; Council; review* Section 552 of title 5, United States Code is amended—
   - **(1)** by striking subsections (j) and (k); and
   - **(2)** by inserting after subsection (i), the following new subsections:
     > - **(j)** *Chief FOIA Officer*
@@ -164,7 +168,7 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2013”
     >     - **(D)** *Public availability of Council records* Except as provided in subsection (b), the records, reports, transcripts, minutes, appendixes, working papers, drafts, studies, agenda, or other documents that were made available to or prepared for or by the Council shall be made publicly available.
     >     - **(E)** *Minutes* Detailed minutes of each meeting of the Council shall be kept and shall contain a record of the persons present, a complete and accurate description of matters discussed and conclusions reached, and copies of all reports received, issued, or approved by the Council.
 
-- **(i)** *Regulations*
+- **(i) (j)** *Regulations*
   - **(1)** *Revision of regulations* Not later than 180 days after the date of the enactment of this Act, the head of each agency shall review the regulations of such agency and shall issue regulations on procedures for the disclosure of records under section 552 of title 5, United States Code, in accordance with the amendments made by this section. The regulations of each agency shall include—
     - **(A)** procedures for engaging in dispute resolution; and
     - **(B)** procedures for engaging with the Office of Government Information Services.
@@ -194,3 +198,12 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2013”
 - **(f)** *Definitions* In this section:
   - **(1)** *Agency* The term agency has the meaning given such term in section 552(f) of title 5, United States Code.
   - **(2)** *FOIAonline* The term FOIAonline means the electronic online portal FOIAonline.regulations.gov.
+
+## § 4. Inspector general review; adverse actions
+
+- **(a)** *Inspector general review*
+  - **(1)** *In general* The Inspector General of each agency shall—
+    - **(A)** periodically review compliance with the requirements of section 552 of title 5, United States Code, including the timely processing of requests, assessment of fees and fee waivers, and the use of exemptions under subsection (b) of such section; and
+    - **(B)** make recommendations the Inspector General determines to be necessary to the head of the agency, including recommendations for disciplinary action.
+  - **(2)** *Agency defined* In this subsection, the term “agency” has the meaning given that term under section 552(f) of title 5, United States Code.
+- **(b)** *Adverse actions* The withholding of information in a manner inconsistent with the requirements of section 552 of title 5, United States Code (including any rules, regulations, or other implementing guidelines), as determined by the appropriate supervisor, shall be a basis for disciplinary action in accordance with subchapter I, II, or V of chapter 75 of such title, as the case may be.
