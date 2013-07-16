@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2609
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2609
@@ -675,3 +675,4 @@ Energy and Water Development and Related Agencies Appropriations Act, 2014
 - 2013-07-10 — The previous question was ordered pursuant to the rule. (consideration: CR H4365)
 - 2013-07-10 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2013-07-10 — VACATING PROCEEDINGS - Ms. Bass asked unanimous consent to withdraw her request for a recorded vote on the Bass (CA) amendment to the end that the amendment stand disposed of by voice vote. Agreed to without objection.
+- 2013-07-16 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 134.
