@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2642
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2642
@@ -54,3 +54,4 @@ Agricultural Act of 2014
 - 2013-07-11 — Rule provides for consideration of H.R. 2642 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
 - 2013-07-11 — The previous question was ordered without objection. (consideration: CR H4394)
 - 2013-07-11 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used and a demand was made to have words taken down. Subsequently, the demand was withdrawn.
+- 2013-07-16 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 136.
