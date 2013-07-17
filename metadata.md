@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2576
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2576
@@ -22,10 +22,11 @@ To amend title 49, United States Code, to modify requirements relating to the av
 - Rep. Shuster, Bill [R-PA-9] (S001154)
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ To amend title 49, United States Code, to modify requirements relating to the av
 - 2013-07-16 — Placed on the Union Calendar, Calendar No. 110.
 - 2013-07-16 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-152, Part I.
 - 2013-07-16 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-152, Part I.
+- 2013-07-17 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
