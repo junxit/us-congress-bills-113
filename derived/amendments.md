@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2668
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,96 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+12 amendatory instructions. 9 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 26 U.S.C. § 5000A
+
+> Section 5000A(a) of the Internal Revenue Code of 1986 is amended by striking “2013” and inserting “2014”.
+
+| | |
+|---|---|
+| Removed | `2013` |
+| Inserted | `2014` |
+
+### 26 U.S.C. § 5000A
+
+> by striking “2014” in clause (i) and inserting “2015”, and
+
+| | |
+|---|---|
+| Removed | `2014` |
+| Inserted | `2015` |
+
+### 26 U.S.C. § 5000A
+
+> by striking “2015” in clauses (ii) and (iii) and inserting “2016”.
+
+| | |
+|---|---|
+| Removed | `2015` |
+| Inserted | `2016` |
+
+### 26 U.S.C. § 5000A
+
+> by striking “2014” and inserting “2015”, and
+
+| | |
+|---|---|
+| Removed | `2014` |
+| Inserted | `2015` |
+
+### 26 U.S.C. § 5000A
+
+> by striking “2015” (prior to amendment by subparagraph (A)) and inserting “2016”.
+
+| | |
+|---|---|
+| Removed | `2015` |
+| Inserted | `2016` |
+
+### 26 U.S.C. § 5000A
+
+> by striking “2016” and inserting “2017”, and
+
+| | |
+|---|---|
+| Removed | `2016` |
+| Inserted | `2017` |
+
+### 26 U.S.C. § 5000A
+
+> by striking “2015” and inserting “2016”.
+
+| | |
+|---|---|
+| Removed | `2015` |
+| Inserted | `2016` |
+
+### 26 U.S.C. § 5000A
+
+> by striking “2014” and inserting “2015”, and
+
+| | |
+|---|---|
+| Removed | `2014` |
+| Inserted | `2015` |
+
+### 26 U.S.C. § 5000A
+
+> by striking “2013” and inserting “2014”.
+
+| | |
+|---|---|
+| Removed | `2013` |
+| Inserted | `2014` |
 
 ## Stated, not applied
 
@@ -31,12 +114,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 5000A(a) of the Internal Revenue Code of 1986 is amended by striking “2013” and inserting “2014”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “2014” in clause (i) and inserting “2015”, and | the bill names no machine-readable US Code section |
-| — | replace | by striking “2015” in clauses (ii) and (iii) and inserting “2016”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “2014” and inserting “2015”, and | the bill names no machine-readable US Code section |
-| — | replace | by striking “2015” (prior to amendment by subparagraph (A)) and inserting “2016”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “2016” and inserting “2017”, and | the bill names no machine-readable US Code section |
-| — | replace | by striking “2015” and inserting “2016”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “2014” and inserting “2015”, and | the bill names no machine-readable US Code section |
-| — | replace | by striking “2013” and inserting “2014”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1513(d) of the Patient Protection and Affordable Care Act is amended by striking “December 31, 2013” and inserting “December 31, 2014”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1514(d) of the Patient Protection and Affordable Care Act is amended by striking “December 31, 2013” and inserting “December 31, 2014”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1502(e) of the Patient Protection and Affordable Care Act is amended by striking “2013” and inserting “2014”. | the bill names no machine-readable US Code section |
