@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1848
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1848
@@ -50,9 +50,10 @@ Small Airplane Revitalization Act of 2013
 - Rep. Schock, Aaron [R-IL-18] (S001179)
 - Rep. Bustos, Cheri [D-IL-17] (B001286)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -79,3 +80,4 @@ Small Airplane Revitalization Act of 2013
 - 2013-07-16 — Placed on the Union Calendar, Calendar No. 109.
 - 2013-07-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-151.
 - 2013-07-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-151.
+- 2013-07-17 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
