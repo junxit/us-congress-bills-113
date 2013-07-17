@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2611
 congress: 113
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 2611
@@ -51,3 +51,4 @@ To designate the headquarters building of the Coast Guard on the campus located 
 - 2013-07-16 — Placed on the House Calendar, Calendar No. 42.
 - 2013-07-16 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-153.
 - 2013-07-16 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-153.
+- 2013-07-17 — Received in the Senate, read twice.
