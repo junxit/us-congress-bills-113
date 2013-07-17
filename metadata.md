@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2576
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2576
@@ -57,3 +57,14 @@ To amend title 49, United States Code, to modify requirements relating to the av
 - 2013-07-16 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-152, Part I.
 - 2013-07-16 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-152, Part I.
 - 2013-07-17 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2013-08-01 — Passed Senate without amendment by Unanimous Consent.
+- 2013-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2013-08-01 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S6257)
+- 2013-08-01 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S6257)
+- 2013-08-02 — Message on Senate action sent to the House.
+- 2013-08-06 — Presented to President.
+- 2013-08-06 — Presented to President.
+- 2013-08-09 — Became Public Law No: 113-30.
+- 2013-08-09 — Became Public Law No: 113-30.
+- 2013-08-09 — Signed by President.
+- 2013-08-09 — Signed by President.
