@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2217
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2217
@@ -424,3 +424,6 @@ Department of Homeland Security Appropriations Act, 2014
 - 2013-06-12 — Senate returned papers to House, per House request of June 11, 2013, by Unanimous Consent. (consideration: CR S4403-4404)
 - 2013-06-13 — Message on Senate action sent to the House.
 - 2013-06-13 — Received in the Senate and Read twice and referred to the Committee on Appropriations pursuant to the order of 6/12/13.
+- 2013-07-18 — Committee on Appropriations. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 113-77.
+- 2013-07-18 — Committee on Appropriations. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 113-77.
+- 2013-07-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 140.
