@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1911
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1911
@@ -61,3 +61,6 @@ Bipartisan Student Loan Certainty Act of 2013
 - 2013-05-23 — Rule provides for consideration of H.R. 1911 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2013-05-23 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2938)
 - 2013-05-23 — The previous question was ordered pursuant to the rule. (consideration: CR H2937)
+- 2013-06-03 — Received in the Senate.
+- 2013-07-17 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2013-07-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 139.
