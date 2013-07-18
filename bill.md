@@ -1,0 +1,24 @@
+---
+legis-num: S. 1333
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1333
+
+> To reinstate funding for the Consumer Operated and Oriented Plan program.
+
+## § 1. Short title
+
+This Act may be cited as the “Increased Competition for Consumers Act”.
+
+## § 2. Reinstatement of funding for the Consumer Operated and Oriented Plan program
+
+- **(a)** *Transfer of funds* The unobligated balance of the funds transferred under subsection (b)(1) of section 644 of the American Taxpayer Relief Act of 2012 (42 U.S.C. 18042 note) to the fund established under subsection (a) of such section shall be transferred to the Consumer Operated and Oriented Plan program established under section 1322 of the Patient Protection and Affordable Care Act (42 U.S.C. 18042) to remain available until expended.
+- **(b)** *Appropriations* Section 1322 of the Patient Protection and Affordable Care Act (42 U.S.C. 18042) is amended by striking subsection (g) and inserting the following:
+  > - **(g)** *Appropriations* There are hereby appropriated the amount equal to the amount rescinded under section 644(b)(2) of the American Taxpayer Relief Act of 2012.
+
+- **(c)** *Time for awarding loans and grants*
+  - **(1)** *In general* Section 1322(b)(2) of the Patient Protection and Affordable Care Act (42 U.S.C. 18042(b)(2)) is amended by striking subparagraph (D).
+  - **(2)** *Effective date* The amendment made by paragraph (1) shall take effect as if enacted as part of the Patient Protection and Affordable Care Act (Public Law 111–148).
