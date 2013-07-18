@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2642
 congress: 113
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2642
@@ -55,3 +55,10 @@ Agricultural Act of 2014
 - 2013-07-11 — The previous question was ordered without objection. (consideration: CR H4394)
 - 2013-07-11 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used and a demand was made to have words taken down. Subsequently, the demand was withdrawn.
 - 2013-07-16 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 136.
+- 2013-07-18 — Measure laid before Senate by unanimous consent. (consideration: CR S5794-5795)
+- 2013-07-18 — Passed Senate with an amendment by Unanimous Consent.
+- 2013-07-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2013-07-18 — Resolving differences -- Senate actions: Senate insisted on its amendment, requested a conference.(consideration: CR S5794)
+- 2013-07-18 — See also S. 954.
+- 2013-07-18 — Senate insisted on its amendment, requested a conference. (consideration: CR S5794)
+- 2013-07-18 — Senate struck all after the Enacting Clause and substituted the language of S. 954 amended.
