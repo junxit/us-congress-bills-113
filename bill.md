@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 2724
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2724
+
+> To exclude from gross income compensation provided for victims of the March 29, 2013, pipeline oil spill in Mayflower, Arkansas.
+
+## § 1. Short title
+
+This Act may be cited as the “Mayflower Oil Spill Tax Relief Act of 2013”.
+
+## § 2. Mayflower, Arkansas oil spill compensation excluded from gross income
+
+For purposes of the Internal Revenue Code of 1986—
+
+- **(1)** the March 29, 2013, pipeline rupture and oil spill in Mayflower, Arkansas, shall be treated as a qualified disaster under section 139(c) of such Code, and
+- **(2)** any compensation provided to or for the benefit of a victim of such disaster shall be treated as a qualified disaster relief payment under section 139(b) of such Code.
