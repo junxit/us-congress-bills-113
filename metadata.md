@@ -1,7 +1,7 @@
 ---
 measure: H.R. 367
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 367
@@ -16,7 +16,7 @@ Regulations From the Executive in Need of Scrutiny Act of 2013
 
 - Rep. Young, Todd [R-IN-9] (Y000064)
 
-## Cosponsors (121)
+## Cosponsors (164)
 
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
@@ -139,6 +139,49 @@ Regulations From the Executive in Need of Scrutiny Act of 2013
 - Rep. Brooks, Susan W. [R-IN-5] (B001284)
 - Rep. Benishek, Dan [R-MI-1] (B001271)
 - Rep. Ross, Dennis A. [R-FL-15] (R000593)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Mica, John L. [R-FL-7] (M000689)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Radel, Trey [R-FL-19] (R000596)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
+- Rep. Cotton, Tom [R-AR-4] (C001095)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Paulsen, Erik [R-MN-3] (P000594)
+- Rep. Graves, Tom [R-GA-14] (G000560)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
+- Rep. Rothfus, Keith J. [R-PA-12] (R000598)
+- Rep. Rigell, E. Scott [R-VA-2] (R000589)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Salmon, Matt [R-AZ-5] (S000018)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. Young, C. W. Bill [R-FL-13] (Y000031)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. Lankford, James [R-OK-5] (L000575)
+- Rep. Ryan, Paul [R-WI-1] (R000570)
+- Rep. Bridenstine, Jim [R-OK-1] (B001283)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Rice, Tom [R-SC-7] (R000597)
+- Rep. Bachmann, Michele [R-MN-6] (B001256)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Daines, Steve [R-MT-At Large] (D000618)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Rep. Duffy, Sean P. [R-WI-7] (D000614)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Nunes, Devin [R-CA-22] (N000181)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Pompeo, Mike [R-KS-4] (P000602)
+- Rep. Smith, Jason [R-MO-8] (S001195)
 
 ## Committees (3)
 
@@ -153,3 +196,16 @@ Regulations From the Executive in Need of Scrutiny Act of 2013
 - 2013-01-23 — Referred to the Committee on the Judiciary, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-01-23 — Referred to the Committee on the Judiciary, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-01-23 — Referred to the Committee on the Judiciary, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-02-28 — Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.
+- 2013-03-05 — Subcommittee Hearings Held.
+- 2013-03-20 — Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 6 - 3 .
+- 2013-03-20 — Subcommittee Consideration and Mark-up Session Held.
+- 2013-04-11 — Committee Consideration and Mark-up Session Held.
+- 2013-04-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 9.
+- 2013-07-19 — Committee on Budget discharged.
+- 2013-07-19 — Committee on Budget discharged.
+- 2013-07-19 — Committee on Rules discharged.
+- 2013-07-19 — Committee on Rules discharged.
+- 2013-07-19 — Placed on the Union Calendar, Calendar No. 115.
+- 2013-07-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-160, Part I.
+- 2013-07-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-160, Part I.
