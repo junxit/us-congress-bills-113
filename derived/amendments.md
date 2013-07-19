@@ -1,7 +1,7 @@
 ---
 measure: H.R. 602
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Chapter 55 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections at the beginning of chapter 55 of such title is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 922` | add-at-end | Chapter 55 of title 38, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 922` | add-at-end | The table of sections at the beginning of chapter 55 of such title is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
