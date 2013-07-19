@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-374 amendatory instructions. 134 executed, 240 stated and not applied.
+376 amendatory instructions. 209 executed, 167 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,87 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 20 U.S.C. § 6303
+
+> by striking “2 percent” and inserting “7 percent”; and
+
+| | |
+|---|---|
+| Removed | `2 percent` |
+| Inserted | `7 percent` |
+
+### 20 U.S.C. § 6303
+
+> by striking “subpart 2 of part A” and all that follows through “sections 1116 and 1117,” and inserting “chapter B of subpart 1 of part A for each fiscal year to carry out subsection (b),”;
+
+| | |
+|---|---|
+| Removed | `subpart 2 of part A” and all that follows through “sections 1116 and 1117,` |
+| Inserted | `chapter B of subpart 1 of part A for each fiscal year to carry out subsection (b),` |
+
+### 20 U.S.C. § 6303
+
+> in paragraph (1), by striking “for schools identified for school improvement, corrective action, and restructuring, for activities under section 1116(b)” and inserting “to carry out the State’s system of school improvement under section 1111(b)(3)(B)(iii)”; and
+
+| | |
+|---|---|
+| Removed | `for schools identified for school improvement, corrective action, and restructuring, for activities under section 1116(b)` |
+| Inserted | `to carry out the State’s system of school improvement under section 1111(b)(3)(B)(iii)` |
+
+### 20 U.S.C. § 6303
+
+> in paragraph (2), by striking “or educational service agencies” and inserting “, educational service agencies, or non-profit or for-profit external providers with expertise in using evidence-based or other effective strategies to improve student achievement”;
+
+| | |
+|---|---|
+| Removed | `or educational service agencies` |
+| Inserted | `, educational service agencies, or non-profit or for-profit external providers with expertise in using evidence-based or other effective strategies to improve student achievement` |
+
+### 20 U.S.C. § 6303
+
+> in paragraph (2), by striking “need for such funds; and” and inserting “commitment to using such funds to improve such schools.”; and
+
+| | |
+|---|---|
+| Removed | `need for such funds; and` |
+| Inserted | `commitment to using such funds to improve such schools.` |
+
+### 20 U.S.C. § 6303
+
+> in subsection (d)(1), by striking “subpart 2 of part A;” and inserting “chapter B of subpart 1 of part A;”;
+
+| | |
+|---|---|
+| Removed | `subpart 2 of part A;` |
+| Inserted | `chapter B of subpart 1 of part A;` |
+
+### 20 U.S.C. § 6303
+
+> by striking “in any fiscal year” and inserting “in fiscal year 2015 and each subsequent fiscal year”;
+
+| | |
+|---|---|
+| Removed | `in any fiscal year` |
+| Inserted | `in fiscal year 2015 and each subsequent fiscal year` |
+
+### 20 U.S.C. § 6303
+
+> by striking “subpart 2” and inserting “chapter B of subpart 1 of part A”; and
+
+| | |
+|---|---|
+| Removed | `subpart 2` |
+| Inserted | `chapter B of subpart 1 of part A` |
+
+### 20 U.S.C. § 6303
+
+> by striking “such subpart” and inserting “such chapter”;
+
+| | |
+|---|---|
+| Removed | `such subpart` |
+| Inserted | `such chapter` |
 
 ### 20 U.S.C. § 6313
 
@@ -50,6 +131,564 @@ to guess them.
 |---|---|
 | Removed | `school improvement, corrective action, and restructuring under section 1116(b)` |
 | Inserted | `school improvement under section 1111(b)(3)(B)(iii)` |
+
+### 20 U.S.C. § 6314
+
+> by striking “part” and inserting “subpart”; and
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6314
+
+> in subparagraph (A)(i), by striking “part” and inserting “subpart”; and
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6314
+
+> by striking “children with limited English proficiency” and inserting “English learners”; and
+
+| | |
+|---|---|
+| Removed | `children with limited English proficiency` |
+| Inserted | `English learners` |
+
+### 20 U.S.C. § 6314
+
+> by striking “part” and inserting “subpart”;
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6314
+
+> by striking “content standards and the State student academic achievement standards” and inserting “standards”;
+
+| | |
+|---|---|
+| Removed | `content standards and the State student academic achievement standards` |
+| Inserted | `standards` |
+
+### 20 U.S.C. § 6314
+
+> in clause (i), by striking “proficient” and all that follows through “section 1111(b)(1)(D)” and inserting “academic standards described in section 1111(b)(1)”;
+
+| | |
+|---|---|
+| Removed | `proficient” and all that follows through “section 1111(b)(1)(D)` |
+| Inserted | `academic standards described in section 1111(b)(1)` |
+
+### 20 U.S.C. § 6314
+
+> in clause (ii), in the matter preceding subclause (I), by striking “based on scientifically based research” and inserting “evidence-based”;
+
+| | |
+|---|---|
+| Removed | `based on scientifically based research` |
+| Inserted | `evidence-based` |
+
+### 20 U.S.C. § 6314
+
+> by striking “student academic achievement standards” and inserting “academic standards”; and
+
+| | |
+|---|---|
+| Removed | `student academic achievement standards` |
+| Inserted | `academic standards` |
+
+### 20 U.S.C. § 6314
+
+> by striking “schoolwide program,” and all that follows through “technical education programs; and” and inserting “schoolwide programs; and”; and
+
+| | |
+|---|---|
+| Removed | `schoolwide program,” and all that follows through “technical education programs; and` |
+| Inserted | `schoolwide programs; and` |
+
+### 20 U.S.C. § 6314
+
+> by striking “the State and local improvement plans” and inserting “school improvement strategies”; and
+
+| | |
+|---|---|
+| Removed | `the State and local improvement plans` |
+| Inserted | `school improvement strategies` |
+
+### 20 U.S.C. § 6314
+
+> in subparagraph (C), by striking “highly qualified” and inserting “effective”;
+
+| | |
+|---|---|
+| Removed | `highly qualified` |
+| Inserted | `effective` |
+
+### 20 U.S.C. § 6314
+
+> by striking “In accordance with section 1119 and subsection (a)(4), high-quality” and inserting “High-quality”;
+
+| | |
+|---|---|
+| Removed | `In accordance with section 1119 and subsection (a)(4), high-quality` |
+| Inserted | `High-quality` |
+
+### 20 U.S.C. § 6314
+
+> by striking “pupil services” and inserting “specialized instructional support services”; and
+
+| | |
+|---|---|
+| Removed | `pupil services` |
+| Inserted | `specialized instructional support services` |
+
+### 20 U.S.C. § 6314
+
+> by striking “student academic achievement” and inserting “academic”;
+
+| | |
+|---|---|
+| Removed | `student academic achievement` |
+| Inserted | `academic` |
+
+### 20 U.S.C. § 6314
+
+> in subparagraph (E), by striking “high-quality highly qualified” and inserting “effective”;
+
+| | |
+|---|---|
+| Removed | `high-quality highly qualified` |
+| Inserted | `effective` |
+
+### 20 U.S.C. § 6314
+
+> in subparagraph (H), by striking “section 1111(b)(3)” and inserting “section 1111(b)(2)”;
+
+| | |
+|---|---|
+| Removed | `section 1111(b)(3)` |
+| Inserted | `section 1111(b)(2)` |
+
+### 20 U.S.C. § 6314
+
+> in subparagraph (I), by striking “proficient or advanced levels of academic achievement standards” and inserting “State academic standards”; and
+
+| | |
+|---|---|
+| Removed | `proficient or advanced levels of academic achievement standards` |
+| Inserted | `State academic standards` |
+
+### 20 U.S.C. § 6314
+
+> in subparagraph (J), by striking “vocational” and inserting “career”; and
+
+| | |
+|---|---|
+| Removed | `vocational` |
+| Inserted | `career` |
+
+### 20 U.S.C. § 6314
+
+> by striking “first develop” and all that follows through “2001)” and inserting “have in place”; and
+
+| | |
+|---|---|
+| Removed | `first develop” and all that follows through “2001)` |
+| Inserted | `have in place` |
+
+### 20 U.S.C. § 6314
+
+> in clause (ii), by striking “part” and inserting “subpart”; and
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6314
+
+> in clause (iv), by striking “section 1111(b)(3)” and inserting “section 1111(b)(2)”; and
+
+| | |
+|---|---|
+| Removed | `section 1111(b)(3)` |
+| Inserted | `section 1111(b)(2)` |
+
+### 20 U.S.C. § 6314
+
+> in subclause (II), by striking “No Child Left Behind Act of 2001” and inserting “Student Success Act”;
+
+| | |
+|---|---|
+| Removed | `No Child Left Behind Act of 2001` |
+| Inserted | `Student Success Act` |
+
+### 20 U.S.C. § 6314
+
+> by striking “pupil services” and inserting “specialized instructional support services”;
+
+| | |
+|---|---|
+| Removed | `pupil services` |
+| Inserted | `specialized instructional support services` |
+
+### 20 U.S.C. § 6314
+
+> in clause (iii), by striking “part” and inserting “subpart”; and
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6314
+
+> by striking “part” and inserting “subpart”; and
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6314
+
+> by striking “6,” and all that follows through the period at the end and inserting “6.”.
+
+| | |
+|---|---|
+| Removed | `6,` |
+| Inserted | `6.` |
+
+### 20 U.S.C. § 6315
+
+> by striking “operate such” and inserting “operate”; and
+
+| | |
+|---|---|
+| Removed | `operate such` |
+| Inserted | `operate` |
+
+### 20 U.S.C. § 6315
+
+> by striking “part” and inserting “subpart”;
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6315
+
+> in paragraph (1)(B), by striking “challenging student academic achievement” and inserting “academic”;
+
+| | |
+|---|---|
+| Removed | `challenging student academic achievement` |
+| Inserted | `academic` |
+
+### 20 U.S.C. § 6315
+
+> by striking “limited English proficient children” and inserting “English learners”; and
+
+| | |
+|---|---|
+| Removed | `limited English proficient children` |
+| Inserted | `English learners` |
+
+### 20 U.S.C. § 6315
+
+> by striking “part” each place it appears and inserting “subpart”;
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6315
+
+> by striking “part” and inserting “subpart”;
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6315
+
+> by striking “part C” and inserting “subpart 3”; and
+
+| | |
+|---|---|
+| Removed | `part C` |
+| Inserted | `subpart 3` |
+
+### 20 U.S.C. § 6315
+
+> by striking “part” and inserting “subpart”;
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6315
+
+> in subparagraphs (D) and (E), by striking “part” each place it appears and inserting “subpart”;
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6315
+
+> in paragraph (3), by striking “part” and inserting “subpart”;
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6315
+
+> by striking “part” and inserting “subpart”; and
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6315
+
+> by striking “challenging student academic achievement” and inserting “academic”;
+
+| | |
+|---|---|
+| Removed | `challenging student academic achievement` |
+| Inserted | `academic` |
+
+### 20 U.S.C. § 6315
+
+> by striking “part” and inserting “subpart”; and
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6315
+
+> by striking “challenging student academic achievement” and inserting “academic”;
+
+| | |
+|---|---|
+| Removed | `challenging student academic achievement` |
+| Inserted | `academic` |
+
+### 20 U.S.C. § 6315
+
+> in subparagraph (B), by striking “part” and inserting “subpart”;
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6315
+
+> in the matter preceding clause (i), by striking “based on scientifically based research” and inserting “evidence-based”; and
+
+| | |
+|---|---|
+| Removed | `based on scientifically based research` |
+| Inserted | `evidence-based` |
+
+### 20 U.S.C. § 6315
+
+> in clause (iii), by striking “part” and inserting “subpart”;
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6315
+
+> in subparagraph (E), by striking “highly qualified” and inserting “effective”;
+
+| | |
+|---|---|
+| Removed | `highly qualified` |
+| Inserted | `effective` |
+
+### 20 U.S.C. § 6315
+
+> by striking “part” and inserting “subpart”; and
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6315
+
+> by striking “pupil services personnel” and inserting “specialized instructional support personnel”; and
+
+| | |
+|---|---|
+| Removed | `pupil services personnel` |
+| Inserted | `specialized instructional support personnel` |
+
+### 20 U.S.C. § 6315
+
+> in subparagraph (H), by striking “vocational” and inserting “career”; and
+
+| | |
+|---|---|
+| Removed | `vocational` |
+| Inserted | `career` |
+
+### 20 U.S.C. § 6315
+
+> in the matter preceding subparagraph (A), by striking “proficient and advanced levels of achievement” and inserting “academic standards”;
+
+| | |
+|---|---|
+| Removed | `proficient and advanced levels of achievement` |
+| Inserted | `academic standards` |
+
+### 20 U.S.C. § 6315
+
+> in subparagraph (A), by striking “part” and inserting “subpart”; and
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6315
+
+> in subparagraph (B), by striking “challenging student academic achievement” and inserting “academic”;
+
+| | |
+|---|---|
+| Removed | `challenging student academic achievement` |
+| Inserted | `academic` |
+
+### 20 U.S.C. § 6315
+
+> in subsection (d), in the matter preceding paragraph (1), by striking “part” each place it appears and inserting “subpart”;
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6315
+
+> in the matter preceding clause (i), by striking “part” and inserting “subpart”; and
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6315
+
+> in clause (iii), by striking “pupil services” and inserting “specialized instructional support services”; and
+
+| | |
+|---|---|
+| Removed | `pupil services` |
+| Inserted | `specialized instructional support services` |
+
+### 20 U.S.C. § 6318
+
+> by striking “part” each place such term appears and inserting “subpart”;
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6318
+
+> in paragraph (3)(A), by striking “subpart 2 of this part” each place it appears and inserting “chapter B of this subpart”;
+
+| | |
+|---|---|
+| Removed | `subpart 2 of this part` |
+| Inserted | `chapter B of this subpart` |
+
+### 20 U.S.C. § 6318
+
+> in subsection (d)(1), by striking “student academic achievement” and inserting “academic”;
+
+| | |
+|---|---|
+| Removed | `student academic achievement` |
+| Inserted | `academic` |
+
+### 20 U.S.C. § 6318
+
+> in paragraph (1), by striking “State’s academic content standards and State student academic achievement standards” and inserting “State’s academic standards”;
+
+| | |
+|---|---|
+| Removed | `State’s academic content standards and State student academic achievement standards` |
+| Inserted | `State’s academic standards` |
+
+### 20 U.S.C. § 6318
+
+> by striking “pupil services personnel,” and inserting “specialized instructional support personnel,”; and
+
+| | |
+|---|---|
+| Removed | `pupil services personnel,` |
+| Inserted | `specialized instructional support personnel,` |
+
+### 20 U.S.C. § 6318
+
+> by striking “principals,” and inserting “school leaders,”; and
+
+| | |
+|---|---|
+| Removed | `principals,` |
+| Inserted | `school leaders,` |
+
+### 20 U.S.C. § 6318
+
+> in paragraph (4), by striking “Head Start, Reading First, Early Reading First, Even Start, the Home Instruction Programs for Preschool Youngsters, the Parents as Teachers Program, and public preschool and other” and inserting “other Federal, State, and local”; and
+
+| | |
+|---|---|
+| Removed | `Head Start, Reading First, Early Reading First, Even Start, the Home Instruction Programs for Preschool Youngsters, the Parents as Teachers Program, and public preschool and other` |
+| Inserted | `other Federal, State, and local` |
+
+### 20 U.S.C. § 6321
+
+> by striking “part” each place it appears and inserting “subpart”; and
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6322
+
+> by striking “part” each place it appears and inserting “subpart”;
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
 
 ### 20 U.S.C. § 6331
 
@@ -95,6 +734,33 @@ to guess them.
 |---|---|
 | Removed | `part` |
 | Inserted | `subpart` |
+
+### 20 U.S.C. § 6332
+
+> in subsection (b)(1), by striking “subpart” and inserting “chapter”;
+
+| | |
+|---|---|
+| Removed | `subpart` |
+| Inserted | `chapter` |
+
+### 20 U.S.C. § 6332
+
+> in subsection (c)(3), by striking “part” and inserting “subpart”; and
+
+| | |
+|---|---|
+| Removed | `part` |
+| Inserted | `subpart` |
+
+### 20 U.S.C. § 6332
+
+> in subsection (d)(1), by striking “subpart” and inserting “chapter”.
+
+| | |
+|---|---|
+| Removed | `subpart` |
+| Inserted | `chapter` |
 
 ### 20 U.S.C. § 6333
 
@@ -168,6 +834,15 @@ to guess them.
 | Removed | `total appropriations` |
 | Inserted | `the total amount reserved under section 1122(a) to carry out this section` |
 
+### 20 U.S.C. § 6339
+
+> Section 1127 (20 U.S.C. 6339) is amended by striking “subpart” each place it appears and inserting “chapter”.
+
+| | |
+|---|---|
+| Removed | `subpart` |
+| Inserted | `chapter` |
+
 ### 20 U.S.C. § 6491
 
 > by striking “Secretary” and inserting “Director”;
@@ -197,7 +872,7 @@ to guess them.
 
 ### 20 U.S.C. § 6491
 
-> in subparagraph (D)(v) (as so redesignated), by striking “help schools in which” and all that follows and inserting “address disparities in the percentages of effective teachers teaching in low-income schools.”
+> in subparagraph (D)(v) (as so redesignated), by striking “help schools in which” and all that follows and inserting “address disparities in the percentages of effective teachers teaching in low-income schools.”;
 
 | | |
 |---|---|
@@ -366,7 +1041,7 @@ to guess them.
 | Removed | `Secretary` |
 | Inserted | `Director` |
 
-### 20 U.S.C. § 6492
+### 20 U.S.C. § 6493
 
 > by striking “Secretary” and inserting “Director”; and
 
@@ -375,7 +1050,7 @@ to guess them.
 | Removed | `Secretary` |
 | Inserted | `Director` |
 
-### 20 U.S.C. § 6492
+### 20 U.S.C. § 6493
 
 > by striking “Secretary” the first place it appears and inserting “Director”;
 
@@ -384,7 +1059,7 @@ to guess them.
 | Removed | `Secretary` |
 | Inserted | `Director` |
 
-### 20 U.S.C. § 6492
+### 20 U.S.C. § 6493
 
 > by striking “process,” and inserting “process consistent with section 1206,”; and
 
@@ -393,7 +1068,7 @@ to guess them.
 | Removed | `process,` |
 | Inserted | `process consistent with section 1206,` |
 
-### 20 U.S.C. § 6492
+### 20 U.S.C. § 6493
 
 > by striking “Assistant Secretary of Educational Research and Improvement” and inserting “Director”;
 
@@ -402,7 +1077,7 @@ to guess them.
 | Removed | `Assistant Secretary of Educational Research and Improvement` |
 | Inserted | `Director` |
 
-### 20 U.S.C. § 6492
+### 20 U.S.C. § 6493
 
 > in subparagraph (A), by striking “to the State-defined level of proficiency” and inserting “toward meeting the State academic standards”; and
 
@@ -411,7 +1086,7 @@ to guess them.
 | Removed | `to the State-defined level of proficiency` |
 | Inserted | `toward meeting the State academic standards` |
 
-### 20 U.S.C. § 6492
+### 20 U.S.C. § 6493
 
 > in subparagraph (C), by striking “pupil-services” and inserting “specialized instructional support services”;
 
@@ -420,7 +1095,7 @@ to guess them.
 | Removed | `pupil-services` |
 | Inserted | `specialized instructional support services` |
 
-### 20 U.S.C. § 6492
+### 20 U.S.C. § 6493
 
 > in paragraph (3), by striking “limited and nonlimited English proficient students” and inserting “English learners”; and
 
@@ -429,7 +1104,7 @@ to guess them.
 | Removed | `limited and nonlimited English proficient students` |
 | Inserted | `English learners` |
 
-### 20 U.S.C. § 6492
+### 20 U.S.C. § 6493
 
 > in paragraph (6), by striking “Secretary” and inserting “Director”; and
 
@@ -438,7 +1113,7 @@ to guess them.
 | Removed | `Secretary` |
 | Inserted | `Director` |
 
-### 20 U.S.C. § 6492
+### 20 U.S.C. § 6493
 
 > by striking “Secretary” and inserting “Director”; and
 
@@ -447,7 +1122,7 @@ to guess them.
 | Removed | `Secretary` |
 | Inserted | `Director` |
 
-### 20 U.S.C. § 6492
+### 20 U.S.C. § 6493
 
 > by striking “authorized to be appropriated for this part” and inserting “appropriated under section 3(a)(2)”.
 
@@ -593,7 +1268,7 @@ to guess them.
 
 ### 20 U.S.C. § 7703
 
-> in subparagraph (F) (as so redesignated), by striking “subparagraph (C)(i)(II)(bb)” and inserting “subparagraph (B)(i)(II)(bb)(BB)”;
+> in subparagraphs (F) (as so redesignated), by striking “subparagraph (C)(i)(II)(bb)” and inserting “subparagraph (B)(i)(II)(bb)(BB)”;
 
 | | |
 |---|---|
@@ -726,7 +1401,7 @@ to guess them.
 | Removed | `and Marine Corps` |
 | Inserted | `Marine Corps, and Coast Guard` |
 
-### 25 U.S.C. § 4101
+### 42 U.S.C. § 11411
 
 > in subclause (II), by striking “Stewart B. McKinney Homeless Assistance Act” and inserting “McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411)”; and
 
@@ -1077,7 +1752,7 @@ to guess them.
 | Removed | `facilitating the enrollment,` |
 | Inserted | `facilitating the identification, enrollment,` |
 
-### 42 U.S.C. § 11433
+### 20 U.S.C. § 6313
 
 > in paragraph (1), by striking “726” and inserting “722(a)”;
 
@@ -1086,7 +1761,7 @@ to guess them.
 | Removed | `726` |
 | Inserted | `722(a)` |
 
-### 42 U.S.C. § 11433
+### 20 U.S.C. § 6313
 
 > in subparagraph (D), by striking “within” and inserting “into”;
 
@@ -1095,7 +1770,7 @@ to guess them.
 | Removed | `within` |
 | Inserted | `into` |
 
-### 42 U.S.C. § 11433
+### 20 U.S.C. § 6313
 
 > by striking “Such” and inserting “The extent to which the applicant’s program meets such”; and
 
@@ -1115,7 +1790,7 @@ to guess them.
 
 ### 42 U.S.C. § 11433
 
-> by striking “students with limited English proficiency,” and inserting “English learners,” ; and
+> by striking “students with limited English proficiency,” and inserting “English learners,”; and
 
 | | |
 |---|---|
@@ -1214,7 +1889,7 @@ to guess them.
 
 ### 42 U.S.C. § 11434a
 
-> in paragraph (2)(B)(iv), by striking “1309” and inserting “1139” and
+> in paragraph (2)(B)(iv), by striking “1309” and inserting “1139”; and
 
 | | |
 |---|---|
@@ -1223,7 +1898,7 @@ to guess them.
 
 ### 42 U.S.C. § 11434a
 
-> in paragraph (3), by striking “9101” and inserting “5101”
+> in paragraph (3), by striking “9101” and inserting “5101”.
 
 | | |
 |---|---|
@@ -1239,136 +1914,62 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | The Act (20 U.S.C. 6301 et seq.) is amended by inserting after section 2 the following: | the bill names no machine-readable US Code section |
+| `20 U.S.C. § 6301` | insert | The Act (20 U.S.C. 6301 et seq.) is amended by inserting after section 2 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6301` | amend | The title heading for title I (20 U.S.C. 6301 et seq.) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Section 1001 (20 U.S.C. 6301) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 1002 (20 U.S.C. 6302) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | by striking “2 percent” and inserting “7 percent”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “subpart 2 of part A” and all that follows through “sections 1116 and 1117,” and inserting “chapter B of subpart 1 of part A for each fiscal year to carry out subsection (b),”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “for schools identified for school improvement, corrective action, and restructuring, for activities under section 1116(b)” and inserting “to carry out the State’s system of school improvement under section … | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking “or educational service agencies” and inserting “, educational service agencies, or non-profit or for-profit external providers with expertise in using evidence-based or other effective strategies to improve… | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (1), by inserting “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking “need for such funds; and” and inserting “commitment to using such funds to improve such schools.”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraph (3); | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d)(1), by striking “subpart 2 of part A;” and inserting “chapter B of subpart 1 of part A;”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “in any fiscal year” and inserting “in fiscal year 2015 and each subsequent fiscal year”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “subpart 2” and inserting “chapter B of subpart 1 of part A”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “such subpart” and inserting “such chapter”; | the bill names no machine-readable US Code section |
-| — | strike | in subsection (f), by striking “and the percentage of students from each school from families with incomes below the poverty line”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking subsection (g). | the bill names no machine-readable US Code section |
-| — | insert | The Act (20 U.S.C. 6301 et seq.) is amended by inserting after section 1003 the following: | the bill names no machine-readable US Code section |
+| `20 U.S.C. § 6301` | amend | Section 1001 (20 U.S.C. 6301) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6302` | amend | Section 1002 (20 U.S.C. 6302) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6303` | insert | in paragraph (1), by inserting “and” at the end; | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 6303` | strike | by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6303` | strike | in subsection (f), by striking “and the percentage of students from each school from families with incomes below the poverty line”; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6303` | strike | by striking subsection (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6301` | insert | The Act (20 U.S.C. 6301 et seq.) is amended by inserting after section 1003 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6304` | amend | Section 1004 (20 U.S.C. 6304) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6311` | amend | The part heading for part A of title I (20 U.S.C. 6311 et seq.) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6311` | replace | The Act is amended by striking the subpart heading for subpart 1 of part A of title I (20 U.S.C. 6311 et seq.) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6331` | replace | The Act is amended by striking the subpart heading for subpart 2 of part A of title I (20 U.S.C. 6331 et seq.) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Section 1111 (20 U.S.C. 6311) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 1112 (20 U.S.C. 6312) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “in which” through “such families”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A)(i), by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “children with limited English proficiency” and inserting “English learners”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “part” and inserting “subpart”; | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (3)(B), by striking “maintenance of effort,” after “private school children,”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraph (4); and | the bill names no machine-readable US Code section |
-| — | strike | by striking “(including” and all that follows through “1309(2))”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “content standards and the State student academic achievement standards” and inserting “standards”; | the bill names no machine-readable US Code section |
-| — | replace | in clause (i), by striking “proficient” and all that follows through “section 1111(b)(1)(D)” and inserting “academic standards described in section 1111(b)(1)”; | the bill names no machine-readable US Code section |
-| — | replace | in clause (ii), in the matter preceding subclause (I), by striking “based on scientifically based research” and inserting “evidence-based”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “student academic achievement standards” and inserting “academic standards”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “schoolwide program,” and all that follows through “technical education programs; and” and inserting “schoolwide programs; and”; and | the bill names no machine-readable US Code section |
-| — | strike | in subclause (II), by striking “and”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “the State and local improvement plans” and inserting “school improvement strategies”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (C), by striking “highly qualified” and inserting “effective”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “In accordance with section 1119 and subsection (a)(4), high-quality” and inserting “High-quality”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “pupil services” and inserting “specialized instructional support services”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “student academic achievement” and inserting “academic”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (E), by striking “high-quality highly qualified” and inserting “effective”; | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (G), by striking “, such as Head Start, Even Start, Early Reading First, or a State-run preschool program,”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (H), by striking “section 1111(b)(3)” and inserting “section 1111(b)(2)”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (I), by striking “proficient or advanced levels of academic achievement standards” and inserting “State academic standards”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (J), by striking “vocational” and inserting “career”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “first develop” and all that follows through “2001)” and inserting “have in place”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “and its school support team or other technical assistance provider under section 1117”; | the bill names no machine-readable US Code section |
-| — | replace | in clause (ii), by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (iv), by striking “section 1111(b)(3)” and inserting “section 1111(b)(2)”; and | the bill names no machine-readable US Code section |
-| — | strike | in subclause (I), by striking “, after considering the recommendation of the technical assistance providers under section 1117,”; and | the bill names no machine-readable US Code section |
-| — | replace | in subclause (II), by striking “No Child Left Behind Act of 2001” and inserting “Student Success Act”; | the bill names no machine-readable US Code section |
-| — | strike | by striking “(including administrators of programs described in other parts of this title)”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “pupil services” and inserting “specialized instructional support services”; | the bill names no machine-readable US Code section |
-| — | replace | in clause (iii), by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
-| — | strike | in clause (v), by striking “Reading First, Early Reading First, Even Start,”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “6,” and all that follows through the period at the end and inserting “6.”. | the bill names no machine-readable US Code section |
-| — | strike | by striking “are ineligible for a schoolwide program under section 1114, or that”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “operate such” and inserting “operate”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “part” and inserting “subpart”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1)(B), by striking “challenging student academic achievement” and inserting “academic”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “limited English proficient children” and inserting “English learners”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “part” each place it appears and inserting “subpart”; | the bill names no machine-readable US Code section |
-| — | strike | in the heading, by striking “, Even Start, or Early Reading First”; | the bill names no machine-readable US Code section |
-| — | strike | by striking “, Even Start, or Early Reading First”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “part” and inserting “subpart”; | the bill names no machine-readable US Code section |
-| — | amend | by amending the heading to read as follows: “Subpart 3 children.—”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “part C” and inserting “subpart 3”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “part” and inserting “subpart”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraphs (D) and (E), by striking “part” each place it appears and inserting “subpart”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), by striking “part” and inserting “subpart”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “challenging student academic achievement” and inserting “academic”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “challenging student academic achievement” and inserting “academic”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “part” and inserting “subpart”; | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding clause (i), by striking “based on scientifically based research” and inserting “evidence-based”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (iii), by striking “part” and inserting “subpart”; | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (D), by striking “such as Head Start, Even Start, Early Reading First or State-run preschool programs”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (E), by striking “highly qualified” and inserting “effective”; | the bill names no machine-readable US Code section |
-| — | strike | by striking “in accordance with subsection (e)(3) and section 1119,”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “pupil services personnel” and inserting “specialized instructional support personnel”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (H), by striking “vocational” and inserting “career”; and | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding subparagraph (A), by striking “proficient and advanced levels of achievement” and inserting “academic standards”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “challenging student academic achievement” and inserting “academic”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d), in the matter preceding paragraph (1), by striking “part” each place it appears and inserting “subpart”; | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding clause (i), by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (iii), by striking “pupil services” and inserting “specialized instructional support services”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraph (3); and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `20 U.S.C. § 6311` | amend | Section 1111 (20 U.S.C. 6311) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6312` | amend | Section 1112 (20 U.S.C. 6312) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6314` | strike | by striking “in which” through “such families”; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6314` | strike | in paragraph (3)(B), by striking “maintenance of effort,” after “private school children,”; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6314` | strike | by striking paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6314` | strike | by striking “(including” and all that follows through “1309(2))”; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6314` | strike | in subclause (II), by striking “and”; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6314` | replace | by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 6314` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6314` | strike | in subparagraph (G), by striking “, such as Head Start, Even Start, Early Reading First, or a State-run preschool program,”; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6314` | strike | by striking “and its school support team or other technical assistance provider under section 1117”; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6314` | strike | in subclause (I), by striking “, after considering the recommendation of the technical assistance providers under section 1117,”; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6314` | strike | by striking “(including administrators of programs described in other parts of this title)”; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6314` | strike | in clause (v), by striking “Reading First, Early Reading First, Even Start,”; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6315` | strike | by striking “are ineligible for a schoolwide program under section 1114, or that”; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6315` | strike | in the heading, by striking “, Even Start, or Early Reading First”; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6315` | strike | by striking “, Even Start, or Early Reading First”; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6315` | amend | by amending the heading to read as follows: “Subpart 3 children.—”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6315` | strike | in subparagraph (D), by striking “such as Head Start, Even Start, Early Reading First or State-run preschool programs”; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6315` | strike | by striking “in accordance with subsection (e)(3) and section 1119,”; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6315` | strike | by striking paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6315` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6316` | repeal | The Act is amended by repealing sections 1116 and 1117 (20 U.S.C. 6316; 6317). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | by striking “part” each place such term appears and inserting “subpart”; | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (A), by striking “, and” and all that follows through “1116”; and | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (D), by striking “, such as” and all that follows through “preschool programs”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3)(A), by striking “subpart 2 of this part” each place it appears and inserting “chapter B of this subpart”; | the bill names no machine-readable US Code section |
-| — | amend | by amending subsection (c)(4)(B) to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d)(1), by striking “student academic achievement” and inserting “academic”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “State’s academic content standards and State student academic achievement standards” and inserting “State’s academic standards”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “pupil services personnel,” and inserting “specialized instructional support personnel,”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “principals,” and inserting “school leaders,”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (4), by striking “Head Start, Reading First, Early Reading First, Even Start, the Home Instruction Programs for Preschool Youngsters, the Parents as Teachers Program, and public preschool and other” and inserting “other Fede… | the bill names no machine-readable US Code section |
-| — | amend | by amending subsection (g) to read as follows: | the bill names no machine-readable US Code section |
+| `20 U.S.C. § 6318` | strike | in subparagraph (A), by striking “, and” and all that follows through “1116”; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6318` | strike | in subparagraph (D), by striking “, such as” and all that follows through “preschool programs”; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6318` | amend | by amending subsection (c)(4)(B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6318` | amend | by amending subsection (g) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6319` | repeal | The Act is amended by repealing section 1119 (20 U.S.C. 6319). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6320` | amend | Section 1120 (20 U.S.C. 6320) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | by striking “part” each place it appears and inserting “subpart”; and | the bill names no machine-readable US Code section |
-| — | redesignate | by striking subsection (a) and redesignating subsections (b), (c), and (d) as subsections (a), (b), and (c), respectively. | the bill names no machine-readable US Code section |
-| — | replace | by striking “part” each place it appears and inserting “subpart”; | the bill names no machine-readable US Code section |
-| — | strike | in subsection (a), by striking “such as the Early Reading First program”; and | the bill names no machine-readable US Code section |
-| — | strike | in the matter preceding paragraph (1), by striking “, such as the Early Reading First program,”; | the bill names no machine-readable US Code section |
-| — | strike | in paragraphs (1) through (3), by striking “such as the Early Reading First program” each place it appears; | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (4), by striking “Early Reading First program staff,”; and | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (5), by striking “and entities carrying out Early Reading First programs”. | the bill names no machine-readable US Code section |
+| `20 U.S.C. § 6321` | redesignate | by striking subsection (a) and redesignating subsections (b), (c), and (d) as subsections (a), (b), and (c), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6322` | strike | in subsection (a), by striking “such as the Early Reading First program”; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6322` | strike | in the matter preceding paragraph (1), by striking “, such as the Early Reading First program,”; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6322` | strike | in paragraphs (1) through (3), by striking “such as the Early Reading First program” each place it appears; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6322` | strike | in paragraph (4), by striking “Early Reading First program staff,”; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6322` | strike | in paragraph (5), by striking “and entities carrying out Early Reading First programs”. | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 6331` | strike | by striking subparagraph (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b)(1), by striking “subpart” and inserting “chapter”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (c)(3), by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d)(1), by striking “subpart” and inserting “chapter”. | the bill names no machine-readable US Code section |
-| — | amend | Section 1125AA (20 U.S.C. 6336) is amended to read as follows: | the bill names no machine-readable US Code section |
+| `20 U.S.C. § 6332` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6336` | amend | Section 1125AA (20 U.S.C. 6336) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6337` | redesignate | by striking subsections (a), (e), and (f) and redesignating subsections (b), (c), (d), and (g) as subsections (a), (b), (c), and (d), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6337` | redesignate | in subsection (b), as redesignated, by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 1127 (20 U.S.C. 6339) is amended by striking “subpart” each place it appears and inserting “chapter”. | the bill names no machine-readable US Code section |
-| `20 U.S.C. § 7401` | strike | by striking parts B through D and F through H; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 7401` | insert | by inserting after subpart 1 of part A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6331` | add-at-end | Chapter B of subpart 1 of part A of title I (20 U.S.C. 6331 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6301` | strike | by striking parts B through D and F through H; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5601` | insert | by inserting after subpart 1 of part A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7401` | strike | The Act is amended by striking title VII (20 U.S.C. 7401 et seq.). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6492` | repeal | Sections 1502 and 1504 (20 U.S.C. 6492; 6494) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6491` | insert | in paragraph (1), by inserting “, acting through the Director of the Institute of Education Sciences (in this section and section 1302 referred to as the Director), ” after “The Secretary”; | the bill quotes the text inserted but describes where it goes |
@@ -1376,8 +1977,8 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 6491` | replace | by striking “, including the following” and all that follows and inserting a period; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 6491` | redesignate | in subparagraph (J) (as so redesignated), by striking “, including funds under section 1002,”; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 6491` | replace | by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 6492` | strike | by striking “and for making decisions about the promotion and graduation of students”; | the bill quotes the text struck but describes what replaces it |
-| — | amend | is amended to read as follows: | the bill names no machine-readable US Code section |
+| `20 U.S.C. § 6493` | strike | by striking “and for making decisions about the promotion and graduation of students”; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6571` | amend | is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6601` | amend | The title heading for title II (20 U.S.C. 6601 et seq.) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6601` | amend | Part A of title II (20 U.S.C. 6601 et seq.) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6661` | amend | Part B of title II (20 U.S.C. 6661 et seq.) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1390,6 +1991,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 6751` | amend | Part D of title II (20 U.S.C. 6751 et seq.) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1021` | repeal | Title II of the Higher Education Act of 1965 (20 U.S.C. 1021 et seq.) is amended by repealing sections 201 through 204. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6801` | amend | Title III (20 U.S.C. 6801 et seq.) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7702` | amend | in subsection (a)(1)(C), by amending the matter preceding clause (i) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7702` | amend | by amending subsection (f) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7702` | amend | by amending subsection (g) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7702` | repeal | by repealing subsections (k) and (m); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1425,7 +2027,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 7707` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7707` | strike | by striking subparagraph (F); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7707` | strike | by striking paragraph (7). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | strike | Section 8009(c)(1)(B) (20 U.S.C. 7709(c)(1)(B)) is amended by striking “and contain the information”. | the bill names no machine-readable US Code section |
+| `20 U.S.C. § 7709` | strike | Section 8009(c)(1)(B) (20 U.S.C. 7709(c)(1)(B)) is amended by striking “and contain the information”. | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 7711` | strike | Section 8011(a) (20 U.S.C. 7711(a)) is amended by striking “or under the Act” and all the follows through “1994)”. | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 7713` | strike | in paragraph (4), by striking “and title VI”; | the bill quotes the text struck but describes what replaces it |
 | `25 U.S.C. § 4101` | insert | in subclause (III), by inserting before the semicolon, “(25 U.S.C. 4101 et seq.)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1436,11 +2038,11 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 7101` | repeal | Title IV (20 U.S.C. 7101 et seq.), as amended by section 501(b)(2) of this Act, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6301` | redesignate | by redesignating sections 8001 through 8005 as sections 4001 through 4005, respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6301` | redesignate | by redesignating sections 8007 through 8013 as sections 4007 through 4013, respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1232g` | amend | Title V (20 U.S.C. 7201 et seq.) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7201` | amend | Title V (20 U.S.C. 7201 et seq.) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7911` | strike | by striking subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7801` | repeal | Title IX (20 U.S.C. 7801 et seq.), as amended by section 501(b)(1) of this title, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1401` | strike | Section 602 of the Individuals with Disabilities Education Act (20 U.S.C. 1401) is amended by striking paragraph (10). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 7301` | strike | The Act is amended by striking title VI (20 U.S.C. 7301 et seq.) | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7301` | amend | Title VI of the Act (20 U.S.C. 7301 et seq.) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11431` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11431` | strike | in paragraph (3), by striking “alone”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 11432` | strike | by striking subsection (b); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1463,14 +2065,14 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 11433` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11433` | redesignate | by striking paragraph (3) and redesignating paragraphs (4) and (5) as paragraphs (3) and (4), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11433` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 11433` | insert | in subparagraph (A), by inserting “identification,” before “enrollment”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 11433` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 11433` | insert | in subparagraph (C), by inserting “(as of the date of submission of the application)” after “current practice”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 11433` | amend | by amending subparagraph (C) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 11433` | strike | by striking “case management or related”; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 11433` | redesignate | by redesignating subparagraph (G) as subparagraph (I) and inserting after subparagraph (F) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 11433` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 11433` | strike | by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6313` | insert | in subparagraph (A), by inserting “identification,” before “enrollment”; | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 6313` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6313` | insert | in subparagraph (C), by inserting “(as of the date of submission of the application)” after “current practice”; | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 6313` | amend | by amending subparagraph (C) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6313` | strike | by striking “case management or related”; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6313` | redesignate | by redesignating subparagraph (G) as subparagraph (I) and inserting after subparagraph (F) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6313` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6313` | strike | by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11433` | strike | by striking “and challenging State student academic achievement standards”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 11433` | insert | in paragraph (10), by inserting before the period at the end “, and other activities designed to increase the meaningful involvement of parents or guardians of homeless children or youths in the education of their children”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11433` | insert | in paragraph (13), by inserting before the period at the end “and parental mental health or substance abuse problems”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

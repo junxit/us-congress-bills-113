@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5
 
-> To support State and local accountability for public education, protect State and local authority, inform parents of the performance of their children’s schools, and for other purposes.
+> To support State and local accountability for public education, protect State and local authority, inform parents of the performance of their children's schools, and for other purposes.
 
 ## § 1. Short title
 
@@ -39,7 +39,7 @@ The Act (20 U.S.C. 6301 et seq.) is amended by inserting after section 2 the fol
 > ## § 3. Authorizations of appropriations
 >
 > - **(a)** *Title I*
->   - **(1)** *Part A* There are authorized to be appropriated to carry out part A of title I $16,651,767,000 for each of fiscal years 2014 through 2019.
+>   - **(1)** *Part A* There are authorized to be appropriated to carry out part A of title I $16,651,767,000 (reduced by $195,399,345) for each of fiscal years 2014 through 2019.
 >   - **(2)** *Part B* There are authorized to be appropriated to carry out part B of title I $3,028,000 for each of fiscal years 2014 through 2019.
 > - **(b)** *Title II* There are authorized to be appropriated to carry out title II $2,441,549,000 for each of fiscal years 2014 through 2019.
 > - **(c)** *Title III*
@@ -54,3 +54,14 @@ The Act (20 U.S.C. 6301 et seq.) is amended by inserting after section 2 the fol
 >   - **(3)** *Payments for children with disabilities* For the purpose of making payments under section 4003(d), there are authorized to be appropriated $45,881,000 for each of fiscal years 2014 through 2019.
 >   - **(4)** *Construction* For the purpose of carrying out section 4007, there are authorized to be appropriated $16,529,000 for each of fiscal years 2014 through 2019.
 >   - **(5)** *Facilities maintenance* For the purpose of carrying out section 4008, there are authorized to be appropriated $4,591,000 for each of fiscal years 2014 through 2019.
+
+## § 7. Sense of the Congress
+
+- **(a)** *Findings* The Congress finds as follows:
+  - **(1)** The Elementary and Secondary Education Act prohibits the Federal Government from mandating, directing, or controlling a State, local educational agency, or school’s curriculum, program of instruction, or allocation of State and local resources, and from mandating a State or any subdivision thereof to spend any funds or incur any costs not paid for under such Act.
+  - **(2)** The Elementary and Secondary Education Act prohibits the Federal Government from funding the development, pilot testing, field testing, implementation, administration, or distribution of any federally sponsored national test in reading, mathematics, or any other subject, unless specifically and explicitly authorized by law.
+  - **(3)** The Secretary of Education, through 3 separate initiatives, has created a system of waivers and grants that influence, incentivize, and coerce State educational agencies into implementing common national elementary and secondary standards and assessments endorsed by the Secretary.
+  - **(4)** The Race to the Top Fund encouraged and incentivized States to adopt Common Core State Standards developed by the National Governor’s Association Center for Best Practices and the Council of Chief State School Officers.
+  - **(5)** The Race to the Top Assessment grants awarded to the Partnership for the Assessment of Readiness for College and Careers (PARCC) and SMARTER Balanced Assessment Consortium (SMARTER Balance) initiated the development of Common Core State Standards aligned assessments that will, in turn, inform and ultimately influence kindergarten through 12th-grade curriculum and instructional materials.
+  - **(6)** The conditional Elementary and Secondary Education Act flexibility waiver authority employed by the Department of Education coerced States into accepting Common Core State Standards and aligned assessments.
+- **(b)** *Sense of the Congress* It is the sense of the Congress that States and local educational agencies should maintain the rights and responsibilities of determining educational curriculum, programs of instruction, and assessments for elementary and secondary education.

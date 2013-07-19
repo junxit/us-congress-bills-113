@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5
@@ -36,6 +36,17 @@ Student Success Act
 - House — Financial Services Committee
 - House — Education and the Workforce Committee
 
+## Recorded votes (8)
+
+- 2013-07-18 — [House 113-1-367](votes/house-113-1-0367.md) — On Agreeing to the Amendment — **Agreed to** (263–161)
+- 2013-07-18 — [House 113-1-368](votes/house-113-1-0368.md) — On Agreeing to the Amendment — **Agreed to** (241–182)
+- 2013-07-18 — [House 113-1-369](votes/house-113-1-0369.md) — On Agreeing to the Amendment — **Agreed to** (239–187)
+- 2013-07-19 — [House 113-1-370](votes/house-113-1-0370.md) — On Agreeing to the Amendment — **Agreed to** (227–196)
+- 2013-07-19 — [House 113-1-371](votes/house-113-1-0371.md) — On Agreeing to the Amendment — **Failed** (186–237)
+- 2013-07-19 — [House 113-1-372](votes/house-113-1-0372.md) — On Agreeing to the Amendment — **Failed** (193–233)
+- 2013-07-19 — [House 113-1-373](votes/house-113-1-0373.md) — On Motion to Recommit with Instructions — **Failed** (196–231)
+- 2013-07-19 — [House 113-1-374](votes/house-113-1-0374.md) — On Passage — **Passed** (221–207)
+
 ## Actions
 
 - 2013-06-06 — Introduced in House
@@ -48,3 +59,218 @@ Student Success Act
 - 2013-07-11 — Placed on the Union Calendar, Calendar No. 108.
 - 2013-07-11 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-150, Part I.
 - 2013-07-11 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-150, Part I.
+- 2013-07-17 — Rules Committee Resolution H. Res. 303 Reported to House. Rule provides for consideration of H.R. 5 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution makes in order as original text for the purpose of amendment an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-18.
+- 2013-07-18 — Amendment (A001) offered by Mr. Kline. (consideration: CR H4679-4680; text: CR H4679-4680)
+- 2013-07-18 — Amendment (A002) offered by Mr. Young (AK). (consideration: CR H4680-4693, H4712-4713; text: CR H4680-4690)
+- 2013-07-18 — Amendment (A003) offered by Mr. Cardenas. (consideration: CR H4693-4694; text: CR H4693)
+- 2013-07-18 — Amendment (A004) offered by Mr. Luetkemeyer. (consideration: CR H4694-4696, H4713-4714; text: CR H4694)
+- 2013-07-18 — Amendment (A005) offered by Ms. Jackson Lee. (consideration: CR H4696-4697; text: CR H4696)
+- 2013-07-18 — Amendment (A006) offered by Mr. Bentivolio. (consideration: CR H4697-4698; text: CR H4697)
+- 2013-07-18 — Amendment (A007) offered by Mrs. McMorris Rodgers. (consideration: CR H4698-4705; text: CR H4698)
+- 2013-07-18 — Amendment (A008) offered by Mr. Reed. (consideration: CR H4705-4706; text: CR H4705)
+- 2013-07-18 — Amendment (A009) offered by Mr. Benishek. (consideration: CR H4706; text: CR H4706)
+- 2013-07-18 — Amendment (A010) offered by Mr. Heck (NV). (consideration: CR H4706-4707; text: CR H4706)
+- 2013-07-18 — Amendment (A011) offered by Mr. Meehan. (consideration: CR H4707-4708, H4714; text: CR H4707)
+- 2013-07-18 — Amendment (A012) offered by Mr. Scalise. (consideration: CR H4708-4710; text: CR H4708-4709)
+- 2013-07-18 — Amendment (A013) offered by Ms. Moore. (consideration: CR H4710-4711; text: CR H4710)
+- 2013-07-18 — Amendment (A014) offered by Mr. Bishop (UT). (consideration: CR H4711-4712; text: CR H4711)
+- 2013-07-18 — Amendment (A015) offered by Mr. Tonko. (consideration: CR H4714-4715; text: CR H4714)
+- 2013-07-18 — Amendment (A016) offered by Mrs. Brooks (IN). (consideration: CR H4715-4716; text: CR H4715)
+- 2013-07-18 — Amendment (A017) offered by Mr. Polis. (consideration: CR H4716-4717; text: CR H4716)
+- 2013-07-18 — Amendment (A018) offered by Ms. Velazquez. (consideration: CR H4717-4718; text: CR H4717-4718)
+- 2013-07-18 — Amendment (A019) offered by Mr. Mullin. (consideration: CR H4718-4720; text: CR H4718-4719)
+- 2013-07-18 — Amendment (A020) offered by Mr. Garrett. (consideration: CR H4720; text: CR H4720)
+- 2013-07-18 — Amendment (A021) offered by Mr. Broun (GA). (consideration: CR H4720-4722; text: CR H4720)
+- 2013-07-18 — Amendment agreed to Committee of the Whole
+- 2013-07-18 — Amendment agreed to Committee of the Whole
+- 2013-07-18 — Amendment agreed to Committee of the Whole
+- 2013-07-18 — Amendment agreed to Committee of the Whole
+- 2013-07-18 — Amendment agreed to Committee of the Whole
+- 2013-07-18 — Amendment agreed to Committee of the Whole
+- 2013-07-18 — Amendment agreed to Committee of the Whole
+- 2013-07-18 — Amendment agreed to Committee of the Whole
+- 2013-07-18 — Amendment agreed to Committee of the Whole
+- 2013-07-18 — Amendment agreed to Committee of the Whole
+- 2013-07-18 — Amendment agreed to Committee of the Whole
+- 2013-07-18 — Amendment agreed to Committee of the Whole
+- 2013-07-18 — Amendment agreed to Committee of the Whole
+- 2013-07-18 — Amendment agreed to Committee of the Whole
+- 2013-07-18 — Amendment agreed to Committee of the Whole
+- 2013-07-18 — Amendment agreed to Committee of the Whole
+- 2013-07-18 — Amendment agreed to Committee of the Whole
+- 2013-07-18 — By unanimous consent, the Cardenas amendment was withdrawn. (consideration: CR H4694)
+- 2013-07-18 — By unanimous consent, the Garrett amendment was withdrawn. (consideration: CR H4720)
+- 2013-07-18 — By unanimous consent, the McMorris Rodgers amendment was withdrawn.
+- 2013-07-18 — By unanimous consent, the Mullin amendment was withdrawn. (consideration: CR H4720)
+- 2013-07-18 — By unanimous consent, the Tonko amendment was withdrawn. (consideration: CR H4715)
+- 2013-07-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 5 as unfinished business.
+- 2013-07-18 — Considered under the provisions of rule H. Res. 303. (consideration: CR H4619-4722; text of amendment in the nature of a substitute: CR H4629-4679)
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Benishek amendment No. 9.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Bentivolio amendment No. 6.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Bishop (UT) amendment No. 14.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Brooks (IN) amendment No. 16.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Broun (GA) amendment No. 21.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Garrett amendment No. 20.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Heck (NV) amendment No. 10.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 5.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Luetkemeyer amendment No. 4.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the McMorris Rodgers amendment No. 7.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Meehan amendment No. 11.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Moore amendment No. 13.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Mullin amendment No. 19.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 17.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Reed amendment No. 8.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Scalise amendment No. 12.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Tonko amendment No. 15.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Velazquez amendment No. 18.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H.Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Cardenas amendment No. 3.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H.Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Kline amendment No. 1.
+- 2013-07-18 — DEBATE - Pursuant to the provisions of H.Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Young (AK) amendment No. 2.
+- 2013-07-18 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 5.
+- 2013-07-18 — House amendment agreed to: On agreeing to the Benishek amendment (A009) Agreed to by voice vote.
+- 2013-07-18 — House amendment agreed to: On agreeing to the Bentivolio amendment (A006) Agreed to by voice vote.
+- 2013-07-18 — House amendment agreed to: On agreeing to the Bishop (UT) amendment (A014) Agreed to by voice vote.
+- 2013-07-18 — House amendment agreed to: On agreeing to the Brooks (IN) amendment (A016) Agreed to by voice vote.
+- 2013-07-18 — House amendment agreed to: On agreeing to the Broun (GA) amendment (A021) Agreed to by voice vote.
+- 2013-07-18 — House amendment agreed to: On agreeing to the Heck (NV) amendment (A010) Agreed to by voice vote.
+- 2013-07-18 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A005) Agreed to by voice vote.
+- 2013-07-18 — House amendment agreed to: On agreeing to the Kline amendment (A001) Agreed to by voice vote.
+- 2013-07-18 — House amendment agreed to: On agreeing to the Luetkemeyer amendment (A004) Agreed to by recorded vote: 241 - 182 (Roll no. 368).
+- 2013-07-18 — House amendment agreed to: On agreeing to the Meehan amendment (A011) Agreed to by recorded vote: 239 - 187 (Roll no. 369).
+- 2013-07-18 — House amendment agreed to: On agreeing to the Moore amendment (A013) Agreed to by voice vote.
+- 2013-07-18 — House amendment agreed to: On agreeing to the Polis amendment (A017) Agreed to by voice vote.
+- 2013-07-18 — House amendment agreed to: On agreeing to the Reed amendment (A008) Agreed to by voice vote.
+- 2013-07-18 — House amendment agreed to: On agreeing to the Scalise amendment (A012) Agreed to by voice vote.
+- 2013-07-18 — House amendment agreed to: On agreeing to the Velazquez amendment (A018) Agreed to by voice vote.
+- 2013-07-18 — House amendment agreed to: On agreeing to the Young (AK) amendment (A002) Agreed to by recorded vote: 263 - 161 (Roll no. 367).
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered
+- 2013-07-18 — House amendment offered/reported by: Amendment (A001) offered by Mr. Kline.(consideration: CR H4679-4680; text: CR H4679-4680)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A002) offered by Mr. Young (AK).(consideration: CR H4680-4693, H4712-4713; text: CR H4680-4690)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A003) offered by Mr. Cardenas.(consideration: CR H4693-4694; text: CR H4693)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A004) offered by Mr. Luetkemeyer.(consideration: CR H4694-4696, H4713-4714; text: CR H4694)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A005) offered by Ms. Jackson Lee.(consideration: CR H4696-4697; text: CR H4696)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A006) offered by Mr. Bentivolio.(consideration: CR H4697-4698; text: CR H4697)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A007) offered by Mrs. McMorris Rodgers.(consideration: CR H4698-4705; text: CR H4698)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A008) offered by Mr. Reed.(consideration: CR H4705-4706; text: CR H4705)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A009) offered by Mr. Benishek.(consideration: CR H4706; text: CR H4706)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A010) offered by Mr. Heck (NV).(consideration: CR H4706-4707; text: CR H4706)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A011) offered by Mr. Meehan.(consideration: CR H4707-4708, H4714; text: CR H4707)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A012) offered by Mr. Scalise.(consideration: CR H4708-4710; text: CR H4708-4709)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A013) offered by Ms. Moore.(consideration: CR H4710-4711; text: CR H4710)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A014) offered by Mr. Bishop (UT).(consideration: CR H4711-4712; text: CR H4711)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A015) offered by Mr. Tonko.(consideration: CR H4714-4715; text: CR H4714)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A016) offered by Mrs. Brooks (IN).(consideration: CR H4715-4716; text: CR H4715)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A017) offered by Mr. Polis.(consideration: CR H4716-4717; text: CR H4716)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A018) offered by Ms. Velazquez.(consideration: CR H4717-4718; text: CR H4717-4718)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A019) offered by Mr. Mullin.(consideration: CR H4718-4720; text: CR H4718-4719)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A020) offered by Mr. Garrett.(consideration: CR H4720; text: CR H4720)
+- 2013-07-18 — House amendment offered/reported by: Amendment (A021) offered by Mr. Broun (GA).(consideration: CR H4720-4722; text: CR H4720)
+- 2013-07-18 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 303 and Rule XVIII.
+- 2013-07-18 — Mr. Rokita moved that the Committee rise.
+- 2013-07-18 — On agreeing to the Benishek amendment (A009) Agreed to by voice vote.
+- 2013-07-18 — On agreeing to the Bentivolio amendment (A006) Agreed to by voice vote.
+- 2013-07-18 — On agreeing to the Bishop (UT) amendment (A014) Agreed to by voice vote.
+- 2013-07-18 — On agreeing to the Brooks (IN) amendment (A016) Agreed to by voice vote.
+- 2013-07-18 — On agreeing to the Broun (GA) amendment (A021) Agreed to by voice vote.
+- 2013-07-18 — On agreeing to the Heck (NV) amendment (A010) Agreed to by voice vote.
+- 2013-07-18 — On agreeing to the Jackson Lee amendment (A005) Agreed to by voice vote.
+- 2013-07-18 — On agreeing to the Kline amendment (A001) Agreed to by voice vote.
+- 2013-07-18 — On agreeing to the Luetkemeyer amendment (A004) Agreed to by recorded vote: 241 - 182 (Roll no. 368).
+- 2013-07-18 — On agreeing to the Meehan amendment (A011) Agreed to by recorded vote: 239 - 187 (Roll no. 369).
+- 2013-07-18 — On agreeing to the Moore amendment (A013) Agreed to by voice vote.
+- 2013-07-18 — On agreeing to the Polis amendment (A017) Agreed to by voice vote.
+- 2013-07-18 — On agreeing to the Reed amendment (A008) Agreed to by voice vote.
+- 2013-07-18 — On agreeing to the Scalise amendment (A012) Agreed to by voice vote.
+- 2013-07-18 — On agreeing to the Velazquez amendment (A018) Agreed to by voice vote.
+- 2013-07-18 — On agreeing to the Young (AK) amendment (A002) Agreed to by recorded vote: 263 - 161 (Roll no. 367).
+- 2013-07-18 — On motion that the Committee rise Agreed to by voice vote.
+- 2013-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Luetkemeyer amendment No. 4, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Luetkemeyer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Meehan amendment No. 11, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. George Miller (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scalise amendment No. 12, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. George Miller (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Young (AK) amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Young (AK) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-18 — Roll call votes on amendments in House
+- 2013-07-18 — Roll call votes on amendments in House
+- 2013-07-18 — Roll call votes on amendments in House
+- 2013-07-18 — Rule H. Res. 303 passed House.
+- 2013-07-18 — Rule provides for consideration of H.R. 5 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution makes in order as original text for the purpose of amendment an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-18.
+- 2013-07-18 — The Speaker designated the Honorable Doc Hastings to act as Chairman of the Committee.
+- 2013-07-18 — UNANIMOUS CONSENT REQUEST - Mr. George Miller (CA) asked unanimous consent to vacate his request for a recorded vote on the Scalise amendment No. 12 and that the Chair put the question de novo. Agreed to without objection.
+- 2013-07-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2013-07-19 — Amendment (A022) offered by Mr. Culberson. (consideration: CR H4731-4732, H4806-4807; text: CR H4731)
+- 2013-07-19 — Amendment (A023) offered by Mr. Fitzpatrick. (consideration: CR H4732-4734; text: CR H4732-4733)
+- 2013-07-19 — Amendment (A024) offered by Ms. Jackson Lee. (consideration: CR H4734-4736, H4807-4808; text: CR H4734)
+- 2013-07-19 — Amendment (A025) offered by Mr. Cantor. (consideration: CR H4736-4738; text: CR H4736)
+- 2013-07-19 — Amendment (A026) in the nature of a substitute offered by Mr. Miller, George. (consideration: CR H4738-4806, H4808; text: CR H4738-4803)
+- 2013-07-19 — Amendment agreed to Committee of the Whole
+- 2013-07-19 — Amendment agreed to Committee of the Whole
+- 2013-07-19 — Amendment agreed to Committee of the Whole
+- 2013-07-19 — Amendment failed in Committee of the Whole
+- 2013-07-19 — Amendment failed in Committee of the Whole
+- 2013-07-19 — Amendment failed in Committee of the Whole
+- 2013-07-19 — Considered as unfinished business. (consideration: CR H4731-4814)
+- 2013-07-19 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Cantor amendment No. 25.
+- 2013-07-19 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Culberson amendment No. 22.
+- 2013-07-19 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Fitzpatrick amendment No. 23.
+- 2013-07-19 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 24.
+- 2013-07-19 — DEBATE - Pursuant to the provisions of H. Res. 303, the Committee of the Whole proceeded with 20 minutes of debate on the George Miller (CA) substitute amendment No. 26.
+- 2013-07-19 — DEBATE - The House proceeded with 10 minutes of debate on the Kuster motion to recommit with instructions pending a reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to prevent lowering standards for children with disabilities, including autistic children. It establishes safety standards for the use of seclusion and restraint in schools so children are not physically and mentally harmed. It also establishes standards for protecting student athletes from concussions. Lastly, it provides for criminal background checks of school and contractor employees who have contact with children. Subsequently, the reservation of a point of order was withdrawn.
+- 2013-07-19 — House amendment agreed to: On agreeing to the Cantor amendment Agreed to by voice vote.
+- 2013-07-19 — House amendment agreed to: On agreeing to the Culberson amendment Agreed to by recorded vote: 227 - 196 (Roll no. 370).
+- 2013-07-19 — House amendment agreed to: On agreeing to the Fitzpatrick amendment (A023) Agreed to by voice vote.
+- 2013-07-19 — House amendment not agreed to: On agreeing to the Jackson Lee amendment (A024) Failed by recorded vote: 186 - 237 (Roll no. 371).
+- 2013-07-19 — House amendment not agreed to: On agreeing to the Miller, George amendment (A026) Failed by recorded vote: 193 - 233 (Roll no. 372).
+- 2013-07-19 — House amendment offered
+- 2013-07-19 — House amendment offered
+- 2013-07-19 — House amendment offered
+- 2013-07-19 — House amendment offered
+- 2013-07-19 — House amendment offered
+- 2013-07-19 — House amendment offered/reported by: Amendment (A022) offered by Mr. Culberson.(consideration: CR H4731-4732, H4806-4807; text: CR H4731)
+- 2013-07-19 — House amendment offered/reported by: Amendment (A023) offered by Mr. Fitzpatrick.(consideration: CR H4732-4734; text: CR H4732-4733)
+- 2013-07-19 — House amendment offered/reported by: Amendment (A024) offered by Ms. Jackson Lee.(consideration: CR H4734-4736, H4807-4808; text: CR H4734)
+- 2013-07-19 — House amendment offered/reported by: Amendment (A025) offered by Mr. Cantor.(consideration: CR H4736-4738; text: CR H4736)
+- 2013-07-19 — House amendment offered/reported by: Amendment (A026) in the nature of a substitute offered by Mr. Miller, George.(consideration: CR H4738-4806, H4808; text: CR H4738-4803)
+- 2013-07-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-07-19 — Ms. Kuster moved to recommit with instructions to Education and the Workforce. (consideration: CR H4808-4814; text: CR H4808-4812)
+- 2013-07-19 — On agreeing to the Cantor amendment Agreed to by voice vote.
+- 2013-07-19 — On agreeing to the Culberson amendment Agreed to by recorded vote: 227 - 196 (Roll no. 370).
+- 2013-07-19 — On agreeing to the Fitzpatrick amendment (A023) Agreed to by voice vote.
+- 2013-07-19 — On agreeing to the Jackson Lee amendment (A024) Failed by recorded vote: 186 - 237 (Roll no. 371).
+- 2013-07-19 — On agreeing to the Miller, George amendment (A026) Failed by recorded vote: 193 - 233 (Roll no. 372).
+- 2013-07-19 — On motion to recommit with instructions Failed by recorded vote: 196 - 231 (Roll no. 373).
+- 2013-07-19 — On passage Passed by recorded vote: 221 - 207 (Roll no. 374).
+- 2013-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Culberson amendment No. 22, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Tierney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the George Miller (CA) amendment No. 26, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. George Miller (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment No. 24, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-07-19 — Passed/agreed to in House: On passage Passed by recorded vote: 221 - 207 (Roll no. 374).
+- 2013-07-19 — Roll call votes on amendments in House
+- 2013-07-19 — Roll call votes on amendments in House
+- 2013-07-19 — Roll call votes on amendments in House
+- 2013-07-19 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 5.
+- 2013-07-19 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2013-07-19 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2013-07-19 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5.
+- 2013-07-19 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4813)
+- 2013-07-19 — The previous question was ordered pursuant to the rule. (consideration: CR H4808)
