@@ -26,7 +26,7 @@ This Act may be cited as the “Pro-Growth Budgeting Act of 2013”.
   >     - **(B)** an estimate of revenue feedback expected to result from enactment of the proposal; and
   >     - **(C)** a statement identifying the critical assumptions and the source of data underlying that estimate;
   >   - **(2)** the term major bill or resolution means any bill or resolution if the gross budgetary effects of such bill or resolution for any fiscal year in the period for which an estimate is prepared under section 402 is estimated to be greater than .25 percent of the current projected gross domestic product of the United States for any such fiscal year;
-  >   - **(3)** the term “budgetary effect”, when applied to a major bill or resolution, means the changes in revenues, outlays, deficits, and debt resulting from that measure; and
+  >   - **(3)** the term budgetary effect, when applied to a major bill or resolution, means the changes in revenues, outlays, deficits, and debt resulting from that measure; and
   >   - **(4)** the term revenue feedback means changes in revenue resulting from changes in economic growth as the result of the enactment of any major bill or resolution.
 
-- **(b)** *Conforming amendment* The table of contents set forth in section 1(b) of the Congressional Budget Act of 1974 is amended by inserting after the item relating to section 406 the following new item:
+- **(b)** *Conforming amendment* The table of contents set forth in section 1(b) of the Congressional Budget Act of 1974Congressional Budget and Impoundment Control Act of 1974 is amended by inserting after the item relating to section 406 the following new item:

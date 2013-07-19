@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1874
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Part A of title IV of the Congressional Budget Act of 1974 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of contents set forth in section 1(b) of the Congressional Budget Act of 1974 is amended by inserting after the item relating to section 406 the following new item: | the bill names no machine-readable US Code section |
+| — | insert | The table of contents set forth in section 1(b) of the Congressional Budget Act of 1974Congressional Budget and Impoundment Control Act of 1974 is amended by inserting after the item relating to section 406 the following new item: | the bill names no machine-readable US Code section |

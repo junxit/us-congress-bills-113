@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1874
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1874
@@ -16,7 +16,7 @@ Pro-Growth Budgeting Act of 2014
 
 - Rep. Price, Tom [R-GA-6] (P000591)
 
-## Cosponsors (29)
+## Cosponsors (49)
 
 - Rep. Ryan, Paul [R-WI-1] (R000570)
 - Rep. Black, Diane [R-TN-6] (B001273)
@@ -47,6 +47,26 @@ Pro-Growth Budgeting Act of 2014
 - Rep. Pittenger, Robert [R-NC-9] (P000606)
 - Rep. Yoder, Kevin [R-KS-3] (Y000063)
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Rep. Nugent, Richard B. [R-FL-11] (N000185)
+- Rep. Paulsen, Erik [R-MN-3] (P000594)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Hurt, Robert [R-VA-5] (H001060)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Harper, Gregg [R-MS-3] (H001045)
+- Rep. Young, Todd [R-IN-9] (Y000064)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
 
 ## Committees (2)
 
@@ -59,3 +79,10 @@ Pro-Growth Budgeting Act of 2014
 - 2013-05-08 — Introduced in House
 - 2013-05-08 — Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-05-08 — Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-06-19 — Committee Consideration and Mark-up Session Held.
+- 2013-06-19 — Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 11.
+- 2013-07-19 — Committee on Rules discharged.
+- 2013-07-19 — Committee on Rules discharged.
+- 2013-07-19 — Placed on the Union Calendar, Calendar No. 116.
+- 2013-07-19 — Reported (Amended) by the Committee on Budget. H. Rept. 113-161, Part I.
+- 2013-07-19 — Reported (Amended) by the Committee on Budget. H. Rept. 113-161, Part I.
