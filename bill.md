@@ -18,7 +18,7 @@ This Act may be cited as the “Nashua River Wild and Scenic River Study Act”.
 Section 5(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(a)) is amended by adding at the end the following:
 
 > - **(___)** *Nashua River, Massachusetts*
->   - **(A)** The approximately 19-mile segment of the mainstem of the Nashua River from the confluence of the North and South Nashua Rivers in Lancaster, Massachusetts, north to the Massachusetts/New Hampshire State line, and its tributaries, except the approximately 4.8-mile segment of the mainstem of the Nashua River from the Route 119 bridge in Groton, Massachusetts, downstream to its confluence with the Nissitissit River in Pepperell, Massachusetts.
+>   - **(A)** The approximately 19-mile segment of the mainstem of the Nashua River from the confluence of the North and South Nashua Rivers in Lancaster, Massachusetts, north to the Massachusetts/New Hampshire State line, except the approximately 4.8-mile segment of the mainstem of the Nashua River from the Route 119 bridge in Groton, Massachusetts, downstream to its confluence with the Nissitissit River in Pepperell, Massachusetts.
 >   - **(B)** The 10-mile segment of the Squannacook River from its headwaters at Ash Swamp downstream to its confluence with the Nashua River in Shirley/Ayer, Massachusetts.
 >   - **(C)** The 3.5-mile segment of the Nissitissit River from the Massachusetts/New Hampshire State line downstream to its confluence with the Nashua River in Pepperell, Massachusetts.
 
