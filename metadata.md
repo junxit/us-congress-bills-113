@@ -1,7 +1,7 @@
 ---
 measure: H.R. 697
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 697
@@ -41,3 +41,9 @@ Three Kids Mine Remediation and Reclamation Act
 - 2013-07-08 — Placed on the Union Calendar, Calendar No. 99.
 - 2013-07-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-137.
 - 2013-07-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-137.
+- 2013-07-22 — Considered under suspension of the rules. (consideration: CR H4831-4833)
+- 2013-07-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 697.
+- 2013-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-07-22 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
+- 2013-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4831-4832)
+- 2013-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4831-4832)
