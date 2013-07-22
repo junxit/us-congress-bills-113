@@ -57,5 +57,5 @@ The purpose of this Act is to protect, conserve, and enhance for the benefit and
 - **(h)** *Buffer zones*
   - **(1)** *In general* The expansion of the Monument is not intended to lead to the establishment of protective perimeters or buffer zones around the land included in the Monument by this Act.
   - **(2)** *Activities outside the Monument* The fact that activities outside the Monument can be seen or heard within the land added to the Monument by this Act shall not, of itself, preclude those activities or uses up to the boundary of the Monument.
-- **(i)** *Grazing* Nothing in this Act affects the grazing of livestock and the maintenance of existing structures that are used for grazing with the Point Arena-Stornetta Public Lands or the Monument.
+- **(i)** *Grazing* Nothing in this Act affects the grazing of livestock and the maintenance of existing structures that are used for grazing within the Point Arena-Stornetta Public Lands or the Monument.
 - **(j)** *National landscape conservation system* The Secretary shall manage the Monument as part of the National Landscape Conservation System.
