@@ -15,24 +15,28 @@ This Act may be cited as the “Energy Consumers Relief Act of 2013”.
 
 ## § 2. Prohibition against finalizing certain energy-related rules that will cause significant adverse effects to the economy
 
-Notwithstanding any other provision of law, the Administrator of the Environmental Protection Agency may not promulgate as final an energy-related rule that is estimated to cost more than $1 billion if the Secretary of Energy determines under section 3(3) that, with respect to the rule, significant adverse effects to the economy will be caused.
+Notwithstanding any other provision of law, the Administrator of the Environmental Protection Agency may not promulgate as final an energy-related rule that is estimated to cost more than $1 billion if the Secretary of Energy determines under section 3(3) that the rule will cause significant adverse effects to the economy.
 
 ## § 3. Reports and determinations prior to promulgating as final certain energy-related rules
 
 Before promulgating as final any energy-related rule that is estimated to cost more than $1 billion:
 
-- **(1)** *Report to Congress* The Administrator of the Environmental Protection Agency shall submit to Congress a report containing—
+- **(1)** *Report to Congress* The Administrator of the Environmental Protection Agency shall submit to Congress a report (and transmit a copy to the Secretary of Energy) containing—
   - **(A)** a copy of the rule;
   - **(B)** a concise general statement relating to the rule;
   - **(C)** an estimate of the total costs of the rule, including the direct costs and indirect costs of the rule;
-  - **(D)** an estimate of the increases in energy prices, including potential increases in gasoline or electricity prices for consumers, that may result from implementation or enforcement of the rule; and
-  - **(E)** a detailed description of the employment effects, including potential job losses and shifts in employment, that may result from implementation or enforcement of the rule.
+  - **(D)** an estimate of the total benefits of the rule, an estimate of when such benefits are expected to be realized, and a description of the modeling, the assumptions, and the limitations due to uncertainty, speculation, or lack of information associated with the estimates under this subparagraph;
+  - **(E)** an estimate of the increases in energy prices, including potential increases in gasoline or electricity prices for consumers, that may result from implementation or enforcement of the rule; and
+  - **(F)** a detailed description of the employment effects, including potential job losses and shifts in employment, that may result from implementation or enforcement of the rule.
 - **(2)** *Initial determination on increases and impacts* The Secretary of Energy, in consultation with the Federal Energy Regulatory Commission and the Administrator of the Energy Information Administration, shall prepare an independent analysis to determine whether the rule will cause—
   - **(A)** any increase in energy prices for consumers, including low-income households, small businesses, and manufacturers;
-  - **(B)** any impact on fuel diversity of the Nation’s electricity generation portfolio or on national, regional, or local electric reliability; or
-  - **(C)** any other adverse effect on energy supply, distribution, or use (including a shortfall in supply and increased use of foreign supplies).
-- **(3)** *Subsequent determination on adverse effects to the economy* If the Secretary of Energy determines, under paragraph (2), that the rule will cause an increase, impact, or effect described in such paragraph, then the Secretary, in consultation with the Secretary of Commerce, the Secretary of Labor, and the Administrator of the Small Business Administration, shall—
-  - **(A)** determine whether such increase, impact, or effect will cause significant adverse effects to the economy, taking into consideration impacts on economic indicators, including those related to gross domestic product, unemployment, wages, consumer prices, and business and manufacturing activity; and
+  - **(B)** any impact on fuel diversity of the Nation’s electricity generation portfolio or on national, regional, or local electric reliability;
+  - **(C)** any adverse effect on energy supply, distribution, or use due to the economic or technical infeasibility of implementing the rule; or
+  - **(D)** any other adverse effect on energy supply, distribution, or use (including a shortfall in supply and increased use of foreign supplies).
+- **(3)** *Subsequent determination on adverse effects to the economy* If the Secretary of Energy determines, under paragraph (2), that the rule will cause an increase, impact, or effect described in such paragraph, then the Secretary, in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Commerce, the Secretary of Labor, and the Administrator of the Small Business Administration, shall—
+  - **(A)** determine whether the rule will cause significant adverse effects to the economy, taking into consideration—
+    - **(i)** the costs and benefits of the rule and limitations in calculating such costs and benefits due to uncertainty, speculation, or lack of information; and
+    - **(ii)** the positive and negative impacts of the rule on economic indicators, including those related to gross domestic product, unemployment, wages, consumer prices, and business and manufacturing activity; and
   - **(B)** publish the results of such determination in the Federal Register.
 
 ## § 4. Definitions
