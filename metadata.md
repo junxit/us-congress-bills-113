@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 44
 congress: 113
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Con.Res. 44
