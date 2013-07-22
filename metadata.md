@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1542
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1542
@@ -27,9 +27,22 @@ WMD Intelligence and Information Sharing Act of 2013
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2013-07-22 — [House 113-1-375](votes/house-113-1-0375.md) — On Motion to Suspend the Rules and Pass — **Passed** (388–3)
+
 ## Actions
 
 - 2013-04-12 — Introduced in House
 - 2013-04-12 — Introduced in House
 - 2013-04-12 — Referred to the House Committee on Homeland Security.
 - 2013-04-12 — Sponsor introductory remarks on measure. (CR H1962)
+- 2013-04-24 — Referred to the Subcommittee on Counterterrorism and Intelligence.
+- 2013-07-22 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-07-22 — Considered as unfinished business. (consideration: CR H4839-4840)
+- 2013-07-22 — Considered under suspension of the rules. (consideration: CR H4837-4839)
+- 2013-07-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1542.
+- 2013-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-07-22 — Mr. Meehan moved to suspend the rules and pass the bill.
+- 2013-07-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 3 (Roll no. 375). (text: CR H4837-4838)
+- 2013-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 3 (Roll no. 375).(text: CR H4837-4838)
