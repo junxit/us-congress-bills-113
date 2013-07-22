@@ -32,12 +32,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 In this Act:
 
-- **(1)** *Apache leap* The term “Apache Leap” means the approximately 807 acres of land depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Apache Leap” and dated March 2011.
-- **(2)** *Federal land* The term Federal land means the approximately 2,422 acres of land located in Pinal County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Parcel–Oak Flat” and dated March 2011.
+- **(1)** *Apache leap* The term “Apache Leap” means the approximately 807 acres of land depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2013–Apache Leap” and dated February 2013.
+- **(2)** *Federal land* The term Federal land means the approximately 2,422 acres of land located in Pinal County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2013–Federal Parcel–Oak Flat” and dated February 2013.
 - **(3)** *Indian tribe* The term Indian tribe has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 - **(4)** *Non-Federal land* The term non-Federal land means the parcels of land owned by Resolution Copper that are described in section 5(a) and, if necessary to equalize the land exchange under section 4, section 4(e)(2)(A)(i).
-- **(5)** *Oak flat campground* The term “Oak Flat Campground” means the approximately 50 acres of land comprising approximately 16 developed campsites depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Oak Flat Campground” and dated March 2011.
-- **(6)** *Oak flat withdrawal area* The term “Oak Flat Withdrawal Area” means the approximately 760 acres of land depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Oak Flat Withdrawal Area” and dated March 2011.
+- **(5)** *Oak flat campground* The term “Oak Flat Campground” means the approximately 50 acres of land comprising approximately 16 developed campsites depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2013–Oak Flat Campground” and dated February 2013.
+- **(6)** *Oak flat withdrawal area* The term “Oak Flat Withdrawal Area” means the approximately 760 acres of land depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2013–Oak Flat Withdrawal Area” and dated February 2013.
 - **(7)** *Resolution copper* The term Resolution Copper means Resolution Copper Mining, LLC, a Delaware limited liability company, including any successor, assign, affiliate, member, or joint venturer of Resolution Copper Mining, LLC.
 - **(8)** *Secretary* The term Secretary means the Secretary of Agriculture.
 - **(9)** *State* The term State means the State of Arizona.
@@ -73,7 +73,7 @@ In this Act:
     - **(C)** *Disposition and use of proceeds* Any amounts received by the United States under this subparagraph shall be deposited in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”; 16 U.S.C. 484a) and shall be made available, in such amounts as are provided in advance in appropriation Acts, to the Secretary for the acquisition of land for addition to the National Forest System.
   - **(3)** *Surplus of non-Federal land* If the final appraised value of the non-Federal land exceeds the value of the Federal land—
     - **(A)** the United States shall not make a payment to Resolution Copper to equalize the value; and
-    - **(B)** except as provided in section 9(b)(2)(B), the surplus value of the non-Federal land shall be considered to be a donation by Resolution Copper to the United States.
+    - **(B)** the surplus value of the non-Federal land shall be considered to be a donation by Resolution Copper to the United States.
 - **(f)** *Oak flat withdrawal area*
   - **(1)** *Permits* Subject to the provisions of this subsection and notwithstanding any withdrawal of the Oak Flat Withdrawal Area from the mining, mineral leasing, or public land laws, the Secretary, upon enactment of this Act, shall issue to Resolution Copper—
     - **(A)** if so requested by Resolution Copper, within 30 days of such request, a special use permit to carry out mineral exploration activities under the Oak Flat Withdrawal Area from existing drill pads located outside the Area, if the activities would not disturb the surface of the Area; and
@@ -93,15 +93,15 @@ In this Act:
 
 - **(a)** *Conveyance* On receipt of title to the Federal land, Resolution Copper shall simultaneously convey—
   - **(1)** to the Secretary, all right, title, and interest that the Secretary determines to be acceptable in and to—
-    - **(A)** the approximately 147 acres of land located in Gila County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Turkey Creek” and dated March 2011;
-    - **(B)** the approximately 148 acres of land located in Yavapai County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Tangle Creek” and dated March 2011;
-    - **(C)** the approximately 149 acres of land located in Maricopa County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Cave Creek” and dated March 2011;
-    - **(D)** the approximately 640 acres of land located in Coconino County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–East Clear Creek” and dated March 2011; and
-    - **(E)** the approximately 110 acres of land located in Pinal County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Apache Leap South End” and dated March 2011; and
+    - **(A)** the approximately 147 acres of land located in Gila County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2013–Non-Federal Parcel–Turkey Creek” and dated February 2013;
+    - **(B)** the approximately 148 acres of land located in Yavapai County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2013–Non-Federal Parcel–Tangle Creek” and dated February 2013;
+    - **(C)** the approximately 149 acres of land located in Maricopa County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2013–Non-Federal Parcel–Cave Creek” and dated February 2013;
+    - **(D)** the approximately 640 acres of land located in Coconino County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2013–Non-Federal Parcel–East Clear Creek” and dated February 2013; and
+    - **(E)** the approximately 110 acres of land located in Pinal County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2013–Apache Leap South End” and dated February 2013; and
   - **(2)** to the Secretary of the Interior, all right, title, and interest that the Secretary of the Interior determines to be acceptable in and to—
-    - **(A)** the approximately 3,050 acres of land located in Pinal County, Arizona, identified as “Lands to DOI” as generally depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Lower San Pedro River” and dated July 6, 2011;
-    - **(B)** the approximately 160 acres of land located in Gila and Pinal Counties, Arizona, identified as “Lands to DOI” as generally depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Dripping Springs” and dated July 6, 2011; and
-    - **(C)** the approximately 940 acres of land located in Santa Cruz County, Arizona, identified as “Lands to DOI” as generally depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Appleton Ranch” and dated July 6, 2011.
+    - **(A)** the approximately 3,050 acres of land located in Pinal County, Arizona, identified as “Lands to DOI” as generally depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2013–Non-Federal Parcel–Lower San Pedro River” and dated February 2013;
+    - **(B)** the approximately 160 acres of land located in Gila and Pinal Counties, Arizona, identified as “Lands to DOI” as generally depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2013–Non-Federal Parcel–Dripping Springs” and dated February 2013; and
+    - **(C)** the approximately 940 acres of land located in Santa Cruz County, Arizona, identified as “Lands to DOI” as generally depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2013–Non-Federal Parcel–Appleton Ranch” and dated February 2013.
 - **(b)** *Management of acquired land*
   - **(1)** *Land acquired by the Secretary*
     - **(A)** *In general* Land acquired by the Secretary under this Act shall—
@@ -123,7 +123,7 @@ In this Act:
   - **(1)** *Report required* As a condition of the land exchange under this Act, Resolution Copper shall submit to the Secretary of the Interior an annual report indicating the quantity of locatable minerals produced during the preceding calendar year in commercial quantities from the Federal land conveyed to Resolution Copper under section 4. The first report is required to be submitted not later than February 15 of the first calendar year beginning after the date of commencement of production of valuable locatable minerals in commercial quantities from such Federal land. The reports shall be submitted February 15 of each calendar year thereafter.
   - **(2)** *Sharing reports with state* The Secretary shall make each report received under paragraph (1) available to the State.
   - **(3)** *Report contents* The reports under paragraph (1) shall comply with any recordkeeping and reporting requirements prescribed by the Secretary or required by applicable Federal laws in effect at the time of production.
-- **(b)** *Payment on production* If the cumulative production of valuable locatable minerals produced in commercial quantities from the Federal land conveyed to Resolution Copper under section 4 exceeds the quantity of production of locatable minerals from the Federal land used in the income capitalization approach analysis prepared under section 4(d)(3), Resolution Copper shall pay to the United States, by not later than March 15 of each applicable calendar year, a value adjustment payment for the quantity of excess production at the same rate assumed for the income capitalization approach analysis prepared under section 4(d)(3).
+- **(b)** *Payment on production* If the cumulative production of valuable locatable minerals produced in commercial quantities from the Federal land conveyed to Resolution Copper under section 4 exceeds the quantity of production of locatable minerals from the Federal land used in the income capitalization approach analysis prepared under section 4(d), Resolution Copper shall pay to the United States, by not later than March 15 of each applicable calendar year, a value adjustment payment for the quantity of excess production at the same rate assumed for the income capitalization approach analysis prepared under section 4(d).
 - **(c)** *State law unaffected* Nothing in this section modifies, expands, diminishes, amends, or otherwise affects any State law relating to the imposition, application, timing, or collection of a State excise or severance tax.
 - **(d)** *Use of funds*
   - **(1)** *Separate fund* All funds paid to the United States under this section shall be deposited in a special fund established in the Treasury and shall be available, in such amounts as are provided in advance in appropriation Acts, to the Secretary and the Secretary of the Interior only for the purposes authorized by paragraph (2).
@@ -150,17 +150,7 @@ Subject to valid existing rights, Apache Leap and any land acquired by the Unite
     - **(B)** provide access for recreation.
 - **(c)** *Mining activities* The provisions of this section shall not impose additional restrictions on mining activities carried out by Resolution Copper adjacent to, or outside of, the Apache Leap area beyond those otherwise applicable to mining activities on privately owned land under Federal, State, and local laws, rules and regulations.
 
-## § 9. Conveyances to town of Superior, Arizona
-
-- **(a)** *Conveyances* On request from the Town and subject to the provisions of this section, the Secretary shall convey to the Town the following:
-  - **(1)** Approximately 30 acres of land as depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Parcel–Fairview Cemetery” and dated March 2011.
-  - **(2)** The reversionary interest and any reserved mineral interest of the United States in the approximately 265 acres of land located in Pinal County, Arizona, as depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Reversionary Interest–Superior Airport” and dated March 2011.
-  - **(3)** The approximately 250 acres of land located in Pinal County, Arizona, as depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Parcel–Superior Airport Contiguous Parcels” and dated March 2011.
-- **(b)** *Payment* The Town shall pay to the Secretary the market value for each parcel of land or interest in land acquired under this section, as determined by appraisals conducted in accordance with section 4(d).
-- **(c)** *Sisk Act* Any payment received by the Secretary from the Town under this section shall be deposited in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”) (16 U.S.C. 484a) and shall be made available, in such amounts as are provided in advance in appropriation Acts, to the Secretary for the acquisition of land for addition to the National Forest System.
-- **(d)** *Terms and conditions* The conveyances under this section shall be subject to such terms and conditions as the Secretary may require.
-
-## § 10. Miscellaneous provisions
+## § 9. Miscellaneous provisions
 
 - **(a)** *Revocation of orders; withdrawal*
   - **(1)** *Revocation of orders* Any public land order that withdraws the Federal land from appropriation or disposal under a public land law shall be revoked to the extent necessary to permit disposal of the land.
