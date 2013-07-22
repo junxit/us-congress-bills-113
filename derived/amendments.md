@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1422
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,7 +35,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 4365` | insert | by inserting “risk or hazard assessment,” after “at the time any proposed”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 4365` | insert | by inserting “risk or hazard assessment,” after “to the Board such proposed”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 4365` | insert | by inserting “risk or hazard assessment,” after “the scientific and technical basis of the proposed”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 4365` | amend | by adding at the end the following: “The Board’s advice and comments, including dissenting views of Board members, and the response of the Administrator shall be included in the record with respect to any proposed risk or hazard assessme… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4365` | add-at-end | Section 8(e) of such Act (42 U.S.C. 4365(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4365` | add-at-end | by adding at the end the following: “The Board’s advice and comments, including dissenting views of Board members, and the response of the Administrator shall be included in the record with respect to any proposed risk or hazard assessme… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4365` | add-at-end | Section 8(e) of such Act (42 U.S.C. 4365(e)) is amended by adding at the end the following: “These member committees and investigative panels— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4365` | amend | Section 8 of such Act (42 U.S.C. 4365) is amended by adding after subsection (g) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4365` | amend | Section 8 of such Act (42 U.S.C. 4365) is further amended by adding after subsection (h), as added by subsection (d) of this section, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
