@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 44
 congress: 113
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 44
@@ -49,3 +49,4 @@ Authorizing the use of the Capitol Grounds for the District of Columbia Special 
 - 2013-07-22 — Placed on the House Calendar, Calendar No. 45.
 - 2013-07-22 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-163.
 - 2013-07-22 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-163.
+- 2013-07-23 — Received in the Senate.
