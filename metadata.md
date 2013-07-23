@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 44
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 44
@@ -50,3 +50,6 @@ Authorizing the use of the Capitol Grounds for the District of Columbia Special 
 - 2013-07-22 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-163.
 - 2013-07-22 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-163.
 - 2013-07-23 — Received in the Senate.
+- 2013-07-30 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S6082)
+- 2013-07-30 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S6082)
+- 2013-07-31 — Message on Senate action sent to the House.
