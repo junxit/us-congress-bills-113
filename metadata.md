@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1542
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1542
@@ -23,9 +23,10 @@ WMD Intelligence and Information Sharing Act of 2013
 - Rep. King, Peter T. [R-NY-2] (K000210)
 - Rep. Higgins, Brian [D-NY-26] (H001038)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ WMD Intelligence and Information Sharing Act of 2013
 - 2013-07-22 — Mr. Meehan moved to suspend the rules and pass the bill.
 - 2013-07-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 3 (Roll no. 375). (text: CR H4837-4838)
 - 2013-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 3 (Roll no. 375).(text: CR H4837-4838)
+- 2013-07-23 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
