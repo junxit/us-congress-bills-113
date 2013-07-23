@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2353
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2353
@@ -25,9 +25,10 @@ To amend title 23, United States Code, with respect to the operation of vehicles
 - Rep. Duffy, Sean P. [R-WI-7] (D000614)
 - Rep. Pocan, Mark [D-WI-2] (P000607)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ To amend title 23, United States Code, with respect to the operation of vehicles
 - 2013-07-22 — Placed on the Union Calendar, Calendar No. 117.
 - 2013-07-22 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-162.
 - 2013-07-22 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-162.
+- 2013-07-23 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
