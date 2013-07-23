@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1411
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1411
@@ -20,9 +20,10 @@ California Coastal National Monument Expansion Act of 2013
 
 - Rep. Thompson, Mike [D-CA-5] (T000460)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ California Coastal National Monument Expansion Act of 2013
 - 2013-07-22 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2013-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4833-4834)
 - 2013-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4833-4834)
+- 2013-07-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
