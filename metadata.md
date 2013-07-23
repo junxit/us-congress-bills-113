@@ -1,7 +1,7 @@
 ---
 measure: H.R. 697
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 697
@@ -22,9 +22,10 @@ Three Kids Mine Remediation and Reclamation Act
 - Rep. Horsford, Steven [D-NV-4] (H001066)
 - Rep. Titus, Dina [D-NV-1] (T000468)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Three Kids Mine Remediation and Reclamation Act
 - 2013-07-22 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2013-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4831-4832)
 - 2013-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4831-4832)
+- 2013-07-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
