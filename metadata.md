@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2668
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2668
@@ -82,3 +82,6 @@ To delay the application of the individual health insurancemandate, to delay the
 - 2013-07-17 — The previous question was ordered without objection. (consideration: CR H4573)
 - 2013-07-17 — The resolution provides for consideration of H.R. 2667 and H.R. 2668 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit in each instance.
 - 2013-07-17 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used and a demand was made to have words taken down. Mr. Price (GA) asked unanimous consent to withdraw the words. Without objection the words were withdrawn. The House resumed with debate on H.R. 2668.
+- 2013-07-23 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2013-07-23 — Referred to the Subcommittee on Health.
+- 2013-07-24 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 145.
