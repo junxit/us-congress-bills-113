@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1911
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1911
@@ -64,13 +64,14 @@ Bipartisan Student Loan Certainty Act of 2013
 - House — Budget Committee
 - House — Education and the Workforce Committee
 
-## Recorded votes (5)
+## Recorded votes (6)
 
 - 2013-05-23 — [House 113-1-182](votes/house-113-1-0182.md) — On Motion to Recommit with Instructions — **Failed** (194–223)
 - 2013-05-23 — [House 113-1-183](votes/house-113-1-0183.md) — On Passage — **Passed** (221–198)
 - 2013-07-24 — [Senate 113-1-183](votes/senate-113-1-0183.md) — On the Amendment — **Amendment Rejected** (46–53)
 - 2013-07-24 — [Senate 113-1-184](votes/senate-113-1-0184.md) — On the Amendment — **Amendment Rejected** (34–65)
 - 2013-07-24 — [Senate 113-1-185](votes/senate-113-1-0185.md) — On Passage of the Bill — **Bill Passed** (81–18)
+- 2013-07-31 — [House 113-1-426](votes/house-113-1-0426.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (392–31)
 
 ## Actions
 
@@ -126,3 +127,16 @@ Bipartisan Student Loan Certainty Act of 2013
 - 2013-07-24 — Senate amendment submitted
 - 2013-07-24 — Senate amendment submitted
 - 2013-07-24 — Senate amendment submitted
+- 2013-07-31 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2013-07-31 — Considered as unfinished business. (consideration: CR H5240-5241)
+- 2013-07-31 — DEBATE - The House proceeded with forty minutes of debate on the motion to agree in the Senate amendment to H.R. 1911.
+- 2013-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-07-31 — Mr. Kline moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H5214-5221)
+- 2013-07-31 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 392 - 31 (Roll no. 426). (text as House agreed to Senate amendment: CR H5214-5215)
+- 2013-07-31 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 392 - 31 (Roll no. 426).(text as House agreed to Senate amendment: CR H5214-5215)
+- 2013-08-01 — Presented to President.
+- 2013-08-01 — Presented to President.
+- 2013-08-09 — Became Public Law No: 113-28.
+- 2013-08-09 — Became Public Law No: 113-28.
+- 2013-08-09 — Signed by President.
+- 2013-08-09 — Signed by President.

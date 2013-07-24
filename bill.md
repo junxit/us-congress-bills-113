@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1911
-congress: 113th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 1911
 
-That the bill from the House of Representatives (H.R. 1911) entitled “An Act to amend the Higher Education Act of 1965 to establish interest rates for new loans made on or after July 1, 2013, to direct the Secretary of Education to convene the Advisory Committee on Improving Postsecondary Education Data to conduct a study on improvements to postsecondary education transparency at the Federal level, and for other purposes.”, do pass with the following
-
-*Strike all after the first word and insert the following:*
+> To amend the Higher Education Act of 1965 to establish interest rates for new loans made on or after July 1, 2013, to direct the Secretary of Education to convene the Advisory Committee on Improving Postsecondary Education Data to conduct a study on improvements to postsecondary education transparency at the Federal level, and for other purposes.
 
 ## § 1. Short title
 
