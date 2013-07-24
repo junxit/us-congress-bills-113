@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5
@@ -31,10 +31,11 @@ Student Success Act
 - Rep. Messer, Luke [R-IN-6] (M001189)
 - Rep. Salmon, Matt [R-AZ-5] (S000018)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (8)
 
@@ -274,3 +275,4 @@ Student Success Act
 - 2013-07-19 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5.
 - 2013-07-19 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4813)
 - 2013-07-19 — The previous question was ordered pursuant to the rule. (consideration: CR H4808)
+- 2013-07-24 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
