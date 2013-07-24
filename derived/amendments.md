@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1911
 congress: 113
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -31,9 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `20 U.S.C. § 1087e` | insert | in the paragraph heading, by inserting “, and before July 1, 2013” after “2006”; | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 1087e` | insert | in subparagraph (A), by inserting “and before July 1, 2013,” after “2006,”; | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 1087e` | insert | in subparagraph (B), by inserting “and before July 1, 2013,” after “2006,”; and | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 1087e` | insert | in subparagraph (C), by inserting “and before July 1, 2013,” after “2006,”; | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1087e` | insert | in the paragraph heading, by inserting “and before July 1, 2013” after “on or after july 1, 2006”; | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1087e` | insert | in subparagraph (A), by inserting “and before July 1, 2013,” after “on or after July 1, 2006,”; | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1087e` | insert | in subparagraph (B), by inserting “and before July 1, 2013,” after “on or after July 1, 2006,”; and | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1087e` | insert | in subparagraph (C), by inserting “and before July 1, 2013,” after “on or after July 1, 2006,”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1087e` | redesignate | by redesignating paragraphs (8) and (9) as paragraphs (9) and (10), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1087e` | insert | by inserting after paragraph (7), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087e` | insert | by inserting after paragraph (7) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

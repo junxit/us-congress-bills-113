@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1911
 congress: 113
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1911
@@ -16,23 +16,61 @@ Bipartisan Student Loan Certainty Act of 2013
 
 - Rep. Kline, John [R-MN-2] (K000363)
 
-## Cosponsors (5)
+## Cosponsors (40)
 
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 - Rep. Roe, David P. [R-TN-1] (R000582)
 - Rep. Griffin, Tim [R-AR-2] (G000567)
 - Rep. Messer, Luke [R-IN-6] (M001189)
 - Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (2)
 
 - House — Budget Committee
 - House — Education and the Workforce Committee
 
-## Recorded votes (2)
+## Recorded votes (5)
 
 - 2013-05-23 — [House 113-1-182](votes/house-113-1-0182.md) — On Motion to Recommit with Instructions — **Failed** (194–223)
 - 2013-05-23 — [House 113-1-183](votes/house-113-1-0183.md) — On Passage — **Passed** (221–198)
+- 2013-07-24 — [Senate 113-1-183](votes/senate-113-1-0183.md) — On the Amendment — **Amendment Rejected** (46–53)
+- 2013-07-24 — [Senate 113-1-184](votes/senate-113-1-0184.md) — On the Amendment — **Amendment Rejected** (34–65)
+- 2013-07-24 — [Senate 113-1-185](votes/senate-113-1-0185.md) — On Passage of the Bill — **Bill Passed** (81–18)
 
 ## Actions
 
@@ -64,3 +102,27 @@ Bipartisan Student Loan Certainty Act of 2013
 - 2013-06-03 — Received in the Senate.
 - 2013-07-17 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2013-07-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 139.
+- 2013-07-23 — Senate amendment submitted
+- 2013-07-24 — Amendment SA 1773 agreed to in Senate by Voice Vote.
+- 2013-07-24 — Amendment SA 1773 proposed by Senator Harkin for Senator Manchin. (consideration: CR S5866, S5893-5894; text: CR S5866) To establish student loan interest rates, and for other purposes.
+- 2013-07-24 — Amendment SA 1774 proposed by Senator Sanders to Amendment SA 1773. (consideration: CR S5866-5870, S5892-5893; text: CR S5867) To provide a sunset date.
+- 2013-07-24 — Amendment SA 1774, under the order of 7/23/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 34 - 65. Record Vote Number: 184.
+- 2013-07-24 — Amendment SA 1778 proposed by Senator Reed to Amendment SA 1773. (consideration: CR S5870-5874, S5891-5892; text: CR S5870) To provide for interest rate caps for certain Federal student loans.
+- 2013-07-24 — Amendment SA 1778, under the order of 7/23/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 183.
+- 2013-07-24 — Measure laid before Senate by unanimous consent. (consideration: CR S5863-5894)
+- 2013-07-24 — Message on Senate action sent to the House.
+- 2013-07-24 — Passed Senate, under the order of 7/23/2013, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 81 - 18. Record Vote Number: 185. (text: CR S5894)
+- 2013-07-24 — Passed/agreed to in Senate: Passed Senate, under the order of 7/23/2013, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 81 - 18. Record Vote Number: 185.(text: CR S5894)
+- 2013-07-24 — Roll call votes on amendments in Senate: Amendment SA 1774, under the order of 7/23/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 34 - 65. Record Vote Number: 184.
+- 2013-07-24 — Roll call votes on amendments in Senate: Amendment SA 1778, under the order of 7/23/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 183.
+- 2013-07-24 — Senate amendment agreed to: Amendment SA 1773 agreed to in Senate by Voice Vote.
+- 2013-07-24 — Senate amendment not agreed to: Amendment SA 1774, under the order of 7/23/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 34 - 65. Record Vote Number: 184.
+- 2013-07-24 — Senate amendment not agreed to: Amendment SA 1774, under the order of 7/23/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 34 - 65. Record Vote Number: 184.
+- 2013-07-24 — Senate amendment not agreed to: Amendment SA 1778, under the order of 7/23/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 183.
+- 2013-07-24 — Senate amendment proposed (on the floor): Amendment SA 1773 proposed by Senator Harkin for Senator Manchin.(consideration: CR S5866, S5893-5894; text: CR S5866)
+- 2013-07-24 — Senate amendment proposed (on the floor): Amendment SA 1774 proposed by Senator Sanders to Amendment SA 1773.(consideration: CR S5866-5870, S5892-5893; text: CR S5867)
+- 2013-07-24 — Senate amendment proposed (on the floor): Amendment SA 1774 proposed by Senator Sanders to Amendment SA 1773.(consideration: CR S5866-5870, S5892-5893; text: CR S5867)
+- 2013-07-24 — Senate amendment proposed (on the floor): Amendment SA 1778 proposed by Senator Reed to Amendment SA 1773.(consideration: CR S5870-5874, S5891-5892; text: CR S5870)
+- 2013-07-24 — Senate amendment submitted
+- 2013-07-24 — Senate amendment submitted
+- 2013-07-24 — Senate amendment submitted
