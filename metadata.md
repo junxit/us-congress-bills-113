@@ -1,7 +1,7 @@
 ---
 measure: S. 1294
 congress: 113
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 1294
@@ -20,11 +20,15 @@ Tennessee Wilderness Act
 
 - Sen. Corker, Bob [R-TN] (C001071)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
 - 2013-07-15 — Introduced in Senate
 - 2013-07-15 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-07-24 — Referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2013-07-24 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2013-07-24 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
