@@ -1,7 +1,7 @@
 ---
 measure: S. 960
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -44,7 +44,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `22 U.S.C. § 2151` | insert | by inserting “(A)” after “(1)”; and | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 2151` | redesignate | by redesignating paragraphs (2) and (3) as subparagraphs (B) and (C), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2151` | redesignate | in subparagraph (C), as redesignated by subparagraph (B) of this paragraph, by striking the comma at the end and inserting the following: “or; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2151` | redesignate | in subparagraph (C), as redesignated by subparagraph (B) of this paragraph, by striking the comma at the end and inserting the following: “; or | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2151` | insert | in paragraph (1), by inserting “(A)” after “(1)”; | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 2151` | redesignate | by redesignating paragraphs (2), (3), and (4) as subparagraphs (B), (C), and (D), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2151` | redesignate | in subparagraph (D), as redesignated by subparagraph (B), by striking the period at the end and inserting the following: “or; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2151` | redesignate | in subparagraph (D), as redesignated by subparagraph (B), by striking the period at the end and inserting the following: “; or | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
