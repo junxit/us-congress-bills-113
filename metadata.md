@@ -1,7 +1,7 @@
 ---
 measure: S. 375
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 375
@@ -16,7 +16,7 @@ Senate Campaign Disclosure Parity Act
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (24)
+## Cosponsors (34)
 
 - Sen. Cochran, Thad [R-MS] (C000567)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -42,6 +42,16 @@ Senate Campaign Disclosure Parity Act
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. Baucus, Max [D-MT] (B000243)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Johnson, Tim [D-SD] (J000177)
 
 ## Committees (1)
 
@@ -51,3 +61,7 @@ Senate Campaign Disclosure Parity Act
 
 - 2013-02-25 — Introduced in Senate
 - 2013-02-25 — Read twice and referred to the Committee on Rules and Administration.
+- 2013-07-24 — Committee on Rules and Administration. Ordered to be reported without amendment favorably.
+- 2013-07-24 — Committee on Rules and Administration. Reported by Senator Schumer without amendment. Without written report.
+- 2013-07-24 — Committee on Rules and Administration. Reported by Senator Schumer without amendment. Without written report.
+- 2013-07-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 148.
