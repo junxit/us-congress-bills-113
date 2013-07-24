@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1961
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1961
@@ -16,11 +16,30 @@ To amend title 46, United States Code, to extend the exemption from the fire-ret
 
 - Rep. Chabot, Steve [R-OH-1] (C000266)
 
-## Cosponsors (3)
+## Cosponsors (22)
 
 - Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
 - Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
 - Rep. Massie, Thomas [R-KY-4] (M001184)
+- Rep. Whitfield, Ed [R-KY-1] (W000413)
+- Rep. McKinley, David B. [R-WV-1] (M001180)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Enyart, William L. [D-IL-12] (E000292)
+- Rep. Turner, Michael R. [R-OH-10] (T000463)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Fudge, Marcia L. [D-OH-11] (F000455)
+- Rep. Gibbs, Bob [R-OH-7] (G000563)
+- Rep. Renacci, James B. [R-OH-16] (R000586)
+- Rep. Richmond, Cedric L. [D-LA-2] (R000588)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Beatty, Joyce [D-OH-3] (B001281)
 
 ## Committees (1)
 
@@ -31,3 +50,10 @@ To amend title 46, United States Code, to extend the exemption from the fire-ret
 - 2013-05-14 — Introduced in House
 - 2013-05-14 — Introduced in House
 - 2013-05-14 — Referred to the House Committee on Transportation and Infrastructure.
+- 2013-05-15 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2013-07-18 — Committee Consideration and Mark-up Session Held.
+- 2013-07-18 — Ordered to be Reported by Voice Vote.
+- 2013-07-18 — Subcommittee on Coast Guard and Maritime Transportation Discharged.
+- 2013-07-24 — Placed on the Union Calendar, Calendar No. 127.
+- 2013-07-24 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-175.
+- 2013-07-24 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-175.
