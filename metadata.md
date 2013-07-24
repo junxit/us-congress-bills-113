@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 156
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 156
@@ -24,3 +24,7 @@ A resolution expressing the sense of the Senate on the 10-year anniversary of NA
 
 - 2013-05-23 — Introduced in Senate
 - 2013-05-23 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S3864-3865)
+- 2013-07-23 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2013-07-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2013-07-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2013-07-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 146.

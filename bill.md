@@ -27,6 +27,22 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas, through the Alliance, the United States and Europe are effective and steadfast partners in security, and ACT is well positioned to contribute to the strength of the Alliance on both continents;
 - Whereas NATO ACT has done much to help NATO meet the global challenges of the 21st century, including the threat of terrorism, the spread of weapons of mass destruction, instability caused by failed states, and threats to global energy security; and
 - Whereas the 10th anniversary of NATO ACT is an opportunity to enhance and more deeply entrench those principles, which continue to bind the alliance together and guide our efforts today: Now, therefore, be it
+- Whereas, on June 19, 2003, NATO’s Allied Command Transformation (ACT), was formally established to increase military effectiveness and prepare the Alliance for future security challenges;
+- Whereas, on June 19, 2013, the North Atlantic Treaty Organization (NATO) will celebrate the 10-year anniversary of the establishment of NATO ACT;
+- Whereas the security of the United States and its NATO allies have been enhanced by the establishment and continued work of NATO ACT;
+- Whereas, for the past 10 years, ACT has been leading NATO's military transformation, and providing relevant and timely support to NATO operations, while developing partnerships around the globe to adapt to the changing global security environment;
+- Whereas ACT is the only NATO headquarters in the United States, and the only permanent NATO headquarters outside of Europe;
+- Whereas ACT provides state of the art education, training, and application of best practices and lessons learned from past operations, and equips Alliance troops with the tools they need to win today’s wars;
+- Whereas ACT improves NATO’s defense planning and develops compatible equipment and common standards necessary to keep Alliance capabilities aligned;
+- Whereas NATO ACT has been integral to a NATO mission of promoting a Europe that is whole, undivided, free, and at peace;
+- Whereas NATO ACT strengthened the ability of NATO to perform a full range of missions throughout the world;
+- Whereas NATO ACT has provided crucial support and participation in the NATO International Security Assistance Force in Afghanistan, as NATO endeavors to help the people of Afghanistan create the conditions necessary for security and successful development and reconstruction;
+- Whereas ACT employs personnel from 26 of the 28 NATO member nations and six of the 41 NATO Partner nations and contributes more than $100,000,000 annually to the local economy;
+- Whereas NATO has been the cornerstone of transatlantic security cooperation and an enduring instrument for promoting stability in Europe and throughout the world for over 60 years, representing the vital transatlantic bond of solidarity between the United States and Europe, as NATO nations share similar values and interests and are committed to the maintenance of democratic principles;
+- Whereas the Chicago Summit Communique affirms that all NATO members “are determined that NATO will continue to play its unique and essential role in ensuring our common defense and security” and that NATO “continues to be effective in a changing world, against new threats, with new capabilities and new partners”;
+- Whereas, through the Alliance, the United States and Europe are effective and steadfast partners in security, and ACT is well positioned to contribute to the strength of the Alliance on both continents;
+- Whereas NATO ACT has done much to help NATO meet the global challenges of the 21st century, including the threat of terrorism, the spread of weapons of mass destruction, instability caused by failed states, and threats to global energy security; and
+- Whereas the 10th anniversary of NATO ACT is an opportunity to enhance and more deeply entrench those principles, which continue to bind the alliance together and guide our efforts today: Now, therefore, be it
 
 That the Senate—
 
