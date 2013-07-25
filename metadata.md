@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2218
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2218
@@ -77,6 +77,13 @@ Coal Residuals Reuse and Management Act of 2013
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (4)
+
+- 2013-07-25 — [House 113-1-415](votes/house-113-1-0415.md) — On Agreeing to the Amendment — **Failed** (185–231)
+- 2013-07-25 — [House 113-1-416](votes/house-113-1-0416.md) — On Agreeing to the Amendment — **Failed** (176–239)
+- 2013-07-25 — [House 113-1-417](votes/house-113-1-0417.md) — On Motion to Recommit with Instructions — **Failed** (192–225)
+- 2013-07-25 — [House 113-1-418](votes/house-113-1-0418.md) — On Passage — **Passed** (265–155)
+
 ## Actions
 
 - 2013-04-11 — Hearings Held by the Subcommittee on Environment and the Economy Prior to Introduction and Referral.
@@ -92,3 +99,47 @@ Coal Residuals Reuse and Management Act of 2013
 - 2013-07-10 — Placed on the Union Calendar, Calendar No. 107.
 - 2013-07-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-148.
 - 2013-07-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-148.
+- 2013-07-23 — Rules Committee Resolution H. Res. 315 Reported to House. Rule provides for consideration of H.R. 2218 and H.R. 1582.
+- 2013-07-25 — Amendment (A001) offered by Mr. Connolly. (consideration: CR H5065-5066; text: CR H5065)
+- 2013-07-25 — Amendment (A002) offered by Mr. Waxman. (consideration: CR H5066-5067, H5068-5069; text: CR H5066)
+- 2013-07-25 — Amendment (A003) offered by Mr. Tonko. (consideration: CR H5067-5068, H5069-5070; text: CR H5067)
+- 2013-07-25 — Amendment agreed to Committee of the Whole
+- 2013-07-25 — Amendment failed in Committee of the Whole
+- 2013-07-25 — Amendment failed in Committee of the Whole
+- 2013-07-25 — Considered under the provisions of rule H. Res. 315. (consideration: CR H5055-5072)
+- 2013-07-25 — DEBATE - Pursuant to the provisions of H. Res. 315, the Committee of the Whole proceeded with 10 minutes of debate on the Tonko Part A Amendment No. 3.
+- 2013-07-25 — DEBATE - Pursuant to the provisions of H. Res. 315, the Committee of the Whole proceeded with 10 minutes of debate on the Waxman Part A Amendment No. 2.
+- 2013-07-25 — DEBATE - Pursuant to the provisions of H.Res. 315, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly Part A Amendment No. 1.
+- 2013-07-25 — DEBATE - The House proeeded with 10 minutes of debate on the McCollum motion to recommit with instructions. The instructions contained in the motion to seek to require the bill to be reported back to the House with an amendment to require that the implementing agency of any coal ash permit granted under the bill ensure that all wet disposal structures meet criteria for design, construction, operation, and maintenance sufficient to prevent contamination of groundwater and sources of drinking water, including the Great Lakes pending reservation of a point of order. Subsequently, the reservation was removed.
+- 2013-07-25 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2218.
+- 2013-07-25 — House amendment agreed to: On agreeing to the Connolly amendment (A001) Agreed to by voice vote.
+- 2013-07-25 — House amendment not agreed to: On agreeing to the Tonko amendment (A003) Failed by recorded vote: 176 - 239 (Roll no. 416).
+- 2013-07-25 — House amendment not agreed to: On agreeing to the Waxman amendment (A002) Failed by recorded vote: 185 - 231 (Roll no. 415).
+- 2013-07-25 — House amendment offered
+- 2013-07-25 — House amendment offered
+- 2013-07-25 — House amendment offered
+- 2013-07-25 — House amendment offered/reported by: Amendment (A001) offered by Mr. Connolly.(consideration: CR H5065-5066; text: CR H5065)
+- 2013-07-25 — House amendment offered/reported by: Amendment (A002) offered by Mr. Waxman.(consideration: CR H5066-5067, H5068-5069; text: CR H5066)
+- 2013-07-25 — House amendment offered/reported by: Amendment (A003) offered by Mr. Tonko.(consideration: CR H5067-5068, H5069-5070; text: CR H5067)
+- 2013-07-25 — House amendment offered/reported by: Amendment (A003) offered by Mr. Tonko.(consideration: CR H5067-5068, H5069-5070; text: CR H5067)
+- 2013-07-25 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 315 and Rule XVIII.
+- 2013-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-07-25 — Ms. McCollum moved to recommit with instructions to Energy and Commerce. (consideration: CR H5070; text: CR H5070)
+- 2013-07-25 — On agreeing to the Connolly amendment (A001) Agreed to by voice vote.
+- 2013-07-25 — On agreeing to the Tonko amendment (A003) Failed by recorded vote: 176 - 239 (Roll no. 416).
+- 2013-07-25 — On agreeing to the Waxman amendment (A002) Failed by recorded vote: 185 - 231 (Roll no. 415).
+- 2013-07-25 — On motion to recommit with instructions Failed by recorded vote: 192 - 225, 1 Present (Roll no. 417). (consideration: CR H5071)
+- 2013-07-25 — On passage Passed by recorded vote: 265 - 155 (Roll no. 418).
+- 2013-07-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Tonko Part A Amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Tonko demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-07-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Waxman Part A Amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Waxman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-07-25 — Passed/agreed to in House: On passage Passed by recorded vote: 265 - 155 (Roll no. 418).
+- 2013-07-25 — Roll call votes on amendments in House
+- 2013-07-25 — Roll call votes on amendments in House
+- 2013-07-25 — Roll call votes on amendments in House
+- 2013-07-25 — Rule provides for consideration of H.R. 2218 and H.R. 1582.
+- 2013-07-25 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H5061-5065)
+- 2013-07-25 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2218.
+- 2013-07-25 — The Speaker designated the Honorable Rob Bishop to act as Chairman of the Committee.
+- 2013-07-25 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5071)
+- 2013-07-25 — The previous question was ordered pursuant to the rule. (consideration: CR H5070)
+- 2013-07-25 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoptopn of amendments which were debated earlier and on which further proceedings were postponed.

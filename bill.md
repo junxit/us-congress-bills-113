@@ -33,8 +33,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >         - **(III)** public participation process for the promulgation, amendment, or repeal of regulations for, and the issuance of permits under, such permit program;
   >         - **(IV)** statutes, regulations, or policies pertaining to public access to information, such as groundwater monitoring data; and
   >         - **(V)** statutes, regulations, or policies pertaining to structural integrity or dam safety that may be applied to structures through such permit program;
-  >       - **(iv)** a certification that the State has in effect, at the time of certification, statutes or regulations necessary to implement a coal combustion residuals permit program that meets the requirements described in subsection (c); and
-  >       - **(v)** copies of State statutes and regulations described in clause (iv).
+  >       - **(iv)** a certification that the State has in effect, at the time of certification, statutes or regulations necessary to implement a coal combustion residuals permit program that meets the requirements described in subsection (c);
+  >       - **(v)** copies of State statutes and regulations described in clause (iv); and
+  >       - **(vi)** an emergency action plan for State response to a leak or spill at a structure that receives coal combustion residuals.
   >     - **(C)** *Updates* A State may update the certification as needed to reflect changes to the coal combustion residuals permit program.
   >   - **(3)** *Maintenance of 4005(c) or 3006 program* In order to adopt or implement a coal combustion residuals permit program under this section (including pursuant to subsection (f)), the State implementing agency shall maintain an approved permit program or other system of prior approval and conditions under section 4005(c) or an authorized program under section 3006.
   > - **(c)** *Requirements for a coal combustion residuals permit program* A coal combustion residuals permit program shall consist of the following:
