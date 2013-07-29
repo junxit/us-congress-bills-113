@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 167
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 167
@@ -36,3 +36,11 @@ A resolution reaffirming the strong support of the United States for the peacefu
 - 2013-06-25 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2013-06-25 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2013-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 97.
+- 2013-07-29 — Amendment SA 1819 agreed to in Senate by Unanimous Consent.
+- 2013-07-29 — Amendment SA 1819 proposed by Senator Reid for Senator Feinstein. (consideration: CR S6026; text: CR S6026) To amend the preamble.
+- 2013-07-29 — Measure laid before Senate by unanimous consent. (consideration: CR S6026-6027)
+- 2013-07-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(text: CR S6026-6027)
+- 2013-07-29 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR S6026-6027)
+- 2013-07-29 — Senate amendment agreed to: Amendment SA 1819 agreed to in Senate by Unanimous Consent.
+- 2013-07-29 — Senate amendment proposed (on the floor): Amendment SA 1819 proposed by Senator Reid for Senator Feinstein.(consideration: CR S6026; text: CR S6026)
+- 2013-07-29 — Senate amendment submitted
