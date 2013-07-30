@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2218
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2218
@@ -143,3 +143,5 @@ Coal Residuals Reuse and Management Act of 2013
 - 2013-07-25 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5071)
 - 2013-07-25 — The previous question was ordered pursuant to the rule. (consideration: CR H5070)
 - 2013-07-25 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoptopn of amendments which were debated earlier and on which further proceedings were postponed.
+- 2013-07-29 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2013-07-30 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 153.
