@@ -15,5 +15,5 @@ This Act may be cited as the “Citizen Empowerment Act”.
 
 ## § 2. Amendments
 
-- **(a)** *In general* Part III of title 5, United States Code, is amended by inserting after chapter 79 the following:
-- **(b)** *Clerical amendment* The analysis for part III of title 5, United States Code, is amended by inserting after the item relating to chapter 79 the following:
+- **(a)** *In general* Part III of title 5, United States Code, is amended by inserting after chapter 79, the following:
+- **(b)** *Clerical Amendment* The analysis for part III of title 5, United States Code, is amended by inserting after the item relating to chapter 79 the following:

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2711
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `18 U.S.C. § 2511` | insert | Part III of title 5, United States Code, is amended by inserting after chapter 79 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 2511` | insert | The analysis for part III of title 5, United States Code, is amended by inserting after the item relating to chapter 79 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Part III of title 5, United States Code, is amended by inserting after chapter 79, the following: | the bill names no machine-readable US Code section |
+| — | insert | The analysis for part III of title 5, United States Code, is amended by inserting after the item relating to chapter 79 the following: | the bill names no machine-readable US Code section |
