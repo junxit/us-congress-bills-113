@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2397
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2397
@@ -16,9 +16,10 @@ Department of Defense Appropriations Act, 2014
 
 - Rep. Young, C. W. Bill [R-FL-13] (Y000031)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (34)
 
@@ -644,3 +645,4 @@ Department of Defense Appropriations Act, 2014
 - 2013-07-24 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments which had been debated and on which further proceedings had been postponed.
 - 2013-07-24 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2013-07-24 — WITHDRAWING DEMAND FOR RECORDED VOTE - Mr. Terry asked unanimous consent to withdraw his demand for a recorded vote on the Terry amendment No. 24 and that the amendment be considered as adopted pursuant to the earlier voice vote thereon. Agreed to without objection.
+- 2013-07-30 — Received in the Senate and Read twice and referred to the Committee on Appropriations.

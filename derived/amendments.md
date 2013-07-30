@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2397
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `10 U.S.C. § 2401a` | strike | Section 8159(c) of the Department of Defense Appropriations Act, 2002 (division A of Public Law 107–117, 10 U.S.C. 2401a note) is amended by striking paragraph (7). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | Section 8159(c) of the Department of Defense Appropriations Act, 2002 (division A of Public Law 107–117, 10 U.S.C. 2401a note) is amended by striking paragraph (7). | the bill names no machine-readable US Code section |
