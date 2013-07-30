@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2754
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2754
@@ -33,3 +33,10 @@ Collectible Coin Protection Act
 - 2013-07-19 — Introduced in House
 - 2013-07-19 — Introduced in House
 - 2013-07-19 — Referred to the House Committee on Energy and Commerce.
+- 2013-07-26 — Referred to the Subcommittee on Commerce, Manufacturing, and Trade.
+- 2013-07-30 — Considered under suspension of the rules. (consideration: CR H5147-5148)
+- 2013-07-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2754.
+- 2013-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-07-30 — Mr. Burgess moved to suspend the rules and pass the bill.
+- 2013-07-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5147)
+- 2013-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5147)

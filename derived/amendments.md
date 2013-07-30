@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2754
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -62,5 +62,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `15 U.S.C. § 2101` | insert | in subsection (b), by inserting “, or the sale in commerce” after “distribution in commerce”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 2101` | redesignate | by redesignating subsection (d) as subsection (e) and inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 1391` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1116` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1051` | add-at-end | in section 7, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
