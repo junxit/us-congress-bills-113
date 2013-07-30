@@ -26,9 +26,9 @@ This Act may be cited as the “Government Spending Accountability Act of 2013�
   >     - **(A)** *In general* Except as provided in subparagraph (B), an agency may not expend more than $500,000 to support a single conference.
   >     - **(B)** *Exception* The head of an agency may waive the limitation in subparagraph (A) for a specific conference after making a determination that the expenditure is justified as the most cost-effective option to achieve a compelling purpose. The head of an agency shall submit to the appropriate congressional committees a report on any waiver granted under this subparagraph, including the justification for such waiver.
   >     - **(C)** *Rule of construction* Nothing in this paragraph shall be construed to preclude an agency from receiving financial support or other assistance from a private entity to pay or defray the costs of a conference the total cost of which exceeds $500,000.
-  > - **(b)** *International conference rule* An agency may not pay the travel expenses for more than 50 employees of that agency who are stationed in the United States, for any international conference, unless the Secretary of State determines that attendance for such employees is in the national interest.
-  > - **(c)** *Report on travel expenses required* At the beginning of each quarter of each fiscal year, each agency shall post on the public website of that agency a report on each conference for which the agency paid travel expenses during the preceding 3 months that includes—
-  >   - **(1)** the itemized expenses paid by the agency, including travel expenses, and any agency expenditures to otherwise support the conference;
+  > - **(b)** *International conference rule* An agency may not pay the travel expenses for more than 50 employees of that agency who are stationed in the United States, for any international conference, unless the Secretary of State determines that attendance for such employees is in the national interest, or the head of the agency determines that attendance for such employees is critical to the agency’s mission. The Secretary of State and the head of an agency shall submit to the appropriate congressional committees a report on any waiver granted under this subsection, including the justification for such waiver.
+  > - **(c)** *Reporting on travel and conference expenses required* At the beginning of each quarter of each fiscal year, each agency shall post on the public website of that agency a report on each conference that costs more than $10,000 for which the agency paid travel expenses during the preceding 3 months that includes—
+  >   - **(1)** the itemized expenses paid by the agency, including travel, lodging, and meal expenses, and any other agency expenditures to otherwise support the conference;
   >   - **(2)** the primary sponsor of the conference;
   >   - **(3)** the location of the conference;
   >   - **(4)** the date of the conference;
@@ -41,12 +41,12 @@ This Act may be cited as the “Government Spending Accountability Act of 2013�
   >     - **(C)** demonstrates the cost efficiency of the location;
   >     - **(D)** provides a cost benefit analysis of holding a conference rather than conducting a teleconference; and
   >     - **(E)** describes any financial support or other assistance from a private entity used to pay or defray the costs of the conference, and for each case where such support or assistance was used, the head of the agency shall include a certification that there is no conflict of interest resulting from such support or assistance.
-  > - **(d)** *Format and publication of report* Each report posted on the public website under subsection (c) shall—
+  > - **(d)** *Format and publication of reports* Each report posted on the public website under subsection (c) shall—
   >   - **(1)** be in a searchable electronic format; and
   >   - **(2)** remain on that website for at least 5 years after the date of posting.
   > - **(e)** *Definitions* In this section:
   >   - **(1)** *Agency* The term agency has the meaning given that term under section 5701, but does not include the government of the District of Columbia.
-  >   - **(2)** *Conference* The term conference means a meeting, retreat, seminar, symposium, or event to which an employee travels 25 miles or more to attend, that—
+  >   - **(2)** *Conference* The term conference means a meeting, retreat, seminar, symposium, or event that—
   >     - **(A)** is held for consultation, education, discussion, or training; and
   >     - **(B)** is not held entirely at a Government facility.
   >   - **(3)** *International conference* The term international conference means a conference occurring outside the United States attended by representatives of—

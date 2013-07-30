@@ -1,7 +1,7 @@
 ---
 measure: H.R. 313
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Chapter 57 of title 5, United States Code, is amended by inserting after section 5711 the following: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections for chapter 57 of title 5, United States Code, is amended by inserting after the item relating to section 5711 the following: | the bill names no machine-readable US Code section |
+| `5 U.S.C. § 5711` | insert | Chapter 57 of title 5, United States Code, is amended by inserting after section 5711 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 5711` | insert | The table of sections for chapter 57 of title 5, United States Code, is amended by inserting after the item relating to section 5711 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
