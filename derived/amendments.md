@@ -1,7 +1,7 @@
 ---
 measure: H.R. 850
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-104 amendatory instructions. 31 executed, 73 stated and not applied.
+101 amendatory instructions. 32 executed, 69 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,21 +53,12 @@ to guess them.
 
 ### 50 U.S.C. § 1701
 
-> by striking “and” at the end and inserting “or”; and
+> Section 5 of such Act is amended in subsection (b)(3), (c), and (f) by striking “paragraph (1) or (2)” each place it appears and inserting “paragraph (1), (2), or (3)”.
 
 | | |
 |---|---|
-| Removed | `and` |
-| Inserted | `or` |
-
-### 50 U.S.C. § 1701
-
-> Section 5(a)(7) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note) is amended in the paragraph heading by striking “from iran” and inserting “from iran and certain imports and exports to and from iran”.
-
-| | |
-|---|---|
-| Removed | `from iran` |
-| Inserted | `from iran and certain imports and exports to and from iran` |
+| Removed | `paragraph (1) or (2)` |
+| Inserted | `paragraph (1), (2), or (3)` |
 
 ### 22 U.S.C. § 8515
 
@@ -294,6 +285,24 @@ to guess them.
 | Removed | `(a) imposition of sanctions.—” and all that follows through “Except as provided` |
 | Inserted | `(a) imposition of sanctions.—Except as provided` |
 
+### 33 U.S.C. § 1232
+
+> Section 13(e) of the Ports and Waterways Safety Act (33 U.S.C. 1232(e)) is amended by striking “section 9” and inserting “sections 9 and 16”.
+
+| | |
+|---|---|
+| Removed | `section 9` |
+| Inserted | `sections 9 and 16` |
+
+### 33 U.S.C. § 1223
+
+> Section 4(b)(2) of the Ports and Waterways Safety Act (33 U.S.C. 1223(b)(2)) is amended by striking “section 9” and inserting “section 9 or 16”.
+
+| | |
+|---|---|
+| Removed | `section 9` |
+| Inserted | `section 9 or 16` |
+
 ### 50 U.S.C. § 1701
 
 > Section 14(4)(B) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note) is amended by striking “may include, in the discretion of the President” and inserting “includes”.
@@ -319,7 +328,7 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 8542` | replace | in paragraph (2), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 8542` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 8543` | replace | by striking “Not later than” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 8543` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 8741` | redesignate | by redesignating section 304 as section 305; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1189` | insert | by inserting after section 303 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 8741` | replace | The table of contents for the Iran Threat Reduction and Syria Human Rights Act of 2012 is amended by striking the item relating to section 304 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -331,13 +340,9 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 8514` | replace | by striking “Iran.” and inserting | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 8514` | replace | by striking “For any such person” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 8514` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | add-at-end | Section 401 of the Iran Threat Reduction and Syria Human Rights Act of 2012 (Public Law 112–158; 126 Stat. 1251), as amended by this section, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 8514` | replace | The table of contents for the Iran Threat Reduction and Syria Human Rights Act of 2012 is amended by striking the item relating to section 401 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1701` | replace | by striking “a vessel that, on or after” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 1701` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1701` | replace | in clause (ii), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `50 U.S.C. § 1701` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1701` | add-at-end | Section 5(b)(2) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1701` | add-at-end | Section 5(b) of such Act is amended in the heading for paragraph (2) by adding at the end before the period the following: “and other related activities”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | add-at-end | Section 5(b) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | strike | by striking subparagraph (B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | redesignate | by redesignating subparagraph (C) as subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | strike | by striking “or (B)” each place it appears; and | the bill quotes the text struck but describes what replaces it |
@@ -349,8 +354,8 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 8515` | insert | The heading of such section is amended by inserting “and imposition of sanctions against” after “with”. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 8515` | replace | The table of contents for the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 is amended by striking the item relating to section 106 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 8532` | replace | Section 202 of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8532) is amended by striking subsections (a), (b), and (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 8532` | redesignate | by striking subsections (g) and (h) and by redesignating subsections (i) and (j) as subsections (g) and (h), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 8532` | redesignate | in paragraph (1) of subsection (g), as redesignated by paragraph (3), by striking “(determined without regard to subsection (c))”. | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 8532` | redesignate | by striking subsection (h) and by redesignating subsections (i) and (j) as subsections (h) and (i), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 8532` | redesignate | in paragraph (1) of subsection (i) (as redesignated by paragraph (3) of this subsection), by striking “(determined without regard to subsection (c))”. | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 8721` | insert | Subtitle B of title II of the Iran Threat Reduction and Syria Human Rights Act of 2012 (22 U.S.C. 8721 et seq.) is amended by inserting after section 220 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 8781` | insert | Section 601(a)(1) of the Iran Threat Reduction and Syria Human Rights Act of 2012 (22 U.S.C. 8781(a)(1)) is amended by inserting “220A,” after “220,”. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 8785` | insert | Section 605(a) of such Act (22 U.S.C. 8785(a)) is amended by inserting “220A,” after “220,”. | the bill quotes the text inserted but describes where it goes |
@@ -381,7 +386,7 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 8801` | strike | by striking “(2) exception.—” and all that follows through “paragraph (1).”; and | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 8801` | redesignate | by redesignating subparagraphs (A), (B), and (C) as paragraphs (1), (2), and (3), respectively (and by redesignating all sub-units therein accordingly); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 8801` | strike | by striking “(2) exception.—” and all that follows through “paragraph (1).”; and | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 1221` | add-at-end | The Ports and Waterways Safety Act (33 U.S.C. 1221 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1221` | add-at-end | The Ports and Waters Safety Act (33 U.S.C. 1221 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 8753` | redesignate | by redesignating subsection (e) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 8753` | insert | by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 8721` | add-at-end | Section 211 of the Iran Threat Reduction and Syria Human Rights Act of 2012 (22 U.S.C. 8721) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

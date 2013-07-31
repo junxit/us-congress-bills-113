@@ -1,7 +1,7 @@
 ---
 measure: H.R. 850
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 850
@@ -405,6 +405,10 @@ Nuclear Iran Prevention Act of 2013
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
 
+## Recorded votes (1)
+
+- 2013-07-31 — [House 113-1-427](votes/house-113-1-0427.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (400–20)
+
 ## Actions
 
 - 2013-02-27 — Introduced in House
@@ -429,3 +433,11 @@ Nuclear Iran Prevention Act of 2013
 - 2013-07-30 — Placed on the Union Calendar, Calendar No. 128.
 - 2013-07-30 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 113-177, Part I.
 - 2013-07-30 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 113-177, Part I.
+- 2013-07-31 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-07-31 — Considered as unfinished business. (consideration: CR H5241-5242)
+- 2013-07-31 — Considered under suspension of the rules. (consideration: CR H5221-5240)
+- 2013-07-31 — DEBATE - The House proceeded with forty minutes of debate on H.R. 850.
+- 2013-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-07-31 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
+- 2013-07-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 20, 1 Present (Roll no. 427). (text: CR H5221-5230)
+- 2013-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 20, 1 Present (Roll no. 427).(text: CR H5221-5230)
