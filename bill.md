@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Government Employee Accountability Act”.
 
-## § 2. Suspension for 14 days or less for senior executive service employees
+## § 2. Suspension for 14 days or less for Senior Executive Service employees
 
 Paragraph (1) of section 7501 of title 5, United States Code, is amended to read as follows:
 
@@ -21,12 +21,12 @@ Paragraph (1) of section 7501 of title 5, United States Code, is amended to read
 >   - **(A)** an individual in the competitive service who is not serving a probationary or trial period under an initial appointment or who has completed 1 year of current continuous employment in the same or similar positions under other than a temporary appointment limited to 1 year or less; or
 >   - **(B)** a career appointee in the Senior Executive Service who—
 >     - **(i)** has completed the probationary period prescribed under section 3393(d); or
->     - **(ii)** was covered by the provisions of subchapter II of this chapter immediately before appointment to the Senior Executive Service;
+>     - **(ii)** was covered by the provisions of subchapter II of this chapter immediately before appointment to the Senior Executive Service; and
 
 ## § 3. Investigative leave and termination authority for Senior Executive Service employees
 
 - **(a)** *In general* Chapter 75 of title 5, United States Code, is amended by adding at the end the following:
-- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 75 of title 5, United States Code, is amended by adding after the item relating to section 7543 the following:
+- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 75 of title 5, United States Code, is amended by adding at the end the following:
 
 ## § 4. Suspension of Senior Executive Service employees
 
@@ -36,7 +36,7 @@ Section 7543 of title 5, United States Code, is amended—
 - **(2)** in subsection (b), by amending paragraph (1) to read as follows:
   > - **(1)** at least 30 days’ advance written notice, stating specific reasons for the proposed action, unless—
   >   - **(A)** there is reasonable cause to believe that the employee has committed a crime for which a sentence of imprisonment can be imposed; or
-  >   - **(B)** the agency determines that the employee’s conduct with respect to which an action covered by this subchapter is proposed is serious or flagrant as prescribed in regulation by the Office of Personnel Management;
+  >   - **(B)** the agency determines, as prescribed in regulation by the Office of Personnel Management, that the employee’s conduct with respect to which an action covered by this subchapter is proposed is flagrant and that such employee intentionally engaged in such conduct;
 
 ## § 5. Misappropriation of funds amendments
 

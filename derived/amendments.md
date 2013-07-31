@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2579
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -53,7 +53,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `5 U.S.C. § 7501` | amend | Paragraph (1) of section 7501 of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Chapter 75 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | The table of sections at the beginning of chapter 75 of title 5, United States Code, is amended by adding after the item relating to section 7543 the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of chapter 75 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `5 U.S.C. § 7543` | insert | in subsection (a), by inserting “misappropriation of funds,” after “malfeasance,”; and | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 7543` | amend | in subsection (b), by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 3593` | insert | in subsection (a)(2), by inserting “misappropriation of funds,” after “malfeasance,”; and | the bill quotes the text inserted but describes where it goes |

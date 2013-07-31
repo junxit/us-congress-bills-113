@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2579
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2579
@@ -16,7 +16,7 @@ Government Employee Accountability Act
 
 - Rep. Kelly, Mike [R-PA-3] (K000376)
 
-## Cosponsors (21)
+## Cosponsors (41)
 
 - Rep. Marino, Tom [R-PA-10] (M001179)
 - Rep. Renacci, James B. [R-OH-16] (R000586)
@@ -39,6 +39,26 @@ Government Employee Accountability Act
 - Rep. Reed, Tom [R-NY-23] (R000585)
 - Rep. Johnson, Bill [R-OH-6] (J000292)
 - Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
+- Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
+- Rep. Nugent, Richard B. [R-FL-11] (N000185)
+- Rep. Cramer, Kevin [R-ND-At Large] (C001096)
+- Rep. Broun, Paul C. [R-GA-10] (B001262)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Mullin, Markwayne [R-OK-2] (M001190)
+- Rep. Lankford, James [R-OK-5] (L000575)
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
+- Rep. Webster, Daniel [R-FL-10] (W000806)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
 
 ## Committees (1)
 
@@ -49,3 +69,12 @@ Government Employee Accountability Act
 - 2013-06-28 — Introduced in House
 - 2013-06-28 — Introduced in House
 - 2013-06-28 — Referred to the House Committee on Oversight and Government Reform.
+- 2013-07-24 — Committee Consideration and Mark-up Session Held.
+- 2013-07-24 — Ordered to be Reported (Amended) by Voice Vote.
+- 2013-07-31 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-07-31 — Considered under suspension of the rules. (consideration: CR H5196-5202; text of measure as reported in House: CR H5196-5197)
+- 2013-07-31 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2579.
+- 2013-07-31 — Mr. Meadows moved to suspend the rules and pass the bill, as amended.
+- 2013-07-31 — Placed on the Union Calendar, Calendar No. 134.
+- 2013-07-31 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-186.
+- 2013-07-31 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-186.
