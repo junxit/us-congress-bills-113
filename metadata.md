@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2094
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2094
@@ -55,9 +55,10 @@ School Access to Emergency Epinephrine Act
 - Rep. Barletta, Lou [R-PA-11] (B001269)
 - Rep. Cartwright, Matt [D-PA-17] (C001090)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -77,3 +78,4 @@ School Access to Emergency Epinephrine Act
 - 2013-07-30 — Placed on the Union Calendar, Calendar No. 130.
 - 2013-07-30 — Reported by the Committee on Energy and Commerce. H. Rept. 113-182.
 - 2013-07-30 — Reported by the Committee on Energy and Commerce. H. Rept. 113-182.
+- 2013-07-31 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
