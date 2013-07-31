@@ -1,7 +1,7 @@
 ---
 measure: S. 885
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 885
@@ -28,3 +28,7 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2013-05-07 — Introduced in Senate
 - 2013-05-07 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2013-07-31 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2013-07-31 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.
+- 2013-07-31 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.
+- 2013-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 159.
