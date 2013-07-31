@@ -15,7 +15,7 @@ This Act may be cited as the “Taxpayer Bill of Rights Act of 2013”.
 
 ## § 2. Duty to ensure that IRS employees are familiar with and act in accord with certain taxpayer rights
 
-Section 7803 of the Internal Revenue Code of 1986 is amended by redesignating paragraph (3) as paragraph (4) and by inserting after paragraph (2) the following new paragraph:
+Section 7803(a) of the Internal Revenue Code of 1986 is amended by redesignating paragraph (3) as paragraph (4) and by inserting after paragraph (2) the following new paragraph:
 
 > - **(3)** *Execution of Duties in Accord with Taxpayer Rights* In discharging his duties, the Commissioner shall ensure that employees of the Internal Revenue Service are familiar with and act in accord with taxpayer rights as afforded by other provisions of this title, including—
 >   - **(A)** the right to be informed,

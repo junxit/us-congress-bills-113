@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2768
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | Section 7803 of the Internal Revenue Code of 1986 is amended by redesignating paragraph (3) as paragraph (4) and by inserting after paragraph (2) the following new paragraph: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 7803` | redesignate | Section 7803(a) of the Internal Revenue Code of 1986 is amended by redesignating paragraph (3) as paragraph (4) and by inserting after paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
