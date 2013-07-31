@@ -1,7 +1,7 @@
 ---
 measure: S. 796
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 796
@@ -29,3 +29,7 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2013-04-24 — Introduced in Senate
 - 2013-04-24 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S2963)
 - 2013-04-24 — Sponsor introductory remarks on measure. (CR S2962-2963)
+- 2013-07-31 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2013-07-31 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.
+- 2013-07-31 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.
+- 2013-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 158.
