@@ -1,7 +1,7 @@
 ---
 measure: S. 415
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,6 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 636` | insert | Section 7(d)(6) of the Small Business Act (15 U.S.C. 636(d)(6)) is amended by inserting after “which are made under paragraph (1) of subsection (b)” the following: “: Provided further, That the Administrator, in obtaining the best availa… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 648` | replace | by striking “(3) At the discretion” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5170` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is amended by inserting immediately after paragraph (9)(D)(3)(cc) the following: | the bill names no machine-readable US Code section |
+| `44 U.S.C. § 3501` | insert | Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is amended by inserting immediately after paragraph (10), as added by this Act, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 657j` | add-at-end | Section 38 of the Small Business Act (15 U.S.C. 657j) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

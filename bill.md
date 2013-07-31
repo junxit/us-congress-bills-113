@@ -34,3 +34,34 @@ Section 21(b)(3) of the Small Business Act (15 U.S.C. 648(b)(3)) is amended—
 ## § 4. Sense of Congress
 
 It is the sense of Congress that, subject to the availability of funds, the Administrator of the Small Business Administration shall, to the extent practicable, ensure that a small business development center is appropriately reimbursed for any legitimate expenses incurred in carrying out activities under section 21(b)(3)(B) of the Small Business Act (15 U.S.C. 648(b)(3)(B)), as added by this Act.
+
+## § 5. Increased oversight of economic injury disaster loans
+
+- **(a)** *In general* Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is amended by inserting immediately after paragraph (9)(D)(3)(cc) the following:
+  > - **(10)** *Increased oversight of economic injury disaster loans* The Administrator shall increase oversight of entities receiving loans under paragraph (2), including—
+  >   - **(A)** random site visits to ensure borrower eligibility and compliance with requirements established by the Administrator; and
+  >   - **(B)** random reviews of the use of the loan proceeds by an entity described in paragraph (2) to ensure compliance with requirements established by the Administrator.
+
+- **(b)** *Sense of Congress relating to using existing funds* It is the sense of Congress that no additional Federal funds shall be made available to carry out the amendments made by this section.
+
+## § 6. Reduction of paperwork burden
+
+- **(a)** *Sense of Congress* It is the sense of Congress that the Administrator of the Small Business Administration should—
+  - **(1)** reduce paperwork burdens pursuant to section 3501 of title 44, United States Code, on small business concerns applying for disaster assistance under section 7(b) of the Small Business Act (15 U.S.C. 636(b)); and
+  - **(2)** ensure that the application for disaster assistance under section 7(b) of the Small Business Act (15 U.S.C. 636(b)) facilitates deterring and detecting potential incidents of waste, fraud, and abuse.
+- **(b)** *Reduction* Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is amended by inserting immediately after paragraph (10), as added by this Act, the following:
+  > - **(11)** *Paperwork reduction* The Administrator shall take steps to reduce, to the maximum extent practicable, the paperwork associated with the application for a loan under this subsection.
+
+## § 7. Report on web portal for disaster loan applicants
+
+Section 38 of the Small Business Act (15 U.S.C. 657j) is amended by adding at the end the following:
+
+> - **(c)** *Report on web portal for disaster loan application status*
+>   - **(1)** *In general* Not later than 90 days after the date of enactment of this subsection, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report relating to the creation of a web portal to the track the status of applications for disaster assistance under section 7(b).
+>   - **(2)** *Contents* The report under paragraph (1) shall include—
+>     - **(A)** information on the progress of the Administration in implementing the information system under subsection (a);
+>     - **(B)** recommendations from the Administration relating to the creation of a web portal for applicants to check the status of an application for disaster assistance under section 7(b), including a review of best practices and web portal models from the private sector;
+>     - **(C)** information on any related costs or staffing needed to implement such a web portal;
+>     - **(D)** information on whether such a web portal can maintain high standards for data privacy and data security;
+>     - **(E)** information on whether such a web portal will minimize redundancy among Administration disaster programs, improve management of the number of inquiries made by disaster applicants to employees located in the area affected by the disaster and to call centers, and reduce paperwork burdens on disaster victims; and
+>     - **(F)** such additional information as is determined necessary by the Administrator.
