@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1171
 congress: 113
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1171
@@ -58,3 +58,12 @@ Formerly Owned Resources for Veterans to Express Thanks for Service Act of 2013
 - 2013-07-31 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.
 - 2013-07-31 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.
 - 2013-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 155.
+- 2013-08-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6257)
+- 2013-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6257)
+- 2013-08-02 — Message on Senate action sent to the House.
+- 2013-08-06 — Presented to President.
+- 2013-08-06 — Presented to President.
+- 2013-08-09 — Became Public Law No: 113-26.
+- 2013-08-09 — Became Public Law No: 113-26.
+- 2013-08-09 — Signed by President.
+- 2013-08-09 — Signed by President.
