@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Stop Playing on Citizen’s Cash Act”.
+This Act may be cited as the “Stop Playing on Citizens’ Cash Act”.
 
 ## § 2. Moratorium on IRS conferences
 
