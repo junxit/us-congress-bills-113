@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2754
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `and (b)` |
 | Inserted | `(b), and (d)` |
 
-### 15 U.S.C. § 2101
+### 28 U.S.C. § 1391
 
 > by striking “If any person” and inserting “(a) In general.—If any person”;
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `If any person` |
 | Inserted | `(a) In general.—If any person` |
 
-### 15 U.S.C. § 2101
+### 28 U.S.C. § 1391
 
 > by striking “or has an agent” and inserting “, has an agent, transacts business, or wherever venue is proper under section 1391 of title 28, United States Code”; and
 
@@ -62,5 +62,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `15 U.S.C. § 2101` | insert | in subsection (b), by inserting “, or the sale in commerce” after “distribution in commerce”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 2101` | redesignate | by redesignating subsection (d) as subsection (e) and inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 2101` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 2101` | add-at-end | in section 7, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1116` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1051` | add-at-end | in section 7, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

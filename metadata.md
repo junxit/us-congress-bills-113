@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2754
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2754
@@ -42,3 +42,14 @@ Collectible Coin Protection Act
 - 2013-07-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5147)
 - 2013-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5147)
 - 2013-07-31 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2014-12-15 — Passed Senate without amendment by Unanimous Consent.
+- 2014-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-12-15 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S6839)
+- 2014-12-15 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S6839)
+- 2014-12-16 — Message on Senate action sent to the House.
+- 2014-12-17 — Presented to President.
+- 2014-12-17 — Presented to President.
+- 2014-12-19 — Became Public Law No: 113-288.
+- 2014-12-19 — Became Public Law No: 113-288.
+- 2014-12-19 — Signed by President.
+- 2014-12-19 — Signed by President.
