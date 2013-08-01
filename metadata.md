@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2769
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2769
@@ -39,9 +39,10 @@ Stop Playing on Citizens' Cash Act
 - Rep. Perry, Scott [R-PA-4] (P000605)
 - Rep. Brady, Kevin [R-TX-8] (B000755)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ Stop Playing on Citizens' Cash Act
 - 2013-07-31 — Mr. Roskam moved to suspend the rules and pass the bill, as amended. (text: CR H5209)
 - 2013-07-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5209)
 - 2013-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5209)
+- 2013-08-01 — Received in the Senate and Read twice and referred to the Committee on Finance.
