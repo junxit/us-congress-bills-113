@@ -1,7 +1,7 @@
 ---
 measure: S. 1093
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1093
@@ -32,3 +32,5 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2013-07-31 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.
 - 2013-07-31 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.
 - 2013-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 160.
+- 2013-08-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6258-6259; text as passed Senate: CR S6259)
+- 2013-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6258-6259; text as passed Senate: CR S6259)
