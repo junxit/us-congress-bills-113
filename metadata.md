@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 22
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 22
@@ -24,3 +24,7 @@ A concurrent resolution providing for a conditional adjournment or recess of the
 - 2013-08-01 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S6162; text as passed Senate: CR S6162; text of measure as introduced: CR S6237)
 - 2013-08-01 — Received in the House.
 - 2013-08-01 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6162; text as passed Senate: CR S6162; text of measure as introduced: CR S6237)
+- 2013-08-02 — Considered as privileged matter. (consideration: CR H5377)
+- 2013-08-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-08-02 — On agreeing to the resolution Agreed to without objection. (text: CR H5377)
+- 2013-08-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H5377)
