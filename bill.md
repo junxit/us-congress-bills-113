@@ -64,12 +64,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(F)** The Government of Vietnam has made substantial progress toward respecting the human rights of members of all ethnic and minority groups.
     - **(G)** Neither any official of the Government of Vietnam nor any agency or entity wholly or partly owned by the Government of Vietnam was complicit in a severe form of trafficking in persons, or the Government of Vietnam took all appropriate steps to end any such complicity and hold such official, agency, or entity fully accountable for its conduct.
 - **(b)** *Exception*
-  - **(1)** *Continuation of assistance in the national interest* Notwithstanding the failure of the Government of Vietnam to meet the requirements of subsection (a)(2), the President may waive the application of subsection (a) for any fiscal year if—
-    - **(A)** the President determines that the provision to the Government of Vietnam of increased nonhumanitarian assistance would promote the purpose of this Act or is otherwise in the national interest of the United States; and
-    - **(B)** the Federal Government provides assistance, at levels commensurate with, or exceeding, any increases in nonhumanitarian assistance to Vietnam, that supports—
-      - **(i)** training about the obligation of the Government of Vietnam to respect the rights enumerated in the International Covenant on Civil and Political Rights;
-      - **(ii)** noncommercial rule of law programming; and
-      - **(iii)** measures to overcome the jamming of Radio Free Asia by the Government of Vietnam.
+  - **(1)** *Continuation of assistance in the national interest* Notwithstanding the failure of the Government of Vietnam to meet the requirements of subsection (a)(2), the President may waive the application of subsection (a) for any fiscal year if the President determines that the provision to the Government of Vietnam of increased nonhumanitarian assistance would promote the purpose of this Act or is otherwise in the national interest of the United States.
   - **(2)** *Exercise of waiver authority* The President may exercise the authority under paragraph (1) with respect to—
     - **(A)** all United States nonhumanitarian assistance to Vietnam; or
     - **(B)** one or more programs, projects, or activities of such assistance.
@@ -79,10 +74,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
       - **(i)** disaster relief assistance, including any assistance under chapter 9 of part I of that Act;
       - **(ii)** assistance which involves the provision of food (including monetization of food) or medicine;
       - **(iii)** assistance for environmental remediation of dioxin-contaminated sites and related health activities;
-      - **(iv)** assistance to combat severe forms of trafficking in persons;
-      - **(v)** assistance to combat pandemic diseases;
-      - **(vi)** assistance for refugees; and
-      - **(vii)** assistance to combat HIV/AIDS, including any assistance under section 104A of that Act; and
+      - **(iv)** assistance for demining and unexploded ordnance (UXO) remediation, and related health and educational activities;
+      - **(v)** assistance to combat severe forms of trafficking in persons;
+      - **(vi)** assistance to combat pandemic diseases;
+      - **(vii)** assistance for refugees; and
+      - **(viii)** assistance to combat HIV/AIDS, including any assistance under section 104A of that Act; and
     - **(B)** sales, or financing on any terms, under the Arms Export Control Act.
   - **(2)** *Severe form of trafficking in persons* The term severe form of trafficking in persons means any activity described in section 103(8) of the Trafficking Victims Protection Act of 2000 (Public Law 106–386 (114 Stat. 1470); 22 U.S.C. 7102(8)).
 - **(d)** *Effective date* This section shall take effect on the date of the enactment of this Act and shall apply with respect to the provision of nonhumanitarian assistance to the Government of Vietnam for fiscal year 2014 and subsequent fiscal years.
@@ -105,7 +101,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** If the President has waived the application of section 3(a) pursuant to section 3(b) during the reporting period—
     - **(A)** the national interest with respect to which such a waiver was based;
     - **(B)** the amount of increased nonhumanitarian assistance provided to the Government of Vietnam; and
-    - **(C)** a description of the type and amount of commensurate assistance provided pursuant to section 3(b)(1)(B).
+    - **(C)** a description of the type and amount of commensurate assistance provided pursuant to section 3(b)(1).
   - **(3)** Efforts by the United States Government to promote access by the Vietnamese people to Radio Free Asia transmissions.
   - **(4)** Efforts to ensure that programs with Vietnam promote the policy set forth in section 102 of the Human Rights, Refugee, and Other Foreign Policy Provisions Act of 1996 regarding participation in programs of educational and cultural exchange.
   - **(5)** Lists of persons believed to be imprisoned, detained, or placed under house arrest, tortured, or otherwise persecuted by the Government of Vietnam due to their pursuit of internationally recognized human rights. In compiling such lists, the Secretary shall exercise appropriate discretion, including concerns regarding the safety and security of, and benefit to, the persons who may be included on the lists and their families. In addition, the Secretary shall include a list of such persons and their families who may qualify for protections under United States refugee programs.
