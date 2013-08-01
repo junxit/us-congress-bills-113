@@ -1,8 +1,8 @@
 ---
 legis-num: H. CON. RES. 41
-congress: 113th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H. CON. RES. 41
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## Preamble
 
-- Whereas the Republic of Korea (in this resolution referred to as South Korea) and the Democratic People's Republic of Korea (in this resolution referred to as North Korea) have never formally ended hostilities and have been technically in a state of war since the Armistice Agreement was signed on July 27, 1953;
+- Whereas the Republic of Korea (in this resolution referred to as “South Korea”) and the Democratic People's Republic of Korea (in this resolution referred to as “North Korea”) have never formally ended hostilities and have been technically in a state of war since the Armistice Agreement was signed on July 27, 1953;
 - Whereas the United States, representing the United Nations Forces Command which was a signatory to the Armistice Agreement, and with 28,500 of its troops currently stationed in South Korea, has a stake in the progress towards peace and reunification on the Korean Peninsula;
 - Whereas progress towards peace and reunification on the Korean Peninsula would mean greater security and prosperity for the region and the world;
 - Whereas, at the end of World War II, Korea officially gained independence from Japanese rule, as agreed to at the Cairo Conference on November 22, 1943, through November 26, 1943;
