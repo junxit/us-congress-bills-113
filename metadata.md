@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1660
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1660
@@ -21,9 +21,10 @@ Government Customer Service Improvement Act of 2013
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Lankford, James [R-OK-5] (L000575)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Government Customer Service Improvement Act of 2013
 - 2013-07-31 — Mr. Meadows moved to suspend the rules and pass the bill, as amended.
 - 2013-07-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5207-5208)
 - 2013-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5207-5208)
+- 2013-08-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
