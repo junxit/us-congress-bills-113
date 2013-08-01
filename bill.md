@@ -25,7 +25,12 @@ Before promulgating as final any energy-related rule that is estimated to cost m
   - **(A)** a copy of the rule;
   - **(B)** a concise general statement relating to the rule;
   - **(C)** an estimate of the total costs of the rule, including the direct costs and indirect costs of the rule;
-  - **(D)** an estimate of the total benefits of the rule, an estimate of when such benefits are expected to be realized, and a description of the modeling, the assumptions, and the limitations due to uncertainty, speculation, or lack of information associated with the estimates under this subparagraph;
+  - **(D)**
+    - **(i)** an estimate of the total benefits of the rule and when such benefits are expected to be realized;
+    - **(ii)** a description of the modeling, the calculations, the assumptions, and the limitations due to uncertainty, speculation, or lack of information associated with the estimates under this subparagraph; and
+    - **(iii)** a certification that all data and documents relied upon by the Agency in developing such estimates—
+      - **(I)** have been preserved; and
+      - **(II)** are available for review by the public on the Agency’s Web site, except to the extent to which publication of such data and documents would constitute disclosure of confidential information in violation of applicable Federal law;
   - **(E)** an estimate of the increases in energy prices, including potential increases in gasoline or electricity prices for consumers, that may result from implementation or enforcement of the rule; and
   - **(F)** a detailed description of the employment effects, including potential job losses and shifts in employment, that may result from implementation or enforcement of the rule.
 - **(2)** *Initial determination on increases and impacts* The Secretary of Energy, in consultation with the Federal Energy Regulatory Commission and the Administrator of the Energy Information Administration, shall prepare an independent analysis to determine whether the rule will cause—
@@ -48,3 +53,8 @@ In this Act:
   - **(A)** regulates any aspect of the production, supply, distribution, or use of energy or provides for such regulation by States or other governmental entities; and
   - **(B)** is estimated by the Administrator of the Environmental Protection Agency or the Director of the Office of Management and Budget to impose direct costs and indirect costs, in the aggregate, of more than $1,000,000,000.
 - **(3)** The term rule has the meaning given to such term in section 551 of title 5, United States Code.
+
+## § 5. Prohibition on use of social cost of carbon in analysis
+
+- **(a)** *In general* Notwithstanding any other provision of law or any executive order, the Administrator of the Environmental Protection Agency may not use the social cost of carbon in order to incorporate social benefits of reducing carbon dioxide emissions, or for any other reason, in any cost-benefit analysis relating to an energy-related rule that is estimated to cost more than $1 billion unless and until a Federal law is enacted authorizing such use.
+- **(b)** *Definition* In this section, the term “social cost of carbon” means the social cost of carbon as described in the technical support document entitled “Technical Support Document: Technical Update of the Social Cost of Carbon for Regulatory Impact Analysis Under Executive Order 12866”, published by the Interagency Working Group on Social Cost of Carbon, United States Government, in May 2013, or any successor or substantially related document, or any other estimate of the monetized damages associated with an incremental increase in carbon dioxide emissions in a given year.
