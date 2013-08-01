@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1344
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Subchapter I of chapter 449 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections at the beginning of subchapter I of chapter 449 of title 49, United States Code, is amended by inserting after the item relating to section 44926 the following new item: | the bill names no machine-readable US Code section |
+| `49 U.S.C. § 44926` | add-at-end | Subchapter I of chapter 449 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 44926` | insert | The table of sections at the beginning of subchapter I of chapter 449 of title 49, United States Code, is amended by inserting after the item relating to section 44926 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

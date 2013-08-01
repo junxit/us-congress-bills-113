@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1344
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1344
@@ -79,3 +79,14 @@ Helping Heroes Fly Act
 - 2013-08-01 — Senate amendment agreed to: Amendment SA 1848 agreed to in Senate by Unanimous Consent.
 - 2013-08-01 — Senate amendment proposed (on the floor): Amendment SA 1848 proposed by Senator Reid for Senator Pryor.(consideration: CR S6257-6258; text: CR H6257-6258)
 - 2013-08-01 — Senate amendment submitted
+- 2013-08-02 — Message on Senate action sent to the House.
+- 2013-08-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-08-02 — Mr. Hudson asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H5376-5377)
+- 2013-08-02 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H5376-5377)
+- 2013-08-02 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H5376-5377)
+- 2013-08-06 — Presented to President.
+- 2013-08-06 — Presented to President.
+- 2013-08-09 — Became Public Law No: 113-27.
+- 2013-08-09 — Became Public Law No: 113-27.
+- 2013-08-09 — Signed by President.
+- 2013-08-09 — Signed by President.

@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1344
-congress: 113th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 1344
 
-That the bill from the House of Representatives (H.R. 1344) entitled “An Act to amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to provide expedited air passenger screening to severely injured or disabled members of the Armed Forces and severely injured or disabled veterans, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to provide expedited air passenger screening to severely injured or disabled members of the Armed Forces and severely injured or disabled veterans, and for other purposes.
 
 ## § 1. Short title
 
