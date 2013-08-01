@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2565
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2565
@@ -96,9 +96,10 @@ STOP IRS Act
 - Rep. Kline, John [R-MN-2] (K000363)
 - Rep. Garcia, Joe [D-FL-26] (G000573)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -111,3 +112,4 @@ STOP IRS Act
 - 2013-07-31 — Mr. Renacci moved to suspend the rules and pass the bill.
 - 2013-07-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5212)
 - 2013-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5212)
+- 2013-08-01 — Received in the Senate and Read twice and referred to the Committee on Finance.
