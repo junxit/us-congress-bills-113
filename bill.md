@@ -2,12 +2,14 @@
 legis-num: H.R. 1344
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1344
 
-> To amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to provide expedited air passenger screening to severely injured or disabled members of the Armed Forces and severely injured or disabled veterans, and for other purposes.
+That the bill from the House of Representatives (H.R. 1344) entitled “An Act to amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to provide expedited air passenger screening to severely injured or disabled members of the Armed Forces and severely injured or disabled veterans, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
@@ -15,20 +17,20 @@ This Act may be cited as the “Helping Heroes Fly Act”.
 
 ## § 2. Operations center program for severely injured or disabled members of the Armed Forces and severely injured or disabled veterans
 
-- **(a)** *In general* Subchapter I of chapter 449 of title 49, United States Code, is amended by adding at the end the following new section:
+- **(a)** *In general* Subchapter I of chapter 449 of title 49, United States Code, is amended by adding at the end the following:
   > ## § 44927. Expedited screening for severely injured or disabled members of the Armed Forces and severely injured or disabled veterans
   >
-  > - **(a)** *Passenger screening* The Assistant Secretary, in consultation with the Secretary of Defense, the Secretary of Veterans Affairs, and organizations that advocate on behalf of members of the Armed Forces and veterans, including organizations that advocate on behalf of severely injured or disabled members of the Armed Forces and severely injured or disabled veterans, shall develop and implement a process to facilitate the ease of travel and to the extent possible provide expedited passenger screening services for severely injured or disabled members of the Armed Forces, severely injured or disabled veterans, and their accompanying family members or nonmedical attendants. Such process shall be designed to protect the privacy of the individual being screened to the maximum extent practicable.
-  > - **(b)** *Operations center* As part of the process required under subsection (a), the Assistant Secretary shall maintain an operations center to provide support and facilitate the movement of severely injured or disabled members of the Armed Forces and severely injured or disabled veterans through screening prior to boarding a passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation. Such operations center shall be operational at all times.
+  > - **(a)** *Passenger screening* The Assistant Secretary, in consultation with the Secretary of Defense, the Secretary of Veterans Affairs, and organizations identified by the Secretaries of Defense and Veteran Affairs that advocate on behalf of severely injured or disabled members of the Armed Forces and severely injured or disabled veterans, shall develop and implement a process to support and facilitate the ease of travel and to the extent possible provide expedited passenger screening services for severely injured or disabled members of the Armed Forces and severely injured or disabled veterans through passenger screening. The process shall be designed to offer the individual private screening to the maximum extent practicable.
+  > - **(b)** *Operations center* As part of the process under subsection (a), the Assistant Secretary shall maintain an operations center to provide support and facilitate the movement of severely injured or disabled members of the Armed Forces and severely injured or disabled veterans through passenger screening prior to boarding a passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation.
   > - **(c)** *Protocols* The Assistant Secretary shall—
-  >   - **(1)** establish and publish protocols, in consultation with the Secretary of Defense, the Secretary of Veterans Affairs, and organizations that advocate on behalf of members of the Armed Forces and veterans, including organizations that advocate on behalf of severely injured or disabled members of the Armed Forces and severely injured or disabled veterans, under which a severely injured or disabled member of the Armed Forces or severely injured or disabled veteran, or the family member or other representative of such a member or veteran, may contact the operations center maintained under subsection (b) and request expedited screening services described in subsection (a) for the member or veteran; and
-  >   - **(2)** upon receipt of such a request, require such operations center to notify the appropriate Federal security director of the request to facilitate the expedited passenger screening services described in subsection (a) for the member or veteran.
-  > - **(d)** *Training* The Assistant Secretary shall integrate training on the protocols established under subsection (c) into the training provided to all employees who will provide the screening services described in subsection (a).
-  > - **(e)** *Rule of construction* Nothing in this section affects the authority of the Assistant Secretary to require additional screening of a severely injured or disabled member of the Armed Forces, a severely injured or disabled veteran, or their accompanying family members or nonmedical attendants, if intelligence, law enforcement, or other information indicates that additional screening is necessary.
-  > - **(f)** *Report* Not later than one year after the date of the enactment of this section, and annually thereafter, the Assistant Secretary shall submit to Congress a report on the implementation of this section. Each such report shall include each of the following:
+  >   - **(1)** establish and publish protocols, in consultation with the Secretary of Defense, the Secretary of Veterans Affairs, and the organizations identified under subsection (a), under which a severely injured or disabled member of the Armed Forces or severely injured or disabled veteran, or the family member or other representative of such member or veteran, may contact the operations center maintained under subsection (b) and request the expedited passenger screening services described in subsection (a) for that member or veteran; and
+  >   - **(2)** upon receipt of a request under paragraph (1), require the operations center to notify the appropriate Federal Security Director of the request for expedited passenger screening services, as described in subsection (a), for that member or veteran.
+  > - **(d)** *Training* The Assistant Secretary shall integrate training on the protocols established under subsection (c) into the training provided to all employees who will regularly provide the passenger screening services described in subsection (a).
+  > - **(e)** *Rule of construction* Nothing in this section shall affect the authority of the Assistant Secretary to require additional screening of a severely injured or disabled member of the Armed Forces, a severely injured or disabled veteran, or their accompanying family members or nonmedical attendants, if intelligence, law enforcement, or other information indicates that additional screening is necessary.
+  > - **(f)** *Report* Not later than 1 year after the date of enactment of this section, and annually thereafter, the Assistant Secretary shall submit to Congress a report on the implementation of this section. Each report shall include each of the following:
   >   - **(1)** Information on the training provided under subsection (d).
-  >   - **(2)** Information on the consultations between the Assistant Secretary and organizations that advocate on behalf of members of the Armed Forces and veterans as described in subsection (a).
+  >   - **(2)** Information on the consultations between the Assistant Secretary and the organizations identified under subsection (a).
   >   - **(3)** The number of people who accessed the operations center during the period covered by the report.
   >   - **(4)** Such other information as the Assistant Secretary determines is appropriate.
 
-- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 44926 the following new item:
+- **(b)** *Clerical amendment* The table of sections at the beginning of subchapter I of chapter 449 of title 49, United States Code, is amended by inserting after the item relating to section 44926 the following new item:

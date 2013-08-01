@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1344
 congress: 113
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1344
@@ -16,7 +16,7 @@ Helping Heroes Fly Act
 
 - Rep. Gabbard, Tulsi [D-HI-2] (G000571)
 
-## Cosponsors (24)
+## Cosponsors (26)
 
 - Rep. Joyce, David P. [R-OH-14] (J000295)
 - Rep. Richmond, Cedric L. [D-LA-2] (R000588)
@@ -42,6 +42,8 @@ Helping Heroes Fly Act
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 - Rep. Brooks, Susan W. [R-IN-5] (B001284)
 - Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Coburn, Tom [R-OK] (C000560)
 
 ## Committees (2)
 
@@ -67,3 +69,13 @@ Helping Heroes Fly Act
 - 2013-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 166). (text: CR H2819-2820)
 - 2013-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 166).(text: CR H2819-2820)
 - 2013-05-22 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2013-08-01 — Amendment SA 1848 agreed to in Senate by Unanimous Consent.
+- 2013-08-01 — Amendment SA 1848 proposed by Senator Reid for Senator Pryor. (consideration: CR S6257-6258; text: CR H6257-6258) In the nature of a substitute.
+- 2013-08-01 — Measure laid before Senate by unanimous consent. (consideration: CR S6257-6258)
+- 2013-08-01 — Passed Senate with an amendment by Unanimous Consent.
+- 2013-08-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2013-08-01 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2013-08-01 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2013-08-01 — Senate amendment agreed to: Amendment SA 1848 agreed to in Senate by Unanimous Consent.
+- 2013-08-01 — Senate amendment proposed (on the floor): Amendment SA 1848 proposed by Senator Reid for Senator Pryor.(consideration: CR S6257-6258; text: CR H6257-6258)
+- 2013-08-01 — Senate amendment submitted

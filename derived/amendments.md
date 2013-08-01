@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1344
 congress: 113
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Subchapter I of chapter 449 of title 49, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 44926 the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter I of chapter 449 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of subchapter I of chapter 449 of title 49, United States Code, is amended by inserting after the item relating to section 44926 the following new item: | the bill names no machine-readable US Code section |
