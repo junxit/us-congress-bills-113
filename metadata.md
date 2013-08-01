@@ -1,7 +1,7 @@
 ---
 measure: H.R. 313
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 313
@@ -21,9 +21,10 @@ GSA Act of 2013
 - Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
 - Rep. Lankford, James [R-OK-5] (L000575)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ GSA Act of 2013
 - 2013-07-31 — Mr. Meadows moved to suspend the rules and pass the bill, as amended.
 - 2013-07-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5193-5194)
 - 2013-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5193-5194)
+- 2013-08-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
