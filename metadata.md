@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 41
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 41
@@ -88,3 +88,5 @@ Encouraging peace and reunification on the Korean Peninsula.
 - 2013-07-31 — Mr. Royce moved to suspend the rules and agree to the resolution, as amended.
 - 2013-07-31 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H5254)
 - 2013-07-31 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H5254)
+- 2013-08-01 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S6257)
+- 2013-08-01 — Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6257)
