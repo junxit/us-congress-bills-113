@@ -1,7 +1,7 @@
 ---
 measure: S. 256
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 256
@@ -34,3 +34,5 @@ A bill to amend Public Law 93-435 with respect to the Northern Mariana Islands, 
 - 2013-06-27 — Committee on Energy and Natural Resources. Reported by Senator Wyden with an amendment. With written report No. 113-55.
 - 2013-06-27 — Committee on Energy and Natural Resources. Reported by Senator Wyden with an amendment. With written report No. 113-55.
 - 2013-06-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 109.
+- 2013-08-01 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6257; text of measure as reported in House: CR S6258; text as passed Senate: CR S6257)
+- 2013-08-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6257; text of measure as reported in House: CR S6258; text as passed Senate: CR S6257)
