@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2009
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2009
@@ -16,7 +16,7 @@ Keep the IRS Off Your Health Care Act of 2013
 
 - Rep. Price, Tom [R-GA-6] (P000591)
 
-## Cosponsors (30)
+## Cosponsors (145)
 
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
@@ -48,13 +48,145 @@ Keep the IRS Off Your Health Care Act of 2013
 - Rep. Perry, Scott [R-PA-4] (P000605)
 - Rep. Marchant, Kenny [R-TX-24] (M001158)
 - Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Rohrabacher, Dana [R-CA-48] (R000409)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
+- Rep. Cotton, Tom [R-AR-4] (C001095)
+- Rep. Bentivolio, Kerry L. [R-MI-11] (B001280)
+- Rep. Bridenstine, Jim [R-OK-1] (B001283)
+- Rep. Heck, Joseph J. [R-NV-3] (H001055)
+- Rep. Rooney, Thomas J. [R-FL-17] (R000583)
+- Rep. Huelskamp, Tim [R-KS-1] (H001057)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+- Rep. Lankford, James [R-OK-5] (L000575)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Pitts, Joseph R. [R-PA-16] (P000373)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Mulvaney, Mick [R-SC-5] (M001182)
+- Rep. DeSantis, Ron [R-FL-6] (D000621)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Labrador, Raul R. [R-ID-1] (L000573)
+- Rep. Duncan, Jeff [R-SC-3] (D000615)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Southerland, Steve II [R-FL-2] (S001186)
+- Rep. Thornberry, Mac [R-TX-13] (T000238)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
+- Rep. Radel, Trey [R-FL-19] (R000596)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Franks, Trent [R-AZ-8] (F000448)
+- Rep. Mullin, Markwayne [R-OK-2] (M001190)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Nunnelee, Alan [R-MS-1] (N000186)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Boustany, Charles W., Jr. [R-LA-3] (B001255)
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. Rothfus, Keith J. [R-PA-12] (R000598)
+- Rep. DesJarlais, Scott [R-TN-4] (D000616)
+- Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
+- Rep. Griffin, Tim [R-AR-2] (G000567)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Duffy, Sean P. [R-WI-7] (D000614)
+- Rep. Latham, Tom [R-IA-3] (L000111)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Turner, Michael R. [R-OH-10] (T000463)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Nugent, Richard B. [R-FL-11] (N000185)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Davis, Rodney [R-IL-13] (D000619)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Fleming, John [R-LA-4] (F000456)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Benishek, Dan [R-MI-1] (B001271)
+- Rep. Gibbs, Bob [R-OH-7] (G000563)
+- Rep. Capito, Shelley Moore [R-WV-2] (C001047)
+- Rep. Gowdy, Trey [R-SC-4] (G000566)
+- Rep. Smith, Jason [R-MO-8] (S001195)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Harper, Gregg [R-MS-3] (H001045)
+- Rep. Webster, Daniel [R-FL-10] (W000806)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Bachmann, Michele [R-MN-6] (B001256)
+- Rep. Stockman, Steve [R-TX-36] (S000937)
+- Rep. Ross, Dennis A. [R-FL-15] (R000593)
+- Rep. Young, Todd [R-IN-9] (Y000064)
+- Rep. Lummis, Cynthia M. [R-WY-At Large] (L000571)
+- Rep. Brooks, Mo [R-AL-5] (B001274)
+- Rep. Paulsen, Erik [R-MN-3] (P000594)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Schweikert, David [R-AZ-6] (S001183)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Woodall, Rob [R-GA-7] (W000810)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Nunes, Devin [R-CA-22] (N000181)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Cook, Paul [R-CA-8] (C001094)
+- Rep. Black, Diane [R-TN-6] (B001273)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Gardner, Cory [R-CO-4] (G000562)
+- Rep. Hultgren, Randy [R-IL-14] (H001059)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
+
+## Recorded votes (2)
+
+- 2013-08-02 — [House 113-1-446](votes/house-113-1-0446.md) — On Motion to Recommit with Instructions — **Failed** (186–230)
+- 2013-08-02 — [House 113-1-447](votes/house-113-1-0447.md) — On Passage — **Passed** (232–185)
 
 ## Actions
 
 - 2013-05-16 — Introduced in House
 - 2013-05-16 — Introduced in House
 - 2013-05-16 — Referred to the House Committee on Ways and Means.
+- 2013-06-03 — Referred to the Subcommittee on Health.
+- 2013-07-31 — Rules Committee Resolution H. Res. 322 Reported to House. In each case the rule provides for one hour of debate on the bill and one motion to recommit for each bill.
+- 2013-08-02 — Considered under the provisions of rule H. Res. 322. (consideration: CR H5362-5374)
+- 2013-08-02 — DEBATE - The House proceeded with 10 minutes of debate on the Nolan motion to recommit with instructions, pending the reservation of a point of order. Subsequently, the reservation was withdrawn. The instructions contained in the motion seek to require the bill to be reported back to the House forthwith with an amendment to prohibit the bill from altering, impacting, delaying or weakening section 1401 of the Patient Protection and Affordable Care Act which provides tax credits to middle class families to purchase health insurance or section 1421 of the Patient Protection and Affordable Care Act which provides tax credits to small businesses for the purchase of health insurance coverage for employees.
+- 2013-08-02 — DEBATE - The House proceeded with one hour of debate on H.R. 2009.
+- 2013-08-02 — In each case the rule provides for one hour of debate on the bill and one motion to recommit for each bill.
+- 2013-08-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-08-02 — Mr. Nolan moved to recommit with instructions to Ways and Means. (consideration: CR H5371-5373; text: CR H5371)
+- 2013-08-02 — On motion to recommit with instructions Failed by recorded vote: 186 - 230 (Roll no. 446).
+- 2013-08-02 — On passage Passed by recorded vote: 232 - 185 (Roll no. 447). (text: CR H5362)
+- 2013-08-02 — Passed/agreed to in House: On passage Passed by recorded vote: 232 - 185 (Roll no. 447).(text: CR H5362)
+- 2013-08-02 — The previous question was ordered pursuant to the rule. (consideration: CR H5371)
