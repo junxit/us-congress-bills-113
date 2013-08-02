@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1407
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1407
@@ -36,3 +36,11 @@ Animal Drug User Fee Amendments of 2013
 - 2013-04-09 — Introduced in House
 - 2013-04-09 — Introduced in House
 - 2013-04-09 — Referred to the House Committee on Energy and Commerce.
+- 2013-04-12 — Referred to the Subcommittee on Health.
+- 2013-05-14 — Committee Consideration and Mark-up Session Held.
+- 2013-05-14 — Subcommittee on Health Discharged.
+- 2013-05-15 — Committee Consideration and Mark-up Session Held.
+- 2013-05-15 — Ordered to be Reported by Voice Vote.
+- 2013-08-02 — Placed on the Union Calendar, Calendar No. 135.
+- 2013-08-02 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-188.
+- 2013-08-02 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-188.

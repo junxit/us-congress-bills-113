@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1407
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,5 +35,9 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 379j-12` | amend | Section 740 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–12) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-13` | amend | Section 740A of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–13) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-12` | repeal | Section 108 of the Animal Drug User Fee Amendments of 2008 (Public Law 110–316) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 379j-12` | strike | The Animal Drug User Fee Amendments of 2008 (Public Law 110–316) is amended in the table of contents in section 1, by striking the item relating to section 108. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379j-12` | strike | Public Law 110–316 (122 Stat. 3509) is amended in the table of contents in section 1, by striking the item relating to section 108. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-12` | repeal | Effective November 18, 2003, section 5 of the Animal Drug User Fee Act of 2003 (Public Law 108–130) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379j-21` | amend | Section 741 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–21) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379j-22` | amend | Section 742 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–22) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379j-21` | repeal | Section 204 of the Animal Generic Drug User Fee Act of 2008 (Public Law 110–316) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379j-21` | strike | Public Law 110–316 (122 Stat. 3509) is amended in the table of contents in section 1, by striking the item relating to section 204. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
