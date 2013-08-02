@@ -15,7 +15,7 @@ This Act may be cited as the “Regulations From the Executive in Need of Scruti
 
 ## § 2. Purpose
 
-The purpose of this Act is to increase accountability for and transparency in the Federal regulatory process. Section 1 of article I of the United States Constitution grants all legislative powers to Congress. Over time, Congress has excessively delegated its constitutional charge while failing to conduct appropriate oversight and retain accountability for the content of the laws it passes. By requiring a vote in Congress, the REINS Act will result in more carefully drafted and detailed legislation, an improved regulatory process, and a legislative branch that is truly accountable to the American people for the laws imposed upon them.
+The purpose of this Act is to increase accountability for and transparency in the Federal regulatory process. Section 1 of article I of the United States Constitution grants all legislative powers to Congress. Over time, Congress has excessively delegated its constitutional charge while failing to conduct appropriate oversight and retain accountability for the content of the laws it passes. By requiring a vote in Congress, the REINS Act will result in more carefully drafted and detailed legislation, an improved regulatory process, and a legislative branch that is truly accountable to the American people for the laws imposed upon them. Moreover, as a tax on carbon emissions increases energy costs on consumers, reduces economic growth and is therefore detrimental to individuals, families and businesses, the REINS Act includes in the definition of a major rule, any rule that implements or provides for the imposition or collection of a tax on carbon emissions.
 
 ## § 3. Congressional review of agency rulemaking
 

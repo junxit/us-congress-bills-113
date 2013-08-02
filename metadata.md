@@ -1,7 +1,7 @@
 ---
 measure: H.R. 367
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 367
@@ -189,6 +189,18 @@ Regulations From the Executive in Need of Scrutiny Act of 2013
 - House — Rules Committee
 - House — Judiciary Committee
 
+## Recorded votes (9)
+
+- 2013-08-02 — [House 113-1-437](votes/house-113-1-0437.md) — On Agreeing to the Amendment — **Agreed to** (237–176)
+- 2013-08-02 — [House 113-1-438](votes/house-113-1-0438.md) — On Agreeing to the Amendment — **Agreed to** (227–185)
+- 2013-08-02 — [House 113-1-439](votes/house-113-1-0439.md) — On Agreeing to the Amendment — **Agreed to** (263–152)
+- 2013-08-02 — [House 113-1-440](votes/house-113-1-0440.md) — On Agreeing to the Amendment — **Failed** (186–229)
+- 2013-08-02 — [House 113-1-441](votes/house-113-1-0441.md) — On Agreeing to the Amendment — **Failed** (182–235)
+- 2013-08-02 — [House 113-1-442](votes/house-113-1-0442.md) — On Agreeing to the Amendment — **Failed** (185–232)
+- 2013-08-02 — [House 113-1-443](votes/house-113-1-0443.md) — On Agreeing to the Amendment — **Failed** (190–226)
+- 2013-08-02 — [House 113-1-444](votes/house-113-1-0444.md) — On Motion to Recommit with Instructions — **Failed** (185–229)
+- 2013-08-02 — [House 113-1-445](votes/house-113-1-0445.md) — On Passage — **Passed** (232–183)
+
 ## Actions
 
 - 2013-01-23 — Introduced in House
@@ -209,3 +221,126 @@ Regulations From the Executive in Need of Scrutiny Act of 2013
 - 2013-07-19 — Placed on the Union Calendar, Calendar No. 115.
 - 2013-07-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-160, Part I.
 - 2013-07-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-160, Part I.
+- 2013-07-31 — Rules Committee Resolution H. Res. 322 Reported to House. In each case the rule provides for one hour of debate on the bill and one motion to recommit for each bill.
+- 2013-08-01 — Amendment (A001) offered by Mr. Scalise. (consideration: CR H5317-5319; text: CR H5317)
+- 2013-08-01 — Amendment (A002) offered by Mr. Davis, Rodney. (consideration: CR H5319-5320; text: CR H5319)
+- 2013-08-01 — Amendment (A003) offered by Mr. Smith (MO). (consideration: CR H5320-5321; text: CR H5320)
+- 2013-08-01 — Amendment (A004) offered by Mr. Latham. (consideration: CR H5321-5322; text: CR H5321)
+- 2013-08-01 — Amendment (A005) offered by Mr. Sessions. (consideration: CR H5322-5324; text: CR H5323)
+- 2013-08-01 — Amendment (A006) offered by Mr. Nadler. (consideration: CR H5324-5325; text: CR H5324)
+- 2013-08-01 — Amendment (A007) offered by Mr. Johnson (GA). (consideration: CR H5325-5326; text: CR H5325)
+- 2013-08-01 — Amendment (A008) offered by Ms. Jackson Lee. (consideration: CR H5326-5328; text: CR H5326)
+- 2013-08-01 — Amendment (A009) offered by Mr. McKinley. (consideration: CR H5328-5329; text: CR H5328)
+- 2013-08-01 — Amendment (A010) offered by Mr. Webster (FL). (consideration: CR H5329-5330; text: CR H5329-5330)
+- 2013-08-01 — Amendment (A011) offered by Ms. Moore. (consideration: CR H5330-5332; text: CR H5330-5331)
+- 2013-08-01 — Amendment agreed to Committee of the Whole
+- 2013-08-01 — Amendment agreed to Committee of the Whole
+- 2013-08-01 — Amendment agreed to Committee of the Whole
+- 2013-08-01 — Amendment agreed to Committee of the Whole
+- 2013-08-01 — Committee of the Whole House on the state of the Union rises leaving H.R. 367 as unfinished business.
+- 2013-08-01 — Considered under the provisions of rule H. Res. 322. (consideration: CR H5306-5309, H5309-5332; text of amendment in the nature of a substitute: CR H5315-5317)
+- 2013-08-01 — DEBATE - Pursuant to the provisions of H. Res. 322, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 8.
+- 2013-08-01 — DEBATE - Pursuant to the provisions of H. Res. 322, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (GA) amendment No. 7.
+- 2013-08-01 — DEBATE - Pursuant to the provisions of H. Res. 322, the Committee of the Whole proceeded with 10 minutes of debate on the Latham amendment No. 4.
+- 2013-08-01 — DEBATE - Pursuant to the provisions of H. Res. 322, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley amendment No. 9.
+- 2013-08-01 — DEBATE - Pursuant to the provisions of H. Res. 322, the Committee of the Whole proceeded with 10 minutes of debate on the Moore amendment No. 12.
+- 2013-08-01 — DEBATE - Pursuant to the provisions of H. Res. 322, the Committee of the Whole proceeded with 10 minutes of debate on the Nadler amendment No. 6.
+- 2013-08-01 — DEBATE - Pursuant to the provisions of H. Res. 322, the Committee of the Whole proceeded with 10 minutes of debate on the Rodney Davis (IL) amendment No. 2.
+- 2013-08-01 — DEBATE - Pursuant to the provisions of H. Res. 322, the Committee of the Whole proceeded with 10 minutes of debate on the Scalise amendment No. 1.
+- 2013-08-01 — DEBATE - Pursuant to the provisions of H. Res. 322, the Committee of the Whole proceeded with 10 minutes of debate on the Sessions amendment No. 5.
+- 2013-08-01 — DEBATE - Pursuant to the provisions of H. Res. 322, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (MO) amendment No. 3.
+- 2013-08-01 — DEBATE - Pursuant to the provisions of H. Res. 322, the Committee of the Whole proceeded with 10 minutes of debate on the Webster amendment No. 11.
+- 2013-08-01 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 367.
+- 2013-08-01 — House amendment agreed to: On agreeing to the Davis, Rodney amendment (A002) Agreed to by voice vote.
+- 2013-08-01 — House amendment agreed to: On agreeing to the McKinley amendment (A009) Agreed to by voice vote.
+- 2013-08-01 — House amendment agreed to: On agreeing to the Sessions amendment (A005) Agreed to by voice vote.
+- 2013-08-01 — House amendment agreed to: On agreeing to the Webster (FL) amendment (A010) Agreed to by voice vote.
+- 2013-08-01 — House amendment offered
+- 2013-08-01 — House amendment offered
+- 2013-08-01 — House amendment offered
+- 2013-08-01 — House amendment offered
+- 2013-08-01 — House amendment offered
+- 2013-08-01 — House amendment offered
+- 2013-08-01 — House amendment offered
+- 2013-08-01 — House amendment offered
+- 2013-08-01 — House amendment offered
+- 2013-08-01 — House amendment offered
+- 2013-08-01 — House amendment offered
+- 2013-08-01 — House amendment offered
+- 2013-08-01 — House amendment offered
+- 2013-08-01 — House amendment offered/reported by: Amendment (A001) offered by Mr. Scalise.(consideration: CR H5317-5319; text: CR H5317)
+- 2013-08-01 — House amendment offered/reported by: Amendment (A002) offered by Mr. Davis, Rodney.(consideration: CR H5319-5320; text: CR H5319)
+- 2013-08-01 — House amendment offered/reported by: Amendment (A003) offered by Mr. Smith (MO).(consideration: CR H5320-5321; text: CR H5320)
+- 2013-08-01 — House amendment offered/reported by: Amendment (A004) offered by Mr. Latham.(consideration: CR H5321-5322; text: CR H5321)
+- 2013-08-01 — House amendment offered/reported by: Amendment (A005) offered by Mr. Sessions.(consideration: CR H5322-5324; text: CR H5323)
+- 2013-08-01 — House amendment offered/reported by: Amendment (A006) offered by Mr. Nadler.(consideration: CR H5324-5325; text: CR H5324)
+- 2013-08-01 — House amendment offered/reported by: Amendment (A007) offered by Mr. Johnson (GA).(consideration: CR H5325-5326; text: CR H5325)
+- 2013-08-01 — House amendment offered/reported by: Amendment (A008) offered by Ms. Jackson Lee.(consideration: CR H5326-5328; text: CR H5326)
+- 2013-08-01 — House amendment offered/reported by: Amendment (A009) offered by Mr. McKinley.(consideration: CR H5328-5329; text: CR H5328)
+- 2013-08-01 — House amendment offered/reported by: Amendment (A010) offered by Mr. Webster (FL).(consideration: CR H5329-5330; text: CR H5329-5330)
+- 2013-08-01 — House amendment offered/reported by: Amendment (A011) offered by Ms. Moore.(consideration: CR H5330-5332; text: CR H5330-5331)
+- 2013-08-01 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 322 and Rule XVIII.
+- 2013-08-01 — In each case the rule provides for one hour of debate on the bill and one motion to recommit for each bill.
+- 2013-08-01 — Mr. Goodlatte moved that the Committee rise.
+- 2013-08-01 — On agreeing to the Davis, Rodney amendment (A002) Agreed to by voice vote.
+- 2013-08-01 — On agreeing to the McKinley amendment (A009) Agreed to by voice vote.
+- 2013-08-01 — On agreeing to the Sessions amendment (A005) Agreed to by voice vote.
+- 2013-08-01 — On agreeing to the Webster (FL) amendment (A010) Agreed to by voice vote.
+- 2013-08-01 — On motion that the Committee rise Agreed to by voice vote.
+- 2013-08-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee (TX) amendment No. 8, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Jackson Lee (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-08-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Johnson (GA) amendment No. 4, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Johnson (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-08-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Latham amendment No. 4, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Johnson (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-08-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moore amendment No. 12, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Moore demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-08-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Nadler amendment No. 6, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-08-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scalise amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Scalise demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-08-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith(MO) amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (MO) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2013-08-01 — The Committee of the Whole resumed its sitting and continued with debate on H.R. 367.
+- 2013-08-01 — The Committee of the Whole rose informally to receive a message from the Senate.
+- 2013-08-01 — The Speaker designated the Honorable Randy Hultgren to act as Chairman of the Committee.
+- 2013-08-02 — Amendment agreed to Committee of the Whole
+- 2013-08-02 — Amendment agreed to Committee of the Whole
+- 2013-08-02 — Amendment agreed to Committee of the Whole
+- 2013-08-02 — Amendment agreed to Committee of the Whole
+- 2013-08-02 — Amendment failed in Committee of the Whole
+- 2013-08-02 — Amendment failed in Committee of the Whole
+- 2013-08-02 — Amendment failed in Committee of the Whole
+- 2013-08-02 — Amendment failed in Committee of the Whole
+- 2013-08-02 — Amendment failed in Committee of the Whole
+- 2013-08-02 — Considered as unfinished business. (consideration: CR H5353-5360)
+- 2013-08-02 — DEBATE - The House proceeded with 10 minutes of debate on the Kuster motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House forthwith with an amendment to add a section to the bill titled "Protecting Jobs, Economic Growth, and the Health and Safety of the American Public".
+- 2013-08-02 — House amendment agreed to: On agreeing to the Latham amendment (A004) Agreed to by recorded vote: 263 - 152 (Roll no. 439).(consideration: CR H5354-5355)
+- 2013-08-02 — House amendment agreed to: On agreeing to the Scalise amendment (A001) Agreed to by recorded vote: 237 - 176 (Roll no. 437).(consideration: CR H5353-5354)
+- 2013-08-02 — House amendment agreed to: On agreeing to the Smith (MO) amendment (A003) Agreed to by recorded vote: 227 - 185 (Roll no. 438).(consideration: CR H5354)
+- 2013-08-02 — House amendment not agreed to: On agreeing to the Jackson Lee amendment (A008) Failed by recorded vote: 185 - 232 (Roll no. 442).(consideration: CR H5356-5357)
+- 2013-08-02 — House amendment not agreed to: On agreeing to the Johnson (GA) amendment (A007) Failed by recorded vote: 182 - 235 (Roll no. 441).
+- 2013-08-02 — House amendment not agreed to: On agreeing to the Johnson (GA) amendment (A007) Failed by recorded vote: 182 - 235 (Roll no. 441).
+- 2013-08-02 — House amendment not agreed to: On agreeing to the Moore amendment (A011) Failed by recorded vote: 190 - 226 (Roll no. 443).(consideration: CR H5357-5358)
+- 2013-08-02 — House amendment not agreed to: On agreeing to the Nadler amendment (A006) Failed by recorded vote: 186 - 229 (Roll no. 440).(consideration: CR H5355-5356)
+- 2013-08-02 — House amendment not agreed to: On agreeing to the Nadler amendment (A006) Failed by recorded vote: 186 - 229 (Roll no. 440).(consideration: CR H5355-5356)
+- 2013-08-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-08-02 — Ms. Kuster moved to recommit with instructions to Judiciary. (consideration: CR H5358-5360; text: CR H5358)
+- 2013-08-02 — On agreeing to the Jackson Lee amendment (A008) Failed by recorded vote: 185 - 232 (Roll no. 442). (consideration: CR H5356-5357)
+- 2013-08-02 — On agreeing to the Johnson (GA) amendment (A007) Failed by recorded vote: 182 - 235 (Roll no. 441).
+- 2013-08-02 — On agreeing to the Latham amendment (A004) Agreed to by recorded vote: 263 - 152 (Roll no. 439). (consideration: CR H5354-5355)
+- 2013-08-02 — On agreeing to the Moore amendment (A011) Failed by recorded vote: 190 - 226 (Roll no. 443). (consideration: CR H5357-5358)
+- 2013-08-02 — On agreeing to the Nadler amendment (A006) Failed by recorded vote: 186 - 229 (Roll no. 440). (consideration: CR H5355-5356)
+- 2013-08-02 — On agreeing to the Scalise amendment (A001) Agreed to by recorded vote: 237 - 176 (Roll no. 437). (consideration: CR H5353-5354)
+- 2013-08-02 — On agreeing to the Smith (MO) amendment (A003) Agreed to by recorded vote: 227 - 185 (Roll no. 438). (consideration: CR H5354)
+- 2013-08-02 — On motion to recommit with instructions Failed by recorded vote: 185 - 229 (Roll no. 444).
+- 2013-08-02 — On passage Passed by recorded vote: 232 - 183 (Roll no. 445).
+- 2013-08-02 — Passed/agreed to in House: On passage Passed by recorded vote: 232 - 183 (Roll no. 445).
+- 2013-08-02 — Roll call votes on amendments in House
+- 2013-08-02 — Roll call votes on amendments in House
+- 2013-08-02 — Roll call votes on amendments in House
+- 2013-08-02 — Roll call votes on amendments in House
+- 2013-08-02 — Roll call votes on amendments in House
+- 2013-08-02 — Roll call votes on amendments in House
+- 2013-08-02 — Roll call votes on amendments in House
+- 2013-08-02 — Roll call votes on amendments in House
+- 2013-08-02 — Roll call votes on amendments in House
+- 2013-08-02 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2013-08-02 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2013-08-02 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 367.
+- 2013-08-02 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5359)
+- 2013-08-02 — The previous question was ordered pursuant to the rule. (consideration: CR H5358)
+- 2013-08-02 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments which had been debated earlier and on which further proceedings had been postopned.
