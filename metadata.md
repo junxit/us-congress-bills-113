@@ -1,7 +1,7 @@
 ---
 measure: S. 796
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 796
@@ -20,9 +20,10 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2013-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 158.
 - 2013-08-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6258-6259; text as passed Senate: CR S6259)
 - 2013-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6258-6259; text as passed Senate: CR S6259)
+- 2013-08-02 — Message on Senate action sent to the House.
+- 2013-08-02 — Received in the House.
+- 2013-08-02 — Referred to the House Committee on Oversight and Government Reform.
