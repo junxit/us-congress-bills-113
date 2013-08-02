@@ -1,7 +1,7 @@
 ---
 measure: S. 256
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 256
@@ -20,9 +20,11 @@ A bill to amend Public Law 93-435 with respect to the Northern Mariana Islands, 
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Energy and Natural Resources Committee
+- House — Education and the Workforce Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +38,7 @@ A bill to amend Public Law 93-435 with respect to the Northern Mariana Islands, 
 - 2013-06-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 109.
 - 2013-08-01 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6257; text of measure as reported in House: CR S6258; text as passed Senate: CR S6257)
 - 2013-08-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6257; text of measure as reported in House: CR S6258; text as passed Senate: CR S6257)
+- 2013-08-02 — Message on Senate action sent to the House.
+- 2013-08-02 — Received in the House.
+- 2013-08-02 — Referred to the Committee on Natural Resources, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-08-02 — Referred to the Committee on Natural Resources, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
