@@ -1,7 +1,7 @@
 ---
 measure: S. 256
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 256
@@ -26,6 +26,10 @@ A bill to amend Public Law 93-435 with respect to the Northern Mariana Islands, 
 - House — Education and the Workforce Committee
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2013-09-10 — [House 113-1-454](votes/house-113-1-0454.md) — On Motion to Suspend the Rules and Pass — **Passed** (415–0)
+
 ## Actions
 
 - 2013-02-07 — Introduced in Senate
@@ -42,3 +46,16 @@ A bill to amend Public Law 93-435 with respect to the Northern Mariana Islands, 
 - 2013-08-02 — Received in the House.
 - 2013-08-02 — Referred to the Committee on Natural Resources, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-08-02 — Referred to the Committee on Natural Resources, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-09-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-09-10 — Considered as unfinished business. (consideration: CR H5458-5459)
+- 2013-09-10 — Considered under suspension of the rules. (consideration: CR H5453-5454)
+- 2013-09-10 — DEBATE - The House proceeded with forty minutes of debate on S. 256.
+- 2013-09-10 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
+- 2013-09-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 454). (text: CR H5453)
+- 2013-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 454).(text: CR H5453)
+- 2013-09-12 — Presented to President.
+- 2013-09-12 — Presented to President.
+- 2013-09-18 — Became Public Law No: 113-34.
+- 2013-09-18 — Became Public Law No: 113-34.
+- 2013-09-18 — Signed by President.
+- 2013-09-18 — Signed by President.
