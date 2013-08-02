@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 3001
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3001
+
+> To amend the Food, Agriculture, Conservation, and Trade Act of 1990 to permit commercial applicators of pesticides to create, retain, submit, and convey pesticide application-related records, reports, data, and other information in electronic form.
+
+## § 1. Short title
+
+This Act may be cited as the “21st Century Pest Management Records Act”.
+
+## § 2. Allowing commercial applicators of pesticides To use electronic records to comply with recordkeeping and reporting requirements
+
+Section 1491 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 136i–1) is amended by adding at the end the following:
+
+> - **(h)** *Electronic Recordkeeping and Reporting* Notwithstanding any contrary provision of Federal, State, or local law, commercial applicators of pesticides, including commercial applicators of restricted use pesticides, may create, retain, submit, and convey a pesticide application-related record, report, data, or other information in electronic form in order to satisfy any requirement for such creation, retention, submission, or conveyance, respectively, under any Federal, State, or local law.
