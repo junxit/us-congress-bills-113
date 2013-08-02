@@ -2,7 +2,7 @@
 legis-num: S. 668
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # S. 668
