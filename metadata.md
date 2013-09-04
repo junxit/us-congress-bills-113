@@ -1,7 +1,7 @@
 ---
 measure: S. 572
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 572
@@ -16,7 +16,7 @@ Veterans Second Amendment Protection Act
 
 - Sen. Burr, Richard [R-NC] (B001135)
 
-## Cosponsors (11)
+## Cosponsors (13)
 
 - Sen. Boozman, John [R-AR] (B001236)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
@@ -29,6 +29,8 @@ Veterans Second Amendment Protection Act
 - Sen. Vitter, David [R-LA] (V000127)
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Sessions, Jeff [R-AL] (S001141)
 
 ## Committees (1)
 
@@ -38,3 +40,8 @@ Veterans Second Amendment Protection Act
 
 - 2013-03-14 — Introduced in Senate
 - 2013-03-14 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2013-06-12 — Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-111.
+- 2013-07-24 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2013-09-04 — Committee on Veterans' Affairs. Reported by Senator Sanders under authority of the order of the Senate of 08/01/2013 without amendment. With written report No. 113-86.
+- 2013-09-04 — Committee on Veterans' Affairs. Reported by Senator Sanders under authority of the order of the Senate of 08/01/2013 without amendment. With written report No. 113-86.
+- 2013-09-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 164.
