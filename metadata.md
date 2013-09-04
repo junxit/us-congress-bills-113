@@ -1,7 +1,7 @@
 ---
 measure: S. 893
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 893
@@ -41,3 +41,8 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2013
 - 2013-05-08 — Introduced in Senate
 - 2013-05-08 — Read twice and referred to the Committee on Veterans' Affairs. (text of measure as introduced: CR S3259)
 - 2013-05-08 — Sponsor introductory remarks on measure. (CR S3258-3259)
+- 2013-06-12 — Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-111.
+- 2013-07-24 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2013-09-04 — Committee on Veterans' Affairs. Reported by Senator Sanders under authority of the order of the Senate of 08/01/2013 without amendment. With written report No. 113-87.
+- 2013-09-04 — Committee on Veterans' Affairs. Reported by Senator Sanders under authority of the order of the Senate of 08/01/2013 without amendment. With written report No. 113-87.
+- 2013-09-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 165.
