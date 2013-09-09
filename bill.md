@@ -34,7 +34,7 @@ Congress finds the following:
 - **(9)** These companies account for 5.8 percent of United States private sector gross domestic product.
 - **(10)** The Department of Commerce has initiatives in place to increase foreign direct investment.
 - **(11)** The President issued a statement in 2011 reaffirming the longstanding open investment policy of the United States and encouraged all countries to pursue such a policy.
-- **(12)** The President signed an Executive order in 2011 to establish the SelectUSA initiative and expanded its resources and activities in 2012, so as to promote greater levels of business investment in the United States.
+- **(12)** The President signed an executive order in 2011 to establish the SelectUSA initiative and expanded its resources and activities in 2012, so as to promote greater levels of business investment in the United States.
 - **(13)** The President’s Council on Jobs and Competitiveness in 2011 recommended the establishment of a National Investment Initiative to attract $1,000,000,000,000 in foreign direct investment over five years.
 - **(14)** Sound transportation infrastructure, a well-educated and healthy workforce, safe food and water, stable financial institutions, a fair and equitable justice system, and transparent and accountable administrative procedures are important factors that contribute to United States global competitiveness.
 
@@ -46,15 +46,15 @@ It is the sense of Congress that—
 - **(2)** it is a top national priority to enhance the global competitiveness, prosperity, and security of the United States by—
   - **(A)** removing unnecessary barriers to foreign direct investment and the jobs that it creates throughout the United States; and
   - **(B)** promoting policies to ensure the United States remains the premier global destination in which to invest, hire, innovate, and manufacture products;
-- **(3)** maintaining the United States commitment to open investment policy encourages other countries to reciprocate and enables the United States to open new markets abroad for United States companies and their products;
-- **(4)** while foreign direct investment can enhance the Nation’s economic strength, policies regarding foreign direct investment should also reflect national security interests and should not disadvantage domestic investors or companies; and
+- **(3)** maintaining the United States’ commitment to open investment policy encourages other countries to reciprocate and enables the United States to open new markets abroad for United States companies and their products;
+- **(4)** while foreign direct investment can enhance the Nation’s economic strength, policies regarding foreign direct investment should reflect national security interests and should not disadvantage domestic investors or companies; and
 - **(5)** United States efforts to attract foreign direct investment should be consistent with efforts to maintain and improve the domestic standard of living.
 
 ## § 4. Foreign direct investment review
 
 - **(a)** *Review* The Secretary of Commerce, in coordination with the Federal Interagency Investment Working Group and the heads of other relevant Federal departments and agencies, shall conduct an interagency review of the global competitiveness of the United States in attracting foreign direct investment.
-- **(b)** *Specific matters To be included* The review conducted pursuant to subsection (a) shall include a review of—
-  - **(1)** the current economic impact of foreign direct investment in the United States, including both costs and benefits, with particular focus on manufacturing, research and development, trade, and jobs;
+- **(b)** *Specific matters to be included* The review conducted pursuant to subsection (a) shall include a review of—
+  - **(1)** the current economic impact of foreign direct investment in the United States, with particular focus on manufacturing, research and development, trade, and jobs;
   - **(2)** trends in global cross-border investment flows and the underlying factors for such trends;
   - **(3)** Federal Government policies that are closely linked to the ability of the United States to attract and retain foreign direct investment;
   - **(4)** foreign direct investment as compared to direct investment by domestic entities;
@@ -62,9 +62,9 @@ It is the sense of Congress that—
   - **(6)** the unique challenges posed by foreign direct investment by state-owned enterprises;
   - **(7)** ongoing Federal Government efforts to improve the investment climate and facilitate greater levels of foreign direct investment in the United States;
   - **(8)** innovative and noteworthy State, regional, and local government initiatives to attract foreign investment; and
-  - **(9)** initiatives by other countries in order to identify best practices for attracting foreign direct investment.
+  - **(9)** initiatives by other countries in order to identify best practices for increasing global competitiveness in attracting foreign direct investment.
 - **(c)** *Limitation* The review conducted pursuant to subsection (a) shall not address laws or policies relating to the Committee on Foreign Investment in the United States.
-- **(d)** *Public comment period* Prior to—
+- **(d)** *Public comment* Prior to—
   - **(1)** conducting the review under subsection (a), the Secretary shall publish notice of the review in the Federal Register and shall provide an opportunity for public comment on the matters to be covered by the review; and
   - **(2)** reporting pursuant to subsection (e), the Secretary shall publish the proposed findings and recommendations to Congress in the Federal Register and shall provide an opportunity for public comment.
-- **(e)** *Report to congress* Not later than one year after the date of enactment of this Act, the Secretary of Commerce shall report to Congress the findings of the review and submit recommendations for increasing the global competitiveness of the United States without weakening labor, consumer, financial, or environmental protections.
+- **(e)** *Report to congress* Not later than one year after the date of enactment of this Act, the Secretary of Commerce, in coordination with the Federal Interagency Investment Working Group and the heads of other relevant Federal departments and agencies, shall report to Congress the findings of the review required under subsection (a) and submit recommendations for increasing the global competitiveness of the United States in attracting foreign direct investment without weakening labor, consumer, financial, or environmental protections.
