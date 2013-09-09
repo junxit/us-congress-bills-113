@@ -1,7 +1,7 @@
 ---
 measure: H.R. 367
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 367
@@ -183,11 +183,12 @@ Regulations From the Executive in Need of Scrutiny Act of 2013
 - Rep. Pompeo, Mike [R-KS-4] (P000602)
 - Rep. Smith, Jason [R-MO-8] (S001195)
 
-## Committees (3)
+## Committees (4)
 
 - House — Budget Committee
 - House — Rules Committee
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (9)
 
@@ -344,3 +345,4 @@ Regulations From the Executive in Need of Scrutiny Act of 2013
 - 2013-08-02 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5359)
 - 2013-08-02 — The previous question was ordered pursuant to the rule. (consideration: CR H5358)
 - 2013-08-02 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments which had been debated earlier and on which further proceedings had been postopned.
+- 2013-09-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
