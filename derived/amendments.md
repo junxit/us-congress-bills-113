@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2844
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 47 U.S.C. § 765e
+### 47 U.S.C. § 533
 
 > Section 613(a)(3) of the Communications Act of 1934 (47 U.S.C. 533(a)(3)) is amended by striking “623(l)” and inserting “623(k)”.
 
@@ -87,15 +87,15 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `47 U.S.C. § 151` | amend | Title I of the Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 151` | add-at-end | Title I of the Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 765e` | repeal | Section 646 of the Communications Satellite Act of 1962 (47 U.S.C. 765e; 114 Stat. 57) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 703` | repeal | Section 4 of Public Law 109–34 (47 U.S.C. 703) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 1303` | strike | by striking subsection (b); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 1303` | redesignate | by redesignating subsections (c) through (e) as subsections (b) through (d), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 548` | strike | by striking subsection (g); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 548` | redesignate | by redesignating subsection (j) as subsection (g); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 765e` | strike | by striking subsection (k); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 765e` | redesignate | by redesignating subsections (l) through (n) as subsections (k) through (m), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 543` | strike | by striking subsection (k); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 543` | redesignate | by redesignating subsections (l) through (n) as subsections (k) through (m), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 257` | strike | Section 257 of the Communications Act of 1934 (47 U.S.C. 257) is amended by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 1302` | strike | by striking the first and second sentences; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 1302` | strike | by striking subsection (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
