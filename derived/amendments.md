@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2879
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -51,11 +51,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `5 U.S.C. § 7501` | amend | Paragraph (1) of section 7501 of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Chapter 75 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Paragraph (1) of section 7501 of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Chapter 75 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | The table of sections at the beginning of chapter 75 of title 5, United States Code, is amended by adding after the item relating to section 7543 the following: | the bill names no machine-readable US Code section |
-| `5 U.S.C. § 7543` | insert | in subsection (a), by inserting “misappropriation of funds,” after “malfeasance,”; and | the bill quotes the text inserted but describes where it goes |
-| `5 U.S.C. § 7543` | amend | in subsection (b), by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | in subsection (a), by inserting “misappropriation of funds,” after “malfeasance,”; and | the bill names no machine-readable US Code section |
+| — | amend | in subsection (b), by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
 | `5 U.S.C. § 3593` | insert | in subsection (a)(2), by inserting “misappropriation of funds,” after “malfeasance,”; and | the bill quotes the text inserted but describes where it goes |
 | — | insert | Part III of title 5, United States Code, is amended by inserting after chapter 79 the following: | the bill names no machine-readable US Code section |
 | — | insert | The analysis for part III of title 5, United States Code, is amended by inserting after the item relating to chapter 79 the following: | the bill names no machine-readable US Code section |

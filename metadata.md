@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2879
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2879
@@ -21,10 +21,11 @@ Stop Government Abuse Act
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 - Rep. Kelly, Mike [R-PA-3] (K000376)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Stop Government Abuse Act
 - 2013-08-01 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
 - 2013-08-01 — Rule H. Res. 322 passed House.
 - 2013-08-01 — The previous question was ordered pursuant to the rule. (consideration: CR H5305)
+- 2013-09-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
