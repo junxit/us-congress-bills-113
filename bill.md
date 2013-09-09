@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 3070
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3070
+
+> To amend section 501 of the Foreign Intelligence Surveillance Act of 1978 to reform access to certain business records for foreign intelligence and international terrorism investigations, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “NSA Accountability Act”.
+
+## § 2. Reforms to access to certain business records for foreign intelligence and international terrorism investigations
+
+- **(a)** *In general* Subsection (b)(2)(A) of section 501 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1861) is amended—
+  - **(1)** in the matter preceding clause (i)—
+    - **(A)** by inserting “specific and articulable” before “facts showing”;
+    - **(B)** by inserting “and material” after “are relevant”; and
+    - **(C)** by striking “clandestine intelligence activities” and all that follows and inserting “clandestine intelligence activities and pertain only to an individual that is the subject of such investigation; and”; and
+  - **(2)** by striking clauses (i) through (iii).
+- **(b)** *Withholding of funds* Notwithstanding any other provision of law, in the case of a violation of section 501 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1861) in a fiscal year, all unobligated funds made available for such fiscal year to carry out such section shall be withheld for the period beginning on the date of such violation and ending on September 30 of such fiscal year.
