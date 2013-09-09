@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1582
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1582
@@ -25,9 +25,10 @@ Energy Consumers Relief Act of 2013
 - Rep. McKinley, David B. [R-WV-1] (M001180)
 - Rep. Harper, Gregg [R-MS-3] (H001045)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (5)
 
@@ -118,3 +119,4 @@ Energy Consumers Relief Act of 2013
 - 2013-08-01 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5291-5292)
 - 2013-08-01 — The previous question was ordered pursuant to the rule. (consideration: CR H5291)
 - 2013-08-01 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2013-09-09 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
