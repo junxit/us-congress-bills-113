@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1897
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1897
@@ -35,9 +35,10 @@ Vietnam Human Rights Act of 2013
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Moran, James P. [D-VA-8] (M000933)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -63,3 +64,4 @@ Vietnam Human Rights Act of 2013
 - 2013-08-01 — Motion to reconsider laid on the table Agreed to without objection.
 - 2013-08-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 3 (Roll no. 435). (text: CR 7/31/2013 H5249-5251)
 - 2013-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 3 (Roll no. 435).(text: CR 7/31/2013 H5249-5251)
+- 2013-09-09 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
