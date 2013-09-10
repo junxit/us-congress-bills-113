@@ -144,7 +144,7 @@ In this Act:
 
 ## § 5. Conveyances to sealaska
 
-- **(a)** *Interim conveyance* Subject to valid existing rights, subsections (c), (d), and (e), section 4(b), and section 7(a), the Secretary shall complete the interim conveyance of the 25 parcels of Federal land comprising approximately 69,235 acres generally depicted on the maps by the date that is 60 days after the date of receipt of the resolution under section 4(a), subject to the Secretary identifying and reserving, by the date that is 2 years after the date of enactment of this Act, any easement that could have been reserved in accordance with this Act prior to the interim conveyance.
+- **(a)** *Interim conveyance* Subject to valid existing rights, subsections (c), (d), and (e), section 4(b), and section 7(a), the Secretary shall complete the interim conveyance of the 25 parcels of Federal land comprising approximately 69,235 acres generally depicted on the maps by the date that is 60 days after the date of receipt of the resolution under section 4(a), subject to the Secretary identifying and reserving, by the date that is 2 years after the date of enactment of this Act, or as soon as practicable thereafter, any easement that could have been reserved in accordance with this Act prior to the interim conveyance.
 - **(b)** *Withdrawal*
   - **(1)** *In general* Subject to valid existing rights, the Federal land described in subsection (a) is withdrawn from—
     - **(A)** all forms of appropriation under the public land laws;
@@ -174,8 +174,9 @@ In this Act:
     - **(D)** *Determination of location; legal description* Sealaska shall—
       - **(i)** in consultation with the Secretary, determine the location within the corridor of the centerline of the road described in subparagraph (B)(i); and
       - **(ii)** provide to the Secretary a legal description of the centerline acceptable for granting the easement described in subparagraph (B)(i).
+    - **(E)** *Effect* Nothing in this paragraph shall preempt or otherwise affect State or local regulatory authority.
 - **(e)** *Hunting, fishing, and recreation*
-  - **(1)** *In general* Any land conveyed under subsection (a) that is located outside a withdrawal area designated under section 16(a) of the Alaska Native Claims Settlement Act (43 U.S.C. 1615(a)) shall remain open and available to subsistence uses, as that term is defined in section 803 of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3113), and noncommercial recreational hunting and fishing and other recreational uses by the public under applicable law—
+  - **(1)** *In general* Any land conveyed under subsection (a) that is located outside a withdrawal area designated under section 16(a) of the Alaska Native Claims Settlement Act (43 U.S.C. 1615(a)) shall remain open and available to subsistence uses and noncommercial recreational hunting and fishing and other recreational uses by the public under applicable law—
     - **(A)** without liability on the part of Sealaska, except for willful acts, to any user as a result of the use; and
     - **(B)** subject to—
       - **(i)** any reasonable restrictions that may be imposed by Sealaska on the public use—
@@ -241,19 +242,19 @@ In this Act:
 - **(b)** *Roads and facilities* Not later than 1 year after the date of enactment of this Act, the Secretary of Agriculture and Sealaska shall negotiate in good faith to develop a binding agreement—
   - **(1)** for the use of National Forest System roads and related transportation facilities by Sealaska; and
   - **(2)** the use of Sealaska roads and related transportation facilities by the Forest Service.
-- **(c)** *Traditional trade and migration route designations*
-  - **(1)** *Designations*
-    - **(A)** *The inside passage* The route from Yakutat to Dry Bay, as generally depicted on the map entitled “Traditional Trade and Migration Route, Neix naax aan náx—The Inside Passage” and dated October 17, 2012, is designated as “Neix naax aan náx” (“The Inside Passage”).
-    - **(B)** *Canoe road* The route from the Bay of Pillars to Port Camden, as generally depicted on the map entitled “Traditional Trade and Migration Route, Yakwdeiyí—Canoe Road” and dated October 17, 2012, is designated as “Yakwdeiyí” (“Canoe Road”).
-    - **(C)** *The people’s road* The route from Portage Bay to Duncan Canal, as generally depicted on the map entitled “Traditional Trade and Migration Route, Lingít Deiyí—The People’s Road” and dated October 17, 2012, is designated “Lingít Deiyí” (“The People’s Road”).
+- **(c)** *Traditional trade and migration routes*
+  - **(1)** *Routes*
+    - **(A)** *The inside passage* The route from Yakutat to Dry Bay, as generally depicted on the map entitled “Traditional Trade and Migration Route, Neix naax aan náx—The Inside Passage” and dated October 17, 2012, shall be known as “Neix naax aan náx” (“The Inside Passage”).
+    - **(B)** *Canoe road* The route from the Bay of Pillars to Port Camden, as generally depicted on the map entitled “Traditional Trade and Migration Route, Yakwdeiyí—Canoe Road” and dated October 17, 2012, shall be known as “Yakwdeiyí” (“Canoe Road”).
+    - **(C)** *The people’s road* The route from Portage Bay to Duncan Canal, as generally depicted on the map entitled “Traditional Trade and Migration Route, Lingít Deiyí—The People’s Road” and dated October 17, 2012, shall be known as “Lingít Deiyí” (“The People’s Road”).
   - **(2)** *Access to traditional trade and migration routes* The culturally and historically significant trade and migration routes designated by paragraph (1) shall be open to travel by Sealaska and the public in accordance with applicable law, subject to such terms, conditions, and special use authorizations as the Secretary of Agriculture may require.
 - **(d)** *Technical corrections*
-  - **(1)** *Tribal forest protection* Section 2 of the Tribal Forest Protection Act of 2004, 25 U.S.C. 3115a, is amended by adding a new subsection (h):
+  - **(1)** *Tribal forest protection* Section 2 of the Tribal Forest Protection Act of 2004, (25 U.S.C. 3115a), is amended by adding at the end a new subsection (h):
     > - **(h)**
     >   - **(1)** Land owned by an Alaska Native Corporation pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) that is forest land or formerly had a forest cover or vegetative cover that is capable of restoration shall be eligible for agreements and contracts authorized under this Act and administered by the Secretary.
     >   - **(2)** Nothing in this subsection validates, invalidates, or otherwise affects any claim regarding the existence of Indian country (as defined in section 1151 of title 18, United States Code) in the State of Alaska.
 
-  - **(2)** *National historic preservation* Section 101(d) of the National Historic Preservation Act, 16 U.S.C. 470a(d), is amended by adding a new paragraph (7):
+  - **(2)** *National historic preservation* Section 101(d) of the National Historic Preservation Act, (16 U.S.C. 470a(d)), is amended by adding at the end a new paragraph (7):
     > - **(7)**
     >   - **(A)** Notwithstanding any other provision of law, an Alaska Native tribe, band, nation or other organized group or community, including a Native village, Regional Corporation, or Village Corporation, shall be eligible to participate in all programs administered by the Secretary under this Act on behalf of Indian tribes, including, but not limited to, securing grants and other support to manage their own historic preservation sites and programs on lands held by the Alaska Native tribe, band, nation or other organized group or community, including a Native village, Regional Corporation, or Village Corporation.
     >   - **(B)** Nothing in this paragraph validates, invalidates, or otherwise affects any claim regarding the existence of Indian country (as defined in section 1151 of title 18, United States Code) in the State of Alaska.

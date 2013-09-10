@@ -1,7 +1,7 @@
 ---
 measure: H.R. 740
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `25 U.S.C. § 3115a` | amend | Section 2 of the Tribal Forest Protection Act of 2004, 25 U.S.C. 3115a, is amended by adding a new subsection (h): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 470a` | amend | Section 101(d) of the National Historic Preservation Act, 16 U.S.C. 470a(d), is amended by adding a new paragraph (7): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3115a` | add-at-end | Section 2 of the Tribal Forest Protection Act of 2004, (25 U.S.C. 3115a), is amended by adding at the end a new subsection (h): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 470a` | add-at-end | Section 101(d) of the National Historic Preservation Act, (16 U.S.C. 470a(d)), is amended by adding at the end a new paragraph (7): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
