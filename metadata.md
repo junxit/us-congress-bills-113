@@ -1,7 +1,7 @@
 ---
 measure: S. 130
 congress: 113
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 130
@@ -57,3 +57,9 @@ Powell Shooting Range Land Conveyance Act
 - 2013-09-10 — Placed on the Union Calendar, Calendar No. 137.
 - 2013-09-10 — Reported by the Committee on Natural Resources. H. Rept. 113-190.
 - 2013-09-10 — Reported by the Committee on Natural Resources. H. Rept. 113-190.
+- 2013-09-12 — Presented to President.
+- 2013-09-12 — Presented to President.
+- 2013-09-18 — Became Public Law No: 113-32.
+- 2013-09-18 — Became Public Law No: 113-32.
+- 2013-09-18 — Signed by President.
+- 2013-09-18 — Signed by President.
