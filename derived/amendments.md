@@ -1,7 +1,7 @@
 ---
 measure: S. 289
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
