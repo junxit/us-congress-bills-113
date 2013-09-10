@@ -1,7 +1,7 @@
 ---
 measure: S. 1427
 congress: 113
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 1427
@@ -20,12 +20,16 @@ Family Farmer Bankruptcy Clarification Act of 2013
 
 - Sen. Franken, Al [D-MN] (F000457)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Finance Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
 - 2013-08-01 — Introduced in Senate
 - 2013-08-01 — Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S6218)
 - 2013-08-01 — Sponsor introductory remarks on measure. (CR S6217-6218)
+- 2013-09-10 — Referred to the Committee on the Judiciary by unanimous consent.
+- 2013-09-10 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S6335)
+- 2013-09-10 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S6335)

@@ -1,7 +1,7 @@
 ---
 measure: S. 1427
 congress: 113
-version: Introduced in Senate
+version: Reference Change Senate
 derived: true
 ---
 
