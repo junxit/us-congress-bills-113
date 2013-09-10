@@ -28,3 +28,4 @@ In this Act:
   - **(1)** all forms of location, entry, and patent under the mining laws; and
   - **(2)** disposition under all laws relating to mineral leasing and geothermal leasing.
 - **(b)** *Availability of map* Not later than 30 days after the date of enactment of this Act, the Map shall be made available to the public at each appropriate office of the Bureau of Land Management.
+- **(c)** *Effect of section* Nothing in this section prohibits the Secretary of the Interior from taking any action necessary to complete any requirement under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) or the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) required for permitting surface-disturbing activity to occur on any lease issued before the date of enactment of this Act.
