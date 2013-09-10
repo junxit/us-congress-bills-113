@@ -1,7 +1,7 @@
 ---
 measure: S. 459
 congress: 113
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 459
@@ -57,3 +57,9 @@ Minuteman Missile National Historic Site Boundary Modification Act
 - 2013-09-10 — Placed on the Union Calendar, Calendar No. 140.
 - 2013-09-10 — Reported by the Committee on Natural Resources. H. Rept. 113-193.
 - 2013-09-10 — Reported by the Committee on Natural Resources. H. Rept. 113-193.
+- 2013-09-12 — Presented to President.
+- 2013-09-12 — Presented to President.
+- 2013-09-18 — Became Public Law No: 113-36.
+- 2013-09-18 — Became Public Law No: 113-36.
+- 2013-09-18 — Signed by President.
+- 2013-09-18 — Signed by President.
