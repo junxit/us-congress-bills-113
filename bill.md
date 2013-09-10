@@ -21,7 +21,7 @@ This Act may be cited as the “Supporting Academic Freedom through Regulatory R
     - **(B)** *Definition of credit hour* The definition of the term “credit hour” in section 600.2 of title 34, Code of Federal Regulations, as added by the final regulations published by the Department of Education in the Federal Register on October 29, 2010 (75 Fed. Reg. 66946), and clauses (i)(A), (ii), and (iii) of subsection (k)(2) of section 668.8 of such title, as amended by such final regulations (75 Fed. Reg. 66949 et seq.).
     - **(C)** *Gainful employment* Sections 600.10(c), 600.20(d), 668.6, and 668.7, of title 34, Code of Federal Regulations as added or amended by the final regulations published by the Department of Education in the Federal Register on October 29, 2010 (75 Fed. Reg. 66832 et seq. and 75 Fed. Reg. 66665 et seq.) and June 13, 2011 (76 Fed. Reg. 34386 et seq.).
   - **(2)** *Effect of repeal* To the extent that regulations repealed by paragraph (1) amended regulations that were in effect on June 30, 2011, the provisions of the regulations that were in effect on June 30, 2011, and were so amended are restored and revived as if the regulations repealed by paragraph (1) had not taken effect.
-- **(b)** *Regulations prohibited*
+- **(b)** *Certain regulations prohibited*
   - **(1)** *State authorization and gainful employment*
     - **(A)** *In general* The Secretary of Education shall not, during the period described in subparagraph (B), promulgate or enforce any regulation or rule not in effect on the date of enactment of this Act for any purpose under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) with respect to—
       - **(i)** the State authorization for institutions of higher education to operate within a State; or

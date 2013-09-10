@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2637
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `34 U.S.C. § 600` | repeal | The following regulations (including any supplement or revision to such regulations) are repealed and shall have no legal effect: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1001` | repeal | The following regulations (including any supplement or revision to such regulations) are repealed and shall have no legal effect: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1094` | add-at-end | Section 487(a)(20) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(20)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
