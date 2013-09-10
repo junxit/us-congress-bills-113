@@ -1,7 +1,7 @@
 ---
 measure: S. 459
 congress: 113
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 459
@@ -25,6 +25,10 @@ Minuteman Missile National Historic Site Boundary Modification Act
 - Senate — Energy and Natural Resources Committee
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2013-09-10 — [House 113-1-455](votes/house-113-1-0455.md) — On Motion to Suspend the Rules and Pass — **Passed** (414–5)
+
 ## Actions
 
 - 2013-03-05 — Introduced in Senate
@@ -38,3 +42,18 @@ Minuteman Missile National Historic Site Boundary Modification Act
 - 2013-06-20 — Message on Senate action sent to the House.
 - 2013-06-20 — Received in the House.
 - 2013-06-20 — Referred to the House Committee on Natural Resources.
+- 2013-06-21 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2013-07-19 — Subcommittee Hearings Held.
+- 2013-07-24 — Committee Consideration and Mark-up Session Held.
+- 2013-07-24 — Ordered to be Reported by Unanimous Consent.
+- 2013-07-24 — Subcommittee on Public Lands and Environmental Regulation Discharged.
+- 2013-09-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-09-10 — Considered as unfinished business. (consideration: CR H5459-5460)
+- 2013-09-10 — Considered under suspension of the rules. (consideration: CR H5454-5455)
+- 2013-09-10 — DEBATE - The House proceeded with forty minutes of debate on S. 459.
+- 2013-09-10 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
+- 2013-09-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 5 (Roll no. 455). (text: CR H5454)
+- 2013-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 5 (Roll no. 455).(text: CR H5454)
+- 2013-09-10 — Placed on the Union Calendar, Calendar No. 140.
+- 2013-09-10 — Reported by the Committee on Natural Resources. H. Rept. 113-193.
+- 2013-09-10 — Reported by the Committee on Natural Resources. H. Rept. 113-193.
