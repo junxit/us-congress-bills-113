@@ -57,13 +57,18 @@ In this Act:
       - **(i)** allows for research and interpretation of the natural, historic, cultural, geologic and other scientific features of the Preserve;
       - **(ii)** provides for improved methods of ecological restoration and science-based adaptive management of the Preserve; and
       - **(iii)** promotes outdoor educational experiences in the Preserve.
-  - **(2)** *Science and education center* As part of the program established under paragraph (1)(B), the Secretary may establish a science and education center outside the boundaries of the Preserve.
-- **(e)** *Grazing* The Secretary may allow the grazing of livestock within the Preserve to continue—
-  - **(1)** consistent with this Act; and
+  - **(2)** *Science and education center* As part of the program established under paragraph (1)(B), the Secretary may establish a science and education center outside the boundaries of the Preserve in Jemez Springs, New Mexico.
+- **(e)** *Grazing* The Secretary mayshall allow the grazing of livestock within the Preserve to continue—
+  - **(1)** at levels and locations determined by the Secretary to be appropriate, consistent with this Act; and
   - **(2)** to the extent the use furthers scientific research or interpretation of the ranching history of the Preserve.
 - **(f)** *Fish and wildlife* Nothing in this Act affects the responsibilities of the State with respect to fish and wildlife in the State, except that the Secretary, in consultation with the New Mexico Department of Game and Fish—
   - **(1)** shall permit hunting and fishing on land and water within the Preserve in accordance with applicable Federal and State laws; and
   - **(2)** may designate zones in which, and establish periods during which, no hunting or fishing shall be permitted for reasons of public safety, administration, the protection of wildlife and wildlife habitats, or public use and enjoyment.
+- **(f)** *Hunting, fishing, and trapping*
+  - **(1)** *In general* Except as provided in paragraph (2), the Secretary shall permit hunting, fishing, and trapping on land and water within the Preserve in accordance with applicable Federal and State law.
+  - **(2)** *Administrative exceptions* The Secretary may designate areas in which, and establish limited periods during which, no hunting, fishing, or trapping shall be permitted under paragraph (1) for reasons of public safety, administration, or compliance with applicable law.
+  - **(3)** *Agency agreement* Except in an emergency, regulations closing areas within the Preserve to hunting, fishing, or trapping under this subsection shall be made in consultation with the appropriate agency of the State having responsibility for fish and wildlife administration.
+  - **(4)** *Savings Clause* Nothing in this Act affects any jurisdiction or responsibility of the State with respect to fish and wildlife in the Preserve.
 - **(g)** *Ecological Restoration*
   - **(1)** *In general* The Secretary shall undertake activities to improve the health of forest, grassland, and riparian areas within the Preserve, including any activities carried out in accordance with title IV of the Omnibus Public Land Management Act of 2009 (16 U.S.C. 7301 et seq.).
   - **(2)** *Cooperative agreements* The Secretary may enter into cooperative agreements with adjacent pueblos to coordinate activities carried out under paragraph (1) on the Preserve and adjacent pueblo land.
