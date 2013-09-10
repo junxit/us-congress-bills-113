@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2052
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2052
@@ -33,9 +33,10 @@ Global Investment in American Jobs Act of 2013
 - Rep. Radel, Trey [R-FL-19] (R000596)
 - Rep. Levin, Sander M. [D-MI-9] (L000263)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -57,3 +58,4 @@ Global Investment in American Jobs Act of 2013
 - 2013-09-09 — Mr. Terry moved to suspend the rules and pass the bill, as amended.
 - 2013-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 32, 1 Present (Roll no. 448). (text: CR H5411)
 - 2013-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 32, 1 Present (Roll no. 448).(text: CR H5411)
+- 2013-09-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
