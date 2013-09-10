@@ -121,10 +121,14 @@ A reference in this Act to “the Act” is a reference to the Public Lands Serv
     >   - **(2)** *Resource assistants and consulting interns* The Secretary may also enroll in the Corps resource assistants and consulting interns in accordance with section 206(a).
     >   - **(3)** *Eligibility requirements* To be eligible for enrollment as a Corps participant, an individual shall—
     >     - **(A)** be between the ages of 15 and 25, inclusive; and
+    >     - **(A)**
+    >       - **(i)** be between the ages of 15 and 25, inclusive; or
+    >       - **(ii)** in the case of a military veteran, be not older than 35; and
     >     - **(B)** satisfy the requirements of section 137(a)(5) of the National and Community Service Act of 1990 (42 U.S.C. 12591(a)(5)).
     >   - **(4)** *Terms* Each Corps participant may be enrolled in the Corps for a term of up to 2 years of service, which may be served over a period that exceeds 2 calendar years.
     >   - **(5)** *Civil service* An individual may be enrolled as a Corps participant without regard to the civil service and classification laws, rules, or regulations of the United States.
-    >   - **(6)** *Preference* The Secretary may establish a preference for the enrollment as Corps participants individuals who are economically, physically, or educationally disadvantaged.
+    >   - **(6)** *Preference* The Secretary may establish a preference for the enrollment as Corps participants individuals who are economically, physically, or educationally disadvantaged.”.or educationally disadvantaged.
+    >   - **(7)** *Local preference* The Secretary may establish a preference for enrollment of Corps participants individuals who live in that State or region.
 
   - **(4)** in subsection (d) (as redesignated by paragraph (1))—
     - **(A)** in paragraph (1)—
@@ -151,6 +155,9 @@ A reference in this Act to “the Act” is a reference to the Public Lands Serv
     >       - **(ii)** the mission of the agency; and
     >       - **(iii)** any agency-specific standards for the management of natural, cultural, historic, archaeological, recreational, and scenic resources; and
     >     - **(D)** take into account training already received by Corps participants enrolled from qualified youth or conservation corps.
+
+  - **(5)** by inserting after subsection (d) (as redesignated by paragraph (1)) the following:
+    > - **(e)** *Training* For purposes of training, the Secretary shall take into account training already received by Corps participants enrolled from qualified youth or conservation corps.
 
   - **(6)** in subsection (f) (as redesignated by paragraph (1))—
     - **(A)** in paragraph (1)—
@@ -217,12 +224,20 @@ A reference in this Act to “the Act” is a reference to the Public Lands Serv
       > - **(2)** *Temporary housing* The Secretary may make arrangements with another Federal agency, State, local government, or private organization to provide temporary housing for Corps participants as needed and available.
       > - **(3)** *Transportation* In project areas where Corps participants can reasonably be expected to reside at their own homes, the Secretary may fund or provide transportation to and from project sites.
 
-  - **(4)** by redesignating subsection (d) as subsection (f);
-  - **(5)** by inserting after subsection (c) the following:
-    > - **(d)** *Facilities* The Secretary may, as an appropriate natural and cultural resources conservation project, direct Corps participants to aid in the construction or rehabilitation of residential conservation center facilities, including housing.
-    > - **(e)** *Mentors* The Secretary may recruit from programs, such as Federal volunteer and encore service programs, and from veterans groups, military retirees, and active duty personnel, such adults as may be suitable and qualified to provide training, mentoring, and crew-leading services to Corps participants.
+  - **(1)** in subsection (b)—
+    - **(A)** by striking “The Secretary” and inserting the following:
+      > - **(1)** *In general* The Secretary
 
-  - **(6)** in subsection (f) (as redesignated by paragraph (4)), by striking “that are appropriate” and all that follows through the period and inserting “that the Secretary determines to be necessary for a residential conservation center.”.
+    - **(B)** by adding at the end the following:
+      > - **(2)** *Temporary housing* The Secretary may make arrangements with another Federal agency, State, local government, or private organization to provide temporary housing for Corps participants as needed and available.
+      > - **(3)** *Transportation* In project areas where Corps participants reside at their own homes, the Secretary may provide transportation to and from project sites.
+
+  - **(4)(2)** by redesignating subsection (d) as subsection (f)(e);
+  - **(5)(3)** by inserting after subsection (c) the following:
+    > - **(d)** *Facilities* The Secretary may, as an appropriate natural and cultural resources conservation project, direct Corps participants to aid in the construction or rehabilitation of residential conservation center facilities, including housing.
+    > - **(e)(d)** *Mentors* The Secretary may recruit from programs, such as Federal volunteer and encore service programs, and from veterans groups, military retirees, and active duty personnel, such adults as may be suitable and qualified to provide training, mentoring, and crew-leading services to Corps participants.
+
+  - **(6)** in subsection (f)(4) in subsection (e)(as redesignated by paragraph (4)(2)), by striking “that are appropriate” and all that follows through the period and inserting “that the Secretary determines to be necessary for a residential conservation center.”.
 - **(g)** *Resource Assistants and Consulting Interns* Section 206 of the Act (16 U.S.C. 1725) is amended—
   - **(1)** in the section heading, by inserting “and consulting interns” before the period;
   - **(2)** by striking subsections (a) and (b) and inserting the following:

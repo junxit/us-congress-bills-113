@@ -1,7 +1,7 @@
 ---
 measure: S. 360
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-80 amendatory instructions. 22 executed, 58 stated and not applied.
+83 amendatory instructions. 22 executed, 61 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -161,7 +161,7 @@ to guess them.
 
 ### 16 U.S.C. § 1724
 
-> in subsection (f) (as redesignated by paragraph (4)), by striking “that are appropriate” and all that follows through the period and inserting “that the Secretary determines to be necessary for a residential conservation center.”.
+> in subsection (f)(4) in subsection (e)(as redesignated by paragraph (4)(2)), by striking “that are appropriate” and all that follows through the period and inserting “that the Secretary determines to be necessary for a residential conservation center.”.
 
 | | |
 |---|---|
@@ -260,6 +260,7 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1723` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1723` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1723` | redesignate | by inserting after subsection (d) (as redesignated by paragraph (1)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1723` | redesignate | by inserting after subsection (d) (as redesignated by paragraph (1)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1723` | replace | by striking “The Secretary may utilize the Corps or any qualified youth or conservation corps to carry out” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1723` | replace | by striking “on public lands” and inserting on “on eligible service lands”; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1723` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -273,7 +274,9 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1724` | redesignate | in paragraph (2) (as redesignated by subparagraph (C)), in the heading, by striking “for conservation centers”; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1724` | replace | by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1724` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1724` | redesignate | by redesignating subsection (d) as subsection (f); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1724` | replace | by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1724` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1724` | redesignate | by redesignating subsection (d) as subsection (f)(e); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1724` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1723` | insert | in the section heading, by inserting “and consulting interns” before the period; | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1723` | replace | by striking subsections (a) and (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
