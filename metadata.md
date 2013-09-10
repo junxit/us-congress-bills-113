@@ -1,7 +1,7 @@
 ---
 measure: S. 28
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 28
@@ -16,11 +16,12 @@ Upper Y Mountain Trail and Y Conveyance Act
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Lee, Mike [R-UT] (L000577)
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Heller, Dean [R-NV] (H001041)
 
 ## Committees (1)
 
@@ -30,3 +31,8 @@ Upper Y Mountain Trail and Y Conveyance Act
 
 - 2013-01-22 — Introduced in Senate
 - 2013-01-22 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-04-25 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 113-28.
+- 2013-06-18 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2013-09-10 — Committee on Energy and Natural Resources. Reported by Senator Wyden with amendments and an amendment to the title. With written report No. 113-92.
+- 2013-09-10 — Committee on Energy and Natural Resources. Reported by Senator Wyden with amendments and an amendment to the title. With written report No. 113-92.
+- 2013-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 170.

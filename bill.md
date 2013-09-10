@@ -11,11 +11,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Y Mountain Access Enhancement Act” .
+This Act may be cited as the “Y Mountain Access Enhancement ActUpper Y Mountain Trail and Y Conveyance Act”.
 
 ## § 2. Land conveyance, Uinta-Wasatch-Cache National Forest, Utah
 
-- **(a)** *Conveyance required* On the request of Brigham Young University submitted to the Secretary of Agriculture not later than one year after the date of the enactment of this Act, the Secretary shall convey, not later than one year after receiving the request, to Brigham Young University all right, title, and interest of the United States in and to an approximately 80-acre parcel of National Forest System land in the Uinta-Wasatch-Cache National Forest in the State of Utah consisting of SE1/4SE1/4 of Section 32, T. 6 S., R. 3 E., and lot 4 of Section 5, T. 7 S., R. 3 E., Salt Lake Base & Meridian. The conveyance shall be subject to valid existing rights and shall be made by quitclaim deed.
+- **(a)** *Conveyance required* On the request of Brigham Young University submitted to the Secretary of Agriculture not later than one year after the date of the enactment of this Act, the Secretary shall convey, not later than one year after receiving the request, to Brigham Young University all right, title, and interest of the United States in and to an approximately 80-acre parcel of National Forest System land in the Uinta-Wasatch-Cache National Forest in the State of Utah consisting of SE1/4SE1/4 of Section 32, T. 6 S., R. 3 E., and lot 4 of Section 5, T. 7 S., R. 3 E., Salt Lake Base & Meridian. The conveyance shall be subject to valid existing rights and shall be made by quitclaim deed.National Forest in the State of Utah, as generally depicted on the map entitled “Upper Y Mountain Trail and Y Conveyance Act” and dated June 6, 2013, subject to valid existing rights and by quitclaim deed.
 - **(b)** *Consideration*
   - **(1)** *Consideration required* As consideration for the land conveyed under subsection (a), Brigham Young University shall pay to the Secretary an amount equal to the fair market value of the land, as determined by an appraisal approved by the Secretary and conducted in conformity with the Uniform Appraisal Standards for Federal Land Acquisitions and section 206 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1716).
   - **(2)** *Deposit* The consideration received by the Secretary under paragraph (1) shall be deposited in the general fund of the Treasury to reduce the Federal deficit.
