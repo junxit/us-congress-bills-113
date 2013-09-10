@@ -30,7 +30,7 @@ Section 2(a) of the Colorado Wilderness Act of 1993 (16 U.S.C. 1132 note; Public
 
 > - **(20)** *Lizard Head wilderness addition* Certain Federal land in the Grand Mesa, Uncompahgre, and Gunnison National Forests comprising approximately 3,350 acres, as generally depicted on the map entitled Proposed Wilson, Sunshine, Black Face and San Bernardo Additions to the Lizard Head Wilderness and dated December 1, 2010, which is incorporated in, and shall be administered as part of, the Lizard Head Wilderness.
 > - **(21)** *Mount Sneffels Wilderness additions*
->   - **(A)** *Liberty Bell and Last Dollar Additions* Certain Federal land in the Grand Mesa, Uncompahgre, and Gunnison National Forests comprising approximately 8,250 acres, as generally depicted on the map entitled Proposed Liberty Bell and Last Dollar Additions to the Mt. Sneffels Wilderness and dated December 1, 2010, which is incorporated in, and shall be administered as part of, the Mount Sneffels Wilderness.
+>   - **(A)** *Liberty Bell and Last Dollar Additions* Certain Federal land in the Grand Mesa, Uncompahgre, and Gunnison National Forests comprising approximately 8,2507,438 acres, as generally depicted on the map entitled Proposed Liberty Bell and Last Dollar Additions to the Mt. Sneffels Wilderness and dated December 1, 2010June 11, 2013, which is incorporated in, and shall be administered as part of, the Mount Sneffels Wilderness.
 >   - **(B)** *Whitehouse Additions* Certain Federal land in the Grand Mesa, Uncompahgre, and Gunnison National Forests comprising approximately 13,000 acres, as generally depicted on the map entitled Proposed Whitehouse Additions to the Mt. Sneffels Wilderness and dated December 1, 2010, which is incorporated in, and shall be administered as part of, the Mount Sneffels Wilderness.
 > - **(22)** *McKenna Peak Wilderness* Certain Federal land in the State of Colorado comprising approximately 8,600 acres of Bureau of Land Management land, as generally depicted on the map entitled McKenna Peak Wilderness and dated November 10, 2010, to be known as the McKenna Peak Wilderness.
 
@@ -60,7 +60,7 @@ Section 2(a) of the Colorado Wilderness Act of 1993 (16 U.S.C. 1132 note; Public
 
 ## § 5. Administrative provisions
 
-- **(a)** *Authorized events* The Secretary may continue to authorize the competitive running event permitted since 1992 in the vicinity of the Special Management Area and the Liberty Bell addition to the Mount Sneffels Wilderness designated by section 2(a)(21) of the Colorado Wilderness Act of 1993 (as added by section 3) in a manner compatible with the preservation of the areas as wilderness.
+- **(a)** *Authorized events* The Secretary may continue to authorize the competitive running event permitted since 1992 in the vicinity of the Special Management Area, the Liberty Bell East Special Management Area, and the Liberty Bell addition to the Mount Sneffels Wilderness designated by section 2(a)(21) of the Colorado Wilderness Act of 1993 (as added by section 3) in a manner compatible with the preservation of the areas as wilderness.
 - **(b)** *Fish and Wildlife* Nothing in this Act affects the jurisdiction or responsibility of the State with respect to fish and wildlife in the State.
 - **(c)** *No Buffer Zones*
   - **(1)** *In general* Nothing in this Act creates a protective perimeter or buffer zone around covered land.
@@ -77,10 +77,11 @@ Section 2(a) of the Colorado Wilderness Act of 1993 (16 U.S.C. 1132 note; Public
 - **(f)** *Grazing* The grazing of livestock on covered land, if established before the date of enactment of this Act, shall be permitted to continue subject to such reasonable regulations as are considered necessary by the Secretary with jurisdiction over the covered land, in accordance with—
   - **(1)** section 4(d)(4) of the Wilderness Act (16 U.S.C. 1133(d)(4)); and
   - **(2)** the guidelines set forth in Appendix A of the report of the Committee on Interior and Insular Affairs of the House of Representatives accompanying H.R. 2570 of the 101st Congress (H. Rept. 101–405) and H.R. 5487 of the 96th Congress (H. Rept. 96–617).
-- **(g)** *Withdrawal* Subject to valid rights in existence on the date of enactment of this Act, the covered land and the approximately 6,600 acres generally depicted on the map entitled Proposed Naturita Canyon Mineral Withdrawal Area and dated January 26, 2010, is withdrawn from—
+- **(g)** *Withdrawal* Subject to valid rights in existence on the date of enactment of this Act, the covered land, and the approximately 6,600 acres generally depicted on the map entitled Proposed Naturita Canyon Mineral Withdrawal Area and dated January 26, 2010, and the approximately 774 acres generally depicted on the map entitled “Proposed Liberty Bell East Special Management Area” and dated June 11, 2013, is withdrawn from—
   - **(1)** entry, appropriation, and disposal under the public land laws;
   - **(2)** location, entry, and patent under mining laws; and
   - **(3)** operation of the mineral leasing, mineral materials, and geothermal leasing laws.
+- **(h)** *Prohibition on motorized and mechanized travel in the Liberty Bell East Special management area* Except as necessary to meet the minimum requirements for the administration of the covered land and to protect public health and safety, the use of motor vehicles, motorized equipment, or mechanical transport shall be prohibited in the approximately 774 acres generally depicted on the map entitled “Proposed Liberty Bell East Special Management Area” and dated June 11, 2013.
 
 ## § 6. Technical correction
 
