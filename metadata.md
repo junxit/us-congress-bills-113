@@ -1,7 +1,7 @@
 ---
 measure: S. 304
 congress: 113
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 304
@@ -57,3 +57,9 @@ Natchez Trace Parkway Land Conveyance Act of 2013
 - 2013-09-10 — Placed on the Union Calendar, Calendar No. 138.
 - 2013-09-10 — Reported by the Committee on Natural Resources. H. Rept. 113-191.
 - 2013-09-10 — Reported by the Committee on Natural Resources. H. Rept. 113-191.
+- 2013-09-12 — Presented to President.
+- 2013-09-12 — Presented to President.
+- 2013-09-18 — Became Public Law No: 113-35.
+- 2013-09-18 — Became Public Law No: 113-35.
+- 2013-09-18 — Signed by President.
+- 2013-09-18 — Signed by President.
