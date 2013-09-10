@@ -1,7 +1,7 @@
 ---
 measure: S. 718
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,5 +32,8 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `12 U.S.C. § 635e` | amend | Section 6(a) of the Export-Import Bank Act of 1945 (12 U.S.C. 635e(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | in the matter preceding paragraph (1), by inserting “the Trade Promotion Coordinating Committee,” after “Director of the United States Trade and Development Agency,”; and | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (3), by inserting “regional offices of the Export-Import Bank,” after “Retired Executives,”. | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 649` | insert | in the matter preceding paragraph (1), by inserting “the Trade Promotion Coordinating Committee,” after “Director of the United States Trade and Development Agency,”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 649` | insert | in paragraph (3), by inserting “regional offices of the Export-Import Bank,” after “Retired Executives,”. | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 635e` | amend | Section 6(a) of the Export-Import Bank Act of 1945 (12 U.S.C. 635e(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 649` | insert | in the matter preceding paragraph (1), by inserting “the Trade Promotion Coordinating Committee,” after “Director of the United States Trade and Development Agency,”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 649` | insert | in paragraph (3), by inserting “regional offices of the Export-Import Bank,” after “Retired Executives,”. | the bill quotes the text inserted but describes where it goes |
