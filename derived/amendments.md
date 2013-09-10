@@ -1,7 +1,7 @@
 ---
 measure: S. 537
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 633` | add-at-end | Section 4 of the Small Business Act (15 U.S.C. 633) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 661` | add-at-end | Section 4 of the Small Business Act (15 U.S.C. 633) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
