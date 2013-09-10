@@ -1,7 +1,7 @@
 ---
 measure: S. 353
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 9 executed, 5 stated and not applied.
+28 amendatory instructions. 18 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,87 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 16 U.S.C. § 1274
+
+> in the heading, by striking “Squaw Creek” and inserting “Whychus Creek”;
+
+| | |
+|---|---|
+| Removed | `Squaw Creek` |
+| Inserted | `Whychus Creek` |
+
+### 16 U.S.C. § 1274
+
+> in the matter preceding subparagraph (A), by striking “McAllister Ditch, including the Soap Fork Squaw Creek, the North Fork, the South Fork, the East and West Forks of Park Creek, and Park Creek Fork” and inserting “Plainview Ditch, including the Soap Creek, the North and South Forks of Whychus Creek, the East and West Forks of Park Creek, and Park Creek”; and
+
+| | |
+|---|---|
+| Removed | `McAllister Ditch, including the Soap Fork Squaw Creek, the North Fork, the South Fork, the East and West Forks of Park Creek, and Park Creek Fork` |
+| Inserted | `Plainview Ditch, including the Soap Creek, the North and South Forks of Whychus Creek, the East and West Forks of Park Creek, and Park Creek` |
+
+### 16 U.S.C. § 1274
+
+> in subparagraph (B), by striking “McAllister Ditch” and inserting “Plainview Ditch”.
+
+| | |
+|---|---|
+| Removed | `McAllister Ditch` |
+| Inserted | `Plainview Ditch` |
+
+### 16 U.S.C. § 1274
+
+> by striking “25.5-mile” and inserting “27.5-mile”; and
+
+| | |
+|---|---|
+| Removed | `25.5-mile` |
+| Inserted | `27.5-mile` |
+
+### 16 U.S.C. § 1274
+
+> by striking “Boulder Creek at the Kalmiopsis Wilderness boundary” and inserting “Mislatnah Creek”;
+
+| | |
+|---|---|
+| Removed | `Boulder Creek at the Kalmiopsis Wilderness boundary` |
+| Inserted | `Mislatnah Creek` |
+
+### 16 U.S.C. § 1274
+
+> by striking “8” and inserting “7.5”; and
+
+| | |
+|---|---|
+| Removed | `8` |
+| Inserted | `7.5` |
+
+### 16 U.S.C. § 1274
+
+> by striking “Boulder Creek to Steel Bridge” and inserting “Mislatnah Creek to Eagle Creek”;
+
+| | |
+|---|---|
+| Removed | `Boulder Creek to Steel Bridge` |
+| Inserted | `Mislatnah Creek to Eagle Creek` |
+
+### 16 U.S.C. § 1274
+
+> by striking “11” and inserting “9.5”; and
+
+| | |
+|---|---|
+| Removed | `11` |
+| Inserted | `9.5` |
+
+### 16 U.S.C. § 1274
+
+> by striking “Steel Bridge” and inserting “Eagle Creek”; and
+
+| | |
+|---|---|
+| Removed | `Steel Bridge` |
+| Inserted | `Eagle Creek` |
 
 ### 16 U.S.C. § 1274
 
@@ -114,6 +195,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `16 U.S.C. § 1274` | replace | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by striking paragraph (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1274` | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1274` | redesignate | by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1274` | redesignate | in the matter preceding clause (i) (as so redesignated), by striking “The 44.5-mile” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1274` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1274` | replace | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by striking paragraph (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1274` | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1274` | redesignate | by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
