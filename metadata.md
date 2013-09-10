@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2844
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2844
@@ -22,9 +22,10 @@ Federal Communications Commission Consolidated Reporting Act of 2013
 - Rep. Eshoo, Anna G. [D-CA-18] (E000215)
 - Rep. Harper, Gregg [R-MS-3] (H001045)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Federal Communications Commission Consolidated Reporting Act of 2013
 - 2013-09-09 — Placed on the Union Calendar, Calendar No. 136.
 - 2013-09-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-189.
 - 2013-09-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-189.
+- 2013-09-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
