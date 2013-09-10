@@ -1,7 +1,7 @@
 ---
 measure: S. 157
 congress: 113
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 157
@@ -39,3 +39,15 @@ Denali National Park Improvement Act
 - 2013-06-20 — Message on Senate action sent to the House.
 - 2013-06-20 — Received in the House.
 - 2013-06-20 — Referred to the House Committee on Natural Resources.
+- 2013-06-21 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2013-07-24 — Committee Consideration and Mark-up Session Held.
+- 2013-07-24 — Ordered to be Reported by Unanimous Consent.
+- 2013-07-24 — Subcommittee on Public Lands and Environmental Regulation Discharged.
+- 2013-09-10 — Considered under suspension of the rules. (consideration: CR H5451-5452)
+- 2013-09-10 — DEBATE - The House proceeded with forty minutes of debate on S. 157.
+- 2013-09-10 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
+- 2013-09-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5451-5452)
+- 2013-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5451-5452)
+- 2013-09-10 — Placed on the Union Calendar, Calendar No. 139.
+- 2013-09-10 — Reported by the Committee on Natural Resources. H. Rept. 113-192.
+- 2013-09-10 — Reported by the Committee on Natural Resources. H. Rept. 113-192.
