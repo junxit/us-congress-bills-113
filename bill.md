@@ -22,7 +22,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(3)** *Map* The term map means the map entitled “Yerington Land Conveyance” and dated December 19, 2012.
   - **(4)** *Secretary* The term Secretary means the Secretary of the Interior.
 - **(b)** *Conveyances of land to city of yerington, nevada*
-  - **(1)** *In general* Not later than 180 days after the date of enactment of this Act, subject to valid existing rights and notwithstanding the land use planning requirements of sections 202 and 203 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712, 1713), the Secretary shall convey to the City, subject to the agreement of the City, all right, title, and interest of the United States in and to the Federal land identified on the map.
+  - **(1)** *In general* Not later than 180 days after the date of enactment of this Act, subject to valid existing rights and to such terms and conditions as the Secretary determines to be necessary and notwithstanding the land use planning requirements of sections 202 and 203 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712, 1713), the Secretary shall convey to the City, subject to the agreement of the City, all right, title, and interest of the United States in and to the Federal land identified on the map.
   - **(2)** *Appraisal to determine fair market value* The Secretary shall determine the fair market value of the Federal land to be conveyed—
     - **(A)** in accordance with the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.); and
     - **(B)** based on an appraisal that is conducted in accordance with—
@@ -78,6 +78,12 @@ chamber: IN THE SENATE OF THE UNITED STATES
     - **(A)** low-level overflights of aircraft over the Wilderness, including military overflights that can be seen or heard within the Wilderness;
     - **(B)** flight testing and evaluation; or
     - **(C)** the designation or creation of new units of special use airspace, or the establishment of military flight training routes, over the Wilderness.
+  - **(5)** *Overflights*
+    - **(A)** *Military overflights* Nothing in this Act restricts or precludes—
+      - **(i)** low-level overflights of military aircraft over the Wilderness, including military overflights that can been seen or heard within the Wilderness;
+      - **(ii)** flight testing and evaluation; or
+      - **(iii)** the designation or creation of new units of special airspace, or the establishment of military flight training routes, over the Wilderness.
+    - **(B)** *Existing airstrips* Nothing in this Act restricts or precludes low-level overflights by aircraft originating from airstrips in existence on the date of enactment of this Act that are located within 5 miles of the proposed boundary of the Wilderness.
   - **(6)** *Wildfire, insect, and disease management* In accordance with section 4(d)(1) of the Wilderness Act (16 U.S.C. 1133(d)(1)), the Secretary may take any measures in the Wilderness that the Secretary determines to be necessary for the control of fire, insects, and diseases, including, as the Secretary determines to be appropriate, the coordination of the activities with a State or local agency.
   - **(7)** *Water rights*
     - **(A)** *Findings* Congress finds that—
