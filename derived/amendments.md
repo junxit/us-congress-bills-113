@@ -1,7 +1,7 @@
 ---
 measure: H.R. 555
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `30 U.S.C. § 226` | insert | in subparagraph (A), in the third sentence, by inserting “, except as provided in subparagraph (C)” after “by oral bidding”; and | the bill quotes the text inserted but describes where it goes |
-| `30 U.S.C. § 226` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 226` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
