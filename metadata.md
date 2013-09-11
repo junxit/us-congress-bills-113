@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1155
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1155
@@ -129,3 +129,4 @@ National Association of Registered Agents and Brokers Reform Act of 2013
 - 2013-09-10 — Mr. Neugebauer moved to suspend the rules and pass the bill, as amended.
 - 2013-09-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 6 (Roll no. 450). (text: CR H5443-5447)
 - 2013-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 6 (Roll no. 450).(text: CR H5443-5447)
+- 2013-09-11 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 182.

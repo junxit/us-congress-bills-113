@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1155
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 6751` | amend | Subtitle C of title III of the Gramm-Leach-Bliley Act (15 U.S.C. 6751 et seq.) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 6751` | replace | The table of contents for the Gramm-Leach-Bliley Act is amended by striking the items relating to subtitle C of title III and inserting the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Subtitle C of title III of the Gramm-Leach-Bliley Act (15 U.S.C. 6751 et seq.) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | The table of contents for the Gramm-Leach-Bliley Act is amended by striking the items relating to subtitle C of title III and inserting the following new items: | the bill names no machine-readable US Code section |
