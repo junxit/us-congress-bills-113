@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2747
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2747
@@ -20,9 +20,10 @@ Streamlining Claims Processing for Federal Contractor Employees Act
 
 - Rep. Courtney, Joe [D-CT-2] (C001069)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -40,3 +41,4 @@ Streamlining Claims Processing for Federal Contractor Employees Act
 - 2013-09-10 — Mr. Walberg moved to suspend the rules and pass the bill.
 - 2013-09-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 10 (Roll no. 451). (text: CR H5449)
 - 2013-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 10 (Roll no. 451).(text: CR H5449)
+- 2013-09-11 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.

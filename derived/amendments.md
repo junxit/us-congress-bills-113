@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2747
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 40 U.S.C. § 3144
+### 40 U.S.C. § 3703
 
 > in subsection (a)(1), by striking “Comptroller General” and inserting “Secretary of Labor”.
 
@@ -51,4 +51,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `40 U.S.C. § 3144` | strike | in the section heading, by striking “of Comptroller General”; and | the bill quotes the text struck but describes what replaces it |
+| `40 U.S.C. § 3703` | strike | in the section heading, by striking “of Comptroller General”; and | the bill quotes the text struck but describes what replaces it |
