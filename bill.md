@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 3094
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3094
+
+> To amend the Internal Revenue Code of 1986 to extend the deduction for qualified tuition and related expenses.
+
+## § 1. Short title
+
+This Act may be cited as the “Tuition Relief for Students Act of 2013”.
+
+## § 2. Extension of deduction for qualified tuition and related expenses
+
+- **(a)** *In general* Section 222(e) of the Internal Revenue Code of 1986 is amended by striking “December 31, 2013” and inserting “December 31, 2017”.
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply to taxable years beginning after December 31, 2013.
