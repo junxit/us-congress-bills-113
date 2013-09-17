@@ -1,7 +1,7 @@
 ---
 measure: S. 131
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 2 executed, 17 stated and not applied.
+33 amendatory instructions. 2 executed, 31 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -68,3 +68,17 @@ complete account of the bill's effect, which it is not.
 | `38 U.S.C. § 1710` | insert | The table of sections at the beginning of such chapter, as amended by subsection (a)(3), is further amended by inserting after the item relating to section 1709B the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 901` | add-at-end | Chapter 3 of title 38, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 901` | amend | The table of sections at the beginning of chapter 3 of such title is amended by adding after the item relating to section 322 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 1701(6) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter VIII of chapter 17 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of chapter 17 is amended by inserting after the item relating to section 1787 the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter VIII of chapter 17, as amended by section 3 of this Act, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of chapter 17, as amended by section 3(b) of this Act, is further amended by inserting after the item relating to section 1788 the following new item: | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 7330B` | amend | Subchapter II of chapter 73 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 7330B` | insert | The table of sections at the beginning of chapter 73 is amended by inserting after the item relating to section 7330A the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1710` | amend | Subchapter I of chapter 17 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1710` | insert | The table of sections at the beginning of chapter 17 is amended by inserting after the item relating to section 1709A the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1710` | insert | Section 205(e) of the Caregivers and Veterans Omnibus Health Services Act of 2010 (Public Law 111–163; 38 U.S.C. 1710 note) is amended by inserting “but not after the date of the enactment of the Women Veterans and Other Health Care Impr… | the bill quotes the text inserted but describes where it goes |
+| `38 U.S.C. § 1710` | add-at-end | Subchapter I of chapter 17, as amended by subsection (a)(1) of this section, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1710` | insert | The table of sections at the beginning of chapter 17, as amended by subsection (a)(2) of this section, is further amended by inserting after the item relating to section 1709B the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Subchapter II of chapter 17 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of chapter 17 is amended by inserting after the item relating to section 1720G the following new item: | the bill names no machine-readable US Code section |
