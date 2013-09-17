@@ -1,0 +1,151 @@
+---
+measure: H.R. 3111
+congress: 113
+version: Introduced in House
+---
+
+# H.R. 3111
+
+Honoring the Fort Hood Heroes Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Carter, John R. [R-TX-31] (C001051)
+
+## Cosponsors (119)
+
+- Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Rooney, Thomas J. [R-FL-17] (R000583)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Thornberry, Mac [R-TX-13] (T000238)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. King, Steve [R-IA-4] (K000362)
+- Rep. Collins, Doug [R-GA-9] (C001093)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. Pitts, Joseph R. [R-PA-16] (P000373)
+- Rep. Webster, Daniel [R-FL-10] (W000806)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Ribble, Reid J. [R-WI-8] (R000587)
+- Rep. Hunter, Duncan D. [R-CA-50] (H001048)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Meehan, Patrick [R-PA-7] (M001181)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Nunes, Devin [R-CA-22] (N000181)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
+- Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Bentivolio, Kerry L. [R-MI-11] (B001280)
+- Rep. Lofgren, Zoe [D-CA-19] (L000397)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
+- Rep. Yoder, Kevin [R-KS-3] (Y000063)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
+- Rep. Black, Diane [R-TN-6] (B001273)
+- Rep. DesJarlais, Scott [R-TN-4] (D000616)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Crenshaw, Ander [R-FL-4] (C001045)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Alexander, Rodney [R-LA-5] (A000361)
+- Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. Cook, Paul [R-CA-8] (C001094)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Palazzo, Steven M. [R-MS-4] (P000601)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Woodall, Rob [R-GA-7] (W000810)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Mullin, Markwayne [R-OK-2] (M001190)
+- Rep. Cramer, Kevin [R-ND-At Large] (C001096)
+- Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Duncan, Jeff [R-SC-3] (D000615)
+- Rep. Garrett, Scott [R-NJ-5] (G000548)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Harper, Gregg [R-MS-3] (H001045)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Rep. DeSantis, Ron [R-FL-6] (D000621)
+- Rep. Capito, Shelley Moore [R-WV-2] (C001047)
+- Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
+- Rep. Hurt, Robert [R-VA-5] (H001060)
+- Rep. Franks, Trent [R-AZ-8] (F000448)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Price, Tom [R-GA-6] (P000591)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. Stockman, Steve [R-TX-36] (S000937)
+- Rep. Fattah, Chaka [D-PA-2] (F000043)
+- Rep. Vela, Filemon [D-TX-34] (V000132)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Lummis, Cynthia M. [R-WY-At Large] (L000571)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Griffin, Tim [R-AR-2] (G000567)
+- Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. Mulvaney, Mick [R-SC-5] (M001182)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Nunnelee, Alan [R-MS-1] (N000186)
+- Rep. Duffy, Sean P. [R-WI-7] (D000614)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+
+## Committees (2)
+
+- House — Armed Services Committee
+- House — Oversight and Accountability Committee
+
+## Actions
+
+- 2013-09-17 — Introduced in House
+- 2013-09-17 — Introduced in House
+- 2013-09-17 — Referred to the Committee on Armed Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-09-17 — Referred to the Committee on Armed Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
