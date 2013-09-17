@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3092
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-18 amendatory instructions. 4 executed, 14 stated and not applied.
+20 amendatory instructions. 5 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,12 +53,21 @@ to guess them.
 
 ### 42 U.S.C. § 5777
 
-> Section 407(a) of the Missing Children’s Assistance Act (42 U.S.C. 5777(a)) is amended by striking “such” and all that follows through the period at the end, and inserting “$35,800,000 for each of the fiscal years 2014 through 2018, up to $32,200,000 of which shall be used to carry out section 404(b) for each such fiscal year.”.
+> in subsection (a) by striking “such” and all that follows through the period at the end, and inserting “$40,000,000 for each of the fiscal years 2014 through 2018, up to $32,200,000 of which shall be used to carry out section 404(b) for each such fiscal year.”, and
 
 | | |
 |---|---|
 | Removed | `such` |
-| Inserted | `$35,800,000 for each of the fiscal years 2014 through 2018, up to $32,200,000 of which shall be used to carry out section 404(b) for each such fiscal year.` |
+| Inserted | `$40,000,000 for each of the fiscal years 2014 through 2018, up to $32,200,000 of which shall be used to carry out section 404(b) for each such fiscal year.` |
+
+### 42 U.S.C. § 5777
+
+> by striking “Sec. 407” and inserting “Sec. 408”.
+
+| | |
+|---|---|
+| Removed | `Sec. 407` |
+| Inserted | `Sec. 408` |
 
 ## Stated, not applied
 
@@ -83,3 +92,4 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1232g` | insert | in subsection (c)(2) by inserting “, in compliance with the Family Educational Rights and Privacy Act of 1974 (20 U.S.C. 1232g)” after “birth certificates”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5775` | insert | in paragraph (1) by inserting “schools, school leaders, teachers, State and local educational agencies, homeless shelters and service providers,” after “children,”, and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5775` | insert | in paragraph (3) by inserting “and schools” after “communities”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5771` | insert | The Missing Children's Assistance Act (42 U.S.C. 5771 et seq.) is amended by inserting after section 406 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
