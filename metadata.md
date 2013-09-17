@@ -1,7 +1,7 @@
 ---
 measure: S. 793
 congress: 113
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 793
@@ -53,3 +53,13 @@ Organization of American States Revitalization and Reform Act of 2013
 - 2013-09-17 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2013-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 24 (Roll no. 462). (text: CR H5567-5568)
 - 2013-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 24 (Roll no. 462).(text: CR H5567-5568)
+- 2013-09-18 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2013-09-25 — Resolving differences -- Senate actions: Senate agreed to House amendment by Unanimous Consent.(consideration: CR 9/24/2013 S6901)
+- 2013-09-25 — Senate agreed to House amendment by Unanimous Consent. (consideration: CR 9/24/2013 S6901)
+- 2013-09-26 — Message on Senate action sent to the House.
+- 2013-09-26 — Presented to President.
+- 2013-09-26 — Presented to President.
+- 2013-10-02 — Became Public Law No: 113-41.
+- 2013-10-02 — Became Public Law No: 113-41.
+- 2013-10-02 — Signed by President.
+- 2013-10-02 — Signed by President.
