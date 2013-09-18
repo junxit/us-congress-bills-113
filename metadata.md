@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2449
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2449
@@ -60,9 +60,10 @@ To authorize the President to extend the term of the Agreement for Cooperation b
 - Rep. Ros-Lehtinen, Ileana [R-FL-27] (R000435)
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -85,3 +86,4 @@ To authorize the President to extend the term of the Agreement for Cooperation b
 - 2013-09-17 — Placed on the Union Calendar, Calendar No. 153.
 - 2013-09-17 — Reported by the Committee on Foreign Affairs. H. Rept. 113-209.
 - 2013-09-17 — Reported by the Committee on Foreign Affairs. H. Rept. 113-209.
+- 2013-09-18 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
