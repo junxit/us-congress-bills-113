@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2009
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2009
@@ -190,3 +190,6 @@ Keep the IRS Off Your Health Care Act of 2013
 - 2013-08-02 — On passage Passed by recorded vote: 232 - 185 (Roll no. 447). (text: CR H5362)
 - 2013-08-02 — Passed/agreed to in House: On passage Passed by recorded vote: 232 - 185 (Roll no. 447).(text: CR H5362)
 - 2013-08-02 — The previous question was ordered pursuant to the rule. (consideration: CR H5371)
+- 2013-09-09 — Received in the Senate.
+- 2013-09-17 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2013-09-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 192.
