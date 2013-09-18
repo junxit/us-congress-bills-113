@@ -1,0 +1,24 @@
+---
+legis-num: S. 1521
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1521
+
+> To prohibit Federal agencies from requiring seafood to be certified as sustainable by a third party nongovernmental organization and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Responsible Seafood Certification and Labeling Act”.
+
+## § 2. Prohibition on seafood sustainability certification requirements
+
+- **(a)** *Prohibition* No executive agency may—
+  - **(1)** require or reference a certificate of sustainability, or otherwise identify as sustainable, based on criteria or standards developed by a third party nongovernmental organization in awarding a contract for—
+    - **(A)** the procurement of fish or seafood; or
+    - **(B)** concessions or vending, including the sale of fish or seafood; or
+  - **(2)** endorse the use of any label, standard, or other scheme to certify fish or seafood as sustainable based on criteria or standards developed by a third party nongovernmental organization.
+- **(b)** *Executive agency defined* In this section, the term executive agency has the meaning given that term in section 133 of title 41, United States Code.
+- **(c)** *Effect on regulations* No rule, regulation, or guideline issued by an executive agency, including the Department of Health and Human Services, that requires or recommends that fish or seafood be certified as sustainable by a third party nongovernmental organization shall have any force or effect, including any rule, regulation, or guideline issued prior to the date of the enactment of this Act.
