@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 3092
-congress: 113th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 3092
@@ -80,7 +80,7 @@ The Missing Children's Assistance Act (42 U.S.C. 5771 et seq.) is amended by ins
 > - **(5)** *Nonprofit organization requirements*
 >   - **(A)** *Definition* For purposes of this section and the grant programs described in this title, the term nonprofit, relating to an entity, means the entity is described in section 501(c)(3) of the Internal Revenue Code of 1986 and is exempt from taxation under section 501(a) of such Code.
 >   - **(B)** *Prohibition* The Attorney General shall not award a grant under any grant program described in this title to a nonprofit organization that holds money in off-shore accounts for the purpose of avoiding paying the tax described in section 511(a) of the Internal Revenue Code of 1986.
->   - **(C)** *Disclosure* Each nonprofit organization that is awarded a grant under this title and uses the procedures prescribed in regulations under section 53.4958-6 of title 26 of the Code of Federal Regulations to create a rebuttable presumption of reasonableness of the compensation for its officers, directors, trustees and key employees, shall disclose to the Attorney General the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information available for public inspection.
+>   - **(C)** *Disclosure* Each nonprofit organization that is awarded a grant under this title and uses the procedures prescribed in regulations under section 53.4958–6 of title 26 of the Code of Federal Regulations to create a rebuttable presumption of reasonableness of the compensation for its officers, directors, trustees and key employees, shall disclose to the Attorney General the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information available for public inspection.
 > - **(6)** *Conference expenditures*
 >   - **(A)** *Limitation* No amounts authorized to be appropriated under this title may be used to host or support any expenditure for conferences that uses more than $20,000 unless the Deputy Attorney General or the appropriate Assistant Attorney General, Director, or principal deputy director as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
 >   - **(B)** *Written approval* Written approval under subparagraph (A) shall include a written estimate of all costs associated with the conference, including the cost of all food and beverages, audio/visual equipment, honoraria for speakers, and any entertainment.
@@ -88,7 +88,7 @@ The Missing Children's Assistance Act (42 U.S.C. 5771 et seq.) is amended by ins
 > - **(7)** *Prohibition on lobbying activity*
 >   - **(A)** *In general* Amounts authorized to be appropriated under this title may not be utilized by any grant recipient to—
 >     - **(i)** lobby any representative of the Department of Justice regarding the award of any grant funding; or
->     - **(ii)** lobby any representative of a Federal, state, local, or tribal government regarding the award of grant funding.
+>     - **(ii)** lobby any representative of a Federal, State, local, or tribal government regarding the award of grant funding.
 >   - **(B)** *Penalty* If the Attorney General determines that any recipient of a grant under this title has violated subparagraph (A), the Attorney General shall—
 >     - **(i)** require the grant recipient to repay the grant in full; and
 >     - **(ii)** prohibit the grant recipient from receiving another grant under this title for not less than 5 years.

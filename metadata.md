@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3092
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3092
@@ -50,3 +50,12 @@ E. Clay Shaw, Jr. Missing Children's Assistance Reauthorization Act of 2013
 - 2013-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 2 (Roll no. 460). (tex: CR H5569-5570)
 - 2013-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 2 (Roll no. 460).(tex: CR H5569-5570)
 - 2013-09-18 — Received in the Senate, read twice.
+- 2013-09-25 — Message on Senate action sent to the House.
+- 2013-09-25 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/24/2013 S6901-6902)
+- 2013-09-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/24/2013 S6901-6902)
+- 2013-09-27 — Presented to President.
+- 2013-09-27 — Presented to President.
+- 2013-09-30 — Became Public Law No: 113-38.
+- 2013-09-30 — Became Public Law No: 113-38.
+- 2013-09-30 — Signed by President.
+- 2013-09-30 — Signed by President.
