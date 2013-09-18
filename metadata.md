@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1410
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1410
@@ -27,9 +27,10 @@ Keep the Promise Act of 2013
 - Rep. Huffman, Jared [D-CA-2] (H001068)
 - Rep. Conyers, John, Jr. [D-MI-13] (C000714)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Keep the Promise Act of 2013
 - 2013-09-17 — Placed on the Union Calendar, Calendar No. 154.
 - 2013-09-17 — Reported by the Committee on Natural Resources. H. Rept. 113-210.
 - 2013-09-17 — Reported by the Committee on Natural Resources. H. Rept. 113-210.
+- 2013-09-18 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
