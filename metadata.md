@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 164
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 164
@@ -16,7 +16,7 @@ A resolution designating October 30, 2013, as a national day of remembrance for 
 
 - Sen. Udall, Mark [D-CO] (U000038)
 
-## Cosponsors (6)
+## Cosponsors (10)
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 - Sen. Brown, Sherrod [D-OH] (B000944)
@@ -24,6 +24,10 @@ A resolution designating October 30, 2013, as a national day of remembrance for 
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. McConnell, Mitch [R-KY] (M000355)
 - Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Corker, Bob [R-TN] (C001071)
 
 ## Committees (1)
 
@@ -33,3 +37,7 @@ A resolution designating October 30, 2013, as a national day of remembrance for 
 
 - 2013-06-10 — Introduced in Senate
 - 2013-06-10 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4061)
+- 2013-09-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2013-09-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2013-09-18 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6608)
+- 2013-09-18 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6608)
