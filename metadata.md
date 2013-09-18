@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2775
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2775
@@ -150,3 +150,6 @@ Continuing Appropriations Act, 2014
 - 2013-09-12 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 235 - 191 (Roll no. 458).(text: CR H5517)
 - 2013-09-12 — Rule provides for consideration of H.R. 2775 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Measure will be considered read. Bill is closed to amendments. The resolution provides that the amendment printed in the report shall be considered as adopted.
 - 2013-09-12 — The previous question was ordered pursuant to the rule. (consideration: CR H5528)
+- 2013-09-16 — Received in the Senate.
+- 2013-09-17 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2013-09-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 193.
