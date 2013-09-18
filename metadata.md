@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3092
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3092
@@ -49,3 +49,4 @@ E. Clay Shaw, Jr. Missing Children's Assistance Reauthorization Act of 2013
 - 2013-09-17 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
 - 2013-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 2 (Roll no. 460). (tex: CR H5569-5570)
 - 2013-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 2 (Roll no. 460).(tex: CR H5569-5570)
+- 2013-09-18 — Received in the Senate, read twice.
