@@ -1,7 +1,7 @@
 ---
 measure: H.R. 761
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 761
@@ -81,6 +81,15 @@ National Strategic and Critical Minerals Production Act of 2013
 - House — Judiciary Committee
 - House — Natural Resources Committee
 
+## Recorded votes (6)
+
+- 2013-09-18 — [House 113-1-466](votes/house-113-1-0466.md) — On Agreeing to the Amendment — **Failed** (187–241)
+- 2013-09-18 — [House 113-1-467](votes/house-113-1-0467.md) — On Agreeing to the Amendment — **Failed** (189–237)
+- 2013-09-18 — [House 113-1-468](votes/house-113-1-0468.md) — On Agreeing to the Amendment — **Failed** (186–240)
+- 2013-09-18 — [House 113-1-469](votes/house-113-1-0469.md) — On Agreeing to the Amendment — **Failed** (191–235)
+- 2013-09-18 — [House 113-1-470](votes/house-113-1-0470.md) — On Motion to Recommit with Instructions — **Failed** (197–229)
+- 2013-09-18 — [House 113-1-471](votes/house-113-1-0471.md) — On Passage — **Passed** (246–178)
+
 ## Actions
 
 - 2013-02-15 — Introduced in House
@@ -98,3 +107,75 @@ National Strategic and Critical Minerals Production Act of 2013
 - 2013-07-08 — Placed on the Union Calendar, Calendar No. 100.
 - 2013-07-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-138, Part I.
 - 2013-07-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-138, Part I.
+- 2013-07-09 — Rules Committee Resolution H. Res. 292 Reported to House. Rule provides for consideration of H.R. 761 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2013-09-17 — Rules Committee Resolution H. Res. 347 Reported to House. Rule provides for consideration of H.R. 761 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2013-09-18 — Amendment (A001) offered by Mr. Lowenthal. (consideration: CR H5612-5614, H5618-5619; text: CR H5612-5613)
+- 2013-09-18 — Amendment (A002) offered by Mr. Veasey. (consideration: CR H5614-5615, H5619-5620; text: CR H5614)
+- 2013-09-18 — Amendment (A003) offered by Mr. Connolly. (consideration: CR H5615-5616, H5620; text: CR H5615)
+- 2013-09-18 — Amendment (A004) offered by Mr. Hastings (FL). (consideration: CR H5616-5617, H5620-5621; text: CR H5617)
+- 2013-09-18 — Amendment (A005) offered by Mr. Pearce. (consideration: CR H5617-5618; text: CR H5617)
+- 2013-09-18 — Amendment agreed to Committee of the Whole
+- 2013-09-18 — Amendment failed in Committee of the Whole
+- 2013-09-18 — Amendment failed in Committee of the Whole
+- 2013-09-18 — Amendment failed in Committee of the Whole
+- 2013-09-18 — Amendment failed in Committee of the Whole
+- 2013-09-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 761 as unfinished business.
+- 2013-09-18 — Considered as unfinished business. (consideration: CR H5618-5624)
+- 2013-09-18 — Considered under the provisions of rule H. Res. 347. (consideration: CR H5606-5609, H5609-5618)
+- 2013-09-18 — DEBATE - Pursuant to the provisions of H.Res. 347, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly amendment.
+- 2013-09-18 — DEBATE - Pursuant to the provisions of H.Res. 347, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings (Fl) amendment.
+- 2013-09-18 — DEBATE - Pursuant to the provisions of H.Res. 347, the Committee of the Whole proceeded with 10 minutes of debate on the Lowenthal amendment.
+- 2013-09-18 — DEBATE - Pursuant to the provisions of H.Res. 347, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment.
+- 2013-09-18 — DEBATE - Pursuant to the provisions of H.Res. 347, the Committee of the Whole proceeded with 10 minutes of debate on the Veasey amendment.
+- 2013-09-18 — DEBATE - The House proceeded with 10 minutes of debate on the Cicilline motion to recommit with instructions. The instructions contained in the motion seek to require the House to report the bill to be reported back to the House with an amendment to add a section to the bill containing prohibitions regarding China and Iran.
+- 2013-09-18 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 761.
+- 2013-09-18 — House amendment agreed to: On agreeing to the Pearce amendment (A005) Agreed to by voice vote.
+- 2013-09-18 — House amendment not agreed to: On agreeing to the Connolly amendment (A003) Failed by recorded vote: 186 - 240 (Roll no. 468).
+- 2013-09-18 — House amendment not agreed to: On agreeing to the Hastings (FL) amendment (A004) Failed by recorded vote: 191 - 235 (Roll no. 469).
+- 2013-09-18 — House amendment not agreed to: On agreeing to the Lowenthal amendment (A001) Failed by recorded vote: 187 - 241 (Roll no. 466).
+- 2013-09-18 — House amendment not agreed to: On agreeing to the Lowenthal amendment (A001) Failed by recorded vote: 187 - 241 (Roll no. 466).
+- 2013-09-18 — House amendment not agreed to: On agreeing to the Veasey amendment (A002) Failed by recorded vote: 189 - 237 (Roll no. 467).
+- 2013-09-18 — House amendment not agreed to: On agreeing to the Veasey amendment (A002) Failed by recorded vote: 189 - 237 (Roll no. 467).
+- 2013-09-18 — House amendment offered
+- 2013-09-18 — House amendment offered
+- 2013-09-18 — House amendment offered
+- 2013-09-18 — House amendment offered
+- 2013-09-18 — House amendment offered
+- 2013-09-18 — House amendment offered/reported by: Amendment (A001) offered by Mr. Lowenthal.(consideration: CR H5612-5614, H5618-5619; text: CR H5612-5613)
+- 2013-09-18 — House amendment offered/reported by: Amendment (A002) offered by Mr. Veasey.(consideration: CR H5614-5615, H5619-5620; text: CR H5614)
+- 2013-09-18 — House amendment offered/reported by: Amendment (A003) offered by Mr. Connolly.(consideration: CR H5615-5616, H5620; text: CR H5615)
+- 2013-09-18 — House amendment offered/reported by: Amendment (A004) offered by Mr. Hastings (FL).(consideration: CR H5616-5617, H5620-5621; text: CR H5617)
+- 2013-09-18 — House amendment offered/reported by: Amendment (A005) offered by Mr. Pearce.(consideration: CR H5617-5618; text: CR H5617)
+- 2013-09-18 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 347 and Rule XVIII.
+- 2013-09-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-09-18 — Mr. Cicilline moved to recommit with instructions to Natural Resources. (consideration: CR H5621-5623; text: CR H5621)
+- 2013-09-18 — Mr. Lamborn moved that the committee rise.
+- 2013-09-18 — On agreeing to the Connolly amendment (A003) Failed by recorded vote: 186 - 240 (Roll no. 468).
+- 2013-09-18 — On agreeing to the Hastings (FL) amendment (A004) Failed by recorded vote: 191 - 235 (Roll no. 469).
+- 2013-09-18 — On agreeing to the Lowenthal amendment (A001) Failed by recorded vote: 187 - 241 (Roll no. 466).
+- 2013-09-18 — On agreeing to the Pearce amendment (A005) Agreed to by voice vote.
+- 2013-09-18 — On agreeing to the Veasey amendment (A002) Failed by recorded vote: 189 - 237 (Roll no. 467).
+- 2013-09-18 — On motion that the committee rise Agreed to by voice vote.
+- 2013-09-18 — On motion to recommit with instructions Failed by recorded vote: 197 - 229 (Roll no. 470). (consideration: CR H5622-5623)
+- 2013-09-18 — On passage Passed by recorded vote: 246 - 178 (Roll no. 471).
+- 2013-09-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Connolly amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Connolly demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-09-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hastings (FL) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Hastings (FL) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-09-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lowenthal amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Lowenthal demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-09-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Veasey amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Veasey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2013-09-18 — Passed/agreed to in House: On passage Passed by recorded vote: 246 - 178 (Roll no. 471).
+- 2013-09-18 — Roll call votes on amendments in House
+- 2013-09-18 — Roll call votes on amendments in House
+- 2013-09-18 — Roll call votes on amendments in House
+- 2013-09-18 — Roll call votes on amendments in House
+- 2013-09-18 — Roll call votes on amendments in House
+- 2013-09-18 — Rule H. Res. 347 passed House.
+- 2013-09-18 — Rule provides for consideration of H.R. 761 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2013-09-18 — Subsequently, the Committee resumed its sitting.
+- 2013-09-18 — The Committee of the Whole rose informally to receive a message from the President.
+- 2013-09-18 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H5611-5612)
+- 2013-09-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2013-09-18 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 761.
+- 2013-09-18 — The Speaker designated the Honorable Jeff Fortenberry to act as Chairman of the Committee.
+- 2013-09-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5622)
+- 2013-09-18 — The previous question was ordered pursuant to the rule. (consideration: CR H5621)
+- 2013-09-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.

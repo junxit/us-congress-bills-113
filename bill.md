@@ -36,4 +36,4 @@ In this Act:
   - **(C)** to support domestic manufacturing, agriculture, housing, telecommunications, healthcare, and transportation infrastructure; or
   - **(D)** for the Nation’s economic security and balance of trade.
 - **(2)** *Agency* The term agency means any agency, department, or other unit of Federal, State, local, or tribal government, or Alaska Native Corporation.
-- **(3)** *mineral exploration or mine permit* The term mineral exploration or mine permit includes plans of operation issued by the Bureau of Land Management and the Forest Service pursuant to 43 C.F.R. 3809 and 36 C.F.R. 228A or the authorities listed in 43 C.F.R. 3503.13, respectively.
+- **(3)** *mineral exploration or mine permit* The term mineral exploration or mine permit includes plans of operation issued by the Bureau of Land Management and the Forest Service pursuant to 43 CFR 3809 and 36 CFR 228A or the authorities listed in 43 CFR 3503.13, respectively.
