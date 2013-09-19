@@ -1,7 +1,7 @@
 ---
 measure: H.R. 301
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 301
@@ -91,9 +91,10 @@ To provide for the establishment of the Special Envoy to Promote Religious Freed
 - Rep. Latham, Tom [R-IA-3] (L000111)
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -115,3 +116,4 @@ To provide for the establishment of the Special Envoy to Promote Religious Freed
 - 2013-09-18 — Considered as unfinished business. (consideration: CR H5606)
 - 2013-09-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 22 (Roll no. 465). (text: CR 9/17/2013 H5564-5565)
 - 2013-09-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 22 (Roll no. 465).(text: CR 9/17/2013 H5564-5565)
+- 2013-09-19 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
