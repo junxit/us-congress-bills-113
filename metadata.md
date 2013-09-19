@@ -1,7 +1,7 @@
 ---
 measure: H.R. 761
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 761
@@ -76,10 +76,11 @@ National Strategic and Critical Minerals Production Act of 2013
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
 - Rep. Rohrabacher, Dana [R-CA-48] (R000409)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (6)
 
@@ -179,3 +180,4 @@ National Strategic and Critical Minerals Production Act of 2013
 - 2013-09-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5622)
 - 2013-09-18 — The previous question was ordered pursuant to the rule. (consideration: CR H5621)
 - 2013-09-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2013-09-19 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
