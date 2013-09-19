@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3102
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-149 amendatory instructions. 55 executed, 94 stated and not applied.
+149 amendatory instructions. 57 executed, 92 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -71,7 +71,7 @@ to guess them.
 
 ### 7 U.S.C. § 2014
 
-> in the 2d sentence of subsection (a) by striking “households in which each member receives benefits” and inserting “households in which each member receives cash assistance”, and
+> in the 2d sentence of subsection (a) by striking “households in which each member receives benefits” and inserting “households in which each member receives cash assistance”; and
 
 | | |
 |---|---|
@@ -131,6 +131,15 @@ to guess them.
 |---|---|
 | Removed | `and each subsequent fiscal year` |
 | Inserted | `through fiscal year 2013` |
+
+### 7 U.S.C. § 2014
+
+> Section 5(a) of the Food and Nutrition Act of 2008 (7 U.S.C. 2014(a)) is amended in the 2d sentence by striking “sections 6(b), 6(d)(2), and 6(g)” and inserting “subsections (b), (d)(2), (g), and (r) of section 6”.
+
+| | |
+|---|---|
+| Removed | `sections 6(b), 6(d)(2), and 6(g)` |
+| Inserted | `subsections (b), (d)(2), (g), and (r) of section 6` |
 
 ### 7 U.S.C. § 2016
 
@@ -285,7 +294,7 @@ to guess them.
 | Removed | `sections 7(f)` |
 | Inserted | `section 7(f)` |
 
-### 7 U.S.C. § 2012
+### 7 U.S.C. § 2031
 
 > Section 22(b)(10)(B)(i) of the Food and Nutrition Act of 2008 (7 U.S.C. 2031(b)(10)(B)(i)) is amended in the last sentence by striking “Food benefits” and inserting “Benefits”.
 
@@ -458,6 +467,15 @@ to guess them.
 
 ### 7 U.S.C. § 612c
 
+> Section 4(a) of the Agriculture and Consumer Protection Act of 1973 (7 U.S.C. 612c note; Public Law 93–86) is amended in the 1st sentence by striking “2012” and inserting “2016”.
+
+| | |
+|---|---|
+| Removed | `2012` |
+| Inserted | `2016` |
+
+### 7 U.S.C. § 612c
+
 > in paragraphs (1) and (2)(B) of subsection (a) by striking “2012” each place it appears and inserting “2016”;
 
 | | |
@@ -483,7 +501,7 @@ to guess them.
 | Removed | `2012` |
 | Inserted | `2016` |
 
-### 7 U.S.C. § 612c
+### 7 U.S.C. § 2013
 
 > in paragraph (3)(D) by striking “the Committee on Education and Labor” and inserting “the Committee on Education and the Workforce”;
 
@@ -528,25 +546,24 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `7 U.S.C. § 2012` | amend | by adding at the end the following: “and any deposit fee in excess of amount of the State fee reimbursement (if any) required to purchase any food or food product contained in a returnable bottle or can, regardless of whether such fee is… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2012` | add-at-end | by adding at the end the following: “and any deposit fee in excess of amount of the State fee reimbursement (if any) required to purchase any food or food product contained in a returnable bottle or can, regardless of whether such fee is… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2016` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2016` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2016` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2018` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2012` | strike | in paragraph (3) by striking “and” at the end, | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 2012` | replace | in paragraph (4) by striking the period at the end and inserting “; and”, and | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 2012` | strike | in paragraph (3) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 2012` | replace | in paragraph (4) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 2012` | insert | by inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2014` | add-at-end | Section 5(e)(5) of the Food and Nutrition Act of 2008 (7 U.S.C. 2014(e)(5)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2014` | insert | in clause (i) by inserting “, subject to clause (iv)” after “Secretary”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 8621` | replace | by striking subclause (I) of clause (iv) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8624` | insert | Section 2605(f)(2)(A) of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8624(f)(2)(A)) is amended by inserting before the semicolon the following: “, except that, for purposes of the supplemental nutrition assistance progra… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2015` | replace | Section 6(e)(3)(B) of Food and Nutrition Act of 2008 (7 U.S.C. 2015(e)(3)(B)) is amended by striking “section;” and inserting the following: “section, subject to the condition that the course or program of study—” | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 2015` | replace | Section 6(e)(3)(B) of Food and Nutrition Act of 2008 (7 U.S.C. 2015(e)(3)(B)) is amended by striking “section;” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 2015` | strike | by striking paragraph (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2015` | strike | by striking subclause (II); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2015` | redesignate | by redesignating subclauses (III), (IV), and (V) as subclauses (II), (III), and (IV), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2015` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2015` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2015` | redesignate | by redesignating paragraphs (5), (6), and (7) as paragraphs (4), (5), and (6), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 6 of the Food and Nutrition Act of 2008 (7 U.S.C. 2015) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 5(a) of the Food and Nutrition Act of 2008 (7 U.S.C. 2014(a)) is amended in the 2d sentence by striking “sections 6(b), 6(d)(2), and 6(g)” and inserting “subsections (b), (d)(2), (g), and (r) of section 6”. | the bill names no machine-readable US Code section |
+| `7 U.S.C. § 2015` | add-at-end | Section 6 of the Food and Nutrition Act of 2008 (7 U.S.C. 2015) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2016` | replace | by striking “A State” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 2016` | amend | by adding after subparagraph (A) (as so designated by paragraph (2)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2016` | add-at-end | Section 7(h) of the Food and Nutrition Act of 2008 (7 U.S.C. 2016(h)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -555,23 +572,23 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 2020` | replace | in paragraph (23)(C) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 2020` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2018` | add-at-end | Section 9 of the Food and Nutrition Act of 2008 (7 U.S.C. 2018) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2020` | insert | Section 3(k) of the Food and Nutrition Act of 2008 (7 U.S.C. 2012(k)) is amended by inserting “subject to section 9(h)” after “concessional prices” each place it appears. | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 2012` | insert | Section 3(k) of the Food and Nutrition Act of 2008 (7 U.S.C. 2012(k)) is amended by inserting “subject to section 9(h)” after “concessional prices” each place it appears. | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 2020` | amend | Section 11(p) of the Food and Nutrition Act of 2008 (7 U.S.C. 2020(p)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2020` | add-at-end | Section 11 of the Food and Nutrition Act of 2008 (7 U.S.C. 2020) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2021` | add-at-end | Section 12 of the Food and Nutrition Act of 2008 (7 U.S.C. 2021) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2025` | insert | Section 16(a)(4) of the Food and Nutrition Act of 2008 (7 U.S.C. 2025(a)(4)) is amended by inserting after “recruitment activities” the following: “designed to persuade an individual to apply for program benefits or that promote the prog… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2027` | add-at-end | Section 18 of the Food and Nutrition Act of 2008 (7 U.S.C. 2027) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2027` | add-at-end | Section 18 of the Food and Nutrition Act of 2008 (7 U.S.C. 2027) is amended by adding at the end the following : | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2027` | add-at-end | Section 18 of the Food and Nutrition Act of 2008 (7 U.S.C. 2027) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2025` | repeal | Section 16(d) of the Food and Nutrition Act of 2008 (7 U.S.C. 2025(d)) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2025` | amend | Section 16(h)(5) of the Food and Nutrition Act of 2008 (7 U.S.C. 2025(h)(5)) is amended to read: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2026` | add-at-end | Section 17 of the Food and Nutrition Act of 2008 (7 U.S.C. 2026) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2026` | add-at-end | Section 17 of the Food and Nutrition Act of 2008 (7 U.S.C. 2026), as amended by section 121, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2028` | add-at-end | Section 19(a)(2)(B) of the Food and Nutrition Act of 2008 (7 U.S.C. 2028(a)(2)(B)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2034` | strike | in subclause (II) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 2034` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2034` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2034` | add-at-end | Section 25(b) of the Food and Nutrition Act of 2008 (7 U.S.C. 2034) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2036` | replace | in paragraph (2) by striking subparagraphs (A), (B), and (C), and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2036` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2036` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2036a` | insert | in subsection (b) by inserting “and physical activity” after “healthy food choices”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 2036a` | strike | by striking subparagraph (E); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2011` | add-at-end | The Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -580,9 +597,9 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 2012` | redesignate | by inserting after subsection (s) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2016` | redesignate | Section 7(h) of the Food and Nutrition Act of 2008 (7 U.S.C. 2016(h)) is amended by redesignating the 2d paragraph (12) as paragraph (13). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2025` | strike | Section 16(a) of the Food and Nutrition Act of 2008 (7 U.S.C. 2025(a)) is amended in the proviso following paragraph (8) by striking “, as amended.”. | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 2015` | amend | Section 6 of the Food and Nutrition Act of 2008 (7 U.S.C. 2015), as amended by section 109, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2015` | amend | Section 6 of the Food and Nutrition Act of 2008 (7 U.S.C. 2015), as amended by sections 109 and 135, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2020` | amend | Section 11 of the Food and Nutrition Act of 2008 (7 U.S.C. 2020), as amended by section 115, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2015` | add-at-end | Section 6 of the Food and Nutrition Act of 2008 (7 U.S.C. 2015), as amended by section 109, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2015` | add-at-end | Section 6 of the Food and Nutrition Act of 2008 (7 U.S.C. 2015), as amended by sections 109 and 135, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2020` | add-at-end | Section 11 of the Food and Nutrition Act of 2008 (7 U.S.C. 2020), as amended by section 115, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2026` | add-at-end | Section 17 of the Food and Nutrition Act of 2008 (7 U.S.C. 2026), as amended by sections 122 and 123, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2011` | insert | in subparagraph (A) by inserting “under sections 6(d)(4) and 17(n)” after “programs”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 2011` | strike | by striking subparagraph (E); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -593,14 +610,13 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 2020` | insert | in paragraph (3) by inserting “and after compliance with the requirement specified in paragraph (24)” after “section 16(e) of this Act”, | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 2020` | strike | in paragraph (22) by striking “and” at the end, | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 2020` | replace | in paragraph (23) by striking the period at the end and inserting “; and”, and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 653` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2013` | amend | Section 4 of the Food and Nutrition Act of 2008 (7 U.S.C. 2013) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 4(a) of the Agriculture and Consumer Protection Act of 1973 (7 U.S.C. 612c note; Public Law 93–86) is amended in the 1st sentence by striking “2012” and inserting “2016”. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 653` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2013` | add-at-end | Section 4 of the Food and Nutrition Act of 2008 (7 U.S.C. 2013) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 612c` | replace | by striking subsection (g) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 612c` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 612c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 612c` | replace | Section 18 of the Commodity Distribution Reform Act and WIC Amendments of 1987 (7 U.S.C. 612c note) is amended by striking paragraphs (1) and (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 612c` | replace | in paragraph (2) by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 612c` | replace | in subsection (e)(1)(D)(iii) by striking subclause (II) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2013` | replace | in paragraph (2) by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2013` | replace | in subsection (e)(1)(D)(iii) by striking subclause (II) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 3007` | strike | in the section heading by striking “Seniors”; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 3007` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 3007` | strike | in the matter preceding paragraph (1), by striking “seniors”; and | the bill quotes the text struck but describes what replaces it |
@@ -617,8 +633,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1769a` | strike | in subsection (e), by striking “fresh”. | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 612c-4` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1751` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 6951` | amend | Subtitle D of title II of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6951 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 6951` | add-at-end | Subtitle D of title II of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6951 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 7014` | strike | in paragraph (6) by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 7014` | replace | in paragraph (7) by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `7 U.S.C. § 7014` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 202 of the Emergency Food Assistance Act of 1983 (7 U.S.C. 7502) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `7 U.S.C. § 7014` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 7502` | add-at-end | Section 202 of the Emergency Food Assistance Act of 1983 (7 U.S.C. 7502) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
