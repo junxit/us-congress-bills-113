@@ -2,198 +2,290 @@
 legis-num: H.R. 527
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 527
 
-> To amend the Helium Act to complete the privatization of the Federal helium reserve in a competitive market fashion that ensures stability in the helium markets while protecting the interests of American taxpayers, and for other purposes.
+That the bill from the House of Representatives (H.R. 527) entitled “An Act to amend the Helium Act to complete the privatization of the Federal helium reserve in a competitive market fashion that ensures stability in the helium markets while protecting the interests of American taxpayers, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Responsible Helium Administration and Stewardship Act” .
+This Act may be cited as the “Helium Stewardship Act of 2013”.
 
 ## § 2. Definitions
 
-Section 2 of the Helium Act (50 U.S.C. 167) is amended—
+Section 2 of the Helium Act (50 U.S.C. 167) is amended to read as follows:
 
-- **(1)** in paragraph (1), by striking the semicolon at the end and inserting a period;
-- **(2)** in paragraph (2), by striking “; and” and inserting a period; and
-- **(3)** by adding at the end the following:
-  > - **(4)** *Federal Helium Reserve*
-  >   - **(A)** *In general* The term Federal Helium Reserve means the Bureau of Land Management Cliffside Gas Field and supporting infrastructure.
-  >   - **(B)** *Inclusions* The term Federal Helium Reserve includes—
-  >     - **(i)** the Cliffside Gas Field helium storage reservoir; and
-  >     - **(ii)** all associated infrastructure owned, leased, or managed under contract by the Secretary for storage, transportation, withdrawal, purification, or management of helium.
-  > - **(5)** *Qualifying domestic helium transaction* The term qualifying domestic helium transaction—
-  >   - **(A)** except as provided in subparagraph (B), means any new or newly renegotiated agreement for the purchase or sale of at least 15,000,000 standard cubic feet of crude helium or bulk liquid helium delivered in the United States in the most recent full fiscal year; and
-  >   - **(B)** does not include any purchase of crude helium from the Secretary.
-  > - **(6)** *Tolling agreement* The term tolling agreement means an agreement between a helium refiner and another party under which the helium refiner agrees to process the other person’s helium at an agreed upon price.
+> ## § 2. Definitions
+>
+> In this Act:
+>
+> - **(1)** *Cliffside Field* The term Cliffside Field means the helium storage reservoir in which the Federal Helium Reserve is stored.
+> - **(2)** *Federal Helium Pipeline* The term Federal Helium Pipeline means the federally owned pipeline system through which the Federal Helium Reserve may be transported.
+> - **(3)** *Federal Helium Reserve* The term Federal Helium Reserve means helium reserves owned by the United States.
+> - **(4)** *Federal Helium System* The term Federal Helium System means—
+>   - **(A)** the Federal Helium Reserve;
+>   - **(B)** the Cliffside Field;
+>   - **(C)** the Federal Helium Pipeline; and
+>   - **(D)** all other infrastructure owned, leased, or managed under contract by the Secretary for the storage, transportation, withdrawal, enrichment, purification, or management of helium.
+> - **(5)** *Federal user* The term Federal user means a Federal agency or extramural holder of one or more Federal research grants using helium.
+> - **(6)** *Low-Btu gas* The term low-Btu gas means a fuel gas with a heating value of less than 250 Btu per standard cubic foot measured as the higher heating value resulting from the inclusion of noncombustible gases, including nitrogen, helium, argon, and carbon dioxide.
+> - **(7)** *Person* The term person means any individual, corporation, partnership, firm, association, trust, estate, public or private institution, or State or political subdivision.
+> - **(8)** *Priority pipeline access* The term priority pipeline access means the first priority of delivery of crude helium under which the Secretary schedules and ensures the delivery of crude helium to a helium refinery through the Federal Helium System.
+> - **(9)** *Qualified bidder*
+>   - **(A)** *In general* The term qualified bidder means a person the Secretary determines is seeking to purchase helium for their own use, refining, or redelivery to users.
+>   - **(B)** *Exclusion* The term qualified bidder does not include a person who was previously determined to be a qualified bidder if the Secretary determines that the person did not meet the requirements of a qualified bidder under this Act.
+> - **(10)** *Qualifying domestic helium transaction* The term qualifying domestic helium transaction means any agreement entered into or renegotiated agreement during the preceding 1-year period in the United States for the purchase or sale of at least 15,000,000 standard cubic feet of crude or pure helium to which any holder of a contract with the Secretary for the acceptance, storage, delivery, or redelivery of crude helium from the Federal Helium System is a party.
+> - **(11)** *Refiner* The term refiner means a person with the ability to take delivery of crude helium from the Federal Helium Pipeline and refine the crude helium into pure helium.
+> - **(12)** *Secretary* The term Secretary means the Secretary of the Interior.
 
-## § 3. Sale and auction of crude helium
+## § 3. Authority of Secretary
 
-- **(a)** *In General* Section 6 of the Helium Act (50 U.S.C. 167d) is amended to read as follows:
-  > ## § 6. Sale of helium
+Section 3 of the Helium Act (50 U.S.C. 167a) is amended by adding at the end the following:
+
+> - **(c)** *Extraction of helium from deposits on Federal land* All amounts received by the Secretary from the sale or disposition of helium on Federal land shall be credited to the Helium Production Fund established under section 6(e).
+
+## § 4. Storage, withdrawal and transportation
+
+Section 5 of the Helium Act (50 U.S.C. 167c) is amended to read as follows:
+
+> ## § 5. Storage, withdrawal and transportation
+>
+> - **(a)** *In general* If the Secretary provides helium storage, withdrawal, or transportation services to any person, the Secretary shall impose a fee on the person that accurately reflects the economic value of those services.
+> - **(b)** *Minimum fees* The fees charged under subsection (a) shall be not less than the amount required to reimburse the Secretary for the full costs of providing storage, withdrawal, or transportation services, including capital investments in upgrades and maintenance at the Federal Helium System.
+> - **(c)** *Schedule of fees* Prior to sale or auction under subsection (a), (b), or (c) of section 6, the Secretary shall annually publish a standardized schedule of fees that the Secretary will charge under this section.
+> - **(d)** *Treatment* All fees received by the Secretary under this section shall be credited to the Helium Production Fund established under section 6(e).
+> - **(e)** *Storage and delivery* In accordance with this section, the Secretary shall—
+>   - **(1)** allow any person or qualified bidder to which crude helium is sold or auctioned under section 6 to store helium in the Federal Helium Reserve; and
+>   - **(2)** establish a schedule for the transportation and delivery of helium using the Federal Helium System that—
+>     - **(A)** ensures timely delivery of helium auctioned pursuant to section 6(b)(2);
+>     - **(B)** ensures timely delivery of helium acquired from the Secretary from the Federal Helium Reserve by means other than an auction under section 6(b)(2), including nonallocated sales; and
+>     - **(C)** provides priority access to the Federal Helium Pipeline for in-kind sales for Federal users.
+> - **(f)** *New pipeline access* The Secretary shall consider any applications for access to the Federal Helium Pipeline in a manner consistent with the schedule for phasing out commercial sales and disposition of assets pursuant to section 6.
+
+## § 5. Sale of crude helium
+
+Section 6 of the Helium Act (50 U.S.C. 167d) is amended to read as follows:
+
+> ## § 6. Sale of crude helium
+>
+> - **(a)** *Phase A: Allocation transition*
+>   - **(1)** *In general* The Secretary shall offer crude helium for sale in such quantities, at such times, at not less than the minimum price established under subsection (b)(7), and under such terms and conditions as the Secretary determines necessary to carry out this subsection with minimum market disruption.
+>   - **(2)** *Federal purchases* Federal users may purchase refined helium with priority pipeline access under this subsection from persons who have entered into enforceable contracts to purchase an equivalent quantity of crude helium at the in-kind price from the Secretary.
+>   - **(3)** *Duration* This subsection applies during—
+>     - **(A)** the period beginning on the date of enactment of the Helium Stewardship Act of 2013 and ending on September 30, 2014; and
+>     - **(B)** any period during which the sale of helium under subsection (b) is delayed or suspended.
+> - **(b)** *Phase B: Auction implementation*
+>   - **(1)** *In general* The Secretary shall offer crude helium for sale in quantities not subject to auction under paragraph (2), after completion of each auction, at not less than the minimum price established under paragraph (7), and under such terms and conditions as the Secretary determines necessary—
+>     - **(A)** to maximize total recovery of helium from the Federal Helium Reserve over the long term;
+>     - **(B)** to maximize the total financial return to the taxpayer;
+>     - **(C)** to manage crude helium sales according to the ability of the Secretary to extract and produce helium from the Federal Helium Reserve;
+>     - **(D)** to give priority to meeting the helium demand of Federal users in the event of any disruption to the Federal Helium Reserve; and
+>     - **(E)** to carry out this subsection with minimum market disruption.
+>   - **(2)** *Auction quantities* For the period described in paragraph (4) and consistent with the conditions described in paragraph (8), the Secretary shall annually auction to any qualified bidder a quantity of crude helium in the Federal Helium Reserve equal to—
+>     - **(A)** for fiscal year 2015, 10 percent of the total volume of crude helium made available for that fiscal year;
+>     - **(B)** for each of fiscal years 2016 through 2019, a percentage of the total volume of crude helium that is 15 percentage points greater than the percentage made available for the previous fiscal year; and
+>     - **(C)** for fiscal year 2020 and each fiscal year thereafter, 100 percent of the total volume of crude helium made available for that fiscal year.
+>   - **(3)** *Federal purchases* Federal users may purchase refined helium with priority pipeline access under this subsection from persons who have entered into enforceable contracts to purchase an equivalent quantity of crude helium at the in-kind price from the Secretary.
+>   - **(4)** *Duration* This subsection applies during the period—
+>     - **(A)** beginning on October 1, 2014; and
+>     - **(B)** ending on the date on which the volume of recoverable crude helium at the Federal Helium Reserve (other than privately owned quantities of crude helium stored temporarily at the Federal Helium Reserve under section 5 and this section) is 3,000,000,000 standard cubic feet.
+>   - **(5)** *Safety valve* The Secretary may adjust the quantities specified in paragraph (2)—
+>     - **(A)** downward, if the Secretary determines the adjustment necessary—
+>       - **(i)** to minimize market disruptions that pose a threat to the economic well-being of the United States; and
+>       - **(ii)** only after submitting a written justification of the adjustment to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives; or
+>     - **(B)** upward, if the Secretary determines the adjustment necessary to increase participation in crude helium auctions or returns to the taxpayer.
+>   - **(6)** *Auction format* The Secretary shall conduct each auction using a method that maximizes revenue to the Federal Government.
+>   - **(7)** *Prices* The Secretary shall annually establish, as applicable, separate sale and minimum auction prices under subsection (a)(1) and paragraphs (1) and (2) using, if applicable and in the following order of priority:
+>     - **(A)** The sale price of crude helium in auctions held by the Secretary under paragraph (2).
+>     - **(B)** Price recommendations and disaggregated data from a qualified, independent third party who has no conflict of interest, who shall conduct a confidential survey of qualifying domestic helium transactions.
+>     - **(C)** The volume-weighted average price of all crude helium and pure helium purchased, sold, or processed by persons in all qualifying domestic helium transactions.
+>     - **(D)** The volume-weighted average cost of converting gaseous crude helium into pure helium.
+>   - **(8)** *Terms and conditions*
+>     - **(A)** *In general* The Secretary shall require all persons that are parties to a contract with the Secretary for the withdrawal, acceptance, storage, transportation, delivery, or redelivery of crude helium to disclose, on a strictly confidential basis—
+>       - **(i)** the volumes and associated prices in dollars per thousand cubic feet of all crude and pure helium purchased, sold, or processed by persons in qualifying domestic helium transactions;
+>       - **(ii)** the volumes and associated costs in dollars per thousand cubic feet of converting crude helium into pure helium; and
+>       - **(iii)** refinery capacity and future capacity estimates.
+>     - **(B)** *Condition* As a condition of sale or auction to a refiner under subsection (a)(1) and paragraphs (1) and (2), effective beginning 90 days after the date of enactment of the Helium Stewardship Act of 2013, the refiner shall make excess refining capacity of helium available at commercially reasonable rates to—
+>       - **(i)** any person prevailing in auctions under paragraph (2); and
+>       - **(ii)** any person that has acquired crude helium from the Secretary from the Federal Helium Reserve by means other than an auction under paragraph (2) after the date of enactment of the Helium Stewardship Act of 2013, including nonallocated sales.
+>   - **(9)** *Use of information* The Secretary may use the information collected under this Act—
+>     - **(A)** to approximate crude helium prices; and
+>     - **(B)** to ensure the recovery of fair value for the taxpayers of the United States from sales of crude helium.
+>   - **(10)** *Protection of confidentiality* The Secretary shall adopt such administrative policies and procedures as the Secretary considers necessary and reasonable to ensure the confidentiality of information submitted pursuant to this Act.
+>   - **(11)** *Forward auctions* Effective beginning in fiscal year 2016, the Secretary may conduct a forward auction once each fiscal year of a quantity of helium that is equal to up to 10 percent of the volume of crude helium to be made available at auction during the following fiscal year if the Secretary determines that the forward auction will—
+>     - **(A)** not cause a disruption in the supply of helium from the Reserve;
+>     - **(B)** represent a cost-effective action;
+>     - **(C)** generate greater returns for taxpayers; and
+>     - **(D)** increase the effectiveness of price discovery.
+>   - **(12)** *Auction frequency* Consistent with the annual volumes established under paragraph (2), effective beginning in fiscal year 2016, the Secretary may conduct auctions twice during each fiscal year if the Secretary determines that the auction frequency will—
+>     - **(A)** not cause a disruption in the supply of helium from the Reserve;
+>     - **(B)** represent a cost-effective action;
+>     - **(C)** generate greater returns for taxpayers; and
+>     - **(D)** increase the effectiveness of price discovery.
+> - **(c)** *Phase C: Continued access for Federal users*
+>   - **(1)** *In general* The Secretary shall offer crude helium for sale to Federal users in such quantities, at such times, at such prices required to reimburse the Secretary for the full costs of the sales, and under such terms and conditions as the Secretary determines necessary to carry out this subsection.
+>   - **(2)** *Federal purchases* Federal users may purchase refined helium with priority pipeline access under this subsection from persons who have entered into enforceable contracts to purchase an equivalent quantity of crude helium at the in-kind price from the Secretary.
+>   - **(3)** *Effective date* This subsection applies beginning on the day after the date described in subsection (b)(4)(B).
+> - **(d)** *Phase D: Disposal of assets*
+>   - **(1)** *In general* Not earlier than 2 years after the date of commencement of Phase C described in subsection (c) and not later than September 30, 2022, the Secretary shall designate as excess property and dispose of all facilities, equipment, and other real and personal property, and all interests in the same, held by the United States in the Federal Helium System.
+>   - **(2)** *Applicable law* The disposal of the property described in paragraph (1) shall be in accordance with subtitle I of title 40, United States Code.
+>   - **(3)** *Proceeds* All proceeds accruing to the United States by reason of the sale or other disposal of the property described in paragraph (1) shall be treated as funds received under this Act for purposes of subsection (e).
+>   - **(4)** *Costs* All costs associated with the sale and disposal (including costs associated with termination of personnel) and with the cessation of activities under this subsection shall be paid from amounts available in the Helium Production Fund established under subsection (e).
+> - **(e)** *Helium Production Fund*
+>   - **(1)** *In general* All amounts received under this Act, including amounts from the sale or auction of crude helium, shall be credited to the Helium Production Fund, which shall be available without fiscal year limitation for purposes determined to be necessary and cost effective by the Secretary to carry out this Act (other than sections 16, 17, and 18), including capital investments in upgrades and maintenance at the Federal Helium System, including—
+>     - **(A)** well head maintenance at the Cliffside Field;
+>     - **(B)** capital investments in maintenance and upgrades of facilities that pressurize the Cliffside Field;
+>     - **(C)** capital investments in maintenance and upgrades of equipment related to the storage, withdrawal, transportation, purification, and sale of crude helium from the Federal Helium Reserve;
+>     - **(D)** entering into purchase, lease, or other agreements to drill new or uncap existing wells to maximize the recovery of crude helium from the Federal Helium System; and
+>     - **(E)** any other scheduled or unscheduled maintenance of the Federal Helium System.
+>   - **(2)** *Excess funds* Amounts in the Helium Production Fund in excess of amounts the Secretary determines to be necessary to carry out paragraph (1) shall be paid to the general fund of the Treasury and used to reduce the annual Federal budget deficit.
+>   - **(3)** *Retirement of public debt* Out of amounts paid to the general fund of the Treasury under paragraph (2), the Secretary of the Treasury shall use $51,000,000 to retire public debt.
+>   - **(4)** *Report* Not later than 1 year after the date of enactment of the Helium Stewardship Act of 2013 and annually thereafter, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report describing all expenditures by the Bureau of Land Management to carry out this Act.
+> - **(f)** *Minimum quantity* The Secretary shall offer for sale or auction during each fiscal year under subsections (a), (b), and (c) a quantity of crude helium that is the lesser of —
+>   - **(1)** the quantity of crude helium offered for sale by the Secretary during fiscal year 2012; or
+>   - **(2)** the maximum total production capacity of the Federal Helium System.
+
+## § 6. Information, assessment, research, and strategy
+
+The Helium Act (50 U.S.C. 167 et seq.) is amended—
+
+- **(1)** by repealing section 15 (50 U.S.C. 167m);
+- **(2)** by redesignating section 17 (50 U.S.C. 167 note) as section 20; and
+- **(3)** by inserting after section 14 (50 U.S.C. 167l) the following:
+  > ## § 15. Information
   >
-  > - **(a)** *Phase A: Finalizing Debt Payoff*
-  >   - **(1)** *In general* Subject to paragraph (2), the Secretary shall offer for sale crude helium for Federal, medical, research, scientific, and commercial uses in such quantities, at such times, and under such conditions as the Secretary determines necessary to carry out this subsection with minimum market disruption.
-  >   - **(2)** *Minimum quantity* The Secretary shall offer for sale during each fiscal year under paragraph (1) a quantity of crude helium equivalent to the quantity of crude helium produced from the Federal Helium Reserve during fiscal year 2012.
-  >   - **(3)** *In-kind purchase by Federal agencies and grantees* Federal agencies, and holders of 1 or more Federal research grants, may purchase refined helium under this subsection for Federal, medical, research and scientific uses from persons who have entered into enforceable contracts to purchase an equivalent quantity of crude helium from the Secretary.
-  >   - **(4)** *Prices and determinations* Sales of crude helium by the Secretary under this subsection shall be at prices established by the Secretary that shall not be less than the price in the last sale of crude helium from the Federal Helium Reserve before the date of enactment of the Responsible Helium Administration and Stewardship Act, except that any sale to a person referred to in paragraph (3) for a purchase authorized by that paragraph shall be at a price specified by the Secretary.
-  >   - **(5)** *Duration* This subsection applies during the period—
-  >     - **(A)** beginning on the date of enactment of the Responsible Helium Administration and Stewardship Act; and
-  >     - **(B)** ending on the expiration of the one-year period following such date of enactment.
-  > - **(b)** *Phase B: Maximizing Total Recovery of Helium and Increasing Returns to the American Taxpayer*
-  >   - **(1)** *In general* The Secretary shall offer for sale at auction, as described in subsection (d), crude helium for medical, research, scientific, and commercial uses in such quantities, at such times, and under such conditions as the Secretary determines necessary—
-  >     - **(A)** to maximize total recovery and conservation of helium from the Federal Helium Reserve;
-  >     - **(B)** to manage crude helium sales according to the ability of the Secretary to extract and produce helium from the Federal Helium Reserve;
-  >     - **(C)** to respond to helium market supply and demand and minimize market disruption; and
-  >     - **(D)** to give priority to meeting the helium demand of Federal users through purchases under paragraph (2).
-  >   - **(2)** *In-kind purchase by Federal agencies and grantees* Any Federal agency, and any holder of 1 or more Federal research grants, may purchase refined helium for Federal, medical, research, and scientific uses from an eligible person. The Secretary shall then provide an equivalent volume of crude helium to the eligible person as if the eligible person was the successful bidder for the helium at auction. Provision of helium by the Secretary under this paragraph shall not be considered a sale of helium by the Secretary at auction. The Secretary shall provide such helium at the minimum price established by the Secretary for the most recent auction held under this subsection or such other price as may be specified by the Secretary.
-  >   - **(3)** *Eligible person* For purposes of this subsection, the term eligible person means a helium distributer who is registered as such with the Secretary.
-  >   - **(4)** *Duration* This subsection applies during the period—
-  >     - **(A)** beginning on the expiration of the period described in subsection (a)(5)(B); and
-  >     - **(B)** ending on the date on which the volume of recoverable crude helium at the Federal Helium Reserve (other than privately owned quantities of crude helium stored temporarily at the Federal Helium Reserve under section 5 and this section) is 3,000,000,000 standard cubic feet.
-  >   - **(5)** *Maximum annual sales* Notwithstanding any provision of subsection (d), for each fiscal year, the Secretary may not offer or provide for sale under this subsection a total volume of crude helium that exceeds the lesser of—
-  >     - **(A)** the projected maximum total production capacity of the Federal Helium Reserve during that fiscal year; and
-  >     - **(B)** the maximum refining capacity of persons connected by pipeline to the Federal Helium Reserve during that fiscal year.
-  > - **(c)** *Phase C: Access for Federal users*
-  >   - **(1)** *In general* The Secretary may offer for sale crude helium for Federal uses (including medical, research, and scientific uses) in such quantities, at such times, and under such conditions as the Secretary determines necessary to carry out this subsection.
-  >   - **(2)** *Purchase by Federal agencies and grantees* Federal agencies, and holders of 1 or more Federal research grants related to helium or the use of helium, may purchase refined helium under this subsection for Federal uses (including medical, research, and scientific uses) from persons who have entered into enforceable contracts to purchase an equivalent quantity of crude helium from the Secretary.
-  >   - **(3)** *Effective date* This subsection applies beginning on the day after the date described in subsection (b)(4)(B).
-  > - **(d)** *Auction and minimum prices determination*
-  >   - **(1)** *In general* Sales of crude helium by the Secretary in auctions under subsection (b) shall be conducted under the conditions described in this section and at no less than the minimum price established by the Secretary.
-  >   - **(2)** *Auction* The Secretary shall conduct such auctions of crude helium as soon as practical but no later than beginning 180 days after the first day of the period described in subsection (b)(4), under the following conditions:
-  >     - **(A)** 60 percent of the volume of crude helium made available in each auction shall be made available to entities that can show the Secretary they have either adequate refining capacity or tolling agreements for refining in place, in accordance with the conditions set forth in paragraph (3).
-  >     - **(B)** 20 percent of the volume of crude helium made available in each auction shall be made available to any bidder, in accordance with the conditions set forth in paragraph (3).
-  >     - **(C)** In each auction after the first auction under this subsection after the date of the enactment of the Responsible Helium Administration and Stewardship Act, the Secretary shall make available an additional volume of crude helium, in an amount equivalent to the amount made available under subparagraph (B) that the Secretary certifies can be refined, through tolling agreements or otherwise. Of such additional volume, a person may not acquire in the auction a volume in excess of the volume they demonstrate to the Secretary they have the ability to refine through either refining capacity or tolling agreements.
-  >     - **(D)** The Secretary shall conduct such auctions at such times as the Secretary determines necessary to ensure a reliable supply of helium and a fair return to taxpayers, but no less frequently than 2 times each fiscal year.
-  >     - **(E)** For purposes of the first auction under this subsection after the date of the enactment of the Responsible Helium Administration and Stewardship Act, the Secretary may revise the percentage under subparagraph (A) so as to make available for auction 100 percent of the volume of crude helium intended to be offered.
-  >     - **(F)** The Secretary may adjust the percentages and amount specified in subparagraphs (A) through (C), respectively, in any auction if the Secretary determines the adjustment is necessary to—
-  >       - **(i)** respond to market supply and demand and minimize market disruption; or
-  >       - **(ii)** increase participation in helium auctions.
-  >     - **(G)** The Secretary may conduct an auction no more frequently than once each fiscal year of an amount of helium equal to up to 10 percent of the volume of crude helium to be made available at auction during the following fiscal year. Such amount of crude helium shall be made available to any bidder, in accordance with the conditions set forth in paragraph (3). Notwithstanding paragraph (3)(C), for crude helium sold in such an auction the Secretary shall begin charging a storage fee under clause (i) of that paragraph beginning 1 year after the date of such auction, and shall begin charging increasing storage fees under clause (ii) of that paragraph beginning 270 days after beginning charging storage fees under clause (i) of that paragraph.
-  >   - **(3)** *Auction conditions*
-  >     - **(A)** *Bidding method* The Secretary shall conduct each auction by sealed bid for predetermined volume lots, unless the Secretary determines that an alternative bidding method may result in more revenue to the Federal Government or may increase participation in the auction.
-  >     - **(B)** *Bidder qualifications and limits* In carrying out an auction under subsection (b), the Secretary—
-  >       - **(i)** may accept bids only from persons the Secretary determines are seeking to purchase helium for their own use, for refining, or for delivery to users; and
-  >       - **(ii)** may not award to a person more than 30 percent of the total volume of crude helium offered in that auction, except that the Secretary may adjust such limitation based on the number of bidders in the auction.
-  >     - **(C)** *Storage fees* In each auction the Secretary—
-  >       - **(i)** shall begin charging each winning bidder a storage fee for crude helium purchased by the bidder that remains in the Federal Helium Reserve, beginning on the date the Secretary receives payment of the purchase price for the helium; and
-  >       - **(ii)** beginning 270 days after the date of the auction, shall charge increasing storage fees that will encourage the withdrawal of the helium no later than 2 years after the date of the auction.
-  >   - **(4)** *Determination of minimum sale price* The Secretary shall make a determination of the minimum sale price for sales described in paragraph (1) using—
-  >     - **(A)** a confidential survey of qualifying domestic helium transactions to which any holder of a contract with the Secretary for the acceptance, storage, and redelivery of crude helium in the Cliffside Gas Field helium storage reservoir is a party;
-  >     - **(B)** current market crude helium prices as represented by the sale price at any auction held by the Secretary in the preceding 2 years;
-  >     - **(C)** the volume-weighted average cost among helium refiners, producers, and liquefiers, in dollars per thousand cubic feet, of converting gaseous crude helium into bulk liquid helium;
-  >     - **(D)** the additional layer of cost and profit associated with the sale or resale of bulk liquid helium; and
-  >     - **(E)** the sale price for crude helium offered in the most recent auction under paragraph (2)(G).
-  >   - **(5)** *Authority of Secretary* The Secretary shall—
-  >     - **(A)** require all persons that are parties to a contract with the Secretary for the acceptance, storage, and redelivery of crude helium to disclose, on a strictly confidential basis in dollars per thousand cubic feet, the weighted average price of all crude helium and bulk liquid helium purchased, sold, or processed by the persons in all qualifying domestic helium transactions during the fiscal year;
-  >     - **(B)** appoint a qualified independent third party to perform data collection and analysis for the purposes of the survey under paragraph (4)(A); and
-  >     - **(C)** adopt such administrative policies and procedures as the Secretary considers necessary and reasonable to ensure robust protection of the confidentiality of data submitted by private persons.
-  >   - **(6)** *Changes in minimum price* If the Secretary believes that the minimum price as determined by the survey under paragraph (4)(A) may not be reflective of the current market value of helium, or if a higher minimum price may result in greater conservation of the Federal crude helium resource, the Secretary may change the minimum price charged for crude helium sold under this section by up to 10 percent of the price determined under paragraph (4). If at any sale in which the minimum price is increased under this paragraph all crude helium offered is sold at the increased price, the Secretary shall consider that increased price to be the minimum price determined under paragraph (4) for all future sales of crude helium under this section unless that price is further changed in accordance with this paragraph.
-  >   - **(7)** *Ensuring fair and nondiscriminatory acts and practices* The Secretary may issue such rules and regulations with respect to ensure bidding, transfer, and refining of helium produced from or held in the Federal Helium Reserve as may be necessary to ensure fair and nondiscriminatory acts and practices.
-  >   - **(8)** *Auction records*
-  >     - **(A)** *Furnishing records* Every person participating in auctions of helium from the Federal Helium Reserve shall furnish to the Secretary on request such records of transactions in helium auctions as the Secretary may require to reconstruct bidding or trading in the course of a particular inquiry or investigation being conducted by the Secretary for enforcement or surveillance purposes. In requiring information pursuant to this paragraph, the Secretary shall specify the information required, the period for which it is required, and the time and date on which the information must be furnished.
-  >     - **(B)** *Reporting requirements* The Secretary may issue rules to require persons participating in helium auctions to file such reports as the Secretary determines to be necessary for purposes of this Act.
-  >     - **(C)** *Recordkeeping requirements* Rules under this subsection may require specified persons to make and keep for prescribed periods such records as the Secretary determines are necessary or appropriate to ensure that such persons can comply with reporting requirements under this subsection.
-  >     - **(D)** *Limitation on disclosure of information* Notwithstanding any other provision of law, the Secretary shall not be compelled to disclose any proprietary information required to be kept or reported under this subsection. Nothing in this subsection authorizes the Secretary to withhold information from Congress, prevents the Secretary from complying with a request for information from any other Federal department or agency requesting information for purposes within the scope of its jurisdiction, or prevents the Secretary from complying with an order of a court of the United States in an action brought by the United States or by the Secretary.
-  > - **(e)** *Helium Production Fund*
-  >   - **(1)** *In general* All amounts received under this Act shall be credited to the Helium Production Fund, which shall be available without fiscal year limitation for purposes considered necessary by the Secretary to carry out this subsection.
-  >   - **(2)** *Administrative expenses* Amounts in the Helium Production Fund may be used by the Secretary to conduct helium auctions and otherwise administer this Act.
-  >   - **(3)** *Repayment amounts* During the period described in subsection (a)(4), amounts in the Helium Production Fund in excess of amounts the Secretary considers necessary to conduct helium auctions and otherwise administer this Act shall be paid to the general fund of the Treasury and credited against all amounts required to be repaid to the United States under this Act as of October 1, 1995.
-  >   - **(4)** *Capital investments and maintenance* Amounts in the Helium Production Fund in excess of amounts the Secretary considers necessary to carry out paragraphs (1) through (3) may be used to fund the following capital investments in upgrades and maintenance at the Federal Helium reserve:
-  >     - **(A)** Wellhead maintenance at the Cliffside Gas Field helium storage reservoir.
-  >     - **(B)** Capital investments in maintenance and upgrades of facilities that pressurize the Cliffside Gas Field helium storage reservoir.
-  >     - **(C)** Capital investments in maintenance and upgrades of equipment related to the storage, withdrawal, transportation, purification, and sale of crude helium at the Cliffside Gas Field helium storage reservoir.
-  >     - **(D)** Any other scheduled or unscheduled maintenance of the Cliffside Gas Field helium storage reservoir and helium pipeline.
-  >   - **(5)** *Excess funds and deficit reduction* Amounts in the Helium Production Fund in excess of amounts the Secretary considers necessary to carry out paragraphs (1) through (4) shall be paid to the general fund of the Treasury and used to reduce the annual Federal budget deficit.
-  > - **(f)** *Extraction of helium from deposits on Federal land* All amounts received by the Secretary from the sale or disposition of crude helium on Federal land shall be paid to the general fund of the Treasury and credited against all amounts required to be repaid to the United States under this Act as of October 1, 1995.
-  > - **(g)** *Maintenance of helium supply* The Secretary shall ensure that there is no disruption in the supply of helium from the Federal Helium Reserve during the transition between phases of helium sales under subsections (a), (b), and (c).
+  > - **(a)** *Transparency* The Secretary, acting through the Bureau of Land Management, shall make available on the Internet information relating to the Federal Helium System that includes—
+  >   - **(1)** continued publication of an open market and in-kind price;
+  >   - **(2)** aggregated projections of excess refining capacity;
+  >   - **(3)** ownership of helium held in the Federal Helium Reserve;
+  >   - **(4)** the volume of helium delivered to persons through the Federal Helium Pipeline;
+  >   - **(5)** pressure constraints of the Federal Helium Pipeline;
+  >   - **(6)** an estimate of the projected date when 3,000,000,000 standard cubic feet of crude helium will remain in the Federal Helium Reserve and the final phase described in section 6(c) will begin;
+  >   - **(7)** the amount of the fees charged under section 5;
+  >   - **(8)** the scheduling of crude helium deliveries through the Federal Helium Pipeline; and
+  >   - **(9)** other factors that will increase transparency.
+  > - **(b)** *Reporting* Not later than 90 days after the date of enactment of the Helium Stewardship Act of 2013, to provide the market with appropriate and timely information affecting the helium resource, the Director of the Bureau of Land Management shall establish a timely and public reporting process to provide data that affects the helium industry, including—
+  >   - **(1)** annual maintenance schedules and quarterly updates, that shall include—
+  >     - **(A)** the date and duration of planned shutdowns of the Federal Helium Pipeline;
+  >     - **(B)** the nature of work to be undertaken on the Federal Helium System, whether routine, extended, or extraordinary;
+  >     - **(C)** the anticipated impact of the work on the helium supply;
+  >     - **(D)** the efforts being made to minimize any impact on the supply chain; and
+  >     - **(E)** any concerns regarding maintenance of the Federal Helium Pipeline, including the pressure of the pipeline or deviation from normal operation of the pipeline;
+  >   - **(2)** for each unplanned outage, a description of—
+  >     - **(A)** the beginning of the outage;
+  >     - **(B)** the expected duration of the outage;
+  >     - **(C)** the nature of the problem;
+  >     - **(D)** the estimated impact on helium supply;
+  >     - **(E)** a plan to correct problems, including an estimate of the potential timeframe for correction and the likelihood of plan success within the timeframe;
+  >     - **(F)** efforts to minimize negative impacts on the helium supply chain; and
+  >     - **(G)** updates on repair status and the anticipated online date;
+  >   - **(3)** monthly summaries of meetings and communications between the Bureau of Land Management and the Cliffside Refiners Limited Partnership, including a list of participants and an indication of any actions taken as a result of the meetings or communications; and
+  >   - **(4)** current predictions of the lifespan of the Federal Helium System, including how much longer the crude helium supply will be available based on current and forecasted demand and the projected maximum production capacity of the Federal Helium System for the following fiscal year.
+  >
+  > ## § 16. Helium gas resource assessment
+  >
+  > - **(a)** *In general* Not later than 2 years after the date of enactment of the Helium Stewardship Act of 2013, the Secretary, acting through the Director of the United States Geological Survey, shall—
+  >   - **(1)** in coordination with appropriate heads of State geological surveys—
+  >     - **(A)** complete a national helium gas assessment that identifies and quantifies the quantity of helium, including the isotope helium-3, in each reservoir, including assessments of the constituent gases found in each helium resource, such as carbon dioxide, nitrogen, and natural gas; and
+  >     - **(B)** make available the modern seismic and geophysical log data for characterization of the Bush Dome Reservoir;
+  >   - **(2)** in coordination with appropriate international agencies and the global geology community, complete a global helium gas assessment that identifies and quantifies the quantity of the helium, including the isotope helium-3, in each reservoir;
+  >   - **(3)** in coordination with the Secretary of Energy, acting through the Administrator of the Energy Information Administration, complete—
+  >     - **(A)** an assessment of trends in global demand for helium, including the isotope helium-3;
+  >     - **(B)** a 10-year forecast of domestic demand for helium across all sectors, including scientific and medical research, commercial, manufacturing, space technologies, cryogenics, and national defense; and
+  >     - **(C)** an inventory of medical, scientific, industrial, commercial, and other uses of helium in the United States, including Federal uses, that identifies the nature of the helium use, the amounts required, the technical and commercial viability of helium recapture and recycling in that use, and the availability of material substitutes wherever possible; and
+  >   - **(4)** submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report describing the results of the assessments required under this paragraph.
+  > - **(b)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $1,000,000.
+  >
+  > ## § 17. Low-Btu gas separation and helium conservation
+  >
+  > - **(a)** *Authorization* The Secretary of Energy shall support programs of research, development, commercial application, and conservation (including the programs described in subsection (b))—
+  >   - **(1)** to expand the domestic production of low-Btu gas and helium resources;
+  >   - **(2)** to separate and capture helium from natural gas streams; and
+  >   - **(3)** to reduce the venting of helium and helium-bearing low-Btu gas during natural gas exploration and production.
+  > - **(b)** *Programs*
+  >   - **(1)** *Membrane technology research* The Secretary of Energy, in consultation with other appropriate agencies, shall support a civilian research program to develop advanced membrane technology that is used in the separation of low-Btu gases, including technologies that remove helium and other constituent gases that lower the Btu content of natural gas.
+  >   - **(2)** *Helium separation technology* The Secretary of Energy shall support a research program to develop technologies for separating, gathering, and processing helium in low concentrations that occur naturally in geological reservoirs or formations, including—
+  >     - **(A)** low-Btu gas production streams; and
+  >     - **(B)** technologies that minimize the atmospheric venting of helium gas during natural gas production.
+  >   - **(3)** *Industrial helium program* The Secretary of Energy, working through the Advanced Manufacturing Office of the Department of Energy, shall carry out a research program—
+  >     - **(A)** to develop low-cost technologies and technology systems for recycling, reprocessing, and reusing helium for all medical, scientific, industrial, commercial, aerospace, and other uses of helium in the United States, including Federal uses; and
+  >     - **(B)** to develop industrial gathering technologies to capture helium from other chemical processing, including ammonia processing.
+  > - **(c)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $3,000,000.
+  >
+  > ## § 18. Helium-3 separation
+  >
+  > - **(a)** *Interagency cooperation* The Secretary shall cooperate with the Secretary of Energy, or a designee, on any assessment or research relating to the extraction and refining of the isotope helium-3 from crude helium and other potential sources, including—
+  >   - **(1)** gas analysis; and
+  >   - **(2)** infrastructure studies.
+  > - **(b)** *Feasibility study* The Secretary, in consultation with the Secretary of Energy, or a designee, may carry out a study to assess the feasibility of—
+  >   - **(1)** establishing a facility to separate the isotope helium-3 from crude helium; and
+  >   - **(2)** exploring other potential sources of the isotope helium-3.
+  > - **(c)** *Report* Not later than 1 year after the date of enactment of the Helium Stewardship Act of 2013, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that contains a description of the results of the assessments conducted under this section.
+  > - **(d)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $1,000,000.
+  >
+  > ## § 19. Federal agency helium acquisition strategy
+  >
+  > In anticipation of the implementation of Phase D described in section 6(d), and not later than 2 years after the date of enactment of the Helium Stewardship Act of 2013, the Secretary (in consultation with the Secretary of Energy, the Secretary of Defense, the Director of the National Science Foundation, the Administrator of the National Aeronautics and Space Administration, and the Director of the National Institutes of Health) shall submit to Congress a report that provides for Federal users—
+  >
+  > - **(1)** an assessment of the consumption of, and projected demand for, crude and refined helium;
+  > - **(2)** a description of a 20-year Federal strategy for securing access to helium;
+  > - **(3)** a determination of a date prior to September 30, 2022, for the implementation of Phase D as described in section 6(d) that minimizes any potential supply disruptions for Federal users;
+  > - **(4)** an assessment of the effects of increases in the price of refined helium and methods and policies for mitigating any determined effects; and
+  > - **(5)** a description of a process for prioritization of uses that accounts for diminished availability of helium supplies that may occur over time.
 
-- **(b)** *Report* Not later than 1 year after the date of enactment of this Act and annually thereafter, the Secretary of the Interior shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report describing all expenditures by the Bureau of Land Management for operation and maintenance of the Federal Helium Reserve (as that term is defined in the amendment made by section 2(3)), investments made by the Bureau for such reserve, and scheduled or unscheduled maintenance of such reserve or its infrastructure to be conducted by the Bureau.
+## § 7. Conforming amendments
 
-## § 4. BLM transparency requirements to facilitate market and supply chain information
+- **(a)** Section 4 of the Helium Act (50 U.S.C. 167b) is amended by striking “section 6(f)” each place it appears in subsections (c)(3), (c)(4), and (d)(2) and inserting “section 6(d)”.
+- **(b)** Section 8 of the Helium Act (50 U.S.C. 167f) is repealed.
 
-The Helium Act (50 U.S.C. 167 et seq.) is further amended by redesignating sections 15 and 17 as sections 17 and 18, and by inserting after section 14 the following:
+## § 8. Existing agreements
 
-> ## § 15. Pipeline access
->
-> - **(a)** *Annual report* The Secretary, acting through the Bureau of Land Management, shall make available on the Internet the current refining capacity on the Federal Helium Reserve pipeline, including—
->   - **(1)** refinery capacity and future capacity estimates;
->   - **(2)** ownership of federally auctioned helium held in the Federal Helium Reserve;
->   - **(3)** volume of helium delivered to individual buyers through such pipeline;
->   - **(4)** for each helium refiner—
->     - **(A)** the number of tolling agreements entered into before October 1, 2013; and
->     - **(B)** for each fiscal year thereafter—
->       - **(i)** the number of tolling agreements entered into;
->       - **(ii)** the number of tolling requests received; and
->       - **(iii)** the total volume of helium refined under each tolling agreement entered into;
->   - **(5)** pipeline pressure constraints; and
->   - **(6)** other factors that will increase transparency for persons interested in entering refining contracts with existing refiners.
-> - **(b)** *New refining capacity* The Secretary shall take any applications for new refining capacity on the Federal Helium Reserve pipeline. To create more competition, any new refining capacity added to the Federal Helium Reserve pipeline system shall be granted access to crude helium that is equal to the access provided to existing refining facilities.
-> - **(c)** *Access by purchasers of helium* The Secretary shall manage Federal Helium Reserve pipeline access in a competitive manner to ensure that all persons purchasing helium have equal access to timing and delivery of the helium, subject to the capacity of the system.
-> - **(d)** *Scheduling deliveries* The Secretary shall, to the greatest extent practicable, make the scheduling of crude helium deliveries through the Federal Helium Reserve pipeline open and transparent to all purchasers of helium through the auction process, and to the public if the Secretary believes that it is in the national interest.
-> - **(e)** *Scheduling priority*
->   - **(1)** *In general* In scheduling crude helium deliveries through the Federal Helium Reserve pipeline the Secretary shall grant pipeline access in the following order of priority:
->     - **(A)** Helium held in the Reserve as a result of a purchase under subsection (b)(2).
->     - **(B)** Helium sold at auction being delivered to fulfill a tolling agreement.
->     - **(C)** Other helium sold at auction.
->     - **(D)** Helium held in the Reserve as a result of a crude helium exchange resulting from any temporary shutdown of the Reserve or of a refinery on the Reserve pipeline.
->     - **(E)** Helium held in inventory in the Reserve before the date of enactment of the Responsible Helium Administration and Stewardship Act.
->   - **(2)** In scheduling such deliveries of helium described in each of subparagraphs (A) through (E) of paragraph (1), the Secretary shall grant pipeline access based on the following order of priority:
->     - **(A)** The price paid to the United States for the helium, giving higher priority to helium for which a greater price was paid.
->     - **(B)** The date the helium was purchased from the Secretary, giving higher priority to helium purchased on an earlier date.
->     - **(C)** Any other factor the Secretary considers appropriate to prioritize delivery.
->
-> ## § 16. BLM reporting requirements to facilitate supply chain information
->
-> - **(a)** *In general* In order to provide the market with appropriate and timely information affecting the helium resource, the Director of the Bureau of Land Management shall establish, no later than 90 days after the date of enactment of the Responsible Helium Administration and Stewardship Act, a real-time reporting process, including reporting over the Internet, to provide data that will affect the helium industry, including such effects for all persons in such industry from crude helium suppliers to end users.
-> - **(b)** *Included information* Information provided under this section shall include the following:
->   - **(1)** Annual maintenance schedules and quarterly updates thereof, which shall be available on the Internet, to the extent practicable, and shall include the following:
->     - **(A)** The date and duration of planned shutdowns of the Federal Helium Reserve pipeline.
->     - **(B)** The nature of work to be undertaken, whether routine, extended, or extraordinary.
->     - **(C)** The anticipated impact on the helium supply.
->     - **(D)** The efforts to minimize any impact on the supply chain.
->     - **(E)** Any concerns regarding maintenance of the Federal Helium Reserve pipeline, pressure of such pipeline, or deviation from normal operation of such pipeline.
->   - **(2)** For each unplanned outage, the following:
->     - **(A)** The beginning of the outage.
->     - **(B)** The expected duration of outage.
->     - **(C)** A description of the problem.
->     - **(D)** The estimated impact on helium supply.
->     - **(E)** A plan to correct problems, an estimate of the potential timeframe for correction, and the likelihood of plan success within the timeframe.
->     - **(F)** Efforts to minimize negative impacts on the helium supply chain.
->     - **(G)** Updates on repair status and the anticipated online date.
->   - **(3)** Minutes of meetings between the Bureau of Land Management and the Cliffside Refiners Limited Partnership, including—
->     - **(A)** publication of the minutes of each meeting between the Bureau of Land Management and the Cliffside Refiners Limited Partnership, including attendees and their affiliations, on the Internet site of the Bureau within 1 week after the meeting; and
->     - **(B)** indication in the minutes of any action taken that could affect the supply or operating status related to the Federal helium program.
->   - **(4)** Current predictions of the lifespan of the Federal Helium Reserve, including how much longer such crude helium supply will be available based on current and forecasted demand and the projected maximum production capacity of the Federal Helium Reserve for the following fiscal year.
+- **(a)** *In general* This Act and the amendments made by this Act shall not affect or diminish the rights and obligations of the Secretary of the Interior and private parties under agreements in existence on the date of enactment of this Act, except to the extent that the agreements are renewed or extended after that date.
+- **(b)** *Delivery* No agreement described in subsection (a) shall affect or diminish the right of any party that purchases helium after the date of enactment of this Act in accordance with section 6 of the Helium Act (50 U.S.C. 167d) (as amended by section 5) to receive delivery of the helium in accordance with section 5(e)(2) of the Helium Act (50 U.S.C. 167c(e)(2)) (as amended by section 4).
 
-## § 5. Helium resource assessment and helium–3 separation
+## § 9. Regulations
 
-- **(a)** *Helium gas resource assessment* Not later than 2 years after the date of enactment of this Act, the Secretary of the Interior shall—
-  - **(1)** in coordination with appropriate heads of State geological surveys—
-    - **(A)** complete a national helium gas assessment that identifies and quantifies the quantity of helium, including the isotope helium-3, in each reservoir, including assessments of the constituent gases found in each helium resource, such as carbon dioxide, nitrogen, and natural gas; and
-    - **(B)** make available the modern seismic and geophysical log data for characterization of the Bush Dome Reservoir;
-  - **(2)** in coordination with appropriate international agencies and the global geology community, complete a global helium gas assessment that identifies and quantifies the quantity of the helium, including the isotope helium-3, in each reservoir;
-  - **(3)** in consultation with the Secretary of Energy, acting through the Administrator of the Energy Information Administration, complete—
-    - **(A)** an assessment of trends in global demand for helium, including the isotope helium-3;
-    - **(B)** a 10-year forecast of domestic demand for helium across all sectors, including scientific and medical research, commercial, manufacturing, space technologies, cryogenics, and national defense; and
-    - **(C)** an inventory of medical, research, scientific, industrial, commercial, and other uses of helium in the United States, including Federal and commercial helium uses, that identifies the nature of the helium use, the amounts required, the technical and commercial viability of helium recapture and recycling in that use, and the availability of material substitutes wherever possible;
-  - **(4)** complete an assessment of options for ensuring a domestic helium supply in the future, including—
-    - **(A)** an analysis of how the Federal Helium Reserve has influenced domestic and global helium supply and prices historically; and
-    - **(B)** an assessment of options for how the Federal Helium Reserve could promote the long term availability and security of domestic helium supplies; and
-  - **(5)** submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report describing the results of the assessments required under this subsection.
-- **(b)** *Helium-3 separation*
-  - **(1)** *Interagency cooperation* The Secretary of the Interior shall cooperate with the Secretary of Energy, or a designee of the Secretary of Energy, on any assessment or research relating to the extraction and refining of the isotope helium-3 from crude helium at the Federal Helium Reserve (as that term is defined in the amendments made by section 2) or along the Federal Helium Reserve pipeline system, including—
-    - **(A)** gas analysis;
-    - **(B)** infrastructure studies; and
-    - **(C)** cooperation with private helium refiners.
-  - **(2)** *Feasibility study* The Secretary of the Interior shall assess the feasibility of establishing a facility to separate the isotope helium-3 from crude helium at—
-    - **(A)** the Federal Helium Reserve; or
-    - **(B)** an existing helium separation or purification facility connected to the Federal Helium Reserve pipeline system.
-  - **(3)** *Report* Not later than 1 year after the date of enactment of this Act, the Secretary of the Interior shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that contains a description of the results of the assessments conducted under this subsection.
+The Secretary of the Interior shall promulgate such regulations as are necessary to carry out this Act and the amendments made by this Act, including regulations necessary to prevent unfair acts and practices.
 
-## § 6. Additional connections to the Federal Helium Reserve
+## § 10. Amendments to other laws
 
-The Secretary of the Interior may allow any person not connected to the Federal Helium Reserve, as that term is defined under section 2 of the Helium Act (50 U.S.C. 167), as amended by this Act, to connect to the Federal Helium Reserve for the purpose of storing helium, subject to such storage fees as may be required by the Secretary. Withdrawal of such helium shall be governed by that Act.
+- **(a)** *Secure rural schools and community self determination program*
+  - **(1)** *Secure payments for States and counties containing Federal land*
+    - **(A)** *Availability of payments* Section 101 of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7111) is amended by striking “2012” each place it appears and inserting “2013”.
+    - **(B)** *Elections* Section 102(b) of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7112(b)) is amended—
+      - **(i)** in paragraph (1)(A), by striking “2012” and inserting “2013”; and
+      - **(ii)** in paragraph (2)(B), by striking “2012” each place it appears and inserting “2013”.
+    - **(C)** *Distribution of payments to eligible counties* Section 103(d)(2) of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7113(d)(2)) is amended by striking “and 2012” and inserting “through 2013”.
+  - **(2)** *Continuation of authority to conduct special projects on federal land* Title II of the Secure Rural Schools and Community Self-Determination Act of 2000 is amended—
+    - **(A)** in section 203(a)(1) (16 U.S.C. 7123(a)(1)), by striking “2012” and inserting “2013”;
+    - **(B)** in section 204(e)(3)(B)(iii) (16 U.S.C. 7124(e)(3)(B)(iii)), by striking “2012” and inserting “2013”;
+    - **(C)** in section 205(a)(4) (16 U.S.C. 7125(a)(4)), by striking “2011” each place it appears and inserting “2012”;
+    - **(D)** in section 207(a) (16 U.S.C. 7127(a)), by striking “2012” and inserting “2013”; and
+    - **(E)** in section 208 (16 U.S.C. 7128)—
+      - **(i)** in subsection (a), by striking “2012” and inserting “2013”; and
+      - **(ii)** in subsection (b), by striking “2013” and inserting “2014”.
+  - **(3)** *Continuation of authority to reserve and use county funds* Section 304 of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7144) is amended—
+    - **(A)** in subsection (a), by striking “2012” and inserting “2013” ; and
+    - **(B)** in subsection (b), by striking “2013” and inserting “2014”.
+  - **(4)** *Authorization of appropriations* Section 402 of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7152) is amended by striking “2012” and inserting “2013”.
+- **(b)** *Abandoned well remediation* Section 349 of the Energy Policy Act of 2005 (42 U.S.C. 15907) is amended by adding at the end the following:
+  > - **(i)** *Federally drilled wells* Out of any amounts in the Treasury not otherwise appropriated, $46,000,000 for fiscal year 2014 and $4,000,000 for fiscal year 2018 shall be made available to the Secretary, without further appropriation and to remain available until expended, to remediate, reclaim, and close abandoned oil and gas wells on current or former National Petroleum Reserve land.
+
+- **(c)** *National parks maintenance backlog* Section 814(g) of the Omnibus Parks and Public Lands Management Act of 1996 (16 U.S.C. 1f) is amended by adding at the end the following:
+  > - **(4)** *Available funds* Out of any amounts in the Treasury not otherwise appropriated, $50,000,000 shall be made available to the Secretary of the Interior for fiscal year 2018, without further appropriation and to remain available until expended, to pay the Federal funding share of challenge cost-share agreements for deferred maintenance projects and to correct deficiencies in National Park Service infrastructure.
+  > - **(5)** *Cost-share requirement* Not less than 50 percent of the total cost of project for funds made available under paragraph (4) to pay the Federal funding share shall be derived from non-Federal sources, including in-kind contribution of goods and services fairly valued.
+
+- **(d)** *Abandoned mine reclamation fund* Section 411(h) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1240a(h)) is amended by adding at the end the following:
+  > - **(6)** *Supplemental funding*
+  >   - **(A)** *Waiver of limitation* Notwithstanding paragraph (5), the limitation on the total annual payments to a certified State or Indian tribe under this subsection shall not apply for fiscal year 2014.
+  >   - **(B)** *Limitation on waiver* Notwithstanding subparagraph (A), the total annual payment to a certified State or Indian tribe under this subsection for fiscal year 2014 shall not be more than $75,000,000.
+  >   - **(C)** *Insufficient amounts* If the total annual payment to a certified State or Indian tribe under paragraphs (1) and (2) is limited by subparagraph (B), the Secretary shall—
+  >     - **(i)** give priority to making payments under paragraph (2); and
+  >     - **(ii)** use any remaining funds to make payments under paragraph (1).
+
+- **(e)** *Soda ash royalties* Notwithstanding section 24 of the Mineral Leasing Act (30 U.S.C. 262) and the terms of any lease under that Act, the royalty rate on the quantity of gross value of the output of sodium compounds and related products at the point of shipment to market from Federal land in the 2-year period beginning on the date of enactment of this Act shall be 4 percent.
+- **(f)** *Authorization offset* Section 207(c) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17022(c)) is amended by inserting before the period at the end the following: “, except that the amount authorized to be appropriated to carry out this section not appropriated as of the date of enactment of the Helium Stewardship Act of 2013 shall be reduced by $6,000,000”.

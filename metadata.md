@@ -1,7 +1,7 @@
 ---
 measure: H.R. 527
 congress: 113
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 527
@@ -28,11 +28,12 @@ Helium Stewardship Act of 2013
 - House — Natural Resources Committee
 - Senate — Energy and Natural Resources Committee
 
-## Recorded votes (3)
+## Recorded votes (4)
 
 - 2013-04-26 — [House 113-1-126](votes/house-113-1-0126.md) — On Agreeing to the Amendment — **Failed** (87–312)
 - 2013-04-26 — [House 113-1-127](votes/house-113-1-0127.md) — On Motion to Recommit with Instructions — **Failed** (186–211)
 - 2013-04-26 — [House 113-1-128](votes/house-113-1-0128.md) — On Passage — **Passed** (394–1)
+- 2013-09-19 — [Senate 113-1-203](votes/senate-113-1-0203.md) — On Passage of the Bill — **Bill Passed** (97–2)
 
 ## Actions
 
@@ -107,3 +108,14 @@ Helium Stewardship Act of 2013
 - 2013-04-26 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2375)
 - 2013-04-26 — The previous question was ordered pursuant to the rule. (consideration: CR H2375)
 - 2013-05-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-09-19 — Amendment SA 1960 agreed to in Senate by Unanimous Consent.
+- 2013-09-19 — Amendment SA 1960 proposed by Senator Wyden. (consideration: CR S6632-6634) In the nature of a substitute.
+- 2013-09-19 — Measure laid before Senate by unanimous consent. (consideration: CR S6632-6634)
+- 2013-09-19 — Message on Senate action sent to the House.
+- 2013-09-19 — Passed Senate with an amendment by Yea-Nay Vote. 97 - 2. Record Vote Number: 203.
+- 2013-09-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 97 - 2. Record Vote Number: 203.
+- 2013-09-19 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2013-09-19 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2013-09-19 — Senate amendment agreed to: Amendment SA 1960 agreed to in Senate by Unanimous Consent.
+- 2013-09-19 — Senate amendment proposed (on the floor): Amendment SA 1960 proposed by Senator Wyden.(consideration: CR S6632-6634)
+- 2013-09-19 — Senate amendment submitted
