@@ -13,8 +13,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *Definitions*
   - **(1)** *City* The term “City” means the City of Carlin, Nevada.
-  - **(2)** *Federal land* The term “Federal land” means the land located in the City of Carlin, Nevada, that is identified on the map as “Carlin Selected Parcels”.
-  - **(3)** *Map* The term “map” means the map entitled “Proposed Carlin, Nevada Land Sales” map dated January 4, 2013.
+  - **(2)** *Federal land* The term “Federal land” means the approximately 1,400 acres of land located in the City of Carlin, Nevada, that is identified on the map as “Carlin Selected Parcels”.
+  - **(3)** *Map* The term “map” means the map entitled “Proposed Carlin, Nevada Land Sales” map dated June 6, 2013.
 - **(b)** *Conveyance required* Subject to valid existing rights and not later than 180 days after the date on which the Secretary of the Interior receives an offer from the City to purchase the Federal land, the Secretary, acting through the Bureau of Land Management, shall convey, notwithstanding the land use planning requirements of sections 202 and 203 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712, 1713), to the City, in exchange for consideration in an amount equal to the fair market value of the Federal land, all right, title, and interest of the United States, to such Federal land.
 - **(c)** *Appraisal To determine fair market value* The Secretary shall determine the fair market value of the Federal land to be conveyed—
   - **(1)** in accordance with the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.); and
@@ -25,3 +25,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(e)** *Costs* The City shall, at closing for the conveyance authorized under subsection (b), pay or reimburse the Secretary, as appropriate, for the reasonable transaction and administrative personnel costs associated with the conveyance authorized under such subsection, including the costs of appraisal, title searches, maps, and boundary and cadastral surveys.
 - **(f)** *Conveyance not a major Federal action* A conveyance or combination of conveyances made under this section shall not be considered a major Federal action for purposes of section 102(2) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)).
 - **(g)** *Release of United States* Upon making the conveyance under subsection (b), notwithstanding any other provision of law, the United States is released from any and all liabilities or claims of any kind or nature arising from the presence, release, or threat of release of any hazardous substance, pollutant, contaminant, petroleum product (or derivative of a petroleum product of any kind), solid waste, mine materials or mining related features (including tailings, overburden, waste rock, mill remnants, pits, or other hazards resulting from the presence of mining related features) on the Federal land in existence on or before the date of the conveyance.
+- **(h)** *Withdrawal* Subject to valid existing rights, the Federal land identified for conveyance shall be withdrawn from all forms of—
+  - **(1)** entry, appropriation, or disposal under the public land laws;
+  - **(2)** location, entry, and patent under the mining laws; and
+  - **(3)** disposition under the mineral leasing, mineral materials and geothermal leasing laws.
