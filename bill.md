@@ -182,4 +182,24 @@ Notwithstanding section 101, amounts are provided for “Department of Veterans 
 
 The authority provided by the penultimate proviso under the heading “Department of Housing and Urban Development—Rental Assistance Demonstration” in division C of Public Law 112–55 shall continue in effect through the date specified in section 106(3) of this joint resolution.
 
+## § 137.
+
+- **(a)** *In general* Notwithstanding any other provision of law, no Federal funds shall be made available to carry out any provisions of the Patient Protection and Affordable Care Act (Public Law 111–148) or title I and subtitle B of title II of the Health Care and Education Reconciliation Act of 2010 (Public Law 111–152), or of the amendments made by either such Act.
+- **(b)** *Limitation* No entitlement to benefits under any provision of the Patient Protection and Affordable Care Act (Public Law 111–148) or title I and subtitle B of title II of the Health Care and Education Reconciliation Act of 2010 (Public Law 111–152), or the amendments made by either such Act, shall remain in effect on and after the date of the enactment of this joint resolution, nor shall any payment be awarded, owed, or made to any State, District, or territory under any such provision.
+- **(c)** *Unobligated balances* Notwithstanding any other provision of law, all unobligated balances available under the provisions of law referred to in subsection (a) are hereby rescinded.
+
+## § 138.
+
+- **(a)** *In general* Until December 15, 2014, in the event that the debt of the United States Government, as defined in section 3101 of title 31, United States Code, reaches the statutory limit, the Secretary of the Treasury shall, in addition to any other authority provided by law, issue obligations under chapter 31 of title 31, United States Code, to pay with legal tender, and solely for the purpose of paying, the principal and interest on obligations of the United States described in subsection (b) after the date of the enactment of this joint resolution.
+- **(b)** *Obligations described* For purposes of this subsection, obligations described in this subsection are obligations which are—
+  - **(1)** held by the public, or
+  - **(2)** held by the Old-Age and Survivors Insurance Trust Fund and Disability Insurance Trust Fund.
+- **(c)** *Prohibition on compensation for Members of Congress* None of the obligations issued under subsection (a) may be used to pay compensation for Members of Congress.
+- **(d)** *Obligations exempt from public debt limit* Obligations issued under subsection (a) shall not be taken into account in applying the limitation in section 3101(b) of title 31, United States Code, to the extent that such obligation would otherwise cause the limitation in section 3101(b) of title 31, United States Code, to be exceeded.
+- **(e)** *Report on certain actions*
+  - **(1)** *In general* If, after the date of the enactment of this joint resolution, the Secretary of the Treasury exercises his authority under subsection (a), the Secretary shall thereafter submit a report each week the authority is in use providing an accounting relating to—
+    - **(A)** the principal on mature obligations and interest that is due or accrued of the United States, and
+    - **(B)** any obligations issued pursuant to subsection (a).
+  - **(2)** *Submission* The report required by paragraph (1) shall be submitted to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
+
 This joint resolution may be cited as the “Continuing Appropriations Resolution, 2014”.
