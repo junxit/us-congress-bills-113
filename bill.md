@@ -44,8 +44,12 @@ In this Act:
   - **(4)** consult with—
     - **(A)** interested Federal, State, or local governmental entities;
     - **(B)** private and nonprofit organizations; or
-    - **(C)** any other interested individuals; and
-  - **(5)** identify cost estimates for any Federal acquisition, development, interpretation, operation, and maintenance associated with the alternatives considered under paragraph (3).
+    - **(C)** any other interested individuals;
+  - **(5)** identify cost estimates for any Federal acquisition, development, interpretation, operation, and maintenance associated with the alternatives considered under paragraph (3); and
+  - **(6)** determine the effect of the designation of the Study Area as a unit of the National Park System on—
+    - **(A)** existing commercial and recreational activities, including but not limited to hunting, fishing, recreational shooting, and on the authorization, construction, operation, maintenance or improvement of energy production and transmission infrastructure; and
+    - **(B)** the effect of the authority of State and local governments to manage those activities; and
+  - **(7)** identify any authorities, including condemnation, that will compel or permit the Secretary to influence or participate in local land use decisions (such as zoning) or place restrictions on nonfederal land if the Study Area is designated a unit of the National Park System.
 - **(c)** *Applicable law* The study required under subsection (a) shall be conducted in accordance with section 8 of Public Law 91–383 (16 U.S.C. 1a–5).
 - **(d)** *Report* Not later than 3 years after the date on which funds are first made available for the study under subsection (a), the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report containing—
   - **(1)** the results of the study; and
