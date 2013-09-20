@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2640
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -55,4 +55,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | By striking “ten cubic feet” the first place it appears and inserting “17 cubic feet”. | the bill names no machine-readable US Code section |
 | — | strike | By striking “during those months when there is no other discharge therefrom, but this release may be reduced for brief temporary periods by the Secretary whenever he may find that release of the full ten cubic feet per second is harmful … | the bill names no machine-readable US Code section |
 | — | add-at-end | By adding at the end the following: “Without further action by the Secretary, and as determined necessary for any given year by the City of Prineville, up to seven of the 17 cubic feet per second minimum release shall also serve as mitig… | the bill names no machine-readable US Code section |
-| — | amend | The Act of August 6, 1956 (70 Stat. 1058), as amended by the Acts of September 14, 1959 (73 Stat. 554), and September 18, 1964 (78 Stat. 954), is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The Act of August 6, 1956 (70 Stat. 1058), as amended by the Acts of September 14, 1959 (73 Stat. 554), and September 18, 1964 (78 Stat. 954), is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
