@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1459
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1459
@@ -35,3 +35,11 @@ Ensuring Public Involvement in the Creation of National Monuments Act
 - 2013-04-10 — Introduced in House
 - 2013-04-10 — Introduced in House
 - 2013-04-10 — Referred to the House Committee on Natural Resources.
+- 2013-04-15 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2013-04-16 — Committee Hearings Held.
+- 2013-07-24 — Committee Consideration and Mark-up Session Held.
+- 2013-07-24 — Ordered to be Reported by the Yeas and Nays: 26 - 14.
+- 2013-07-24 — Subcommittee on Public Lands and Environmental Regulation Discharged.
+- 2013-09-20 — Placed on the Union Calendar, Calendar No. 161.
+- 2013-09-20 — Reported by the Committee on Natural Resources. H. Rept. 113-221.
+- 2013-09-20 — Reported by the Committee on Natural Resources. H. Rept. 113-221.

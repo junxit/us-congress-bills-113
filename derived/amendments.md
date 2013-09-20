@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1459
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -42,6 +42,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 4321` | replace | by striking “That the President” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 4321` | insert | by inserting before the final period the following “. No more than one declaration shall be made in a State during any presidential four-year term of office without an express Act of Congress”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4321` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 431` | replace | by striking “That the President” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 431` | insert | by inserting before the final period the following “. No more than one declaration shall be made in a State during any presidential four-year term of office without an express Act of Congress”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
