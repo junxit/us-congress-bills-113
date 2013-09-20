@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1513
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `16 U.S.C. § 430g-4` | add-at-end | Section 1 of the Act titled “An Act to revise the boundary of Gettysburg National Military Park in the Commonwealth of Pennsylvania, and for other purposes”, approved August 17, 1990 (16 U.S.C. 430g–4), is amended by adding at the end th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 430g-4` | insert | Section 2(a) of that Act (16 U.S.C. 430g–5(a)) is amended in the first sentence by inserting before the period the following: “, except that the Secretary is authorized to acquire property within the area described in section 1(d) by don… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 430g-5` | insert | Section 2(a) of that Act (16 U.S.C. 430g–5(a)) is amended in the first sentence by inserting before the period the following: “, except that the Secretary is authorized to acquire property within the area described in section 1(d) by don… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
