@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 59
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 59
@@ -46,3 +46,6 @@ Continuing Appropriations Resolution, 2014
 - 2013-09-20 — Rule provides for consideration of H.J. Res. 59 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. Section 2 of the resolution provides that it shall be in order at any time from the calendar day of September 26, 2013, through the calendar day of September 29, 2013, for the Speaker to entertain motions that the House suspend the rules and that the Speaker or his designee shall consult with the Minority Leader or her designee on the designation of any matter or consideration pursuant to this section. The resolution provides that the amendment printed in the report shall be considered as adopted and the joint resolution, as amended shall be considered as read.
 - 2013-09-20 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5786-5787)
 - 2013-09-20 — The previous question was ordered pursuant to the rule. (consideration: CR H5785)
+- 2013-09-23 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S6680; text: CR S6680)
+- 2013-09-23 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S6673-6674, S6674-6680)
+- 2013-09-23 — Received in the Senate. Read twice. Pursuant to the order of 9-19-2013, Placed on Senate Legislative Calendar under General Orders. Calendar No. 195.
