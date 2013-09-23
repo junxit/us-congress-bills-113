@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1526
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1526
@@ -41,10 +41,11 @@ Restoring Healthy Forests for Healthy Communities Act
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
 - Rep. Palazzo, Steven M. [R-MS-4] (P000601)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Agriculture Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (5)
 
@@ -144,3 +145,4 @@ Restoring Healthy Forests for Healthy Communities Act
 - 2013-09-20 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1526.
 - 2013-09-20 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5791)
 - 2013-09-20 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2013-09-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
