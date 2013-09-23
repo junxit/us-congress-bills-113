@@ -1,7 +1,7 @@
 ---
 measure: S. 1348
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1348
@@ -28,3 +28,7 @@ Congressional Award Program Reauthorization Act of 2013
 
 - 2013-07-23 — Introduced in Senate
 - 2013-07-23 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2013-07-31 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2013-09-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. With written report No. 113-109.
+- 2013-09-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. With written report No. 113-109.
+- 2013-09-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 196.
