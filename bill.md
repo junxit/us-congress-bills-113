@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1412
-congress: 113th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 1412
 
-That the bill from the House of Representatives (H.R. 1412) entitled “An Act to improve and increase the availability of on-job training and apprenticeship programs carried out by the Secretary of Veterans Affairs, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend title 38, United States Code, to extend certain expiring authorities affecting veterans and their families, and for other purposes.
 
 ## § 1. Short title
 
@@ -80,5 +78,3 @@ This Act may be cited as the “Department of Veterans Affairs Expiring Authorit
 ## § 5. Scoring of budgetary effects
 
 The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act of 2010 shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.
-
-*Amend the title so as to read: “A bill to amend title 38, United States Code, to extend certain expiring authorities affecting veterans and their families, and for other purposes.”.*
