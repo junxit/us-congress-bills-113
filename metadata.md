@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1412
 congress: 113
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1412
@@ -52,3 +52,17 @@ Department of Veterans Affairs Expiring Authorities Act of 2013
 - 2013-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 164). (text: CR H2813-2814)
 - 2013-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 164).(text: CR H2813-2814)
 - 2013-05-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2013-09-23 — Amendment SA 1964 agreed to in Senate by Unanimous Consent.
+- 2013-09-23 — Amendment SA 1964 proposed by Senator Reid for Senator Sanders. (consideration: CR S6686-6687; text: CR S6686-6687) In the nature of a substitute.
+- 2013-09-23 — Amendment SA 1965 agreed to in Senate by Unanimous Consent.
+- 2013-09-23 — Amendment SA 1965 proposed by Senator Reid for Senator Sanders. (consideration: CR S6687; text: CR S6687) To amend the title.
+- 2013-09-23 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2013-09-23 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2013-09-23 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S6686-6687)
+- 2013-09-23 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S6686-6687)
+- 2013-09-23 — Senate amendment agreed to: Amendment SA 1964 agreed to in Senate by Unanimous Consent.
+- 2013-09-23 — Senate amendment agreed to: Amendment SA 1965 agreed to in Senate by Unanimous Consent.
+- 2013-09-23 — Senate amendment proposed (on the floor): Amendment SA 1964 proposed by Senator Reid for Senator Sanders.(consideration: CR S6686-6687; text: CR S6686-6687)
+- 2013-09-23 — Senate amendment proposed (on the floor): Amendment SA 1965 proposed by Senator Reid for Senator Sanders.(consideration: CR S6687; text: CR S6687)
+- 2013-09-23 — Senate amendment submitted
+- 2013-09-23 — Senate amendment submitted
