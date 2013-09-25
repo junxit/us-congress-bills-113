@@ -1,7 +1,7 @@
 ---
 measure: H.R. 527
 congress: 113
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 527
@@ -122,3 +122,12 @@ Helium Stewardship Act of 2013
 - 2013-09-25 — House agreed to Senate amendment with an amendment pursuant to H. Res. 354. (consideration: CR H5824-5825)
 - 2013-09-25 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
 - 2013-09-25 — Resolving differences -- House actions: House agreed to Senate amendment with an amendment pursuant to H. Res. 354.(consideration: CR H5824-5825)
+- 2013-09-26 — Message on Senate action sent to the House.
+- 2013-09-26 — Resolving differences -- Senate actions: Senate agreed to House amendment to Senate amendment by Unanimous Consent.(consideration: CR S6932-6933)
+- 2013-09-26 — Senate agreed to House amendment to Senate amendment by Unanimous Consent. (consideration: CR S6932-6933)
+- 2013-09-27 — Presented to President.
+- 2013-09-27 — Presented to President.
+- 2013-10-02 — Became Public Law No: 113-40.
+- 2013-10-02 — Became Public Law No: 113-40.
+- 2013-10-02 — Signed by President.
+- 2013-10-02 — Signed by President.

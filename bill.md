@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 527
-congress: 113th CONGRESS
-session: 1st Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 527
 
-That the House agree to the amendment of the Senate to the bill (H.R. 527) entitled “An Act to amend the Helium Act to complete the privatization of the Federal helium reserve in a competitive market fashion that ensures stability in the helium markets while protecting the interests of American taxpayers, and for other purposes.”, with the following
-
-*In lieu of the matter proposed to be inserted by the amendment of the Senate to the text of the bill, insert the following:*
+> To amend the Helium Act to complete the privatization of the Federal helium reserve in a competitive market fashion that ensures stability in the helium markets while protecting the interests of American taxpayers, and for other purposes.
 
 ## § 1. Short title
 
