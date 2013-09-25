@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2848
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-36 amendatory instructions. 7 executed, 29 stated and not applied.
+41 amendatory instructions. 11 executed, 30 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -50,6 +50,42 @@ to guess them.
 |---|---|
 | Removed | `subsection (b)` |
 | Inserted | `subsection (b) or (c)` |
+
+### 22 U.S.C. § 4834
+
+> by striking “Whenever” and inserting “If”; and
+
+| | |
+|---|---|
+| Removed | `Whenever` |
+| Inserted | `If` |
+
+### 22 U.S.C. § 4834
+
+> by striking “has breached the duty of that individual” and inserting “has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual, and such misconduct or unsatisfactory performance has significantly contributed to the serious injury, loss of life, or significant destruction of property, or the serious breach of security that is the subject of the Board’s examination as described in subsection (a)”;
+
+| | |
+|---|---|
+| Removed | `has breached the duty of that individual` |
+| Inserted | `has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual, and such misconduct or unsatisfactory performance has significantly contributed to the serious injury, loss of life, or significant destruction of property, or the serious breach of security that is the subject of the Board’s examination as described in subsection (a)` |
+
+### 22 U.S.C. § 4834
+
+> in paragraph (2), by striking “finding” each place it appears and inserting “findings”; and
+
+| | |
+|---|---|
+| Removed | `finding` |
+| Inserted | `findings` |
+
+### 22 U.S.C. § 4834
+
+> by striking “has breached a duty of that individual” and inserting “has unsatisfactorily performed the duties of employment of that individual”; and
+
+| | |
+|---|---|
+| Removed | `has breached a duty of that individual` |
+| Inserted | `has unsatisfactorily performed the duties of employment of that individual` |
 
 ### 22 U.S.C. § 4864
 
@@ -96,30 +132,31 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 3981` | insert | Section 501 of the Foreign Service Act of 1980 (22 U.S.C. 3981) is amended by inserting “If a position designated under this section is unfilled for more than one single assignment cycle, such position shall be filled in accordance with … | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 3981` | insert | Section 501 of the Foreign Service Act of 1980 (22 U.S.C. 3981) is amended by inserting “If a position designated under this section is unfilled for more than one single assignment cycle, such position shall be filled, as appropriate, on… | the bill quotes the text inserted but describes where it goes |
 | — | replace | Section 410(a)(1)(A) of the Department of State and Related Agencies Appropriations Act, 1999 (contained in division A of Public Law 105–277) is amended by striking “a fee of $13” and inserting “a fee equal to one-half the fee that would… | the bill names no machine-readable US Code section |
 | — | repeal | The following provisions of law are repealed: | the bill names no machine-readable US Code section |
 | — | strike | Section 11 of Public Law 107–245 is amended by striking “(a) In general.—”. | the bill names no machine-readable US Code section |
-| `22 U.S.C. § 4010` | amend | Section 610 of the Foreign Service Act of 1980 (22 U.S.C. 4010) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4010` | add-at-end | Section 610 of the Foreign Service Act of 1980 (22 U.S.C. 4010) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4010` | insert | Section 610 of the Foreign Service Act of 1980, as amended by subsection (a) of this section, is further amended, in the section heading, by inserting “; Suspension” before the period at the end. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 4010` | amend | The item relating to section 610 in the table of contents in section 2 of the Foreign Service Act of 1980 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 3945` | repeal | Subsection (d) of section 305 of the Foreign Service Act of 1980 (22 U.S.C. 3945) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 3949` | insert | by inserting “(A),” after “if”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 3949` | insert | by inserting before the semicolon at the end the following: “, or (B), the career candidate is serving in the uniformed services, as defined by the Uniformed Services Employment and Reemployment Rights Act of 1994 (38 U.S.C. 4301 et seq.… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 3949` | strike | in paragraph (4), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 3949` | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 3949` | amend | by adding after paragraph (5) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 3949` | amend | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 4301` | insert | by inserting “(A),” after “if”; and | the bill quotes the text inserted but describes where it goes |
+| `38 U.S.C. § 4301` | insert | by inserting before the semicolon at the end the following: “, or (B), the career candidate is serving in the uniformed services, as defined by the Uniformed Services Employment and Reemployment Rights Act of 1994 (38 U.S.C. 4301 et seq.… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 4301` | strike | in paragraph (4), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `38 U.S.C. § 4301` | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `38 U.S.C. § 4301` | amend | by adding after paragraph (5) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 3949` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 5550b` | add-at-end | Section 5550b of title 5, United States Code, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4801` | insert | Title I of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4801 et seq.; relating to diplomatic security) is amended by inserting after section 103 the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4801` | insert | The table of contents of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 is amended by inserting after the item relating to section 103 the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4865` | insert | by inserting “and from complex attacks (as such term is defined in section 416 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986),” after “attacks from vehicles”; and | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 4865` | insert | by inserting “or such a complex attack” before the period at the end; | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 4865` | insert | in paragraph (7), by inserting before the period at the end the following: “, including at high risk, high threat posts (as such term is defined in section 104 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986), including … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4834` | insert | by inserting “of employment” after “performance of the duties”. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 4865` | add-at-end | Section 604(e)(2) of the Secure Embassy Construction and Counterterrorism Act of 1999 (title VI of division A of H.R. 3427, as enacted into law by section 1000(a)(7) of Public Law 106–113; 113 Stat. 1501A–453; 22 U.S.C. 4865 note) is ame… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4864` | redesignate | by redesignating subsections (d), (e), (f), and (g) as subsections (e), (f), (g), and (h), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4864` | insert | by inserting after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 295` | amend | Section 4 of the Foreign Service Buildings Act, 1926 (22 U.S.C. 295) is amended by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 295` | add-at-end | Section 4 of the Foreign Service Buildings Act, 1926 (22 U.S.C. 295) is amended by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2701` | insert | Section 29 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2701) is amended, in the third sentence, by inserting “physical security enhancements and” after “may include”. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 4064` | strike | by striking “to facilitate the” and all that follows through “Afghanistan,”; and | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 4064` | insert | by inserting before the semicolon at the end the following: “and, when after an exhaustive, open, and competitive search, no qualified, full-time, current employees (including members of the Civil Service) of the Department of State have… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

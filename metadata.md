@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2848
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2848
@@ -16,9 +16,10 @@ Department of State Operations and Embassy Security Authorization Act, Fiscal Ye
 
 - Rep. Royce, Edward R. [R-CA-39] (R000487)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
+- Del. Faleomavaega, Eni F. H. [D-AS-At Large] (F000010)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ Department of State Operations and Embassy Security Authorization Act, Fiscal Ye
 - 2013-07-30 — Introduced in House
 - 2013-07-30 — Introduced in House
 - 2013-07-30 — Referred to the House Committee on Foreign Affairs.
+- 2013-08-01 — Committee Consideration and Mark-up Session Held.
+- 2013-08-01 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2013-09-25 — Placed on the Union Calendar, Calendar No. 166.
+- 2013-09-25 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 113-226.
+- 2013-09-25 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 113-226.
