@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1804
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+5 amendatory instructions. 1 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 38 U.S.C. § 7331
+
+> by striking “The Secretary, upon” and inserting “(a) In general.—The Secretary, upon”; and
+
+| | |
+|---|---|
+| Removed | `The Secretary, upon` |
+| Inserted | `(a) In general.—The Secretary, upon` |
 
 ## Stated, not applied
 
@@ -33,3 +44,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `25 U.S.C. § 2703` | add-at-end | Subchapter I of chapter 5 of title 38, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 2703` | amend | The table of sections at the beginning of such chapter is amended by adding after the item relating to section 517 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 7311` | add-at-end | Section 7311 of title 38, United States Code, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 7331` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

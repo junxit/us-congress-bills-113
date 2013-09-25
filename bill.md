@@ -11,22 +11,23 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Foreign Travel Accountability Act”.
+This Act may be cited as the “Veterans Accountability Act of 2013”.
 
-## § 2. Semiannual reports to Congress on cost of foreign travel
+## § 2. Semiannual reports to Congress on cost of certain travel
 
 - **(a)** *In general* Subchapter I of chapter 5 of title 38, United States Code, is amended by adding at the end the following new section:
-  > ## § 518. Semiannual reports to Congress on cost of foreign travel
+  > ## § 518. Semiannual reports to Congress on cost of certain travel
   >
-  > - **(a)** *Semiannual reports* Not later than June 30, 2014, and each 180-day period thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the House of Representatives and the Committee on Veterans' Affairs of the Senate a semiannual report on covered foreign travel made during the 180-day period covered by the report.
+  > - **(a)** *Semiannual reports* Not later than June 30, 2014, and not later than 60 days after each 180-day period thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the House of Representatives and the Committee on Veterans' Affairs of the Senate a semiannual report on covered travel made during the 180-day period covered by the report.
   > - **(b)** *Matters included* Each report under subsection (a) shall include the following:
-  >   - **(1)** With respect to each instance of covered foreign travel made during the period covered by the report—
+  >   - **(1)** With respect to each instance of covered travel made during the period covered by the report—
   >     - **(A)** the purpose of such travel;
   >     - **(B)** the destination;
   >     - **(C)** the name and title of each employee included on such travel;
-  >     - **(D)** the duration of such travel; and
-  >     - **(E)** the total cost to the Department of such travel.
-  >   - **(2)** The final costs to the Department with respect to all covered foreign travel made during the period covered by the report, including costs relating to—
+  >     - **(D)** the duration of such travel;
+  >     - **(E)** the total cost to the Department of such travel; and
+  >     - **(F)** with respect to covered travel described in subsection (d)(2), the identity of the person or entity that paid or reimbursed for such travel.
+  >   - **(2)** The final costs to the Department with respect to all covered travel made during the period covered by the report, including costs relating to—
   >     - **(A)** transportation, including fares for travel by air, rail, bus, ferry, cruise ship, taxi, mass transit, or other mode of transportation;
   >     - **(B)** expenses or reimbursements relating to operating and maintaining a car, including the costs of fuel and mileage;
   >     - **(C)** passport and visa fees;
@@ -35,14 +36,58 @@ This Act may be cited as the “Foreign Travel Accountability Act”.
   >     - **(F)** baggage charges;
   >     - **(G)** computer rental fees;
   >     - **(H)** rental of halls, auditoriums, or other spaces;
-  >     - **(I)** entertainment; and
-  >     - **(J)** contractors.
+  >     - **(I)** entertainment;
+  >     - **(J)** contractors;
+  >     - **(K)** registration fees; and
+  >     - **(L)** promotional items.
   > - **(c)** *Duplicative information* Each report under subsection (a) shall include the information described in subsection (b) regardless of whether such information is also included in a report under section 517 of this title.
-  > - **(d)** *Covered foreign travel defined* In this section, the term covered foreign travel means travel made by an employee of the Department of Veterans Affairs, including an employee who is stationed in a foreign country, on official business to a location outside of—
-  >   - **(1)** the several States;
-  >   - **(2)** the District of Columbia;
-  >   - **(3)** a territory, commonwealth, or possession of the United States;
-  >   - **(4)** Indian lands (as defined in section 4(4) of the Indian Gaming Regulatory Act (25 U.S.C. 2703(4))); or
-  >   - **(5)** the territorial waters of the United States.
+  > - **(d)** *Covered travel defined* In this section, the term covered travel means travel made by an employee of the Department of Veterans Affairs, including an employee who is stationed in a foreign country, on official business to any of the following locations:
+  >   - **(1)** If the Department or other element of the Federal Government pays for such travel, a location outside of—
+  >     - **(A)** the several States;
+  >     - **(B)** the District of Columbia;
+  >     - **(C)** a territory, commonwealth, or possession of the United States;
+  >     - **(D)** Indian lands (as defined in section 4(4) of the Indian Gaming Regulatory Act (25 U.S.C. 2703(4))); or
+  >     - **(E)** the territorial waters of the United States.
+  >   - **(2)** If any person or entity other than the Federal Government pays (or reimburses) for such travel, any location, regardless of whether the location is inside or outside of the United States.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding after the item relating to section 517 the following new item:
+
+## § 3. Report of infectious disease at medical facilities of Department of Veterans Affairs
+
+- **(a)** *In general* Section 7311 of title 38, United States Code, is amended by adding at the end the following new subsection:
+  > - **(f)**
+  >   - **(1)** The Secretary shall report to the appropriate entity each case of a notifiable infectious disease or condition that is diagnosed at a medical facility of the Department of Veterans Affairs in accordance with the laws of the State in which the facility is located.
+  >   - **(2)** In addition to reporting each case of a notifiable infectious disease or condition at a medical facility of the Department pursuant to paragraph (1), the Secretary shall report each such case that is classified as a health-care-associated infection sentinel event to the accrediting organization of such facility.
+  >   - **(3)**
+  >     - **(A)** If the Secretary fails to report a case of a notifiable infectious disease or condition at a medical facility of the Department in accordance with State law pursuant to paragraph (1), the Secretary shall—
+  >       - **(i)** take any remedial action required under the laws of the State to correct such failure; and
+  >       - **(ii)** if the Secretary does not correct such failure pursuant to clause (i), pay to the State an amount equal to the amount that a medical facility not owned by the Federal Government that is located in the same State would pay as a penalty to such State for such failure.
+  >     - **(B)** The State may file a civil action against the Secretary in the United States district court for the district in which the medical facility is located to recover from the United States the amount described in subparagraph (A)(ii).
+  >     - **(C)** A civil action under subparagraph (B) may not be commenced later than two years after the cause of action accrues.
+  >   - **(4)**
+  >     - **(A)** In any case in which the Inspector General of the Department suspects that a director of a Veterans Integrated Service Network has failed to comply with an applicable provision of this subsection, the Inspector General shall conduct an investigation to determine whether such director failed to comply with an applicable provision of this section.
+  >     - **(B)** If the Inspector General determines under subparagraph (A) that a director has failed to comply with a provision of this subsection, the Secretary shall suspend such director for such period as the Secretary considers appropriate under subchapter I or subchapter II of chapter 75 of title 5, as the case may be. In addition to such suspension, the Secretary may impose such other administrative disciplinary action on the director as the Secretary considers appropriate and for which the Secretary is otherwise authorized.
+  >   - **(5)** The Secretary shall—
+  >     - **(A)** maintain records of each notifiable infectious disease or condition reported pursuant to paragraph (1); and
+  >     - **(B)** submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a notification of each such notifiable infectious disease or condition.
+  >   - **(6)** In this subsection, the term notifiable infectious disease or condition means any infectious disease or condition that is—
+  >     - **(A)** on the list of nationally notifiable diseases or conditions published by the Council of State and Territorial Epidemiologists and the Centers for Disease Control and Prevention; or
+  >     - **(B)** covered by a provision of law of a State that requires the reporting of infectious diseases or conditions.
+
+- **(b)** *Effective date* The reporting requirement under section 7311(f) of title 38, United States Code, as added by subsection (a), shall apply with respect to a case of a notifiable infectious disease or condition diagnosed at a medical facility of the Department of Veterans Affairs on or after the date that is 60 days after the date of the enactment of this Act.
+
+## § 4. Prohibition of visual recording without informed consent
+
+Section 7331 of title 38, United States Code, is amended—
+
+- **(1)** by striking “The Secretary, upon” and inserting “(a) In general.—The Secretary, upon”; and
+- **(2)** by adding at the end the following new subsection:
+  > - **(b)** *Visual recording*
+  >   - **(1)** The Secretary shall prescribe regulations establishing procedures to ensure that, except as provided by paragraph (2), any visual recording made by the Secretary of a patient during the course of furnishing care under this title is carried out only with the full and informed consent of the patient or, in appropriate cases, a representative thereof.
+  >   - **(2)** The Secretary may waive the requirement for informed consent under paragraph (1) with respect to the visual recording of a patient if such recording is made—
+  >     - **(A)** pursuant to a determination by a physician or psychologist that such recording is medically necessary or necessary for the safety of the patient;
+  >     - **(B)** pursuant to a warrant or order of a court of competent jurisdiction; or
+  >     - **(C)** in a public setting where a person would not have a reasonable expectation to privacy, such as a waiting room or hallway, and such recording is for general security purposes not particularized to the patient.
+  >   - **(3)** In this subsection, the term visual recording means the recording or transmission of images or video, but does not include—
+  >     - **(A)** medical imaging, including such imaging produced by radiographic procedures, nuclear medicine, endoscopy, ultrasound, or other similar procedures; or
+  >     - **(B)** images, video, and other clinical information transmitted for the purposes of providing treatment through telehealth and telemedicine technologies.
