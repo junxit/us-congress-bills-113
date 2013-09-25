@@ -2,14 +2,14 @@
 legis-num: H.R. 527
 congress: 113th CONGRESS
 session: 1st Session
-chamber: In the Senate of the United States,
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H.R. 527
 
-That the bill from the House of Representatives (H.R. 527) entitled “An Act to amend the Helium Act to complete the privatization of the Federal helium reserve in a competitive market fashion that ensures stability in the helium markets while protecting the interests of American taxpayers, and for other purposes.”, do pass with the following
+That the House agree to the amendment of the Senate to the bill (H.R. 527) entitled “An Act to amend the Helium Act to complete the privatization of the Federal helium reserve in a competitive market fashion that ensures stability in the helium markets while protecting the interests of American taxpayers, and for other purposes.”, with the following
 
-*Strike all after the enacting clause and insert the following:*
+*In lieu of the matter proposed to be inserted by the amendment of the Senate to the text of the bill, insert the following:*
 
 ## § 1. Short title
 
@@ -24,7 +24,7 @@ Section 2 of the Helium Act (50 U.S.C. 167) is amended to read as follows:
 > In this Act:
 >
 > - **(1)** *Cliffside Field* The term Cliffside Field means the helium storage reservoir in which the Federal Helium Reserve is stored.
-> - **(2)** *Federal Helium Pipeline* The term Federal Helium Pipeline means the federally owned pipeline system through which the Federal Helium Reserve may be transported.
+> - **(2)** *Federal Helium Pipeline* The term Federal Helium Pipeline means the federally owned pipeline system through which helium for the Federal Helium Reserve may be transported.
 > - **(3)** *Federal Helium Reserve* The term Federal Helium Reserve means helium reserves owned by the United States.
 > - **(4)** *Federal Helium System* The term Federal Helium System means—
 >   - **(A)** the Federal Helium Reserve;
@@ -121,17 +121,22 @@ Section 6 of the Helium Act (50 U.S.C. 167d) is amended to read as follows:
 >     - **(B)** represent a cost-effective action;
 >     - **(C)** generate greater returns for taxpayers; and
 >     - **(D)** increase the effectiveness of price discovery.
->   - **(12)** *Auction frequency* Consistent with the annual volumes established under paragraph (2), effective beginning in fiscal year 2016, the Secretary may conduct auctions twice during each fiscal year if the Secretary determines that the auction frequency will—
+>   - **(12)** *Sale schedule and frequency* For fiscal year 2015 the Secretary shall conduct only one auction, which shall precede, and one sale, which shall take place no later than August 1, 2014, with full and final payment for the sale being made no later than September 26, 2014. Consistent with the annual volumes established under paragraph (2), effective beginning in fiscal year 2016, the Secretary may conduct auctions twice during each fiscal year if the Secretary determines that the auction frequency will—
 >     - **(A)** not cause a disruption in the supply of helium from the Reserve;
 >     - **(B)** represent a cost-effective action;
 >     - **(C)** generate greater returns for taxpayers; and
 >     - **(D)** increase the effectiveness of price discovery.
+>   - **(13)** *one-time sale*
+>     - **(A)** *In general* Notwithstanding paragraph (4)(A), the Secretary shall hold a one-time sale of helium, no later than August 1, 2014 from amounts available in fiscal year 2016 pursuant to this section. Full and final payment for the sale must be made no later than 45 days after the date the sale takes place.
+>     - **(B)** *Volume sold* The volume of helium sold under this paragraph—
+>       - **(i)** shall be at least 250 million cubic feet; and
+>       - **(ii)** shall be made available for sale consistent with paragraph (2)(B).
 > - **(c)** *Phase C: Continued access for Federal users*
 >   - **(1)** *In general* The Secretary shall offer crude helium for sale to Federal users in such quantities, at such times, at such prices required to reimburse the Secretary for the full costs of the sales, and under such terms and conditions as the Secretary determines necessary to carry out this subsection.
 >   - **(2)** *Federal purchases* Federal users may purchase refined helium with priority pipeline access under this subsection from persons who have entered into enforceable contracts to purchase an equivalent quantity of crude helium at the in-kind price from the Secretary.
 >   - **(3)** *Effective date* This subsection applies beginning on the day after the date described in subsection (b)(4)(B).
 > - **(d)** *Phase D: Disposal of assets*
->   - **(1)** *In general* Not earlier than 2 years after the date of commencement of Phase C described in subsection (c) and not later than September 30, 2022, the Secretary shall designate as excess property and dispose of all facilities, equipment, and other real and personal property, and all interests in the same, held by the United States in the Federal Helium System.
+>   - **(1)** *In general* Not earlier than 2 years after the date of commencement of Phase C described in subsection (c) and not later than September 30, 2021, the Secretary shall designate as excess property and dispose of all facilities, equipment, and other real and personal property, and all interests in the same, held by the United States in the Federal Helium System.
 >   - **(2)** *Applicable law* The disposal of the property described in paragraph (1) shall be in accordance with subtitle I of title 40, United States Code.
 >   - **(3)** *Proceeds* All proceeds accruing to the United States by reason of the sale or other disposal of the property described in paragraph (1) shall be treated as funds received under this Act for purposes of subsection (e).
 >   - **(4)** *Costs* All costs associated with the sale and disposal (including costs associated with termination of personnel) and with the cessation of activities under this subsection shall be paid from amounts available in the Helium Production Fund established under subsection (e).
@@ -139,13 +144,13 @@ Section 6 of the Helium Act (50 U.S.C. 167d) is amended to read as follows:
 >   - **(1)** *In general* All amounts received under this Act, including amounts from the sale or auction of crude helium, shall be credited to the Helium Production Fund, which shall be available without fiscal year limitation for purposes determined to be necessary and cost effective by the Secretary to carry out this Act (other than sections 16, 17, and 18), including capital investments in upgrades and maintenance at the Federal Helium System, including—
 >     - **(A)** well head maintenance at the Cliffside Field;
 >     - **(B)** capital investments in maintenance and upgrades of facilities that pressurize the Cliffside Field;
->     - **(C)** capital investments in maintenance and upgrades of equipment related to the storage, withdrawal, transportation, purification, and sale of crude helium from the Federal Helium Reserve;
+>     - **(C)** capital investments in maintenance and upgrades of equipment related to the storage, withdrawal, enrichment, transportation, purification, and sale of crude helium from the Federal Helium Reserve;
 >     - **(D)** entering into purchase, lease, or other agreements to drill new or uncap existing wells to maximize the recovery of crude helium from the Federal Helium System; and
 >     - **(E)** any other scheduled or unscheduled maintenance of the Federal Helium System.
 >   - **(2)** *Excess funds* Amounts in the Helium Production Fund in excess of amounts the Secretary determines to be necessary to carry out paragraph (1) shall be paid to the general fund of the Treasury and used to reduce the annual Federal budget deficit.
 >   - **(3)** *Retirement of public debt* Out of amounts paid to the general fund of the Treasury under paragraph (2), the Secretary of the Treasury shall use $51,000,000 to retire public debt.
 >   - **(4)** *Report* Not later than 1 year after the date of enactment of the Helium Stewardship Act of 2013 and annually thereafter, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report describing all expenditures by the Bureau of Land Management to carry out this Act.
-> - **(f)** *Minimum quantity* The Secretary shall offer for sale or auction during each fiscal year under subsections (a), (b), and (c) a quantity of crude helium that is the lesser of —
+> - **(f)** *Minimum quantity* The Secretary shall offer for sale or auction during each fiscal year under subsections (a), (b), and (c) a quantity of crude helium that is the lesser of—
 >   - **(1)** the quantity of crude helium offered for sale by the Secretary during fiscal year 2012; or
 >   - **(2)** the maximum total production capacity of the Federal Helium System.
 
@@ -229,17 +234,17 @@ The Helium Act (50 U.S.C. 167 et seq.) is amended—
   >
   > ## § 19. Federal agency helium acquisition strategy
   >
-  > In anticipation of the implementation of Phase D described in section 6(d), and not later than 2 years after the date of enactment of the Helium Stewardship Act of 2013, the Secretary (in consultation with the Secretary of Energy, the Secretary of Defense, the Director of the National Science Foundation, the Administrator of the National Aeronautics and Space Administration, and the Director of the National Institutes of Health) shall submit to Congress a report that provides for Federal users—
+  > In anticipation of the implementation of Phase D described in section 6(d), and not later than 2 years after the date of enactment of the Helium Stewardship Act of 2013, the Secretary (in consultation with the Secretary of Energy, the Secretary of Defense, the Director of the National Science Foundation, the Administrator of the National Aeronautics and Space Administration, the Director of the National Institutes of Health, and other agencies as appropriate) shall submit to Congress a report that provides for Federal users—
   >
   > - **(1)** an assessment of the consumption of, and projected demand for, crude and refined helium;
   > - **(2)** a description of a 20-year Federal strategy for securing access to helium;
-  > - **(3)** a determination of a date prior to September 30, 2022, for the implementation of Phase D as described in section 6(d) that minimizes any potential supply disruptions for Federal users;
+  > - **(3)** a determination of a date prior to September 30, 2021, for the implementation of Phase D as described in section 6(d) that minimizes any potential supply disruptions for Federal users;
   > - **(4)** an assessment of the effects of increases in the price of refined helium and methods and policies for mitigating any determined effects; and
   > - **(5)** a description of a process for prioritization of uses that accounts for diminished availability of helium supplies that may occur over time.
 
 ## § 7. Conforming amendments
 
-- **(a)** Section 4 of the Helium Act (50 U.S.C. 167b) is amended by striking “section 6(f)” each place it appears in subsections (c)(3), (c)(4), and (d)(2) and inserting “section 6(d)”.
+- **(a)** Section 4 of the Helium Act (50 U.S.C. 167b) is amended by striking “section 6(f)” each place it appears in subsections (c)(3), (c)(4), and (d)(2) and inserting “section 6(e)”.
 - **(b)** Section 8 of the Helium Act (50 U.S.C. 167f) is repealed.
 
 ## § 8. Existing agreements
@@ -269,20 +274,20 @@ The Secretary of the Interior shall promulgate such regulations as are necessary
       - **(i)** in subsection (a), by striking “2012” and inserting “2013”; and
       - **(ii)** in subsection (b), by striking “2013” and inserting “2014”.
   - **(3)** *Continuation of authority to reserve and use county funds* Section 304 of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7144) is amended—
-    - **(A)** in subsection (a), by striking “2012” and inserting “2013” ; and
+    - **(A)** in subsection (a), by striking “2012” and inserting “2013”; and
     - **(B)** in subsection (b), by striking “2013” and inserting “2014”.
   - **(4)** *Authorization of appropriations* Section 402 of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7152) is amended by striking “2012” and inserting “2013”.
 - **(b)** *Abandoned well remediation* Section 349 of the Energy Policy Act of 2005 (42 U.S.C. 15907) is amended by adding at the end the following:
-  > - **(i)** *Federally drilled wells* Out of any amounts in the Treasury not otherwise appropriated, $46,000,000 for fiscal year 2014 and $4,000,000 for fiscal year 2018 shall be made available to the Secretary, without further appropriation and to remain available until expended, to remediate, reclaim, and close abandoned oil and gas wells on current or former National Petroleum Reserve land.
+  > - **(i)** *Federally drilled wells* Out of any amounts in the Treasury not otherwise appropriated, $10,000,000 for fiscal year 2014, $36,000,000 for fiscal year 2015, and $4,000,000 for fiscal year 2019 shall be made available to the Secretary, without further appropriation and to remain available until expended, to remediate, reclaim, and close abandoned oil and gas wells on current or former National Petroleum Reserve land.
 
 - **(c)** *National parks maintenance backlog* Section 814(g) of the Omnibus Parks and Public Lands Management Act of 1996 (16 U.S.C. 1f) is amended by adding at the end the following:
-  > - **(4)** *Available funds* Out of any amounts in the Treasury not otherwise appropriated, $50,000,000 shall be made available to the Secretary of the Interior for fiscal year 2018, without further appropriation and to remain available until expended, to pay the Federal funding share of challenge cost-share agreements for deferred maintenance projects and to correct deficiencies in National Park Service infrastructure.
+  > - **(4)** *Available funds* Out of any amounts in the Treasury not otherwise appropriated, $20,000,000 shall be made available to the Secretary of the Interior for fiscal year 2018, and $30,000,000 shall be made available to the Secretary of the Interior for fiscal year 2019, without further appropriation and to remain available until expended, to pay the Federal funding share of challenge cost-share agreements for deferred maintenance projects and to correct deficiencies in National Park Service infrastructure.
   > - **(5)** *Cost-share requirement* Not less than 50 percent of the total cost of project for funds made available under paragraph (4) to pay the Federal funding share shall be derived from non-Federal sources, including in-kind contribution of goods and services fairly valued.
 
 - **(d)** *Abandoned mine reclamation fund* Section 411(h) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1240a(h)) is amended by adding at the end the following:
   > - **(6)** *Supplemental funding*
-  >   - **(A)** *Waiver of limitation* Notwithstanding paragraph (5), the limitation on the total annual payments to a certified State or Indian tribe under this subsection shall not apply for fiscal year 2014.
-  >   - **(B)** *Limitation on waiver* Notwithstanding subparagraph (A), the total annual payment to a certified State or Indian tribe under this subsection for fiscal year 2014 shall not be more than $75,000,000.
+  >   - **(A)** *Waiver of limitation* Notwithstanding paragraph (5), the limitation on the total annual payments to a certified State or Indian tribe under this subsection shall not apply for fiscal years 2014 and 2015.
+  >   - **(B)** *Limitation on waiver* Notwithstanding subparagraph (A), the total annual payment to a certified State or Indian tribe under this subsection for fiscal year 2014 shall not be more than $28,000,000 and for fiscal year 2015 shall not be more than $75,000,000.
   >   - **(C)** *Insufficient amounts* If the total annual payment to a certified State or Indian tribe under paragraphs (1) and (2) is limited by subparagraph (B), the Secretary shall—
   >     - **(i)** give priority to making payments under paragraph (2); and
   >     - **(ii)** use any remaining funds to make payments under paragraph (1).

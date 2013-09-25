@@ -1,7 +1,7 @@
 ---
 measure: H.R. 527
 congress: 113
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 527
@@ -119,3 +119,6 @@ Helium Stewardship Act of 2013
 - 2013-09-19 — Senate amendment agreed to: Amendment SA 1960 agreed to in Senate by Unanimous Consent.
 - 2013-09-19 — Senate amendment proposed (on the floor): Amendment SA 1960 proposed by Senator Wyden.(consideration: CR S6632-6634)
 - 2013-09-19 — Senate amendment submitted
+- 2013-09-25 — House agreed to Senate amendment with an amendment pursuant to H. Res. 354. (consideration: CR H5824-5825)
+- 2013-09-25 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2013-09-25 — Resolving differences -- House actions: House agreed to Senate amendment with an amendment pursuant to H. Res. 354.(consideration: CR H5824-5825)

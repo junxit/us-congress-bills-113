@@ -1,7 +1,7 @@
 ---
 measure: H.R. 527
 congress: 113
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -26,14 +26,14 @@ to guess them.
 
 ### 50 U.S.C. § 167b
 
-> Section 4 of the Helium Act (50 U.S.C. 167b) is amended by striking “section 6(f)” each place it appears in subsections (c)(3), (c)(4), and (d)(2) and inserting “section 6(d)”.
+> Section 4 of the Helium Act (50 U.S.C. 167b) is amended by striking “section 6(f)” each place it appears in subsections (c)(3), (c)(4), and (d)(2) and inserting “section 6(e)”.
 
 | | |
 |---|---|
 | Removed | `section 6(f)` |
-| Inserted | `section 6(d)` |
+| Inserted | `section 6(e)` |
 
-### 16 U.S.C. § 7112
+### 16 U.S.C. § 7111
 
 > Section 101 of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7111) is amended by striking “2012” each place it appears and inserting “2013”.
 
@@ -78,7 +78,7 @@ to guess them.
 | Removed | `2012` |
 | Inserted | `2013` |
 
-### 16 U.S.C. § 7123
+### 16 U.S.C. § 7124
 
 > in section 204(e)(3)(B)(iii) (16 U.S.C. 7124(e)(3)(B)(iii)), by striking “2012” and inserting “2013”;
 
@@ -125,7 +125,7 @@ to guess them.
 
 ### 16 U.S.C. § 7144
 
-> in subsection (a), by striking “2012” and inserting “2013” ; and
+> in subsection (a), by striking “2012” and inserting “2013”; and
 
 | | |
 |---|---|
@@ -141,7 +141,7 @@ to guess them.
 | Removed | `2013` |
 | Inserted | `2014` |
 
-### 16 U.S.C. § 7112
+### 16 U.S.C. § 7152
 
 > Section 402 of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7152) is amended by striking “2012” and inserting “2013”.
 
@@ -167,7 +167,7 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 167` | redesignate | by redesignating section 17 (50 U.S.C. 167 note) as section 20; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 167l` | insert | by inserting after section 14 (50 U.S.C. 167l) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 167f` | repeal | Section 8 of the Helium Act (50 U.S.C. 167f) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 7112` | add-at-end | Section 349 of the Energy Policy Act of 2005 (42 U.S.C. 15907) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1f` | amend | Section 814(g) of the Omnibus Parks and Public Lands Management Act of 1996 (16 U.S.C. 1f) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 15907` | add-at-end | Section 349 of the Energy Policy Act of 2005 (42 U.S.C. 15907) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1f` | add-at-end | Section 814(g) of the Omnibus Parks and Public Lands Management Act of 1996 (16 U.S.C. 1f) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 1240a` | add-at-end | Section 411(h) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1240a(h)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17022` | insert | Section 207(c) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17022(c)) is amended by inserting before the period at the end the following: “, except that the amount authorized to be appropriated to carry out this section… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
