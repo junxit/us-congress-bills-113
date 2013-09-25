@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1961
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1961
@@ -45,6 +45,10 @@ To amend title 46, United States Code, to extend the exemption from the fire-ret
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2013-09-25 — [House 113-1-484](votes/house-113-1-0484.md) — On Motion to Suspend the Rules and Pass — **Passed** (280–89)
+
 ## Actions
 
 - 2013-05-14 — Introduced in House
@@ -57,3 +61,11 @@ To amend title 46, United States Code, to extend the exemption from the fire-ret
 - 2013-07-24 — Placed on the Union Calendar, Calendar No. 127.
 - 2013-07-24 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-175.
 - 2013-07-24 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-175.
+- 2013-09-25 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-09-25 — Considered as unfinished business. (consideration: CR H5823-5824)
+- 2013-09-25 — Considered under suspension of the rules. (consideration: CR H5810-5815)
+- 2013-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1961.
+- 2013-09-25 — DEBATE - The House resumed debate on H.R. 1961.
+- 2013-09-25 — Mr. Petri moved to suspend the rules and pass the bill.
+- 2013-09-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 280 - 89 (Roll no. 484). (text: CR H5810)
+- 2013-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 280 - 89 (Roll no. 484).(text: CR H5810)
