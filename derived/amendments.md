@@ -1,7 +1,7 @@
 ---
 measure: S. 1276
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `5 U.S.C. § 1304` | insert | in paragraph (1), in the first sentence, by inserting before the period the following: “, and for the cost of audits, investigations, and oversight activities relating to the fund and the functions financed by the fund, conducted by the … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 1304` | add-at-end | in paragraph (5), by adding at the end the following: “Each budget submitted under this paragraph shall include an estimate from the Inspector General of the Office of the amount required to pay the reasonable expenses to adequately audi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 1304` | insert | in paragraph (1), in the first sentence, by inserting before the period the following: “, and for the cost of audits, investigations, and oversight activities relating to the fund and the functions financed by the fund, conducted by the … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 1304` | add-at-end | in paragraph (5), by adding at the end the following: “Each budget submitted under this paragraph shall include an estimate from the Inspector General of the Office of the amount required to pay the reasonable expenses to adequately audi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
