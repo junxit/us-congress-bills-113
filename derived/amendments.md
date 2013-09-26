@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2600
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -33,5 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `15 U.S.C. § 1702` | strike | in paragraph (7)(C), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 1702` | replace | in paragraph (8)(G), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 1702` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1702` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1702` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1702` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
