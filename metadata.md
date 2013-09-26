@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3095
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3095
@@ -92,6 +92,10 @@ To ensure that any new or revised requirement providing for the screening, testi
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2013-09-26 — [House 113-1-486](votes/house-113-1-0486.md) — On Motion to Suspend the Rules and Pass — **Passed** (405–0)
+
 ## Actions
 
 - 2013-09-12 — Introduced in House
@@ -108,3 +112,6 @@ To ensure that any new or revised requirement providing for the screening, testi
 - 2013-09-25 — Placed on the Union Calendar, Calendar No. 165.
 - 2013-09-25 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-225.
 - 2013-09-25 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-225.
+- 2013-09-26 — Considered as unfinished business. (consideration: CR H5846-5847)
+- 2013-09-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 486). (text: CR 9/25/2013 H5815)
+- 2013-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 486).(text: CR 9/25/2013 H5815)
