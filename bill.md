@@ -23,7 +23,7 @@ This Act may be cited as the “Prematurity Research Expansion and Education for
   >     - **(C)** continue efforts to prevent preterm birth, including late preterm birth, through the identification of opportunities for prevention and the assessment of the impact of such efforts.
   >   - **(2)** *Report* Not later than 2 years after the date of enactment of the PREEMIE Reauthorization Act, and every 2 years thereafter, the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention, shall submit to the appropriate committees of Congress reports concerning the progress and any results of studies conducted under paragraph (1).
 
-- **(b)** *Reauthorization* Section 3(e) of the Prematurity Research Expansion and Education for Mothers who deliver Infants Early Act (42 U.S.C. 247b–4f(e)) is amended by striking “2007 through 2011” and inserting “2014 through 2018”.
+- **(b)** *Reauthorization* Section 3(e) of the Prematurity Research Expansion and Education for Mothers who deliver Infants Early Act (42 U.S.C. 247b–4f(e)) is amended by striking “$5,000,000” and all that follows through “2011.” and inserting “$1,880,000 for each of fiscal years 2014 through 2018.”.
 
 ## § 3. Activities at the health resources and services administration
 
@@ -45,7 +45,7 @@ This Act may be cited as the “Prematurity Research Expansion and Education for
     - **(B)** by striking paragraph (2) and inserting the following:
       > - **(2)** programs to increase the availability, awareness, and use of pregnancy and post-term information services that provide evidence-based, clinical information through counselors, community outreach efforts, electronic or telephonic communication, or other appropriate means regarding causes associated with prematurity, birth defects, or health risks to a post-term infant;
 
-  - **(2)** in subsection (c), by striking “2007 through 2011” and inserting “2014 through 2018”.
+  - **(2)** in subsection (c), by striking “$5,000,000” and all that follows through “2011.” and inserting “$1,900,000 for each of fiscal years 2014 through 2018.”.
 
 ## § 4. Other activities
 

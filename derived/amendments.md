@@ -1,7 +1,7 @@
 ---
 measure: S. 252
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -35,12 +35,12 @@ to guess them.
 
 ### 42 U.S.C. § 280g-5
 
-> in subsection (c), by striking “2007 through 2011” and inserting “2014 through 2018”.
+> in subsection (c), by striking “$5,000,000” and all that follows through “2011.” and inserting “$1,900,000 for each of fiscal years 2014 through 2018.”.
 
 | | |
 |---|---|
-| Removed | `2007 through 2011` |
-| Inserted | `2014 through 2018` |
+| Removed | `$5,000,000” and all that follows through “2011.` |
+| Inserted | `$1,900,000 for each of fiscal years 2014 through 2018.` |
 
 ## Stated, not applied
 
@@ -52,7 +52,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | Section 3 of the Prematurity Research Expansion and Education for Mothers who deliver Infants Early Act (42 U.S.C. 247b–4f) is amended by striking subsection (b) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 3(e) of the Prematurity Research Expansion and Education for Mothers who deliver Infants Early Act (42 U.S.C. 247b–4f(e)) is amended by striking “2007 through 2011” and inserting “2014 through 2018”. | the bill names no machine-readable US Code section |
+| — | replace | Section 3(e) of the Prematurity Research Expansion and Education for Mothers who deliver Infants Early Act (42 U.S.C. 247b–4f(e)) is amended by striking “$5,000,000” and all that follows through “2011.” and inserting “$1,880,000 for each… | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 280g-5` | replace | in paragraph (1), by striking subparagraphs (A) through (F) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280g-5` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 247b-4g` | strike | The Prematurity Research Expansion and Education for Mothers who deliver Infants Early Act is amended by striking section 5 (42 U.S.C. 247b–4g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
