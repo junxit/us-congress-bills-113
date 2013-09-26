@@ -1,7 +1,7 @@
 ---
 measure: S. 1348
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1348
@@ -32,3 +32,12 @@ Congressional Award Program Reauthorization Act of 2013
 - 2013-09-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. With written report No. 113-109.
 - 2013-09-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. With written report No. 113-109.
 - 2013-09-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 196.
+- 2013-09-26 — Amendment SA 1998 agreed to in Senate by Unanimous Consent.
+- 2013-09-26 — Amendment SA 1998 proposed by Senator Tester for Senator Carper. (consideration: CR S6968; text: CR S6968) To change the enactment date.
+- 2013-09-26 — Measure laid before Senate by unanimous consent. (consideration: CR S6968)
+- 2013-09-26 — Passed Senate with an amendment by Unanimous Consent. (text: CR S6968)
+- 2013-09-26 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S6968)
+- 2013-09-26 — Senate amendment agreed to: Amendment SA 1998 agreed to in Senate by Unanimous Consent.
+- 2013-09-26 — Senate amendment agreed to: Amendment SA 1998 agreed to in Senate by Unanimous Consent.
+- 2013-09-26 — Senate amendment proposed (on the floor): Amendment SA 1998 proposed by Senator Tester for Senator Carper.(consideration: CR S6968; text: CR S6968)
+- 2013-09-26 — Senate amendment submitted

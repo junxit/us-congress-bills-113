@@ -16,3 +16,7 @@ This Act may be cited as the “Congressional Award Program Reauthorization Act 
 ## § 2. Termination
 
 Section 108 of the Congressional Award Act (2 U.S.C. 808) is amended by striking “October 1, 2013” and inserting “October 1, 2018”.
+
+## § 3. Effective date
+
+This Act shall take effect as of October 1, 2013.
