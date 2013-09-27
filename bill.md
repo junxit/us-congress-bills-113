@@ -2,19 +2,19 @@
 legis-num: H.J. RES. 59
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.J. RES. 59
 
-> Making continuing appropriations for fiscal year 2014, and for other purposes.
+That the resolution from the House of Representatives (H.J. Res. 59) entitled “Joint resolution making continuing appropriations for fiscal year 2014, and for other purposes.”, do pass with the following
 
-That the following sums are hereby appropriated, out of any money in the Treasury not otherwise appropriated, and out of applicable corporate or other revenues, receipts, and funds, for the several departments, agencies, corporations, and other organizational units of Government for fiscal year 2014, and for other purposes, namely:
+*Strike all after the first word and insert the following:*
 
 ## § 101.
 
 - **(a)** Such amounts as may be necessary, at a rate for operations as provided in the applicable appropriations Acts for fiscal year 2013 and under the authority and conditions provided in such Acts, for continuing projects or activities (including the costs of direct loans and loan guarantees) that are not otherwise specifically provided for in this joint resolution, that were conducted in fiscal year 2013, and for which appropriations, funds, or other authority were made available in the following appropriations Acts:
-  - **(1)** The Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2013 (division A of Public Law 113–6).
+  - **(1)** The Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2013 (division A of Public Law 113–6), except section 735.
   - **(2)** The Commerce, Justice, Science, and Related Agencies Appropriations Act, 2013 (division B of Public Law 113–6).
   - **(3)** The Department of Defense Appropriations Act, 2013 (division C of Public Law 113–6).
   - **(4)** The Department of Homeland Security Appropriations Act, 2013 (division D of Public Law 113–6).
@@ -28,7 +28,7 @@ That the following sums are hereby appropriated, out of any money in the Treasur
 
 ## § 102.
 
-- **(a)** No appropriation or funds made available or authority granted pursuant to section 101 for the Department of Defense shall be used for (1) the new production of items not funded for production in fiscal year 2013 or prior years; (2) the increase in production rates above those sustained with fiscal year 2013 funds; or (3) the initiation, resumption, or continuation of any project, activity, operation, or organization (defined as any project, subproject, activity, budget activity, program element, and subprogram within a program element, and for any investment items defined as a P–1 line item in a budget activity within an appropriation account and an R–1 line item that includes a program element and subprogram element within an appropriation account) for which appropriations, funds, or other authority were not available during fiscal year 2013.
+- **(a)** No appropriation or funds made available or authority granted pursuant to section 101 for the Department of Defense shall be used for: (1) the new production of items not funded for production in fiscal year 2013 or prior years; (2) the increase in production rates above those sustained with fiscal year 2013 funds; or (3) the initiation, resumption, or continuation of any project, activity, operation, or organization (defined as any project, subproject, activity, budget activity, program element, and subprogram within a program element, and for any investment items defined as a P–1 line item in a budget activity within an appropriation account and an R–1 line item that includes a program element and subprogram element within an appropriation account) for which appropriations, funds, or other authority were not available during fiscal year 2013.
 - **(b)** No appropriation or funds made available or authority granted pursuant to section 101 for the Department of Defense shall be used to initiate multi-year procurements utilizing advance procurement funding for economic order quantity procurement unless specifically appropriated later.
 
 ## § 103.
@@ -45,11 +45,7 @@ Appropriations made and authority granted pursuant to this joint resolution shal
 
 ## § 106.
 
-Unless otherwise provided for in this joint resolution or in the applicable appropriations Act for fiscal year 2014, appropriations and funds made available and authority granted pursuant to this joint resolution shall be available until whichever of the following first occurs:
-
-- **(1)** the enactment into law of an appropriation for any project or activity provided for in this joint resolution;
-  - **(2)** the enactment into law of the applicable appropriations Act for fiscal year 2014 without any provision for such project or activity; or
-    - **(3)** December 15, 2013.
+Unless otherwise provided for in this joint resolution or in the applicable appropriations Act for fiscal year 2014, appropriations and funds made available and authority granted pursuant to this joint resolution shall be available until whichever of the following first occurs: (1) the enactment into law of an appropriation for any project or activity provided for in this joint resolution; (2) the enactment into law of the applicable appropriations Act for fiscal year 2014 without any provision for such project or activity; or (3) November 15, 2013.
 
 ## § 107.
 
@@ -83,7 +79,7 @@ Funds appropriated by this joint resolution may be obligated and expended notwit
 ## § 114.
 
 - **(a)** Each amount incorporated by reference in this joint resolution that was previously designated by the Congress for Overseas Contingency Operations/Global War on Terrorism pursuant to section 251(b)(2)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 or as being for disaster relief pursuant to section 251(b)(2)(D) of such Act is designated by the Congress for Overseas Contingency Operations/Global War on Terrorism pursuant to section 251(b)(2)(A) of such Act or as being for disaster relief pursuant to section 251(b)(2)(D) of such Act, respectively.
-- **(b)** Of the amount made available by section 101 for “Social Security Administration—Limitation on Administrative Expenses”, $470,638,000 is additional new budget authority specified for purposes of subsection 251(b)(2)(B) of the Balanced Budget and Emergency Deficit Control Act of 1985.
+- **(b)** Of the amounts made available by section 101 for “Social Security Administration, Limitation on Administrative Expenses” for the cost associated with continuing disability reviews under titles II and XVI of the Social Security Act and for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, $273,000,000 is provided to meet the terms of section 251(b)(2)(B)(ii)(III) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended, and $469,639,000 is additional new budget authority specified for purposes of section 251(b)(2)(B) of such Act.
 - **(c)** Section 5 of Public Law 113–6 shall apply to amounts designated in subsection (a) for Overseas Contingency Operations/Global War on Terrorism.
 
 ## § 115.
@@ -100,7 +96,7 @@ Amounts made available under section 101 for “Department of Commerce—Nationa
 
 ## § 118.
 
-The authority provided by section 1206 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81) shall continue in effect, notwithstanding subsection (h) of such section, through the earlier of the date specified in section 106(3) of this joint resolution or the date of the enactment of an Act authorizing appropriations for fiscal year 2014 for military activities of the Department of Defense.
+The authority provided by sections 1205 and 1206 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81) shall continue in effect, notwithstanding subsection (h) of section 1206, through the earlier of the date specified in section 106(3) of this joint resolution or the date of the enactment of an Act authorizing appropriations for fiscal year 2014 for military activities of the Department of Defense.
 
 ## § 119.
 
@@ -148,58 +144,38 @@ The authority provided by section 347 of the Department of the Interior and Rela
 
 ## § 129.
 
-Activities authorized under part A of title IV and section 1108(b) of the Social Security Act (except for activities authorized in sections 403(b) and 413(h)) shall continue through the date specified in section 106(3) of this joint resolution in the manner authorized for fiscal year 2013, and out of any money in the Treasury of the United States not otherwise appropriated, there are hereby appropriated such sums as may be necessary for such purpose.
+The authority provided by subsection (m)(3) of section 8162 of the Department of Defense Appropriations Act, 2000 (40 U.S.C. 8903 note; Public Law 106–79), as amended, shall continue in effect through the date specified in section 106(3) of this joint resolution.
 
 ## § 130.
 
-Notwithstanding section 101, the matter under the heading “Department of Labor—Mine Safety and Health Administration—Salaries and Expenses” in division F of Public Law 112–74 shall be applied to funds appropriated by this joint resolution by substituting “is authorized to collect and retain up to $2,499,000” for “may retain up to $1,499,000”.
+Activities authorized under part A of title IV and section 1108(b) of the Social Security Act (except for activities authorized in section 403(b)) shall continue through the date specified in section 106(3) of this joint resolution in the manner authorized for fiscal year 2013, and out of any money in the Treasury of the United States not otherwise appropriated, there are hereby appropriated such sums as may be necessary for such purpose.
 
 ## § 131.
 
-The first proviso under the heading “Department of Health and Human Services—Administration for Children and Families—Low Income Home Energy Assistance” in division F of Public Law 112–74 shall be applied to amounts made available by this joint resolution by substituting “2014” for “2012”.
+Notwithstanding section 101, the matter under the heading “Department of Labor—Mine Safety and Health Administration—Salaries and Expenses” in division F of Public Law 112–74 shall be applied to funds appropriated by this joint resolution by substituting “is authorized to collect and retain up to $2,499,000” for “may retain up to $1,499,000”.
 
 ## § 132.
 
-Amounts provided by section 101 for “Department of Health and Human Services—Administration for Children and Families—Refugee and Entrant Assistance” may be obligated up to a rate for operations necessary to maintain program operations at the level provided in fiscal year 2013, as necessary to accommodate increased demand.
+The first proviso under the heading “Department of Health and Human Services—Administration for Children and Families—Low Income Home Energy Assistance” in division F of Public Law 112–74 shall be applied to amounts made available by this joint resolution by substituting “2014” for “2012”.
 
 ## § 133.
 
-- **(a)** During the period covered by this joint resolution, any unobligated amounts available in the “Nonrecurring expenses fund” established in section 223 of division G of Public Law 110–161 (42 U.S.C. 3514a) may be transferred to “Department of Health and Human Services—Office of the Secretary—Public Health and Social Services Emergency Fund” for an additional amount for fiscal year 2014, to remain available until expended, for expenses necessary—
-  - **(1)** to support advanced research and development pursuant to section 319L of the Public Health Service Act (42 U.S.C. 247d–7e), and other administrative expenses of the Biomedical Advanced Research and Development Agency;
-  - **(2)** for procuring security countermeasures (as defined in section 319F–2(c)(1)(B) of the Public Health Service Act (42 U.S.C. 247d–6b(c)(1)(B))); or
-  - **(3)** to prepare for and respond to an influenza pandemic and other emerging infectious diseases, including activities such as the development and purchase of vaccine, antivirals, necessary medical supplies, diagnostics, and other surveillance tools.
-- **(b)** Products purchased with amounts made available by this joint resolution for “Department of Health and Human Services—Office of the Secretary—Public Health and Social Services Emergency Fund” may, at the discretion of the Secretary, be deposited in the Strategic National Stockpile pursuant to section 319F–2 of the Public Health Service Act (42 U.S.C. 247d–6b).
+Amounts provided by section 101 for “Department of Health and Human Services—Administration for Children and Families—Refugee and Entrant Assistance” may be obligated up to a rate for operations necessary to maintain program operations at the level provided in fiscal year 2013, as necessary to accommodate increased demand.
 
 ## § 134.
 
-Notwithstanding any other provision of this joint resolution, there is appropriated for payment to Bonnie Englebardt Lautenberg, widow of Frank R. Lautenberg, late a Senator from New Jersey, $174,000.
+During the period covered by this joint resolution, amounts provided under section 101 for “Department of Health and Human Services—Office of the Secretary—Public Health and Social Services Emergency Fund” may be obligated at a rate necessary to assure timely execution of planned advanced research and development contracts pursuant to section 319L of the Public Health Service Act, to remain available until expended, for expenses necessary to support advanced research and development pursuant to section 319L of the Public Health Service Act (42 U.S.C. 247d–7e) and other administrative expenses of the Biomedical Advanced Research and Development Authority.
 
 ## § 135.
 
-Notwithstanding section 101, amounts are provided for “Department of Veterans Affairs—Departmental Administration—General Operating Expenses, Veterans Benefits Administration” at a rate for operations of $2,455,490,000.
+Notwithstanding any other provision of this joint resolution, there is appropriated for payment to Bonnie Englebardt Lautenberg, widow of Frank R. Lautenberg, late a Senator from New Jersey, $174,000.
 
 ## § 136.
 
-The authority provided by the penultimate proviso under the heading “Department of Housing and Urban Development—Rental Assistance Demonstration” in division C of Public Law 112–55 shall continue in effect through the date specified in section 106(3) of this joint resolution.
+Notwithstanding section 101, amounts are provided for “Department of Veterans Affairs—Departmental Administration—General Operating Expenses, Veterans Benefits Administration” at a rate for operations of $2,455,490,000.
 
 ## § 137.
 
-- **(a)** *In general* Notwithstanding any other provision of law, no Federal funds shall be made available to carry out any provisions of the Patient Protection and Affordable Care Act (Public Law 111–148) or title I and subtitle B of title II of the Health Care and Education Reconciliation Act of 2010 (Public Law 111–152), or of the amendments made by either such Act.
-- **(b)** *Limitation* No entitlement to benefits under any provision of the Patient Protection and Affordable Care Act (Public Law 111–148) or title I and subtitle B of title II of the Health Care and Education Reconciliation Act of 2010 (Public Law 111–152), or the amendments made by either such Act, shall remain in effect on and after the date of the enactment of this joint resolution, nor shall any payment be awarded, owed, or made to any State, District, or territory under any such provision.
-- **(c)** *Unobligated balances* Notwithstanding any other provision of law, all unobligated balances available under the provisions of law referred to in subsection (a) are hereby rescinded.
-
-## § 138.
-
-- **(a)** *In general* Until December 15, 2014, in the event that the debt of the United States Government, as defined in section 3101 of title 31, United States Code, reaches the statutory limit, the Secretary of the Treasury shall, in addition to any other authority provided by law, issue obligations under chapter 31 of title 31, United States Code, to pay with legal tender, and solely for the purpose of paying, the principal and interest on obligations of the United States described in subsection (b) after the date of the enactment of this joint resolution.
-- **(b)** *Obligations described* For purposes of this subsection, obligations described in this subsection are obligations which are—
-  - **(1)** held by the public, or
-  - **(2)** held by the Old-Age and Survivors Insurance Trust Fund and Disability Insurance Trust Fund.
-- **(c)** *Prohibition on compensation for Members of Congress* None of the obligations issued under subsection (a) may be used to pay compensation for Members of Congress.
-- **(d)** *Obligations exempt from public debt limit* Obligations issued under subsection (a) shall not be taken into account in applying the limitation in section 3101(b) of title 31, United States Code, to the extent that such obligation would otherwise cause the limitation in section 3101(b) of title 31, United States Code, to be exceeded.
-- **(e)** *Report on certain actions*
-  - **(1)** *In general* If, after the date of the enactment of this joint resolution, the Secretary of the Treasury exercises his authority under subsection (a), the Secretary shall thereafter submit a report each week the authority is in use providing an accounting relating to—
-    - **(A)** the principal on mature obligations and interest that is due or accrued of the United States, and
-    - **(B)** any obligations issued pursuant to subsection (a).
-  - **(2)** *Submission* The report required by paragraph (1) shall be submitted to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
+The authority provided by the penultimate proviso under the heading “Department of Housing and Urban Development—Rental Assistance Demonstration” in division C of Public Law 112–55 shall continue in effect through the date specified in section 106(3) of this joint resolution.
 
 This joint resolution may be cited as the “Continuing Appropriations Resolution, 2014”.
