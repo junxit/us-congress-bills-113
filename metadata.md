@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3095
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3095
@@ -116,3 +116,12 @@ To ensure that any new or revised requirement providing for the screening, testi
 - 2013-09-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 486). (text: CR 9/25/2013 H5815)
 - 2013-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 486).(text: CR 9/25/2013 H5815)
 - 2013-09-27 — Received in the Senate, read twice.
+- 2013-10-04 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7213)
+- 2013-10-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7213)
+- 2013-10-05 — Message on Senate action sent to the House.
+- 2013-10-07 — Presented to President.
+- 2013-10-07 — Presented to President.
+- 2013-10-15 — Became Public Law No: 113-45.
+- 2013-10-15 — Became Public Law No: 113-45.
+- 2013-10-15 — Signed by President.
+- 2013-10-15 — Signed by President.
