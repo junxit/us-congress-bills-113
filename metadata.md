@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3096
 congress: 113
-version: Referred in Senate
+version: Reported in House
 ---
 
 # H.R. 3096
