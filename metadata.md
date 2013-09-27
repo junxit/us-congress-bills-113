@@ -1,7 +1,7 @@
 ---
 measure: S. 1348
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1348
@@ -20,9 +20,10 @@ Congressional Award Program Reauthorization Act of 2013
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Education and the Workforce Committee
 
 ## Actions
 
@@ -41,3 +42,6 @@ Congressional Award Program Reauthorization Act of 2013
 - 2013-09-26 — Senate amendment agreed to: Amendment SA 1998 agreed to in Senate by Unanimous Consent.
 - 2013-09-26 — Senate amendment proposed (on the floor): Amendment SA 1998 proposed by Senator Tester for Senator Carper.(consideration: CR S6968; text: CR S6968)
 - 2013-09-26 — Senate amendment submitted
+- 2013-09-27 — Message on Senate action sent to the House.
+- 2013-09-27 — Received in the House.
+- 2013-09-27 — Referred to the House Committee on Education and the Workforce.
