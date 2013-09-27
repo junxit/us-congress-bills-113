@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 214
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 214
@@ -28,3 +28,7 @@ A resolution designating the week of October 13, 2013, through October 19, 2013,
 
 - 2013-08-01 — Introduced in Senate
 - 2013-08-01 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S6236-6237)
+- 2013-09-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2013-09-27 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2013-09-27 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7008-7009)
+- 2013-09-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7008-7009)

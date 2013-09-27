@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. RES. 214
 
-> Designating the week of October 13, 2013, through October 19, 2013, as “National Case Management Week” to recognize the value of case management in improving healthcare outcomes for patients.
+> Designating the week of October 13, 2013, through October 19, 2013, as National Case Management Week to recognize the value of case management in improving healthcare outcomes for patients.
 
 ## Preamble
 
@@ -22,6 +22,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 That the Senate—
 
-- **(1)** designates the week of October 13, 2013, through October 19, 2013, as “National Case Management Week”;
+- **(1)** designates the week of October 13, 2013, through October 19, 2013, as National Case Management Week;
 - **(2)** recognizes the value of case management in providing successful and cost-effective healthcare; and
 - **(3)** encourages the people of the United States to observe National Case Management Week and learn about the field of case management.
