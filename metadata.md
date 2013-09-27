@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3096
 congress: 113
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # H.R. 3096
@@ -51,3 +51,14 @@ To designate the building occupied by the Federal Bureau of Investigation locate
 - 2013-09-27 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
 - 2013-09-27 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-235.
 - 2013-09-27 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-235.
+- 2014-12-11 — Passed Senate without amendment by Unanimous Consent.
+- 2014-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-12-11 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S6696)
+- 2014-12-11 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S6696)
+- 2014-12-12 — Message on Senate action sent to the House.
+- 2014-12-13 — Presented to President.
+- 2014-12-13 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-249.
+- 2014-12-18 — Became Public Law No: 113-249.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
