@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2600
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2600
@@ -22,9 +22,10 @@ To amend the Interstate Land Sales Full Disclosure Act to clarify how the Act ap
 - Rep. Grimm, Michael G. [R-NY-11] (G000569)
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ To amend the Interstate Land Sales Full Disclosure Act to clarify how the Act ap
 - 2013-09-26 — Considered as unfinished business. (consideration: CR H5847-5848)
 - 2013-09-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 487). (text: CR 9/25/2013 H5822)
 - 2013-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 487).(text: CR 9/25/2013 H5822)
+- 2013-09-27 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
