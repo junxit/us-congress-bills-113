@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2600
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2600
@@ -45,3 +45,14 @@ To amend the Interstate Land Sales Full Disclosure Act to clarify how the Act ap
 - 2013-09-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 487). (text: CR 9/25/2013 H5822)
 - 2013-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 487).(text: CR 9/25/2013 H5822)
 - 2013-09-27 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2014-09-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5862)
+- 2014-09-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5862)
+- 2014-09-18 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S5862)
+- 2014-09-18 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S5862)
+- 2014-09-19 — Message on Senate action sent to the House.
+- 2014-09-23 — Presented to President.
+- 2014-09-23 — Presented to President.
+- 2014-09-26 — Became Public Law No: 113-167.
+- 2014-09-26 — Became Public Law No: 113-167.
+- 2014-09-26 — Signed by President.
+- 2014-09-26 — Signed by President.
