@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2122
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-16 amendatory instructions. 1 executed, 15 stated and not applied.
+16 amendatory instructions. 3 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,24 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 5 U.S.C. § 553
+
+> Section 553(a) of title 5, United States Code, is amended by striking “(a) This section applies” and inserting “(a) Applicability.—This section applies”.
+
+| | |
+|---|---|
+| Removed | `(a) This section applies` |
+| Inserted | `(a) Applicability.—This section applies` |
+
+### 5 U.S.C. § 704
+
+> by striking “Agency action made” and inserting “(a) Agency action made”; and
+
+| | |
+|---|---|
+| Removed | `Agency action made` |
+| Inserted | `(a) Agency action made` |
 
 ### 5 U.S.C. § 706
 
@@ -44,16 +62,14 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `5 U.S.C. § 551` | strike | in paragraph (13), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 551` | replace | in paragraph (14), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 551` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 553(a) of title 5, United States Code, is amended by striking “(a) This section applies” and inserting “(a) Applicability.—This section applies”. | the bill names no machine-readable US Code section |
-| — | replace | Section 553 of title 5, United States Code, is amended by striking subsections (b) through (e) and inserting the following: | the bill names no machine-readable US Code section |
-| — | insert | Chapter 5 of title 5, United States Code, is amended by inserting after section 553 the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections for chapter 5 of title 5, United States Code, is amended by inserting after the item relating to section 553 the following new item: | the bill names no machine-readable US Code section |
-| — | replace | Section 556 of title 5, United States Code, is amended by striking subsection (e) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “Agency action made” and inserting “(a) Agency action made”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: “Denial by an agency of a correction request or, where administrative appeal is provided for, denial of an appeal, under an administrative mechanism described in subsection (b)(2)(B) of the Information… | the bill names no machine-readable US Code section |
+| `5 U.S.C. § 551` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 553` | replace | Section 553 of title 5, United States Code, is amended by striking subsections (b) through (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 553` | insert | Chapter 5 of title 5, United States Code, is amended by inserting after section 553 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 553` | insert | The table of sections for chapter 5 of title 5, United States Code, is amended by inserting after the item relating to section 553 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 556` | replace | Section 556 of title 5, United States Code, is amended by striking subsection (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 704` | add-at-end | by adding at the end the following: “Denial by an agency of a correction request or, where administrative appeal is provided for, denial of an appeal, under an administrative mechanism described in subsection (b)(2)(B) of the Information… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 706` | insert | in paragraph (2)(A) of subsection (a) (as designated by paragraph (1) of this section), by inserting after “in accordance with law” the following: “(including the Information Quality Act)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 706` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | strike | in paragraph (1), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking the period at the end, and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `5 U.S.C. § 706` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 701` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `5 U.S.C. § 701` | replace | in paragraph (2), by striking the period at the end, and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `5 U.S.C. § 701` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
