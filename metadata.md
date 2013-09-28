@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2642
 congress: 113
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 2642
@@ -62,3 +62,7 @@ Agricultural Act of 2014
 - 2013-07-18 — See also S. 954.
 - 2013-07-18 — Senate insisted on its amendment, requested a conference. (consideration: CR S5794)
 - 2013-07-18 — Senate struck all after the Enacting Clause and substituted the language of S. 954 amended.
+- 2013-08-01 — Senate appointed conferees Stabenow; Leahy; Harkin; Baucus; Brown; Klobuchar; Bennet; Cochran; Chambliss; Roberts; Boozman; Hoeven. (consideration: CR S6259-62660)
+- 2013-08-02 — Message on Senate action sent to the House.
+- 2013-09-28 — House agreed to Senate amendment with an amendment pursuant to H.Res. 361. (consideration: CR H5945-5946)
+- 2013-09-28 — Resolving differences -- House actions: House agreed to Senate amendment with an amendment pursuant to H.Res. 361.(consideration: CR H5945-5946)
