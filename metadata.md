@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2251
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2251
@@ -30,6 +30,10 @@ To designate the United States courthouse and Federal building located at 118 So
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2013-09-28 — [House 113-1-496](votes/house-113-1-0496.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (416–4)
+
 ## Actions
 
 - 2013-06-04 — Introduced in House
@@ -46,3 +50,7 @@ To designate the United States courthouse and Federal building located at 118 So
 - 2013-09-27 — Placed on the House Calendar, Calendar No. 59.
 - 2013-09-27 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-234.
 - 2013-09-27 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-234.
+- 2013-09-28 — Considered as unfinished business. (consideration: CR H5985)
+- 2013-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 4 (Roll no. 496). (text: CR 9/27/2013 H5890-5891)
+- 2013-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 4 (Roll no. 496).(text: CR 9/27/2013 H5890-5891)
+- 2013-09-28 — The title of the measure was amended. Agreed to without objection.
