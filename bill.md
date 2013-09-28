@@ -2,7 +2,7 @@
 legis-num: H. RES. 361
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 361
@@ -13,4 +13,4 @@ That the requirement of clause 6(a) of rule XIII for a two-thirds vote to consid
 
 ## § 2.
 
-Upon adoption of this resolution, the House hereby (1) takes from the Speaker's table the bill (H.R. 2642) to provide for the reform and continuation of agricultural and other programs of the Department of Agriculture through fiscal year 2018, and for other purposes, with the Senate amendment thereto; and (2) concurs in the Senate amendment with an amendment substituting for the matter proposed to be inserted by the Senate amendment the text of H.R. 2642, as passed by the House, modified by the insertion of a new title IV consisting of the text of H.R. 3102, as passed by the House, with designations, short titles, and cross-references conformed accordingly.
+Upon adoption of this resolution, the House hereby: (1) takes from the Speaker's table the bill (H.R. 2642) to provide for the reform and continuation of agricultural and other programs of the Department of Agriculture through fiscal year 2018, and for other purposes, with the Senate amendment thereto; and (2) concurs in the Senate amendment with an amendment substituting for the matter proposed to be inserted by the Senate amendment the text of H.R. 2642, as passed by the House, modified by the insertion of a new title IV consisting of the text of H.R. 3102, as passed by the House, with designations, short titles, and cross-references conformed accordingly.

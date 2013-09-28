@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 361
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 361
@@ -20,6 +20,10 @@ Waiving a requirement of clause 6(a) of rule XIII with respect to consideration 
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2013-09-28 — [House 113-1-493](votes/house-113-1-0493.md) — On Agreeing to the Resolution — **Passed** (226–191)
+
 ## Actions
 
 - 2013-09-26 — Introduced in House
@@ -27,3 +31,9 @@ Waiving a requirement of clause 6(a) of rule XIII with respect to consideration 
 - 2013-09-26 — The House Committee on Rules reported an original measure, H. Rept. 113-231, by Mr. Sessions.
 - 2013-09-26 — The House Committee on Rules reported an original measure, H. Rept. 113-231, by Mr. Sessions.
 - 2013-09-26 — The resolution waives clause 6(a) of rule XIII against resolutions reported from the Rules Committee relating to: 1) A measure making continuing appropriations for fiscal year 2014. 2) A measure relating to the public debt limit. The resolution also provides that the House concurs in the Senate amendment to H.R. 2642 with an amendment consisting of the text of H.R. 2642, as passed by the House, modified by the insertion of a new title IV consisting of the text of H.R. 3102, as passed by the House.
+- 2013-09-28 — Considered as privileged matter. (consideration: CR H5938-5946)
+- 2013-09-28 — DEBATE - The House proceeded with one hour of debate on H. Res. 361.
+- 2013-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-09-28 — On agreeing to the resolution Agreed to by the Yeas and Nays: 226 - 191 (Roll no. 493). (text: CR H5938)
+- 2013-09-28 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 226 - 191 (Roll no. 493).(text: CR H5938)
+- 2013-09-28 — The previous question was ordered without objection. (consideration: CR H5945)
