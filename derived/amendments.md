@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2848
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-41 amendatory instructions. 11 executed, 30 stated and not applied.
+39 amendatory instructions. 10 executed, 29 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,15 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 22 U.S.C. § 2710
-
-> Paragraph (3) of section 38(d) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2710(d)) is amended by striking “by the Department of State from another agency of the United States Government or pursuant to” and inserting “by the Department of State as a result of a decision of an international tribunal, from another agency of the United States Government, or pursuant to”.
-
-| | |
-|---|---|
-| Removed | `by the Department of State from another agency of the United States Government or pursuant to` |
-| Inserted | `by the Department of State as a result of a decision of an international tribunal, from another agency of the United States Government, or pursuant to` |
 
 ### 22 U.S.C. § 214
 
@@ -80,12 +71,12 @@ to guess them.
 
 ### 22 U.S.C. § 4834
 
-> by striking “has breached a duty of that individual” and inserting “has unsatisfactorily performed the duties of employment of that individual”; and
+> by striking “has breached a duty of that individual” and inserting “has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual”; and
 
 | | |
 |---|---|
 | Removed | `has breached a duty of that individual` |
-| Inserted | `has unsatisfactorily performed the duties of employment of that individual` |
+| Inserted | `has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual` |
 
 ### 22 U.S.C. § 4864
 
@@ -133,7 +124,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `22 U.S.C. § 3981` | insert | Section 501 of the Foreign Service Act of 1980 (22 U.S.C. 3981) is amended by inserting “If a position designated under this section is unfilled for more than one single assignment cycle, such position shall be filled, as appropriate, on… | the bill quotes the text inserted but describes where it goes |
-| — | replace | Section 410(a)(1)(A) of the Department of State and Related Agencies Appropriations Act, 1999 (contained in division A of Public Law 105–277) is amended by striking “a fee of $13” and inserting “a fee equal to one-half the fee that would… | the bill names no machine-readable US Code section |
 | — | repeal | The following provisions of law are repealed: | the bill names no machine-readable US Code section |
 | — | strike | Section 11 of Public Law 107–245 is amended by striking “(a) In general.—”. | the bill names no machine-readable US Code section |
 | `22 U.S.C. § 4010` | add-at-end | Section 610 of the Foreign Service Act of 1980 (22 U.S.C. 4010) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -152,11 +142,11 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 4865` | insert | by inserting “and from complex attacks (as such term is defined in section 416 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986),” after “attacks from vehicles”; and | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 4865` | insert | by inserting “or such a complex attack” before the period at the end; | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 4865` | insert | in paragraph (7), by inserting before the period at the end the following: “, including at high risk, high threat posts (as such term is defined in section 104 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986), including … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4834` | insert | by inserting “of employment” after “performance of the duties”. | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 4834` | strike | by striking “to the performance of the duties of that individual”. | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 4865` | add-at-end | Section 604(e)(2) of the Secure Embassy Construction and Counterterrorism Act of 1999 (title VI of division A of H.R. 3427, as enacted into law by section 1000(a)(7) of Public Law 106–113; 113 Stat. 1501A–453; 22 U.S.C. 4865 note) is ame… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4864` | redesignate | by redesignating subsections (d), (e), (f), and (g) as subsections (e), (f), (g), and (h), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4864` | insert | by inserting after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 295` | add-at-end | Section 4 of the Foreign Service Buildings Act, 1926 (22 U.S.C. 295) is amended by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 295` | add-at-end | Section 4 of the Foreign Service Buildings Act, 1926 (22 U.S.C. 295) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2701` | insert | Section 29 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2701) is amended, in the third sentence, by inserting “physical security enhancements and” after “may include”. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 4064` | strike | by striking “to facilitate the” and all that follows through “Afghanistan,”; and | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 4064` | insert | by inserting before the semicolon at the end the following: “and, when after an exhaustive, open, and competitive search, no qualified, full-time, current employees (including members of the Civil Service) of the Department of State have… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
