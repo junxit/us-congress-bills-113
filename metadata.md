@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 59
 congress: 113
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.J.Res. 59
@@ -16,7 +16,7 @@ Continuing Appropriations Resolution, 2014
 
 - Rep. Rogers, Harold [R-KY-5] (R000395)
 
-## Cosponsors (43)
+## Cosponsors (44)
 
 - Sen. McConnell, Mitch [R-KY] (M000355)
 - Sen. Vitter, David [R-LA] (V000127)
@@ -61,13 +61,14 @@ Continuing Appropriations Resolution, 2014
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Warner, Mark R. [D-VA] (W000805)
 - Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
 
 ## Committees (2)
 
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (7)
+## Recorded votes (12)
 
 - 2013-09-20 — [House 113-1-477](votes/house-113-1-0477.md) — On Motion to Recommit with Instructions — **Failed** (190–228)
 - 2013-09-20 — [House 113-1-478](votes/house-113-1-0478.md) — On Passage — **Passed** (230–189)
@@ -76,6 +77,11 @@ Continuing Appropriations Resolution, 2014
 - 2013-09-27 — [Senate 113-1-207](votes/senate-113-1-0207.md) — On the Motion — **Motion Agreed to** (68–30)
 - 2013-09-27 — [Senate 113-1-208](votes/senate-113-1-0208.md) — On the Amendment — **Amendment Agreed to** (54–44)
 - 2013-09-27 — [Senate 113-1-209](votes/senate-113-1-0209.md) — On the Joint Resolution — **Joint Resolution Passed** (54–44)
+- 2013-09-29 — [House 113-1-497](votes/house-113-1-0497.md) — On concurring in the Senate amendment with amendment # 1 — **Passed** (248–174)
+- 2013-09-29 — [House 113-1-498](votes/house-113-1-0498.md) — On concurring in the Senate amendment with amendment # 2 — **Passed** (231–192)
+- 2013-09-30 — [House 113-1-504](votes/house-113-1-0504.md) — On Receding from the House Amdts, and Concurring in the Senate Amdt with Amdt — **Passed** (228–201)
+- 2013-09-30 — [Senate 113-1-210](votes/senate-113-1-0210.md) — On the Motion to Table — **Motion to Table Agreed to** (54–46)
+- 2013-09-30 — [Senate 113-1-211](votes/senate-113-1-0211.md) — On the Motion to Table — **Motion to Table Agreed to** (54–46)
 
 ## Actions
 
@@ -174,3 +180,29 @@ Continuing Appropriations Resolution, 2014
 - 2013-09-27 — SA 1977 fell when SA 1976 fell.
 - 2013-09-27 — SA 1978 fell when SA 1977 fell.
 - 2013-09-27 — Senate amendment agreed to: Amendment SA 1974 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 208.
+- 2013-09-28 — DEBATE - The House proceeded with one hour of debate on the Rogers (KY) motion to agree to the Senate amendment with amendments. Pursuant to the provisions of H. Res. 366, at the conclusion of debate, the question on adoption of the proposed House amendments will be divided into two separate questions and voted on accordingly as House amendment No. 1 and House amendment No. 2, to the Senate amendment.
+- 2013-09-28 — Mr. Rogers (KY) moved that the House agree with amendments to the Senate amendment. (consideration: CR H5985-6002, S6008-6009)
+- 2013-09-28 — Pursuant to clause 1(c) of rule 19, further consideration of the motion offered by the gentleman from Kentucky is postponed. (consideration: CR H5987; text: CR H5987)
+- 2013-09-28 — Rules Committee Resolution H. Res. 366 Reported to House. The resolution provides for consideration of a motion to concur in the Senate amendment to H.J.Res. 59 with each of the two amendments printed in the report of the Committee on Rules. The resolution provides for one hour of debate and provides that the question of adoption of the motion shall be divided between the two House amendments. The resolution also provides for consideration of H.R. 3210. The resolution provides for 40 minutes of debate and one motion to recommit
+- 2013-09-28 — The previous question was ordered pursuant to the rule. (consideration: CR H6008)
+- 2013-09-29 — Considered as unfinished business.
+- 2013-09-29 — Message on House action received in Senate and at desk: House amendments to Senate amendment, pursuant to the order of January 3, 2013.
+- 2013-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-09-29 — On agreeing to the Senate amendment with amendment #1 Agreed to by the Yeas and Nays: 248 - 174 (Roll no. 497). (text as House agreed to Senate amendment: CR H5987-5988)
+- 2013-09-29 — On agreeing to the Senate amendment with amendment #2 Agreed to by the Yeas and Nays: 231 - 192 (Roll no. 498). (text as House agreed to Senate amendment: CR H5988-5990)
+- 2013-09-29 — Resolving differences -- House actions: On agreeing to the Senate amendment with amendment #1 Agreed to by the Yeas and Nays: 248 - 174 (Roll no. 497).(text as House agreed to Senate amendment: CR H5987-5988)
+- 2013-09-30 — DEBATE - The House proceeded with forty minutes of debate on the Rogers (KY) motion to recede from the House amendments to the amendment of the Senate, and agree therein with the House amendment printed in House Report 113-239.
+- 2013-09-30 — Measure laid before Senate by unanimous consent. (consideration: CR S7011)
+- 2013-09-30 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2013-09-30 — Message on Senate action sent to the House.
+- 2013-09-30 — Message on Senate action sent to the House. (text of the Senate amendment: CR: H6031-6033)
+- 2013-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-09-30 — Motion to table to the House amendment to Senate amendment agreed to in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 211. (consideration: CR S7041)
+- 2013-09-30 — Motion to table to the House amendments to Senate amendment agreed to in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 210. (consideration: CR S7011)
+- 2013-09-30 — Mr. Rogers (KY) moved that the House recede and concur with an amendment in the Senate amendment. (consideration: CR: H6031-6040; text as House recede and concur with an amendment to Senate amendment with an amendment: CR H6033)
+- 2013-09-30 — On receding from the House amendments, and concurring in the Senate amendment with amendment Agreed to by recorded vote: 228 - 201 (Roll no. 504). (consideration: CR H6040)
+- 2013-09-30 — Resolving differences -- House actions: On receding from the House amendments, and concurring in the Senate amendment with amendment Agreed to by recorded vote: 228 - 201 (Roll no. 504).(consideration: CR H6040)
+- 2013-09-30 — Rule H. Res. 367 passed House.
+- 2013-09-30 — Rules Committee Resolution H. Res. 367 Reported to House. The resolution provides for a motion offered by the chair of the Committee on Appropriations or his designee that the House recede from its amendments and concur in the Senate amendment with an amendment printed in House Report 113-239.
+- 2013-09-30 — Rules Committee Resolution H. Res. 368 Reported to House. Rule provides for consideration of H.J. Res. 59. Rule makes in order for the House to take H.J.Res. 59 from the Speaker's table, with the House amendment to the senate amendment thereto, insist on its amendment, and request a conference with the Senate thereon. Section 2 makes it in order for any motion pursuant to clause 4 of rule XXII relating to H.J.Res. 59 be offered only by the Majority Leader or his designee.
+- 2013-09-30 — The previous question was ordered pursuant to the rule. (consideration: CR H6040)
