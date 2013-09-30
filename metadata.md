@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3210
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3210
@@ -45,3 +45,12 @@ Pay Our Military Act
 - 2013-09-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2013-09-29 — On passage Passed by the Yeas and Nays: 423 - 0 (Roll no. 499). (text: CR H6002)
 - 2013-09-29 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 423 - 0 (Roll no. 499).(text: CR 9/28/2013 H6002)
+- 2013-09-30 — Became Public Law No: 113-39.
+- 2013-09-30 — Became Public Law No: 113-39.
+- 2013-09-30 — Message on Senate action sent to the House.
+- 2013-09-30 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S7018)
+- 2013-09-30 — Presented to President.
+- 2013-09-30 — Presented to President.
+- 2013-09-30 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S7018)
+- 2013-09-30 — Signed by President.
+- 2013-09-30 — Signed by President.
