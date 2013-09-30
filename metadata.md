@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 227
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 227
@@ -24,3 +24,7 @@ A resolution to commemorate the 70th anniversary of the heroic rescue of Danish 
 
 - 2013-09-17 — Introduced in Senate
 - 2013-09-17 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S6527)
+- 2013-09-30 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2013-09-30 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2013-09-30 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2013-09-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 200.
