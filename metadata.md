@@ -1,7 +1,7 @@
 ---
 measure: S. 1560
 congress: 113
-version: Considered and Passed Senate
+version: Engrossed in Senate
 ---
 
 # S. 1560
