@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2848
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2848
@@ -21,9 +21,10 @@ Department of State Operations and Embassy Security Authorization Act, Fiscal Ye
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
 - Del. Faleomavaega, Eni F. H. [D-AS-At Large] (F000010)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Department of State Operations and Embassy Security Authorization Act, Fiscal Ye
 - 2013-09-29 — Considered as unfinished business. (consideration: CR 9/28/2013 H6010)
 - 2013-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 37 (Roll no. 500). (text: CR 9/28/2013 H5965-5971)
 - 2013-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 37 (Roll no. 500).(text: CR 9/28/2013 H5965-5971)
+- 2013-09-30 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
