@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3174
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3174
@@ -34,3 +34,9 @@ To authorize the Secretary of Transportation to obligate funds for emergency rel
 - 2013-09-25 — Introduced in House
 - 2013-09-25 — Introduced in House
 - 2013-09-25 — Referred to the House Committee on Transportation and Infrastructure.
+- 2013-09-26 — Referred to the Subcommittee on Highways and Transit.
+- 2013-09-30 — Considered under suspension of the rules. (consideration: CR H6016-6019)
+- 2013-09-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3174.
+- 2013-09-30 — Mr. Petri moved to suspend the rules and pass the bill.
+- 2013-09-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6016)
+- 2013-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6016)
