@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2251
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2251
@@ -56,3 +56,14 @@ To designate the United States courthouse and Federal building located at 118 So
 - 2013-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 4 (Roll no. 496).(text: CR 9/27/2013 H5890-5891)
 - 2013-09-28 — The title of the measure was amended. Agreed to without objection.
 - 2013-09-30 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2013-12-17 — Passed Senate without amendment by Unanimous Consent.
+- 2013-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2013-12-17 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S8917-8918)
+- 2013-12-17 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S8917-8918)
+- 2013-12-18 — Message on Senate action sent to the House.
+- 2013-12-19 — Presented to President.
+- 2013-12-19 — Presented to President.
+- 2013-12-20 — Became Public Law No: 113-60.
+- 2013-12-20 — Became Public Law No: 113-60.
+- 2013-12-20 — Signed by President.
+- 2013-12-20 — Signed by President.
