@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2251
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2251
@@ -26,9 +26,10 @@ To designate the United States courthouse and Federal building located at 118 So
 - Rep. Bachmann, Michele [R-MN-6] (B001256)
 - Rep. Nolan, Richard M. [D-MN-8] (N000127)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ To designate the United States courthouse and Federal building located at 118 So
 - 2013-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 4 (Roll no. 496). (text: CR 9/27/2013 H5890-5891)
 - 2013-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 4 (Roll no. 496).(text: CR 9/27/2013 H5890-5891)
 - 2013-09-28 — The title of the measure was amended. Agreed to without objection.
+- 2013-09-30 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
