@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 3230
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3230
+
+> Making continuing appropriations during a Government shutdown to provide pay and allowances to members of the reserve components of the Armed Forces who perform inactive-duty training during such period.
+
+## § 1. Short title
+
+This Act may be cited as the “Pay Our Guard and Reserve Act”.
+
+## § 2. Continuing appropriations for pay and allowances for certain reserve component members of the Armed Forces
+
+- **(a)** *In general* There are hereby appropriated for fiscal year 2014, out of any money in the Treasury not otherwise appropriated, for any period during which interim or full-year appropriations for fiscal year 2014 are not in effect such sums as are necessary to provide pay and allowances to members of the reserve components of the Armed Forces (as named in section 10101 of title 10, United States Code) who perform inactive-duty training (as defined in section 101(d)(7) of such title) during such period.
+- **(b)** *Termination* Appropriations and funds made available and authority granted pursuant to this section shall be available until whichever of the following first occurs: (1) the enactment into law of an appropriation (including a continuing appropriation) for any purpose for which amounts are made available in this section; (2) the enactment into law of the applicable regular or continuing appropriations resolution or other Act without any appropriation for such purpose; or (3) January 1, 2015.
