@@ -31,8 +31,8 @@ Appropriations made by section 101 shall be available to the extent and in the m
 Unless otherwise provided for in this joint resolution or in the applicable appropriations Act for fiscal year 2014, appropriations and funds made available and authority granted pursuant to this joint resolution shall be available until whichever of the following first occurs:
 
 - **(1)** the enactment into law of an appropriation for any project or activity provided for in this joint resolution;
-  - **(2)** the enactment into law of the applicable appropriations Act for fiscal year 2014 without any provision for such project or activity; or
-    - **(3)** December 15, 2013.
+- **(2)** the enactment into law of the applicable appropriations Act for fiscal year 2014 without any provision for such project or activity; or
+- **(3)** December 15, 2013.
 
 ## § 104.
 
