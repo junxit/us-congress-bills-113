@@ -2,7 +2,7 @@
 legis-num: H. RES. 370
 congress: 113th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 370
@@ -13,7 +13,7 @@ That upon adoption of this resolution it shall be in order to consider in the Ho
 
 ## § 2.
 
-The joint resolutions referred to in the first section of this resolution are as follows:
+The joint resolutions reffered to in the first section of this resolution are as follows:
 
 - **(a)** The joint resolution (H.J. Res. 70) making continuing appropriations for National Park Service operations, the Smithsonian Institution, the National Gallery of Art, and the United States Holocaust Memorial Museum for fiscal year 2014, and for other purposes.
 - **(b)** The joint resolution (H.J. Res. 71) making continuing appropriations of local funds of the District of Columbia for fiscal year 2014.
