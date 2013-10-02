@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 3235
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3235
+
+> To provide for the compensation of any Federal, State, or local employee furloughed due to a lapse in appropriations which began on or about October 1, 2013.
+
+## § 1. Compensation for furloughed employees
+
+- **(a)** *In general* Any Federal employee or State or local employee furloughed due to a lapse in appropriations (from the Treasury of the United States) which began on or about October 1, 2013, shall be compensated at such employee’s standard rate of compensation, for the period of such lapse in appropriations, as soon as practicable after such lapse in appropriations ends.
+- **(b)** *Definitions* For purposes of this Act—
+  - **(1)** the term Federal employee means an employee as defined by section 2105 of title 5, United States Code;
+  - **(2)** the term State or local employee means an individual employed by the government of a State, municipality, or other political subdivision of a State, or by the government of the District of Columbia, whose principal employment is in connection with an activity which is financed in whole or in part by loans or grants made by the United States; and
+  - **(3)** the term State means a State or territory or possession of the United States.
