@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 71
 congress: 113
-version: Failed Passage House
+version: Engrossed in House
 ---
 
 # H.J.Res. 71
@@ -36,3 +36,11 @@ District of Columbia Continuing Appropriations Resolution, 2014
 - 2013-10-01 — Mr. Crenshaw moved to suspend the rules and pass the resolution.
 - 2013-10-01 — On motion to suspend the rules and pass the resolution Failed by the Yeas and Nays: (2/3 required): 265 - 163 (Roll no. 507).
 - 2013-10-01 — Referred to the House Committee on Appropriations.
+- 2013-10-02 — Considered under the provisions of rule H. Res. 370. (consideration: CR H6133-6138)
+- 2013-10-02 — DEBATE - The House proceeded with 30 minutes of debate on H.J. Res. 71.
+- 2013-10-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-10-02 — On passage Passed by voice vote. (text: CR H6133)
+- 2013-10-02 — Passed/agreed to in House: On passage Passed by voice vote.(text: CR H6133)
+- 2013-10-02 — Rules Committee Resolution H. Res. 370 Reported to House. The resolution provides for consideration of H.J. Res. 70, H.J. Res. 71, H.J. Res. 72, H.J. Res. 73, and H.R. 3230. The resolution provides for 30 minutes of debate on each measure and provides for one motion to recommit each measure. The resolution also provides that it shall be in order at any time through the calendar day of October 6, 2013, for the Speaker to entertain motions that the House suspend the rules.
+- 2013-10-02 — The previous question was ordered pursuant to the rule. (consideration: CR H6138)
+- 2013-10-02 — The resolution provides for consideration of H.J. Res. 70, H.J. Res. 71, H.J. Res. 72, H.J. Res. 73, and H.R. 3230. The resolution provides for 30 minutes of debate on each measure and provides for one motion to recommit each measure. The resolution also provides that it shall be in order at any time through the calendar day of October 6, 2013, for the Speaker to entertain motions that the House suspend the rules.
