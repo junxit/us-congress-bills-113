@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3230
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3230
@@ -25,6 +25,11 @@ Veterans Access, Choice, and Accountability Act of 2014
 
 - House — Appropriations Committee
 
+## Recorded votes (2)
+
+- 2013-10-03 — [House 113-1-515](votes/house-113-1-0515.md) — Table Appeal of the Ruling of the Chair — **Passed** (228–194)
+- 2013-10-03 — [House 113-1-516](votes/house-113-1-0516.md) — On Passage — **Passed** (265–160)
+
 ## Actions
 
 - 2013-10-02 — Introduced in House
@@ -32,3 +37,16 @@ Veterans Access, Choice, and Accountability Act of 2014
 - 2013-10-02 — Referred to the House Committee on Appropriations.
 - 2013-10-02 — Rule H. Res. 370 passed House.
 - 2013-10-02 — Rules Committee Resolution H. Res. 370 Reported to House. The resolution provides for consideration of H.J. Res. 70, H.J. Res. 71, H.J. Res. 72, H.J. Res. 73, and H.R. 3230. The resolution provides for 30 minutes of debate on each measure and provides for one motion to recommit each measure. The resolution also provides that it shall be in order at any time through the calendar day of October 6, 2013, for the Speaker to entertain motions that the House suspend the rules.
+- 2013-10-03 — Considered under the provisions of rule H. Res. 370. (consideration: CR H6193-6200)
+- 2013-10-03 — DEBATE - The House proceeded with 10 minutes of debate on the Enyart motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment, pending reservation of a point of order. The amendment would replace the underlying bill with the Senate Amendment to H.J.Res. 59.
+- 2013-10-03 — DEBATE - The House proceeded with 30 minutes of debate on H.R. 3230.
+- 2013-10-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-10-03 — Mr. Enyart moved to appeal of the ruling of the chair. (consideration: CR H6199)
+- 2013-10-03 — Mr. Enyart moved to recommit with instructions to Appropriations. (consideration: CR H6198-6199; text: CR H6198)
+- 2013-10-03 — Mr. Young (FL) moved to table the motion to appeal of the ruling of the chair (consideration: CR H6199)
+- 2013-10-03 — Mr. Young (FL) raised a point of order against the motion to recommit with instructions. Mr. Young stated that the amendment was not germane to the underlying bill. Sustained by the Chair.
+- 2013-10-03 — On motion to table the appeal of the ruling of the chair Agreed to by the Yeas and Nays: 228 - 194 (Roll no. 515).
+- 2013-10-03 — On passage Passed by the Yeas and Nays: 265 - 160 (Roll no. 516). (text: CR H6193)
+- 2013-10-03 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 265 - 160 (Roll no. 516).(text: CR H6193)
+- 2013-10-03 — The previous question was ordered pursuant to the rule. (consideration: CR H6198)
+- 2013-10-03 — The resolution provides for consideration of H.J. Res. 70, H.J. Res. 71, H.J. Res. 72, H.J. Res. 73, and H.R. 3230. The resolution provides for 30 minutes of debate on each measure and provides for one motion to recommit each measure. The resolution also provides that it shall be in order at any time through the calendar day of October 6, 2013, for the Speaker to entertain motions that the House suspend the rules.
