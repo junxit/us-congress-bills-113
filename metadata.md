@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3233
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3233
@@ -45,3 +45,7 @@ To extend the period during which Iraqis who were employed by the United States 
 - 2013-10-03 — Presented to President.
 - 2013-10-03 — Presented to President.
 - 2013-10-03 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S7149)
+- 2013-10-04 — Became Public Law No: 113-42.
+- 2013-10-04 — Became Public Law No: 113-42.
+- 2013-10-04 — Signed by President.
+- 2013-10-04 — Signed by President.
