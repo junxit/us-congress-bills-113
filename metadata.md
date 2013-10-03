@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 71
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 71
@@ -44,3 +44,5 @@ District of Columbia Continuing Appropriations Resolution, 2014
 - 2013-10-02 — Rules Committee Resolution H. Res. 370 Reported to House. The resolution provides for consideration of H.J. Res. 70, H.J. Res. 71, H.J. Res. 72, H.J. Res. 73, and H.R. 3230. The resolution provides for 30 minutes of debate on each measure and provides for one motion to recommit each measure. The resolution also provides that it shall be in order at any time through the calendar day of October 6, 2013, for the Speaker to entertain motions that the House suspend the rules.
 - 2013-10-02 — The previous question was ordered pursuant to the rule. (consideration: CR H6138)
 - 2013-10-02 — The resolution provides for consideration of H.J. Res. 70, H.J. Res. 71, H.J. Res. 72, H.J. Res. 73, and H.R. 3230. The resolution provides for 30 minutes of debate on each measure and provides for one motion to recommit each measure. The resolution also provides that it shall be in order at any time through the calendar day of October 6, 2013, for the Speaker to entertain motions that the House suspend the rules.
+- 2013-10-03 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 204 pursuant to the order of Oct. 2, 2013.
+- 2013-10-03 — Received in the Senate, read the first time pursuant to the order of Oct. 2, 2013.
