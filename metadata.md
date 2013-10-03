@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3233
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3233
@@ -40,3 +40,8 @@ To extend the period during which Iraqis who were employed by the United States 
 - 2013-10-02 — Passed/agreed to in House: On passage Passed without objection.(text: CR H6156)
 - 2013-10-02 — Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-10-02 — Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-10-03 — Message on Senate action sent to the House.
+- 2013-10-03 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S7149)
+- 2013-10-03 — Presented to President.
+- 2013-10-03 — Presented to President.
+- 2013-10-03 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S7149)
