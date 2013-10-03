@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 228
 congress: 113
-version: Placed on Calendar Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 228
@@ -26,3 +26,5 @@ An original resolution authorizing the reporting of committee funding resolution
 - 2013-09-17 — Committee on Rules and Administration. Original measure reported to Senate by Senator Schumer. Without written report.(text of measure as reported in Senate: CR S6527)
 - 2013-09-17 — Introduced in Senate
 - 2013-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 188.
+- 2013-10-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S7170)
+- 2013-10-03 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S7170)
