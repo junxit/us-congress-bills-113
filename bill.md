@@ -1,0 +1,42 @@
+---
+legis-num: H.J. RES. 88
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.J. RES. 88
+
+> Making continuing appropriations for operations of the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the Coast Guard Academy, and the United States Merchant Marine Academy for fiscal year 2014.
+
+That the following sums are hereby appropriated, out of any money in the Treasury not otherwise appropriated, for operations of the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the Coast Guard Academy, and the United States Merchant Marine Academy for fiscal year 2014, and for other purposes, namely:
+
+## § 101.
+
+- **(a)** Such amounts as may be necessary, at a rate for operations as provided for in the Consolidated and Further Continuing Appropriations Act, 2013 (Public Law 113–6) and under the authority and conditions provided in the applicable divisions of such Act, for projects or activities for the continuing operations of the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the Coast Guard Academy, and the United States Merchant Marine Academy that are not otherwise specifically provided for in the Pay Our Military Act, that were conducted in fiscal year 2013, and for which appropriations, funds, or other authority were made available by the Consolidated and Further Continuing Appropriations Act, 2013, in the specified accounts:
+  - **(1)** The United States Military Academy, “Department of Defense—Operation and Maintenance, Army”.
+  - **(2)** The United States Naval Academy, “Department of Defense—Operation and Maintenance, Navy”.
+  - **(3)** The United States Air Force Academy, “Department of Defense—Operation and Maintenance, Air Force”.
+  - **(4)** The Coast Guard Academy, “Department of Homeland Security—Coast Guard—Operating Expenses”.
+  - **(5)** The United States Merchant Marine Academy, “Department of Transportation—Maritime Administration—Operations and Training”.
+- **(b)** The rate for operations provided by subsection (a) for each project or activity shall be calculated to reflect the full amount of any reduction required in fiscal year 2013 pursuant to—
+  - **(1)** any provision of division G of the Consolidated and Further Continuing Appropriations Act, 2013 (Public Law 113–6), including section 3004; and
+  - **(2)** the Presidential sequestration order dated March 1, 2013, except as attributable to budget authority made available by the Disaster Relief Appropriations Act, 2013 (Public Law 113–2).
+
+## § 102.
+
+Appropriations made by section 101 shall be available to the extent and in the manner that would be provided by the pertinent appropriations Act.
+
+## § 103.
+
+Unless otherwise provided for in this joint resolution or in the applicable appropriations Act for fiscal year 2014, appropriations and funds made available and authority granted pursuant to this joint resolution shall be available until whichever of the following first occurs: (1) the enactment into law of an appropriation for any project or activity provided for in this joint resolution; (2) the enactment into law of the applicable appropriations Act for fiscal year 2014 without any provision for such project or activity; or (3) December 15, 2013.
+
+## § 104.
+
+Expenditures made pursuant to this joint resolution shall be charged to the applicable appropriation, fund, or authorization whenever a bill in which such applicable appropriation, fund, or authorization is contained is enacted into law.
+
+## § 105.
+
+This joint resolution shall be implemented so that only the most limited funding action of that permitted in the joint resolution shall be taken in order to provide for continuation of projects and activities.
+
+This joint resolution may be cited as the “United States Service Academies Continuing Appropriations Resolution, 2014”.
