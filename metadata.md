@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1848
 congress: 113
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1848
@@ -16,7 +16,7 @@ Small Airplane Revitalization Act of 2013
 
 - Rep. Pompeo, Mike [R-KS-4] (P000602)
 
-## Cosponsors (31)
+## Cosponsors (37)
 
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 - Rep. Graves, Sam [R-MO-6] (G000546)
@@ -49,6 +49,12 @@ Small Airplane Revitalization Act of 2013
 - Rep. Webster, Daniel [R-FL-10] (W000806)
 - Rep. Schock, Aaron [R-IL-18] (S001179)
 - Rep. Bustos, Cheri [D-IL-17] (B001286)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Nelson, Bill [D-FL] (N000032)
 
 ## Committees (2)
 
@@ -81,3 +87,13 @@ Small Airplane Revitalization Act of 2013
 - 2013-07-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-151.
 - 2013-07-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-151.
 - 2013-07-17 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2013-10-04 — Amendment SA 1999 agreed to in Senate by Unanimous Consent.
+- 2013-10-04 — Amendment SA 1999 proposed by Senator Reid for Senator Klobuchar. (consideration: CR S7212-7213; text: CR S7212-7213) In the nature of a substitute.
+- 2013-10-04 — Measure laid before Senate by unanimous consent. (consideration: CR S7212-7213)
+- 2013-10-04 — Passed Senate with an amendment by Unanimous Consent.
+- 2013-10-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2013-10-04 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2013-10-04 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2013-10-04 — Senate amendment agreed to: Amendment SA 1999 agreed to in Senate by Unanimous Consent.
+- 2013-10-04 — Senate amendment proposed (on the floor): Amendment SA 1999 proposed by Senator Reid for Senator Klobuchar.(consideration: CR S7212-7213; text: CR S7212-7213)
+- 2013-10-04 — Senate amendment submitted
