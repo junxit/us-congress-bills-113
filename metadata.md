@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 213
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 213
@@ -39,3 +39,5 @@ A resolution expressing support for the free and peaceful exercise of representa
 - 2013-09-30 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
 - 2013-09-30 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
 - 2013-09-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 201.
+- 2013-10-04 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent.(consideration: CR S7213-7214; text as passed Senate: CR S7213)
+- 2013-10-04 — Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent. (consideration: CR S7213-7214; text as passed Senate: CR S7213)
