@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1848
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1848
@@ -97,3 +97,14 @@ Small Airplane Revitalization Act of 2013
 - 2013-10-04 — Senate amendment agreed to: Amendment SA 1999 agreed to in Senate by Unanimous Consent.
 - 2013-10-04 — Senate amendment proposed (on the floor): Amendment SA 1999 proposed by Senator Reid for Senator Klobuchar.(consideration: CR S7212-7213; text: CR S7212-7213)
 - 2013-10-04 — Senate amendment submitted
+- 2013-10-05 — Message on Senate action sent to the House.
+- 2013-11-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-11-14 — Mr. Pompeo asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H7080)
+- 2013-11-14 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H7080)
+- 2013-11-14 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H7080)
+- 2013-11-21 — Presented to President.
+- 2013-11-21 — Presented to President.
+- 2013-11-27 — Became Public Law No: 113-53.
+- 2013-11-27 — Became Public Law No: 113-53.
+- 2013-11-27 — Signed by President.
+- 2013-11-27 — Signed by President.
