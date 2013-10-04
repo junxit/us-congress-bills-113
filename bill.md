@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 3246
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3246
+
+> To amend the Pay Our Military Act to ensure that all civilian and contractor employees of the Department of Defense and the Coast Guard are paid in the event of a Government shutdown.
+
+## § 1. Short title
+
+This Act may be cited as the “Support Our Department of Defense Civilian Employees Act”.
+
+## § 2. Continuing appropriations for employees and contractors of Department of Defense and reserve component personnel
+
+- **(a)** *Sense of Congress* It is the sense of Congress that all civilian employees and contractors of the Department of Defense and the Coast Guard serve to provide support to members of the Armed Forces.
+- **(b)** *Amendments To Pay Our Military Act* Subsection (a) of section 2 of the Pay Our Military Act (HR 3210 of the 113th Congress) is amended—
+  - **(1)** in paragraph (2)—
+    - **(A)** by striking “the civilian personnel” and inserting “all civilian personnel”; and
+    - **(B)** by striking “whom the Secretary concerned determines are providing support to members of the Armed Forces described in paragraph (1)”; and
+  - **(2)** in paragraph (3)—
+    - **(A)** by striking “pay and allowances to” and inserting “compensation to all employees of”; and
+    - **(B)** by striking “whom the Secretary concerned determines are providing support to members of the Armed Forces described in paragraph (1)”.
+- **(c)** *Treatment of previously furloughed employees* Subsection (b) of such section is amended to read as follows:
+  > - **(b)** *Treatment of previously furloughed employees*
+  >   - **(1)** *In general* Notwithstanding any other provision of law, the Secretary of Defense (and the Secretary of Homeland Security with respect to the Coast Guard) shall ensure that all personnel described in paragraph (2) are treated as “retained” or “excepted” status, as those terms are used in the Office of Management and Budget Circular A–11, during the period for which continuing appropriations are made available pursuant to subsection (a), effective as of the date of the enactment of the Support Our Department of Defense Civilian Employees Act.
+  >   - **(2)** *Personnel described* Personnel described in this paragraph are civilian personnel of the Department of Defense or the Coast Guard that the Secretary of Defense (or the Secretary of Homeland Security with respect to the Coast Guard) determined were not in “retained” or “excepted” status, as those terms are used in the Office of Management and Budget Circular A–11, at any time during the period beginning on October 1, 2013, and ending on the date of the enactment of the Support Our Department of Defense Civilian Employees Act.
