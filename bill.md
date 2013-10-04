@@ -2,7 +2,7 @@
 legis-num: H. RES. 371
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 371
@@ -13,7 +13,7 @@ That upon adoption of this resolution it shall be in order to consider in the Ho
 
 ## § 2.
 
-The joint resolutions reffered to in the first section of this resolution are as follows:
+The joint resolutions referred to in the first section of this resolution are as follows:
 
 - **(a)** The joint resolution (H.J. Res. 75) making continuing appropriations for the Special Supplemental Nutrition Program for Women, Infants, and Children for fiscal year 2014, and for other purposes.
 - **(b)** The joint resolution (H.J. Res. 76) making continuing appropriations for the National Nuclear Security Administration for fiscal year 2014, and for other purposes.
