@@ -2,7 +2,7 @@
 legis-num: H.J. RES. 72
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.J. RES. 72
@@ -25,8 +25,8 @@ Amounts are provided for “Department of Veterans Affairs—Departmental Admini
 Unless otherwise provided for in this joint resolution or in the applicable appropriations Act for fiscal year 2014, appropriations and funds made available and authority granted pursuant to this joint resolution shall be available until whichever of the following first occurs:
 
 - **(1)** the enactment into law of an appropriation for any project or activity provided for in this joint resolution;
-- **(2)** the enactment into law of the applicable appropriations Act for fiscal year 2014 without any provision for such project or activity; or
-- **(3)** December 15, 2013.
+  - **(2)** the enactment into law of the applicable appropriations Act for fiscal year 2014 without any provision for such project or activity; or
+    - **(3)** December 15, 2013.
 
 ## § 104.
 
