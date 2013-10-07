@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 75
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 75
@@ -42,3 +42,5 @@ Special Supplemental Nutrition Program for Women, Infants, and Children Continui
 - 2013-10-04 — On passage Passed by the Yeas and Nays: 244 - 164 (Roll no. 524). (text: CR H6262-6263)
 - 2013-10-04 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 244 - 164 (Roll no. 524).(text: CR H6262-6263)
 - 2013-10-04 — The previous question was ordered pursuant to the rule. (consideration: CR H6270)
+- 2013-10-05 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2013-10-07 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 209.
