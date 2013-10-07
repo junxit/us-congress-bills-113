@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3223
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3223
@@ -216,3 +216,4 @@ Federal Employee Retroactive Pay Fairness Act
 - 2013-10-05 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 407 - 0 (Roll no. 525).(text: CR H6296-6297)
 - 2013-10-05 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2013-10-05 — The previous question was ordered pursuant to the rule. (consideration: CR H6304)
+- 2013-10-07 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 208.
