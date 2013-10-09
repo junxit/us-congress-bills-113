@@ -13,7 +13,7 @@ That the following sums are hereby appropriated, out of any money in the Treasur
 
 ## § 101.
 
-- **(a)** Such amounts as may be necessary, at a rate for operations as provided in the Further Continuing Appropriations Act, 2013 (division F of Public Law 113–6) and under the authority and conditions provided in such Act, for continuing projects or activities (including the costs of direct loans and loan guarantees) that are not otherwise specifically provided for in this joint resolution, that were conducted in fiscal year 2013, and for which appropriations, funds, or other authority were made available by such Act under the heading Department of Transportation—Federal Aviation Administration.
+- **(a)** Such amounts as may be necessary, at a rate for operations as provided in the Further Continuing Appropriations Act, 2013 (division F of Public Law 113–6) and under the authority and conditions provided in such Act, for continuing projects or activities (including the costs of direct loans and loan guarantees) that are not otherwise specifically provided for in this joint resolution, that were conducted in fiscal year 2013, and for which appropriations, funds, or other authority were made available by such Act under the heading “Department of Transportation—Federal Aviation Administration”.
 - **(b)** The rate for operations provided by subsection (a) for each account shall be calculated to reflect the full amount of any reduction required in fiscal year 2013 pursuant to—
   - **(1)** any provision of division G of the Consolidated and Further Continuing Appropriations Act, 2013 (Public Law 113–6), including section 3004; and
   - **(2)** the Presidential sequestration order dated March 1, 2013, except as attributable to budget authority made available by the Disaster Relief Appropriations Act, 2013 (Public Law 113–2).
@@ -24,7 +24,11 @@ Appropriations made by section 101 shall be available to the extent and in the m
 
 ## § 103.
 
-Unless otherwise provided for in this joint resolution or in the applicable appropriations Act for fiscal year 2014, appropriations and funds made available and authority granted pursuant to this joint resolution shall be available until whichever of the following first occurs: (1) the enactment into law of an appropriation for any project or activity provided for in this joint resolution; (2) the enactment into law of the applicable appropriations Act for fiscal year 2014 without any provision for such project or activity; or (3) December 15, 2013.
+Unless otherwise provided for in this joint resolution or in the applicable appropriations Act for fiscal year 2014, appropriations and funds made available and authority granted pursuant to this joint resolution shall be available until whichever of the following first occurs:
+
+- **(1)** the enactment into law of an appropriation for any project or activity provided for in this joint resolution;
+- **(2)** the enactment into law of the applicable appropriations Act for fiscal year 2014 without any provision for such project or activity; or
+- **(3)** December 15, 2013.
 
 ## § 104.
 
@@ -42,4 +46,4 @@ Amounts made available under section 101 for civilian personnel compensation and
 
 It is the sense of Congress that this joint resolution may also be referred to as the “Flight Safety Act”.
 
-This joint resolution may be cited as the Federal Aviation Administration Continuing Appropriations Resolution, 2014.
+This joint resolution may be cited as the “Federal Aviation Administration Continuing Appropriations Resolution, 2014”.
