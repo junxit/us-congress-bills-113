@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 77
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 77
@@ -43,3 +43,5 @@ Food and Drug Administration Continuing Appropriations Resolution, 2014
 - 2013-10-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 235 - 162 (Roll no. 528).(text: CR H6326-6327)
 - 2013-10-07 — Point of order sustained against the motion to recommit with instructions.
 - 2013-10-07 — The previous question was ordered pursuant to the rule. (consideration: CR H6332)
+- 2013-10-08 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2013-10-09 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 212.
