@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 3281
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3281
+
+> To transfer criminal enforcement and investigative authority and functions of certain agencies to the Federal Bureau of Investigation.
+
+## § 1. Transfer of criminal enforcement and investigative authority and functions to the Federal Bureau of Investigation
+
+- **(a)** *Repeal of EPA powers* Section 3063 of title 18, United States Code, is repealed.
+- **(b)** *Transfer of authority to FBI* Notwithstanding any other provision of law, any criminal enforcement authority and functions and any criminal investigative authority and functions of the Environmental Protection Agency shall be transferred to the Director of the Federal Bureau of Investigation, except for any criminal enforcement authority and functions and any criminal investigative authority and functions delegated to State or local law enforcement.
