@@ -1,7 +1,7 @@
 ---
 measure: S. 1276
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1276
@@ -16,7 +16,7 @@ Security Clearance Oversight and Reform Enhancement Act
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (7)
+## Cosponsors (8)
 
 - Sen. McCaskill, Claire [D-MO] (M001170)
 - Sen. Portman, Rob [R-OH] (P000449)
@@ -25,6 +25,7 @@ Security Clearance Oversight and Reform Enhancement Act
 - Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Baucus, Max [D-MT] (B000243)
 - Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Coburn, Tom [R-OK] (C000560)
 
 ## Committees (1)
 
@@ -38,3 +39,11 @@ Security Clearance Oversight and Reform Enhancement Act
 - 2013-09-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. With written report No. 113-111. Additional views filed.
 - 2013-09-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. With written report No. 113-111. Additional views filed.
 - 2013-09-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 199.
+- 2013-10-10 — Amendment SA 2001 agreed to in Senate by Unanimous Consent.
+- 2013-10-10 — Amendment SA 2001 proposed by Senator Reid for Senator Carper. (consideration: CR S7387; text: CR S7387) To amend the title.
+- 2013-10-10 — Measure laid before Senate by unanimous consent. (consideration: CR S7387; text of amendment in the nature of a substitute: CR S7387)
+- 2013-10-10 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2013-10-10 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2013-10-10 — Senate amendment agreed to: Amendment SA 2001 agreed to in Senate by Unanimous Consent.
+- 2013-10-10 — Senate amendment proposed (on the floor): Amendment SA 2001 proposed by Senator Reid for Senator Carper.(consideration: CR S7387; text: CR S7387)
+- 2013-10-10 — Senate amendment submitted
