@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 91
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 91
@@ -60,3 +60,13 @@ Department of Defense Survivor Benefits Continuing Appropriations Resolution, 20
 - 2013-10-09 — On motion to suspend the rules and pass the resolution Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 538). (text: CR H6431)
 - 2013-10-09 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 538).(text: CR H6431)
 - 2013-10-09 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2013-10-10 — Became Public Law No: 113-44.
+- 2013-10-10 — Became Public Law No: 113-44.
+- 2013-10-10 — Message on Senate action sent to the House.
+- 2013-10-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7368)
+- 2013-10-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7368)
+- 2013-10-10 — Presented to President.
+- 2013-10-10 — Presented to President.
+- 2013-10-10 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 216.
+- 2013-10-10 — Signed by President.
+- 2013-10-10 — Signed by President.
