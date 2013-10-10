@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 89
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 89
@@ -37,3 +37,5 @@ Making appropriations for the salaries and related expenses of certain Federal e
 - 2013-10-08 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 420 - 0 (Roll no. 535).(text: CR H6385)
 - 2013-10-08 — Referred to the House Committee on Appropriations.
 - 2013-10-08 — The previous question was ordered pursuant to the rule. (consideration: CR H6389)
+- 2013-10-09 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2013-10-10 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 214.
