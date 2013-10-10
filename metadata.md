@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 84
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 84
@@ -42,3 +42,5 @@ Head Start Continuing Appropriations Resolution, 2014
 - 2013-10-08 — On passage Passed by recorded vote: 248 - 168 (Roll no. 530). (text: CR H6362)
 - 2013-10-08 — Passed/agreed to in House: On passage Passed by recorded vote: 248 - 168 (Roll no. 530).(text: CR H6362)
 - 2013-10-08 — The previous question was ordered pursuant to the rule. (consideration: CR H6368)
+- 2013-10-09 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2013-10-10 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 213.
