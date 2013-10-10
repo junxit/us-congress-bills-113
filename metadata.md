@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 58
 congress: 113
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.Con.Res. 58
@@ -39,3 +39,17 @@ Expressing the sense of Congress regarding the need for the continued availabili
 - 2013-10-05 — Received in the Senate.
 - 2013-10-05 — Referred to the Committee on Armed Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-10-05 — Referred to the Committee on Armed Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-10-10 — Amendment SA 2002 agreed to in Senate by Unanimous Consent.
+- 2013-10-10 — Amendment SA 2002 proposed by Senator Reid for Senator Levin. (consideration: CR S7388; text: CR S7388) To amend the resolution.
+- 2013-10-10 — Amendment SA 2003 agreed to in Senate by Unanimous Consent.
+- 2013-10-10 — Amendment SA 2003 proposed by Senator Reid for Senator Levin. (consideration: CR S7388 text: CR S7388) To amend the preamble.
+- 2013-10-10 — Measure laid before Senate by unanimous consent. (consideration: CR S7387-7388)
+- 2013-10-10 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(text: CR S7388)
+- 2013-10-10 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (text: CR S7388)
+- 2013-10-10 — Senate amendment agreed to: Amendment SA 2002 agreed to in Senate by Unanimous Consent.
+- 2013-10-10 — Senate amendment agreed to: Amendment SA 2003 agreed to in Senate by Unanimous Consent.
+- 2013-10-10 — Senate amendment proposed (on the floor): Amendment SA 2002 proposed by Senator Reid for Senator Levin.(consideration: CR S7388; text: CR S7388)
+- 2013-10-10 — Senate amendment proposed (on the floor): Amendment SA 2002 proposed by Senator Reid for Senator Levin.(consideration: CR S7388; text: CR S7388)
+- 2013-10-10 — Senate amendment proposed (on the floor): Amendment SA 2003 proposed by Senator Reid for Senator Levin.(consideration: CR S7388 text: CR S7388)
+- 2013-10-10 — Senate amendment submitted
+- 2013-10-10 — Senate amendment submitted

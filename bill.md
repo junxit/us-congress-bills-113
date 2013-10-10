@@ -2,21 +2,24 @@
 legis-num: H. CON. RES. 58
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H. CON. RES. 58
 
-> Expressing the sense of Congress regarding the need for the continued availability of religious services to members of the Armed Forces and their families during a lapse in appropriations.
-
 ## Preamble
 
-- Whereas the Department of Defense has determined that some military chaplains and other personnel, including contract personnel, hired to perform duties of a military chaplain are not able to perform religious services on military installations during a lapse in appropriations;
-- Whereas this determination threatens the ability of members of the Armed Services and their families to exercise their First Amendment rights to worship and participate in religious activities; and
-- Whereas the Department of the Interior has permitted the performance of First Amendment activities in areas controlled by the National Park Service despite the lapse in appropriations: Now, therefore, be it
+- Whereas the Department of Defense determined that some contractor clergy, like other Department of Defense contractors, were unable to perform their contractual duties during the current lapse in appropriations;
+- Whereas this determination may have impacted the ability of members of the Armed Forces and their families to worship and participate in religious activities;
+- Whereas military chaplains on active duty, like all military personnel on active duty, continue to perform their duties during the current lapse in appropriations;
+- Whereas the Department continues to analyze its authorities under the Pay Our Military Act (Public Law 113–39) with respect to contractors; and
+- Whereas the Pay Our Military Act appropriates such sums as are necessary to pay contractors of the Department whom the Secretary of Defense determines are providing support to members of the Armed Forces: Now, therefore, be it
 
-That Congress—
+That the resolution from the House of Representatives (H. Con. Res. 58) entitled “Concurrent resolution expressing the sense of Congress regarding the need for the continued availability of religious services to members of the Armed Forces and their families during a lapse in appropriations.”, do pass with the following
 
-- **(1)** recognizes that the performance of religious services and the provision of ministry are protected activities under the First Amendment of the United States Constitution;
-- **(2)** urges and intends that the Secretary of Defense permit the performance of religious services on property owned or maintained by the Department of Defense, during any lapse in appropriations, in the same manner and to the same extent as such religious services are otherwise available; and
-- **(3)** urges and intends that the Secretary of Defense permit military chaplains and other personnel, including contract personnel, hired to perform duties of a military chaplain to perform religious services and ministry, during any lapse in appropriations, in the same manner and to the same extent as such chaplains and other personnel are otherwise permitted to perform religious services and ministry.
+*(1)Strike the preamble and insert the following:*
+
+*(2)On page 2, strike line 3 and all that follows through page 3, line 2, and insert the following:*
+
+- **(1)** finds that the provision and availability of religious services and clergy is important to the morale and wellbeing of many members of the Armed Forces and their families; and
+- **(2)** hopes the Secretary of Defense is able to determine that contractor clergy provide necessary support to military personnel, and would therefore be covered under the appropriations made available under the Pay Our Military Act (Public Law 113–39).
