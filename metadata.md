@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 90
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 90
@@ -43,3 +43,4 @@ Federal Aviation Administration Continuing Appropriations Resolution, 2014
 - 2013-10-09 — Passed/agreed to in House: On passage Passed by recorded vote: 252 - 172 (Roll no. 537).(text: CR H6435)
 - 2013-10-09 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2013-10-09 — The previous question was ordered pursuant to the rule. (consideration: CR H6439)
+- 2013-10-10 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 215.
