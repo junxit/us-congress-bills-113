@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 91
 congress: 113
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 91
