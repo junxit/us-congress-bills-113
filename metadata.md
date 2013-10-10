@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 58
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 58
@@ -53,3 +53,8 @@ Expressing the sense of Congress regarding the need for the continued availabili
 - 2013-10-10 — Senate amendment proposed (on the floor): Amendment SA 2003 proposed by Senator Reid for Senator Levin.(consideration: CR S7388 text: CR S7388)
 - 2013-10-10 — Senate amendment submitted
 - 2013-10-10 — Senate amendment submitted
+- 2013-10-11 — Message on Senate action sent to the House.
+- 2013-10-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-10-16 — Mr. Collins (GA) asked unanimous consent that the House agree to the Senate amendments. (consideration: CR H6642)
+- 2013-10-16 — On motion that the House agree to the Senate amendments Agreed to without objection. (text as House agreed to Senate amendment: CR H6642)
+- 2013-10-16 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to without objection.(text as House agreed to Senate amendment: CR H6642)

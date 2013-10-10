@@ -1,11 +1,13 @@
 ---
 legis-num: H. CON. RES. 58
-congress: 113th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H. CON. RES. 58
+
+> Expressing the sense of Congress regarding the need for the continued availability of religious services to members of the Armed Forces and their families during a lapse in appropriations.
 
 ## Preamble
 
@@ -15,11 +17,7 @@ chamber: In the Senate of the United States,
 - Whereas the Department continues to analyze its authorities under the Pay Our Military Act (Public Law 113–39) with respect to contractors; and
 - Whereas the Pay Our Military Act appropriates such sums as are necessary to pay contractors of the Department whom the Secretary of Defense determines are providing support to members of the Armed Forces: Now, therefore, be it
 
-That the resolution from the House of Representatives (H. Con. Res. 58) entitled “Concurrent resolution expressing the sense of Congress regarding the need for the continued availability of religious services to members of the Armed Forces and their families during a lapse in appropriations.”, do pass with the following
-
-*(1)Strike the preamble and insert the following:*
-
-*(2)On page 2, strike line 3 and all that follows through page 3, line 2, and insert the following:*
+That Congress—
 
 - **(1)** finds that the provision and availability of religious services and clergy is important to the morale and wellbeing of many members of the Armed Forces and their families; and
 - **(2)** hopes the Secretary of Defense is able to determine that contractor clergy provide necessary support to military personnel, and would therefore be covered under the appropriations made available under the Pay Our Military Act (Public Law 113–39).
