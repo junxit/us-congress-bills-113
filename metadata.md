@@ -1,7 +1,7 @@
 ---
 measure: S. 1094
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1094
@@ -39,3 +39,8 @@ Strengthening America's Schools Act of 2013
 - 2013-06-04 — Introduced in Senate
 - 2013-06-04 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
 - 2013-06-04 — Sponsor introductory remarks on measure. (CR S3957-3958)
+- 2013-06-11 — Committee on Health, Education, Labor, and Pensions. Committee consideration and Mark Up Session held.
+- 2013-06-12 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with amendments favorably.
+- 2013-10-11 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. With written report No. 113-113. Additional views filed.
+- 2013-10-11 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. With written report No. 113-113. Additional views filed.
+- 2013-10-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 218.
