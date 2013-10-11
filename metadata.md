@@ -1,7 +1,7 @@
 ---
 measure: S. 1276
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1276
@@ -27,9 +27,10 @@ Security Clearance Oversight and Reform Enhancement Act
 - Sen. Begich, Mark [D-AK] (B001265)
 - Sen. Coburn, Tom [R-OK] (C000560)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -47,3 +48,6 @@ Security Clearance Oversight and Reform Enhancement Act
 - 2013-10-10 — Senate amendment agreed to: Amendment SA 2001 agreed to in Senate by Unanimous Consent.
 - 2013-10-10 — Senate amendment proposed (on the floor): Amendment SA 2001 proposed by Senator Reid for Senator Carper.(consideration: CR S7387; text: CR S7387)
 - 2013-10-10 — Senate amendment submitted
+- 2013-10-11 — Message on Senate action sent to the House.
+- 2013-10-11 — Received in the House.
+- 2013-10-11 — Referred to the House Committee on Oversight and Government Reform.
