@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 79
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 79
@@ -46,3 +46,5 @@ Border Security and Enforcement Continuing Appropriations Resolution, 2014
 - 2013-10-10 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 249 - 175 (Roll no. 540).(text: CR H6466)
 - 2013-10-10 — Point of order sustained against the motion to recommit with instructions.
 - 2013-10-10 — The previous question was ordered pursuant to the rule. (consideration: CR S6471)
+- 2013-10-11 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2013-10-12 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 219.
