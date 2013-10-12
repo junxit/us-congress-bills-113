@@ -1,7 +1,7 @@
 ---
 measure: S. 812
 congress: 113
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 812
@@ -28,3 +28,8 @@ A bill to authorize the Secretary of the Interior to take actions to implement t
 
 - 2013-04-25 — Introduced in Senate
 - 2013-04-25 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-10-01 — Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 113-104.
+- 2013-10-12 — Passed Senate without amendment by Unanimous Consent. (text: CR S7431)
+- 2013-10-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S7431)
+- 2013-10-12 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S7431)
+- 2013-10-12 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S7431)
