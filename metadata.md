@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 76
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 76
@@ -45,3 +45,5 @@ Emergency Supplemental Appropriations Resolution, 2014
 - 2013-10-11 — Passed/agreed to in House: On passage Passed by recorded vote: 248 - 176 (Roll no. 542).(text: CR H6497)
 - 2013-10-11 — Point of order sustained against the motion to recommit with instructions.
 - 2013-10-11 — The previous question was ordered pursuant to the rule. (consideration: CR H6502)
+- 2013-10-12 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2013-10-13 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 220.
