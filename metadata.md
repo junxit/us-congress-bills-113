@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3190
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3190
@@ -32,3 +32,10 @@ United States Parole Commission Extension Act of 2013
 - 2013-09-26 — Introduced in House
 - 2013-09-26 — Introduced in House
 - 2013-09-26 — Referred to the House Committee on the Judiciary.
+- 2013-10-14 — Committee on Judiciary discharged.
+- 2013-10-14 — Committee on Judiciary discharged.
+- 2013-10-14 — Considered by unanimous consent. (consideration: CR H6579-6580)
+- 2013-10-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-10-14 — Mr. Goodlatte asked unanimous consent to discharge from committee and consider.
+- 2013-10-14 — On passage Passed without objection. (text: CR H6579-6580)
+- 2013-10-14 — Passed/agreed to in House: On passage Passed without objection.(text: CR H6579-6580)
