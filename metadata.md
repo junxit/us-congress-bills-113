@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3190
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3190
@@ -41,3 +41,12 @@ United States Parole Commission Extension Act of 2013
 - 2013-10-14 — Passed/agreed to in House: On passage Passed without objection.(text: CR H6579-6580)
 - 2013-10-15 — Received in the Senate, read twice.
 - 2013-10-15 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2013-10-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7685)
+- 2013-10-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7685)
+- 2013-10-31 — Became Public Law No: 113-47.
+- 2013-10-31 — Became Public Law No: 113-47.
+- 2013-10-31 — Message on Senate action sent to the House.
+- 2013-10-31 — Presented to President.
+- 2013-10-31 — Presented to President.
+- 2013-10-31 — Signed by President.
+- 2013-10-31 — Signed by President.
