@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2775
 congress: 113
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2775
@@ -16,7 +16,7 @@ Continuing Appropriations Act, 2014
 
 - Rep. Black, Diane [R-TN-6] (B001273)
 
-## Cosponsors (104)
+## Cosponsors (105)
 
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 - Rep. Meadows, Mark [R-NC-11] (M001187)
@@ -122,15 +122,19 @@ Continuing Appropriations Act, 2014
 - Rep. Aderholt, Robert B. [R-AL-4] (A000055)
 - Rep. Yoho, Ted S. [R-FL-3] (Y000065)
 - Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
 
 ## Committees (2)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
 
-## Recorded votes (1)
+## Recorded votes (4)
 
 - 2013-09-12 — [House 113-1-458](votes/house-113-1-0458.md) — On Passage — **Passed** (235–191)
+- 2013-10-16 — [House 113-1-550](votes/house-113-1-0550.md) — On Motion to Concur in the Senate Amendments — **Passed** (285–144)
+- 2013-10-16 — [Senate 113-1-218](votes/senate-113-1-0218.md) — On the Cloture Motion — **Cloture Motion Agreed to** (83–16)
+- 2013-10-16 — [Senate 113-1-219](votes/senate-113-1-0219.md) — On Passage of the Bill — **Bill Passed** (81–18)
 
 ## Actions
 
@@ -153,3 +157,28 @@ Continuing Appropriations Act, 2014
 - 2013-09-16 — Received in the Senate.
 - 2013-09-17 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2013-09-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 193.
+- 2013-10-16 — Amendment SA 2004 agreed to in Senate by Unanimous Consent.
+- 2013-10-16 — Amendment SA 2004 proposed by Senator Reid. (consideration: CR S7531) In the nature of a substitute.
+- 2013-10-16 — Amendment SA 2005 agreed to in Senate by Unanimous Consent.
+- 2013-10-16 — Amendment SA 2005 proposed by Senator Reid. (consideration: CR S7532; text: CR S7532) To amend the title.
+- 2013-10-16 — Cloture motion on the measure presented in Senate. (consideration: CR S7531-7532; text: CR S7532)
+- 2013-10-16 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 83 - 16. Record Vote Number: 218.
+- 2013-10-16 — DEBATE - The House began one hour of debate on the Senate amendments to H.R. 2775.
+- 2013-10-16 — Measure laid before Senate by unanimous consent. (consideration: CR S7531-7532)
+- 2013-10-16 — Message on Senate action sent to the House.
+- 2013-10-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-10-16 — On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 285 - 144 (Roll no. 550). (text as House agreed to Senate amendment: CR H6616-6620)
+- 2013-10-16 — Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 81 - 18. Record Vote Number: 219.
+- 2013-10-16 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 81 - 18. Record Vote Number: 219.
+- 2013-10-16 — Presented to President.
+- 2013-10-16 — Presented to President.
+- 2013-10-16 — Pursuant to a previous special order the House moved to agree to the Senate amendments. (consideration: CR H6616-6626)
+- 2013-10-16 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 285 - 144 (Roll no. 550).(text as House agreed to Senate amendment: CR H6616-6620)
+- 2013-10-16 — Senate amendment agreed to: Amendment SA 2004 agreed to in Senate by Unanimous Consent.
+- 2013-10-16 — Senate amendment agreed to: Amendment SA 2005 agreed to in Senate by Unanimous Consent.
+- 2013-10-16 — Senate amendment proposed (on the floor): Amendment SA 2004 proposed by Senator Reid.(consideration: CR S7531)
+- 2013-10-16 — Senate amendment proposed (on the floor): Amendment SA 2005 proposed by Senator Reid.(consideration: CR S7532; text: CR S7532)
+- 2013-10-16 — Senate amendment proposed (on the floor): Amendment SA 2005 proposed by Senator Reid.(consideration: CR S7532; text: CR S7532)
+- 2013-10-16 — Senate amendment submitted
+- 2013-10-16 — Senate amendment submitted
+- 2013-10-16 — The previous question was ordered pursuant to a previous special order. (consideration: CR H6625)
