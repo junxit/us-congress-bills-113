@@ -1,12 +1,12 @@
 ---
 legis-num: H.R. 2775
-congress: 113th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 2775
 
-That the bill from the House of Representatives (H.R. 2775) entitled “An Act to condition the provision of premium and cost-sharing subsidies under the Patient Protection and Affordable Care Act upon a certification that a program to verify household income and other qualifications for such subsidies is operational, and for other purposes.”, do pass with the following
+> Making continuing appropriations for the fiscal year ending September 30, 2014, and for other purposes.
 
-*Strike all after the enacting clause and insert the following:*
+The following sums are hereby appropriated, out of any money in the Treasury not otherwise appropriated, and out of applicable corporate or other revenues, receipts, and funds, for the several departments, agencies, corporations, and other organizational units of Government for fiscal year 2014, and for other purposes, namely:

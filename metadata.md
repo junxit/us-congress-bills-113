@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2775
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2775
@@ -182,3 +182,7 @@ Continuing Appropriations Act, 2014
 - 2013-10-16 — Senate amendment submitted
 - 2013-10-16 — Senate amendment submitted
 - 2013-10-16 — The previous question was ordered pursuant to a previous special order. (consideration: CR H6625)
+- 2013-10-17 — Became Public Law No: 113-46.
+- 2013-10-17 — Became Public Law No: 113-46.
+- 2013-10-17 — Signed by President.
+- 2013-10-17 — Signed by President.
