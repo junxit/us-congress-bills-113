@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 25
 congress: 113
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.Con.Res. 25
@@ -100,3 +100,14 @@ Establishing the budget for the United States Government for fiscal year 2014 an
 - 2013-03-21 — The House rose from the Committee of the Whole House on the state of the Union to report H. Con. Res. 25.
 - 2013-03-21 — The previous question was ordered pursuant to the rule. (consideration: CR H1801)
 - 2013-03-22 — Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 33.
+- 2013-10-16 — Amendment SA 2006 agreed to in Senate by Unanimous Consent.
+- 2013-10-16 — Amendment SA 2006 proposed by Senator Murray. (consideration: CR S7532) In the nature of a substitute.
+- 2013-10-16 — Measure laid before Senate by unanimous consent. (consideration: CR S7532)
+- 2013-10-16 — Ordered held at desk by unanimous consent. Pursuant to the order of 10/16/2013.
+- 2013-10-16 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment by Unanimous Consent.
+- 2013-10-16 — Resolution agreed to in Senate with an amendment by Unanimous Consent.
+- 2013-10-16 — See also S.Con.Res. 8.
+- 2013-10-16 — Senate amendment agreed to: Amendment SA 2006 agreed to in Senate by Unanimous Consent.
+- 2013-10-16 — Senate amendment proposed (on the floor): Amendment SA 2006 proposed by Senator Murray.(consideration: CR S7532)
+- 2013-10-16 — Senate amendment submitted
+- 2013-10-16 — Senate insisted on its amendment, requested a conference.
