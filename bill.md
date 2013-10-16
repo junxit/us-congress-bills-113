@@ -13,10 +13,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Demanding Accountability for Veterans Act of 2013”.
 
-## § 2. Accountability of Secretary of Veterans Affairs to Inspector General of the Department of Veterans Affairs
+## § 2. Scoring of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+
+## § 3. Accountability of Secretary of Veterans Affairs to Inspector General of the Department of Veterans Affairs
 
 - **(a)** *In general* Chapter 7 of title 38, United States Code, is amended by adding at the end the following new section:
-  > ## § 712. Accountability of Secretary to Inspector General.
+  > ## § 712. Accountability of Secretary to Inspector General
   >
   > - **(a)** *List of managers*
   >   - **(1)** If the Inspector General of the Department of Veterans Affairs determines that the Secretary has not appropriately responded with significant progress to a covered report by the date specified in the action plan of the Secretary developed in response to such covered report—
@@ -25,11 +29,11 @@ This Act may be cited as the “Demanding Accountability for Veterans Act of 201
   >   - **(2)** The Inspector General may not make public the names of responsible managers submitted under paragraph (1)(B).
   > - **(b)** *Performance of responsible managers*
   >   - **(1)** The Secretary shall—
-  >     - **(A)** promptly notify each responsible manager of a covered issue by not later than seven days after the date on which the Secretary submits to the Inspector General the name of the manager under subsection (a)(2);
+  >     - **(A)** promptly notify each responsible manager of a covered issue by not later than seven days after the date on which the Secretary submits to the Inspector General the name of the manager under subsection (a)(1)(B);
   >     - **(B)** direct such manager to resolve such issue; and
   >     - **(C)** provide such manager with appropriate counseling and a mitigation plan with respect to resolving such issue.
   >   - **(2)** The Secretary shall ensure that any performance review of a responsible manager includes an evaluation of whether the manager took appropriate actions during the period covered by the review to respond to the covered issue for which a request was made under subsection (a).
-  >   - **(3)** The Secretary may not pay to a responsible manager any bonus or award, including a performance award under section 5384 of title 5, United States Code, if the covered issue for which a request was made under subsection (a) is unresolved.
+  >   - **(3)** The Secretary may not pay to a responsible manager any bonus or award, including a performance award under section 5384 of title 5 if the covered issue for which a request was made under subsection (a) is unresolved.
   > - **(c)** *Role of Inspector General* Any authority of the Inspector General provided under this section is in addition to any responsibility or authority provided to the Inspector General in the Inspector General Act of 1978 (5 U.S.C. App).
   > - **(d)** *Definitions* In this section:
   >   - **(1)** The term covered issue means, with respect to a responsible manager, an issue described in a covered report for which the manager is or was responsible.
@@ -40,3 +44,59 @@ This Act may be cited as the “Demanding Accountability for Veterans Act of 201
   >     - **(C)** in being so responsible, is or was employed in a management position, regardless of whether the employee is in the competitive civil service, Senior Executive Service, or other type of civil service.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 711 the following new item:
+
+## § 4. Secretary of Veterans Affairs contract authority for transfer of veterans non-Department medical foster homes
+
+- **(a)** *Authority* Section 1720 of title 38, United States Code, is amended by adding at the end the following new subsection:
+  > - **(h)**
+  >   - **(1)** During the three-year period beginning on October 1, 2014, at the request of a veteran for whom the Secretary is required to provide nursing home care under section 1710A of this title, the Secretary may transfer the veteran to a medical foster home that meets Department standards, at the expense of the United States, pursuant to a contract or agreement entered into between the Secretary and the medical foster home for such purpose. A veteran who is transferred to a medical foster home under this subsection shall agree, as a condition of such transfer, to accept home health services furnished by the Secretary under section 1717 of this title.
+  >   - **(2)** For purposes of this subsection, the term medical foster home means a home designed to provide non-institutional, long-term, supportive care for veterans who are unable to live independently and prefer a family setting.
+
+- **(b)** *Effective date* Subsection (h) of title 38, United States Code, as added by subsection (a), shall take effect on October 1, 2014.
+
+## § 5. Conditions on the award of per diem payments by the Secretary of Veterans Affairs for the provision of housing or services to homeless veterans
+
+- **(a)** *Condition*
+  - **(1)** *In general* Paragraph (1) of section 2012(c) of title 38, United States Code, is amended to read as follows:
+    > - **(1)** Except as provided in paragraph (2), a per diem payment may not be provided under this section to a grant recipient or eligible entity unless the entity submits to the Secretary an annual certification, approved or verified by the authority having jurisdiction or a qualified third party, as determined by the Secretary, that the facility where the entity provides housing or services for homeless veterans using grant funds is in compliance with codes relevant to the operations and level of care provided, including applicable provisions of the most recently published version of the Life Safety Code or International Building Code and International Fire Code (or such versions of such codes that have been adopted as State or local codes by the jurisdiction in which the facility is located), licensing requirements, fire and safety requirements, and any other requirements in the jurisdiction in which the facility is located regarding the condition of the facility and the operation of the entity providing such supportive housing or services. For purposes of this paragraph, if a facility where a grant recipient or eligible entity provides housing or services for homeless veterans using grant funds is located in a jurisdiction without relevant code requirements, the Secretary shall determine code and inspection requirements to be applied to the facility.
+
+  - **(2)** *Effective date* The amendment made by paragraph (1) shall apply with respect to an application for a per diem payment under section 2012 of title 38, United States Code, submitted on or after the date of the enactment of this Act.
+- **(b)** *Annual report* Section 2065(b) of title 38, United States Code, is amended—
+  - **(1)** by redesignating paragraph (6) as paragraph (7); and
+  - **(2)** by inserting after paragraph (5) the following new paragraph (6):
+    > - **(6)** The Secretary’s evaluation of the safety and accessibility of facilities used to provide programs established by grant recipients or eligible entities under section 2011 and 2012 of this title, including the number of such grant recipients or eligible entities who have submitted a certification under section 2012(c)(1).
+
+- **(c)** *Treatment of current recipients* In the case of the recipient of a per diem payment under section 2012 of title 38, United States Code, that receives such a payment during the year in which this Act is enacted, the Secretary of Veterans Affairs shall require the recipient to submit the certification required under section 2012(c)(1) of such title, as amended by subsection (a)(1), by not later than two years after the date of the enactment of this Act. If the recipient fails to submit such certification by such date, the Secretary may not make any additional per diem payments to the recipient under such section 2012 until the recipient submits such certification.
+
+## § 6. Extension of loan guaranty fee for certain subsequent loans
+
+- **(a)** *Extension* Section 3729(b)(2) of title 38, United States Code, is amended—
+  - **(1)** in subparagraph (A)—
+    - **(A)** in clause (iii), by striking “October 1, 2017” and inserting “October 1, 2018”; and
+    - **(B)** in clause (iv), by striking “October 1, 2017” and inserting “October 1, 2018”;
+  - **(2)** in subparagraph (C)—
+    - **(A)** in clause (i), by striking “October 1, 2017” and inserting “October 1, 2018”; and
+    - **(B)** in clause (ii), by striking “October 1, 2017” and inserting “October 1, 2018”; and
+  - **(3)** in subparagraph (D)—
+    - **(A)** in clause (i), by striking “October 1, 2017” and inserting “October 1, 2018”; and
+    - **(B)** in clause (ii), by striking “October 1, 2017” and inserting “October 1, 2018”.
+
+## § 7. Land conveyance, Department of Veterans Affairs property, Tuskegee, Alabama
+
+- **(a)** *Findings* Congress makes the following findings:
+  - **(1)** In 1922, Tuskegee University voted to donate three hundred acres of land to the United States to build a veterans’ hospital, a portion of which is described in subsection (b).
+  - **(2)** The property is administered by the Department of Veterans Affairs and has been used as space for the Tuskegee Veteran’s Hospital.
+  - **(3)** Tuskegee University (hereinafter referred to as the “University”) is a State-related land grant institution of higher learning that intends to use the property described in subsection (b) to further the education and general welfare of its students.
+  - **(4)** As provided in subsection (b), the conveyance of the property to the University would promote the University’s educational mission and related purposes and result in savings to the Federal Government.
+- **(b)** *Conveyance authorized* The Secretary of Veterans Affairs shall, without consideration, convey all right, title, and interest of the United States in and to a parcel of real property, including improvements thereon, consisting of approximately 64.5 acres located at 2400 Hospital Road, Tuskegee, Alabama, including building numbers 19–29, 50–51, 59–60, 62–63, 80, 94, 96, and 124, to Tuskegee University, for the purpose of permitting Tuskegee University to use the property to further the education and general welfare of its students. In carrying out the conveyance under this subsection, the Secretary may survey all or a portion of the property to be conveyed if the Secretary determines such a survey would be necessary or desirable.
+- **(c)** *Hazardous substances* Notwithstanding section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)) or the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.), in the conveyance of the property under subsection (b), the Secretary shall be only required to meet the disclosure requirements for hazardous substances, pollutants, and contaminants, but otherwise shall not be required to remediate or abate the release of any hazardous substance, pollutant, or contaminant, including petroleum and petroleum derivatives.
+- **(d)** *Cooperative authority*
+  - **(1)** *Leases, contracts, and cooperative agreements authorized* In conjunction with, or in addition to, the conveyance under subsection (b), the Secretary may enter into leases, contracts, and cooperative agreements with the University related to the conveyance authorized under subsection (b).
+  - **(2)** *Sole source* Notwithstanding division C of subtitle I of title 41, United States Code, or any other provision of law, the Secretary may lease real property from the University on a noncompetitive basis.
+  - **(3)** *Non-exclusive authority* The authority provided by this subsection is in addition to any other authority of the Secretary.
+- **(e)** *Additional terms and conditions* The Secretary may require such reasonable terms and conditions in connection with the conveyance under subsection (b) as the Secretary considers appropriate to protect the interests of the United States, except that the conveyance may not require further administrative or environmental analyses or examination.
+- **(f)** *Limitation* The Secretary may not make the conveyance under subsection (b) before October 1, 2014.
+
+## § 8. Extension of authority of Secretary of Veterans Affairs to obtain certain information from the Secretary of the Treasury or the Commissioner of Social Security
+
+Section 5317 of title 38, United States Code, is amended by striking “September 30, 2016” and inserting “May 31, 2017”.
