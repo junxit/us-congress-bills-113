@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 8
 congress: 113
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S.Con.Res. 8
@@ -1906,3 +1906,17 @@ An original concurrent resolution setting forth the congressional budget for the
 - 2013-03-23 — Senate amendment proposed (on the floor): Amendment SA 702 proposed by Senator Murray for Senator Cruz.(consideration: CR S2311-2319; text: CR S2312)
 - 2013-03-23 — Senate amendment proposed (on the floor): Amendment SA 709 proposed by Senator Murray for Senator Coburn.(consideration: CR S2311-2319)
 - 2013-03-23 — Senate amendment proposed (on the floor): Amendment SA 710 proposed by Senator Murray for Senator Leahy.(consideration: CR S2311-2319; text: CR S2313)
+- 2013-04-15 — Held at the desk.
+- 2013-04-15 — Message on Senate action sent to the House.
+- 2013-04-15 — Received in the House.
+- 2013-10-16 — Considered pursuant to a previous order of the House. (consideration: CR H6626-6642; text as received in House: CR H6626-6641)
+- 2013-10-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-10-16 — ORDER OF PROCEDURE - Mr. Ryan (WI) asked unanimous consent that the House be considered to have taken from the Speakers table S. Con. Res. 8; adopted an amendment in the nature of a substitute consisting of the text of H. Con. Res. 25, as adopted by the House; adopted such concurrent resolution, as amended; insisted on its amendment; and requested a conference with the Senate thereon; and during the remainder of the 113th Congress, it shall not be in order to offer a motion under clause 7(c) of rule 22 with respect to S. Con. Res. 8. Agreed to without objection.
+- 2013-10-16 — On agreeing to the resolution Agreed to without objection.
+- 2013-10-16 — On motion that the House insist upon its amendment, and request a conference Agreed to pursuant to a previous order of the House. (consideration: CR H6626)
+- 2013-10-16 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
+- 2013-10-16 — Pursuant to a previous special order, the House insisted on its amendment and requested a conference.
+- 2013-10-16 — See also H.Con.Res. 25.
+- 2013-10-16 — Senate disagreed to House amendment, agreed to request for conference, and appointed conferees. Murray; Wyden; Nelson; Stabenow; Sanders; Whitehouse; Warner; Merkley; Coons; Baldwin; Kaine; King; Sessions; Grassley; Enzi; Crapo; Graham; Portman; Toomey; Johnson WI; Ayotte; Wicker. Pursuant to the order of 10/16/2013. (consideration: CR S7531, S7560)
+- 2013-10-16 — The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H. Con. Res. 25. Agreed to without objection.
+- 2013-10-16 — The Speaker appointed conferees: Ryan (WI), Cole, Price (GA), Black, Van Hollen, Clyburn, and Lowey.
