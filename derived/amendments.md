@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3080
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-65 amendatory instructions. 12 executed, 53 stated and not applied.
+68 amendatory instructions. 14 executed, 54 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -80,21 +80,30 @@ to guess them.
 
 ### 33 U.S.C. § 2328
 
-> in subsection (a) by striking “managing recreational facilities” and inserting “operating, maintaining, and managing inland navigational facilities, recreational facilities,”; and
+> in subsection (a) by striking “managing recreation facilities” and inserting “operating, maintaining, and managing inland navigational facilities, recreational facilities,”; and
 
 | | |
 |---|---|
-| Removed | `managing recreational facilities` |
+| Removed | `managing recreation facilities` |
 | Inserted | `operating, maintaining, and managing inland navigational facilities, recreational facilities,` |
 
 ### 33 U.S.C. § 2328
 
-> in subsection (b) by striking “and management of recreational facilities” and inserting “, maintenance, and management of inland navigation facilities, recreational facilities,”.
+> in subsection (b) by striking “and management of recreation facilities” and inserting “, maintenance, and management of inland navigation facilities, recreational facilities,”.
 
 | | |
 |---|---|
-| Removed | `and management of recreational facilities` |
+| Removed | `and management of recreation facilities` |
 | Inserted | `, maintenance, and management of inland navigation facilities, recreational facilities,` |
+
+### 33 U.S.C. § 2280
+
+> by striking “In order to insure” and inserting “(a) In general.—In order to insure”; and
+
+| | |
+|---|---|
+| Removed | `In order to insure` |
+| Inserted | `(a) In general.—In order to insure` |
 
 ### 33 U.S.C. § 2340
 
@@ -132,6 +141,15 @@ to guess them.
 | Removed | `or maintenance` |
 | Inserted | `maintenance, condition, or provision for emergency operations` |
 
+### 33 U.S.C. § 2310
+
+> by striking “The Secretary shall waive” and inserting “(a) In general.—The Secretary shall waive”; and
+
+| | |
+|---|---|
+| Removed | `The Secretary shall waive` |
+| Inserted | `(a) In general.—The Secretary shall waive` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -156,11 +174,9 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 701b-13` | strike | in subparagraph (B) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 701b-13` | replace | in subparagraph (C) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 701b-13` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 701b-13` | redesignate | by striking paragraph (2) and redesignating paragraphs (3), (4), (5), and (6) as paragraphs (2), (3), (4), and (5), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1962d-5b` | redesignate | by striking subparagraph (B) and redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1962d-5b` | insert | by inserting before the period at the end the following: “, or toward the non-Federal share of any other authorized water resources development study or project of such non-Federal interest”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 701b-13` | strike | by striking subsections (f) and (g); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 2211` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 701b-13` | add-at-end | Section 211 of such Act (33 U.S.C. 701b–13) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2232` | repeal | The following provisions are repealed: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 701h` | strike | by striking “, which includes planning and design”; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 701h` | insert | by inserting “, including a project for navigation on the inland waterways,” after “study or project”; | the bill quotes the text inserted but describes where it goes |
@@ -169,6 +185,7 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 560` | repeal | The following provisions are repealed: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2328` | replace | by striking the section designation and heading and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2328` | replace | The table of contents contained in section 1(b) of the Water Resources Development Act of 1992 is amended by striking the item relating to section 225 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 701h` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2269` | replace | by striking “The ability” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 2269` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2269` | replace | by striking subsection (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -187,6 +204,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1962d-16` | redesignate | Section 22 of the Water Resources Development Act of 1974 (42 U.S.C. 1962d–16) is amended by redesignating subsection (e) as subsection (f) and inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2326` | add-at-end | Section 204(a) of the Water Resources Development Act of 1992 (33 U.S.C. 2326(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 1105` | add-at-end | Section 5019 of the Water Resources Development Act of 2007 (121 Stat. 1201) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 610` | insert | Section 104(a) of the River and Harbor Act of 1958 (33 U.S.C. 610(a)) is amended by inserting “and aquatic invasive species” after “noxious aquatic plant growths”. | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 2310` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 9505` | strike | Section 9505(c)(1) of the Internal Revenue Code of 1986 is amended by striking “(as in effect on the date of the enactment of the Water Resources Development Act of 1996)”. | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 2238` | add-at-end | Section 210 of the Water Resources Development Act of 1986 (33 U.S.C. 2238) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2238` | add-at-end | Section 210 of such Act (33 U.S.C. 2238) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
