@@ -1,7 +1,7 @@
 ---
 measure: H.R. 623
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 623
@@ -27,3 +27,14 @@ Alaska Native Tribal Health Consortium Land Transfer Act
 - 2013-02-12 — Introduced in House
 - 2013-02-12 — Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-02-12 — Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-02-15 — Referred to the Subcommittee on Health.
+- 2013-02-21 — Referred to the Subcommittee Indian and Alaska Native Affairs.
+- 2013-05-16 — Subcommittee Hearings Held.
+- 2013-07-31 — Committee Consideration and Mark-up Session Held.
+- 2013-07-31 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2013-07-31 — Subcommittee Indian and Alaska Native Affairs Discharged.
+- 2013-10-22 — Committee on Energy and Commerce discharged.
+- 2013-10-22 — Committee on Energy and Commerce discharged.
+- 2013-10-22 — Placed on the Union Calendar, Calendar No. 176.
+- 2013-10-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-248, Part I.
+- 2013-10-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-248, Part I.
