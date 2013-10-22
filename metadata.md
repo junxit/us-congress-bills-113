@@ -1,7 +1,7 @@
 ---
 measure: H.R. 185
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 185
@@ -52,6 +52,10 @@ To designate the United States courthouse located at 101 East Pecan Street in Sh
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2013-10-22 — [House 113-1-551](votes/house-113-1-0551.md) — On Motion to Suspend the Rules and Pass — **Passed** (402–1)
+
 ## Actions
 
 - 2013-01-04 — Introduced in House
@@ -64,3 +68,10 @@ To designate the United States courthouse located at 101 East Pecan Street in Sh
 - 2013-09-27 — Placed on the House Calendar, Calendar No. 57.
 - 2013-09-27 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-232.
 - 2013-09-27 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-232.
+- 2013-10-22 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-10-22 — Considered as unfinished business. (consideration: CR H6658-6659)
+- 2013-10-22 — Considered under suspension of the rules. (consideration: CR H6646-6647)
+- 2013-10-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 185.
+- 2013-10-22 — Mr. Barletta moved to suspend the rules and pass the bill.
+- 2013-10-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 1 (Roll no. 551). (text: CR H6646)
+- 2013-10-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 1 (Roll no. 551).(text: CR H6646)
