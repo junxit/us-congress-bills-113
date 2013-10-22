@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2083
 
-> To amend the Elementary and Secondary Education Act of 1965 to require criminal background checks for school employees.
+> To require State educational agencies that receive funding under the Elementary and Secondary Education Act of 1965 to have in effect policies and procedures on background checks for school employees.
 
 ## § 1. Short title
 
@@ -15,44 +15,38 @@ This Act may be cited as the “Protecting Students from Sexual and Violent Pred
 
 ## § 2. Background checks
 
-Subpart 2 of part E of title IX of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7901 et seq.) is amended by adding at the end the following:
-
-> ## § 9537. Background checks
->
-> - **(a)** *Background checks* Each State educational agency that receives funds under this Act shall have in effect policies and procedures that—
->   - **(1)** require that criminal background checks be conducted for each school employee that include—
->     - **(A)** a search of the State criminal registry or repository in the State in which the school employee resides and each State in which the school employee previously resided;
->     - **(B)** a search of State-based child abuse and neglect registries and databases in the State in which the school employee resides and each State in which the school employee previously resided;
->     - **(C)** a Federal Bureau of Investigation fingerprint check using the Integrated Automated Fingerprint Identification System; and
->     - **(D)** a search of the National Sex Offender Registry established under section 19 of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16919);
->   - **(2)** prohibit the employment of an individual as a school employee if such individual—
->     - **(A)** refuses to consent to a criminal background check under paragraph (1);
->     - **(B)** makes a false statement in connection with such criminal background check;
->     - **(C)** has been convicted of a felony consisting of—
->       - **(i)** homicide;
->       - **(ii)** child abuse or neglect;
->       - **(iii)** a crime against children, including child pornography;
->       - **(iv)** spousal abuse;
->       - **(v)** a crime involving rape or sexual assault;
->       - **(vi)** kidnapping;
->       - **(vii)** arson; or
->       - **(viii)** physical assault, battery, or a drug-related offense, committed within 5 years of the completion of such individual’s criminal background check under paragraph (1); or
->     - **(D)** has been convicted of any other crime that is a violent or sexual crime against a minor;
->   - **(3)** require that a local educational agency or State educational agency that receives information from a criminal background check conducted paragraph (1) that an individual who has applied for employment as a school employee with such agency is a sexual predator, report to local law enforcement that such individual has so applied;
->   - **(4)** require that criminal background checks conducted under paragraph (1) be periodically repeated or updated in accordance with State law or local educational policy, but not less than once every 5 years;
->   - **(5)** require that each school employee who has had a criminal background check under paragraph (1) be provided with a copy of the background check; and
->   - **(6)** provide for a timely process by which a school employee may appeal, but which does not permit the school employee to be employed as a school employee during such appeal, the results of a criminal background check conducted under paragraph (1) to—
->     - **(A)** challenge the accuracy or completeness of the information produced by such background check; and
->     - **(B)** seek appropriate relief for any final employment decision based on materially inaccurate or incomplete information produced by such background check.
-> - **(b)** *Inventory authorized* A State educational agency may maintain an inventory of all the information from criminal background checks conducted under subsection (a)(1) on school employees in the State.
-> - **(c)** *Definitions* In this section:
->   - **(1)** *School Employee* The term school employee means—
->     - **(A)** an employee of, or a person seeking employment with, a local educational agency or State educational agency, and who has a job duty that results in access to students; or
->     - **(B)** an employee of, or a person seeking employment with, a for-profit or nonprofit entity, or local public agency, that has a contract or agreement to provide services with a school, local educational agency, or State educational agency, and whose job duty—
->       - **(i)** is to provide such services; and
->       - **(ii)** results in access to students.
->   - **(2)** *Sexual Predator* The term sexual predator means a person 18 years of age or older who has been convicted of, or pled guilty to, a sexual offense against a minor.
-
-## § 3. Conforming amendment
-
-Section 2 of the Elementary and Secondary Education Act of 1965 is amended by adding after the item relating to section 9536 the following:
+- **(a)** *Background checks* Not later than 2 years after the date of enactment of this Act, each State educational agency that receives funds under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) shall have in effect policies and procedures that—
+  - **(1)** require that a criminal background check be conducted for each school employee that includes—
+    - **(A)** a search of the State criminal registry or repository of the State in which the school employee resides;
+    - **(B)** a search of State-based child abuse and neglect registries and databases of the State in which the school employee resides;
+    - **(C)** a Federal Bureau of Investigation fingerprint check using the Integrated Automated Fingerprint Identification System; and
+    - **(D)** a search of the National Sex Offender Registry established under section 19 of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16919);
+  - **(2)** prohibit the employment of a school employee as a school employee if such employee—
+    - **(A)** refuses to consent to a criminal background check under paragraph (1);
+    - **(B)** makes a false statement in connection with such criminal background check;
+    - **(C)** has been convicted of a felony consisting of—
+      - **(i)** homicide;
+      - **(ii)** child abuse or neglect;
+      - **(iii)** a crime against children, including child pornography;
+      - **(iv)** spousal abuse;
+      - **(v)** a crime involving rape or sexual assault;
+      - **(vi)** kidnapping;
+      - **(vii)** arson; or
+      - **(viii)** physical assault, battery, or a drug-related offense, committed on or after the date that is 5 years before the date of such employee’s criminal background check under paragraph (1); or
+    - **(D)** has been convicted of any other crime that is a violent or sexual crime against a minor;
+  - **(3)** require that each criminal background check conducted under paragraph (1) be periodically repeated or updated in accordance with State law or the policies of local educational agencies served by the State educational agency;
+  - **(4)** upon request, provide each school employee who has had a criminal background check under paragraph (1) with a copy of the results of the criminal background check;
+  - **(5)** provide for a timely process by which a school employee may appeal, but which does not permit the employee to be employed as a school employee during such appeal, the results of a criminal background check conducted under paragraph (1) which prohibit the employee from being employed as a school employee under paragraph (2) to—
+    - **(A)** challenge the accuracy or completeness of the information produced by such criminal background check; and
+    - **(B)** establish or reestablish eligibility to be hired or reinstated as a school employee by demonstrating that the information is materially inaccurate or incomplete, and has been corrected;
+  - **(6)** ensure that such policies and procedures are published on the website of the State educational agency and the website of each local educational agency served by the State educational agency; and
+  - **(7)** allow a local educational agency to share the results of a school employee’s criminal background check recently conducted under paragraph (1) with another local educational agency that is considering such school employee for employment as a school employee.
+- **(b)** *Transfer prohibition* A local educational agency or State educational agency that receives funds under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) may not knowingly transfer or facilitate the transfer of any school employee if the agency knows, or has substantive reason to believe, that such employee engaged in sexual misconduct with an elementary school or secondary school student.
+- **(c)** *Fees for background checks*
+  - **(1)** *Charging of fees* The Attorney General, State Attorney General, or other State law enforcement official may charge reasonable fees for conducting a criminal background check under subsection (a)(1).
+  - **(2)** *Administrative funds* A local educational agency or State educational agency may use administrative funds received under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) to pay any reasonable fees charged for conducting such criminal background check.
+- **(d)** *Definitions* In this Act:
+  - **(1)** *In general* The terms elementary school, secondary school, local educational agency, State, and State educational agency have the meanings given the terms in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+  - **(2)** *School Employee* The term school employee means—
+    - **(A)** an employee of, or a person seeking employment with, a local educational agency or State educational agency, and who, as a result of such employment, has (or will have) a job duty that results in unsupervised access to elementary school or secondary school students; or
+    - **(B)** any person, or an employee of any person, who has a contract or agreement to provide services with an elementary school or secondary school, local educational agency, or State educational agency, and such person or employee, as a result of such contract or agreement, has a job duty that results in unsupervised access to elementary school or secondary school students.
