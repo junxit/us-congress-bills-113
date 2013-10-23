@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 3328
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3328
+
+> To amend the Internal Revenue Code of 1986 to provide an extension of the work opportunity tax credit for certain targeted groups.
+
+## § 1. Extension of work opportunity tax credit for certain targeted groups
+
+- **(a)** *In general* Subparagraph (B) of section 51(c)(4) of the Internal Revenue Code of 1986 is amended by inserting “(December 31, 2018, in the case of any member of a targeted group described in subparagraph (C), (E), (F), or (G) of subsection (d)(1))” before the period at the end.
+- **(b)** *Effective date* The amendment made by this section shall apply to individuals who begin work for the employer after December 31, 2013.
