@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3080
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-68 amendatory instructions. 14 executed, 54 stated and not applied.
+71 amendatory instructions. 14 executed, 57 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -143,7 +143,7 @@ to guess them.
 
 ### 33 U.S.C. § 2310
 
-> by striking “The Secretary shall waive” and inserting “(a) In general.—The Secretary shall waive”; and
+> by striking “The Secretary shall waive” and inserting “(a) In general.—The Secretary shall waive”;
 
 | | |
 |---|---|
@@ -159,7 +159,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 16451` | insert | by inserting “or public-utility company (as defined in section 1262 of the Public Utility Holding Company Act of 2005 (42 U.S.C. 16451))” after “non-Federal public entity”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 16451` | insert | by inserting “or public-utility company or natural gas company (as defined in section 1262 of the Public Utility Holding Company Act of 2005 (42 U.S.C. 16451))” after “non-Federal public entity”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 16451` | insert | by inserting “or company” after “that entity”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 16451` | add-at-end | by adding at the end the following: “To the maximum extent practicable, the Secretary shall ensure that expediting the evaluation of a permit through the use of funds accepted and expended under this section does not adversely affect the… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2201` | strike | by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -205,7 +205,10 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 2326` | add-at-end | Section 204(a) of the Water Resources Development Act of 1992 (33 U.S.C. 2326(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 1105` | add-at-end | Section 5019 of the Water Resources Development Act of 2007 (121 Stat. 1201) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 610` | insert | Section 104(a) of the River and Harbor Act of 1958 (33 U.S.C. 610(a)) is amended by inserting “and aquatic invasive species” after “noxious aquatic plant growths”. | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 2310` | insert | in subsection (a), as so designated, by inserting “Puerto Rico,” before “and the Trust Territory of the Pacific Islands”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2310` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390b` | redesignate | by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390b` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 9505` | strike | Section 9505(c)(1) of the Internal Revenue Code of 1986 is amended by striking “(as in effect on the date of the enactment of the Water Resources Development Act of 1996)”. | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 2238` | add-at-end | Section 210 of the Water Resources Development Act of 1986 (33 U.S.C. 2238) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2238` | add-at-end | Section 210 of such Act (33 U.S.C. 2238) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
