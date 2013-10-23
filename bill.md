@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 3337
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3337
+
+> To amend title 10, United States Code, to authorize payment of expenses for a stopover of the remains of decedents covered by section 1481 of such title en route to the final destination.
+
+## § 1. Short title
+
+This Act may be cited as the “LTC Todd J. Clark Hero Flight Act of 2013”.
+
+## § 2. Authorization of payment of expenses of stopover of remains en route to final destination
+
+Section 1482(a)(8) of title 10, United States Code, is amended by striking “the place selected by the person” and inserting “the place selected, and one stopover (either by direct or indirect routing) if requested, by the person”.
