@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2850
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2850
@@ -30,3 +30,8 @@ EPA Hydraulic Fracturing Study Improvement Act
 - 2013-07-30 — Introduced in House
 - 2013-07-30 — Introduced in House
 - 2013-07-30 — Referred to the House Committee on Science, Space, and Technology.
+- 2013-08-01 — Committee Consideration and Mark-up Session Held.
+- 2013-08-01 — Ordered to be Reported by Voice Vote.
+- 2013-10-23 — Placed on the Union Calendar, Calendar No. 179.
+- 2013-10-23 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-252.
+- 2013-10-23 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-252.
