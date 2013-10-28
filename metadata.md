@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2189
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2189
@@ -32,6 +32,10 @@ To improve the processing of disability claims by the Department of Veterans Aff
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2013-10-28 — [House 113-1-561](votes/house-113-1-0561.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (404–1)
+
 ## Actions
 
 - 2013-05-23 — Introduced in House
@@ -46,3 +50,11 @@ To improve the processing of disability claims by the Department of Veterans Aff
 - 2013-09-27 — Placed on the Union Calendar, Calendar No. 171.
 - 2013-09-27 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-236.
 - 2013-09-27 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-236.
+- 2013-10-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-10-28 — Considered as unfinished business. (consideration: CR H6806)
+- 2013-10-28 — Considered under suspension of the rules. (consideration: CR H6782-6794)
+- 2013-10-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2189.
+- 2013-10-28 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
+- 2013-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 1 (Roll no. 561). (text: CR H6782-6790)
+- 2013-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 1 (Roll no. 561).(text: CR H6782-6790)
+- 2013-10-28 — The title of the measure was amended. Agreed to without objection.

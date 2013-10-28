@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2189
 
-> To establish a commission or task force to evaluate the backlog of disability claims of the Department of Veterans Affairs.
+> To improve the processing of disability claims by the Department of Veterans Affairs, and for other purposes.
 
 ## § 1. Table of contents
 
