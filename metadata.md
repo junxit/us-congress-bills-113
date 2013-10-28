@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2083
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2083
@@ -28,9 +28,10 @@ Protecting Students from Sexual and Violent Predators Act
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Stivers, Steve [R-OH-15] (S001187)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Protecting Students from Sexual and Violent Predators Act
 - 2013-10-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6647-6648)
 - 2013-10-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6647-6648)
 - 2013-10-22 — The title of the measure was amended. Agreed to without objection.
+- 2013-10-28 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
