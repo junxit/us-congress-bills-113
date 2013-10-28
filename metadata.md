@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3205
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3205
@@ -33,9 +33,10 @@ Promoting Adoption and Legal Guardianship for Children in Foster Care Act
 - Rep. Stivers, Steve [R-OH-15] (S001187)
 - Rep. Griffin, Tim [R-AR-2] (G000567)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ Promoting Adoption and Legal Guardianship for Children in Foster Care Act
 - 2013-10-22 — Mr. Reichert moved to suspend the rules and pass the bill.
 - 2013-10-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 552). (text: CR H6651-6652)
 - 2013-10-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 552).(text: CR H6651-6652)
+- 2013-10-28 — Received in the Senate and Read twice and referred to the Committee on Finance.
