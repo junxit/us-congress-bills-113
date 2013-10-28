@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1405
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1405
@@ -46,3 +46,9 @@ To amend title 38, United States Code, to require the Secretary of Veterans Affa
 - 2013-06-25 — Placed on the Union Calendar, Calendar No. 95.
 - 2013-06-25 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-130.
 - 2013-06-25 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-130.
+- 2013-10-28 — Considered under suspension of the rules. (consideration: CR H6800-6804)
+- 2013-10-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1405.
+- 2013-10-28 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
+- 2013-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6800-6803)
+- 2013-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6800-6803)
+- 2013-10-28 — The title of the measure was amended. Agreed to without objection.
