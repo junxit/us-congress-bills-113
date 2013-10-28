@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2011
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2011
@@ -36,6 +36,10 @@ Veterans' Advisory Committee on Education Improvement Act of 2013
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2013-10-28 — [House 113-1-562](votes/house-113-1-0562.md) — On Motion to Suspend the Rules and Pass — **Passed** (404–2)
+
 ## Actions
 
 - 2013-05-16 — Introduced in House
@@ -51,3 +55,10 @@ Veterans' Advisory Committee on Education Improvement Act of 2013
 - 2013-09-17 — Placed on the Union Calendar, Calendar No. 155.
 - 2013-09-17 — Reported by the Committee on Veterans' Affairs. H. Rept. 113-211.
 - 2013-09-17 — Reported by the Committee on Veterans' Affairs. H. Rept. 113-211.
+- 2013-10-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-10-28 — Considered as unfinished business. (consideration: CR H6806-6807)
+- 2013-10-28 — Considered under suspension of the rules. (consideration: CR H6804-6806)
+- 2013-10-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2011.
+- 2013-10-28 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
+- 2013-10-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 2 (Roll no. 562). (text: CR H6804)
+- 2013-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 2 (Roll no. 562).(text: CR H6804)
