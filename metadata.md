@@ -1,7 +1,7 @@
 ---
 measure: H.R. 185
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 185
@@ -76,3 +76,12 @@ To designate the United States courthouse located at 101 East Pecan Street in Sh
 - 2013-10-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 1 (Roll no. 551). (text: CR H6646)
 - 2013-10-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 1 (Roll no. 551).(text: CR H6646)
 - 2013-10-28 — Received in the Senate, read twice.
+- 2013-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8917-8918)
+- 2013-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8917-8918)
+- 2013-12-18 — Message on Senate action sent to the House.
+- 2013-12-19 — Presented to President.
+- 2013-12-19 — Presented to President.
+- 2013-12-20 — Became Public Law No: 113-58.
+- 2013-12-20 — Became Public Law No: 113-58.
+- 2013-12-20 — Signed by President.
+- 2013-12-20 — Signed by President.
