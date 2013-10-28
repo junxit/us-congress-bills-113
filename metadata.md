@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3302
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3302
@@ -415,3 +415,15 @@ To name the Department of Veterans Affairs medical center in Bay Pines, Florida,
 - 2013-10-22 — Referred to the Subcommittee on Health.
 - 2013-10-22 — Subcommittee on Health Discharged.
 - 2013-10-28 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2013-10-30 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2013-10-31 — Passed Senate without amendment by Unanimous Consent.
+- 2013-10-31 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2013-10-31 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S7778)
+- 2013-10-31 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S7778)
+- 2013-11-01 — Message on Senate action sent to the House.
+- 2013-11-06 — Presented to President.
+- 2013-11-06 — Presented to President.
+- 2013-11-13 — Became Public Law No: 113-49.
+- 2013-11-13 — Became Public Law No: 113-49.
+- 2013-11-13 — Signed by President.
+- 2013-11-13 — Signed by President.
