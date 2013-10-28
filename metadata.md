@@ -1,7 +1,7 @@
 ---
 measure: S. 893
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 893
@@ -16,7 +16,7 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2013
 
 - Sen. Sanders, Bernard [I-VT] (S000033)
 
-## Cosponsors (13)
+## Cosponsors (17)
 
 - Sen. Burr, Richard [R-NC] (B001135)
 - Sen. Rockefeller, John D., IV [D-WV] (R000361)
@@ -31,6 +31,10 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2013
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Boozman, John [R-AR] (B001236)
 - Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
 
 ## Committees (1)
 
@@ -46,3 +50,5 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2013
 - 2013-09-04 — Committee on Veterans' Affairs. Reported by Senator Sanders under authority of the order of the Senate of 08/01/2013 without amendment. With written report No. 113-87.
 - 2013-09-04 — Committee on Veterans' Affairs. Reported by Senator Sanders under authority of the order of the Senate of 08/01/2013 without amendment. With written report No. 113-87.
 - 2013-09-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 165.
+- 2013-10-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7581; text as passed Senate: CR S7581)
+- 2013-10-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7581; text as passed Senate: CR S7581)
