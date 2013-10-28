@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3302
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3302
@@ -397,9 +397,10 @@ To name the Department of Veterans Affairs medical center in Bay Pines, Florida,
 - Rep. Miller, Gary G. [R-CA-31] (M001139)
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -413,3 +414,4 @@ To name the Department of Veterans Affairs medical center in Bay Pines, Florida,
 - 2013-10-22 — Referred to the House Committee on Veterans' Affairs.
 - 2013-10-22 — Referred to the Subcommittee on Health.
 - 2013-10-22 — Subcommittee on Health Discharged.
+- 2013-10-28 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
