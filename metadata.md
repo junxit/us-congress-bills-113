@@ -1,7 +1,7 @@
 ---
 measure: S. 376
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 376
@@ -31,3 +31,7 @@ Drought Information Act of 2013
 
 - 2013-02-25 — Introduced in Senate
 - 2013-02-25 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2013-07-30 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2013-10-28 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 113-114.
+- 2013-10-28 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 113-114.
+- 2013-10-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 222.
