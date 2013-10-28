@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3080
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3080
@@ -204,3 +204,4 @@ Water Resources Reform and Development Act of 2014
 - 2013-10-23 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3080.
 - 2013-10-23 — The Speaker designated the Honorable Jeff Fortenberry to act as Chairman of the Committee.
 - 2013-10-23 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the adoption of amendments which were debated earlier and on which further proceedings had been postponed.
+- 2013-10-28 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 224.
