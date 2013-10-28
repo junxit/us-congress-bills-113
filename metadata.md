@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2481
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2481
@@ -34,3 +34,9 @@ Veterans Economic Opportunity Act of 2013
 - 2013-09-11 — Placed on the Union Calendar, Calendar No. 152.
 - 2013-09-11 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-207.
 - 2013-09-11 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-207.
+- 2013-10-28 — Considered under suspension of the rules. (consideration: CR H6794-6800)
+- 2013-10-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2481.
+- 2013-10-28 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
+- 2013-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6794-6797)
+- 2013-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6794-6797)
+- 2013-10-28 — The title of the measure was amended. Agreed to without objection.

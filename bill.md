@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2481
 
-> To amend title 38, United States Code, to codify and improve the election requirements for the receipt of educational assistance under the Post-9/11 Educational Assistance program of the Department of Veterans Affairs.
+> To make certain improvements in the laws administered by the Secretary of Veterans Affairs relating to benefits, and for other purposes.
 
 ## § 1. Short title; table of contents
 
