@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3304
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3304
@@ -16,7 +16,7 @@ National Defense Authorization Act for Fiscal Year 2014
 
 - Rep. Deutch, Theodore E. [D-FL-21] (D000610)
 
-## Cosponsors (78)
+## Cosponsors (82)
 
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
 - Rep. Bridenstine, Jim [R-OK-1] (B001283)
@@ -96,6 +96,10 @@ National Defense Authorization Act for Fiscal Year 2014
 - Rep. Barber, Ron [D-AZ-2] (B001279)
 - Rep. Larsen, Rick [D-WA-2] (L000560)
 - Rep. Rice, Tom [R-SC-7] (R000597)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Lujan Grisham, Michelle [D-NM-1] (L000580)
 
 ## Committees (1)
 
@@ -106,3 +110,8 @@ National Defense Authorization Act for Fiscal Year 2014
 - 2013-10-22 — Introduced in House
 - 2013-10-22 — Introduced in House
 - 2013-10-22 — Referred to the House Committee on Armed Services.
+- 2013-10-28 — Considered under suspension of the rules. (consideration: CR H6778-6780)
+- 2013-10-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3304.
+- 2013-10-28 — Mr. Rogers (AL) moved to suspend the rules and pass the bill.
+- 2013-10-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6778-6779)
+- 2013-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6778-6779)
