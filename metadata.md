@@ -1,7 +1,7 @@
 ---
 measure: H.R. 330
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 330
@@ -47,3 +47,8 @@ Distinguished Flying Cross National Memorial Act
 - 2013-05-17 — Placed on the House Calendar, Calendar No. 26.
 - 2013-05-17 — Reported by the Committee on Natural Resources. H. Rept. 113-79.
 - 2013-05-17 — Reported by the Committee on Natural Resources. H. Rept. 113-79.
+- 2013-10-29 — Considered under suspension of the rules. (consideration: CR H6853-6854)
+- 2013-10-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 330.
+- 2013-10-29 — Mr. Young (AK) moved to suspend the rules and pass the bill.
+- 2013-10-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6853)
+- 2013-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6853)
