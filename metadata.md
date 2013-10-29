@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1742
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1742
@@ -28,9 +28,10 @@ Vulnerable Veterans Housing Reform Act of 2013
 - Rep. Owens, William L. [D-NY-21] (O000169)
 - Rep. Barber, Ron [D-AZ-2] (B001279)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Vulnerable Veterans Housing Reform Act of 2013
 - 2013-10-28 — Mr. Cotton moved to suspend the rules and pass the bill.
 - 2013-10-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6780-6781)
 - 2013-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6780-6781)
+- 2013-10-29 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
