@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 254
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 254
@@ -16,7 +16,7 @@ A resolution designating November 2, 2013, as "National Bison Day".
 
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 
-## Cosponsors (19)
+## Cosponsors (24)
 
 - Sen. Johnson, Tim [D-SD] (J000177)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
@@ -37,6 +37,11 @@ A resolution designating November 2, 2013, as "National Bison Day".
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Donnelly, Joe [D-IN] (D000607)
 
 ## Committees (1)
 
@@ -47,3 +52,7 @@ A resolution designating November 2, 2013, as "National Bison Day".
 - 2013-09-24 — Introduced in Senate
 - 2013-09-24 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6759)
 - 2013-09-24 — Sponsor introductory remarks on measure. (CR S6759-6760)
+- 2013-10-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2013-10-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2013-10-29 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7634)
+- 2013-10-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7634)

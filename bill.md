@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. RES. 254
 
-> Designating November 2, 2013, as “National Bison Day”.
+> Designating November 2, 2013, as National Bison Day.
 
 ## Preamble
 
