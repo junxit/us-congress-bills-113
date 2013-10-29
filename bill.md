@@ -1,0 +1,27 @@
+---
+legis-num: S. 1601
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1601
+
+> To ensure that certain communities may be granted exceptions for floodproofed residential basements for purposes of determining risk premium rates for flood insurance.
+
+## § 1. Short title
+
+This Act may be cited as the “Flood Safe Basements Act”.
+
+## § 2. Treatment of floodproofed residential basements
+
+- **(a)** *Definitions* In this section—
+  - **(1)** for purposes of rating a floodproofed covered structure, the term adjusted base flood elevation means the base flood elevation for a covered structure on the applicable effective flood insurance rate map, plus 1 foot;
+  - **(2)** the term Administrator means the Administrator of the Federal Emergency Management Agency;
+  - **(3)** the term applicable flood plain management measures means flood plain management measures adopted by a community under section 60.3(c) of title 44, Code of Federal Regulations;
+  - **(4)** the term covered structure means a residential structure—
+    - **(A)** that is located in a community that has adopted flood plain management measures that are approved by the Federal Emergency Management Agency and satisfy the requirements for an exception for floodproofed residential basements under section 60.6(c) of title 44, Code of Federal Regulations; and
+    - **(B)** that was built in compliance with the applicable flood plain management measures;
+  - **(5)** the term floodproofed elevation means the height of floodproofing on a structure, as identified on the Residential Basement Floodproofing Certificate for the structure; and
+  - **(6)** the term National Flood Insurance Program means the program established under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.).
+- **(b)** *Preservation of basement exception* Notwithstanding the Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141; 126 Stat. 916), the amendments made by that Act, or any other provision of law, the Administrator shall rate a covered structure using the elevation difference between the floodproofed elevation of the covered structure and the adjusted base flood elevation of the covered structure.
