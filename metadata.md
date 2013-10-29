@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2337
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2337
@@ -33,3 +33,8 @@ Lake Hill Administrative Site Affordable Housing Act
 - 2013-09-10 — Placed on the Union Calendar, Calendar No. 143.
 - 2013-09-10 — Reported by the Committee on Natural Resources. H. Rept. 113-196.
 - 2013-09-10 — Reported by the Committee on Natural Resources. H. Rept. 113-196.
+- 2013-10-29 — Considered under suspension of the rules. (consideration: CR H6854-6855)
+- 2013-10-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2337.
+- 2013-10-29 — Mr. Young (AK) moved to suspend the rules and pass the bill.
+- 2013-10-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6854)
+- 2013-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6854)
