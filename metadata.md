@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2640
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2640
@@ -34,3 +34,8 @@ Crooked River Collaborative Water Security and Jobs Act of 2014
 - 2013-09-20 — Placed on the Union Calendar, Calendar No. 164.
 - 2013-09-20 — Reported by the Committee on Natural Resources. H. Rept. 113-224.
 - 2013-09-20 — Reported by the Committee on Natural Resources. H. Rept. 113-224.
+- 2013-10-29 — Considered under suspension of the rules. (consideration: CR H6850-6852)
+- 2013-10-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2640.
+- 2013-10-29 — Mr. Young (AK) moved to suspend the rules and pass the bill.
+- 2013-10-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6850-6851)
+- 2013-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6850-6851)
