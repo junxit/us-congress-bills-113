@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 3378
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3378
+
+> To amend the Internal Revenue Code of 1986 to extend the nonbusiness energy property credit to include the insulation component of insulated siding.
+
+## § 1. Nonbusiness energy property to include insulation component of insulated siding
+
+- **(a)** *In general* Paragraph (2) of section 25C(c) of the Internal Revenue Code of 1986 is amended by striking “and” at the end of subparagraph (C), by striking the period at the end of subparagraph (D) and inserting “, and”, and by adding at the end the following new subparagraph:
+  > - **(E)** the insulation portion of any building cladding system (including vinyl siding with integral insulating material) that has a minimum thermal resistance of R–2.
+
+- **(b)** *Dollar limitation* Subsection (b) of section 25C(b) of such Code is amended by redesignating paragraph (3) as paragraph (4) and by inserting after paragraph (2) the following new paragraph:
+  > - **(3)** *Certain insulation* In the case of amounts paid or incurred for components described in subsection (c)(2)(E) by any taxpayer for any taxable year, the credit allowed under this section with respect to such amounts for such year shall not exceed the excess (if any) of $250 over the aggregate credits allowed under this section with respect to such amounts for all prior taxable years ending after December 31, 2005.
+
+- **(c)** *Effective date* The amendments made by this section shall apply to property placed in service after the date of the enactment of this Act.
