@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1405
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1405
@@ -28,9 +28,10 @@ To amend title 38, United States Code, to require the Secretary of Veterans Affa
 - Rep. Ruiz, Raul [D-CA-36] (R000599)
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ To amend title 38, United States Code, to require the Secretary of Veterans Affa
 - 2013-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6800-6803)
 - 2013-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6800-6803)
 - 2013-10-28 — The title of the measure was amended. Agreed to without objection.
+- 2013-10-29 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
