@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2011
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2011
@@ -32,9 +32,10 @@ Veterans' Advisory Committee on Education Improvement Act of 2013
 - Rep. Carney, John C., Jr. [D-DE-At Large] (C001083)
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -62,3 +63,4 @@ Veterans' Advisory Committee on Education Improvement Act of 2013
 - 2013-10-28 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
 - 2013-10-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 2 (Roll no. 562). (text: CR H6804)
 - 2013-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 2 (Roll no. 562).(text: CR H6804)
+- 2013-10-29 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
