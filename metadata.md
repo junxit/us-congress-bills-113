@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2189
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2189
@@ -28,9 +28,10 @@ To improve the processing of disability claims by the Department of Veterans Aff
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ To improve the processing of disability claims by the Department of Veterans Aff
 - 2013-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 1 (Roll no. 561). (text: CR H6782-6790)
 - 2013-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 1 (Roll no. 561).(text: CR H6782-6790)
 - 2013-10-28 — The title of the measure was amended. Agreed to without objection.
+- 2013-10-29 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
