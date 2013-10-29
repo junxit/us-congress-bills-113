@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3304
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3304
@@ -101,9 +101,10 @@ National Defense Authorization Act for Fiscal Year 2014
 - Rep. Veasey, Marc A. [D-TX-33] (V000131)
 - Rep. Lujan Grisham, Michelle [D-NM-1] (L000580)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
@@ -115,3 +116,4 @@ National Defense Authorization Act for Fiscal Year 2014
 - 2013-10-28 — Mr. Rogers (AL) moved to suspend the rules and pass the bill.
 - 2013-10-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6778-6779)
 - 2013-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6778-6779)
+- 2013-10-29 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
