@@ -1,7 +1,7 @@
 ---
 measure: S. 893
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 893
@@ -36,9 +36,10 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2013
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -52,3 +53,6 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2013
 - 2013-09-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 165.
 - 2013-10-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7581; text as passed Senate: CR S7581)
 - 2013-10-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7581; text as passed Senate: CR S7581)
+- 2013-10-29 — Message on Senate action sent to the House.
+- 2013-10-29 — Received in the House.
+- 2013-10-29 — Referred to the House Committee on Veterans' Affairs.
