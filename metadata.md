@@ -1,7 +1,7 @@
 ---
 measure: S. 893
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 893
@@ -56,3 +56,14 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2013
 - 2013-10-29 — Message on Senate action sent to the House.
 - 2013-10-29 — Received in the House.
 - 2013-10-29 — Referred to the House Committee on Veterans' Affairs.
+- 2013-11-12 — Considered under suspension of the rules. (consideration: CR H6971-6972)
+- 2013-11-12 — DEBATE - The House proceeded with forty minutes of debate on S. 893.
+- 2013-11-12 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
+- 2013-11-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6971)
+- 2013-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6971)
+- 2013-11-14 — Presented to President.
+- 2013-11-14 — Presented to President.
+- 2013-11-21 — Became Public Law No: 113-52.
+- 2013-11-21 — Became Public Law No: 113-52.
+- 2013-11-21 — Signed by President.
+- 2013-11-21 — Signed by President.
