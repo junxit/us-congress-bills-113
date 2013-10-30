@@ -1,0 +1,20 @@
+---
+legis-num: S. 1614
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1614
+
+> To require Certificates of Citizenship and other Federal documents to reflect name and date of birth determinations made by a State court and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Accuracy for Adoptees Act”.
+
+## § 2. Recognition of State court determinations of name and birth date
+
+Section 320 of the Immigration and Nationality Act (8 U.S.C. 1431) is amended by adding at the end the following:
+
+> - **(c)** A Certificate of Citizenship or other Federal document issued or requested to be amended under this section shall reflect the child’s name and date of birth as indicated on a State court order, birth certificate, certificate of foreign birth, certificate of birth abroad, or similar State vital records document issued by the child’s State of residence in the United States after the child has been adopted or readopted in that State.
