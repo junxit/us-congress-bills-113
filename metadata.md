@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2374
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2374
@@ -20,10 +20,11 @@ Retail Investor Protection Act
 
 - Rep. Murphy, Patrick [D-FL-18] (M001191)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Education and the Workforce Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (3)
 
@@ -76,3 +77,4 @@ Retail Investor Protection Act
 - 2013-10-29 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6870)
 - 2013-10-29 — The previous question was ordered on the amendment (A002) pursuant to the rule. (consideration: CR H6869)
 - 2013-10-29 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the adoption of the George Miller amendment, which was debated earlier and on which further proceedings had been postponed.
+- 2013-10-30 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
