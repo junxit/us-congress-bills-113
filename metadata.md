@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2747
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2747
@@ -42,3 +42,7 @@ Streamlining Claims Processing for Federal Contractor Employees Act
 - 2013-09-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 10 (Roll no. 451). (text: CR H5449)
 - 2013-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 10 (Roll no. 451).(text: CR H5449)
 - 2013-09-11 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2013-10-30 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.
+- 2013-10-30 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin without amendment. Without written report.
+- 2013-10-30 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin without amendment. Without written report.
+- 2013-10-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 231.
