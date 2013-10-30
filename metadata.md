@@ -1,7 +1,7 @@
 ---
 measure: H.R. 330
 congress: 113
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 330
@@ -53,3 +53,12 @@ Distinguished Flying Cross National Memorial Act
 - 2013-10-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6853)
 - 2013-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6853)
 - 2013-10-30 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 226.
+- 2014-07-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4355-4364; text as passed Senate: CR S4355)
+- 2014-07-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4355-4364; text as passed Senate: CR S4355)
+- 2014-07-10 — Message on Senate action sent to the House.
+- 2014-07-15 — Presented to President.
+- 2014-07-15 — Presented to President.
+- 2014-07-25 — Became Public Law No: 113-132.
+- 2014-07-25 — Became Public Law No: 113-132.
+- 2014-07-25 — Signed by President.
+- 2014-07-25 — Signed by President.
