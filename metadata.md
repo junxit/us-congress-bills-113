@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2640
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2640
@@ -16,9 +16,10 @@ Crooked River Collaborative Water Security and Jobs Act of 2014
 
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Crooked River Collaborative Water Security and Jobs Act of 2014
 - 2013-10-29 — Mr. Young (AK) moved to suspend the rules and pass the bill.
 - 2013-10-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6850-6851)
 - 2013-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6850-6851)
+- 2013-10-30 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
