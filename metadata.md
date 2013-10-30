@@ -1,7 +1,7 @@
 ---
 measure: S. 1557
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1557
@@ -16,7 +16,7 @@ Children's Hospital GME Support Reauthorization Act of 2013
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
-## Cosponsors (12)
+## Cosponsors (15)
 
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
@@ -30,6 +30,9 @@ Children's Hospital GME Support Reauthorization Act of 2013
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Murphy, Christopher [D-CT] (M001169)
 - Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
 
 ## Committees (1)
 
@@ -39,3 +42,7 @@ Children's Hospital GME Support Reauthorization Act of 2013
 
 - 2013-09-27 — Introduced in Senate
 - 2013-09-27 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2013-10-30 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.
+- 2013-10-30 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin without amendment. Without written report.
+- 2013-10-30 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin without amendment. Without written report.
+- 2013-10-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 227.
