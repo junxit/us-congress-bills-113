@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2094
 congress: 113
-version: Reported to Senate
+version: Enrolled Bill
 derived: true
 ---
 
