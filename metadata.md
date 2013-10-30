@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 62
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 62
@@ -26,3 +26,4 @@ Providing for a conditional adjournment of the House of Representatives.
 - 2013-10-30 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H6928)
 - 2013-10-30 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S7686)
 - 2013-10-30 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S7686)
+- 2013-10-31 — Message on Senate action sent to the House.
