@@ -1,7 +1,7 @@
 ---
 measure: H.R. 623
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 623
@@ -16,10 +16,11 @@ Alaska Native Tribal Health Consortium Land Transfer Act
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Alaska Native Tribal Health Consortium Land Transfer Act
 - 2013-10-29 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
 - 2013-10-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6852)
 - 2013-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6852)
+- 2013-10-30 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
