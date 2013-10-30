@@ -1,0 +1,17 @@
+---
+legis-num: H. CON. RES. 62
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. CON. RES. 62
+
+> Providing for a conditional adjournment of the House of Representatives.
+
+That when the House adjourns on the legislative day of Wednesday, October 30, 2013, Thursday, October 31, 2013, or Friday, November 1, 2013, on a motion offered pursuant to this concurrent resolution by its Majority Leader or his designee, it stand adjourned until 2 p.m. on Tuesday, November 12, 2013, or until the time of any reassembly pursuant to section 2 of this concurrent resolution, whichever occurs first.
+
+## § 2.
+
+- **(a)** The Speaker or his designee, after consultation with the Minority Leader of the House, shall notify the Members of the House to reassemble at such place and time as he may designate if, in his opinion, the public interest shall warrant it.
+- **(b)** After reassembling pursuant to subsection (a), when the House adjourns on a motion offered pursuant to this subsection by its Majority Leader or his designee, the House shall again stand adjourned pursuant to the first section of this concurrent resolution.
