@@ -1,7 +1,7 @@
 ---
 measure: H.R. 992
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 992
@@ -32,6 +32,11 @@ Swaps Regulatory Improvement Act
 - House — Agriculture Committee
 - House — Financial Services Committee
 
+## Recorded votes (2)
+
+- 2013-10-30 — [House 113-1-568](votes/house-113-1-0568.md) — On Motion to Recommit with Instructions — **Failed** (190–223)
+- 2013-10-30 — [House 113-1-569](votes/house-113-1-0569.md) — On Passage — **Passed** (292–122)
+
 ## Actions
 
 - 2013-03-06 — Introduced in House
@@ -49,3 +54,13 @@ Swaps Regulatory Improvement Act
 - 2013-09-25 — Reported by the Committee on Agriculture. H. Rept. 113-229, Part II.
 - 2013-09-25 — Reported by the Committee on Financial Services. H. Rept. 113-229, Part I.
 - 2013-09-25 — Reported by the Committee on Financial Services. H. Rept. 113-229, Part I.
+- 2013-10-30 — Considered under the provisions of rule H. Res. 391. (consideration: CR H6916-6928)
+- 2013-10-30 — DEBATE - The House proceeded with one hour of debate on H.R. 992.
+- 2013-10-30 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Brownley motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to prohibit any restriction on the ability of financial regulators to ensure that financial institutions comply with laws prohibiting the manipulation of commodity markets, especially with regard to speculation in oil and biofuel contracts.
+- 2013-10-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-10-30 — Ms. Brownley (CA) moved to recommit with instructions to Financial Services. (consideration: CR H6925-6927; text: CR H6925)
+- 2013-10-30 — On motion to recommit with instructions Failed by the Yeas and Nays: 190 - 223 (Roll no. 568).
+- 2013-10-30 — On passage Passed by recorded vote: 292 - 122 (Roll no. 569). (text: CR H6916)
+- 2013-10-30 — Passed/agreed to in House: On passage Passed by recorded vote: 292 - 122 (Roll no. 569).(text: CR H6916)
+- 2013-10-30 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6926)
+- 2013-10-30 — The previous question was ordered pursuant to the rule. (consideration: CR H6925)
