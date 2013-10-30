@@ -1,7 +1,7 @@
 ---
 measure: H.R. 623
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 623
@@ -45,3 +45,14 @@ Alaska Native Tribal Health Consortium Land Transfer Act
 - 2013-10-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6852)
 - 2013-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6852)
 - 2013-10-30 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2013-12-20 — Message on Senate action sent to the House.
+- 2013-12-20 — Passed Senate without amendment by Unanimous Consent.
+- 2013-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2013-12-20 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S9068)
+- 2013-12-20 — Senate Committee on Indian Affairs discharged by Unanimous Consent.(consideration: CR S9068)
+- 2013-12-23 — Presented to President.
+- 2013-12-23 — Presented to President.
+- 2013-12-26 — Became Public Law No: 113-68.
+- 2013-12-26 — Became Public Law No: 113-68.
+- 2013-12-26 — Signed by President.
+- 2013-12-26 — Signed by President.
