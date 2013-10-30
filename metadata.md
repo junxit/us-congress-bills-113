@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2094
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2094
@@ -79,3 +79,7 @@ School Access to Emergency Epinephrine Act
 - 2013-07-30 — Reported by the Committee on Energy and Commerce. H. Rept. 113-182.
 - 2013-07-30 — Reported by the Committee on Energy and Commerce. H. Rept. 113-182.
 - 2013-07-31 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2013-10-30 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.
+- 2013-10-30 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin without amendment. Without written report.
+- 2013-10-30 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin without amendment. Without written report.
+- 2013-10-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 229.
