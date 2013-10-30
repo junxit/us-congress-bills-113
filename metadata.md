@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2747
 congress: 113
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2747
@@ -46,3 +46,12 @@ Streamlining Claims Processing for Federal Contractor Employees Act
 - 2013-10-30 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin without amendment. Without written report.
 - 2013-10-30 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin without amendment. Without written report.
 - 2013-10-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 231.
+- 2013-11-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7834)
+- 2013-11-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7834)
+- 2013-11-06 — Message on Senate action sent to the House.
+- 2013-11-14 — Presented to President.
+- 2013-11-14 — Presented to President.
+- 2013-11-21 — Became Public Law No: 113-50.
+- 2013-11-21 — Became Public Law No: 113-50.
+- 2013-11-21 — Signed by President.
+- 2013-11-21 — Signed by President.
