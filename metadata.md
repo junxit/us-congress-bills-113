@@ -1,7 +1,7 @@
 ---
 measure: H.R. 992
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 992
@@ -27,10 +27,11 @@ Swaps Regulatory Improvement Act
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
 - Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -64,3 +65,4 @@ Swaps Regulatory Improvement Act
 - 2013-10-30 — Passed/agreed to in House: On passage Passed by recorded vote: 292 - 122 (Roll no. 569).(text: CR H6916)
 - 2013-10-30 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6926)
 - 2013-10-30 — The previous question was ordered pursuant to the rule. (consideration: CR H6925)
+- 2013-10-31 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
