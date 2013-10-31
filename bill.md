@@ -1,12 +1,19 @@
 ---
 legis-num: H.R. 3080
-congress: 113th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 3080
 
-That the bill from the House of Representatives (H.R. 3080) entitled “An Act to provide for improvements to the rivers and harbors of the United States, to provide for the conservation and development of water and related resources, and for other purposes.”, do pass with the following
+> To provide for improvements to the rivers and harbors of the United States, to provide for the conservation and development of water and related resources, and for other purposes.
 
-*Strike all after the enacting clause and insert the following:*
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Water Resources Reform and Development Act of 2014”.
+- **(b)** *Table of contents*
+
+## § 2. Definition of Secretary
+
+In this Act, the term Secretary means the Secretary of the Army.

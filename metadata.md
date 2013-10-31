@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3080
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3080
@@ -73,13 +73,16 @@ Water Resources Reform and Development Act of 2014
 - House — Budget Committee
 - House — Transportation and Infrastructure Committee
 
-## Recorded votes (5)
+## Recorded votes (8)
 
 - 2013-10-23 — [House 113-1-556](votes/house-113-1-0556.md) — On Agreeing to the Amendment — **Failed** (183–236)
 - 2013-10-23 — [House 113-1-557](votes/house-113-1-0557.md) — On Agreeing to the Amendment — **Agreed to** (225–193)
 - 2013-10-23 — [House 113-1-558](votes/house-113-1-0558.md) — On Agreeing to the Amendment — **Failed** (133–287)
 - 2013-10-23 — [House 113-1-559](votes/house-113-1-0559.md) — On Agreeing to the Amendment — **Agreed to** (237–183)
 - 2013-10-23 — [House 113-1-560](votes/house-113-1-0560.md) — On Passage — **Passed** (417–3)
+- 2013-11-14 — [House 113-1-582](votes/house-113-1-0582.md) — On Motion to Instruct Conferees — **Passed** (347–76)
+- 2014-05-20 — [House 113-2-220](votes/house-113-2-0220.md) — On Motion to Suspend the Rules and Agree to the Conference Report — **Passed** (412–4)
+- 2014-05-22 — [Senate 113-2-163](votes/senate-113-2-0163.md) — On the Conference Report — **Conference Report Agreed to** (91–7)
 
 ## Actions
 
@@ -215,3 +218,39 @@ Water Resources Reform and Development Act of 2014
 - 2013-10-31 — Senate amendment proposed (on the floor): Amendment SA 2009 proposed by Senator Reid for Senator Boxer.(consideration: CR S7778)
 - 2013-10-31 — Senate amendment submitted
 - 2013-10-31 — Senate insisted on its amendment, requested a conference. (consideration: CR S7778)
+- 2013-11-04 — Senate appointed conferee(s) Boxer; Baucus; Carper; Cardin; Whitehouse; Vitter; Inhofe; Barrasso. (consideration: CR S7799)
+- 2013-11-05 — Message on Senate action sent to the House.
+- 2013-11-14 — Considered as unfinished business.
+- 2013-11-14 — DEBATE - The House proceeded with one hour of debate on Sean Maloney (NY) motion to instruct conferees on H.R. 3080. The instructions contained in the motion seek to require the managers on the part of the House at the conference on the disagreeing votes of the two Houses on the Senate amendment to the bill H.R. 3080 be instructed to recede from disagreement with the provisions contained in title IX of the Senate amendment (relating to reducing the risks to life and property from dam failure in the United States through reauthorization of an effective dam safety program).
+- 2013-11-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-11-14 — Mr. Maloney, Sean moved that the House instruct conferees. (consideration: CR H7066-7069)
+- 2013-11-14 — Mr. Shuster moved that the House disagree to the Senate amendment, and agree to a conference. (consideration: CR H7066-7069)
+- 2013-11-14 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to without objection. (consideration: CR H7066-7069)
+- 2013-11-14 — On motion that the House instruct conferees Agreed to by the Yeas and Nays: 347 - 76, 1 Present ) (Roll No. 582). (consideration: CR H7079-8080)
+- 2013-11-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sean Maloney(NY) motion to instruct conferees, the Chair put the question on adoption of the motion and by voice vote announced the ayes had prevailed. Mr. Sean Maloney (NY) demanded the yeas and nays and the Chair postponed further proceedings on the motion to instruct conferees on H.R. 3080 until later in the legislative day.
+- 2013-11-14 — Pursuant to clause 11 of Rule 1, the Chair removed Mr. Graves (GA) as a conferee on H.R. 3080 and appointed Mr. Graves (MO) to fill the vacancy. Agreed to without objection.
+- 2013-11-14 — The Speaker appointed conferees from the Committee on Natural Resources, for consideration of secs. 103, 115, 144, 146, and 220 of the House bill, and secs. 2017, 2027, 2028, 2033, 2051, 3005, 5002, 5003, 5005, 5007, 5012, 5018, 5020, title XII, and sec. 13002 of the Senate amendment, and modifications committed to conference: Hastings (WA), Bishop (UT), and Napolitano.
+- 2013-11-14 — The Speaker appointed conferees from the Committee on Transportation and Infrastructure, for consideration of the House bill and the Senate amendment, and modifications committed to conference: Shuster, Duncan of Tennessee, LoBiondo, Graves of Georgia, Capito, Miller of Michigan, Hunter, Bucshon, Gibbs, Hanna, Webster of Florida, Rice of South Carolina, Mullin, Rodney Davis of Illinois, Rahall, DeFazio, Brown of Florida, Eddie Bernice Johnson of Texas, Bishop of New York, Edwards, Garamendi, Hahn, Nolan, Frankel of Florida, and Bustos.
+- 2013-11-14 — The previous question was ordered without objection. (consideration: CR H7069)
+- 2013-11-20 — Conference committee actions: Conference held.
+- 2013-11-20 — Conference held.
+- 2014-02-12 — Senate appointed conferee(s) Sanders by unanimous consent.
+- 2014-05-15 — Conference report H. Rept. 113-449 filed. (text of conference report: CR H4065-4428)
+- 2014-05-15 — Conference report filed: Conference report H. Rept. 113-449 filed.(text of conference report: CR H4065-4428)
+- 2014-05-20 — Conference report agreed to in House: On motion to suspend the rules and agree to the conference report Agreed to by the Yeas and Nays (2/3 required): 412 - 4 (Roll No. 220).(consideration: CR H4495-4496)
+- 2014-05-20 — DEBATE - The House proceeded with 40 minutes of debate on the motion to suspend the rules and agree to the conference report accompanying H.R. 3080.
+- 2014-05-20 — Motions to reconsider laid on the table Agreed to without objection.
+- 2014-05-20 — Mr. Shuster moved to suspend the rules and agree to the conference report, H. Rept. 113-449. (consideration: CR H4487-4496)
+- 2014-05-20 — On motion to suspend the rules and agree to the conference report Agreed to by the Yeas and Nays (2/3 required): 412 - 4 (Roll No. 220). (consideration: CR H4495-4496)
+- 2014-05-21 — Conference papers: Senate report and manager's statement and message on House action held at the desk in Senate.
+- 2014-05-22 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 91 - 7. Record Vote Number: 163.
+- 2014-05-22 — Conference report considered in Senate. (consideration: CR S3273)
+- 2014-05-22 — Senate agreed to conference report by Yea-Nay Vote. 91 - 7. Record Vote Number: 163.
+- 2014-05-22 — Under the order of 5/21/14, having achieved 60 votes in the affirmative, the conference report was agreed to.
+- 2014-05-27 — Message on Senate action sent to the House.
+- 2014-06-03 — Presented to President.
+- 2014-06-03 — Presented to President.
+- 2014-06-10 — Became Public Law No: 113-121.
+- 2014-06-10 — Became Public Law No: 113-121.
+- 2014-06-10 — Signed by President.
+- 2014-06-10 — Signed by President.
