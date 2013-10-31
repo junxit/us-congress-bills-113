@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 99
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 99
@@ -39,3 +39,4 @@ Relating to the disapproval of the President's exercise of authority to suspend 
 - 2013-10-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2013-10-30 — On passage Passed by the Yeas and Nays: 222 - 191, 2 Present (Roll no. 570). (text: CR 10/29/2013 H6872)
 - 2013-10-30 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 222 - 191, 2 Present (Roll no. 570).(text: CR 10/29/2013 H6872)
+- 2013-10-31 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 232, Pursuant to Sec. 1002 of Public Law 113-46.
