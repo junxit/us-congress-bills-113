@@ -27,8 +27,9 @@ Section 108(b) of the Comprehensive Environmental Response, Compensation, and Li
   - **(A)** by striking “Not later than three years after the date of enactment of the Act, the President shall” and inserting “The President shall, as appropriate,”; and
   - **(B)** by striking “first” after “for which requirements will be”; and
 - **(2)** in paragraph (2)—
-  - **(A)** by striking “any one, or any combination, of the following:” and inserting “forms of security, including”; and
-  - **(B)** by striking “or qualification” and inserting “and qualification”.
+  - **(A)** by striking “Financial responsibility may be established” and inserting “Owners and operators may establish financial responsibility”;
+  - **(B)** by striking “any one, or any combination, of the following:” and inserting “forms of security, including”; and
+  - **(C)** by striking “or qualification” and inserting “and qualification”.
 
 ## § 4. Report to Congress regarding financial responsibility requirements
 
@@ -45,4 +46,8 @@ Section 108(b) of the Comprehensive Environmental Response, Compensation, and Li
 
 Section 114(d) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9614(d)) is amended to read as follows:
 
-> - **(d)** No owner or operator of a vessel or facility who establishes and maintains evidence of financial responsibility associated with the production, transportation, treatment, storage, or disposal of hazardous substances pursuant to financial responsibility requirements under any State law or regulation, or any other Federal law or regulation, shall be required to establish or maintain evidence of financial responsibility under this title, unless the President determines, after notice and opportunity for public comment, that in the event of a release, such other Federal or State financial responsibility requirements are insufficient to cover likely response costs under section 104. Except as provided in this subsection, evidence of compliance with such other Federal or State financial responsibility requirements shall be accepted by the President in lieu of compliance with any requirement for financial responsibility promulgated under this title.
+> - **(d)** No owner or operator of a vessel or facility who establishes and maintains evidence of financial responsibility associated with the production, transportation, treatment, storage, or disposal of hazardous substances pursuant to financial responsibility requirements under any State law or regulation, or any other Federal law or regulation, shall be required to establish or maintain evidence of financial responsibility under this title, unless the President determines, after notice and opportunity for public comment, that in the event of a release of a hazardous substance that is not a federally permitted release or authorized by a State permit, such other Federal or State financial responsibility requirements are insufficient to cover likely response costs under section 104. If the President determines that such other Federal or State financial responsibility requirements are insufficient to cover likely response costs under section 104 in the event of such a release, the President shall accept evidence of compliance with such other Federal or State financial responsibility requirements in lieu of compliance with any portion of the financial responsibility requirements promulgated under this title to which they correspond.
+
+## § 6. Explosive risks planning notification
+
+Not later than 180 days after the date of enactment of this Act, the owner or operator of each facility at which substances listed in appendix A to part 27 of title 6, Code of Federal Regulations, as flammables or explosives are present above the screening threshold listed therein shall notify the State emergency response commission for the State in which such facility is located that such substances are present at such facility and of the amount of such substances that are present at such facility.

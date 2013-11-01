@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2279
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 3 executed, 4 stated and not applied.
+8 amendatory instructions. 4 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,15 @@ to guess them.
 |---|---|
 | Removed | `Not later than three years after the date of enactment of the Act, the President shall` |
 | Inserted | `The President shall, as appropriate,` |
+
+### 42 U.S.C. § 9608
+
+> by striking “Financial responsibility may be established” and inserting “Owners and operators may establish financial responsibility”;
+
+| | |
+|---|---|
+| Removed | `Financial responsibility may be established` |
+| Inserted | `Owners and operators may establish financial responsibility` |
 
 ### 42 U.S.C. § 9608
 
