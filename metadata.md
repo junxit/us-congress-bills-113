@@ -1,7 +1,7 @@
 ---
 measure: S. 42
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 42
@@ -32,3 +32,5 @@ Criminal Antitrust Anti-Retaliation Act of 2013
 - 2013-10-31 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2013-10-31 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2013-10-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 233.
+- 2013-11-04 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7799-7800; text as passed Senate: CR S7799-7800)
+- 2013-11-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7799-7800; text as passed Senate: CR S7799-7800)
