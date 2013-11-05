@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3204
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3204
@@ -43,3 +43,8 @@ Drug Quality and Security Act
 - 2013-09-28 — Mr. Upton moved to suspend the rules and pass the bill.
 - 2013-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5946-5960)
 - 2013-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5946-5960)
+- 2013-09-30 — Received in the Senate.
+- 2013-10-30 — Senate amendment submitted
+- 2013-10-30 — Senate amendment submitted
+- 2013-11-04 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2013-11-05 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 236.
