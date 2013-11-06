@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 268
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 268
@@ -37,3 +37,5 @@ A resolution condemning the September 2013 terrorist attack at the Westgate Mall
 - 2013-10-31 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2013-10-31 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2013-10-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 234.
+- 2013-11-06 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S7888-7889)
+- 2013-11-06 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S7888-7889)
