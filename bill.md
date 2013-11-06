@@ -7,8 +7,138 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 287
 
-> To amend title 38, United States Code, to expand the definition of homeless veteran for purposes of benefits under the laws administered by the Secretary of Veterans Affairs, and for other purposes.
+> To amend title 38, United States Code, to improve assistance to homeless veterans, and for other purposes.
 
-## § 1. Expansion of definition of homeless veteran for purposes of benefits under the laws administered by the Secretary of Veterans Affairs
+## § 1. Short title
+
+This Act may be cited as the “Helping Homeless Veterans Act of 2013”.
+
+## § 2. Expansion of definition of homeless veteran for purposes of benefits under the laws administered by the Secretary of Veterans Affairs
 
 Section 2002(1) of title 38, United States Code, is amended by striking “in section 103(a) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11302(a))” and inserting “in subsection (a) or (b) of section 103 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11302)”.
+
+## § 3. Improvements to grant program for comprehensive service programs for homeless veterans
+
+- **(a)** *Modification of authority To provide capital improvement grants for programs that assist homeless veterans* Subsection (a) of section 2011 of title 38, United States Code, is amended, in the matter before paragraph (1)—
+  - **(1)** by striking “or modifying” and inserting “, modifying, or maintaining”; and
+  - **(2)** by inserting “privately, safely, and securely,” before “the following”.
+- **(b)** *Requirement that recipients of grants meet physical privacy, safety, and security needs of homeless veterans* Subsection (f) of such section is amended by adding at the end the following new paragraph:
+  > - **(6)** To meet the physical privacy, safety, and security needs of homeless veterans receiving services through the project.
+
+## § 4. Increased per diem payments for transitional housing assistance that becomes permanent housing for homeless veterans
+
+Section 2012(a)(2) of title 38, United States Code, is amended—
+
+- **(1)** by redesignating subparagraphs (B) through (D) as subparagraphs (C) through (E), respectively;
+- **(2)** in subparagraph (C), as redesignated, by striking “in subparagraph (D)” and inserting “in subparagraph (E)”;
+- **(3)** in subparagraph (D), as redesignated, by striking “under subparagraph (B)” and inserting “under subparagraph (C)”;
+- **(4)** in subparagraph (E), as redesignated, by striking “in subparagraphs (B) and (C)” and inserting “in subparagraphs (C) and (D)”; and
+- **(5)** in subparagraph (A)—
+  - **(A)** by striking “The rate” and inserting “Except as otherwise provided in subparagraph (B), the rate”; and
+  - **(B)** by striking “under subparagraph (B)” and all that follows through the end and inserting the following: “under subparagraph (C).
+    > - **(B)**
+    >   - **(i)** Except as provided in clause (ii), in no case may the rate determined under this paragraph exceed the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of section 1741 of this title, as the Secretary may increase from time to time under subsection (c) of that section.
+    >   - **(ii)** In the case of services furnished to a homeless veteran who is placed in housing that will become permanent housing for the veteran upon termination of the furnishing of such services to such veteran, the maximum rate of per diem authorized under this section is 150 percent of the rate described in clause (i).
+
+## § 5. Authorization of per diem payments for furnishing care to dependents of certain homeless veterans
+
+Subsection (a) of section 2012 of title 38, United States Code, is amended by adding at the end the following new paragraph:
+
+> - **(4)** Services for which a recipient of a grant under section 2011 of this title (or an entity described in paragraph (1)) may receive per diem payments under this subsection may include furnishing care for a dependent of a homeless veteran who is under the care of such homeless veteran while such homeless veteran receives services from the grant recipient (or entity).
+
+## § 6. Requirement for Department of Veterans Affairs to assess comprehensive service programs for homeless veterans
+
+- **(a)** *In general* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall assess and measure the capacity of programs for which entities receive grants under section 2011 of title 38, United States Code, or per diem payments under section 2012 or 2061 of such title.
+- **(b)** *Assessment at national and local levels* In assessing and measuring under subsection (a), the Secretary shall develop and use tools to examine the capacity of programs described in such subsection at both the national and local level in order to assess the following:
+  - **(1)** Whether sufficient capacity exists to meet the needs of homeless veterans in each geographic area.
+  - **(2)** Whether existing capacity meets the needs of the subpopulations of homeless veterans located in each geographic area.
+  - **(3)** The amount of capacity that recipients of grants under sections 2011 and 2061 and per diem payments under section 2012 of such title have to provide services for which the recipients are eligible to receive per diem under section 2012(a)(2)(B)(ii) of title 38, United States Code, as added by section 4(5)(B).
+- **(c)** *Use of information* The Secretary shall use the information collected under this section as follows:
+  - **(1)** To set specific goals to ensure that programs described in subsection (a) are effectively serving the needs of homeless veterans.
+  - **(2)** To assess whether programs described in subsection (a) are meeting goals set under paragraph (1).
+  - **(3)** To inform funding allocations for programs described in subsection (a).
+  - **(4)** To improve the referral of homeless veterans to programs described in subsection (a).
+- **(d)** *Report* Not later than 180 days after the date on which the assessment required by subsection (b) is completed, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on such assessment and such recommendations for legislative and administrative action as the Secretary may have to improve the programs and per diem payments described in subsection (a).
+
+## § 7. Expansion of Department of Veterans Affairs authority to provide dental care to homeless veterans
+
+- **(a)** *In general* Section 2062(b) of title 38, United States Code, is amended to read as follows:
+  > - **(b)** *Eligible veterans*
+  >   - **(1)** Subsection (a) applies to a veteran who—
+  >     - **(A)** is enrolled for care under section 1705(a) of this title; and
+  >     - **(B)** for a period of 60 consecutive days, is receiving—
+  >       - **(i)** assistance under section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)); or
+  >       - **(ii)** care (directly or by contract) in any of the following settings:
+  >         - **(I)** A domiciliary under section 1710 of this title.
+  >         - **(II)** A therapeutic residence under section 2032 of this title.
+  >         - **(III)** Community residential care coordinated by the Secretary under section 1730 of this title.
+  >         - **(IV)** A setting for which the Secretary provides funds for a grant and per diem provider.
+  >         - **(V)** A setting—
+  >           - **(aa)** in which the veteran is receiving transitional housing assistance;
+  >           - **(bb)** for which funding is not provided for transitional housing assistance under the laws administered by the Secretary;
+  >           - **(cc)** for which the Secretary receives verification from the provider of care that the veteran is receiving care for a period of 60 consecutive days; and
+  >           - **(dd)** from which the Secretary determines that the veteran cannot reasonably access comparable dental services at no cost and in a reasonable period of time.
+  >   - **(2)** For purposes of paragraph (1), in determining whether a veteran has received assistance or care for a period of 60 consecutive days, the Secretary may disregard breaks in the continuity of assistance or care for which the veteran is not responsible.
+
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect on the date that is one year after the date of the enactment of this Act.
+
+## § 8. Partnerships with public and private entities to provide legal services to homeless veterans and veterans at risk of homelessness
+
+- **(a)** *In general* Chapter 20 of title 38, United States Code, is amended by inserting after section 2022 the following new section:
+  > ## § 2022A. Partnerships with public and private entities to provide legal services to homeless veterans and veterans at risk of homelessness
+  >
+  > - **(a)** *Partnerships authorized* Subject to the availability of funds for that purpose, the Secretary may enter into partnerships with public or private entities to fund a portion of the general legal services specified in subsection (c) that are provided by such entities to homeless veterans and veterans at risk of homelessness.
+  > - **(b)** *Locations* The Secretary shall ensure that, to the extent practicable, partnerships under this section are made with entities equitably distributed across the geographic regions of the United States, including rural communities, tribal lands of the United States, Native Americans, and tribal organizations (as defined in section 3765 of title 38, United States Code).
+  > - **(c)** *Legal services* Legal services specified in this subsection include legal services provided by public or private entities that address the needs of homeless veterans and veterans at risk of homelessness as follows:
+  >   - **(1)** Legal services related to housing, including eviction defense and representation in landlord-tenant cases.
+  >   - **(2)** Legal services related to family law, including assistance in court proceedings for child support, divorce, and estate planning.
+  >   - **(3)** Legal services related to income support, including assistance in obtaining public benefits.
+  >   - **(4)** Legal services related to criminal defense, including defense in matters symptomatic of homelessness, such as outstanding warrants, fines, and driver's license revocation, to reduce recidivism and facilitate the overcoming of reentry obstacles in employment or housing.
+  > - **(d)** *Consultation* In developing and carrying out partnerships under this section, the Secretary shall, to the extent practicable, consult with public and private entities—
+  >   - **(1)** for assistance in identifying and contacting organizations capable of providing the legal services described in subsection (c); and
+  >   - **(2)** to coordinate appropriate outreach relationships with such organizations.
+  > - **(e)** *Reports* The Secretary may require entities that have entered into partnerships under this section to submit to the Secretary periodic reports on legal services provided to homeless veterans and veterans at risk of homelessness pursuant to such partnerships.
+  > - **(f)** *Sunset* The authority of the Secretary to enter into partnerships under this section as described in subsection (a) shall expire on December 31, 2016.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 20 of such title is amended by adding after the item relating to section 2022 the following new item:
+
+## § 9. Requests for data to evaluate and improve services provided to veterans at risk of homelessness
+
+Section 2022 of title 38, United States Code, is amended—
+
+- **(1)** by redesignating subsection (f) as subsection (g);
+- **(2)** by inserting after subsection (e) the following new subsection (f):
+  > - **(f)** *Requests for data To evaluate and improve services provided to veterans at risk of homelessness*
+  >   - **(1)** The Secretary shall from time to time request from the Federal Bureau of Investigation, the Bureau of Prisons, the Bureau of Justice Statistics, and other appropriate Federal law enforcement agencies data in the possession of such agencies useful for the evaluation and improvement of the services provided to veterans at risk of homelessness under this section and section 2023 of this title.
+  >   - **(2)** Such agencies shall make reasonable efforts to comply with any such request by the Secretary.
+
+## § 10. Extension of authority for program of referral and counseling services for veterans at risk of homelessness who are transitioning from certain institutions
+
+Section 2023 of title 38, United States Code, is amended—
+
+- **(1)** by striking subsection (b);
+- **(2)** in subsection (c)(1), by striking “To the extent practicable, the program” and inserting “The program”;
+- **(3)** in subsection (d), by striking “September 30, 2014” and inserting “September 30, 2017”;
+- **(4)** in subsection (e)(2), by striking “provided under the demonstration program”; and
+- **(5)** by redesignating subsections (c), (d), and (e) as subsections (b), (c), and (d), respectively.
+
+## § 11. Repeal of requirement for annual reports on assistance to homeless veterans
+
+- **(a)** *In general* Section 2065 of title 38, United States Code, is hereby repealed.
+- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 20 of such title is amended by striking the item relating to section 2065.
+
+## § 12. Extensions of authorities
+
+- **(a)** *Treatment and rehabilitation for seriously mentally ill and homeless veterans* Section 2031(b) of title 38, United States Code, is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
+- **(b)** *Centers for the provision of comprehensive services to homeless veterans* Section 2033(d) of such title is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
+- **(c)** *Housing assistance for homeless veterans* Section 2041(c) of such title is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
+- **(d)** *Training entities for provision of supportive services for very low-income veteran families in permanent housing* Section 2044(e)(3) of such title is amended by striking “2012” and inserting “2014”.
+- **(e)** *Technical assistance grants for nonprofit community-Based groups* Section 2064(b) of such title is amended by striking “2012” and inserting “2014”.
+- **(f)** *Advisory Committee on Homeless Veterans* Section 2066(d) of such title is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
+
+## § 13. Extension of reduced pension for certain veterans covered by Medicaid plans for services furnished by nursing facilities
+
+- **(a)** *In general* Subsection (d)(7) of section 5503 of title 38, United States Code, is amended by striking “November 30, 2016” and inserting “August 31, 2017”.
+- **(b)** *Clerical amendments*
+  - **(1)** *Section heading* The section heading of such section is amended to read as follows: “Reduced pension for certain hospitalized veterans and certain veterans receiving domiciliary, nursing home, or nursing facility care”.
+  - **(2)** *Table of sections* The table of sections at the beginning of chapter 55 of such title is amended by striking the item relating to section 5503 and inserting the following new item:

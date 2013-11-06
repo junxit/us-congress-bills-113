@@ -1,7 +1,7 @@
 ---
 measure: S. 287
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 287
@@ -37,3 +37,13 @@ Helping Homeless Veterans Act of 2013
 - 2013-09-23 — Committee on Veterans' Affairs. Reported by Senator Sanders with an amendment in the nature of a substitute and an amendment to the title. With written report No. 113-110.
 - 2013-09-23 — Committee on Veterans' Affairs. Reported by Senator Sanders with an amendment in the nature of a substitute and an amendment to the title. With written report No. 113-110.
 - 2013-09-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 197.
+- 2013-11-04 — Senate amendment submitted
+- 2013-11-06 — Amendment SA 2023 agreed to in Senate by Unanimous Consent.
+- 2013-11-06 — Amendment SA 2023 proposed by Senator Hirono for Senator Sanders. (consideration: CR S7887; text: CR S7887) Relative to extension of authority for program of referral and counseling services for veterans at risk of homelessness who are transitioning from certain institutions.
+- 2013-11-06 — Measure laid before Senate by unanimous consent. (consideration: CR S7886-7888)
+- 2013-11-06 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (text: CR S7888)
+- 2013-11-06 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(text: CR S7888)
+- 2013-11-06 — Senate amendment agreed to: Amendment SA 2023 agreed to in Senate by Unanimous Consent.
+- 2013-11-06 — Senate amendment proposed (on the floor): Amendment SA 2023 proposed by Senator Hirono for Senator Sanders.(consideration: CR S7887; text: CR S7887)
+- 2013-11-06 — Senate amendment submitted
+- 2013-11-06 — The committee substitute as amended agreed to by Unanimous Consent. (text of measure as reported in Senate: CR S7886-7887)

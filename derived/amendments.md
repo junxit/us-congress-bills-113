@@ -1,7 +1,7 @@
 ---
 measure: S. 287
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-36 amendatory instructions. 12 executed, 24 stated and not applied.
+31 amendatory instructions. 11 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,15 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 38 U.S.C. § 2002
-
-> Section 2002(1) of title 38, United States Code, is amended by striking “in section 103(a) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11302(a))” and inserting “in subsection (a) or (b) of section 103 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11302)”.
-
-| | |
-|---|---|
-| Removed | `in section 103(a) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11302(a))` |
-| Inserted | `in subsection (a) or (b) of section 103 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11302)` |
 
 ### 38 U.S.C. § 2002
 
@@ -51,25 +42,34 @@ to guess them.
 | Removed | `or modifying` |
 | Inserted | `, modifying, or maintaining` |
 
-### 38 U.S.C. § 2013
+### 38 U.S.C. § 2023
 
-> Section 2021(e)(1)(F) of such title is amended by striking “2013” and inserting “2014”.
+> in subsection (c)(1), by striking “To the extent practicable, the program” and inserting “The program”;
 
 | | |
 |---|---|
-| Removed | `2013` |
-| Inserted | `2014` |
+| Removed | `To the extent practicable, the program` |
+| Inserted | `The program` |
 
-### 38 U.S.C. § 2013
+### 38 U.S.C. § 2023
 
-> Section 2031(b) of such title is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
+> in subsection (d), by striking “September 30, 2014” and inserting “September 30, 2017”;
+
+| | |
+|---|---|
+| Removed | `September 30, 2014` |
+| Inserted | `September 30, 2017` |
+
+### 38 U.S.C. § 2031
+
+> Section 2031(b) of title 38, United States Code, is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
 
 | | |
 |---|---|
 | Removed | `December 31, 2013` |
 | Inserted | `December 31, 2014` |
 
-### 38 U.S.C. § 2013
+### 38 U.S.C. § 2031
 
 > Section 2033(d) of such title is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
 
@@ -78,7 +78,7 @@ to guess them.
 | Removed | `December 31, 2013` |
 | Inserted | `December 31, 2014` |
 
-### 38 U.S.C. § 2013
+### 38 U.S.C. § 2031
 
 > Section 2041(c) of such title is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
 
@@ -87,25 +87,16 @@ to guess them.
 | Removed | `December 31, 2013` |
 | Inserted | `December 31, 2014` |
 
-### 38 U.S.C. § 2013
+### 38 U.S.C. § 2031
 
-> Paragraph (3) of such section is amended by striking “2012” and inserting “2014”.
+> Section 2044(e)(3) of such title is amended by striking “2012” and inserting “2014”.
 
 | | |
 |---|---|
 | Removed | `2012` |
 | Inserted | `2014` |
 
-### 38 U.S.C. § 2013
-
-> Section 2061(d)(1) of such title is amended by striking “for each of” through “shall be available” and inserting “for each of fiscal years 2007 through 2014, $5,000,000 shall be available”.
-
-| | |
-|---|---|
-| Removed | `for each of” through “shall be available` |
-| Inserted | `for each of fiscal years 2007 through 2014, $5,000,000 shall be available` |
-
-### 38 U.S.C. § 2013
+### 38 U.S.C. § 2031
 
 > Section 2064(b) of such title is amended by striking “2012” and inserting “2014”.
 
@@ -114,7 +105,7 @@ to guess them.
 | Removed | `2012` |
 | Inserted | `2014` |
 
-### 38 U.S.C. § 2013
+### 38 U.S.C. § 2031
 
 > Section 2066(d) of such title is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
 
@@ -125,12 +116,12 @@ to guess them.
 
 ### 38 U.S.C. § 5503
 
-> Subsection (d)(7) of section 5503 of title 38, United States Code, is amended by striking “November 30, 2016” and inserting “March 31, 2018”.
+> Subsection (d)(7) of section 5503 of title 38, United States Code, is amended by striking “November 30, 2016” and inserting “August 31, 2017”.
 
 | | |
 |---|---|
 | Removed | `November 30, 2016` |
-| Inserted | `March 31, 2018` |
+| Inserted | `August 31, 2017` |
 
 ## Stated, not applied
 
@@ -155,13 +146,9 @@ complete account of the bill's effect, which it is not.
 | `38 U.S.C. § 3765` | amend | The table of sections at the beginning of chapter 20 of such title is amended by adding after the item relating to section 2022 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | by redesignating subsection (f) as subsection (g); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (e) the following new subsection (f): | the bill names no machine-readable US Code section |
-| — | strike | by striking subsection (b); | the bill names no machine-readable US Code section |
-| — | replace | in subsection (c)(1), by striking “To the extent practical, the program” and inserting “The program”; | the bill names no machine-readable US Code section |
-| — | strike | by striking subsection (d); | the bill names no machine-readable US Code section |
-| — | strike | in subsection (e)(2), by striking “provided under the demonstration program”; and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsections (c) and (e) as subsections (b) and (c), respectively. | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 2023` | strike | by striking subsection (b); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 2023` | strike | in subsection (e)(2), by striking “provided under the demonstration program”; and | the bill quotes the text struck but describes what replaces it |
+| `38 U.S.C. § 2023` | redesignate | by redesignating subsections (c), (d), and (e) as subsections (b), (c), and (d), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 2065` | strike | The table of sections at the beginning of chapter 20 of such title is amended by striking the item relating to section 2065. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 2013` | replace | Section 2013 of title 38, United States Code, is amended by striking paragraphs (4) through (6) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 2013` | add-at-end | Paragraph (1) of section 2044(e) of such title is amended by adding at the end the following new subparagraph (F): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 5503` | amend | The section heading of such section is amended to read as follows: “Reduced pension for certain hospitalized veterans and certain veterans receiving domiciliary, nursing home, or nursing facility care”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 5503` | replace | The table of sections at the beginning of chapter 55 of such title is amended by striking the item relating to section 5503 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
