@@ -1,7 +1,7 @@
 ---
 measure: S. 1512
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1512
@@ -28,3 +28,7 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2013-09-17 — Introduced in Senate
 - 2013-09-17 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2013-11-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2013-11-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.
+- 2013-11-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.
+- 2013-11-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 240.
