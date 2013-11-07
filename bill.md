@@ -1,0 +1,37 @@
+---
+legis-num: S. 1676
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1676
+
+> To exempt certain payments to States from sequestration.
+
+## § 1. Short title
+
+This Act may be cited as the “Return Our State Shares Act”.
+
+## § 2. Exemption of certain payments from sequestration
+
+- **(a)** *In general* Section 255(g)(1)(A) of the Balanced Budget and Emergency Deficit Control Act (2 U.S.C. 905(g)(1)(A)) is amended—
+  - **(1)** by inserting before “Federal Deposit Insurance Corporation, Deposit Insurance Fund (51–4596–0–4–373).” the following:
+    > -  Federal Aid in Wildlife Restoration (14–5029–0–2–303).
+
+  - **(2)** by inserting after “Financial Agent Services (20–1802–0–1–803).” the following:
+    > -  Financial assistance to States pursuant to section 105(a)(2)(B) of the Gulf of Mexico Energy Security Act of 2006 (43 U.S.C. 1331 note) from the Land Acquisition and State Assistance account (14–5035–0–2–303).
+
+  - **(3)** by inserting before “Hazardous Waste Management, Conservation Reserve Program (12–4336–0–3–999).” the following:
+    > -  Gulf Coast Restoration Trust Fund (20–8625–0–7–452).
+
+  - **(4)** by inserting before “Payments to Copyright Owners (03–5175–0–2–376).” the following:
+    > -  Payments of States' shares from certain Gulf of Mexico leases (14–5535–0–2–302).
+
+  - **(5)** by inserting before “Payments to the United States Territories, Fiscal Assistance (14–0418–0–1–806).” the following:
+    > -  Payments to States under the Mineral Leasing Act and Associated Payments (14–5003–0–2–999).
+
+  - **(6)** by inserting before “Tennessee Valley Authority Fund, except nonpower programs and activities (64–4110–0–3–999).” the following:
+    > -  Sport Fish Restoration (14–8151–0–7–303).
+
+- **(b)** *Applicability* The amendment made by this section shall apply to any sequestration order issued under the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 900 et seq.) on or after the date of enactment of this Act.
