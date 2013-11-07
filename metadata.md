@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 280
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 280
@@ -29,3 +29,7 @@ A resolution recognizing the 40th anniversary of the withdrawal of United States
 
 - 2013-10-31 — Introduced in Senate
 - 2013-10-31 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S7732-7733)
+- 2013-11-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2013-11-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2013-11-07 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S7931)
+- 2013-11-07 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S7931)
