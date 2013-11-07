@@ -17,36 +17,38 @@ This Act may be cited as the “Employment Non-Discrimination Act of 2013”.
 
 The purposes of this Act are—
 
-- **(1)** to address the history and persistent, widespread pattern of discrimination, including unconstitutional discrimination, on the bases of sexual orientation and gender identity by private sector employers and local, State, and Federal Government employers;
-- **(2)** to provide an explicit, comprehensive Federal prohibition against employment discrimination on the bases of sexual orientation and gender identity, including meaningful and effective remedies for any such discrimination; and
-- **(3)** to invoke congressional powers, including the powers to enforce the 14th Amendment to the Constitution, and to regulate interstate commerce pursuant to section 8 of article I of the Constitution, in order to prohibit employment discrimination on the bases of sexual orientation and gender identity.
+- **(1)** to address the history and persistent, widespread pattern of discrimination on the bases of sexual orientation and gender identity by private sector employers and local, State, and Federal Government employers;
+- **(2)** to provide an explicit, comprehensive Federal prohibition against employment discrimination on the bases of sexual orientation and gender identity, including meaningful and effective remedies for any such discrimination;
+- **(3)** to invoke congressional powers, including the powers to enforce the 14th Amendment to the Constitution, and to regulate interstate commerce pursuant to section 8 of article I of the Constitution, in order to prohibit employment discrimination on the bases of sexual orientation and gender identity; and
+- **(4)** to reinforce the Nation's commitment to fairness and equal opportunity in the workplace consistent with the fundamental right of religious freedom.
 
 ## § 3. Definitions
 
 - **(a)** *In general* In this Act:
   - **(1)** *Commission* The term Commission means the Equal Employment Opportunity Commission.
   - **(2)** *Covered entity* The term covered entity means an employer, employment agency, labor organization, or joint labor-management committee.
-  - **(3)** *Employee*
+  - **(3)** *Demonstrates* The term demonstrates means meets the burdens of production and persuasion.
+  - **(4)** *Employee*
     - **(A)** *In general* The term employee means—
       - **(i)** an employee as defined in section 701(f) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(f));
       - **(ii)** a State employee to which section 302(a)(1) of the Government Employee Rights Act of 1991 (42 U.S.C. 2000e–16b(a)(1)) applies;
       - **(iii)** a covered employee, as defined in section 101 of the Congressional Accountability Act of 1995 (2 U.S.C. 1301) or section 411(c) of title 3, United States Code; or
       - **(iv)** an employee or applicant to which section 717(a) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–16(a)) applies.
     - **(B)** *Exception* The provisions of this Act that apply to an employee or individual shall not apply to a volunteer who receives no compensation.
-  - **(4)** *Employer* The term employer means—
-    - **(A)** a person engaged in an industry affecting commerce (as defined in section 701(h) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(h)) who has 15 or more employees (as defined in subparagraphs (A)(i) and (B) of paragraph (3)) for each working day in each of 20 or more calendar weeks in the current or preceding calendar year, and any agent of such a person, but does not include a bona fide private membership club (other than a labor organization) that is exempt from taxation under section 501(c) of the Internal Revenue Code of 1986;
+  - **(5)** *Employer* The term employer means—
+    - **(A)** a person engaged in an industry affecting commerce (as defined in section 701(h) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(h)) who has 15 or more employees (as defined in subparagraphs (A)(i) and (B) of paragraph (4)) for each working day in each of 20 or more calendar weeks in the current or preceding calendar year, and any agent of such a person, but does not include a bona fide private membership club (other than a labor organization) that is exempt from taxation under section 501(c) of the Internal Revenue Code of 1986;
     - **(B)** an employing authority to which section 302(a)(1) of the Government Employee Rights Act of 1991 applies;
     - **(C)** an employing office, as defined in section 101 of the Congressional Accountability Act of 1995 or section 411(c) of title 3, United States Code; or
     - **(D)** an entity to which section 717(a) of the Civil Rights Act of 1964 applies.
-  - **(5)** *Employment agency* The term employment agency has the meaning given the term in section 701(c) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(c)).
-  - **(6)** *Gender identity* The term gender identity means the gender-related identity, appearance, or mannerisms or other gender-related characteristics of an individual, with or without regard to the individual’s designated sex at birth.
-  - **(7)** *Labor organization* The term labor organization has the meaning given the term in section 701(d) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(d)).
-  - **(8)** *Person* The term person has the meaning given the term in section 701(a) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(a)).
-  - **(9)** *Sexual orientation* The term sexual orientation means homosexuality, heterosexuality, or bisexuality.
-  - **(10)** *State* The term State has the meaning given the term in section 701(i) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(i)).
+  - **(6)** *Employment agency* The term employment agency has the meaning given the term in section 701(c) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(c)).
+  - **(7)** *Gender identity* The term gender identity means the gender-related identity, appearance, or mannerisms or other gender-related characteristics of an individual, with or without regard to the individual’s designated sex at birth.
+  - **(8)** *Labor organization* The term labor organization has the meaning given the term in section 701(d) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(d)).
+  - **(9)** *Person* The term person has the meaning given the term in section 701(a) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(a)).
+  - **(10)** *Sexual orientation* The term sexual orientation means homosexuality, heterosexuality, or bisexuality.
+  - **(11)** *State* The term State has the meaning given the term in section 701(i) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(i)).
 - **(b)** *Application of definitions* For purposes of this section, a reference in section 701 of the Civil Rights Act of 1964—
-  - **(1)** to an employee or an employer shall be considered to refer to an employee (as defined in subsection (a)(3)) or an employer (as defined in subsection (a)(4)), respectively, except as provided in paragraph (2) of this subsection; and
-  - **(2)** to an employer in subsection (f) of that section shall be considered to refer to an employer (as defined in subsection (a)(4)(A)).
+  - **(1)** to an employee or an employer shall be considered to refer to an employee (as defined in subsection (a)(4)) or an employer (as defined in subsection (a)(5)), respectively, except as provided in paragraph (2) of this subsection; and
+  - **(2)** to an employer in subsection (f) of that section shall be considered to refer to an employer (as defined in subsection (a)(5)(A)).
 
 ## § 4. Employment discrimination prohibited
 
@@ -63,7 +65,8 @@ The purposes of this Act are—
 - **(f)** *No preferential treatment or Quotas* Nothing in this Act shall be construed or interpreted to require or permit—
   - **(1)** any covered entity to grant preferential treatment to any individual or to any group because of the actual or perceived sexual orientation or gender identity of such individual or group on account of an imbalance which may exist with respect to the total number or percentage of persons of any actual or perceived sexual orientation or gender identity employed by any employer, referred or classified for employment by any employment agency or labor organization, admitted to membership or classified by any labor organization, or admitted to, or employed in, any apprenticeship or other training program, in comparison with the total number or percentage of persons of such actual or perceived sexual orientation or gender identity in any community, State, section, or other area, or in the available work force in any community, State, section, or other area; or
   - **(2)** the adoption or implementation by a covered entity of a quota on the basis of actual or perceived sexual orientation or gender identity.
-- **(g)** *Disparate impact* Only disparate treatment claims may be brought under this Act.
+- **(g)** *No disparate impact claims* Only disparate treatment claims may be brought under this Act.
+- **(h)** *Standards of proof* Except as otherwise provided, an unlawful employment practice is established when the complaining party demonstrates that sexual orientation or gender identity was a motivating factor for any employment practice, even though other factors also motivated the practice.
 
 ## § 5. Retaliation prohibited
 
@@ -74,7 +77,8 @@ It shall be an unlawful employment practice for a covered entity to discriminate
 
 ## § 6. Exemption for Religious Organizations
 
-This Act shall not apply to a corporation, association, educational institution or institution of learning, or society that is exempt from the religious discrimination provisions of title VII of the Civil Rights Act of 1964 pursuant (42 U.S.C. 2000e et seq.) to section 702(a) or 703(e)(2) of such Act (42 U.S.C. 2000e–1(a), 2000e–2(e)(2)).
+- **(a)** *In general* This Act shall not apply to a corporation, association, educational institution or institution of learning, or society that is exempt from the religious discrimination provisions of title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.) pursuant to section 702(a) or 703(e)(2) of such Act (42 U.S.C. 2000e–1(a), 2000e–2(e)(2)) (referred to in this section as a “religious employer”).
+- **(b)** *Prohibition on certain government actions* A religious employer's exemption under this section shall not result in any action by a Federal agency, or any State or local agency that receives Federal funding or financial assistance, to penalize or withhold licenses, permits, certifications, accreditation, contracts, grants, guarantees, tax-exempt status, or any benefits or exemptions from that employer, or to prohibit the employer's participation in programs or activities sponsored by that Federal, State, or local agency. Nothing in this subsection shall be construed to invalidate any other Federal, State, or local law (including a regulation) that otherwise applies to a religious employer exempt under this section.
 
 ## § 7. Nonapplication to members of the armed forces; veterans’ preferences
 
@@ -90,7 +94,7 @@ This Act shall not apply to a corporation, association, educational institution 
 
 ## § 9. Collection of statistics prohibited
 
-The Commission shall neither compel the collection of nor require the production of statistics on actual or perceived sexual orientation or gender identity from covered entities.
+The Commission and the Secretary of Labor shall neither compel the collection of nor require the production of statistics on actual or perceived sexual orientation or gender identity from covered entities pursuant to this Act.
 
 ## § 10. Enforcement
 
@@ -109,12 +113,18 @@ The Commission shall neither compel the collection of nor require the production
     - **(B)** sections 302 and 304 of the Government Employee Rights Act of 1991 (42 U.S.C. 2000e–16b and 2000e–16c) in the case of a claim alleged by such individual for a violation of section 302(a)(1) of such Act (42 U.S.C. 2000e–16b(a)(1));
     - **(C)** the Congressional Accountability Act of 1995 (2 U.S.C. 1301 et seq.) in the case of a claim alleged by such individual for a violation of section 201(a)(1) of such Act (2 U.S.C. 1311(a)(1)); and
     - **(D)** chapter 5 of title 3, United States Code, in the case of a claim alleged by such individual for a violation of section 411 of such title.
-- **(b)** *Procedures and remedies* The procedures and remedies applicable to a claim alleged by an individual for a violation of this Act are—
+- **(b)** *Procedures and remedies* Except as provided in section 4(g), the procedures and remedies applicable to a claim alleged by an individual for a violation of this Act are—
   - **(1)** the procedures and remedies applicable for a violation of title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.) in the case of a claim alleged by such individual for a violation of such title;
   - **(2)** the procedures and remedies applicable for a violation of section 302(a)(1) of the Government Employee Rights Act of 1991 (42 U.S.C. 2000e–16b(a)(1)) in the case of a claim alleged by such individual for a violation of such section;
   - **(3)** the procedures and remedies applicable for a violation of section 201(a)(1) of the Congressional Accountability Act of 1995 (2 U.S.C. 1311(a)(1)) in the case of a claim alleged by such individual for a violation of such section; and
   - **(4)** the procedures and remedies applicable for a violation of section 411 of title 3, United States Code, in the case of a claim alleged by such individual for a violation of such section.
 - **(c)** *Other applicable provisions* With respect to a claim alleged by a covered employee (as defined in section 101 of the Congressional Accountability Act of 1995 (2 U.S.C. 1301)) for a violation of this Act, title III of the Congressional Accountability Act of 1995 (2 U.S.C. 1381 et seq.) shall apply in the same manner as such title applies with respect to a claim alleged by such a covered employee for a violation of section 201(a)(1) of such Act (2 U.S.C. 1311(a)(1)).
+- **(d)** *No double recovery* An individual who files claims alleging that a practice is an unlawful employment practice under this Act and an unlawful employment practice because of sex under title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.) shall not be permitted to recover damages for such practice under both of—
+  - **(1)** this Act; and
+  - **(2)** section 1977A of the Revised Statutes (42 U.S.C. 1981a) and title VII of the Civil Rights Act of 1964.
+- **(e)** *Motivating factor decisions* On a claim in which an individual proved a violation under section 4(h) and a respondent demonstrates that the respondent would have taken the same action in the absence of the impermissible motivating factor, the court—
+  - **(1)** may grant declaratory relief, injunctive relief (except as provided in paragraph (2)), and attorney's fees and costs demonstrated to be directly attributable only to the pursuit of a claim under section 4(h); and
+  - **(2)** shall not award damages or issue an order requiring any admission, reinstatement, hiring, promotion, or payment.
 
 ## § 11. State and Federal immunity
 
@@ -131,11 +141,12 @@ The Commission shall neither compel the collection of nor require the production
 
 ## § 12. Attorneys’ fees
 
-Notwithstanding any other provision of this Act, in an action or administrative proceeding for a violation of this Act, an entity described in section 10(a) (other than paragraph (4) of such section), in the discretion of the entity, may allow the prevailing party, other than the Commission or the United States, a reasonable attorney’s fee (including expert fees) as part of the costs. The Commission and the United States shall be liable for the costs to the same extent as a private person.
+- **(a)** *Definition* For purposes of this section, the term “decisionmaker” means an entity described in section 10(a) (other than paragraph (4) of such section), acting in the discretion of the entity.
+- **(b)** *Authority* Notwithstanding any other provision of this Act, in an action or administrative proceeding for a violation of this Act, a decisionmaker may allow the prevailing party, other than the Commission or the United States, a reasonable attorney’s fee (including expert fees) as part of the costs, to the same extent as is permitted under title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.), sections 302 and 304 of the Government Employee Rights Act of 1991 (42 U.S.C. 2000e–16b and 2000e–16c), the Congressional Accountability Act of 1995 (2 U.S.C. 1301 et seq.), or chapter 5 of title 3, United States Code, whichever applies to the prevailing party in that action or proceeding. The Commission and the United States shall be liable for the costs to the same extent as a private person.
 
 ## § 13. Posting notices
 
-A covered entity who is required to post notices described in section 711 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–10) shall post notices for employees, applicants for employment, and members, to whom the provisions specified in section 10(b) apply, that describe the applicable provisions of this Act in the manner prescribed by, and subject to the penalty provided under, section 711 of the Civil Rights Act of 1964.
+A covered entity who is required to post a notice described in section 711 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–10) may be required to post an amended notice, including a description of the applicable provisions of this Act, in the manner prescribed by, and subject to the penalty provided under, section 711 of the Civil Rights Act of 1964. Nothing in this Act shall be construed to require a separate notice to be posted.
 
 ## § 14. Regulations
 

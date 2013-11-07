@@ -1,7 +1,7 @@
 ---
 measure: S. 815
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 815
@@ -16,7 +16,7 @@ Employment Non-Discrimination Act of 2013
 
 - Sen. Merkley, Jeff [D-OR] (M001176)
 
-## Cosponsors (54)
+## Cosponsors (64)
 
 - Sen. Harkin, Tom [D-IA] (H000206)
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
@@ -72,10 +72,27 @@ Employment Non-Discrimination Act of 2013
 - Sen. Reid, Harry [D-NV] (R000146)
 - Sen. Johnson, Tim [D-SD] (J000177)
 - Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Cochran, Thad [R-MS] (C000567)
 
 ## Committees (1)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+
+## Recorded votes (4)
+
+- 2013-11-04 — [Senate 113-1-229](votes/senate-113-1-0229.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (61–30)
+- 2013-11-07 — [Senate 113-1-230](votes/senate-113-1-0230.md) — On the Amendment — **Amendment Rejected** (43–55)
+- 2013-11-07 — [Senate 113-1-231](votes/senate-113-1-0231.md) — On the Cloture Motion — **Cloture Motion Agreed to** (64–34)
+- 2013-11-07 — [Senate 113-1-232](votes/senate-113-1-0232.md) — On Passage of the Bill — **Bill Passed** (64–32)
 
 ## Actions
 
@@ -85,3 +102,68 @@ Employment Non-Discrimination Act of 2013
 - 2013-09-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. With written report No. 113-105. Additional views filed.
 - 2013-09-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. With written report No. 113-105. Additional views filed.
 - 2013-09-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 184.
+- 2013-10-31 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S7777; text: CR S7777)
+- 2013-10-31 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S7777)
+- 2013-11-04 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 61 - 30. Record Vote Number: 229. (consideration: CR S7794; text: CR S7794)
+- 2013-11-04 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S7783-7785, S7793-7794)
+- 2013-11-04 — Senate amendment submitted
+- 2013-11-05 — Motion to proceed to consideration of measure considered in Senate. (consideration: CR S7804-7814, S7814-7825)
+- 2013-11-06 — Amendment SA 2012 agreed to in Senate by Voice Vote.
+- 2013-11-06 — Amendment SA 2012 proposed by Senator Reid for Senator Portman. (consideration: CR S7841, S7846) To promote fairness and equal opportunity in the workplace consistent with the fundamental right of religious freedom.
+- 2013-11-06 — Amendment SA 2013 proposed by Senator Reid for Senator Toomey to Amendment SA 2012. (consideration: CR S7841; text: CR S7841) To strike the appropriate balance between protecting workers and protecting religious freedom.
+- 2013-11-06 — Amendment SA 2013 proposed by Senator Reid for Senator Toomey. (consideration: CR S7846)
+- 2013-11-06 — Amendment SA 2014 proposed by Senator Reid to language proposed to be stricken by the committee reported substitute amendment. (consideration: CR S7841; text: CR S7841) To change the enactment date.
+- 2013-11-06 — Amendment SA 2015 proposed by Senator Reid to Amendment SA 2014. (consideration: CR S7841; text: CR S7841) Of a perfecting nature.
+- 2013-11-06 — Amendment SA 2016 proposed by Senator Reid. (consideration: CR S7841; text: CR S7841) To change the enactment date.
+- 2013-11-06 — Amendment SA 2017 proposed by Senator Reid to Amendment SA 2016 (the instructions of the motion to recommit). (consideration: CR S7841; text: CR S7841) Of a perfecting nature.
+- 2013-11-06 — Amendment SA 2018 proposed by Senator Reid to Amendment SA 2017. (consideration: CR S7841; text: CR S7841) Of a perfecting nature.
+- 2013-11-06 — Amendment SA 2020 proposed by Senator Collins for Senator Reid to Amendment SA 2013. (consideration: CR S7846; text: CR S7846) Of a perfecting nature.
+- 2013-11-06 — Cloture motion on the bill presented in Senate. (consideration: CR S7864-7865; text: CR S7864)
+- 2013-11-06 — Measure laid before Senate by motion. (consideration: CR S7839-7841, S7846, S7864-7865; text of measure as reported in Senate: CR S7839-7841)
+- 2013-11-06 — Motion by Senator Reid to recommit to Senate Committee on Health, Education, Labor, and Pensions with instructions to report back forthwith with the following amendment (SA 2016) made in Senate. (consideration: CR S7841; text: CR S7841)
+- 2013-11-06 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent. (consideration: CR S7839)
+- 2013-11-06 — Proposed amendment SA 2013 withdrawn in Senate. (consideration: CR S7846)
+- 2013-11-06 — Senate amendment agreed to: Amendment SA 2012 agreed to in Senate by Voice Vote.
+- 2013-11-06 — Senate amendment proposed (on the floor): Amendment SA 2012 proposed by Senator Reid for Senator Portman.(consideration: CR S7841, S7846)
+- 2013-11-06 — Senate amendment proposed (on the floor): Amendment SA 2013 proposed by Senator Reid for Senator Toomey.(consideration: CR S7846)
+- 2013-11-06 — Senate amendment proposed (on the floor): Amendment SA 2014 proposed by Senator Reid to language proposed to be stricken by the committee reported substitute amendment.(consideration: CR S7841; text: CR S7841)
+- 2013-11-06 — Senate amendment proposed (on the floor): Amendment SA 2015 proposed by Senator Reid to Amendment SA 2014.(consideration: CR S7841; text: CR S7841)
+- 2013-11-06 — Senate amendment proposed (on the floor): Amendment SA 2016 proposed by Senator Reid.(consideration: CR S7841; text: CR S7841)
+- 2013-11-06 — Senate amendment proposed (on the floor): Amendment SA 2017 proposed by Senator Reid to Amendment SA 2016 (the instructions of the motion to recommit).(consideration: CR S7841; text: CR S7841)
+- 2013-11-06 — Senate amendment proposed (on the floor): Amendment SA 2017 proposed by Senator Reid to Amendment SA 2016 (the instructions of the motion to recommit).(consideration: CR S7841; text: CR S7841)
+- 2013-11-06 — Senate amendment proposed (on the floor): Amendment SA 2018 proposed by Senator Reid to Amendment SA 2017.(consideration: CR S7841; text: CR S7841)
+- 2013-11-06 — Senate amendment proposed (on the floor): Amendment SA 2020 proposed by Senator Collins for Senator Reid to Amendment SA 2013.(consideration: CR S7846; text: CR S7846)
+- 2013-11-06 — Senate amendment submitted
+- 2013-11-06 — Senate amendment submitted
+- 2013-11-06 — Senate amendment submitted
+- 2013-11-06 — Senate amendment submitted
+- 2013-11-06 — Senate amendment submitted
+- 2013-11-06 — Senate amendment submitted
+- 2013-11-06 — Senate amendment submitted
+- 2013-11-06 — Senate amendment submitted
+- 2013-11-06 — Senate amendment submitted
+- 2013-11-06 — Senate amendment submitted
+- 2013-11-06 — Senate amendment submitted
+- 2013-11-07 — Amendment SA 2013, under the order of 11/6/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 230.
+- 2013-11-07 — Cloture on the bill invoked in Senate by Yea-Nay Vote. 64 - 34. Record Vote Number: 231. (consideration: CR S7902; text: CR S7902)
+- 2013-11-07 — Considered by Senate. (consideration: CR S7894)
+- 2013-11-07 — Considered by Senate. (consideration: CR S7894)
+- 2013-11-07 — Considered by Senate. (consideration: CR S7894)
+- 2013-11-07 — Considered by Senate. (consideration: CR S7894)
+- 2013-11-07 — Considered by Senate. (consideration: CR S7894)
+- 2013-11-07 — Considered by Senate. (consideration: CR S7894)
+- 2013-11-07 — Considered by Senate. (consideration: CR S7894, S7902)
+- 2013-11-07 — Considered by Senate. (consideration: CR S7894-7909)
+- 2013-11-07 — Message on Senate action sent to the House.
+- 2013-11-07 — Motion by Senator Reid to recommit to Senate Committee on Health, Education, Labor, and Pensions with instructions to report back forthwith with the following amendment (SA 2016) withdrawn in Senate. (consideration: CR S7902)
+- 2013-11-07 — Passed Senate with an amendment by Yea-Nay Vote. 64 - 32. Record Vote Number: 232. (text: CR S7907-7909)
+- 2013-11-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 64 - 32. Record Vote Number: 232.(text: CR S7907-7909)
+- 2013-11-07 — Proposed amendment SA 2014 withdrawn in Senate. (consideration: CR S7902)
+- 2013-11-07 — Proposed amendment SA 2016 withdrawn in Senate. (consideration: CR S7902)
+- 2013-11-07 — Proposed amendment SA 2020 withdrawn in Senate. (consideration: CR S7902)
+- 2013-11-07 — Roll call votes on amendments in Senate: Amendment SA 2013, under the order of 11/6/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 230.
+- 2013-11-07 — SA 2015 fell when SA 2014 withdrawn. (consideration: CR S7902)
+- 2013-11-07 — SA 2017 fell when SA 2016 withdrawn. (consideration: CR S7902)
+- 2013-11-07 — SA 2018 fell when SA 2017 fell. (consideration: CR S7902)
+- 2013-11-07 — Senate amendment not agreed to: Amendment SA 2013, under the order of 11/6/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 230.
+- 2013-11-07 — The committee substitute as amended agreed to by Unanimous Consent. (consideration: CR S7902)
