@@ -1,7 +1,7 @@
 ---
 measure: S. 287
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 287
@@ -24,9 +24,10 @@ Helping Homeless Veterans Act of 2013
 - Sen. Boozman, John [R-AR] (B001236)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,6 @@ Helping Homeless Veterans Act of 2013
 - 2013-11-06 — Senate amendment proposed (on the floor): Amendment SA 2023 proposed by Senator Hirono for Senator Sanders.(consideration: CR S7887; text: CR S7887)
 - 2013-11-06 — Senate amendment submitted
 - 2013-11-06 — The committee substitute as amended agreed to by Unanimous Consent. (text of measure as reported in Senate: CR S7886-7887)
+- 2013-11-07 — Message on Senate action sent to the House.
+- 2013-11-12 — Received in the House.
+- 2013-11-12 — Referred to the House Committee on Veterans' Affairs.

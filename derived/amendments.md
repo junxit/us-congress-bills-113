@@ -1,7 +1,7 @@
 ---
 measure: S. 287
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-31 amendatory instructions. 11 executed, 20 stated and not applied.
+31 amendatory instructions. 15 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,6 +41,42 @@ to guess them.
 |---|---|
 | Removed | `or modifying` |
 | Inserted | `, modifying, or maintaining` |
+
+### 38 U.S.C. § 2012
+
+> in subparagraph (C), as redesignated, by striking “in subparagraph (D)” and inserting “in subparagraph (E)”;
+
+| | |
+|---|---|
+| Removed | `in subparagraph (D)` |
+| Inserted | `in subparagraph (E)` |
+
+### 38 U.S.C. § 2012
+
+> in subparagraph (D), as redesignated, by striking “under subparagraph (B)” and inserting “under subparagraph (C)”;
+
+| | |
+|---|---|
+| Removed | `under subparagraph (B)` |
+| Inserted | `under subparagraph (C)` |
+
+### 38 U.S.C. § 2012
+
+> in subparagraph (E), as redesignated, by striking “in subparagraphs (B) and (C)” and inserting “in subparagraphs (C) and (D)”; and
+
+| | |
+|---|---|
+| Removed | `in subparagraphs (B) and (C)` |
+| Inserted | `in subparagraphs (C) and (D)` |
+
+### 38 U.S.C. § 2012
+
+> by striking “The rate” and inserting “Except as otherwise provided in subparagraph (B), the rate”; and
+
+| | |
+|---|---|
+| Removed | `The rate` |
+| Inserted | `Except as otherwise provided in subparagraph (B), the rate` |
 
 ### 38 U.S.C. § 2023
 
@@ -134,18 +170,14 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `38 U.S.C. § 2011` | insert | by inserting “privately, safely, and securely,” before “the following”. | the bill quotes the text inserted but describes where it goes |
 | `38 U.S.C. § 2011` | add-at-end | Subsection (f) of such section is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | redesignate | by redesignating subparagraphs (B) through (D) as subparagraphs (C) through (E), respectively; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (C), as redesignated, by striking “in subparagraph (D)” and inserting “in subparagraph (E)”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (D), as redesignated, by striking “under subparagraph (B)” and inserting “under subparagraph (C)”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (E), as redesignated, by striking “in subparagraphs (B) and (C)” and inserting “in subparagraphs (C) and (D)”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “The rate” and inserting “Except as otherwise provided in subparagraph (B), the rate”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “under subparagraph (B)” and all that follows through the end and inserting the following: “under subparagraph (C). | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 2012` | redesignate | by redesignating subparagraphs (B) through (D) as subparagraphs (C) through (E), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 2012` | replace | by striking “under subparagraph (B)” and all that follows through the end and inserting the following: “under subparagraph (C). | the bill quotes the text struck but describes what replaces it |
 | `38 U.S.C. § 2012` | add-at-end | Subsection (a) of section 2012 of title 38, United States Code, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1437f` | amend | Section 2062(b) of title 38, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 3765` | insert | Chapter 20 of title 38, United States Code, is amended by inserting after section 2022 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 3765` | amend | The table of sections at the beginning of chapter 20 of such title is amended by adding after the item relating to section 2022 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | redesignate | by redesignating subsection (f) as subsection (g); | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (e) the following new subsection (f): | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 2062` | amend | Section 2062(b) of title 38, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 2022` | insert | Chapter 20 of title 38, United States Code, is amended by inserting after section 2022 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 2022` | amend | The table of sections at the beginning of chapter 20 of such title is amended by adding after the item relating to section 2022 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 2022` | redesignate | by redesignating subsection (f) as subsection (g); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 2022` | insert | by inserting after subsection (e) the following new subsection (f): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 2023` | strike | by striking subsection (b); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 2023` | strike | in subsection (e)(2), by striking “provided under the demonstration program”; and | the bill quotes the text struck but describes what replaces it |
 | `38 U.S.C. § 2023` | redesignate | by redesignating subsections (c), (d), and (e) as subsections (b), (c), and (d), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
