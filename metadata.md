@@ -1,7 +1,7 @@
 ---
 measure: S. 1561
 congress: 113
-version: Reported to Senate
+version: Referred in House
 ---
 
 # S. 1561
@@ -23,9 +23,10 @@ CHIMP Act Amendments of 2013
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -37,3 +38,6 @@ CHIMP Act Amendments of 2013
 - 2013-10-30 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7684-7685; text as passed Senate: CR S7685)
 - 2013-10-30 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7684-7685; text as passed Senate: CR S7685)
 - 2013-10-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 228.
+- 2013-10-31 — Message on Senate action sent to the House.
+- 2013-11-12 — Received in the House.
+- 2013-11-12 — Referred to the House Committee on Energy and Commerce.
