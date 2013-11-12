@@ -1,7 +1,7 @@
 ---
 measure: S. 1356
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1356
@@ -30,3 +30,7 @@ Workforce Investment Act of 2013
 
 - 2013-07-24 — Introduced in Senate
 - 2013-07-24 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2013-07-31 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2013-11-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
+- 2013-11-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
+- 2013-11-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 243.
