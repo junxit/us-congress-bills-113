@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1965
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+4 amendatory instructions. 1 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 30 U.S.C. § 188
+
+> Section 31(e) of the Mineral Leasing Act (30 U.S.C. 188(e)) is amended in the matter following paragraph (4) by striking “at least thirty days in advance of the reinstatement” and inserting “in an annual report”.
+
+| | |
+|---|---|
+| Removed | `at least thirty days in advance of the reinstatement` |
+| Inserted | `in an annual report` |
 
 ## Stated, not applied
 
@@ -32,5 +43,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `30 U.S.C. § 226` | amend | Section 17(p)(2) of the Mineral Leasing Act (30 U.S.C. 226(p)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 17(p) of the Mineral Leasing Act (30 U.S.C. 226(p)) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `30 U.S.C. § 226` | add-at-end | Section 17(p) of the Mineral Leasing Act (30 U.S.C. 226(p)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 226` | add-at-end | Section 17(a) of the Mineral Leasing Act (30 U.S.C. 226(a)) is amended by inserting “(1)” before “All lands”, and by adding at the end the following: | the bill quotes the text inserted but describes where it goes |
