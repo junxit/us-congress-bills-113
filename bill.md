@@ -80,10 +80,11 @@ The Secretary of the Interior, acting through the Bureau of Land Management, sha
       - **(i)** any person or entity to conduct activities on Indian Land, which activities involve the exploration, development, production or transportation of oil, gas, coal, shale gas, oil shale, geothermal resources, wind or solar resources, underground coal gasification, biomass, or the generation of electricity, or
       - **(ii)** any Indian Tribe, or any organization of two or more entities, at least one of which is an Indian tribe, to conduct activities involving the exploration, development, production or transportation of oil, gas, coal, shale gas, oil shale, geothermal resources, wind or solar resources, underground coal gasification, biomass, or the generation of electricity, regardless of where such activities are undertaken.
   - **(4)** *Ultimately prevail on the merits* The phrase “Ultimately prevail on the merits” means, in a final enforceable judgment on the merits, the court rules in the plaintiff’s favor on at least one cause of action which is an underlying rationale for the preliminary injunction, and does not include circumstances where the final agency action is modified or amended by the issuing agency unless such modification or amendment is required pursuant to a final enforceable judgment of the court or a court-ordered consent decree.
+  - **(5)** *Indian tribe* The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 ## § 8. Tribal biomass demonstration project
 
-The Tribal Forest Protection Act of 2004 (25 U.S.C. 3115a) is amended by inserting after section 2 the following:
+The Tribal Forest Protection Act of 2004 is amended by inserting after section 2 (25 U.S.C. 3115a) the following:
 
 > ## § 3. Tribal biomass demonstration project
 >
