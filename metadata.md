@@ -1,7 +1,7 @@
 ---
 measure: S. 252
 congress: 113
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 252
@@ -16,7 +16,7 @@ PREEMIE Reauthorization Act
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Isakson, Johnny [R-GA] (I000055)
@@ -29,6 +29,7 @@ PREEMIE Reauthorization Act
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
 
 ## Committees (2)
 
@@ -61,3 +62,13 @@ PREEMIE Reauthorization Act
 - 2013-11-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6963)
 - 2013-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6963)
 - 2013-11-12 — The title of the measure was amended. Agreed to without objection.
+- 2013-11-13 — Message on House action received in Senate and at desk: House amendments to Senate bill.
+- 2013-11-14 — Resolving differences -- Senate actions: Senate agreed to House amendments to Senate bill by Unanimous Consent.(consideration: CR S8069)
+- 2013-11-14 — Senate agreed to House amendments to Senate bill by Unanimous Consent. (consideration: CR S8069)
+- 2013-11-18 — Message on Senate action sent to the House.
+- 2013-11-21 — Presented to President.
+- 2013-11-21 — Presented to President.
+- 2013-11-27 — Became Public Law No: 113-55.
+- 2013-11-27 — Became Public Law No: 113-55.
+- 2013-11-27 — Signed by President.
+- 2013-11-27 — Signed by President.

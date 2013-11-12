@@ -1,7 +1,7 @@
 ---
 measure: S. 252
 congress: 113
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
