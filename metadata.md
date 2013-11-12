@@ -1,7 +1,7 @@
 ---
 measure: S. 815
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 815
@@ -83,9 +83,13 @@ Employment Non-Discrimination Act of 2013
 - Sen. Paul, Rand [R-KY] (P000603)
 - Sen. Cochran, Thad [R-MS] (C000567)
 
-## Committees (1)
+## Committees (5)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Judiciary Committee
+- House — Oversight and Accountability Committee
+- House — Committee on House Administration
+- House — Education and the Workforce Committee
 
 ## Recorded votes (4)
 
@@ -167,3 +171,8 @@ Employment Non-Discrimination Act of 2013
 - 2013-11-07 — SA 2018 fell when SA 2017 fell. (consideration: CR S7902)
 - 2013-11-07 — Senate amendment not agreed to: Amendment SA 2013, under the order of 11/6/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 230.
 - 2013-11-07 — The committee substitute as amended agreed to by Unanimous Consent. (consideration: CR S7902)
+- 2013-11-12 — Received in the House.
+- 2013-11-12 — Referred to the Committee on Education and the Workforce, and in addition to the Committees on House Administration, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-11-12 — Referred to the Committee on Education and the Workforce, and in addition to the Committees on House Administration, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-11-12 — Referred to the Committee on Education and the Workforce, and in addition to the Committees on House Administration, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-11-12 — Referred to the Committee on Education and the Workforce, and in addition to the Committees on House Administration, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
