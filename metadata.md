@@ -1,7 +1,7 @@
 ---
 measure: S. 252
 congress: 113
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 252
@@ -16,7 +16,7 @@ PREEMIE Reauthorization Act
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Isakson, Johnny [R-GA] (I000055)
@@ -28,6 +28,7 @@ PREEMIE Reauthorization Act
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Harkin, Tom [D-IA] (H000206)
 
 ## Committees (2)
 
@@ -53,3 +54,10 @@ PREEMIE Reauthorization Act
 - 2013-09-26 — Message on Senate action sent to the House.
 - 2013-09-26 — Received in the House.
 - 2013-09-26 — Referred to the House Committee on Energy and Commerce.
+- 2013-09-27 — Referred to the Subcommittee on Health.
+- 2013-11-12 — Considered under suspension of the rules. (consideration: CR H6961-6967)
+- 2013-11-12 — DEBATE - The House proceeded with forty minutes of debate on S. 252.
+- 2013-11-12 — Mr. Upton moved to suspend the rules and pass the bill, as amended.
+- 2013-11-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6963)
+- 2013-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6963)
+- 2013-11-12 — The title of the measure was amended. Agreed to without objection.

@@ -1,7 +1,7 @@
 ---
 measure: S. 252
 congress: 113
-version: Referred in House
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 3 executed, 4 stated and not applied.
+15 amendatory instructions. 5 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,6 +51,24 @@ to guess them.
 | Removed | `$5,000,000” and all that follows through “2011.` |
 | Inserted | `$1,900,000 for each of fiscal years 2014 through 2018.` |
 
+### 42 U.S.C. § 283m
+
+> by striking “With respect to amounts reserved under paragraph (1)” and inserting “With respect to amounts authorized to be appropriated by paragraph (1)”; and
+
+| | |
+|---|---|
+| Removed | `With respect to amounts reserved under paragraph (1)` |
+| Inserted | `With respect to amounts authorized to be appropriated by paragraph (1)` |
+
+### 42 U.S.C. § 283m
+
+> by striking “board of directors” and inserting “Secretary in consultation with the board of directors”.
+
+| | |
+|---|---|
+| Removed | `board of directors` |
+| Inserted | `Secretary in consultation with the board of directors` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -64,3 +82,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 280g-5` | replace | in paragraph (1), by striking subparagraphs (A) through (F) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280g-5` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 247b-4g` | strike | The Prematurity Research Expansion and Education for Mothers who deliver Infants Early Act is amended by striking section 5 (42 U.S.C. 247b–4g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 284h` | redesignate | by redesignating subsection (d) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 284h` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 283m` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 283m` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 283m` | redesignate | by redesignating paragraph (3) as paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 283m` | add-at-end | Section 404K(g) of the Public Health Service Act (42 U.S.C. 283m(g)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
