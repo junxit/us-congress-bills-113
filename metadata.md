@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2922
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2922
@@ -51,3 +51,12 @@ To extend the authority of the Supreme Court Police to protect court officials a
 - 2013-11-12 — Reported by the Committee on Judiciary. H. Rept. 113-259.
 - 2013-11-12 — Reported by the Committee on Judiciary. H. Rept. 113-259.
 - 2013-11-13 — Received in the Senate, read twice.
+- 2013-12-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8605)
+- 2013-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8605)
+- 2013-12-11 — Message on Senate action sent to the House.
+- 2013-12-13 — Presented to President.
+- 2013-12-13 — Presented to President.
+- 2013-12-20 — Became Public Law No: 113-62.
+- 2013-12-20 — Became Public Law No: 113-62.
+- 2013-12-20 — Signed by President.
+- 2013-12-20 — Signed by President.
