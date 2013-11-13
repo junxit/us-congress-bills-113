@@ -1,7 +1,7 @@
 ---
 measure: S. 1557
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1557
@@ -42,9 +42,10 @@ Children's Hospital GME Support Reauthorization Act of 2013
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Levin, Carl [D-MI] (L000261)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -56,3 +57,6 @@ Children's Hospital GME Support Reauthorization Act of 2013
 - 2013-10-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 227.
 - 2013-11-12 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7963; text as passed Senate: CR S7963)
 - 2013-11-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7963; text as passed Senate: CR S7963)
+- 2013-11-13 — Message on Senate action sent to the House.
+- 2013-11-13 — Received in the House.
+- 2013-11-13 — Referred to the House Committee on Energy and Commerce.
