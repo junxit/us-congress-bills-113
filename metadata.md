@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2922
 congress: 113
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 2922
@@ -50,3 +50,4 @@ To extend the authority of the Supreme Court Police to protect court officials a
 - 2013-11-12 — Placed on the Union Calendar, Calendar No. 186.
 - 2013-11-12 — Reported by the Committee on Judiciary. H. Rept. 113-259.
 - 2013-11-12 — Reported by the Committee on Judiciary. H. Rept. 113-259.
+- 2013-11-13 — Received in the Senate, read twice.
