@@ -1,0 +1,23 @@
+---
+legis-num: S. 1699
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1699
+
+> To permit individuals to renew certain health insurance coverage offered in the individual or small group markets and to provide that such individuals would not be subject to the individual mandate penalty.
+
+## § 1. Short title
+
+This Act may be cited as the “Continuous Coverage Act”.
+
+## § 2. Providing individuals with the opportunity to renew their health insurance coverage
+
+Notwithstanding any provision of the Patient Protection and Affordable Care Act (Public Law 111–148) or the Health Care and Education Reconciliation Act of 2010 (Public Law 111–152), and the amendments made by such Acts—
+
+- **(1)** a health insurance insurer shall offer an individual the opportunity to renew enrollment in health insurance coverage offered in the individual market if such individual was enrolled in such coverage on September 30, 2013, and such individual continues to meet the requirements of eligibility for such coverage (such as timely payment of premiums);
+- **(2)** an individual may renew enrollment in health insurance coverage described in paragraph (1) for plan years through December 31, 2015;
+- **(3)** health insurance coverage described in paragraph (1) shall not be required to meet the requirements of 1302 of the Patient Protection and Affordable Care Act (42 U.S.C. 18022); and
+- **(4)** health insurance coverage described in paragraph (1) shall be deemed to be minimum essential coverage for purposes of section 5000A of the Internal Revenue Code of 1986l.
