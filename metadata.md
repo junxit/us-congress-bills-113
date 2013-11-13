@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2871
 congress: 113
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 2871
@@ -51,3 +51,4 @@ To amend title 28, United States Code, to modify the composition of the southern
 - 2013-11-12 — Placed on the Union Calendar, Calendar No. 185.
 - 2013-11-12 — Reported by the Committee on Judiciary. H. Rept. 113-258.
 - 2013-11-12 — Reported by the Committee on Judiciary. H. Rept. 113-258.
+- 2013-11-13 — Received in the Senate, read twice.
