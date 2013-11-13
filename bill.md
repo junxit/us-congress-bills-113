@@ -2,7 +2,7 @@
 legis-num: H. RES. 196
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 196
@@ -17,5 +17,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That the House of Representatives—
 
-- **(1)** supports the Sixth Amendment to the United States Constitution, the right to counsel; and
-- **(2)** supports strategies to improve the criminal justice system to ensure that indigent defendants in all felony cases are adequately represented by counsel.
+- **(1)** supports the Sixth Amendment to the United States Constitution, the right to counsel;
+- **(2)** supports strategies to improve the criminal justice system to ensure that indigent defendants in all felony cases are adequately represented by counsel; and
+- **(3)** urges States to work to ensure that indigent defendants in all felony cases are adequately represented by counsel.

@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 196
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 196
@@ -49,3 +49,6 @@ Supporting the Sixth Amendment to the United States Constitution, the right to c
 - 2013-11-12 — Placed on the House Calendar, Calendar No. 71.
 - 2013-11-12 — Reported by the Committee on Judiciary. H. Rept. 113-260.
 - 2013-11-12 — Reported by the Committee on Judiciary. H. Rept. 113-260.
+- 2013-11-13 — Considered as unfinished business. (consideration: CR H7034)
+- 2013-11-13 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR 11/12/2013 H6975)
+- 2013-11-13 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR 11/12/2013 H6975)
