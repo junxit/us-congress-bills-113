@@ -1,7 +1,7 @@
 ---
 measure: S. 1557
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1557
@@ -60,3 +60,15 @@ Children's Hospital GME Support Reauthorization Act of 2013
 - 2013-11-13 — Message on Senate action sent to the House.
 - 2013-11-13 — Received in the House.
 - 2013-11-13 — Referred to the House Committee on Energy and Commerce.
+- 2013-11-15 — Referred to the Subcommittee on Communications and Technology.
+- 2014-04-01 — Considered under suspension of the rules. (consideration: CR H2782-2784)
+- 2014-04-01 — DEBATE - The House proceeded with forty minutes of debate on S. 1557.
+- 2014-04-01 — Mr. Pitts moved to suspend the rules and pass the bill.
+- 2014-04-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2782-2783)
+- 2014-04-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2782-2783)
+- 2014-04-02 — Presented to President.
+- 2014-04-02 — Presented to President.
+- 2014-04-07 — Became Public Law No: 113-98.
+- 2014-04-07 — Became Public Law No: 113-98.
+- 2014-04-07 — Signed by President.
+- 2014-04-07 — Signed by President.
