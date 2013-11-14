@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2655
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2655
@@ -30,6 +30,11 @@ Lawsuit Abuse Reduction Act of 2013
 
 - House — Judiciary Committee
 
+## Recorded votes (2)
+
+- 2013-11-14 — [House 113-1-580](votes/house-113-1-0580.md) — On Motion to Recommit with Instructions — **Failed** (197–225)
+- 2013-11-14 — [House 113-1-581](votes/house-113-1-0581.md) — On Passage — **Passed** (228–195)
+
 ## Actions
 
 - 2013-07-11 — Introduced in House
@@ -43,3 +48,15 @@ Lawsuit Abuse Reduction Act of 2013
 - 2013-10-30 — Placed on the Union Calendar, Calendar No. 181.
 - 2013-10-30 — Reported by the Committee on Judiciary. H. Rept. 113-255.
 - 2013-10-30 — Reported by the Committee on Judiciary. H. Rept. 113-255.
+- 2013-11-12 — Rules Committee Resolution H. Res. 403 Reported to House. The resolution provides for the consideration of H.R. 2655 and H.R. 982. In the case of H.R. 2655, the resolution provides for one hour of debate and one motion to recommit. In the case of H.R. 982, the resolution provides for one hour of general debate and makes in order only those amendments printed in the Rules Committee report. The resolution also provides for one motion to recommit the bill H.R. 982.
+- 2013-11-14 — Considered under the provisions of rule H. Res. 403. (consideration: CR H7069-7079)
+- 2013-11-14 — DEBATE - The House proceeded with 10 minutes of debate on the Lewis motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to prohibit provisions of the bill from applying to any cases brought under civil rights laws or the Constitution.
+- 2013-11-14 — DEBATE - The House proceeded with one hour of debate on H.R. 2655.
+- 2013-11-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-11-14 — Mr. Lewis moved to recommit with instructions to Judiciary. (consideration: CR H7077-7078; text: CR H7077)
+- 2013-11-14 — On motion to recommit with instructions Failed by the Yeas and Nays: 197 - 225 (Roll no. 580).
+- 2013-11-14 — On passage Passed by recorded vote: 228 - 195 (Roll no. 581). (text: CR H7069)
+- 2013-11-14 — Passed/agreed to in House: On passage Passed by recorded vote: 228 - 195 (Roll no. 581).(text: CR H7069)
+- 2013-11-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7078)
+- 2013-11-14 — The previous question was ordered pursuant to the rule. (consideration: CR H7077)
+- 2013-11-14 — The resolution provides for the consideration of H.R. 2655 and H.R. 982. In the case of H.R. 2655, the resolution provides for one hour of debate and one motion to recommit. In the case of H.R. 982, the resolution provides for one hour of general debate and makes in order only those amendments printed in the Rules Committee report. The resolution also provides for one motion to recommit the bill H.R. 982.
