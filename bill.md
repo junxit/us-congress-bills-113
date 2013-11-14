@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## Preamble
 
-- Whereas, on November 8, 2013, Typhoon Yolanda, also known as Typhoon Haiyan, struck the Republic of the Philippines and the surrounding region;
+- Whereas on November 8, 2013, Typhoon Yolanda, also known as Typhoon Haiyan, struck the Republic of the Philippines and the surrounding region;
 - Whereas Typhoon Yolanda is the strongest typhoon in recorded history to make landfall;
 - Whereas President Benigno Aquino III declared a state of national calamity after Typhoon Yolanda hit the central Philippines;
 - Whereas the typhoon caused widespread flooding and landslides, particularly in the provinces of Eastern Samar and Leyte, which experienced storm surges of up to 13 feet and sustained winds of more than 175 miles per hour;
@@ -23,7 +23,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the United Nations World Food Program estimates that 2,500,000 people will need food assistance in the aftermath of the typhoon;
 - Whereas the Government of the Philippines has been leading and coordinating the disaster response in the Philippines, including the evacuation of more than 792,000 people to temporary shelters and pre-positioning food commodities and emergency relief supplies in advance of the typhoon, and deploying military assets and road-clearing equipment to assist with relief operations;
 - Whereas the response by the United States Government to this tragedy has included $20,000,000 in aid;
-- Whereas a United States Agency for International Development Disaster Assistance Response Team, elements of the 3d Marine Expeditionary Brigade, and other United States military and civilian personnel have deployed to the Philippines to provide aid and coordinate United States relief efforts;
+- Whereas a United States Agency for International Development Disaster Assistance Response Team, elements of the 3rd Marine Expeditionary Brigade, and other United States military and civilian personnel have deployed to the Philippines to provide aid and coordinate United States relief efforts;
 - Whereas the Philippines and the United States fought side-by-side during World War II to defend the Bataan Peninsula and subsequently liberate the Philippines from Japanese control;
 - Whereas the Philippines and the United States share a long, close relationship as allies, as evidenced by the 1951 U.S.-Philippines Mutual Defense Treaty, which was reaffirmed by the Manila Declaration signed in 2011, and the United States designation of the Philippines as a Major Non-NATO Ally;
 - Whereas the Philippines and the United States share strong economic, security, and people-to-people ties, including approximately 4,000,000 Americans of Philippine ancestry living in the United States, and more than 300,000 United States citizens residing in the Philippines; and
