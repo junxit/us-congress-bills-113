@@ -1,7 +1,7 @@
 ---
 measure: H.R. 982
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 982
@@ -21,9 +21,10 @@ Furthering Asbestos Claim Transparency (FACT) Act of 2013
 - Rep. Matheson, Jim [D-UT-4] (M001142)
 - Rep. Chabot, Steve [R-OH-1] (C000266)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (5)
 
@@ -95,3 +96,4 @@ Furthering Asbestos Claim Transparency (FACT) Act of 2013
 - 2013-11-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7032)
 - 2013-11-13 — The previous question was ordered pursuant to the rule. (consideration: CR H7032)
 - 2013-11-13 — The resolution provides for the consideration of H.R. 2655 and H.R. 982. In the case of H.R. 2655, the resolution provides for one hour of debate and one motion to recommit. In the case of H.R. 982, the resolution provides for one hour of general debate and makes in order only those amendments printed in the Rules Committee report. The resolution also provides for one motion to recommit the bill H.R. 982.
+- 2013-11-14 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
