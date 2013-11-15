@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3343
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3343
@@ -29,3 +29,8 @@ To amend the District of Columbia Home Rule Act to clarify the rules regarding t
 - 2013-10-28 — Introduced in House
 - 2013-10-28 — Introduced in House
 - 2013-10-28 — Referred to the House Committee on Oversight and Government Reform.
+- 2013-10-29 — Committee Consideration and Mark-up Session Held.
+- 2013-10-29 — Ordered to be Reported by Voice Vote.
+- 2013-11-15 — Placed on the Union Calendar, Calendar No. 190.
+- 2013-11-15 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-267.
+- 2013-11-15 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-267.
