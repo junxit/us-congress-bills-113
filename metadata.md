@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3350
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3350
@@ -16,7 +16,7 @@ Keep Your Health Plan Act of 2013
 
 - Rep. Upton, Fred [R-MI-6] (U000031)
 
-## Cosponsors (29)
+## Cosponsors (164)
 
 - Rep. Hall, Ralph M. [R-TX-4] (H000067)
 - Rep. Burgess, Michael C. [R-TX-26] (B001248)
@@ -47,11 +47,152 @@ Keep Your Health Plan Act of 2013
 - Rep. Terry, Lee [R-NE-2] (T000459)
 - Rep. McKinley, David B. [R-WV-1] (M001180)
 - Rep. Shimkus, John [R-IL-15] (S000364)
+- Rep. Price, Tom [R-GA-6] (P000591)
+- Rep. Lummis, Cynthia M. [R-WY-At Large] (L000571)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
+- Rep. Latham, Tom [R-IA-3] (L000111)
+- Rep. Hultgren, Randy [R-IL-14] (H001059)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Benishek, Dan [R-MI-1] (B001271)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Nunnelee, Alan [R-MS-1] (N000186)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Capito, Shelley Moore [R-WV-2] (C001047)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Meehan, Patrick [R-PA-7] (M001181)
+- Rep. Yoder, Kevin [R-KS-3] (Y000063)
+- Rep. Webster, Daniel [R-FL-10] (W000806)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Camp, Dave [R-MI-4] (C000071)
+- Rep. Cook, Paul [R-CA-8] (C001094)
+- Rep. Cotton, Tom [R-AR-4] (C001095)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Denham, Jeff [R-CA-10] (D000612)
+- Rep. Gibson, Christopher P. [R-NY-19] (G000564)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Daines, Steve [R-MT-At Large] (D000618)
+- Rep. Cramer, Kevin [R-ND-At Large] (C001096)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Rice, Tom [R-SC-7] (R000597)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Rooney, Thomas J. [R-FL-17] (R000583)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
+- Rep. Bachmann, Michele [R-MN-6] (B001256)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Bentivolio, Kerry L. [R-MI-11] (B001280)
+- Rep. Runyan, Jon [R-NJ-3] (R000594)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Reed, Tom [R-NY-23] (R000585)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Lankford, James [R-OK-5] (L000575)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Labrador, Raul R. [R-ID-1] (L000573)
+- Rep. Black, Diane [R-TN-6] (B001273)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Griffin, Tim [R-AR-2] (G000567)
+- Rep. Brooks, Susan W. [R-IN-5] (B001284)
+- Rep. Brooks, Mo [R-AL-5] (B001274)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Duffy, Sean P. [R-WI-7] (D000614)
+- Rep. Ribble, Reid J. [R-WI-8] (R000587)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Radel, Trey [R-FL-19] (R000596)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Salmon, Matt [R-AZ-5] (S000018)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Gibbs, Bob [R-OH-7] (G000563)
+- Rep. Grimm, Michael G. [R-NY-11] (G000569)
+- Rep. Mulvaney, Mick [R-SC-5] (M001182)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. Nugent, Richard B. [R-FL-11] (N000185)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Renacci, James B. [R-OH-16] (R000586)
+- Rep. Huelskamp, Tim [R-KS-1] (H001057)
+- Rep. Davis, Rodney [R-IL-13] (D000619)
+- Rep. Campbell, John [R-CA-45] (C001064)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Dent, Charles W. [R-PA-15] (D000604)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+- Rep. Paulsen, Erik [R-MN-3] (P000594)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
+- Rep. Turner, Michael R. [R-OH-10] (T000463)
+- Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
+- Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Holding, George [R-NC-13] (H001065)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. Palazzo, Steven M. [R-MS-4] (P000601)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Hunter, Duncan D. [R-CA-50] (H001048)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Heck, Joseph J. [R-NV-3] (H001055)
+- Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. Barrow, John [D-GA-12] (B001252)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. McIntyre, Mike [D-NC-7] (M000485)
+- Rep. Coffman, Mike [R-CO-6] (C001077)
+- Rep. Southerland, Steve II [R-FL-2] (S001186)
+- Rep. Hastings, Doc [R-WA-4] (H000329)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Stockman, Steve [R-TX-36] (S000937)
+- Rep. Ryan, Paul [R-WI-1] (R000570)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
+- Rep. Murphy, Patrick [D-FL-18] (M001191)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
 ## Committees (2)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+
+## Recorded votes (3)
+
+- 2013-11-15 — [House 113-1-585](votes/house-113-1-0585.md) — On Motion to Table the Appeal of the Ruling of the Chair — **Passed** (229–191)
+- 2013-11-15 — [House 113-1-586](votes/house-113-1-0586.md) — On Motion to Recommit with Instructions — **Failed** (187–230)
+- 2013-11-15 — [House 113-1-587](votes/house-113-1-0587.md) — On Passage — **Passed** (261–157)
 
 ## Actions
 
@@ -59,3 +200,24 @@ Keep Your Health Plan Act of 2013
 - 2013-10-28 — Introduced in House
 - 2013-10-28 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-10-28 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-11-01 — Referred to the Subcommittee on Health.
+- 2013-11-14 — Rules Committee Resolution H. Res. 413 Reported to House. Rule provides for consideration of H.R. 3350 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2013-11-15 — Considered under the provisions of rule H. Res. 413. (consideration: CR H7128-7145)
+- 2013-11-15 — DEBATE - The House proceeded with 10 minutes of debate on the Andrews motion to recommit with instructions, pending the reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to give insurance companies the option to continue offering non-Affordable Care Act compliant plans through 2014 to current enrollees only, as long as those plans were in effect as of October 1, 2013. The motion also requires insurance companies to notify consumers of the differences between these extended plans and the options, credits, and subsidies available through the Affordable Care Acts exchanges, as well as instructions on how to receive them. Subsequently, the reservation of a point of order was withdrawn.
+- 2013-11-15 — DEBATE - The House proceeded with 10 minutes of debate on the Andrews motion to recommit with instructions, pending the reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to replace the underlying bill with an entire new text.
+- 2013-11-15 — DEBATE - The House proceeded with one hour of debate on H.R. 3350.
+- 2013-11-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-11-15 — Mr. Andrews appealed the ruling of the chair. The question was then put on sustaining the ruling of the chair.
+- 2013-11-15 — Mr. Andrews moved to recommit with instructions to Energy and Commerce. (consideration: CR H7139-7142; text: CR H7139-7140)
+- 2013-11-15 — Mr. Andrews moved to recommit with instructions to Energy and Commerce. (consideration: CR H7142-7144; text: CR H7142-7143)
+- 2013-11-15 — Mr. Upton moved to table the motion to appeal the ruling of the chair (consideration: CR H7142)
+- 2013-11-15 — Mr. Upton raised a point of order against the motion to recommit with instructions. Mr. Upton stated that the amendment was not germane to the underlying bill. Sustained by the Chair.
+- 2013-11-15 — On motion to recommit with instructions Failed by the Yeas and Nays: 187 - 230 (Roll no. 586). (consideration: CR H7143-7144)
+- 2013-11-15 — On motion to table the motion to appeal the ruling of the chair Agreed to by the Yeas and Nays: 229 - 191 (Roll no. 585).
+- 2013-11-15 — On passage Passed by recorded vote: 261 - 157 (Roll no. 587). (text: CR H7128)
+- 2013-11-15 — Passed/agreed to in House: On passage Passed by recorded vote: 261 - 157 (Roll no. 587).(text: CR H7128)
+- 2013-11-15 — Point of order sustained against the motion to recommit with instructions.
+- 2013-11-15 — Rule H. Res. 413 passed House.
+- 2013-11-15 — Rule provides for consideration of H.R. 3350 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2013-11-15 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7143)
+- 2013-11-15 — The previous question was ordered pursuant to the rule. (consideration: CR H7139)
