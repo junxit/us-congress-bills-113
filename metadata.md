@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 165
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 165
@@ -16,7 +16,7 @@ A resolution calling for the release from prison of former Prime Minister of Ukr
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Cosponsors (6)
+## Cosponsors (11)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Boxer, Barbara [D-CA] (B000711)
@@ -24,6 +24,11 @@ A resolution calling for the release from prison of former Prime Minister of Ukr
 - Sen. Murphy, Christopher [D-CT] (M001169)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Inhofe, James M. [R-OK] (I000024)
 
 ## Committees (1)
 
@@ -37,3 +42,5 @@ A resolution calling for the release from prison of former Prime Minister of Ukr
 - 2013-06-25 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2013-06-25 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2013-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 95.
+- 2013-11-18 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S8082-8083; text as passed Senate: CR S8082)
+- 2013-11-18 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S8082-8083; text as passed Senate: CR S8082)
