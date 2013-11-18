@@ -7,9 +7,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 272
 
-> To designate the Department of Veterans Affairs and Department of Defense joint outpatient clinic to be constructed in Marina, California, as the “General William H. Gourley Federal Outpatient Clinic: A Joint VA–DOD Health Care Facility”.
+> To designate the Department of Veterans Affairs and Department of Defense joint outpatient clinic to be constructed in Marina, California, as the “Major General William H. Gourley VA–DOD Outpatient Clinic”.
 
 ## § 1. Name of the Department of Veterans Affairs and Department of Defense joint outpatient clinic, Marina, California
 
-- **(a)** *Designation* The Department of Veterans Affairs and Department of Defense joint outpatient clinic to be constructed at the intersection of the proposed Ninth Street and the proposed First Avenue in Marina, California, shall be known and designated as the “General William H. Gourley Federal Outpatient Clinic: A Joint VA–DOD Health Care Facility”.
-- **(b)** *References* Any reference in a law, regulation, map, document, record, or other paper of the United States to the Department of Veterans Affairs and Department of Defense joint outpatient clinic referred to in subsection (a) shall be deemed to be a reference to the “General William H. Gourley Federal Outpatient Clinic: A Joint VA–DOD Health Care Facility”.
+- **(a)** *Designation* The Department of Veterans Affairs and Department of Defense joint outpatient clinic to be constructed at the intersection of the proposed Ninth Street and the proposed First Avenue in Marina, California, shall be known and designated as the “Major General William H. Gourley VA–DOD Outpatient Clinic”.
+- **(b)** *References* Any reference in a law, regulation, map, document, record, or other paper of the United States to the Department of Veterans Affairs and Department of Defense joint outpatient clinic referred to in subsection (a) shall be deemed to be a reference to the “Major General William H. Gourley VA–DOD Outpatient Clinic”.
