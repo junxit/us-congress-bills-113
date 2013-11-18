@@ -39,7 +39,7 @@ Section 101(f)(1) of the United States Leadership Against HIV/AIDS, Tuberculosis
     >     - **(ii)** where providing such comparable data is not currently practicable, an explanation of why it is not currently practicable, and when it will be practicable.
 
   - **(4)** by adding at the end the following new paragraph:
-    > - **(4)** *Partner country defined* In this subsection, the term partner country means a country with a minimum United States Government investment of HIV/AIDS assistance of at least $5,000,000 annuallyin the prior fiscal year.
+    > - **(4)** *Partner country defined* In this subsection, the term partner country means a country with a minimum United States Government investment of HIV/AIDS assistance of at least $5,000,000 in the prior fiscal year.
 
 ## § 4. Participation in the Global Fund to fight AIDS, Tuberculosis, and Malaria
 
@@ -69,7 +69,7 @@ Section 101(f)(1) of the United States Leadership Against HIV/AIDS, Tuberculosis
       - **(ii)** by striking clause (ii) and inserting the following new clauses:
         > - **(ii)** all principal recipients and subrecipients and the amount of funds disbursed to each principal recipient and subrecipient on the fiscal cycle of the grant;
         > - **(iii)** expenditure data—
-        >   - **(I)** tracked by principal recipients and subrecipients by prevention, care, and treatment as practicableby program area, where practicable, prevention, care, and treatment and reported in a format that allows comparison with other funding streams in each country; or
+        >   - **(I)** tracked by principal recipients and subrecipients by program area, where practicable, prevention, care, and treatment and reported in a format that allows comparison with other funding streams in each country; or
         >   - **(II)** if such expenditure data is not available, outlay or disbursement data, and an explanation of progress made toward providing such expenditure data; and
         > - **(iv)** high-quality grant performance evaluations measuring inputs, outputs, and outcomes, as appropriate, with the goal of achieving outcome reporting;
 
@@ -88,7 +88,7 @@ Section 104A(f) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b–2(f)) i
 > - **(f)** *Annual report*
 >   - **(1)** *In general* Not later than February 15, 2014, and annually thereafter, the President shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report in an open, machine readable format, on the implementation of this section for the prior fiscal year.
 >   - **(2)** *Report due in 2014* The report due not later than February 15, 2014, shall include the elements required by law prior to the enactment of the PEPFAR Stewardship and Oversight Act of 2013.
->   - **(2)(3)** *Report elements* Each report submitted after February 15, 2014, shall include the following:
+>   - **(3)** *Report elements* Each report submitted after February 15, 2014, shall include the following:
 >     - **(A)** A description based on internationally available data, and where practicable high-quality country-based data, of the total global burden and need for HIV/AIDS prevention, treatment, and care, including—
 >       - **(i)** estimates by partner country of the global burden and need; and
 >       - **(ii)** HIV incidence, prevalence, and AIDS deaths for the reporting period.
@@ -119,8 +119,8 @@ Section 104A(f) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b–2(f)) i
 >       - **(vi)** antiretroviral treatment program retention rates by partner country, including—
 >         - **(I)** performance against annual targets for program retention; and
 >         - **(II)** the retention rate of persons on HIV treatment directly supported by United States-funded programs; and
->       - **(vii)** a description of supportive care, including management of co-morbidities.
->     - **(H)** A description of nationalpartner country and United States-funded HIV/AIDS prevention programs and policies, including—
+>       - **(vii)** a description of supportive care.
+>     - **(H)** A description of partner country and United States-funded HIV/AIDS prevention programs and policies, including—
 >       - **(i)** an assessment by country of progress towards targets set forth in subparagraph (B), with a detailed description of the metrics used to assess—
 >         - **(I)** programs to prevent mother to child transmission of HIV/AIDS, including coverage rates;
 >         - **(II)** programs to provide or promote voluntary medical male circumcision, including coverage rates;
@@ -136,7 +136,7 @@ Section 104A(f) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b–2(f)) i
 >       - **(iii)** a description of measures taken to improve partner country capacity to sustain positive outcomes where needed; and
 >       - **(iv)** for countries undergoing a transition to greater country ownership, a description of strategies to assess and mitigate programmatic and financial risk and to ensure continued quality of care for essential services.
 >     - **(L)** A description, globally and by partner country, of specific efforts to achieve and incentivize greater programmatic and cost effectiveness, including—
->       - **(i)** progress toward establishing common economic metrics across prevention, care and treatment with partner counties and the Global Fund;
+>       - **(i)** progress toward establishing common economic metrics across prevention, care and treatment with partner countries and the Global Fund;
 >       - **(ii)** average costs, by country and by core intervention;
 >       - **(iii)** expenditure reporting in all program areas, supplemented with targeted analyses of the cost-effectiveness of specific interventions; and
 >       - **(iv)** import duties and internal taxes imposed on program commodities and services, by country.
@@ -145,13 +145,15 @@ Section 104A(f) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b–2(f)) i
 >         - **(I)** how these agreements are aligned with national HIV/AIDS plans and public health strategies and commitments of such countries; and
 >         - **(II)** how these agreements incorporate a role for civil society; and
 >       - **(ii)** a description of what has been learned in advancing partnership framework agreements with countries, and regions as applicable, in terms of improved coordination and collaboration, definition of clear roles and responsibilities of participants and signers, and implications for how to further strengthen these agreements with mutually accountable measures of progress.
->     - **(N)** A description of efforts and activities to engage new partners, including faith-based, community-basedlocally-based, and United States minority-serving institutions.
+>     - **(N)** A description of efforts and activities to engage new partners, including faith-based, locally-based, and United States minority-serving institutions.
 >     - **(O)** A definition and description of the differentiation between directly and otherwise supported activities, including specific efforts to clarify programmatic attribution and contribution, as well as timelines for dissemination and implementation.
 >     - **(P)** A description, globally and by country, of specific efforts to address co-infections and co-morbidities of HIV/AIDS, including—
->       - **(“(i)** the number and percent of people in HIV care or treatment who started tuberculosis treatment; and
->       - **(“(ii)** the number and percentage of eligible HIV positive patients starting isoniazid preventative therapy.
+>       - **(i)** the number and percent of people in HIV care or treatment who started tuberculosis treatment; and
+>       - **(ii)** the number and percentage of eligible HIV positive patients starting isoniazid preventative therapy.
 >     - **(Q)** A description of efforts by partner countries to train, employ, and retain health care workers, including efforts to address workforce shortages.
->   - **(3)(4)** *Partner country defined* In this subsection, the term partner country means a country with a minimum United States Government investment of HIV/AIDS assistance of at least $5,000,000 annuallyin the prior fiscal year.
+>     - **(R)** A description of program evaluations completed during the reporting period, including whether all completed evaluations have been published on a publically available Internet website and whether any completed evaluations did not adhere to the common evaluation standards of practice published under paragraph (4).
+>   - **(4)** *Common evaluation standards* Not later than February 1, 2014, the Global AIDS Coordinator shall publish on a publically available Internet website the common evaluation standards of practice referred to in paragraph (3)(R).
+>   - **(5)** *Partner country defined* In this subsection, the term partner country means a country with a minimum United States Government investment of HIV/AIDS assistance of at least $5,000,000 in the prior fiscal year.
 
 ## § 6. Allocation of funding
 
