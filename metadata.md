@@ -1,7 +1,7 @@
 ---
 measure: S. 1545
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1545
@@ -47,3 +47,14 @@ PEPFAR Stewardship and Oversight Act of 2013
 - 2013-11-18 — Senate amendment submitted
 - 2013-11-18 — Senate amendment submitted
 - 2013-11-18 — The committee reported amendments are agreed to by Unanimous Consent and considered as original text.
+- 2013-11-19 — Considered under suspension of the rules. (consideration: CR H7232-7238)
+- 2013-11-19 — DEBATE - The House proceeded with forty minutes of debate on S. 1545.
+- 2013-11-19 — Mr. Royce moved to suspend the rules and pass the bill.
+- 2013-11-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7232-7233)
+- 2013-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7232-7233)
+- 2013-11-21 — Presented to President.
+- 2013-11-21 — Presented to President.
+- 2013-12-02 — Became Public Law No: 113-56.
+- 2013-12-02 — Became Public Law No: 113-56.
+- 2013-12-02 — Signed by President.
+- 2013-12-02 — Signed by President.
