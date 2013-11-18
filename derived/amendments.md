@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2061
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-39 amendatory instructions. 10 executed, 29 stated and not applied.
+44 amendatory instructions. 10 executed, 34 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -126,10 +126,13 @@ complete account of the bill's effect, which it is not.
 | `5 U.S.C. § 105` | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (3) and (7), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 105` | insert | by inserting after paragraph (1) the following new paragraph (2): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 1105` | redesignate | by inserting after paragraph (3), as redesignated by subparagraph (A), the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | redesignate | in clause (i), by redesignating subclauses (I) and (II) as items (aa) and (bb), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | redesignate | by redesignating clauses (i) and (ii) as subclauses (I) and (II); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | redesignate | by striking the period at the end of subclause (II) as so redesignated and inserting “; and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | redesignate | by redesignating subparagraphs (A) through (G) as clauses (i) through (vii), respectively, and adjusting the margin accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | replace | by striking “for each Federal award—” and inserting the following: “for all Federal funds— | the bill quotes the text struck but describes what replaces it |
 | `31 U.S.C. § 6101` | insert | in subparagraph (B)(iii), as so designated by this subparagraph, by inserting “, which shall be assigned a unique identifier,” after “information on the award”; | the bill quotes the text inserted but describes where it goes |
-| `31 U.S.C. § 6101` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | amend | in subparagraph (B), by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | insert | in paragraph (2), by inserting “the Payment Automation Manager and Financial Information Repository and other data or databases from the Department of the Treasury, the MAX Information System of the Office of Management and Budget, other… | the bill quotes the text inserted but describes where it goes |
@@ -137,18 +140,20 @@ complete account of the bill's effect, which it is not.
 | `31 U.S.C. § 6101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | insert | by inserting “Federal funds and” before “Federal awards” the first place it appears; | the bill quotes the text inserted but describes where it goes |
 | `31 U.S.C. § 6101` | replace | by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 6101` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | redesignate | by redesignating subsections (e), (f), and (g) as subsections (i), (j), and (k), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | insert | by inserting after subsection (d) the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 552` | amend | Section 3 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | in subsection 1501(4) of title XV, by adding before the period at the end the following: “except that, in subtitle B, the term means any funds that are obligated or expended by an agency from appropriations made under this or any other A… | the bill names no machine-readable US Code section |
+| `31 U.S.C. § 6101` | amend | Section 3 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in section 1501 of title XV, by striking paragraph (4) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in section 1512 of title XV, by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in section 1523 of title XV, by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in section 1526 of title XV, by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in section 1530 of title XV, by striking “September 30, 2013,” and inserting “September 30, 2017.”. | the bill names no machine-readable US Code section |
+| — | replace | in section 1530 of title XV, by striking “September 30, 2013.” and inserting “September 30, 2017.”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “for purposes related to the impact of Hurricane Sandy”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “related to the impact of Hurricane Sandy” after “receiving appropriations”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “related to funds appropriated for the impact of Hurricane Sandy” after “on its activities”. | the bill names no machine-readable US Code section |
 | `31 U.S.C. § 3512` | insert | in paragraph (1), by inserting “and make available on the website described under section 1122 of this title” after “appropriate committees of the Congress”; | the bill quotes the text inserted but describes where it goes |
 | `31 U.S.C. § 3512` | insert | in paragraph (3)(B)(vi), by inserting “, system development, financial management workforce development, related risk assessment and mitigation for the Federal Government as a whole, related risk assessment and mitigation for executive a… | the bill quotes the text inserted but describes where it goes |
 | `31 U.S.C. § 6101` | add-at-end | in paragraph (4), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 5711` | insert | Chapter 57 of title 5, United States Code, is amended by inserting after section 5711 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 5711` | insert | The table of sections for chapter 57 of title 5, United States Code, is amended by inserting after the item relating to section 5711 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

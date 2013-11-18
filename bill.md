@@ -18,8 +18,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 The purposes of this Act are to—
 
-- **(1)** expand the Federal Funding Accountability and Transparency Act of 2006 by disclosing direct Federal agency expenditures and linking Federal contract, loan, and grant spending information to programs of Federal agencies in order to enable taxpayers and policymakers to track Federal spending more effectively;
-- **(2)** provide consistent, reliable, and searchable Government-wide spending data that is displayed accurately for taxpayers and policymakers on USASpending.gov;
+- **(1)** expand the Federal Funding Accountability and Transparency Act of 2006 by disclosing direct Federal agency expenditures and linking Federal contract, loan, and grant spending information to programs of Federal agencies in order to enable taxpayers and policy makers to track Federal spending more effectively;
+- **(2)** provide consistent, reliable, and searchable Government-wide spending data that is displayed accurately for taxpayers and policy makers on USASpending.gov;
 - **(3)** analyze Federal spending data to proactively prevent waste, fraud, abuse, and improper payments;
 - **(4)** simplify reporting for entities receiving Federal funds by streamlining reporting requirements and reducing compliance costs while improving transparency; and
 - **(5)** improve the quality of data submitted to USASpending.gov by holding Federal agencies accountable for the completeness and accuracy of the data submitted.
@@ -45,8 +45,12 @@ Section 2 of the Federal Funding Accountability and Transparency Act of 2006 (31
 - **(3)** in subsection (b)—
   - **(A)** in paragraph (1)—
     - **(i)** by striking “the Office of Management and Budget” and inserting “the Secretary of the Treasury” each place it appears;
-    - **(ii)** by redesignating subparagraphs (A) through (G) as clauses (i) through (vii), respectively, and adjusting the margin accordingly;
-    - **(iii)** by striking “for each Federal award—” and inserting the following: “for all Federal funds—
+    - **(ii)** in subparagraph (F)—
+      - **(I)** in clause (i), by redesignating subclauses (I) and (II) as items (aa) and (bb), respectively;
+      - **(II)** by redesignating clauses (i) and (ii) as subclauses (I) and (II); and
+      - **(III)** by striking the period at the end of subclause (II) as so redesignated and inserting “; and”;
+    - **(iii)** by redesignating subparagraphs (A) through (G) as clauses (i) through (vii), respectively, and adjusting the margin accordingly;
+    - **(iv)** by striking “for each Federal award—” and inserting the following: “for all Federal funds—
       > - **(A)** for each Federal agency, component of a Federal agency, appropriations account, program activity, and object class (including any subcomponent of an object class), and other accounts or data as appropriate—
       >   - **(i)** the amount of budget authority available;
       >   - **(ii)** the amount obligated;
@@ -55,7 +59,7 @@ Section 2 of the Federal Funding Accountability and Transparency Act of 2006 (31
       >   - **(v)** the amount of expired and unexpired unobligated balances; and
       > - **(B)** for each Federal award—
 
-    - **(iv)** in subparagraph (B)(iii), as so designated by this subparagraph, by inserting “, which shall be assigned a unique identifier,” after “information on the award”;
+    - **(v)** in subparagraph (B)(iii), as so designated by this subparagraph, by inserting “, which shall be assigned a unique identifier,” after “information on the award”;
   - **(B)** in paragraph (3)—
     - **(i)** by striking “The Director of the Office of Management and Budget” and inserting “The Secretary of the Treasury”; and
     - **(ii)** by striking “the Director” and inserting “the Secretary”;
@@ -123,7 +127,7 @@ Section 2 of the Federal Funding Accountability and Transparency Act of 2006 (31
   > - **(h)** *Recovery accountability and transparency board*
   >   - **(1)** *Resources and mechanisms* The Recovery Accountability and Transparency Board shall develop and test information technology resources and oversight mechanisms to enhance the transparency of and detect and remediate waste, fraud, and abuse in Federal spending for Inspectors General.
   >   - **(2)** *Website* The Recovery Accountability and Transparency Board shall maintain a website informing the public of its activities to identify waste, fraud, and abuse and increase transparency of Federal funds to provide support for Inspectors General.
-  >   - **(3)** *Recovery Operations Center* The Recovery Accountability and Transparency Board shall establish and maintain a Recovery Operations Center as a Government-wide Internet-based data access system to carry out the functions described in paragraph (4).
+  >   - **(3)** *Recovery Operations Center* The Recovery Accountability and Transparency Board shall establish and maintain a Recovery Operations Center as a government-wide Internet-based data access system to carry out the functions described in paragraph (4).
   >   - **(4)** *Functions of the Recovery Operations Center* The functions referred to in paragraph (3) are the following:
   >     - **(A)** *In General* The Recovery Operations Center shall incorporate—
   >       - **(i)** all information described in subsection (b)(1);
@@ -140,18 +144,19 @@ Section 2 of the Federal Funding Accountability and Transparency Act of 2006 (31
   - **(2)** improve the accuracy of Federal financial data; and
   - **(3)** develop recommendations for reducing reporting required of recipients of Federal funds by consolidating and automating financial reporting requirements across the Federal Government.
 - **(b)** *Requirements* The pilot program shall—
-  - **(1)** include recipients that collectively receive not less than $1,000,000,000 in Federal funds each fiscal year;
-  - **(2)** include recipients that receive Federal funds under multiple programs across multiple agencies; and
-  - **(3)** include recipients that collectively receive Federal funds under contracts, grants, and subawards.
+  - **(1)** include a combination of recipients of Federal contracts, grants, and subawards, the aggregate value of which is not less than $1,000,000,000;
+  - **(2)** include a diverse group of recipients of Federal awards; and
+  - **(3)** to the extent practicable, include recipients that receive Federal awards from multiple programs across multiple agencies.
 - **(c)** *Reporting and evaluation requirements* Each recipient of Federal funds participating in the pilot program shall submit to the Recovery Accountability and Transparency Board reports on the finances of the selected Federal awards.
 - **(d)** *Publication of information* All the information collected by the Recovery Accountability and Transparency Board under the pilot program shall be made publicly available and searchable on the website established under section 2 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note).
 - **(e)** *Termination* The pilot program shall terminate on the date that is 3 years after the date on which the Recovery Accountability and Transparency Board establishes the pilot program.
-- **(f)** *Report to congress* Not later than 90 days after the date on which the pilot program terminates under subsection (e), the Recovery Accountability and Transparency Board shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on Oversight and Government Reform of the House of Representatives a report on the pilot program, which shall include—
+- **(f)** *Report* Not later than 90 days after the date on which the pilot program terminates under subsection (e), the Recovery Accountability and Transparency Board shall submit to the Office of Management and Budget, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Oversight and Government Reform of the House of Representatives a report on the pilot program, which shall include—
   - **(1)** a description of financial data collected under the pilot program, the accuracy of the data provided, and the cost to collect the data from recipients; and
   - **(2)** recommendations for—
     - **(A)** consolidating some or all aspects of Federal financial reporting to reduce the costs to recipients of Federal funds;
     - **(B)** automating some or all aspects of Federal financial reporting to increase efficiency and reduce the costs to recipients of Federal funds; and
     - **(C)** improving financial transparency.
+- **(g)** *Government-wide implementation* Not later than 90 days after the date on which the Office of Management and Budget receives the report required by subsection (f), the Director of the Office of Management and Budget shall determine whether to authorize the Recovery Accountability and Transparency Board to extend the recipient reporting requirements of the pilot program to all Federal funds. The Recovery Accountability and Transparency Board shall begin requiring Government-wide recipient reporting at the start of the fiscal year that commences after the fiscal year during which such authorization is granted, and under such terms and conditions that the Board shall determine, in consultation with the Director.
 
 ## § 5. Classified and protected information
 
@@ -166,23 +171,27 @@ Section 3 of the Federal Funding Accountability and Transparency Act of 2006 (31
 
 ## § 6. American Recovery and Reinvestment Act of 2009 amendments
 
-Public Law 111–5 is amended—
+Division A of Public Law 111–5 is amended—
 
-- **(1)** in subsection 1501(4) of title XV, by adding before the period at the end the following: “except that, in subtitle B, the term means any funds that are obligated or expended by an agency from appropriations made under this or any other Act”;
+- **(1)** in section 1501 of title XV, by striking paragraph (4) and inserting the following:
+  > - **(4)** *Covered funds* The term “covered funds”—
+  >   - **(A)** except as provided in subparagraph (B), means any funds that are expended or obligated from appropriations made under this Act; and
+  >   - **(B)** for purposes of sections 1522 and 1524, means funds that are expended or obligated by an agency from appropriations made under this or any other Act.
+
 - **(2)** in section 1512 of title XV, by adding at the end the following:
-  > - **(i)** *Expiration* The requirements in this section shall expire on September 31, 2013.
+  > - **(i)** *Expiration* The requirements in this section shall expire on December 30, 2013.
 
 - **(3)** in section 1523 of title XV, by adding at the end the following:
-  > - **(d)** *Expiration* The requirements in this section shall expire on September 30, 2013.
+  > - **(d)** *Expiration* The requirements in this section shall expire on December 30, 2013.
 
 - **(4)** in section 1526 of title XV, by adding at the end the following:
-  > - **(e)** *Expiration* The requirements in this section shall expire on September 30, 2013.
+  > - **(e)** *Expiration* The requirements in this section shall expire on December 30, 2013.
 
-- **(5)** in section 1530 of title XV, by striking “September 30, 2013,” and inserting “September 30, 2017.”.
+- **(5)** in section 1530 of title XV, by striking “September 30, 2013.” and inserting “September 30, 2017.”.
 
 ## § 7. Disaster Relief Appropriations Act of 2013 amendments
 
-Public Law 113–2 is amended in section 904(d)—
+Division A of Public Law 113–2 is amended in section 904(d)—
 
 - **(1)** by striking “for purposes related to the impact of Hurricane Sandy”;
 - **(2)** by striking “related to the impact of Hurricane Sandy” after “receiving appropriations”; and
@@ -198,3 +207,54 @@ Section 3512(a) of title 31, United States Code, is amended—
   > - **(C)** Not later than 90 days after the date of enactment of the Digital Accountability and Transparency Act of 2013, and every 90 days thereafter, the Director shall make available on the website described under section 1122 of this title a report regarding—
   >   - **(i)** specific goals for the most recent full fiscal year, the fiscal year during which the report is submitted, and the fiscal year following the year during which the report is submitted that are necessary steps toward implementing the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) fully and in an effective, efficient, and accurate manner; and
   >   - **(ii)** the status and progress achieved toward each goal described in clause (i), including any changes to the cost, schedule, or performance baselines of achieving each goal, using earned value management where appropriate.
+
+## § 9. Limits and transparency for conference and travel spending
+
+- **(a)** *Amendment* Chapter 57 of title 5, United States Code, is amended by inserting after section 5711 the following:
+  > ## § 5712. Limits and transparency for conference and travel spending
+  >
+  > - **(a)** *Conference transparency and spending limits*
+  >   - **(1)** *Public availability of conference materials* Each agency shall post on the public website of that agency detailed information on any presentation made by any employee of that agency at a conference (except to the extent the head of an agency excludes such information for reasons of national security or information described under section 552(b)) including—
+  >     - **(A)** the prepared text of any verbal presentation made; and
+  >     - **(B)** any visual, digital, video, or audio materials presented, including photographs, slides, and audio-visual recordings.
+  >   - **(2)** *Limits on amount expended on a conference*
+  >     - **(A)** *In general* Except as provided under subparagraph (B), an agency may not expend more than $500,000 to support a single conference.
+  >     - **(B)** *Exception* The head of an agency may waive the limitation under subparagraph (A) for a specific conference after making a determination that the expenditure is justified as the most cost-effective option to achieve a compelling purpose. The head of an agency shall submit to the appropriate congressional committees a report on any waiver granted under this subparagraph, including the justification for such waiver.
+  >     - **(C)** *Rule of construction* Nothing in this paragraph shall be construed to preclude an agency from receiving financial support or other assistance from a private entity to pay or defray the costs of a conference the total cost of which exceeds $500,000.
+  > - **(b)** *International conference rule* An agency may not pay the travel expenses for more than 50 employees of that agency who are stationed in the United States, for any international conference, unless the Secretary of State determines that attendance for such employees is in the national interest, or the head of the agency determines that attendance for such employees is critical to the agency’s mission. The Secretary of State and the head of an agency shall submit to the appropriate congressional committees a report on any waiver granted under this subsection, including the justification for such waiver.
+  > - **(c)** *Reporting on travel and conference expenses required* At the beginning of each quarter of each fiscal year, each agency shall post on the public website of that agency a report on each conference that costs more than $10,000 for which the agency paid travel expenses during the preceding 3 months that includes—
+  >   - **(1)** the itemized expenses paid by the agency, including travel, lodging, and meal expenses, and any other agency expenditures to otherwise support the conference;
+  >   - **(2)** the primary sponsor of the conference;
+  >   - **(3)** the location of the conference;
+  >   - **(4)** the date of the conference;
+  >   - **(5)** a brief explanation of how the participation of employees from such agency at the conference advanced the mission of the agency;
+  >   - **(6)** the title of any employee, or any individual who is not a Federal employee, whose travel expenses or other conference expenses were paid by the agency;
+  >   - **(7)** the total number of individuals whose travel expenses or other conference expenses were paid by the agency; and
+  >   - **(8)** in the case of a conference for which that agency was the primary sponsor, a statement that—
+  >     - **(A)** describes the cost to the agency of selecting the specific conference venue;
+  >     - **(B)** describes why the location was selected, including a justification for such selection;
+  >     - **(C)** demonstrates the cost efficiency of the location;
+  >     - **(D)** provides a cost benefit analysis of holding a conference rather than conducting a teleconference; and
+  >     - **(E)** describes any financial support or other assistance from a private entity used to pay or defray the costs of the conference, and for each case where such support or assistance was used, the head of the agency shall include a certification that there is no conflict of interest resulting from such support or assistance.
+  > - **(d)** *Format and publication of reports* Each report posted on the public website under subsection (c) shall—
+  >   - **(1)** be in a searchable electronic format; and
+  >   - **(2)** remain on that website for at least 5 years after the date of posting.
+  > - **(e)** *Definitions* In this section:
+  >   - **(1)** *Agency* The term agency has the meaning given that term under section 5701, but does not include the government of the District of Columbia.
+  >   - **(2)** *Conference* The term conference means a meeting, retreat, seminar, symposium, or event that—
+  >     - **(A)** is held for consultation, education, discussion, or training; and
+  >     - **(B)** is not held entirely at a Government facility.
+  >   - **(3)** *International conference* The term international conference means a conference occurring outside the United States attended by representatives of—
+  >     - **(A)** the Government of the United States; and
+  >     - **(B)** any foreign government, international organization, or foreign nongovernmental organization.
+
+- **(b)** *Technical and conforming amendment* The table of sections for chapter 57 of title 5, United States Code, is amended by inserting after the item relating to section 5711 the following:
+- **(c)** *Annual travel expense limits*
+  - **(1)** *In general* In the case of each of fiscal years 2014 through 2018, an agency (as defined under section 5712(e) of title 5, United States Code, as added by subsection (a)) may not make, or obligate to make, expenditures for travel expenses, in an aggregate amount greater than 70 percent of the aggregate amount of such expenses for fiscal year 2010.
+  - **(2)** *Exemptions* The agency may exclude certain travel expenses from the limitation under paragraph (1) only if the agency head determines that inclusion of such expenses would undermine national security, international diplomacy, health and safety inspections, law enforcement, or site visits required for oversight or investigatory purposes.
+  - **(3)** *Report to Congress* In each of fiscal years 2014 through 2018, the head of each agency shall submit to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report containing—
+    - **(A)** the justification for any expenses excluded (under paragraph (2)) from the limitation under paragraph (1); and
+    - **(B)** the positive or negative impacts, if any, of the limitation under paragraph (1) on the agency’s mission, cost-effectiveness, efficiency, and ability to perform core functions.
+  - **(4)** *Identification of travel expenses*
+    - **(A)** *Responsibilities* Not later than January 1, 2014, and after consultation with the Administrator of General Services and the Director of the Administrative Office of the United States Courts, the Director of the Office of Management and Budget shall establish guidelines for the determination of what expenses constitute travel expenses for purposes of this subsection. The guidelines shall identify specific expenses, and classes of expenses, that are to be treated as travel expenses.
+    - **(B)** *Exemption for military travel* The guidelines required under subparagraph (A) shall exclude military travel expenses in determining what expenses constitute travel expenses. Military travel expenses shall include travel expenses involving military combat, the training or deployment of uniformed military personnel, and such other travel expenses as determined by the Director of the Office of Management and Budget, in consultation with the Administrator of General Services and the Director of the Administrative Office of the United States Courts.
