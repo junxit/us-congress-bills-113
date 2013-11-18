@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3343
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3343
@@ -34,3 +34,8 @@ To amend the District of Columbia Home Rule Act to clarify the rules regarding t
 - 2013-11-15 — Placed on the Union Calendar, Calendar No. 190.
 - 2013-11-15 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-267.
 - 2013-11-15 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-267.
+- 2013-11-18 — Considered under suspension of the rules. (consideration: CR H7162-7163)
+- 2013-11-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3343.
+- 2013-11-18 — Mr. Issa moved to suspend the rules and pass the bill.
+- 2013-11-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7162)
+- 2013-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7162)
