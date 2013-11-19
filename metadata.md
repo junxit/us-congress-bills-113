@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3343
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3343
@@ -40,3 +40,12 @@ To amend the District of Columbia Home Rule Act to clarify the rules regarding t
 - 2013-11-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7162)
 - 2013-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7162)
 - 2013-11-19 — Received in the Senate, read twice.
+- 2013-12-20 — Message on Senate action sent to the House.
+- 2013-12-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9111)
+- 2013-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9111)
+- 2013-12-23 — Presented to President.
+- 2013-12-23 — Presented to President.
+- 2013-12-26 — Became Public Law No: 113-71.
+- 2013-12-26 — Became Public Law No: 113-71.
+- 2013-12-26 — Signed by President.
+- 2013-12-26 — Signed by President.
