@@ -1,7 +1,7 @@
 ---
 measure: H.R. 272
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 272
@@ -126,3 +126,4 @@ To designate the Department of Veterans Affairs and Department of Defense joint 
 - 2013-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 589). (text: CR H7165-7166)
 - 2013-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 589).(text: CR H7165-7166)
 - 2013-11-18 — The title of the measure was amended. Agreed to without objection.
+- 2013-11-19 — Received in the Senate, read twice.
