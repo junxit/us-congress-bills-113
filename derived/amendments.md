@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2061
 congress: 113
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-42 amendatory instructions. 10 executed, 32 stated and not applied.
+44 amendatory instructions. 10 executed, 34 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -155,3 +155,5 @@ complete account of the bill's effect, which it is not.
 | `31 U.S.C. § 3512` | insert | in paragraph (1), by inserting “and make available on the website described under section 1122 of this title” after “appropriate committees of the Congress”; | the bill quotes the text inserted but describes where it goes |
 | `31 U.S.C. § 3512` | insert | in paragraph (3)(B)(vi), by inserting “, system development, financial management workforce development, related risk assessment and mitigation for the Federal Government as a whole, related risk assessment and mitigation for executive a… | the bill quotes the text inserted but describes where it goes |
 | `31 U.S.C. § 6101` | add-at-end | in paragraph (4), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 5711` | insert | Chapter 57 of title 5, United States Code, is amended by inserting after section 5711 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 5711` | insert | The table of sections for chapter 57 of title 5, United States Code, is amended by inserting after the item relating to section 5711 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

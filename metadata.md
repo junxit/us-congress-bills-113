@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2061
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2061
@@ -29,9 +29,10 @@ Digital Accountability and Transparency Act of 2013
 - Rep. Quigley, Mike [D-IL-5] (Q000023)
 - Rep. Honda, Michael M. [D-CA-17] (H001034)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ Digital Accountability and Transparency Act of 2013
 - 2013-11-18 — Placed on the Union Calendar, Calendar No. 193.
 - 2013-11-18 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-270.
 - 2013-11-18 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-270.
+- 2013-11-19 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
