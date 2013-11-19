@@ -1,0 +1,18 @@
+---
+legis-num: S. 1724
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1724
+
+> To provide that the reinsurance fee for the transitional reinsurance program under the Patient Protection and Affordable Care Act be applied equally to all health insurance issuers and group health plans.
+
+## § 1. Short title
+
+This Act may be cited as the “Union Tax Fairness Act of 2013”.
+
+## § 2. Application of reinsurance fee
+
+Notwithstanding any other provision of law, the payments required to be made by health insurance issuers and third party administrators (on behalf of group health plans) under section 1341(b)(1)(A) of the Patient Protection and Affordable Care Act (42 U.S.C. 18061(b)(1)(A)) shall be applied equally to all such issuers and administrators and may not be waived on behalf of any such issuer, administrator or group health plan.
