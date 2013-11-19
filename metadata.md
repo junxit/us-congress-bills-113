@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3487
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3487
@@ -41,3 +41,4 @@ To amend the Federal Election Campaign Act to extend through 2018 the authority 
 - 2013-11-18 — Mrs. Miller (MI) moved to suspend the rules and pass the bill.
 - 2013-11-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7163-7164)
 - 2013-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7163-7164)
+- 2013-11-19 — Received in the Senate, read twice.
