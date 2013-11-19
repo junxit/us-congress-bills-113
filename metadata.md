@@ -1,7 +1,7 @@
 ---
 measure: H.R. 272
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 272
@@ -127,3 +127,12 @@ To designate the Department of Veterans Affairs and Department of Defense joint 
 - 2013-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 589).(text: CR H7165-7166)
 - 2013-11-18 — The title of the measure was amended. Agreed to without objection.
 - 2013-11-19 — Received in the Senate, read twice.
+- 2014-07-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4364)
+- 2014-07-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4364)
+- 2014-07-10 — Message on Senate action sent to the House.
+- 2014-07-15 — Presented to President.
+- 2014-07-15 — Presented to President.
+- 2014-07-25 — Became Public Law No: 113-130.
+- 2014-07-25 — Became Public Law No: 113-130.
+- 2014-07-25 — Signed by President.
+- 2014-07-25 — Signed by President.
