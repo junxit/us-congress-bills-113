@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3304
 congress: 113
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3304
@@ -117,3 +117,18 @@ National Defense Authorization Act for Fiscal Year 2014
 - 2013-10-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6778-6779)
 - 2013-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6778-6779)
 - 2013-10-29 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
+- 2013-11-19 — Amendment SA 2345 agreed to in Senate by Unanimous Consent.
+- 2013-11-19 — Amendment SA 2345 proposed by Senator Donnelly for Senator Levin. (consideration: CR S8290; text: CR S8290) Of a perfecting nature.
+- 2013-11-19 — Amendment SA 2346 agreed to in Senate by Unanimous Consent.
+- 2013-11-19 — Amendment SA 2346 proposed by Senator Donnelly for Senator Levin. (consideration: CR S8290; text: CR S8290) To amend the title.
+- 2013-11-19 — Measure laid before Senate by unanimous consent. (consideration: CR S8290)
+- 2013-11-19 — Passed Senate with amendments and an amendment to the Title by Unanimous Consent.
+- 2013-11-19 — Passed/agreed to in Senate: Passed Senate with amendments and an amendment to the Title by Unanimous Consent.
+- 2013-11-19 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2013-11-19 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2013-11-19 — Senate amendment agreed to: Amendment SA 2345 agreed to in Senate by Unanimous Consent.
+- 2013-11-19 — Senate amendment agreed to: Amendment SA 2346 agreed to in Senate by Unanimous Consent.
+- 2013-11-19 — Senate amendment proposed (on the floor): Amendment SA 2345 proposed by Senator Donnelly for Senator Levin.(consideration: CR S8290; text: CR S8290)
+- 2013-11-19 — Senate amendment proposed (on the floor): Amendment SA 2346 proposed by Senator Donnelly for Senator Levin.(consideration: CR S8290; text: CR S8290)
+- 2013-11-19 — Senate amendment submitted
+- 2013-11-19 — Senate amendment submitted
