@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 424
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 424
+
+> Prohibiting the consideration of a concurrent resolution providing for adjournment unless the House has adopted a conference report on the budget resolution.
+
+That it shall not be in order to consider a concurrent resolution providing for adjournment unless the House has adopted a conference report on S. Con. Res. 8, establishing a budget for the United States Government, by December 13, 2013.
