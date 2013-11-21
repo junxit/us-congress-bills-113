@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 28
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 28
@@ -26,3 +26,8 @@ A concurrent resolution providing for a conditional adjournment or recess of the
 - 2013-11-21 — Message on Senate action sent to the House.
 - 2013-11-21 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Yea-Nay Vote. 51 - 42. Record Vote Number: 246.(consideration: CR S8441; text as passed Senate: CR S8441; text of measure as introduced: CR S8466)
 - 2013-11-21 — Submitted in the Senate, considered, and agreed to without amendment by Yea-Nay Vote. 51 - 42. Record Vote Number: 246. (consideration: CR S8441; text as passed Senate: CR S8441; text of measure as introduced: CR S8466)
+- 2013-11-22 — Considered as privileged matter. (consideration: CR H7359-7360)
+- 2013-11-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-11-22 — On agreeing to the resolution Agreed to without objection. (text: CR H7359-7360)
+- 2013-11-22 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H7359-7360)
+- 2013-11-22 — Received in the House.
