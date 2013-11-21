@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2719
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2719
@@ -31,3 +31,11 @@ Transportation Security Acquisition Reform Act
 - 2013-07-18 — Introduced in House
 - 2013-07-18 — Introduced in House
 - 2013-07-18 — Referred to the House Committee on Homeland Security.
+- 2013-07-22 — Referred to the Subcommittee on Transportation Security.
+- 2013-07-24 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2013-07-24 — Subcommittee Consideration and Mark-up Session Held.
+- 2013-10-29 — Committee Consideration and Mark-up Session Held.
+- 2013-10-29 — Ordered to be Reported (Amended) by Voice Vote.
+- 2013-11-21 — Placed on the Union Calendar, Calendar No. 196.
+- 2013-11-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-275.
+- 2013-11-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-275.
