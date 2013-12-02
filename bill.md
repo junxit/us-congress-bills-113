@@ -13,27 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Lower East Side Tenement National Historic Site Amendments Act”.
 
-## § 2. Findings
-
-The Congress finds the following:
-
-- **(1)** The Lower East Side Tenement Museum was founded in 1988 and has, for the past 25 years, preserved and interpreted the history of immigration through the personal experiences of generations of newcomers who settled in and built lives on Manhattan’s Lower East Side, America’s iconic immigrant neighborhood.
-- **(2)**
-  - **(A)** The Director of the National Park Service found the Lower East Side Tenement at 97 Orchard Street to be nationally significant.
-  - **(B)** On April 19, 1994, the Secretary of the Interior declared the Lower East Side Tenement a National Historic Landmark.
-  - **(C)** The Director of the National Park Service, through a special resource study, found the Lower East Side Tenement suitable and feasible for inclusion in the National Park System.
-  - **(D)** On November 12, 1998, the historic site was designated as an affiliated site of the National Park System pursuant to Public Law 105–378.
-- **(3)**
-  - **(A)** In 2006, the Secretary of the Interior, together with the National Park Service, compiled a general management plan for the site.
-  - **(B)** The plan recognized the need for space for administrative functions, collections storage, and visitor services, including orientation and additional exhibits.
-  - **(C)** The plan expressly specified that a boundary adjustment to the National Historic Site might be considered if the museum was able to obtain property and the resources—
-    - **(i)** included significant features related of the primary purposes of the site;
-    - **(ii)** addressed operational issues including access; or
-    - **(iii)** protected resources critical to the site’s purposes.
-- **(4)** The Museum obtained a neighboring 1888 tenement, 103 Orchard Street, which was restored and renovated to serve as a visitor and education center.
-- **(5)** 103 Orchard Street was declared a contributing property in the Lower East Side National Historic District, listed on both the National and New York State Registers of Historic Places.
-
-## § 3. Amendments
+## § 2. Amendments
 
 Public Law 105–378 is amended—
 
