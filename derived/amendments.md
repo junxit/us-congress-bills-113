@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3309
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-51 amendatory instructions. 17 executed, 34 stated and not applied.
+62 amendatory instructions. 23 executed, 39 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,33 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 35 U.S.C. § 284
+
+> in the first undesignated paragraph, by striking “Upon finding” and inserting “(a) In general.—Upon finding”;
+
+| | |
+|---|---|
+| Removed | `Upon finding` |
+| Inserted | `(a) In general.—Upon finding` |
+
+### 35 U.S.C. § 284
+
+> in the second undesignated paragraph, by striking “When the damages” and inserting “(b) Assessment by court; treble damages.—When the damages”;
+
+| | |
+|---|---|
+| Removed | `When the damages` |
+| Inserted | `(b) Assessment by court; treble damages.—When the damages` |
+
+### 35 U.S.C. § 284
+
+> in the last undesignated paragraph, by striking “The court” and inserting “(d) Expert testimony.—The court”.
+
+| | |
+|---|---|
+| Removed | `The court` |
+| Inserted | `(d) Expert testimony.—The court` |
 
 ### 35 U.S.C. § 290
 
@@ -41,6 +68,24 @@ to guess them.
 |---|---|
 | Removed | `The clerks` |
 | Inserted | `(a) Notice of patent suits.—The clerks` |
+
+### 11 U.S.C. § 101
+
+> in subparagraph (F), by striking “title 17;” and inserting “title 17; or”; and
+
+| | |
+|---|---|
+| Removed | `title 17;` |
+| Inserted | `title 17; or` |
+
+### 11 U.S.C. § 365
+
+> by striking “royalty payments” and inserting “royalty or other payments”; and
+
+| | |
+|---|---|
+| Removed | `royalty payments` |
+| Inserted | `royalty or other payments` |
 
 ### 28 U.S.C. § 1295
 
@@ -69,9 +114,9 @@ to guess them.
 | Removed | `section 141, 145, or 146` |
 | Inserted | `section 141 or 146` |
 
-### 35 U.S.C. § 316
+### 35 U.S.C. § 321
 
-> Section 18(a)(1)(A) of the Leahy-Smith America Invents Act (Public Law 112–29; 126 Stat. 329) is amended by striking “Section 321(c)” and inserting “Sections 321(c) and 326(a)(13)”.
+> Section 18(a)(1)(A) of the Leahy-Smith America Invents Act (Public Law 112–29; 126 Stat. 329; 35 U.S.C. 321 note) is amended by striking “Section 321(c)” and inserting “Sections 321(c) and 326(a)(13)”.
 
 | | |
 |---|---|
@@ -80,21 +125,12 @@ to guess them.
 
 ### 35 U.S.C. § 321
 
-> Section 18(a)(2) of the Leahy-Smith America Invents Act is amended by striking “shall not apply to a patent described in section 6(f)(2)(A) of this Act during the period in which a petition for post-grant review of that patent would satisfy the requirements of section 321(c) of title 35, United States Code” and inserting “shall not apply to a patent that is described in section 3(n)(1) of this Act (but is not described in section 3(n)(2) of this Act)”.
-
-| | |
-|---|---|
-| Removed | `shall not apply to a patent described in section 6(f)(2)(A) of this Act during the period in which a petition for post-grant review of that patent would satisfy the requirements of section 321(c) of title 35, United States Code` |
-| Inserted | `shall not apply to a patent that is described in section 3(n)(1) of this Act (but is not described in section 3(n)(2) of this Act)` |
-
-### 35 U.S.C. § 321
-
-> Section 18(a)(1)(C)(i) of the Leahy-Smith America Invents Act is amended by striking “section 102(a)” and inserting “subsection (a), (d), or (e) of section 102”.
+> Section 18(a)(1)(C)(i) of the Leahy-Smith America Invents Act (35 U.S.C. 321 note) is amended by striking “section 102(a)” and inserting “subsection (a) or (e) of section 102”.
 
 | | |
 |---|---|
 | Removed | `section 102(a)` |
-| Inserted | `subsection (a), (d), or (e) of section 102` |
+| Inserted | `subsection (a) or (e) of section 102` |
 
 ### 35 U.S.C. § 154
 
@@ -125,12 +161,21 @@ to guess them.
 
 ### 35 U.S.C. § 115
 
-> by striking “claims the benefit” and inserting “is entitled, as to each invention claimed in the application, to the benefit”; and
+> by striking “Except as otherwise provided” and inserting “Except for an application filed under section 118 or as otherwise provided”; and
 
 | | |
 |---|---|
-| Removed | `claims the benefit` |
-| Inserted | `is entitled, as to each invention claimed in the application, to the benefit` |
+| Removed | `Except as otherwise provided` |
+| Inserted | `Except for an application filed under section 118 or as otherwise provided` |
+
+### 35 U.S.C. § 115
+
+> by striking “shall execute” and inserting “may be required by the Director to execute”.
+
+| | |
+|---|---|
+| Removed | `shall execute` |
+| Inserted | `may be required by the Director to execute` |
 
 ### 35 U.S.C. § 119
 
@@ -158,6 +203,15 @@ to guess them.
 |---|---|
 | Removed | `or joint inventor` |
 | Inserted | `or a joint inventor` |
+
+### 35 U.S.C. § 32
+
+> The fourth sentence of section 32 of title 35, United States Code, is amended by striking “1 year” and inserting “2 years”.
+
+| | |
+|---|---|
+| Removed | `1 year` |
+| Inserted | `2 years` |
 
 ### 35 U.S.C. § 316
 
@@ -194,6 +248,7 @@ complete account of the bill's effect, which it is not.
 | `35 U.S.C. § 299` | add-at-end | Section 299 of title 35, United States Code, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `35 U.S.C. § 281` | add-at-end | Chapter 29 of title 35, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `35 U.S.C. § 281` | add-at-end | The table of sections for chapter 29 of title 35, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `35 U.S.C. § 284` | insert | by inserting after subsection (b), as designated by paragraph (2) of this subsection, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `35 U.S.C. § 290` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `35 U.S.C. § 290` | amend | The item relating to section 290 in the table of sections for chapter 29 of title 35, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `35 U.S.C. § 296` | amend | Section 296 of title 35, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -201,6 +256,11 @@ complete account of the bill's effect, which it is not.
 | `11 U.S.C. § 1520` | replace | in paragraph (3), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `11 U.S.C. § 1520` | replace | in paragraph (4), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `11 U.S.C. § 1520` | insert | by inserting at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `11 U.S.C. § 101` | strike | in subparagraph (E), by striking “or”; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 1127` | amend | by adding after subparagraph (F) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `11 U.S.C. § 365` | strike | by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `11 U.S.C. § 365` | replace | in subparagraph (C), by striking the period at the end of clause (ii) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `11 U.S.C. § 365` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `35 U.S.C. § 145` | repeal | Section 145 of title 35, United States Code, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `35 U.S.C. § 146` | replace | in subparagraph (A), by striking “except that an applicant or a party” and all that follows through the end of the subparagraph and inserting the following: “except that a party to a derivation proceeding may also have remedy by civil ac… | the bill quotes the text struck but describes what replaces it |
 | `35 U.S.C. § 141` | strike | by striking the second sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -214,9 +274,8 @@ complete account of the bill's effect, which it is not.
 | `35 U.S.C. § 326` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `35 U.S.C. § 106` | add-at-end | Chapter 10 of title 35, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `35 U.S.C. § 106` | add-at-end | The table of sections for chapter 10 of title 35, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `35 U.S.C. § 321` | strike | Section 18(a) of the Leahy-Smith America Invents Act (35 U.S.C. 321 note) is amended by striking paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `35 U.S.C. § 154` | replace | in clause (iii), by striking the comma at the end and inserting a period; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `35 U.S.C. § 154` | strike | by striking the matter following clause (iii). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `35 U.S.C. § 115` | replace | in subparagraph (A), by striking “meeting the requirements of subsection (a) was executed by the individual and was filed in connection with the earlier-filed application” and inserting the following: “executed by or on behalf of the ind… | the bill quotes the text struck but describes what replaces it |
+| `28 U.S.C. § 137` | amend | Section 1(c) of Public Law 111–349 (124 Stat. 3674; 28 U.S.C. 137 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `35 U.S.C. § 102` | strike | by striking paragraph (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `35 U.S.C. § 102` | redesignate | by redesignating paragraphs (8) and (9) as paragraphs (7) and (8). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `35 U.S.C. § 102` | redesignate | by redesignating paragraphs (8) and (9) as paragraphs (7) and (8), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
