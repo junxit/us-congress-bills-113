@@ -30,5 +30,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(3)** Operational issues that should be considered if the National Park System were to incorporate the Mill Springs Battlefield.
   - **(4)** The feasibility of administering the Mill Springs Battlefield considering its size, configuration, and other factors, to include an annual cost estimate.
   - **(5)** The economic, educational, and other impacts the inclusion of Mill Springs Battlefield into the National Park System would have on the surrounding communities in Pulaski and Wayne Counties.
-- **(f)** *Notification of private property owners* Upon commencement of the study, owners of private property connected to the battlefield will be notified of the study’s commencement and scope.
+  - **(6)** The effect of the designation of the Mill Springs Battlefield as a unit of the National Park System on—
+    - **(A)** existing commercial and recreational activities, including by not limited to hunting, fishing, and recreational shooting, and on the authorization, construction, operation, maintenance, or improvement of energy production and transmission infrastructure; and
+    - **(B)** the authority of State and local governments to manage those activities.
+  - **(7)** The identification of any authorities, including condemnation, that will compel or permit the Secretary to influence or participate in local land use decisions (such as zoning) or place restrictions on non-Federal lands if the Mill Springs Battlefield is designated a unit of the National Park System.
+- **(f)** *Notification of private property owners* Upon commencement of the study, owners of private property adjacent to the battlefield will be notified of the study’s commencement and scope.
 - **(g)** *Submission of report* Upon completion of the study, the Secretary shall submit a report on the findings of the study to the Committee on Natural Resources of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate.
