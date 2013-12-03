@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1095
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1095
@@ -78,3 +78,8 @@ TSA Loose Change Act
 - 2013-11-21 — Placed on the Union Calendar, Calendar No. 195.
 - 2013-11-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-274.
 - 2013-11-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-274.
+- 2013-12-03 — Considered under suspension of the rules. (consideration: CR H7407-7409)
+- 2013-12-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1095.
+- 2013-12-03 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
+- 2013-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7407)
+- 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7407)
