@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1204
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1204
@@ -31,6 +31,10 @@ Aviation Security Stakeholder Participation Act of 2014
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2013-12-03 — [House 113-1-617](votes/house-113-1-0617.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (411–3)
+
 ## Actions
 
 - 2013-03-14 — Introduced in House
@@ -45,3 +49,10 @@ Aviation Security Stakeholder Participation Act of 2014
 - 2013-12-02 — Placed on the Union Calendar, Calendar No. 199.
 - 2013-12-02 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-278.
 - 2013-12-02 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-278.
+- 2013-12-03 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-12-03 — Considered as unfinished business. (consideration: CR H7427-7428)
+- 2013-12-03 — Considered under suspension of the rules. (consideration: CR H7414-7418)
+- 2013-12-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1204.
+- 2013-12-03 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
+- 2013-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 3 (Roll no. 617). (text: CR H7414-7415)
+- 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 3 (Roll no. 617).(text: CR H7414-7415)
