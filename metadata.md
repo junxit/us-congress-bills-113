@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1846
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1846
@@ -39,3 +39,8 @@ Lower East Side Tenement National Historic Site Amendments Act
 - 2013-12-02 — Placed on the Union Calendar, Calendar No. 203.
 - 2013-12-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-282.
 - 2013-12-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-282.
+- 2013-12-03 — Considered under suspension of the rules. (consideration: CR H7423-7425)
+- 2013-12-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1846.
+- 2013-12-03 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
+- 2013-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7423-7424)
+- 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7423-7424)
