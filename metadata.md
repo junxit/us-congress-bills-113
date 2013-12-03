@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1241
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1241
@@ -37,3 +37,8 @@ To facilitate a land exchange involving certain National Forest System lands in 
 - 2013-12-02 — Placed on the Union Calendar, Calendar No. 202.
 - 2013-12-02 — Reported by the Committee on Natural Resources. H. Rept. 113-281.
 - 2013-12-02 — Reported by the Committee on Natural Resources. H. Rept. 113-281.
+- 2013-12-03 — Considered under suspension of the rules. (consideration: CR H7423)
+- 2013-12-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1241.
+- 2013-12-03 — Mr. McClintock moved to suspend the rules and pass the bill.
+- 2013-12-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7423)
+- 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7423)
