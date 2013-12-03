@@ -1,7 +1,7 @@
 ---
 measure: H.R. 255
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 255
@@ -20,6 +20,10 @@ To amend certain definitions contained in the Provo River Project Transfer Act f
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2013-12-03 — [House 113-1-615](votes/house-113-1-0615.md) — On Motion to Suspend the Rules and Pass — **Passed** (406–0)
+
 ## Actions
 
 - 2013-01-15 — Introduced in House
@@ -33,3 +37,10 @@ To amend certain definitions contained in the Provo River Project Transfer Act f
 - 2013-09-10 — Placed on the Union Calendar, Calendar No. 147.
 - 2013-09-10 — Reported by the Committee on Natural Resources. H. Rept. 113-200.
 - 2013-09-10 — Reported by the Committee on Natural Resources. H. Rept. 113-200.
+- 2013-12-03 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2013-12-03 — Considered as unfinished business. (consideration: CR H7426-7427)
+- 2013-12-03 — Considered under suspension of the rules. (consideration: CR H7419-7420)
+- 2013-12-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 255.
+- 2013-12-03 — Mr. McClintock moved to suspend the rules and pass the bill.
+- 2013-12-03 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 615). (text: CR H7419)
+- 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 615).(text: CR H7419)
