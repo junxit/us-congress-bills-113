@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1963
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1963
@@ -40,3 +40,8 @@ Bureau of Reclamation Conduit Hydropower Development Equity and Jobs Act
 - 2013-10-22 — Placed on the Union Calendar, Calendar No. 177.
 - 2013-10-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-249.
 - 2013-10-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-249.
+- 2013-12-03 — Considered under suspension of the rules. (consideration: CR H7421-7423)
+- 2013-12-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1963.
+- 2013-12-03 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
+- 2013-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7421-7422)
+- 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7421-7422)
