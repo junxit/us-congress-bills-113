@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2388
 
-> To authorize the Secretary of the Interior to take certain Federal lands located in El Dorado County, California, into trust for the benefit of the Shingle Springs Band of Miwok Indians, and for other purposes.
+> To take certain Federal lands located in El Dorado County, California, into trust for the benefit of the Shingle Springs Band of Miwok Indians, and for other purposes.
 
 ## § 1. Land into Trust for the Shingle Springs Band of Miwok Indians
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2388
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2388
@@ -35,3 +35,9 @@ To take certain Federal lands located in El Dorado County, California, into trus
 - 2013-09-10 — Placed on the Union Calendar, Calendar No. 142.
 - 2013-09-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-195.
 - 2013-09-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-195.
+- 2013-12-03 — Considered under suspension of the rules. (consideration: CR H7420-7421)
+- 2013-12-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2388.
+- 2013-12-03 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
+- 2013-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7420)
+- 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7420)
+- 2013-12-03 — The title of the measure was amended. Agreed to without objection.
