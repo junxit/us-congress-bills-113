@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3309
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-62 amendatory instructions. 23 executed, 39 stated and not applied.
+52 amendatory instructions. 19 executed, 33 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -87,33 +87,6 @@ to guess them.
 | Removed | `royalty payments` |
 | Inserted | `royalty or other payments` |
 
-### 28 U.S.C. § 1295
-
-> in subparagraph (C), by striking “section 145, 146, or” and inserting “section 146 or”.
-
-| | |
-|---|---|
-| Removed | `section 145, 146, or` |
-| Inserted | `section 146 or` |
-
-### 35 U.S.C. § 141
-
-> by striking “may appeal the Board’s decision to” and inserting “may appeal the Board’s decision only to”; and
-
-| | |
-|---|---|
-| Removed | `may appeal the Board’s decision to` |
-| Inserted | `may appeal the Board’s decision only to` |
-
-### 35 U.S.C. § 154
-
-> Section 154(b)(1)(A)(iii) of title 35, United States Code, is amended by striking “section 141, 145, or 146” and inserting “section 141 or 146”.
-
-| | |
-|---|---|
-| Removed | `section 141, 145, or 146` |
-| Inserted | `section 141 or 146` |
-
 ### 35 U.S.C. § 321
 
 > Section 18(a)(1)(A) of the Leahy-Smith America Invents Act (Public Law 112–29; 126 Stat. 329; 35 U.S.C. 321 note) is amended by striking “Section 321(c)” and inserting “Sections 321(c) and 326(a)(13)”.
@@ -161,21 +134,12 @@ to guess them.
 
 ### 35 U.S.C. § 115
 
-> by striking “Except as otherwise provided” and inserting “Except for an application filed under section 118 or as otherwise provided”; and
-
-| | |
-|---|---|
-| Removed | `Except as otherwise provided` |
-| Inserted | `Except for an application filed under section 118 or as otherwise provided` |
-
-### 35 U.S.C. § 115
-
-> by striking “shall execute” and inserting “may be required by the Director to execute”.
+> The second sentence of section 115(a) of title 35, United States Code, is amended by striking “shall execute” and inserting “may be required to execute”.
 
 | | |
 |---|---|
 | Removed | `shall execute` |
-| Inserted | `may be required by the Director to execute` |
+| Inserted | `may be required to execute` |
 
 ### 35 U.S.C. § 119
 
@@ -206,12 +170,12 @@ to guess them.
 
 ### 35 U.S.C. § 32
 
-> The fourth sentence of section 32 of title 35, United States Code, is amended by striking “1 year” and inserting “2 years”.
+> The fourth sentence of section 32 of title 35, United States Code, is amended by striking “1 year” and inserting “18 months”.
 
 | | |
 |---|---|
 | Removed | `1 year` |
-| Inserted | `2 years` |
+| Inserted | `18 months` |
 
 ### 35 U.S.C. § 316
 
@@ -253,18 +217,12 @@ complete account of the bill's effect, which it is not.
 | `35 U.S.C. § 290` | amend | The item relating to section 290 in the table of sections for chapter 29 of title 35, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `35 U.S.C. § 296` | amend | Section 296 of title 35, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `35 U.S.C. § 296` | replace | The table of sections for chapter 29 of title 35, United States Code, is amended by striking the item relating to section 296 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `11 U.S.C. § 1520` | replace | in paragraph (3), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `11 U.S.C. § 1520` | replace | in paragraph (4), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `11 U.S.C. § 1520` | insert | by inserting at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `11 U.S.C. § 1522` | add-at-end | Section 1522 of title 11, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `11 U.S.C. § 101` | strike | in subparagraph (E), by striking “or”; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 1127` | amend | by adding after subparagraph (F) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `11 U.S.C. § 365` | strike | by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `11 U.S.C. § 365` | replace | in subparagraph (C), by striking the period at the end of clause (ii) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `11 U.S.C. § 365` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `35 U.S.C. § 145` | repeal | Section 145 of title 35, United States Code, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `35 U.S.C. § 146` | replace | in subparagraph (A), by striking “except that an applicant or a party” and all that follows through the end of the subparagraph and inserting the following: “except that a party to a derivation proceeding may also have remedy by civil ac… | the bill quotes the text struck but describes what replaces it |
-| `35 U.S.C. § 141` | strike | by striking the second sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 1295` | repeal | The table of sections for chapter 13 of title 35, United States Code, is amended by repealing the item relating to section 145. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `35 U.S.C. § 325` | strike | Section 325(e)(2) of title 35, United States Code is amended by striking “or reasonably could have raised”. | the bill quotes the text struck but describes what replaces it |
 | `35 U.S.C. § 316` | replace | in paragraph (12), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `35 U.S.C. § 316` | replace | in paragraph (13), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |

@@ -87,11 +87,13 @@ In this Act:
   - **(1)** *Amendment* Chapter 29 of title 35, United States Code, is amended by adding at the end the following new section:
     > ## § 299A. Discovery in patent infringement action
     >
-    > - **(a)** *Discovery in patent infringement action* Except as provided in subsection (b), in a civil action arising under any Act of Congress relating to patents, if the court determines that a ruling relating to the construction of terms used in a patent claim asserted in the complaint is required, discovery shall be limited, until such ruling is issued, to information necessary for the court to determine the meaning of the terms used in the patent claim, including any interpretation of those terms used to support the claim of infringement.
+    > - **(a)** *Discovery in patent infringement action* Except as provided in subsections (b) and (c), in a civil action arising under any Act of Congress relating to patents, if the court determines that a ruling relating to the construction of terms used in a patent claim asserted in the complaint is required, discovery shall be limited, until such ruling is issued, to information necessary for the court to determine the meaning of the terms used in the patent claim, including any interpretation of those terms used to support the claim of infringement.
     > - **(b)** *Discretion To expand scope of discovery*
-    >   - **(1)** *Timely resolution of actions* If, under any provision of Federal law (including the amendments made by the Drug Price Competition and Patent Term Restoration Act of 1984 (Public Law 98–417)), resolution within a specified period of time of a civil action arising under any Act of Congress relating to patents will necessarily affect the rights of a party with respect to the patent, the court shall permit discovery, in addition to the discovery authorized under subsection (a), before the ruling described in subsection (a) is issued as necessary to ensure timely resolution of the action.
+    >   - **(1)** *Timely resolution of actions* In the case of an action under any provision of Federal law (including an action that includes a claim for relief arising under section 271(e)), for which resolution within a specified period of time of a civil action arising under any Act of Congress relating to patents will necessarily affect the rights of a party with respect to the patent, the court shall permit discovery, in addition to the discovery authorized under subsection (a), before the ruling described in subsection (a) is issued as necessary to ensure timely resolution of the action.
     >   - **(2)** *Resolution of motions* When necessary to resolve a motion properly raised by a party before a ruling relating to the construction of terms described in subsection (a) is issued, the court may allow limited discovery in addition to the discovery authorized under subsection (a) as necessary to resolve the motion.
     >   - **(3)** *Special circumstances* In special circumstances that would make denial of discovery a manifest injustice, the court may permit discovery, in addition to the discovery authorized under subsection (a), as necessary to prevent the manifest injustice.
+    >   - **(4)** *Actions seeking relief based on competitive harm* The limitation on discovery provided under subsection (a) shall not apply to an action seeking a preliminary injunction to redress harm arising from the use, sale, or offer for sale of any allegedly infringing instrumentality that competes with a product sold or offered for sale, or a process used in manufacture, by a party alleging infringement.
+    > - **(c)** *Exclusion from discovery limitation* The parties may voluntarily consent to be excluded, in whole or in part, from the limitation on discovery provided under subsection (a) if at least one plaintiff and one defendant enter into a signed stipulation, to be filed with and signed by the court. With regard to any discovery excluded from the requirements of subsection (a) under the signed stipulation, with respect to such parties, such discovery shall proceed according to the Federal Rules of Civil Procedure.
 
   - **(2)** *Conforming amendment* The table of sections for chapter 29 of title 35, United States Code, is amended by adding at the end the following new item:
 - **(e)** *Sense of Congress* It is the sense of Congress that it is an abuse of the patent system and against public policy for a party to send out purposely evasive demand letters to end users alleging patent infringement. Demand letters sent should, at the least, include basic information about the patent in question, what is being infringed, and how it is being infringed. Any actions or litigation that stem from these types of purposely evasive demand letters to end users should be considered a fraudulent or deceptive practice and an exceptional circumstance when considering whether the litigation is abusive.
@@ -99,7 +101,7 @@ In this Act:
   - **(1)** in the first undesignated paragraph, by striking “Upon finding” and inserting “(a) In general.—Upon finding”;
   - **(2)** in the second undesignated paragraph, by striking “When the damages” and inserting “(b) Assessment by court; treble damages.—When the damages”;
   - **(3)** by inserting after subsection (b), as designated by paragraph (2) of this subsection, the following:
-    > - **(c)** *Willful infringement* A claimant seeking to establish willful infringement may not rely on evidence of pre-suit notification of infringement unless that notification identifies with particularity the asserted patent, identifies the product or process accused, and explains with particularity, to the extent possible following a reasonable investigation or inquiry, how the product or process infringes one or more claims of the patent.
+    > - **(c)** *Willful infringement* A claimant seeking to establish willful infringement may not rely on evidence of pre-suit notification of infringement unless that notification identifies with particularity the asserted patent, identifies the product or process accused, identifies the ultimate parent entity of the claimant, and explains with particularity, to the extent possible following a reasonable investigation or inquiry, how the product or process infringes one or more claims of the patent.
 
   - **(4)** in the last undesignated paragraph, by striking “The court” and inserting “(d) Expert testimony.—The court”.
 - **(g)** *Effective date* Except as otherwise provided in this section, the amendments made by this section shall take effect on the date of the enactment of this Act and shall apply to any action for which a complaint is filed on or after that date.
@@ -225,11 +227,8 @@ In this Act:
   - **(1)** *Elimination of form* The Supreme Court, using existing resources, shall eliminate Form 18 in the Appendix to the Federal Rules of Civil Procedure (relating to Complaint for Patent Infringement), effective on the date of the enactment of this Act.
   - **(2)** *Revised form* The Supreme Court may prescribe a new form or forms setting out model allegations of patent infringement that, at a minimum, notify accused infringers of the asserted claim or claims, the products or services accused of infringement, and the plaintiff’s theory for how each accused product or service meets each limitation of each asserted claim. The Judicial Conference should exercise the authority under section 2073 of title 28, United States Code, to make recommendations with respect to such new form or forms.
 - **(d)** *Protection of intellectual-Property licenses in bankruptcy*
-  - **(1)** *In general* Section 1520(a) of title 11, United States Code, is amended—
-    - **(A)** in paragraph (3), by striking “; and” and inserting a semicolon;
-    - **(B)** in paragraph (4), by striking the period at the end and inserting “; and”; and
-    - **(C)** by inserting at the end the following new paragraph:
-      > - **(5)** section 365(n) applies to intellectual property of which the debtor is a licensor or which the debtor has transferred.
+  - **(1)** *In general* Section 1522 of title 11, United States Code, is amended by adding at the end the following:
+    > - **(e)** Section 365(n) shall apply to cases under this chapter. If the foreign representative rejects or repudiates a contract under which the debtor is a licensor of intellectual property, the licensee under such contract shall be entitled to make the election and exercise the rights described in section 365(n).
 
   - **(2)** *Trademarks*
     - **(A)** *In general* Section 101(35A) of title 11, United States Code, is amended—
@@ -252,7 +251,7 @@ In this Act:
 
 - **(a)** *Small business education and outreach*
   - **(1)** *Resources for small business* Using existing resources, the Director shall develop educational resources for small businesses to address concerns arising from patent infringement.
-  - **(2)** *Small Business Patent Ombudsman* The Patent Ombudsman Program established under section 28 of the Leahy-Smith America Invents Act (Public Law 112–29; 125 Stat. 339; 35 U.S.C. 2 note) shall coordinate with the existing small business outreach programs of the Office, and the relevant offices at the Small Business Administration and the Minority Business Development Agency, to provide education and awareness on abusive patent litigation practices. The Director may give special consideration to the unique needs of small firms owned by disabled veterans, service-disabled veterans, women, and minority entrepreneurs in planning and executing the outreach efforts by the Office.
+  - **(2)** *Small Business Patent outreach* The existing small business patent outreach programs of the Office, and the relevant offices at the Small Business Administration and the Minority Business Development Agency, shall provide education and awareness on abusive patent litigation practices. The Director may give special consideration to the unique needs of small firms owned by disabled veterans, service-disabled veterans, women, and minority entrepreneurs in planning and executing the outreach efforts by the Office.
 - **(b)** *Improving Information Transparency for Small Business and the United States Patent and Trademark Office users*
   - **(1)** *Web site* Using existing resources, the Director shall create a user-friendly section on the official Web site of the Office to notify the public when a patent case is brought in Federal court and, with respect to each patent at issue in such case, the Director shall include—
     - **(A)** information disclosed under subsections (b) and (d) of section 290 of title 35, United States Code, as added by section 4(a) of this Act; and
@@ -267,16 +266,16 @@ In this Act:
     - **(B)** to examine the economic impact that the patent secondary market has on the United States;
     - **(C)** to examine licensing and other oversight requirements that may be placed on the patent secondary market, including on the participants in such markets, to ensure that the market is a level playing field and that brokers in the market have the requisite expertise and adhere to ethical business practices; and
     - **(D)** to examine the requirements placed on other markets.
-  - **(2)** *Report on study* Not later than 1 year after the date of the enactment of this Act, the Director shall submit a report to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate on the findings and recommendations of the Director from the study required under paragraph (1).
+  - **(2)** *Report on study* Not later than 18 months after the date of the enactment of this Act, the Director shall submit a report to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate on the findings and recommendations of the Director from the study required under paragraph (1).
 - **(b)** *Study on patents owned by the United States Government*
   - **(1)** *Study required* The Director, in consultation with the heads of relevant agencies and interested parties, shall, using existing resources of the Office, conduct a study on patents owned by the United States Government that—
     - **(A)** examines how such patents are licensed and sold, and any litigation relating to the licensing or sale of such patents;
     - **(B)** provides legislative and administrative recommendations on whether there should be restrictions placed on patents acquired from the United States Government;
     - **(C)** examines whether or not each relevant agency maintains adequate records on the patents owned by such agency, specifically whether such agency addresses licensing, assignment, and Government grants for technology related to such patents; and
     - **(D)** provides recommendations to ensure that each relevant agency has an adequate point of contact that is responsible for managing the patent portfolio of the agency.
-  - **(2)** *Report on study* Not later than 6 months after the date of the enactment of this Act, the Director shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the findings and recommendations of the Director from the study required under paragraph (1).
+  - **(2)** *Report on study* Not later than 1 year after the date of the enactment of this Act, the Director shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the findings and recommendations of the Director from the study required under paragraph (1).
 - **(c)** *Study on Patent Quality and Access to the Best Information during Examination*
-  - **(1)** *GAO study* The Comptroller General of the United States shall conduct a study on patent examination at the Office and the technologies available to improve examination and improve patent quality.
+  - **(1)** *GAO study* The Comptroller General of the United States shall, using existing resources, conduct a study on patent examination at the Office and the technologies available to improve examination and improve patent quality.
   - **(2)** *Contents of the study* The study required under paragraph (1) shall include the following:
     - **(A)** An examination of patent quality at the Office.
     - **(B)** An examination of ways to improve patent quality, specifically through technology, that shall include examining best practices at foreign patent offices and the use of existing off-the-shelf technologies to improve patent examination.
@@ -284,41 +283,31 @@ In this Act:
     - **(D)** An examination of procedures in place to prevent double patenting through filing by applicants in multiple art areas.
     - **(E)** An examination of the types of off-the-shelf prior art databases and search software used by foreign patent offices and governments, particularly in Europe and Asia, and whether those databases and search tools could be used by the Office to improve patent examination.
     - **(F)** An examination of any other areas the Comptroller General determines to be relevant.
-  - **(3)** *Report on study* Not later than 6 months after the date of the enactment of this Act, the Comptroller General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the findings and recommendations from the study required by this subsection, including recommendations for any changes to laws and regulations that will improve the examination of patent applications and patent quality.
+  - **(3)** *Report on study* Not later than 1 year after the date of the enactment of this Act, the Comptroller General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the findings and recommendations from the study required by this subsection, including recommendations for any changes to laws and regulations that will improve the examination of patent applications and patent quality.
 - **(d)** *Study on Patent Small Claims Court*
   - **(1)** *Study Required*
-    - **(A)** *In general* The Director of the Administrative Office of the United States Courts, in consultation with the Director of the Federal Judicial Center and the United States Patent and Trademark Office, shall, using existing resources, conduct a study to examine the idea of developing a pilot program for patent small claims courts in certain judicial districts within the existing patent pilot program mandated by Public Law 111–349.
+    - **(A)** *In general* The Director of the Administrative Office of the United States Courts, in consultation with the Director of the Federal Judicial Center and the United States Patent and Trademark Office, shall, using existing resources, conduct a study to examine the idea of developing a pilot program for patent small claims procedures in certain judicial districts within the existing patent pilot program mandated by Public Law 111–349.
     - **(B)** *Contents of study* The study under subparagraph (A) shall examine—
-      - **(i)** the number of and qualifications for judges that could serve on such small claims courts;
-      - **(ii)** how such small claims courts would be designated and the necessary criteria for such designation;
-      - **(iii)** the costs that would be incurred for establishing, maintaining, and operating such a pilot program; and
-      - **(iv)** the steps that would be taken to ensure that the courts in the pilot program are not misused for abusive patent litigation.
+      - **(i)** the necessary criteria for using small claims procedures;
+      - **(ii)** the costs that would be incurred for establishing, maintaining, and operating such a pilot program; and
+      - **(iii)** the steps that would be taken to ensure that the procedures used in the pilot program are not misused for abusive patent litigation.
   - **(2)** *Report on study* Not later than 1 year after the date of the enactment of this Act, the Director of the Administrative Office of the United States Courts shall submit a report to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate on the findings and recommendations of the Director of the Administrative Office from the study required under paragraph (1).
 - **(e)** *Study on demand letters*
-  - **(1)** *Study* The Director, in consultation with the heads of other appropriate agencies, shall conduct a study of the prevalence of the practice of sending patent demand letters in bad faith and the extent to which that practice may, through fraudulent or deceptive practices, impose a negative impact on the marketplace.
+  - **(1)** *Study* The Director, in consultation with the heads of other appropriate agencies, shall, using existing resources, conduct a study of the prevalence of the practice of sending patent demand letters in bad faith and the extent to which that practice may, through fraudulent or deceptive practices, impose a negative impact on the marketplace.
   - **(2)** *Report to congress* Not later than 1 year after the date of the enactment of this Act, the Director shall submit a report to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate on the findings and recommendations of the Director from the study required under paragraph (1).
   - **(3)** *Patent demand letter defined* In this subsection, the term “patent demand letter” means a written communication relating to a patent that states or indicates, directly or indirectly, that the recipient or anyone affiliated with the recipient is or may be infringing the patent.
 - **(f)** *Study on business method patent quality*
-  - **(1)** *GAO study* The Comptroller General of the United States shall conduct a study on the volume and nature of litigation involving business method patents.
+  - **(1)** *GAO study* The Comptroller General of the United States shall, using existing resources, conduct a study on the volume and nature of litigation involving business method patents.
   - **(2)** *Contents of study* The study required under paragraph (1) shall focus on examining the quality of business method patents asserted in suits alleging patent infringement, and may include an examination of any other areas that the Comptroller General determines to be relevant.
-  - **(3)** *Report to congress* Not later than 6 months after the date of the enactment of this Act, the Comptroller General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the findings and recommendations from the study required by this subsection, including recommendations for any changes to laws or regulations that the Comptroller General considers appropriate on the basis of the study.
+  - **(3)** *Report to congress* Not later than 1 year after the date of the enactment of this Act, the Comptroller General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the findings and recommendations from the study required by this subsection, including recommendations for any changes to laws or regulations that the Comptroller General considers appropriate on the basis of the study.
+- **(g)** *Study on impact of legislation on ability of individuals and small businesses to protect exclusive rights to inventions and discoveries*
+  - **(1)** *Study required* The Director, in consultation with the Secretary of Commerce, the Director of the Administrative Office of the United States Courts, the Director of the Federal Judicial Center, the heads of other relevant agencies, and interested parties, shall, using existing resources of the Office, conduct a study to examine the economic impact of sections 3, 4, and 5 of this Act, and any amendments made by such sections, on the ability of individuals and small businesses owned by women, veterans, and minorities to assert, secure, and vindicate the constitutionally guaranteed exclusive right to inventions and discoveries by such individuals and small business.
+  - **(2)** *Report on study* Not later than 2 years after the date of the enactment of this Act, the Director shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the findings and recommendations of the Director from the study required under paragraph (1).
 
 ## § 9. Improvements and technical corrections to the Leahy-Smith America Invents Act
 
-- **(a)** *Repeal of civil action To obtain a patent*
-  - **(1)** *Repeal* Section 145 of title 35, United States Code, is repealed.
-  - **(2)** *Conforming amendments*
-    - **(A)** *Federal Circuit jurisdiction* Section 1295(a)(4) of title 28, United States Code, is amended—
-      - **(i)** in subparagraph (A), by striking “except that an applicant or a party” and all that follows through the end of the subparagraph and inserting the following: “except that a party to a derivation proceeding may also have remedy by civil action under section 146 of title 35; an appeal under this subparagraph of a decision of the Board with respect to a derivation proceeding shall waive the right of such party to proceed under section 146 of title 35;”; and
-      - **(ii)** in subparagraph (C), by striking “section 145, 146, or” and inserting “section 146 or”.
-    - **(B)** *Federal Circuit appeal* Section 141(a) of title 35, United States Code, is amended—
-      - **(i)** by striking “may appeal the Board’s decision to” and inserting “may appeal the Board’s decision only to”; and
-      - **(ii)** by striking the second sentence.
-    - **(C)** *Adjustment of patent term* Section 154(b)(1)(A)(iii) of title 35, United States Code, is amended by striking “section 141, 145, or 146” and inserting “section 141 or 146”.
-    - **(D)** *Clerical amendment* The table of sections for chapter 13 of title 35, United States Code, is amended by repealing the item relating to section 145.
-  - **(3)** *Effective date* The amendments made by this subsection shall take effect on the date of the enactment of this Act and apply to any proceeding in which a decision is made by the Patent Trial and Appeal Board on or after such date of enactment.
-- **(b)** *Post-Grant review amendment* Section 325(e)(2) of title 35, United States Code is amended by striking “or reasonably could have raised”.
-- **(c)** *Use of district-Court claim construction in post-Grant and inter partes reviews*
+- **(a)** *Post-Grant review amendment* Section 325(e)(2) of title 35, United States Code is amended by striking “or reasonably could have raised”.
+- **(b)** *Use of district-Court claim construction in post-Grant and inter partes reviews*
   - **(1)** *Inter partes review* Section 316(a) of title 35, United States Code, is amended—
     - **(A)** in paragraph (12), by striking “; and” and inserting a semicolon;
     - **(B)** in paragraph (13), by striking the period at the end and inserting “; and”; and
@@ -337,7 +326,7 @@ In this Act:
 
   - **(3)** *Technical and conforming amendment* Section 18(a)(1)(A) of the Leahy-Smith America Invents Act (Public Law 112–29; 126 Stat. 329; 35 U.S.C. 321 note) is amended by striking “Section 321(c)” and inserting “Sections 321(c) and 326(a)(13)”.
   - **(4)** *Effective date* The amendments made by this subsection shall take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act, and shall apply to any proceeding under chapter 31 or 32 of title 35, United States Code, as the case may be, for which the petition for review is filed on or after such effective date.
-- **(d)** *Codification of the double-Patenting doctrine for first-Inventor-To-File patents*
+- **(c)** *Codification of the double-Patenting doctrine for first-Inventor-To-File patents*
   - **(1)** *Amendment* Chapter 10 of title 35, United States Code, is amended by adding at the end the following new section:
     > ## § 106. Prior art in cases of double patenting
     >
@@ -345,55 +334,53 @@ In this Act:
     >
     > - **(1)** the claimed invention of the first patent was effectively filed under section 102(d) on or before the effective filing date of the claimed invention of the second patent;
     > - **(2)** either—
-    >   - **(A)** the first patent and second patent name the same inventor; or
+    >   - **(A)** the first patent and second patent name the same individual or individuals as the inventor; or
     >   - **(B)** the claimed invention of the first patent would constitute prior art to the claimed invention of the second patent under section 102(a)(2) if an exception under section 102(b)(2) were deemed to be inapplicable and the claimed invention of the first patent was, or were deemed to be, effectively filed under section 102(d) before the effective filing date of the claimed invention of the second patent; and
     > - **(3)** the patentee of the second patent has not disclaimed the rights to enforce the second patent independently from, and beyond the statutory term of, the first patent.
 
   - **(2)** *Regulations* The Director shall promulgate regulations setting forth the form and content of any disclaimer required for a patent to be issued in compliance with section 106 of title 35, United States Code, as added by paragraph (1). Such regulations shall apply to any disclaimer filed after a patent has issued. A disclaimer, when filed, shall be considered for the purpose of determining the validity of the patent under section 106 of title 35, United States Code.
   - **(3)** *Conforming amendment* The table of sections for chapter 10 of title 35, United States Code, is amended by adding at the end the following new item:
-  - **(4)** *Exclusive rule* A patent subject to section 106 of title 35, United States Code, as added by paragraph (1), shall not be held invalid on any nonstatutory, double-patenting ground.
-  - **(5)** *Effective date* The amendments made by this subsection shall take effect on the date of the enactment of this Act and shall apply to a patent or patent application only if both the first and second patents described in section 106 of title 35, United States Code, as added by paragraph (1), are patents or patent applications that are described in section 3(n)(1) of the Leahy-Smith America Invents Act (35 U.S.C. 100 note).
-- **(e)** *PTO patent reviews*
+  - **(4)** *Exclusive rule* A patent subject to section 106 of title 35, United States Code, as added by paragraph (1), shall not be held invalid on any nonstatutory, double-patenting ground based on a patent described in section 3(n)(1) of the Leahy-Smith America Invents Act (35 U.S.C. 100 note).
+  - **(5)** *Effective date* The amendments made by this subsection shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act and shall apply to a patent or patent application only if both the first and second patents described in section 106 of title 35, United States Code, as added by paragraph (1), are patents or patent applications that are described in section 3(n)(1) of the Leahy-Smith America Invents Act (35 U.S.C. 100 note).
+- **(d)** *PTO patent reviews*
   - **(1)** *Clarification*
     - **(A)** *Scope of prior art* Section 18(a)(1)(C)(i) of the Leahy-Smith America Invents Act (35 U.S.C. 321 note) is amended by striking “section 102(a)” and inserting “subsection (a) or (e) of section 102”.
     - **(B)** *Effective date* The amendment made by subparagraph (A) shall take effect on the date of the enactment of this Act and shall apply to any proceeding pending on, or filed on or after, such date of enactment.
   - **(2)** *Authority to waive fee* Subject to available resources, the Director may waive payment of a filing fee for a transitional proceeding described under section 18(a) of the Leahy-Smith America Invents Act (35 U.S.C. 321 note).
-- **(f)** *Clarification of limits on patent term adjustment*
+- **(e)** *Clarification of limits on patent term adjustment*
   - **(1)** *Amendments* Section 154(b)(1)(B) of title 35, United States Code, is amended—
     - **(A)** in the matter preceding clause (i), by striking “not including—” and inserting “the term of the patent shall be extended 1 day for each day after the end of that 3-year period until the patent is issued, not including—”;
     - **(B)** in clause (i), by striking “consumed by continued examination of the application requested by the applicant” and inserting “consumed after continued examination of the application is requested by the applicant”;
     - **(C)** in clause (iii), by striking the comma at the end and inserting a period; and
     - **(D)** by striking the matter following clause (iii).
-  - **(2)** *Effective date* The amendments made by this subsection shall take effect on the date of the enactment of this Act and apply to any patent application or patent that is pending on, or filed on or after, such date of enactment.
-- **(g)** *Clarification of jurisdiction*
+  - **(2)** *Effective date* The amendments made by this subsection shall take effect on the date of the enactment of this Act and apply to any patent application that is pending on, or filed on or after, such date of enactment.
+- **(f)** *Clarification of jurisdiction*
   - **(1)** *In general* The Federal interest in preventing inconsistent final judicial determinations as to the legal force or effect of the claims in a patent presents a substantial Federal issue that is important to the Federal system as a whole.
   - **(2)** *Applicability* Paragraph (1)—
     - **(A)** shall apply to all cases filed on or after, or pending on, the date of the enactment of this Act; and
     - **(B)** shall not apply to a case in which a Federal court has issued a ruling on whether the case or a claim arises under any Act of Congress relating to patents or plant variety protection before the date of the enactment of this Act.
-- **(h)** *Patent Pilot Program in Certain District Courts Duration*
+- **(g)** *Patent Pilot Program in Certain District Courts Duration*
   - **(1)** *Duration* Section 1(c) of Public Law 111–349 (124 Stat. 3674; 28 U.S.C. 137 note) is amended to read as follows:
     > - **(c)** *Duration* The program established under subsection (a) shall be maintained using existing resources, and shall terminate 20 years after the end of the 6-month period described in subsection (b).
 
   - **(2)** *Effective date* The amendment made by paragraph (1) shall take effect on the date of the enactment of this Act.
-- **(i)** *Technical corrections*
+- **(h)** *Technical corrections*
   - **(1)** *Novelty*
     - **(A)** *Amendment* Section 102(b)(1)(A) of title 35, United States Code, is amended by striking “the inventor or joint inventor or by another” and inserting “the inventor or a joint inventor or another”.
     - **(B)** *Effective date* The amendment made by subparagraph (A) shall be effective as if included in the amendment made by section 3(b)(1) of the Leahy-Smith America Invents Act (Public Law 112–29).
   - **(2)** *Inventor’s oath or declaration*
-    - **(A)** *Amendment* The second sentence of section 115(a) of title 35, United States Code, is amended—
-      - **(i)** by striking “Except as otherwise provided” and inserting “Except for an application filed under section 118 or as otherwise provided”; and
-      - **(ii)** by striking “shall execute” and inserting “may be required by the Director to execute”.
-    - **(B)** *Effective date* The amendments made by subparagraph (A) shall be effective as if included in the amendment made by section 4(a)(1) of the Leahy-Smith America Invents Act (Public Law 112–29).
+    - **(A)** *Amendment* The second sentence of section 115(a) of title 35, United States Code, is amended by striking “shall execute” and inserting “may be required to execute”.
+    - **(B)** *Effective date* The amendment made by subparagraph (A) shall be effective as if included in the amendment made by section 4(a)(1) of the Leahy-Smith America Invents Act (Public Law 112–29).
   - **(3)** *Assignee filers*
     - **(A)** *Benefit of earlier filing date; right of priority* Section 119(e)(1) of title 35, United States Code, is amended, in the first sentence, by striking “by an inventor or inventors named” and inserting “that names the inventor or a joint inventor”.
     - **(B)** *Benefit of earlier filing date in the United States* Section 120 of title 35, United States Code, is amended, in the first sentence, by striking “names an inventor or joint inventor” and inserting “names the inventor or a joint inventor”.
     - **(C)** *Effective date* The amendments made by this paragraph shall take effect on the date of the enactment of this Act and shall apply to any patent application, and any patent issuing from such application, that is filed on or after September 16, 2012.
   - **(4)** *Derived patents*
     - **(A)** *Amendment* Section 291(b) of title 35, United States Code, is amended by striking “or joint inventor” and inserting “or a joint inventor”.
-    - **(B)** *Effective date* The amendment made by subparagraph (A) shall be effective as if included in the amendment made by section 3(h)(1) of the Leahy-Smith America Invents Act (Public Law No. 112–29).
+    - **(B)** *Effective date* The amendment made by subparagraph (A) shall be effective as if included in the amendment made by section 3(h)(1) of the Leahy-Smith America Invents Act (Public Law 112–29).
   - **(5)** *Specification* Notwithstanding section 4(e) of the Leahy-Smith America Invents Act (Public Law 112–29; 125 Stat. 297), the amendments made by subsections (c) and (d) of section 4 of such Act shall apply to any proceeding or matter that is pending on, or filed on or after, the date of the enactment of this Act.
   - **(6)** *Time limit for commencing misconduct proceedings*
-    - **(A)** *Amendment* The fourth sentence of section 32 of title 35, United States Code, is amended by striking “1 year” and inserting “2 years”.
+    - **(A)** *Amendment* The fourth sentence of section 32 of title 35, United States Code, is amended by striking “1 year” and inserting “18 months”.
     - **(B)** *Effective date* The amendment made by this paragraph shall take effect on the date of the enactment of this Act and shall apply to any action in which the Office files a complaint on or after such date of enactment.
   - **(7)** *Patent owner response*
     - **(A)** *Conduct of inter partes review* Paragraph (8) of section 316(a) of title 35, United States Code, is amended by striking “the petition under section 313” and inserting “the petition under section 311”.
