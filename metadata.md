@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1846
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1846
@@ -22,9 +22,10 @@ Lower East Side Tenement National Historic Site Amendments Act
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Lower East Side Tenement National Historic Site Amendments Act
 - 2013-12-03 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
 - 2013-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7423-7424)
 - 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7423-7424)
+- 2013-12-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
