@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1105
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1105
@@ -31,9 +31,10 @@ Small Business Capital Access and Job Preservation Act
 - Rep. Hultgren, Randy [R-IL-14] (H001059)
 - Rep. Scott, David [D-GA-13] (S001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (3)
 
@@ -74,3 +75,4 @@ Small Business Capital Access and Job Preservation Act
 - 2013-12-04 — Rule H. Res. 429 passed House.
 - 2013-12-04 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7489)
 - 2013-12-04 — The previous question was ordered on the amendment (A002) pursuant to the rule. (consideration: CR H7487)
+- 2013-12-09 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
