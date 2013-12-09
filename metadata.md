@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2650
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2650
@@ -16,9 +16,10 @@ Fond du Lac Band of Lake Superior Chippewa Non-Intercourse Act of 2013
 
 - Rep. Nolan, Richard M. [D-MN-8] (N000127)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Fond du Lac Band of Lake Superior Chippewa Non-Intercourse Act of 2013
 - 2013-12-03 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
 - 2013-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7425)
 - 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7425)
+- 2013-12-09 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
