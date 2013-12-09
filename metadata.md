@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1241
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1241
@@ -21,9 +21,10 @@ To facilitate a land exchange involving certain National Forest System lands in 
 - Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
 - Rep. Costa, Jim [D-CA-16] (C001059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To facilitate a land exchange involving certain National Forest System lands in 
 - 2013-12-03 — Mr. McClintock moved to suspend the rules and pass the bill.
 - 2013-12-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7423)
 - 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7423)
+- 2013-12-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
