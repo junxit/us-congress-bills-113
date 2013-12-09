@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3588
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3588
@@ -40,3 +40,4 @@ Community Fire Safety Act of 2013
 - 2013-12-02 — Mr. Johnson (OH) moved to suspend the rules and pass the bill.
 - 2013-12-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 613). (text: CR H7371-7372)
 - 2013-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 613).(text: CR H7371-7372)
+- 2013-12-09 — Received in the Senate, read twice.
