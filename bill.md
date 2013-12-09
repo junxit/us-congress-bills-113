@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 3682
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3682
+
+> To designate the community based outpatient clinic of the Department of Veterans Affairs located at 1961 Premier Drive in Mankato, Minnesota, as the “Lyle C. Pearson Community Based Outpatient Clinic”.
+
+## § 1. Lyle C. Pearson Community Based Outpatient Clinic
+
+- **(a)** *Designation* The community based outpatient clinic of the Department of Veterans Affairs located at 1961 Premier Drive in Mankato, Minnesota, shall be known and designated as the “Lyle C. Pearson Community Based Outpatient Clinic”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the clinic referred to in subsection (a) shall be deemed to be a reference to the “Lyle C. Pearson Community Based Outpatient Clinic”.
