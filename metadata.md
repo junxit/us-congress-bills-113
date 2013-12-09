@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2650
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2650
@@ -40,3 +40,14 @@ Fond du Lac Band of Lake Superior Chippewa Non-Intercourse Act of 2013
 - 2013-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7425)
 - 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7425)
 - 2013-12-09 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2014-03-13 — Passed Senate without amendment by Unanimous Consent.
+- 2014-03-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-03-13 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S1668)
+- 2014-03-13 — Senate Committee on Indian Affairs discharged by Unanimous Consent.(consideration: CR S1668)
+- 2014-03-14 — Message on Senate action sent to the House.
+- 2014-03-18 — Presented to President.
+- 2014-03-18 — Presented to President.
+- 2014-03-21 — Became Public Law No: 113-88.
+- 2014-03-21 — Became Public Law No: 113-88.
+- 2014-03-21 — Signed by President.
+- 2014-03-21 — Signed by President.
