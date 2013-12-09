@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1963
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1963
@@ -23,9 +23,10 @@ Bureau of Reclamation Conduit Hydropower Development Equity and Jobs Act
 - Rep. Cramer, Kevin [R-ND-At Large] (C001096)
 - Rep. Lummis, Cynthia M. [R-WY-At Large] (L000571)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Bureau of Reclamation Conduit Hydropower Development Equity and Jobs Act
 - 2013-12-03 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
 - 2013-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7421-7422)
 - 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7421-7422)
+- 2013-12-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
