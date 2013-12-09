@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Veterans' Educational Transition Act of 2013”.
+This Act may be cited as the “Putting Our Veterans Back to Work Act of 2013”.
 
 ## § 2. Approval of courses of education provided by public institutions of higher education for purposes of All-Volunteer Force Educational Assistance Program and Post-9/11 Educational Assistance conditional on in-State tuition rate for veterans
 
