@@ -1,7 +1,7 @@
 ---
 measure: H.R. 255
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 255
@@ -44,3 +44,4 @@ To amend certain definitions contained in the Provo River Project Transfer Act f
 - 2013-12-03 — Mr. McClintock moved to suspend the rules and pass the bill.
 - 2013-12-03 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 615). (text: CR H7419)
 - 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 615).(text: CR H7419)
+- 2013-12-09 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 256.
