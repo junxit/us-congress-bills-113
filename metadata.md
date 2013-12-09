@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3588
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3588
@@ -41,3 +41,12 @@ Community Fire Safety Act of 2013
 - 2013-12-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 613). (text: CR H7371-7372)
 - 2013-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 613).(text: CR H7371-7372)
 - 2013-12-09 — Received in the Senate, read twice.
+- 2013-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8899-8900)
+- 2013-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8899-8900)
+- 2013-12-18 — Message on Senate action sent to the House.
+- 2013-12-19 — Presented to President.
+- 2013-12-19 — Presented to President.
+- 2013-12-20 — Became Public Law No: 113-64.
+- 2013-12-20 — Became Public Law No: 113-64.
+- 2013-12-20 — Signed by President.
+- 2013-12-20 — Signed by President.
