@@ -1,7 +1,7 @@
 ---
 measure: S. 1386
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-16 amendatory instructions. 1 executed, 15 stated and not applied.
+17 amendatory instructions. 1 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -57,3 +57,4 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 4064` | amend | by adding after paragraph (3) the following paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | Section 302(a) of the Omnibus Diplomatic Security and Antiterrorism Act (22 U.S.C. 4832(a)) is amended by inserting “one of which shall be the Inspector General of the Department of State and the Broadcasting Board of Governors,” after “… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 302(b)(2) of the Omnibus Diplomatic Security and Antiterrorism Act (22 U.S.C. 4832(b)(2)) is amended by adding at the end the following: “Such persons shall be drawn from bureaus or other agency sub-units that are not impacted by… | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 4824` | insert | The Omnibus Diplomatic Security and Antiterrorism Act of 1986 is amended by inserting after section 206 (22 U.S.C. 4824) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
