@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1447
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1447
@@ -29,3 +29,10 @@ Death in Custody Reporting Act of 2013
 - 2013-04-09 — Introduced in House
 - 2013-04-09 — Introduced in House
 - 2013-04-09 — Referred to the House Committee on the Judiciary.
+- 2013-04-30 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2013-12-03 — Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.
+- 2013-12-04 — Committee Consideration and Mark-up Session Held.
+- 2013-12-04 — Ordered to be Reported by Voice Vote.
+- 2013-12-09 — Placed on the Union Calendar, Calendar No. 205.
+- 2013-12-09 — Reported by the Committee on Judiciary. H. Rept. 113-285.
+- 2013-12-09 — Reported by the Committee on Judiciary. H. Rept. 113-285.
