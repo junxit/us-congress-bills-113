@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1204
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1204
@@ -27,9 +27,10 @@ Aviation Security Stakeholder Participation Act of 2014
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Hudson, Richard [R-NC-8] (H001067)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ Aviation Security Stakeholder Participation Act of 2014
 - 2013-12-03 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
 - 2013-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 3 (Roll no. 617). (text: CR H7414-7415)
 - 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 3 (Roll no. 617).(text: CR H7414-7415)
+- 2013-12-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
