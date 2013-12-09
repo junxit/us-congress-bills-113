@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2388
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2388
@@ -16,9 +16,10 @@ To take certain Federal lands located in El Dorado County, California, into trus
 
 - Rep. McClintock, Tom [R-CA-4] (M001177)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To take certain Federal lands located in El Dorado County, California, into trus
 - 2013-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7420)
 - 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7420)
 - 2013-12-03 — The title of the measure was amended. Agreed to without objection.
+- 2013-12-09 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
