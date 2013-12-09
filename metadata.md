@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3547
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3547
@@ -42,3 +42,4 @@ Consolidated Appropriations Act, 2014
 - 2013-12-02 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
 - 2013-12-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 376 - 5 (Roll no. 612). (text: CR H7369)
 - 2013-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 376 - 5 (Roll no. 612).(text: CR H7369)
+- 2013-12-09 — Received in the Senate, read twice.
