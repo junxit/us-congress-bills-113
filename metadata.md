@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2728
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2728
@@ -123,3 +123,5 @@ Protecting States' Rights to Promote American Energy Security Act
 - 2013-11-20 — The previous question was ordered pursuant to the rule. (consideration: CR H7295)
 - 2013-11-20 — The resolution provides for consideration of H.R. 1965 and H.R. 2728. The resolution provides for one hour of debate and makes in order only those further amendments printed in the Rules report 113-271. The rule provides one motion to recommit with or without instructions.
 - 2013-11-20 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2013-11-21 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2013-12-09 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 255.
