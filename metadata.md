@@ -1,7 +1,7 @@
 ---
 measure: H.R. 255
 congress: 113
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 255
@@ -45,3 +45,12 @@ To amend certain definitions contained in the Provo River Project Transfer Act f
 - 2013-12-03 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 615). (text: CR H7419)
 - 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 615).(text: CR H7419)
 - 2013-12-09 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 256.
+- 2014-07-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4355-4364; text as passed Senate: CR S4355)
+- 2014-07-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4355-4364; text as passed Senate: CR S4355)
+- 2014-07-10 — Message on Senate action sent to the House.
+- 2014-07-15 — Presented to President.
+- 2014-07-15 — Presented to President.
+- 2014-07-25 — Became Public Law No: 113-129.
+- 2014-07-25 — Became Public Law No: 113-129.
+- 2014-07-25 — Signed by President.
+- 2014-07-25 — Signed by President.
