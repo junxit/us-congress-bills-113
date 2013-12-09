@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1900
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1900
@@ -41,9 +41,10 @@ Natural Gas Pipeline Permitting Reform Act
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (7)
 
@@ -134,3 +135,4 @@ Natural Gas Pipeline Permitting Reform Act
 - 2013-11-21 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7332)
 - 2013-11-21 — The previous question was ordered pursuant to the rule. (consideration: CR H7332)
 - 2013-11-21 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2013-12-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
