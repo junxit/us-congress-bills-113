@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1095
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1095
@@ -62,9 +62,10 @@ TSA Loose Change Act
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -83,3 +84,4 @@ TSA Loose Change Act
 - 2013-12-03 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
 - 2013-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7407)
 - 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7407)
+- 2013-12-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
