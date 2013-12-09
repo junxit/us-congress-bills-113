@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2719
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2719
@@ -22,9 +22,10 @@ Transportation Security Acquisition Reform Act
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Richmond, Cedric L. [D-LA-2] (R000588)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Transportation Security Acquisition Reform Act
 - 2013-12-03 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
 - 2013-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 616). (text: CR H7409-7411)
 - 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 616).(text: CR H7409-7411)
+- 2013-12-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
