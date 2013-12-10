@@ -72,3 +72,7 @@ The Secretary of Veterans Affairs may carry out the following major medical faci
     >   - **(3)** Not more than 30 days after entering into a major medical facility lease, the Secretary shall submit to each committee described in paragraph (1) a report on any material differences between the lease that was entered into and the proposed lease described under such paragraph, including how the lease that was entered into changes the previously submitted scoring analysis described in subparagraph (D) of such paragraph.
 
 - **(d)** *Rule of construction* Nothing in this section, or the amendments made by this section, shall be construed to in any way relieve the Department of Veterans Affairs from any statutory or regulatory obligations or requirements existing prior to the enactment of this section and such amendments.
+
+## § 4. Budgetary effects of this Act
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, as long as such statement has been submitted prior to the vote on passage of this Act.
