@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3627
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3627
@@ -22,9 +22,10 @@ Kilah Davenport Child Protection Act of 2013
 - Rep. Murphy, Patrick [D-FL-18] (M001191)
 - Rep. Swalwell, Eric [D-CA-15] (S001193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Kilah Davenport Child Protection Act of 2013
 - 2013-12-09 — Placed on the Union Calendar, Calendar No. 206.
 - 2013-12-09 — Reported by the Committee on Judiciary. H. Rept. 113-286.
 - 2013-12-09 — Reported by the Committee on Judiciary. H. Rept. 113-286.
+- 2013-12-10 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
