@@ -7,19 +7,137 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1402
 
-> To amend title 38, United States Code, to extend the authorization of appropriations for the Secretary of Veterans Affairs to pay a monthly assistance allowance to disabled veterans training or competing for the Paralympic Team and the authorization of appropriations for the Secretary of Veterans Affairs to provide assistance to United States Paralympics, Inc.
+> To amend title 38, United States Code, to extend certain expiring provisions of law, and for other purposes.
 
-## § 1. Short title
+## § 1. Short title; table of contents
 
-This Act may be cited as the “Veterans Paralympic Act of 2013”.
+- **(a)** *Short title* This Act may be cited as the “VA Expiring Authorities Extension Act of 2013”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
-## § 2. Extension of authorization of appropriations for payment of a monthly assistance allowance to disabled veterans training or competing for the Paralympic Team
+## § 2. References to title 38, United States Code
 
-Section 322(d)(4) of title 38, United States Code, is amended by striking “2013” and inserting “2018”.
+Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of title 38, United States Code.
 
-## § 3. Extension of authorization of appropriations for assistance to United States Paralympics, Inc
+## § 3. Scoring of budgetary effects
 
-Section 521A of such title is amended—
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
 
-- **(1)** in subsection (g), by striking “2013” and inserting “2018”; and
-- **(2)** in subsection (l), by striking “2013” and inserting “2018”.
+## § 4. Extension of authorization of appropriations for payment of a monthly assistance allowance to disabled veterans training or competing in large-scale adaptive sports programs
+
+- **(a)** *Reauthorization and use of certain funds* Subsection (d)(4) of section 322 is amended by striking “through 2013” and all that follows and inserting “through 2015.”.
+- **(b)** *Cooperation with organization* Subsection (b)(4) of such section is amended by striking “cooperate with the United States Olympic Committee” and all that follows through “its partners;” and inserting “cooperate with entities with significant experience in managing large-scale adaptive sports programs;”.
+- **(c)** *Applicability to commonwealths and territories of the United States* Such section is further amended by redesignating subsection (e) as subsection (f) and inserting after subsection (d) the following new subsection (e):
+  > - **(e)** *Applicability to commonwealths and territories of the United States* The provisions of this subsection shall apply in the same manner and to the same degree as to the United States Olympic Committee to the Paralympic sport entities the Secretary considers appropriate to represent the interests of each of the following:
+  >   - **(1)** American Samoa.
+  >   - **(2)** Guam.
+  >   - **(3)** Puerto Rico.
+  >   - **(4)** The Northern Mariana Islands.
+  >   - **(5)** The United States Virgin Islands.
+
+## § 5. Reauthorization and modification of adaptive sports assistance program
+
+- **(a)** *Reauthorization* Subsection (a) of section 521A is amended to read as follows:
+  > - **(a)** *Adaptive sports program*
+  >   - **(1)** The Secretary may carry out a program under which the Secretary may make grants to eligible entities for planning, developing, managing, and implementing programs to provide adaptive sports opportunities for disabled veterans and disabled members of the Armed Forces.
+  >   - **(2)** For purposes of this section, an eligible entity is an entity with significant experience in managing a large-scale adaptive sports program.
+
+- **(b)** *Additional application requirements* Subsection (c)(2)(A) of such section is amended—
+  - **(1)** by striking “of all partnerships” and all that follows through the end and inserting “of—”; and
+  - **(2)** by adding at the end the following new clauses:
+    > - **(i)** all partnerships referred to in paragraph (3) at the national and local levels that will be participating in such activities and the amount of grant funds that the eligible entity proposes to make available for each of such partnerships;
+    > - **(ii)** the anticipated personnel, travel, and administrative costs that will be paid for by the eligible entity using grant funds;
+    > - **(iii)** the financial controls implemented by the eligible entity, including methods to track expenditures of grant funds;
+    > - **(iv)** the performance metrics to be used by the eligible entity to evaluate the effectiveness of the activities to be carried out using grant funds; and
+    > - **(v)** the anticipated personnel, travel, and administrative costs that will be paid for by grantees under this subsection using grant funds; and
+
+- **(c)** *Use of funds for administrative expenses* Paragraph (4) of subsection (d) of such section is amended to read as follows:
+  > - **(4)**
+  >   - **(A)** At the discretion of the Secretary, an eligible entity that receives a grant under this section may use a portion of the grant for the administrative expenses and personnel expenses of the eligible entity. The amount that may be used for such expenses may not exceed—
+  >     - **(i)** in the case of a grant made for adaptive sports opportunities taking place during fiscal year 2014, 10 percent of the total amount of the grant;
+  >     - **(ii)** in the case of a grant made for adaptive sports opportunities taking place during fiscal year 2015, 7.5 percent of the total amount of the grant; and
+  >     - **(iii)** in the case of a grant made for adaptive sports opportunities taking place during any subsequent fiscal year, 5 percent of the total amount of the grant.
+  >   - **(B)** For purposes of this paragraph, personnel expenses include any costs associated with an employee of the eligible entity other than reimbursement for time spent by such an employee directly providing coaching or training for disabled veterans or members of the Armed Forces.
+
+- **(d)** *Funding* Subsection (g) of such section is amended—
+  - **(1)** by striking “There is” and inserting “(1) There is”;
+  - **(2)** by striking “through 2013” and all that follows and inserting “through 2015.”; and
+  - **(3)** by adding at the end the following new paragraph:
+    > - **(2)** Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.
+
+- **(e)** *Reauthorization* Subsection (l) of such section is amended by striking “may not provide assistance under this section after December 31, 2013” and inserting “may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2016”.
+- **(f)** *Comptroller general report* Not later than 18 months after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on the use of the grants, if any, awarded under section 521A of title 38, United States Code, as amended by this section, during the first program year that begins after the date of the enactment of this Act. Such report shall include each of the following:
+  - **(1)** An assessment of how the Secretary of Veterans Affairs, eligible entities that received grants under such section, and grantees under subsection (c) of such section have provided adaptive sports opportunities to veterans and members of the Armed Forces through grants awarded under such section.
+  - **(2)** An assessment of how the Secretary oversees the use of funds provided under such section.
+  - **(3)** A description of the benefit provided to veterans and members of the Armed Forces through programs and activities developed through grants awarded under such section.
+- **(g)** *Technical and conforming amendments* Section 521A, as amended by this section, is further amended—
+  - **(1)** in subsection (b)—
+    - **(A)** in the first sentence, by striking “the United States Olympic Committee” and inserting “an eligible entity”; and
+    - **(B)** in the second sentence, by striking “The United States Olympic Committee” and inserting “An eligible entity that receives a grant under this section”;
+  - **(2)** in subsection (c)—
+    - **(A)** in paragraph (1)—
+      - **(i)** by striking “the United States Olympic Committee” the first time it appears and inserting “an eligible entity”; and
+      - **(ii)** by striking “the United States Olympic Committee” the second time it appears and inserting “the eligible entity”; and
+    - **(B)** in paragraphs (2) and (3), by striking “the United States Olympic Committee” each place it appears and inserting “the eligible entity”;
+  - **(3)** in subsection (d)—
+    - **(A)** in paragraph (1)—
+      - **(i)** by striking “The United States Olympic Committee” and inserting “An eligible entity that receives a grant under this section,”;
+      - **(ii)** by striking “a grant under this section” and inserting “the grant”; and
+      - **(iii)** by striking “the United States Olympic Committee” and inserting “the eligible entity”; and
+    - **(B)** in paragraph (5), by striking “the United States Olympic Committee” and inserting “an eligible entity that receives a grant under this section”;
+  - **(4)** in subsection (e)—
+    - **(A)** by striking “the United States Olympic Committee” and inserting “an eligible entity”; and
+    - **(B)** by striking “the integrated adaptive sports program” and inserting “the adapted sports opportunities funded by the grant”;
+  - **(5)** in subsection (f), by striking “the integrated adaptive sports program” and inserting “adapted sports opportunities funded under this section”; and
+  - **(6)** in subsection (j)—
+    - **(A)** in paragraph (1)—
+      - **(i)** by striking “the United States Olympic Committee” the first place it appears and inserting “an eligible entity”;
+      - **(ii)** by striking “the United States Olympic Committee” the second place it appears and inserting “the eligible entity”;
+      - **(iii)** by striking “the integrated adaptive sports program,” and inserting “the adapted sports opportunities funded by the grant,”; and
+      - **(iv)** by striking “the integrated adaptive sports program.” and inserting “such opportunities and programs.”;
+    - **(B)** by striking paragraph (3) and inserting the following new paragraph (3):
+      > - **(3)** If an eligible entity that receives a grant under this section for any fiscal year does not submit the report required by paragraph (1) for such fiscal year, the entity shall not be eligible to receive a grant under this section for the subsequent fiscal year.
+
+  - **(7)** by striking subsection (m).
+- **(h)** *Clerical amendments*
+  - **(1)** *Section heading* The heading of such section is amended to read as follows:
+    > ## § 521A. Adaptive sports programs for disabled veterans and members of the Armed Forces
+
+  - **(2)** *Table of sections* The table of sections at the beginning of chapter 5 is amended by striking the item relating to section 521A and inserting the following new item:
+- **(i)** *Implementation* To ensure the uninterrupted provision of adaptive sports for disabled veterans and disabled members of the Armed Forces, any regulations that the Secretary of Veterans Affairs determines are necessary to implement the amendments made by this section may be promulgated by interim final rules to ensure the award of grants under section 521A of title 38, United States Code, as amended by this section, before the end of fiscal year 2014.
+
+## § 6. Extension of authority to transport certain individuals to and from Department of Veterans Affairs facilities
+
+Section 111A(a)(2) is amended by striking “the date that is one year after the date of the enactment of this section” and inserting “December 31, 2014”.
+
+## § 7. Extension of authority for operation of the Department of Veterans Affairs regional office in Manila, the Republic of the Philippines
+
+Section 315(b) is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
+
+## § 8. Extension of requirement to provide nursing home care to certain veterans with service-connected disabilities
+
+Section 1710A(d) is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
+
+## § 9. Extension of treatment and rehabilitation services for seriously mentally ill and homeless veterans
+
+- **(a)** *General treatment* Section 2031(b) is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
+- **(b)** *Additional services at certain locations* Section 2033(d) is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
+
+## § 10. Extension of authority to provide housing assistance for homeless veterans
+
+Section 2041(c) is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
+
+## § 11. Extension of authority for the Advisory Committee on Homeless Veterans
+
+Section 2066(d) is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
+
+## § 12. Extension of authority for the Veterans’ Advisory Commission on Education
+
+Section 3692(c) is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
+
+## § 13. Extension of requirements relating to vendee loans
+
+Section 3733(a)(7) is amended by striking “September 30, 2013” each place it appears and inserting “September 30, 2014”.
+
+## § 14. Extension of authority for the performance of medical disabilities examinations by contract physicians
+
+Section 704(c) of the Veterans Benefits Act of 2003 (Public Law 108–183; 38 U.S.C. 5101 note) is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
