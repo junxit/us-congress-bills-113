@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3627
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3627
@@ -45,3 +45,14 @@ Kilah Davenport Child Protection Act of 2013
 - 2013-12-09 — Reported by the Committee on Judiciary. H. Rept. 113-286.
 - 2013-12-09 — Reported by the Committee on Judiciary. H. Rept. 113-286.
 - 2013-12-10 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2014-05-07 — Passed Senate without amendment by Unanimous Consent.
+- 2014-05-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-05-07 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2823)
+- 2014-05-07 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2823)
+- 2014-05-08 — Message on Senate action sent to the House.
+- 2014-05-12 — Presented to President.
+- 2014-05-12 — Presented to President.
+- 2014-05-20 — Became Public Law No: 113-104.
+- 2014-05-20 — Became Public Law No: 113-104.
+- 2014-05-20 — Signed by President.
+- 2014-05-20 — Signed by President.
