@@ -89,7 +89,3 @@ In this Act:
     - **(i)** the child is returned to the country of habitual residence, pursuant to the Hague Abduction Convention or MOU, if applicable;
     - **(ii)** the judicial or administrative branch, as applicable, of the national government of the country in which the child is located has implemented and is complying with the provisions of the Hague Abduction Convention or the MOU, as applicable, and a final determination is made by such judicial or administrative branch that the child will not be returned to the country of habitual residence; or
     - **(iii)** the child attains the age of 16.
-
-## § 4. Funding
-
-Amounts necessary to carry out this Act shall be taken out of the discretionary funds available to the Secretary of State for each of the fiscal years 2014 through 2018.
