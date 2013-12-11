@@ -21,5 +21,8 @@ This Act may be cited as the “Israel QME Enhancement Act”.
     - **(A)** in the heading, by striking “Quadrennial” and inserting “Biennial”; and
     - **(B)** in the text, by striking “Not later than four years after the date on which the President transmits the initial report under paragraph (1), and every four years thereafter,” and inserting “Not later than one year after the date of the enactment of the Israel QME Enhancement Act, and biennially thereafter,”.
 - **(b)** *Report*
-  - **(1)** *In general* Not later than 90 days after the date of the enactment of this Act, the President shall submit to Congress a report on criteria used to include cyber and asymmetric threats for purposes of the assessment required under section 201(a) of Public Law 110–429 (122 Stat. 4843; 22 U.S.C. 2776 note; relating to Israel’s qualitative military edge over military threats to Israel) (as amended by subsection (a)(1)).
-  - **(2)** *Definition* In this subsection, the term qualitative military edge has the meaning given the term in section 36(h) of the Arms Export Control Act (22 U.S.C. 2776(h)).
+  - **(1)** *In general* Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall submit to the appropriate congressional committees a report on—
+    - **(A)** the range of cyber and asymmetric threats posed to Israel by state and non-state actors; and
+    - **(B)** the joint efforts of the United States and Israel to address the threats identified in subparagraph (A).
+  - **(2)** *Form* The report required under paragraph (1) shall be submitted in unclassified form, but may contain a classified annex.
+  - **(3)** *Appropriate congressional committees defined* In this subsection, the term “appropriate congressional committees” means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
