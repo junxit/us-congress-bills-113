@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1402
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
