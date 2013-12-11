@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1402
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1402
@@ -46,3 +46,4 @@ VA Expiring Authorities Extension Act of 2013
 - 2013-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 353 - 0 (Roll no. 631). (text: CR H7615-7616)
 - 2013-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 353 - 0 (Roll no. 631).(text: CR H7615-7616)
 - 2013-12-10 — The title of the measure was amended. Agreed to without objection.
+- 2013-12-11 — Received in the Senate, read twice.
