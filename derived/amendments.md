@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2319
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 20 U.S.C. § 80q-5
 
-> in subsection (b), by striking “within the interior structure of the facility” and inserting “on the property”; and
+> in subsection (b), by striking “within the interior structure of the facility provided for by” and inserting “on property under the jurisdiction of the Museum on the site described in”; and
 
 | | |
 |---|---|
-| Removed | `within the interior structure of the facility` |
-| Inserted | `on the property` |
+| Removed | `within the interior structure of the facility provided for by` |
+| Inserted | `on property under the jurisdiction of the Museum on the site described in` |
 
 ### 20 U.S.C. § 80q-5
 
