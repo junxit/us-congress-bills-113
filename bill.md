@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Native American Veterans’ Memorial Amendments Act of 2013”.
 
-## § 2. Native American Veterans’ Memorial
+## § 2. Native American Veterans' Memorial
 
 - **(a)** *Authority To establish memorial* Section 3 of the Native American Veterans’ Memorial Establishment Act of 1994 (20 U.S.C. 80q–5 note; 108 Stat. 4067) is amended—
   - **(1)** in subsection (b), by striking “within the interior structure of the facility provided for by” and inserting “on property under the jurisdiction of the Museum on the site described in”; and
