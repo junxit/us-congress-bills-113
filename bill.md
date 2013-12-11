@@ -216,7 +216,7 @@ Section 610 of title 5, United States Code, is amended to read as follows:
   - **(1)** by inserting “or Chief Counsel for Advocacy, as appropriate” before “shall ensure”; and
   - **(2)** by inserting “or Chief Counsel for Advocacy” before the period at the end.
 - **(d)** *Judicial review of size standards approved by chief counsel* Section 3(a) of the Small Business Act (15 U.S.C. 632(a)) is amended by adding at the end the following new paragraph:
-  > - **(6)** *Judicial review of standards approved by chief counsel* In the case of an action for judicial review of a rule which includes a definition or standard approved by the Chief Counsel for Advocacy under this subsection, the party seeking such review shall be entitled to join the Chief Counsel as a party in such action.
+  > - **(6) (9)** *Judicial review of standards approved by chief counsel* In the case of an action for judicial review of a rule which includes a definition or standard approved by the Chief Counsel for Advocacy under this subsection, the party seeking such review shall be entitled to join the Chief Counsel as a party in such action.
 
 ## § 11. Clerical amendments
 
