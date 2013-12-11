@@ -7,41 +7,34 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2019
 
-> To eliminate taxpayer financing of presidential campaigns and party conventions and reprogram savings to provide for a 10-year pediatric research initiative through the Common Fund administered by the National Institutes of Health, and for other purposes.
+> To eliminate taxpayer financing of political party conventions and reprogram savings to provide for a 10-year pediatric research initiative through the Common Fund administered by the National Institutes of Health, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Kids First Research Act of 2013”.
+This Act may be cited as the “Gabriella Miller Kids First Research Act”.
 
-## § 2. Termination of taxpayer financing of presidential election campaigns
+## § 2. Termination of taxpayer financing of political party conventions; use of funds for pediatric research initiative
 
-- **(a)** *Termination of designation of income tax payments* Section 6096 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
-  > - **(d)** *Termination* This section shall not apply to taxable years ending on or after the date of the enactment of this subsection.
+- **(a)** *Termination of Payments for Conventions; Use of Funds for Pediatric Research* Section 9008 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
+  > - **(i)** *Termination of Payments for Conventions; Use of Amounts for Pediatric Research Initiative* Effective on the date of the enactment of the Gabriella Miller Kids First Research Act—
+  >   - **(1)** the entitlement of any major party or minor party to a payment under this section shall terminate; and
+  >   - **(2)** all amounts in each account maintained for the national committee of a major party or minor party under this section shall be transferred to a fund in the Treasury to be known as the “10-Year Pediatric Research Initiative Fund”, which shall be available only for the purpose provided in section 402A(a)(2) of the Public Health Service Act, and only to the extent and in such amounts as are provided in advance in appropriation Acts.
 
-- **(b)** *Termination of fund and account*
-  - **(1)** *Termination of presidential election campaign fund*
-    - **(A)** *In general* Chapter 95 of such Code is amended by adding at the end the following new section:
-      > ## § 9014. Termination
-      >
-      > The provisions of this chapter shall not apply with respect to any presidential election (or any presidential nominating convention) after the date of the enactment of this section, or to any candidate in such an election.
+- **(b)** *Continuation of Priority of Payments From Accounts Over Payments to Candidates*
+  - **(1)** *Availability of payments to candidates* The third sentence of section 9006(c) of such Code is amended by striking “section 9008(b)(3),” and inserting “section 9008(i)(2),”.
+  - **(2)** *Availability of payments from presidential primary matching payment account* The second sentence of section 9037(a) of such Code is amended by striking “section 9008(b)(3)” and inserting “section 9008(i)(2)”.
+- **(c)** *Conforming amendments*
+  - **(1)** *Elimination of reports by Federal election commission* Section 9009(a) of such Code is amended—
+    - **(A)** by adding “and” at the end of paragraph (2);
+    - **(B)** by striking the semicolon at the end of paragraph (3) and inserting a period; and
+    - **(C)** by striking paragraphs (4), (5), and (6).
+  - **(2)** *Elimination of penalties* Section 9012 of such Code is amended—
+    - **(A)** in subsection (a)(1), by striking the second sentence;
+    - **(B)** in subsection (c), by striking paragraph (2) and redesignating paragraph (3) as paragraph (2);
+    - **(C)** in subsection (e)(1), by striking the second sentence; and
+    - **(D)** in subsection (e)(3), by striking “, or in connection with any expense incurred by the national committee of a major party or minor party with respect to a presidential nominating convention”.
 
-    - **(B)** *Conversion of fund to 10-Year pediatric research initiative fund* Section 9006 of such Code is amended by adding at the end the following new subsection:
-      > - **(d)** *Conversion to 10-Year pediatric research initiative fund*
-      >   - **(1)** *Conversion* Effective on the date of the enactment of the Kids First Research Act of 2013—
-      >     - **(A)** the special fund established under this section shall be known and designated as the “10-Year Pediatric Research Initiative Fund”; and
-      >     - **(B)** all amounts in the fund as of such date shall be available only for the purpose provided in section 402A(a)(2) of the Public Health Service Act, and only to the extent and in such amounts as are provided in advance in appropriation Acts.
-      >   - **(2)** *Termination* Any amounts in the fund that remain unobligated on October 1, 2024, shall be deposited into the general fund of the Treasury.
-
-  - **(2)** *Termination of account* Chapter 96 of such Code is amended by adding at the end the following new section:
-    > ## § 9043. Termination
-    >
-    > The provisions of this chapter shall not apply to any candidate with respect to any presidential election after the date of the enactment of this section.
-
-- **(c)** *Clerical amendments*
-  - **(1)** The table of sections for chapter 95 of such Code is amended by adding at the end the following new item:
-  - **(2)** The table of sections for chapter 96 of such Code is amended by adding at the end the following new item:
-
-## § 3. 10-Year Pediatric Research Initiative
+## § 3. 10–Year Pediatric Research Initiative
 
 - **(a)** *Allocation of NIH funds in Common Fund for pediatric research* Paragraph (7) of section 402(b) of the Public Health Service Act (42 U.S.C. 282(b)) is amended to read as follows:
   > - **(7)**
@@ -54,7 +47,7 @@ This Act may be cited as the “Kids First Research Act of 2013”.
   >       - **(III)** ensure appropriate consideration of proposals for which the principal investigator is an individual who has not previously served as the principal investigator of research conducted or supported by the National Institutes of Health;
   >   - **(B)**
   >     - **(i)** may, with respect to funds reserved under section 402A(c)(1) for the Common Fund, allocate such funds to the national research institutes and national centers for conducting and supporting research that is identified under subparagraph (A); and
-  >     - **(ii)** shall, with respect to funds appropriated to the Common Fund under section 402A(a)(2), allocate such funds to the national research institutes and national centers for making grants for pediatric research that is identified under subparagraph (A); and
+  >     - **(ii)** shall, with respect to funds appropriated to the Common Fund pursuant to section 402A(a)(2), allocate such funds to the national research institutes and national centers for making grants for pediatric research that is identified under subparagraph (A); and
   >   - **(C)** may assign additional functions to the Division in support of responsibilities identified in subparagraph (A), as determined appropriate by the Director;
 
 - **(b)** *Funding for 10-Year pediatric research initiative* Section 402A of the Public Health Service Act (42 U.S.C. 282a) is amended—
@@ -64,9 +57,9 @@ This Act may be cited as the “Kids First Research Act of 2013”.
       > - **(1)** *This title* For purposes of carrying out this title
 
     - **(C)** by adding at the end the following:
-      > - **(2)** *Funding for 10-year pediatric research initiative through common fund* For carrying out section 402(b)(7)(B)(ii), there is authorized to be appropriated, out of funds in the 10-Year Pediatric Research Initiative Fund established by section 9006 of the Internal Revenue Code of 1986, and in addition to amounts otherwise made available under paragraph (1) of this subsection and reserved under subsection (c)(1)(B)(i) of this section, $13,000,000 for each of fiscal years 2014 through 2023.
+      > - **(2)** *Funding for 10-year pediatric research initiative through common fund* For the purpose of carrying out section 402(b)(7)(B)(ii), there is authorized to be appropriated to the Common Fund, out of the 10-Year Pediatric Research Initiative Fund described in section 9008 of the Internal Revenue Code of 1986, and in addition to amounts otherwise made available under paragraph (1) of this subsection and reserved under subsection (c)(1)(B)(i) of this section, $12,600,000 for each of fiscal years 2014 through 2023.
 
   - **(2)** in subsections (c)(1)(B), (c)(1)(D), and (d), by striking “subsection (a)” each place it appears and inserting “subsection (a)(1)”.
-- **(c)** *Supplement, not supplant; prohibition against transfer* Funds appropriated under section 402A(a)(2) of the Public Health Service Act, as added by subsection (b)—
+- **(c)** *Supplement, not supplant; prohibition against transfer* Funds appropriated pursuant to section 402A(a)(2) of the Public Health Service Act, as added by subsection (b)—
   - **(1)** shall be used to supplement, not supplant, the funds otherwise allocated by the National Institutes of Health for pediatric research; and
-  - **(2)** notwithstanding any transfer authority in any appropriation Act, shall not be used for any purpose other than making grants as described in section 402(b)(7)(B)(ii) of the Public Health Service Act, as added by subsection (a).
+  - **(2)** notwithstanding any transfer authority in any appropriation Act, shall not be used for any purpose other than allocating funds for making grants as described in section 402(b)(7)(B)(ii) of the Public Health Service Act, as added by subsection (a).
