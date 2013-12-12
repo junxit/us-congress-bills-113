@@ -1,7 +1,7 @@
 ---
 measure: H.R. 94
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,10 +33,10 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | strike | Chapter 95 of the Internal Revenue Code of 1986 is amended by striking section 9008. | the bill names no machine-readable US Code section |
 | — | strike | The table of sections of chapter 95 of such Code is amended by striking the item relating to section 9008. | the bill names no machine-readable US Code section |
-| — | strike | The third sentence of section 9006(c) of the Internal Revenue Code of 1986 is amended by striking “, section 9008(b)(3),”. | the bill names no machine-readable US Code section |
-| — | amend | by adding “and” at the end of paragraph (2); | the bill names no machine-readable US Code section |
-| — | replace | by striking “; and” at the end of paragraph (3) and inserting a period; and | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraphs (4), (5), and (6). | the bill names no machine-readable US Code section |
-| — | strike | in subsection (a)(1), by striking the second sentence; and | the bill names no machine-readable US Code section |
-| — | redesignate | in subsection (c), by striking paragraph (2) and redesignating paragraph (3) as paragraph (2). | the bill names no machine-readable US Code section |
-| — | strike | The second sentence of section 9037(a) of such Code is amended by striking “and for payments under section 9008(b)(3)”. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 9006` | strike | The third sentence of section 9006(c) of the Internal Revenue Code of 1986 is amended by striking “, section 9008(b)(3),”. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 9006` | amend | by adding “and” at the end of paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9006` | replace | by striking “; and” at the end of paragraph (3) and inserting a period; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 9006` | strike | by striking paragraphs (4), (5), and (6). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9006` | strike | in subsection (a)(1), by striking the second sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9006` | redesignate | in subsection (c), by striking paragraph (2) and redesignating paragraph (3) as paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9006` | strike | The second sentence of section 9037(a) of such Code is amended by striking “and for payments under section 9008(b)(3)”. | the bill quotes the text struck but describes what replaces it |
