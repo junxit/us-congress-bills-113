@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1992
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1992
@@ -52,9 +52,10 @@ Israel QME Enhancement Act
 - Rep. Sires, Albio [D-NJ-8] (S001165)
 - Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -75,3 +76,4 @@ Israel QME Enhancement Act
 - 2013-12-11 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2013-12-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 636). (text: CR H7650)
 - 2013-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 636).(text: CR H7650)
+- 2013-12-12 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
