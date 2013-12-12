@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 3739
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3739
+
+> To amend the Internal Revenue Code of 1986 to equalize the exclusion from gross income of parking and transportation fringe benefits and to provide for a common cost-of-living adjustment, and for other purposes.
+
+## § 1. Uniform dollar limitation for all types of transportation fringe benefits
+
+- **(a)** *In general* Section 132(f)(2) of the Internal Revenue Code of 1986 is amended—
+  - **(1)** by striking “$100” in subparagraph (A) and inserting “$245”,
+  - **(2)** by striking “$175” in subparagraph (B) and inserting “$245”, and
+  - **(3)** by striking the last sentence.
+- **(b)** *Inflation adjustment conforming amendments* Subparagraph (A) of section 132(f)(6) of the Internal Revenue Code of 1986 is amended—
+  - **(1)** by striking the last sentence,
+  - **(2)** by striking “1999” and inserting “2013”, and
+  - **(3)** by striking “1998” and inserting “2012”.
+- **(c)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2013.
