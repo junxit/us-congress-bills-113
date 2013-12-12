@@ -1,7 +1,7 @@
 ---
 measure: S. 1360
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1360
@@ -16,9 +16,13 @@ Improper Payments Agency Cooperation Enhancement Act of 2014
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Cosponsors (1)
+## Cosponsors (5)
 
 - Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
 
 ## Committees (1)
 
@@ -28,3 +32,7 @@ Improper Payments Agency Cooperation Enhancement Act of 2014
 
 - 2013-07-24 — Introduced in Senate
 - 2013-07-24 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2013-07-31 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2013-12-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. With written report No. 113-124.
+- 2013-12-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. With written report No. 113-124.
+- 2013-12-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 260.
