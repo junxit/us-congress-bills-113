@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1447
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1447
@@ -36,3 +36,8 @@ Death in Custody Reporting Act of 2013
 - 2013-12-09 — Placed on the Union Calendar, Calendar No. 205.
 - 2013-12-09 — Reported by the Committee on Judiciary. H. Rept. 113-285.
 - 2013-12-09 — Reported by the Committee on Judiciary. H. Rept. 113-285.
+- 2013-12-12 — Considered under suspension of the rules. (consideration: CR H8047-8049)
+- 2013-12-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1447.
+- 2013-12-12 — Mr. Collins (GA) moved to suspend the rules and pass the bill.
+- 2013-12-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8047-8048)
+- 2013-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8047-8048)
