@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2319
 congress: 113
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 2319
@@ -65,3 +65,4 @@ Native American Veterans' Memorial Amendments Act of 2013
 - 2013-12-11 — Placed on the Union Calendar, Calendar No. 207.
 - 2013-12-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-287.
 - 2013-12-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-287.
+- 2013-12-12 — Received in the Senate, read twice.
