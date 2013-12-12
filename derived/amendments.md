@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3547
 congress: 113
-version: Received in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 51 U.S.C. § 50915
 
-> Section 50915(f) of title 51, United States Code, is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
+> Section 50915(f) of title 51, United States Code, is amended by striking “December 31, 2013” and inserting “December 31, 2016”.
 
 | | |
 |---|---|
 | Removed | `December 31, 2013` |
-| Inserted | `December 31, 2014` |
+| Inserted | `December 31, 2016` |

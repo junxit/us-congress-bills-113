@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3547
 congress: 113
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3547
@@ -43,3 +43,7 @@ Consolidated Appropriations Act, 2014
 - 2013-12-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 376 - 5 (Roll no. 612). (text: CR H7369)
 - 2013-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 376 - 5 (Roll no. 612).(text: CR H7369)
 - 2013-12-09 — Received in the Senate, read twice.
+- 2013-12-12 — Measure laid before Senate by unanimous consent. (consideration: CR S8750-8751)
+- 2013-12-12 — Message on Senate action sent to the House.
+- 2013-12-12 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2013-12-12 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
