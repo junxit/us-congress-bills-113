@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2319
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2319
@@ -66,3 +66,12 @@ Native American Veterans' Memorial Amendments Act of 2013
 - 2013-12-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-287.
 - 2013-12-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-287.
 - 2013-12-12 — Received in the Senate, read twice.
+- 2013-12-20 — Message on Senate action sent to the House.
+- 2013-12-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9068)
+- 2013-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9068)
+- 2013-12-23 — Presented to President.
+- 2013-12-23 — Presented to President.
+- 2013-12-26 — Became Public Law No: 113-70.
+- 2013-12-26 — Became Public Law No: 113-70.
+- 2013-12-26 — Signed by President.
+- 2013-12-26 — Signed by President.
