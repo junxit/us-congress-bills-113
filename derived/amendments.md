@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1994
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -42,9 +42,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 15361` | add-at-end | The Help America Vote Act of 2002 (42 U.S.C. 15301 et seq.) is amended by adding at the end the following new title: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 15301` | add-at-end | The Help America Vote Act of 2002 (42 U.S.C. 15301 et seq.) is amended by adding at the end the following new title: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 15361` | add-at-end | Section 221 of such Act (42 U.S.C. 15361) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 15361` | amend | The table of contents of such Act is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 15301` | add-at-end | The table of contents of such Act is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 438` | strike | by striking “and” at the end of paragraph (8); | the bill quotes the text struck but describes what replaces it |
 | `2 U.S.C. § 438` | replace | by striking the period at the end of paragraph (9) and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 438` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 438` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

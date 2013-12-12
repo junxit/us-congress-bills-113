@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1994
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1994
@@ -16,6 +16,10 @@ Election Assistance Commission Termination Act
 
 - Rep. Harper, Gregg [R-MS-3] (H001045)
 
+## Cosponsors (1)
+
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+
 ## Committees (1)
 
 - House — Committee on House Administration
@@ -25,3 +29,6 @@ Election Assistance Commission Termination Act
 - 2013-05-15 — Introduced in House
 - 2013-05-15 — Introduced in House
 - 2013-05-15 — Referred to the House Committee on House Administration.
+- 2013-12-12 — Placed on the Union Calendar, Calendar No. 211.
+- 2013-12-12 — Reported by the Committee on House Administration. H. Rept. 113-293.
+- 2013-12-12 — Reported by the Committee on House Administration. H. Rept. 113-293.
