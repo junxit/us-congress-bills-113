@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3304
 congress: 113
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -827,7 +827,7 @@ to guess them.
 
 ### 10 U.S.C. § 488
 
-> by striking “other year, and in time for submission to Congress under subsection (b),” and inserting “three years” ;
+> by striking “other year, and in time for submission to Congress under subsection (b),” and inserting “three years”;
 
 | | |
 |---|---|
@@ -989,7 +989,7 @@ to guess them.
 
 ### 10 U.S.C. § 1561
 
-> Section 1031(b)(4) (126 Stat.1919) is amended by striking “Section 1031(b)” and inserting “Section 1041(b)”.
+> Section 1031(b)(4) (126 Stat. 1919) is amended by striking “Section 1031(b)” and inserting “Section 1041(b)”.
 
 | | |
 |---|---|
@@ -998,7 +998,7 @@ to guess them.
 
 ### 10 U.S.C. § 1561
 
-> Section 1086(d)(1) (126 Stat.1969) is amended by striking “paragraph (1)” and inserting “paragraph (2)”.
+> Section 1086(d)(1) (126 Stat. 1969) is amended by striking “paragraph (1)” and inserting “paragraph (2)”.
 
 | | |
 |---|---|
@@ -3036,7 +3036,7 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 1561` | amend | Chapter 24 is amended by adding a period at the end of the enumerator of section 498. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1561` | insert | Section 673(a) is amended by inserting “of the Uniform Code of Military Justice” after “120c”. | the bill quotes the text inserted but describes where it goes |
 | `10 U.S.C. § 1561` | amend | Section 2359b(k)(4)(B) is amended by adding a period at the end. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `10 U.S.C. § 1561` | strike | Section 1031(b)(3)(B) (126 Stat.1918) is amended by striking the subclause (III) immediately below clause (iv). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 1561` | strike | Section 1031(b)(3)(B) (126 Stat. 1918) is amended by striking the subclause (III) immediately below clause (iv). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1561` | insert | in subsection (i), by inserting after “it appears” the following: “(except in those places in which Administrator of FEMA already appears)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1561` | insert | Section 4712(i) is amended by inserting before “the enactment” the following: “that is 180 days after the date”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2445a` | add-at-end | Section 2445a of title 10, United States Code, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -3134,7 +3134,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subparagraph (C) as subparagraph (D); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (B) the following new subparagraph (C): | the bill names no machine-readable US Code section |
 | — | redesignate | in subparagraph (D), as redesignated by paragraph (1), by inserting “of funds across fiscal years” after “Availability”. | the bill names no machine-readable US Code section |
-| — | replace | Paragraph (7)(B) of such subsection, as so amended, is further amended by striking “90 days” and inserting“180 days”. | the bill names no machine-readable US Code section |
+| — | replace | Paragraph (7)(B) of such subsection, as so amended, is further amended by striking “90 days” and inserting “180 days”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 135 of title 10, United States Code, as amended by section 911(a) of this Act, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of such chapter, as amended by section 911(b) of this Act, is further amended by adding at the end the following item: | the bill names no machine-readable US Code section |
 | — | repeal | Effective on the date that is five years after the date of the enactment of this Act, paragraphs (1) through (5) are repealed. | the bill names no machine-readable US Code section |

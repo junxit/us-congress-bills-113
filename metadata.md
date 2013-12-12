@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3304
 congress: 113
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 3304
@@ -16,7 +16,7 @@ National Defense Authorization Act for Fiscal Year 2014
 
 - Rep. Deutch, Theodore E. [D-FL-21] (D000610)
 
-## Cosponsors (82)
+## Cosponsors (85)
 
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
 - Rep. Bridenstine, Jim [R-OK-1] (B001283)
@@ -100,11 +100,20 @@ National Defense Authorization Act for Fiscal Year 2014
 - Rep. DelBene, Suzan K. [D-WA-1] (D000617)
 - Rep. Veasey, Marc A. [D-TX-33] (V000131)
 - Rep. Lujan Grisham, Michelle [D-NM-1] (L000580)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Roberts, Pat [R-KS] (R000307)
 
 ## Committees (2)
 
 - House — Armed Services Committee
 - Senate — Armed Services Committee
+
+## Recorded votes (3)
+
+- 2013-12-18 — [Senate 113-1-282](votes/senate-113-1-0282.md) — On the Cloture Motion — **Cloture Motion Agreed to** (71–29)
+- 2013-12-19 — [Senate 113-1-283](votes/senate-113-1-0283.md) — On the Motion to Table — **Motion to Table Failed** (45–55)
+- 2013-12-19 — [Senate 113-1-284](votes/senate-113-1-0284.md) — On the Motion — **Motion Agreed to** (84–15)
 
 ## Actions
 
@@ -134,3 +143,78 @@ National Defense Authorization Act for Fiscal Year 2014
 - 2013-11-19 — Senate amendment submitted
 - 2013-11-20 — Message on Senate action sent to the House.
 - 2013-12-12 — House agreed to Senate amendments with an amendment pursuant to H. Res. 441. (consideration: CR H7717-7894; text as House agreed to Senate amendments with amendment: CR H7717-7894)
+- 2013-12-13 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2013-12-15 — Amendment SA 2552 proposed by Senator Reid. (consideration: CR S8817; text: CR S8817) To change the enactment date.
+- 2013-12-15 — Amendment SA 2553 proposed by Senator Reid to Amendment SA 2552. (consideration: CR S8817; text: CR S8817) Of a perfecting nature.
+- 2013-12-15 — Amendment SA 2554 proposed by Senator Reid. (consideration: CR S8817; text: CR S8817) To change the enactment date.
+- 2013-12-15 — Amendment SA 2555 proposed by Senator Reid to Amendment SA 2554. (consideration: CR S8817; text: CR S8817) Of a perfecting nature.
+- 2013-12-15 — Amendment SA 2556 proposed by Senator Reid to Amendment SA 2555. (consideration: CR S8817; text: CR S8817) Of a perfecting nature.
+- 2013-12-15 — Cloture motion on the motion to concur in the House amendment to the Senate amendment presented in Senate. (consideration: CR S8816-8817; text: CR S8816-8817)
+- 2013-12-15 — Measure laid before Senate by unanimous consent. (consideration: CR S8816-8817)
+- 2013-12-15 — Motion by Senator Reid to concur in the House amendment to the Senate amendment made in Senate. (consideration: CR S8816)
+- 2013-12-15 — Motion by Senator Reid to concur in the House amendment to the Senate amendment with an amendment (SA 2552) made in Senate. (consideration: CR S8816)
+- 2013-12-15 — Motion by Senator Reid to refer to Senate Committee on Armed Services the House message to accompany the bill with instructions to report back forthwith with amendment SA 2554 made in Senate. (consideration: CR S8817)
+- 2013-12-15 — Senate amendment proposed (on the floor): Amendment SA 2552 proposed by Senator Reid.(consideration: CR S8817; text: CR S8817)
+- 2013-12-15 — Senate amendment proposed (on the floor): Amendment SA 2552 proposed by Senator Reid.(consideration: CR S8817; text: CR S8817)
+- 2013-12-15 — Senate amendment proposed (on the floor): Amendment SA 2553 proposed by Senator Reid to Amendment SA 2552.(consideration: CR S8817; text: CR S8817)
+- 2013-12-15 — Senate amendment proposed (on the floor): Amendment SA 2553 proposed by Senator Reid to Amendment SA 2552.(consideration: CR S8817; text: CR S8817)
+- 2013-12-15 — Senate amendment proposed (on the floor): Amendment SA 2554 proposed by Senator Reid.(consideration: CR S8817; text: CR S8817)
+- 2013-12-15 — Senate amendment proposed (on the floor): Amendment SA 2555 proposed by Senator Reid to Amendment SA 2554.(consideration: CR S8817; text: CR S8817)
+- 2013-12-15 — Senate amendment proposed (on the floor): Amendment SA 2556 proposed by Senator Reid to Amendment SA 2555.(consideration: CR S8817; text: CR S8817)
+- 2013-12-15 — Senate amendment submitted
+- 2013-12-15 — Senate amendment submitted
+- 2013-12-15 — Senate amendment submitted
+- 2013-12-15 — Senate amendment submitted
+- 2013-12-15 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-18 — Cloture on the motion to concur in the House amendment to the Senate amendment invoked in Senate by Yea-Nay Vote. 71 - 29. Record Vote Number: 282. (consideration: CR S8957; text: CR S8957)
+- 2013-12-18 — Considered by Senate. (consideration: CR S8957)
+- 2013-12-18 — Considered by Senate. (consideration: CR S8957)
+- 2013-12-18 — Considered by Senate. (consideration: CR S8957)
+- 2013-12-18 — Considered by Senate. (consideration: CR S8957)
+- 2013-12-18 — Considered by Senate. (consideration: CR S8957)
+- 2013-12-18 — Considered by Senate. (consideration: CR S8957-8964)
+- 2013-12-18 — Motion by Senator Reid to refer to Senate Committee on Armed Services with the House message to accompany the bill with instructions to report back forthwith with amendment SA 2554 fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment in Senate. (consideration: CR S8957)
+- 2013-12-18 — SA 2554 fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment. (consideration: CR S8957)
+- 2013-12-18 — SA 2555 fell when SA 2554 fell. (consideration: CR S8957)
+- 2013-12-18 — SA 2556 fell when SA 2555 fell. (consideration: CR S8957)
+- 2013-12-18 — Senate amendment submitted
+- 2013-12-18 — Senate amendment submitted
+- 2013-12-18 — Senate amendment submitted
+- 2013-12-19 — Considered by Senate. (consideration: CR S8986-8987, S9001-9010, S9064-9068)
+- 2013-12-19 — Considered by Senate. (consideration: CR S8987)
+- 2013-12-19 — Considered by Senate. (consideration: CR S8987)
+- 2013-12-19 — Motion by Senator Reid to concur in the House amendment to the Senate amendment with an amendment (SA 2552) withdrawn in Senate. (consideration: CR S9067)
+- 2013-12-19 — Motion to table the motion by Senator Reid to concur in the House amendment to the Senate amendment with an amendment (SA 2552) rejected in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 283. (consideration: CR S9009-9010)
+- 2013-12-19 — Proposed amendment SA 2552 withdrawn in Senate. (consideration: CR S9067)
+- 2013-12-19 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate amendment by Yea-Nay Vote. 84 - 15. Record Vote Number: 284.(consideration: CR S9067-9068)
+- 2013-12-19 — SA 2553 fell when SA 2552 withdrawn. (consideration: CR S9067)
+- 2013-12-19 — Senate agreed to the House amendment to the Senate amendment by Yea-Nay Vote. 84 - 15. Record Vote Number: 284. (consideration: CR S9067-9068)
+- 2013-12-20 — Message on Senate action sent to the House.
+- 2013-12-20 — Pursuant to the provisions of H. Con. Res. 71, enrollment corrections on H.R. 3304 have been made.
+- 2013-12-23 — Presented to President.
+- 2013-12-23 — Presented to President.
+- 2013-12-26 — Became Public Law No: 113-66.
+- 2013-12-26 — Became Public Law No: 113-66.
+- 2013-12-26 — Signed by President.
+- 2013-12-26 — Signed by President.
