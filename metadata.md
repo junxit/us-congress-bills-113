@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3304
 congress: 113
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 3304
@@ -132,3 +132,5 @@ National Defense Authorization Act for Fiscal Year 2014
 - 2013-11-19 — Senate amendment proposed (on the floor): Amendment SA 2346 proposed by Senator Donnelly for Senator Levin.(consideration: CR S8290; text: CR S8290)
 - 2013-11-19 — Senate amendment submitted
 - 2013-11-19 — Senate amendment submitted
+- 2013-11-20 — Message on Senate action sent to the House.
+- 2013-12-12 — House agreed to Senate amendments with an amendment pursuant to H. Res. 441. (consideration: CR H7717-7894; text as House agreed to Senate amendments with amendment: CR H7717-7894)
