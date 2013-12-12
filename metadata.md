@@ -68,7 +68,7 @@ Continuing Appropriations Resolution, 2014
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (12)
+## Recorded votes (14)
 
 - 2013-09-20 — [House 113-1-477](votes/house-113-1-0477.md) — On Motion to Recommit with Instructions — **Failed** (190–228)
 - 2013-09-20 — [House 113-1-478](votes/house-113-1-0478.md) — On Passage — **Passed** (230–189)
@@ -82,6 +82,8 @@ Continuing Appropriations Resolution, 2014
 - 2013-09-30 — [House 113-1-504](votes/house-113-1-0504.md) — On Receding from the House Amdts, and Concurring in the Senate Amdt with Amdt — **Passed** (228–201)
 - 2013-09-30 — [Senate 113-1-210](votes/senate-113-1-0210.md) — On the Motion to Table — **Motion to Table Agreed to** (54–46)
 - 2013-09-30 — [Senate 113-1-211](votes/senate-113-1-0211.md) — On the Motion to Table — **Motion to Table Agreed to** (54–46)
+- 2013-10-01 — [Senate 113-1-212](votes/senate-113-1-0212.md) — On the Motion to Table — **Motion to Table Agreed to** (54–46)
+- 2013-12-12 — [House 113-1-640](votes/house-113-1-0640.md) — On Motion to Recede and Concur in the Senate Amendment with Amendment — **Passed** (332–94)
 
 ## Actions
 
@@ -206,3 +208,16 @@ Continuing Appropriations Resolution, 2014
 - 2013-09-30 — Rules Committee Resolution H. Res. 367 Reported to House. The resolution provides for a motion offered by the chair of the Committee on Appropriations or his designee that the House recede from its amendments and concur in the Senate amendment with an amendment printed in House Report 113-239.
 - 2013-09-30 — Rules Committee Resolution H. Res. 368 Reported to House. Rule provides for consideration of H.J. Res. 59. Rule makes in order for the House to take H.J.Res. 59 from the Speaker's table, with the House amendment to the senate amendment thereto, insist on its amendment, and request a conference with the Senate thereon. Section 2 makes it in order for any motion pursuant to clause 4 of rule XXII relating to H.J.Res. 59 be offered only by the Majority Leader or his designee.
 - 2013-09-30 — The previous question was ordered pursuant to the rule. (consideration: CR H6040)
+- 2013-10-01 — Considered by Senate. (consideration: CR S7065)
+- 2013-10-01 — Message on House action received in Senate and at desk: House requests a conference.
+- 2013-10-01 — Message on Senate action sent to the House.
+- 2013-10-01 — Motion to table the message from the House with respect to H.J. Res. 59 agreed to in Senate by Yea-Nay. 54 - 46. Record Vote Number: 212. (consideration: CR S7065)
+- 2013-10-01 — Rule H. Res. 368 passed House.
+- 2013-10-01 — The Speaker appointed conferees for consideration of the Senate amendment and the House amendment, and modifications committed to conference: Cantor, Camp, Ryan (WI), and Graves (GA). (consideration: CR 9/30/2013 H6049)
+- 2013-12-12 — DEBATE - Pursuant to the provisions of H.Res. 438, the House proceeded with 70 minutes of debate on the Ryan(WI) motion that the House recede from its amendment to the amendment of the Senate, and concur therein with the amendment printed in Part A of House Report 113-290, modified by the amendment printed in Part B of that report.
+- 2013-12-12 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2013-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-12-12 — Mr. Ryan (WI) moved that the House recede and concur with an amendment in the Senate amendment. (consideration: CR H8053-8085)
+- 2013-12-12 — On motion that the House recede and concur with an amendment in the Senate amendment Agreed to by recorded vote: 332 - 94 (Roll no. 640). (text as House recede and concur in the Senate amendment: CR H8055-8066)
+- 2013-12-12 — Resolving differences -- House actions: On motion that the House recede and concur with an amendment in the Senate amendment Agreed to by recorded vote: 332 - 94 (Roll no. 640).(text as House recede and concur in the Senate amendment: CR H8055-8066)
+- 2013-12-12 — The previous question was ordered pursuant to the rule. (consideration: CR H8083)
