@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 59
 congress: 113
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -278,7 +278,7 @@ to guess them.
 
 ### 42 U.S.C. § 1395w-4
 
-> Section 1848(e)(1)(E) of the Social Security Act (42 U.S.C. 1395w-4(e)(1)(E)) is amended by striking “January 1, 2014” and inserting “April 1, 2014”.
+> Section 1848(e)(1)(E) of the Social Security Act (42 U.S.C. 1395w–4(e)(1)(E)) is amended by striking “January 1, 2014” and inserting “April 1, 2014”.
 
 | | |
 |---|---|

@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 59
 congress: 113
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.J.Res. 59
@@ -16,8 +16,26 @@ Continuing Appropriations Resolution, 2014
 
 - Rep. Rogers, Harold [R-KY-5] (R000395)
 
-## Cosponsors (44)
+## Cosponsors (62)
 
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Schatz, Brian [D-HI] (S001194)
 - Sen. McConnell, Mitch [R-KY] (M000355)
 - Sen. Vitter, David [R-LA] (V000127)
 - Sen. McCain, John [R-AZ] (M000303)
@@ -68,7 +86,7 @@ Continuing Appropriations Resolution, 2014
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (14)
+## Recorded votes (17)
 
 - 2013-09-20 — [House 113-1-477](votes/house-113-1-0477.md) — On Motion to Recommit with Instructions — **Failed** (190–228)
 - 2013-09-20 — [House 113-1-478](votes/house-113-1-0478.md) — On Passage — **Passed** (230–189)
@@ -84,6 +102,9 @@ Continuing Appropriations Resolution, 2014
 - 2013-09-30 — [Senate 113-1-211](votes/senate-113-1-0211.md) — On the Motion to Table — **Motion to Table Agreed to** (54–46)
 - 2013-10-01 — [Senate 113-1-212](votes/senate-113-1-0212.md) — On the Motion to Table — **Motion to Table Agreed to** (54–46)
 - 2013-12-12 — [House 113-1-640](votes/house-113-1-0640.md) — On Motion to Recede and Concur in the Senate Amendment with Amendment — **Passed** (332–94)
+- 2013-12-17 — [Senate 113-1-279](votes/senate-113-1-0279.md) — On the Cloture Motion — **Cloture Motion Agreed to** (67–33)
+- 2013-12-17 — [Senate 113-1-280](votes/senate-113-1-0280.md) — On the Motion to Table — **Motion to Table Failed** (46–54)
+- 2013-12-18 — [Senate 113-1-281](votes/senate-113-1-0281.md) — On the Motion — **Motion Agreed to** (64–36)
 
 ## Actions
 
@@ -221,3 +242,72 @@ Continuing Appropriations Resolution, 2014
 - 2013-12-12 — On motion that the House recede and concur with an amendment in the Senate amendment Agreed to by recorded vote: 332 - 94 (Roll no. 640). (text as House recede and concur in the Senate amendment: CR H8055-8066)
 - 2013-12-12 — Resolving differences -- House actions: On motion that the House recede and concur with an amendment in the Senate amendment Agreed to by recorded vote: 332 - 94 (Roll no. 640).(text as House recede and concur in the Senate amendment: CR H8055-8066)
 - 2013-12-12 — The previous question was ordered pursuant to the rule. (consideration: CR H8083)
+- 2013-12-15 — Amendment SA 2547 proposed by Senator Reid. (consideration: CR S8816; text: CR S8816) To change the enactment date.
+- 2013-12-15 — Amendment SA 2548 proposed by Senator Reid to Amendment SA 2547. (consideration: CR S8816; text: CR S8816) Of a perfecting nature.
+- 2013-12-15 — Amendment SA 2549 proposed by Senator Reid. (consideration: CR S8816; text: CR S8816) To change the enactment date.
+- 2013-12-15 — Amendment SA 2550 proposed by Senator Reid to Amendment SA 2549. (consideration: CR S8816; text: CR S8816) Of a perfecting nature.
+- 2013-12-15 — Amendment SA 2551 proposed by Senator Reid to Amendment SA 2550. (consideration: CR S8816; text: CR S8816) Of a perfecting nature.
+- 2013-12-15 — Cloture motion on the motion to concur in the House amendment to the Senate amendment presented in Senate. (consideration: CR S8816; text: CR S8816)
+- 2013-12-15 — Measure laid before Senate by unanimous consent. (consideration: CR S8816)
+- 2013-12-15 — Motion by Senator Reid to concur in the House amendment to the Senate amendment made in Senate. (consideration: CR S8816)
+- 2013-12-15 — Motion by Senator Reid to concur in the House amendment to the Senate amendment with an amendment (SA 2547) made in Senate. (consideration: CR S8816)
+- 2013-12-15 — Motion by Senator Reid to refer to Senate Committee on the Budget the House message to accompany the joint resolution with instructions to report back forthwith with amendment SA 2549 made in Senate. (consideration: CR S8816)
+- 2013-12-15 — Senate amendment proposed (on the floor): Amendment SA 2547 proposed by Senator Reid.(consideration: CR S8816; text: CR S8816)
+- 2013-12-15 — Senate amendment proposed (on the floor): Amendment SA 2548 proposed by Senator Reid to Amendment SA 2547.(consideration: CR S8816; text: CR S8816)
+- 2013-12-15 — Senate amendment proposed (on the floor): Amendment SA 2549 proposed by Senator Reid.(consideration: CR S8816; text: CR S8816)
+- 2013-12-15 — Senate amendment proposed (on the floor): Amendment SA 2550 proposed by Senator Reid to Amendment SA 2549.(consideration: CR S8816; text: CR S8816)
+- 2013-12-15 — Senate amendment proposed (on the floor): Amendment SA 2551 proposed by Senator Reid to Amendment SA 2550.(consideration: CR S8816; text: CR S8816)
+- 2013-12-15 — Senate amendment submitted
+- 2013-12-15 — Senate amendment submitted
+- 2013-12-15 — Senate amendment submitted
+- 2013-12-15 — Senate amendment submitted
+- 2013-12-15 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-16 — Senate amendment submitted
+- 2013-12-17 — Cloture on the motion to concur in the House amendment to Senate amendment invoked in Senate by Yea-Nay Vote. 67 - 33. Record Vote Number: 279. (consideration: CR S8872; text: S8872)
+- 2013-12-17 — Considered by Senate. (consideration: CR S8870, S8872-8884, S8884-8899)
+- 2013-12-17 — Considered by Senate. (consideration: CR S8872)
+- 2013-12-17 — Considered by Senate. (consideration: CR S8873)
+- 2013-12-17 — Considered by Senate. (consideration: CR S8873)
+- 2013-12-17 — Considered by Senate. (consideration: CR S8873)
+- 2013-12-17 — Considered by Senate. (consideration: CR S8873)
+- 2013-12-17 — Motion by Senator Reid to refer to Senate Committee on the Budget the House message to accompany the joint resolution with instructions to report back forthwith with amendment SA 2549 fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment in Senate. (consideration: CR S8872)
+- 2013-12-17 — Motion to table the motion by Senator Reid to concur in the House amendment to the Senate amendment with an amendment (SA 2547) rejected in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 280. (consideration: CR S8873)
+- 2013-12-17 — SA 2549 fell when cloture invoked on the motion to concur in the House amendment to Senate amendment. (consideration: CR S8872)
+- 2013-12-17 — SA 2550 fell when SA 2549 fell. (consideration: CR S8872)
+- 2013-12-17 — SA 2551 fell when SA 2550 fell. (consideration: CR S8872)
+- 2013-12-18 — Considered by Senate. (consideration: CR S8920-8957)
+- 2013-12-18 — Considered by Senate. (consideration: CR S8921-8957)
+- 2013-12-18 — Considered by Senate. (consideration: CR S8921-8957)
+- 2013-12-18 — Motion by Senator Reid to concur in the House amendment to the Senate amendment with an amendment (SA 2547) withdrawn in Senate. (consideration: CR S8957)
+- 2013-12-18 — Proposed amendment SA 2547 withdrawn in Senate. (consideration: CR S8957)
+- 2013-12-18 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate amendment by Yea-Nay Vote. 64 - 36. Record Vote Number: 281.(consideration: CR S8957)
+- 2013-12-18 — SA 2548 fell when SA 2547 withdrawn. (consideration: CR S8957)
+- 2013-12-18 — Senate agreed to the House amendment to the Senate amendment by Yea-Nay Vote. 64 - 36. Record Vote Number: 281. (consideration: CR S8957)
+- 2013-12-19 — Message on Senate action sent to the House.
+- 2013-12-19 — Presented to President.
+- 2013-12-19 — Presented to President.
+- 2013-12-26 — Became Public Law No: 113-67.
+- 2013-12-26 — Became Public Law No: 113-67.
+- 2013-12-26 — Signed by President.
+- 2013-12-26 — Signed by President.
