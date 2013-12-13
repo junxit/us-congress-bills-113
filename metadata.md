@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3458
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3458
@@ -38,3 +38,7 @@ Fallen Firefighters Assistance Tax Clarification Act of 2013
 - 2013-12-12 — Mr. Reed asked unanimous consent to discharge from committee and consider.
 - 2013-12-12 — On passage Passed without objection. (text: CR H8086)
 - 2013-12-12 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8086)
+- 2013-12-13 — Message on Senate action sent to the House.
+- 2013-12-13 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed,pursuant to the order of 12-12-13, without amendment.(consideration: CR S8814)
+- 2013-12-13 — Received in the Senate, read twice, considered, read the third time, and passed,pursuant to the order of 12-12-13, without amendment. (consideration: CR S8814)
+- 2013-12-13 — See also S. 1689.
