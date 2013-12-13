@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 71
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 71
@@ -26,3 +26,6 @@ Providing for corrections to the enrollment of the bill H.R. 3304.
 - 2013-12-12 — On agreeing to the resolution Agreed to without objection. (text: CR H8085)
 - 2013-12-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H8085)
 - 2013-12-13 — Received in the Senate.
+- 2013-12-20 — Message on Senate action sent to the House.
+- 2013-12-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S9068)
+- 2013-12-20 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S9068)
