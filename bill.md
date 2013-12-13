@@ -17,9 +17,9 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the commercial and recreational fishing industries rely on healthy estuaries and directly support 1,700,000 jobs in the United States;
 - Whereas, in 2011, commercial fish landings generated $5,300,000,000 and recreational anglers spent $26,780,000,000;
 - Whereas estuaries provide vital habitats for countless species of fish and wildlife, including many species that are listed as threatened or endangered species;
-- Whereas estuaries provide critical ecosystem services that protect human health and public safety, including water filtration, flood control, shoreline stabilization, erosion prevention, and the protection of coastal communities during extreme weather events;
+- Whereas estuaries provide critical ecosystem services that protect human health and public safety, including water filtration, flood control, shoreline stabilization, erosion prevention, and the protection of coastal communities during hurricanes and storms;
 - Whereas the United States has lost more than 110,000,000 acres of wetland, or 50 percent of the wetland of the United States, since the first European settlers arrived;
-- Whereas bays in the United States that were once filled with fish and oysters have become dead zones filled with excess nutrients, chemical wastes, harmful algae, and marine debris;
+- Whereas some bays in the United States that were once filled with fish and oysters have become dead zones filled with excess nutrients, chemical wastes, harmful algae, and marine debris;
 - Whereas changes in sea level can affect estuarine water quality and estuarine habitats;
 - Whereas the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) provides that it is the policy of the United States to preserve, protect, develop, and, if possible, restore or enhance the resources of the coastal zone of the United States, including estuaries, for current and future generations;
 - Whereas 24 coastal and Great Lakes States and territories of the United States operate a National Estuary Program or contain a National Estuarine Research Reserve;

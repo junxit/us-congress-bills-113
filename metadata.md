@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 263
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 263
@@ -52,3 +52,11 @@ A resolution designating the week of September 23 through September 29, 2013, as
 
 - 2013-09-26 — Introduced in Senate
 - 2013-09-26 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6962)
+- 2013-12-13 — Amendment SA 2546 agreed to in Senate by Unanimous Consent.
+- 2013-12-13 — Amendment SA 2546 proposed by Senator Reid for Senator Whitehouse. (consideration: CR S8813)
+- 2013-12-13 — Measure laid before Senate by unanimous consent. (consideration: CR S8821-8822)
+- 2013-12-13 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(consideration: CR S8813; text: CR S8821-8822)
+- 2013-12-13 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (consideration: CR S8813; text: CR S8821-8822)
+- 2013-12-13 — Senate amendment agreed to: Amendment SA 2546 agreed to in Senate by Unanimous Consent.
+- 2013-12-13 — Senate amendment proposed (on the floor): Amendment SA 2546 proposed by Senator Reid for Senator Whitehouse.(consideration: CR S8813)
+- 2013-12-13 — Senate amendment submitted
