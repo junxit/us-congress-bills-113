@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1170
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1170
@@ -25,3 +25,11 @@ To direct the Secretary of the Interior, acting through the Bureau of Land Manag
 - 2013-03-14 — Introduced in House
 - 2013-03-14 — Introduced in House
 - 2013-03-14 — Referred to the House Committee on Natural Resources.
+- 2013-03-26 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2013-07-19 — Subcommittee Hearings Held.
+- 2013-07-31 — Committee Consideration and Mark-up Session Held.
+- 2013-07-31 — Ordered to be Reported (Amended) by Voice Vote.
+- 2013-07-31 — Subcommittee on Public Lands and Environmental Regulation Discharged.
+- 2013-12-16 — Placed on the Union Calendar, Calendar No. 215.
+- 2013-12-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-297.
+- 2013-12-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-297.
