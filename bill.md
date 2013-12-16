@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 3777
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3777
+
+> To amend the Internal Revenue Code of 1986 to disregard students as employees for purposes of determining employer health care shared responsibility.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Jobs for Students Act”.
+
+## § 2. Students disregarded as employees for purposes of determining employer shared responsibility
+
+- **(a)** *In general* Subsection (c) of section 4980H of the Internal Revenue Code of 1986 is amended by redesignating paragraphs (5), (6), and (7) as paragraphs (6), (7), and (8), respectively, and by inserting after paragraph (4) the following new paragraph:
+  > - **(5)** *Exception for students* The number of employees employed by an employer for any period shall be determined without regard to any individual who, during such period—
+  >   - **(A)** is a student enrolled at an institution of higher education (as defined in section 102 of the Higher Education Act of 1965), and
+  >   - **(B)**
+  >     - **(i)** is participating in an activity under a Federal work-study program under part C of title IV of the Higher Education Act of 1965,
+  >     - **(ii)** is employed as a condition of such enrollment, of such individual’s degree program, or of receiving a scholarship or tuition reduction with respect to such enrollment,
+  >     - **(iii)** is receiving credit towards a degree at such institution with respect to employment by such employer, or
+  >     - **(iv)** is employed by such institution (other than employment described in clause (i), (ii), or (iii)) and is carrying at least 1/2 the normal full-time work load for the course of study the student is pursuing.
+
+- **(b)** *Effective date* The amendment made by this section shall apply to months beginning after December 31, 2013.
