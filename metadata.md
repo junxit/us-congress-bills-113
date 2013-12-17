@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1162
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1162
@@ -48,3 +48,7 @@ Government Accountability Office Improvement Act
 - 2013-04-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 103). (text: CR H1998)
 - 2013-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 103).(text: CR H1998)
 - 2013-04-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2013-07-31 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2013-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. With written report No. 113-128.
+- 2013-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. With written report No. 113-128.
+- 2013-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 264.
