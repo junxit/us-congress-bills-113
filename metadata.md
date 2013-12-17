@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3212
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3212
@@ -50,9 +50,10 @@ Sean and David Goldman International Child Abduction Prevention and Return Act o
 - Rep. Kinzinger, Adam [R-IL-16] (K000378)
 - Rep. Radel, Trey [R-FL-19] (R000596)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -72,3 +73,5 @@ Sean and David Goldman International Child Abduction Prevention and Return Act o
 - 2013-12-11 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2013-12-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 635). (text: CR H7642-7646)
 - 2013-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 635).(text: CR H7642-7646)
+- 2013-12-12 — Received in the Senate.
+- 2013-12-17 — Read twice and referred to the Committee on Foreign Relations.
