@@ -1,7 +1,7 @@
 ---
 measure: S. 269
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-86 amendatory instructions. 27 executed, 59 stated and not applied.
+193 amendatory instructions. 63 executed, 130 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -267,6 +267,330 @@ to guess them.
 | Removed | `territories.` |
 | Inserted | `territories; and` |
 
+### 16 U.S.C. § 1826g
+
+> Section 607(2) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826h(2)) is amended by striking “whose vessels” and inserting “that”.
+
+| | |
+|---|---|
+| Removed | `whose vessels` |
+| Inserted | `that` |
+
+### 16 U.S.C. § 1826j
+
+> by striking “procedure for certification,” and inserting “procedure,”;
+
+| | |
+|---|---|
+| Removed | `procedure for certification,` |
+| Inserted | `procedure,` |
+
+### 16 U.S.C. § 1826j
+
+> by striking “basis of fish” and inserting “basis, for allowing importation of fish”;
+
+| | |
+|---|---|
+| Removed | `basis of fish` |
+| Inserted | `basis, for allowing importation of fish` |
+
+### 16 U.S.C. § 1826j
+
+> by striking “harvesting nation not certified under paragraph (1)” and inserting “nation issued a negative certification under paragraph (1)”; and
+
+| | |
+|---|---|
+| Removed | `harvesting nation not certified under paragraph (1)` |
+| Inserted | `nation issued a negative certification under paragraph (1)` |
+
+### 16 U.S.C. § 1826j
+
+> in subparagraph (A), by striking “under an international fishery management agreement to which the United States is a party; or” and inserting “; and”.
+
+| | |
+|---|---|
+| Removed | `under an international fishery management agreement to which the United States is a party; or` |
+| Inserted | `; and` |
+
+### 16 U.S.C. § 1826k
+
+> by striking “calendar year” each place it appears and inserting “3 years”; and
+
+| | |
+|---|---|
+| Removed | `calendar year` |
+| Inserted | `3 years` |
+
+### 16 U.S.C. § 1826k
+
+> in paragraph (1), by striking “practices;” and inserting “practices—”.
+
+| | |
+|---|---|
+| Removed | `practices;` |
+| Inserted | `practices—` |
+
+### 16 U.S.C. § 1826g
+
+> by striking “purchases” in paragraph (5) and inserting “purposes”;
+
+| | |
+|---|---|
+| Removed | `purchases` |
+| Inserted | `purposes` |
+
+### 16 U.S.C. § 1826g
+
+> by striking “search or inspection” in paragraph (5) and inserting “search, investigation, or inspection”; and
+
+| | |
+|---|---|
+| Removed | `search or inspection` |
+| Inserted | `search, investigation, or inspection` |
+
+### 16 U.S.C. § 1826g
+
+> by striking “search or inspection” in paragraph (6) and inserting “search, investigation, or inspection”.
+
+| | |
+|---|---|
+| Removed | `search or inspection` |
+| Inserted | `search, investigation, or inspection` |
+
+### 16 U.S.C. § 3637
+
+> by striking “search or inspection” in paragraph (2) and inserting “search, investigation, or inspection”; and
+
+| | |
+|---|---|
+| Removed | `search or inspection` |
+| Inserted | `search, investigation, or inspection` |
+
+### 16 U.S.C. § 3637
+
+> by striking “search or inspection” in paragraph (3) and inserting “search, investigation, or inspection”; and
+
+| | |
+|---|---|
+| Removed | `search or inspection` |
+| Inserted | `search, investigation, or inspection` |
+
+### 16 U.S.C. § 1826g
+
+> by striking “a search or inspection” in paragraph (8) and inserting “any search, investigation, or inspection”; and
+
+| | |
+|---|---|
+| Removed | `a search or inspection` |
+| Inserted | `any search, investigation, or inspection` |
+
+### 16 U.S.C. § 1826g
+
+> by striking “a search or inspection” in paragraph (10)(A) and inserting “any search, investigation, or inspection”.
+
+| | |
+|---|---|
+| Removed | `a search or inspection` |
+| Inserted | `any search, investigation, or inspection` |
+
+### 16 U.S.C. § 2436
+
+> in paragraph (4), by striking “search or inspection” and inserting “search, investigation, or inspection”; and
+
+| | |
+|---|---|
+| Removed | `search or inspection` |
+| Inserted | `search, investigation, or inspection` |
+
+### 16 U.S.C. § 2436
+
+> in paragraph (5), by striking “search or inspection” and inserting “search, investigation, or inspection”.
+
+| | |
+|---|---|
+| Removed | `search or inspection` |
+| Inserted | `search, investigation, or inspection` |
+
+### 16 U.S.C. § 971f
+
+> by striking “(b) International Enforcement.—” in subsection (b) and inserting “This Act shall be enforced under section 101 of the International Fisheries Stewardship and Enforcement Act.”; and
+
+| | |
+|---|---|
+| Removed | `(b) International Enforcement.—` |
+| Inserted | `This Act shall be enforced under section 101 of the International Fisheries Stewardship and Enforcement Act.` |
+
+### 16 U.S.C. § 971f
+
+> by striking “shall have the authority to carry out the enforcement activities specified in section 8(a) of this Act” each place it appears and inserting “shall enforce this Act”.
+
+| | |
+|---|---|
+| Removed | `shall have the authority to carry out the enforcement activities specified in section 8(a) of this Act` |
+| Inserted | `shall enforce this Act` |
+
+### 16 U.S.C. § 5606
+
+> in the section heading, by striking “AND PENALTIES.” and inserting “AND ENFORCEMENT.”;
+
+| | |
+|---|---|
+| Removed | `AND PENALTIES.` |
+| Inserted | `AND ENFORCEMENT.` |
+
+### 16 U.S.C. § 5606
+
+> by striking “search or inspection” in paragraph (2) and inserting “search, investigation, or inspection”; and
+
+| | |
+|---|---|
+| Removed | `search or inspection` |
+| Inserted | `search, investigation, or inspection` |
+
+### 16 U.S.C. § 5606
+
+> by striking “search or inspection” in paragraph (3) and inserting “search, investigation, or inspection”; and
+
+| | |
+|---|---|
+| Removed | `search or inspection` |
+| Inserted | `search, investigation, or inspection` |
+
+### 16 U.S.C. § 6906
+
+> Section 507(a)(2) of the Western and Central Pacific Fisheries Convention Implementation Act (16 U.S.C. 6906(a)(2)) is amended by striking “suspension, on” and inserting “suspension of”.
+
+| | |
+|---|---|
+| Removed | `suspension, on` |
+| Inserted | `suspension of` |
+
+### 16 U.S.C. § 773h
+
+> in paragraph (1)(B), as redesignated, by striking “search or inspection” and inserting “search, investigation, or inspection”; and
+
+| | |
+|---|---|
+| Removed | `search or inspection` |
+| Inserted | `search, investigation, or inspection` |
+
+### 16 U.S.C. § 773h
+
+> in paragraph (1)(C), as redesignated, by striking “search or inspection described in paragraph (2)” and inserting “search, investigation, or inspection described in subparagraph (B)”.
+
+| | |
+|---|---|
+| Removed | `search or inspection described in paragraph (2)` |
+| Inserted | `search, investigation, or inspection described in subparagraph (B)` |
+
+### 16 U.S.C. § 773h
+
+> in section 9(a) (16 U.S.C. 773g(a)), by striking “section 7(a)(2), (3), (4), or (6); or section 7(b)” and inserting “section 7(1)(B), (C), (D), or (F) or section 7(2)”;
+
+| | |
+|---|---|
+| Removed | `section 7(a)(2), (3), (4), or (6); or section 7(b)` |
+| Inserted | `section 7(1)(B), (C), (D), or (F) or section 7(2)` |
+
+### 15 U.S.C. § 1541
+
+> Section 10 of the National Sea Grant College Program Reauthorization Act of 1998 (15 U.S.C. 1541) is amended by striking “the United States Coast Guard” each place it appears and inserting “another Federal agency”.
+
+| | |
+|---|---|
+| Removed | `the United States Coast Guard` |
+| Inserted | `another Federal agency` |
+
+### 16 U.S.C. § 1826j
+
+> in subsection (e)(2), by striking “Within 3 months after the date of enactment of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006” and inserting “Not later than 180 days after the date of enactment of the International Fisheries Stewardship and Enforcement Act”; and
+
+| | |
+|---|---|
+| Removed | `Within 3 months after the date of enactment of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006` |
+| Inserted | `Not later than 180 days after the date of enactment of the International Fisheries Stewardship and Enforcement Act` |
+
+### 16 U.S.C. § 1826j
+
+> by striking “agreement.” and inserting “agreement; and”; and
+
+| | |
+|---|---|
+| Removed | `agreement.` |
+| Inserted | `agreement; and` |
+
+### 16 U.S.C. § 971d
+
+> by striking “(A)” and inserting “(i)”; and
+
+| | |
+|---|---|
+| Removed | `(A)` |
+| Inserted | `(i)` |
+
+### 16 U.S.C. § 971d
+
+> by striking “(B)” and inserting “(ii)”;
+
+| | |
+|---|---|
+| Removed | `(B)` |
+| Inserted | `(ii)` |
+
+### 16 U.S.C. § 1826i
+
+> by striking “territories.” in paragraph (4) and inserting “territories; and”; and
+
+| | |
+|---|---|
+| Removed | `territories.` |
+| Inserted | `territories; and` |
+
+### 16 U.S.C. § 953
+
+> in subsection (b)(3), by striking “General Advisory Subcommittee” and inserting “General Advisory Committee”.
+
+| | |
+|---|---|
+| Removed | `General Advisory Subcommittee` |
+| Inserted | `General Advisory Committee` |
+
+### 16 U.S.C. § 955
+
+> by striking “application of any such regulations” and inserting “application of regulations promulgated to carry out the recommendations of the Commission”;
+
+| | |
+|---|---|
+| Removed | `application of any such regulations` |
+| Inserted | `application of regulations promulgated to carry out the recommendations of the Commission` |
+
+### 16 U.S.C. § 955
+
+> by striking “he” and inserting “the Secretary of Commerce”; and
+
+| | |
+|---|---|
+| Removed | `he` |
+| Inserted | `the Secretary of Commerce` |
+
+### 16 U.S.C. § 1371
+
+> in section 101(a)(2)(B)(i)(II) (16 U.S.C. 1371(a)(2)(B)(i)(II)) by striking “article V, paragraph 3 of the Convention establishing the Inter-American Tropical Tuna Commission” and inserting “Article XXX of the Convention for the Strengthening of the Inter-American Tropical Tuna Commission (also known as the Antigua Convention)”;
+
+| | |
+|---|---|
+| Removed | `article V, paragraph 3 of the Convention establishing the Inter-American Tropical Tuna Commission` |
+| Inserted | `Article XXX of the Convention for the Strengthening of the Inter-American Tropical Tuna Commission (also known as the Antigua Convention)` |
+
+### 16 U.S.C. § 1371
+
+> in section 307(a)(1) (16 U.S.C. 1417(a)(1)) by striking “Article V, paragraph 3 of the Convention establishing the Inter-American Tropical Tuna Commission” and inserting “Article XXX of the Convention for the Strengthening of the Inter-American Tropical Tuna Commission (also known as the Antigua Convention)”.
+
+| | |
+|---|---|
+| Removed | `Article V, paragraph 3 of the Convention establishing the Inter-American Tropical Tuna Commission` |
+| Inserted | `Article XXX of the Convention for the Strengthening of the Inter-American Tropical Tuna Commission (also known as the Antigua Convention)` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -335,3 +659,74 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 959` | amend | Section 10 (16 U.S.C. 959) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 15 (16 U.S.C. 962) is amended by striking “vessel” and inserting “vessels”. | the bill names no machine-readable US Code section |
 | — | repeal | The Eastern Pacific Tuna Licensing Act of 1984 (16 U.S.C. 972 et seq.) is repealed. | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 1826g` | insert | by inserting “(a) Detecting, Monitoring, and Preventing Violations.—” before “The President”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1826g` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1826h` | insert | Section 607 of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826h) is amended by inserting “not later than June 1” after “2006, and”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1826g` | amend | Section 609(a) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826j(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1826j` | strike | Section 609(d)(1) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826j(d)(1)) is amended by striking “of its fishing vessels” each place it appears. | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1826k` | strike | Section 610(c)(5) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826k(c)(5)) is amended by striking “or fish or fish products not caught by the vessels engaged in illegal, unreported, or unregulated fishing”. | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1385` | add-at-end | by adding at the end of subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1385` | amend | by amending subsection (e) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1826g` | amend | Section 811 of the North Pacific Anadromous Stocks Act of 1992 (16 U.S.C. 5010) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 3637` | replace | by striking subsections (b) through (f) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 3645` | strike | Section 16(d)(2)(A) of the Pacific Salmon Treaty Act of 1985 (16 U.S.C. 3645(d)(2)(A)) is amended by striking “and” between “2002,” and “2003”. | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1826g` | replace | The South Pacific Tuna Act of 1988 (16 U.S.C. 973 et seq.) is amended by striking sections 7 and 8 (16 U.S.C. 973e and 973f) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2436` | strike | in paragraph (3), by striking “which he knows, or reasonably should have known, was”; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 2436` | insert | Section 307 of the Antarctic Marine Living Resources Convention Act (16 U.S.C. 2436) is amended by inserting after “title.” the following: “Notwithstanding the provisions of subsections (b) and (c) of section 553 of title 5, United State… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2436` | strike | by striking sections 308 and 309 (16 U.S.C. 2437 and 2438); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2436` | strike | by striking subsections (b), (c), and (d); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2436` | redesignate | by redesignating subsection (e) as subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2436` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 971e` | strike | by striking subsections (e) and (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 971e` | redesignate | by redesignating subsection (g) as subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 971f` | strike | by striking subsections (a) and (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 5606` | replace | by striking subsections (b) through (f) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6905` | amend | Section 506(c) of the Western and Central Pacific Fisheries Convention Implementation Act (16 U.S.C. 6905(c)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 773h` | redesignate | by redesignating paragraphs (1) through (6) of subsection (a), as subparagraphs (A) through (F), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 773h` | redesignate | by redesignating subsections (a) and (b) as paragraphs (1) and (2), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 773h` | strike | by striking the subsection designation and heading preceding the text of subsection (a); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 773h` | strike | by striking subsections (b) through (e); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 773h` | strike | by striking section 10 (16 U.S.C. 773h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 773i` | replace | by striking subsections (b) through (d) of section 11 (16 U.S.C. 773i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 773i` | redesignate | by redesignating subsections (e) and (f) as subsections (c) and (d), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1826i` | add-at-end | Section 608 of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826i), as amended by section 302(a) of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1826j` | strike | in subsection (d)(3)(A)(i), by striking “that has not been certified by the Secretary under this subsection, or”; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1826j` | strike | by striking “and” at the end of subparagraph (B); | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1826j` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1826k` | strike | Section 610(c)(5) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826k(c)(5)) is amended by striking “that has not been certified by the Secretary under this subsection, or”. | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1826j` | replace | in subsection (a), by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 4162` | strike | by striking “or illegal, unreported, or unregulated fishing” each place it appears in paragraphs (1) and (2); | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 4162` | replace | by striking paragraph (3)(A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 4162` | insert | by inserting “or after issuing a negative certification under section 609(d)(1) or 610(c)(1) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826j(d)(1) and 1826k(c)(1)),” after “paragraph (1),” in paragraph (4)(A)… | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1826j` | replace | by striking paragraph (4)(A)(i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1826b` | replace | Section 102 of the High Seas Driftnet Fisheries Enforcement Act (16 U.S.C. 1826b) is amended by striking “such nation has terminated large-scale driftnet fishing or illegal, unreported, or unregulated fishing by its nationals and vessels… | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 971d` | insert | by inserting “(A)” after “(2)”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 971d` | add-at-end | by adding at the end thereof the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1826i` | insert | by inserting “(a) In general.—” before “The Secretary,”; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1802` | replace | by striking “organizations” the first place it appears and inserting, “organizations, or arrangements made pursuant to an international fishery agreement (as defined in section 3(24) of the Magnuson-Stevens Fishery Conservation and Manag… | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1826i` | strike | by striking “and” after the semicolon in paragraph (3); | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1826i` | add-at-end | by adding at the end thereof the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1881a` | strike | by striking “or” after the semicolon in subparagraph (G); | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1881a` | redesignate | by redesignating subparagraph (H) as subparagraph (J); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1881a` | insert | by inserting after subparagraph (G) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 104(f) of the High Seas Fishing Compliance Act of 1995 (16 U.S.C. 5503(f)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “71” in subsection (e), as redesignated, and inserting “171”. | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 951` | amend | Section 2 (16 U.S.C. 951) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 952` | amend | Section 3 (16 U.S.C. 952) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1801` | replace | by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1801` | replace | by striking so much of subsection (b) as precedes paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 953` | amend | in subsection (b)(2), by amending the heading to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 955` | replace | by striking the section heading and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 955` | replace | by striking subsections (a) and (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 955` | replace | by striking the subsection heading and inserting “(c) Additional authority.”; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 955` | strike | by striking “Regulations required to carry out” and all that follows through “respective jurisdictions.”; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 955` | strike | by striking “The regulations thus promulgated” and all that follows through the end of subsection (c). | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 957` | amend | Section 8 (16 U.S.C. 957) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 959` | amend | Section 10 (16 U.S.C. 959) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 15 (16 U.S.C. 962) is amended by striking “vessel” and inserting “vessels”. | the bill names no machine-readable US Code section |
+| — | repeal | The Eastern Pacific Tuna Licensing Act of 1984 (16 U.S.C. 972 et seq.) is repealed. | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 1371` | insert | by inserting “and” after the semicolon at the end of subparagraph (B); | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1371` | strike | by striking subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1371` | redesignate | by redesignating subparagraph (D) as subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
