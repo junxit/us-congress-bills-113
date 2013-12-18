@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 314
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 314
@@ -16,9 +16,10 @@ A resolution commemorating and supporting the goals of World AIDS Day.
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ A resolution commemorating and supporting the goals of World AIDS Day.
 
 - 2013-12-10 — Introduced in Senate
 - 2013-12-10 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S8603-8604)
+- 2013-12-18 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2013-12-18 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2013-12-18 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2013-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 272.
