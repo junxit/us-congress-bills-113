@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 312
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 312
@@ -28,3 +28,7 @@ A resolution urging the Government of Iran to fulfill their promises of assistan
 
 - 2013-12-09 — Introduced in Senate
 - 2013-12-09 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S8572-8573)
+- 2013-12-18 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2013-12-18 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2013-12-18 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2013-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 271.
