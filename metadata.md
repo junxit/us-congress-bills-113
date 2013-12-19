@@ -1,7 +1,7 @@
 ---
 measure: S. 1376
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1376
@@ -28,3 +28,7 @@ FHA Solvency Act of 2013
 
 - 2013-07-25 — Introduced in Senate
 - 2013-07-25 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2013-07-31 — Committee on Banking, Housing, and Urban Affairs. Ordered to be reported with amendments favorably.
+- 2013-12-19 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Johnson SD, with amendments. With written report No. 113-129.
+- 2013-12-19 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Johnson SD, with amendments. With written report No. 113-129.
+- 2013-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 275.

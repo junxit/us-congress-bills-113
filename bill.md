@@ -33,12 +33,18 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - **(b)** *Effective date* The amendments made by subsection (a) take effect upon the expiration of the 6-month period beginning on the date of enactment of this Act.
 
-## § 3. Indemnification by FHA mortgagees
+## § 3. Prohibition on insuring mortgagors with 2 prior foreclosures
+
+Section 203 of the National Housing Act (12 U.S.C. 1709) is amended by adding at the end the following:
+
+> - **(y)** *Prohibition on insuring mortgagors with 2 prior foreclosures* The Secretary may not insure, or enter into a commitment to insure, a mortgage under this section that is executed by a mortgagor who is the mortgagor under any two mortgages on 1- to 4-family residential properties that have been previously foreclosed upon.
+
+## § 34. Indemnification by FHA mortgagees
 
 - **(a)** *In general* Section 202 of the National Housing Act (12 U.S.C. 1708) is amended by adding at the end the following new subsection:
   > - **(i)** *Indemnification by mortgagees*
   >   - **(1)** *In general* If the Secretary determines that a mortgage executed by a mortgagee approved by the Secretary under the direct endorsement program or insured by a mortgagee pursuant to the delegation of authority under section 256 contains a material defect such that the mortgage should not have been approved or endorsed for insurance, and a loan becomes delinquent within 36 months of such approval or endorsement leading to a default or the Secretary pays a claim within 36 months after such approval or endorsement, the Secretary may require the mortgagee approved by the Secretary under the direct endorsement program or the mortgagee delegated authority under section 256 to indemnify the Secretary for the loss, irrespective of whether the violation caused the mortgage default.
-  >   - **(2)** *Fraud or misrepresentation* If fraud or misrepresentation was involved in connection with the origination, the Secretary shall require the mortgagee approved by the Secretary under the direct endorsement program or the mortgagee delegated authority under section 256 to indemnify the Secretary for the loss regardless of when an insurance claim is paid.
+  >   - **(2)** *Fraud or misrepresentation* If fraud or misrepresentation was involved in connection with the origination, the Secretary shall require the mortgagee approved by the Secretary under the direct endorsement program or the mortgagee delegated authority under section 256 to indemnify the Secretary for the loss regardless of when an insurance claim is paid., except if the Secretary determines that the fraud or misrepresentation was the result of fraud or misrepresentation committed not by the mortgagee but by a third party and that the mortgagee had implemented adequate quality control and review procedures to deter, detect, and identify such fraud or misrepresentation.
   >   - **(3)** *Requirements and procedures* The Secretary shall issue regulations establishing—
   >     - **(A)** appropriate requirements and procedures governing the indemnification of the Secretary by the mortgagee, including public reporting on—
   >       - **(i)** the number of loans that—
@@ -49,9 +55,9 @@ chamber: IN THE SENATE OF THE UNITED STATES
   >   - **(4)** *Applicability* This subsection shall only apply to mortgages insured under this title that were originated on or after the date of enactment of the FHA Solvency Act of 2013.
   >   - **(5)** *Deposit in the Mutual Mortgage Insurance Fund* The Secretary shall deposit any amounts collected pursuant to this subsection in, and for the use of, the Mutual Mortgage Insurance Fund.
 
-- **(b)** *Rule of construction* Nothing in subsection (a), or the amendment made by subsection (a), shall be construed to supersede, alter, or in any way affect the authorities granted to the Secretary of Housing and Urban Development under section 256 of the National Housing Act.
+- **(b)** *Rule of construction* Nothing in subsection (a), or the amendment made by subsection (a), shall be construed to supersede, alter, or in any way affect the authorities granted to the Secretary of Housing and Urban Development under section 256 of the National Housing Act (12 U.S.C. 1715z–21).
 
-## § 4. Review of mortgagee performance
+## § 45. Review of mortgagee performance
 
 Section 533 of the National Housing Act (12 U.S.C. 1735f–11) is amended—
 
@@ -81,10 +87,31 @@ Section 533 of the National Housing Act (12 U.S.C. 1735f–11) is amended—
     >   - **(B)** be made in accordance with any regulation, notice, or mortgagee letter issued by the Secretary.
 
   - **(D)** in paragraph (3) (as so redesignated)—
-    - **(i)** by striking “The Secretary shall give” and inserting “(3) Notice and right to informal conference.—The Secretary shall give”; and
+    - **(i)** by striking “(3) The Secretary shall give” and inserting “(3) Notice and right to informal conference.—The Secretary shall give”; and
     - **(ii)** in the fourth sentence, by striking “excessive default and claim rate” and inserting “finding of an unacceptable risk to the insurance funds”.
 
-## § 5. Easing regulatory burdens; resource guide
+## § 6. Transfer of mortgage servicing duties
+
+- **(a)** *In general* Title II of the National Housing Act (12 U.S.C. 1707 et seq.) is amended by adding at the end the following new section:
+  > ## § 259. Transfer of mortgage servicing duties
+  >
+  > - **(a)** *Transfer of mortgage servicing duties*
+  >   - **(1)** *In general* For any mortgage or pool of mortgages insured under this title and in accordance with rules promulgated by the Secretary, the Secretary may require the servicer of any such mortgage or pool of mortgages to enter into a subservicing arrangement with any independent specialty servicer approved by the Secretary.
+  >   - **(2)** *Rules* The rules required under paragraph (1) shall—
+  >     - **(A)** set forth with clarity the performance conditions of a servicer that would warrant or necessitate the use of the authority granted to the Secretary under this section;
+  >     - **(B)** require that the performance condition warranting or necessitating the use of such authority be of such type or character so as to materially and adversely affect the Secretary's ability to recover any amounts owed to the Secretary;
+  >     - **(C)** for purposes of subparagraph (B), define the term “materially and adversely affect”;
+  >     - **(D)** require that any servicer whose servicing duties are subject to this section be provided a reasonable amount of time, provided that such time does not present a risk to the Mutual Mortgage Insurance Fund, to rebut, address, or correct any determination of the Secretary regarding a performance condition described under subparagraph (A);
+  >     - **(E)** only permit the Secretary to carry out the authority granted under this section upon expiration of the time-period allowed under subparagraph (D);
+  >     - **(F)** limit the scope of any such authority to mortgages that share similar underwriting, borrower, and performance characteristics;
+  >     - **(G)** ensure that the scope of any such authority is not applied broadly and without further limitation; and
+  >     - **(H)** notwithstanding subparagraphs (B) through (G), provide that a servicer may be subject to more extensive programmatic discipline or correction measures, as determined by the Secretary, if, during any 5-year period—
+  >       - **(i)** the servicing duties that are the subject of the current use of the Secretary's authority under this section marks the third instance of the use of such authority with respect to the same servicer; and
+  >       - **(ii)** with respect to the prior two separate and individual instances of the use of such authority, the same servicer failed to cure any identified performance conditions or implement corrective measures as determined by the Secretary pursuant to subparagraph (D).
+
+- **(b)** *Applicability* The amendment made by this section shall only apply to mortgages insured under title II of the National Housing Act (12 U.S.C. 1707 et seq.) that were originated on or after the date of enactment of this Act.
+
+## § 57. Easing regulatory burdens; resource guide
 
 - **(a)** *In general* Not later than 360 days after the date of enactment of this Act, the Secretary of Housing and Urban Development (in this section referred to as the “Secretary”) shall issue a single, uniform resource guide to inform lenders and servicers of the policies, processes, and procedures applicable to mortgages insured under title II of the National Housing Act (12 U.S.C. 1707 et seq.), including, but not limited to, the policies, processes, and procedures of the Secretary relating to any indemnification authority of the Secretary, including any criteria the Secretary considers to be a material defect for purposes of executing such authority.
 - **(b)** *Content* The resource guide required under subsection (a) shall aggregate all forms, policies, and other related information set forth in any handbooks, mortgagee letters, guidebooks, notices, or bulletins issued by the Secretary.
@@ -92,7 +119,7 @@ Section 533 of the National Housing Act (12 U.S.C. 1735f–11) is amended—
 - **(d)** *Public availability; website access* The resource guide required under subsection (a) shall be made available to the public and posted on the website of the Department of the Housing and Urban Development.
 - **(e)** *Authorization of appropriations* There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-## § 6. Improving underwriting standards
+## § 68. Improving underwriting standards
 
 - **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Secretary of Housing and Urban Development shall, by mortgagee letter or rule, evaluate and revise as necessary the underwriting standards for mortgages eligible to be insured under title II of the National Housing Act (12 U.S.C. 1707 et seq.), which shall—
   - **(1)** be based on empirically derived, demonstrably and statistically sound models; and
@@ -108,7 +135,7 @@ Section 533 of the National Housing Act (12 U.S.C. 1735f–11) is amended—
   - **(8)** the credit history of a borrower; and
   - **(9)** any other risk factor or criteria, as determined appropriate by the Secretary.
 
-## § 7. Ensuring adequate capital levels in the Mutual Mortgage Insurance Fund
+## § 79. Ensuring adequate capital levels in the Mutual Mortgage Insurance Fund
 
 Section 205 of the National Housing Act (12 U.S.C. 1711(f)) is amended—
 
@@ -135,7 +162,7 @@ Section 205 of the National Housing Act (12 U.S.C. 1711(f)) is amended—
   >       - **(ii)** *Rule of construction* For purposes of this subsection, any finding made under item (cc) of clause (i)(II) shall be deemed to mean that the Mutual Mortgage Insurance Fund is undercapitalized pursuant to paragraph (4) and that notwithstanding the provisions of paragraph (4)(D)(iv), the Secretary shall begin or continue to collect any surcharge set forth under paragraph (4)(D), until the earlier of the date on which—
   >         - **(I)** the next report of the Secretary on the annual independent actuarial study required under section 202(a)(4) finds that in comparison to the independent actuarial study submitted in the most recent prior fiscal year, the capital ratio of the Fund has increased;
   >         - **(II)** the report of the Secretary required under paragraph (3)(A) finds that in comparison to the independent actuarial study submitted in the most recent prior fiscal year, the capital ratio of the Fund has increased; or
-  >         - **(III)** the Mutual Mortgage Insurance Fund has been designated significantly undercapitalized pursuant to paragraph (5) or critically undercapitalized pursuant to paragraph (6) and the premium surcharge applicable to any such designation has taken effect.
+  >         - **(III)** the Mutual Mortgage Insurance Fund has been designated as significantly undercapitalized pursuant to paragraph (5) or critically undercapitalized pursuant to paragraph (6) and the premium surcharge applicable to any such designation has taken effect.
   >   - **(2)** *Duty of Chief Risk Officer* Following the receipt by the Deputy Assistant Secretary and Chief Risk Officer of the final completed report for the fiscal year of the independent actuary commissioned to carry out the annual independent actuarial study required under section 202(a)(4) analyzing the capital ratio of the Mutual Mortgage Insurance Fund, the Deputy Assistant Secretary and Chief Risk Officer shall, as part of that individual's regularly assigned duties and responsibilities, have a duty to notify, within 24 hours, the Secretary of any failure to maintain the capital ratio of the Mutual Mortgage Insurance Fund as required under subsection (f).
   >   - **(3)** *Studies and reports*
   >     - **(A)** *For when Fund is undercapitalized or significantly undercapitalized* If the Mutual Mortgage Insurance Fund is designated as undercapitalized or significantly undercapitalized pursuant to paragraphs (4) or (5), respectively, then not later than 180 days after date on which the Secretary submits the report on the annual independent actuarial study required under section 202(a)(4), and annually thereafter until such time as the Mutual Mortgage Insurance Fund achieves the capital ratio required to be maintained under subsection (f), the Secretary shall provide a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives updating the results of the independent actuarial study required under section 202(a)(4) to reflect the most recently available information and analyzing the financial position of the Fund.
@@ -156,7 +183,7 @@ Section 205 of the National Housing Act (12 U.S.C. 1711(f)) is amended—
   >         - **(III)** *Reinstitution of surcharge* Notwithstanding subclauses (I) and (II), if the next report of the Secretary on the annual independent actuarial study required under section 202(a)(4) that is submitted after the report of the Secretary described in subclause (II) finds that the Mutual Mortgage Insurance Fund has not achieved the capital ratio required to be maintained under subsection (f), then the effective date of the requirement to collect the annual premium payment set forth under this subparagraph shall be the date that is 30 days after the date on which such report is submitted to Congress.
   >       - **(iv)** *Cessation of application* The Secretary shall not be required to collect the annual premium payment set forth under this subparagraph, if, at any time after the date on which such requirement has gone into effect, either—
   >         - **(I)** the report of the Secretary on the annual independent actuarial study required under section 202(a)(4) finds that the Mutual Mortgage Insurance Fund has achieved the capital ratio required to be maintained under subsection (f);
-  >         - **(II)** the report of the Secretary required under paragraph (3) finds that the Mutual Mortgage Insurance Fund has achieved the capital ratio required to be maintained under subsection (f); or
+  >         - **(II)** the report of the Secretary required under paragraph (3)(A) finds that the Mutual Mortgage Insurance Fund has achieved the capital ratio required to be maintained under subsection (f); or
   >         - **(III)** the Mutual Mortgage Insurance Fund has been designated significantly undercapitalized pursuant to paragraph (5) or critically undercapitalized pursuant to paragraph (6) and the premium surcharge applicable to any such designation has taken effect.
   >   - **(5)** *Corrective actions when Fund is significantly undercapitalized*
   >     - **(A)** *Notice to Congress* Not later than 7 days after the date on which the Secretary is informed that the Mutual Mortgage Insurance Fund has a capital ratio of not less than 0 percent but less than 50 percent of the capital ratio required to be maintained under subsection (f), the Secretary shall notify the Chair and Ranking Member of the Committee on Banking, Housing, and Urban Affairs of the Senate and the Chair and Ranking Member of the Committee on Financial Services of the House of Representatives of such shortfall, and the date on which the Secretary was informed of such shortfall.
@@ -180,7 +207,7 @@ Section 205 of the National Housing Act (12 U.S.C. 1711(f)) is amended—
   >         - **(II)** the report of the Secretary required under paragraph (3)(A) finds that the Mutual Mortgage Insurance Fund—
   >           - **(aa)** has achieved the capital ratio required to be maintained under subsection (f); or
   >           - **(bb)** has a capital ratio of not less than 50 percent but less than 100 percent of the capital ratio required to be maintained under subsection (f), at which point the provisions of paragraph (4)(D) shall be applicable, except that the provisions of clause (iii) of such paragraph (4)(D) shall not be applicable and that the premium surcharge applicable to such paragraph shall take effect within 30 days of the issuance of such report; or
-  >         - **(III)** the Mutual Mortgage Insurance Fund has been designated critically undercapitalized pursuant to paragraph (6) and the premium surcharge applicable to any such designation has taken effect.
+  >         - **(III)** the Mutual Mortgage Insurance Fund has been designated as critically undercapitalized pursuant to paragraph (6) and the premium surcharge applicable to any such designation has taken effect.
   >     - **(E)** *Required examination of underwriting requirements* If the Mutual Mortgage Insurance Fund is designated as significantly undercapitalized pursuant to this paragraph, the Secretary shall—
   >       - **(i)** not later than 30 days after the date on which notice is provided under subparagraph (A), examine all of its product lines, product or insurance features, and underwriting criteria for ways to strengthen and enhance such products, features, or criteria to limit losses to the Mutual Mortgage Insurance Fund;
   >       - **(ii)** in carrying out the requirement under clause (i), undertake such examination actions as are necessary to reduce the financial vulnerability of the Mutual Mortgage Insurance Fund from those risk characteristics or product lines that most contribute to the default of mortgages insured under section 202, including by reviewing the underwriting and servicing standards for mortgages to be insured by the Secretary, including, but not limited to, a review of—
@@ -229,7 +256,20 @@ Section 205 of the National Housing Act (12 U.S.C. 1711(f)) is amended—
   >       - **(ii)** the repeal, revision, or amendment of any such action can be carried out without having any adverse effect on the ability of the Fund to maintain the capital ratio required under subsection (f); and
   >     - **(C)** may, pursuant to any determination under subparagraph (B) that no such adverse effects exist, repeal, revise, or amend any such action as the Secretary determines appropriate.
 
-## § 8. Establishment of Deputy Assistant Secretary and Chief Risk Officer of FHA
+## § 10. Stress testing of the Mutual Mortgage Insurance Fund
+
+Section 202(a)(4) of the National Housing Act (12 U.S.C. 1708(a)(4)) is amended by inserting after the last sentence the following: “The report shall also include an alternative stress test scenario of the Fund based on relevant assumptions used in the annual Comprehensive Capital Analysis and Review stress tests performed by the Board of Governors of the Federal Reserve System. The alternative stress test scenario of the Fund shall be developed by the Secretary, in consultation with the Board of Governors of the Federal Reserve System, and appropriately tailored for purposes of assessing the financial status of the Fund. A summary of the results of the alternative stress test scenario of the Fund, as well as any other stress test scenario of the Fund that may be utilized, shall be included in the report.”.
+
+## § 11. Congressional notification of use of certain authorities with respect to the FHA
+
+- **(a)** *Notice by Treasury* The Secretary of the Treasury shall provide written notice to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives within 48 hours of the exercise of any authority granted under section 504(f) of the Federal Credit Reform Act of 1990 (2 U.S.C. 661c(f)) to carry out any transaction to fund any account established for the benefit of the Department of Housing and Development, the Federal Housing Administration, or the Mutual Mortgage Insurance Fund established under section 202 of the National Housing Act (12 U.S.C. 1708).
+- **(b)** *Notice by HUD* The Secretary of Housing and Urban Development shall provide written notice to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives within 48 hours of the receipt of any amounts described under subsection (a).
+- **(c)** *Inclusion in required reports* The Secretary of Housing and Urban Development shall include, in any report required by law to be submitted to Congress, including any annual, quarterly, actuarial, or other report required to be submitted to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representative, the dollar amount of any amounts owed by the Secretary of Housing and Urban Development to the Treasury as a result of the exercise of any authority granted under section 504(f) of the Federal Credit Reform Act of 1990 (2 U.S.C. 661c(f)).
+- **(d)** *Public availability*
+  - **(1)** *Treasury* As soon as is practicable, the notice required by subsection (a) shall be made available to the public and posted on the website of the Department of the Treasury.
+  - **(2)** *HUD* As soon as is practicable, the notice required by subsection (b) shall be made available to the public and posted on the website of the Department of Housing and Urban Development.
+
+## § 812. Establishment of Deputy Assistant Secretary and Chief Risk Officer of FHA
 
 - **(a)** *In general* Subsection (b) of section 4 of the Department of Housing and Urban Development Act (42 U.S.C. 3533(b)) is amended—
   - **(1)** by striking “There shall be” and inserting the following:
@@ -269,7 +309,7 @@ Section 205 of the National Housing Act (12 U.S.C. 1711(f)) is amended—
 
 - **(b)** *Conforming amendment* Section 202(a)(4) of the National Housing Act (12 U.S.C. 1708(a)(4)) is amended by inserting after the first sentence the following: “The independent actuary commissioned to carry out the annual independent actuarial study required under this paragraph shall submit such study to the Deputy Assistant Secretary and Chief Risk Officer.”.
 
-## § 9. Disclosure of events
+## § 913. Disclosure of events
 
 Section 202(a)(4) of the National Housing Act (12 U.S.C. 1708(a)(4)) is amended—
 
@@ -283,7 +323,7 @@ Section 202(a)(4) of the National Housing Act (12 U.S.C. 1708(a)(4)) is amended�
   >     - **(i)** the submission of an addendum to the report of the Secretary required under paragraph (1); or
   >     - **(ii)** a letter from the Secretary addressed to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
 
-## § 10. GAO study on disclosures
+## § 1014. GAO study on disclosures
 
 - **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall conduct a one-time study of the relevant information disclosed by the Secretary of Housing and Urban Development in conjunction with the release of the annual actuarial report of the Secretary required under section 202(a)(4) of the National Housing Act (12 U.S.C. 1708(a)(4)).
 - **(b)** *Required consultation* In conducting the study required under subsection (a), the Comptroller General shall consult, as appropriate, with prominent United States academics with national recognition and significant depth of experience in the housing market and the performance of high loan-to-value lending.
@@ -292,20 +332,28 @@ Section 202(a)(4) of the National Housing Act (12 U.S.C. 1708(a)(4)) is amended�
   - **(2)** the disclosure by the Secretary of additional relevant data and analyses to the public, for research purposes.
 - **(d)** *Follow up* Not later than 12 months after the release of the study required under subsection (a), the Comptroller General shall conduct an additional report regarding the actions of the Secretary of Housing and Urban Development in carrying out any recommendations of the Comptroller General made pursuant to subsection (c)(2).
 
-## § 11. Stabilizing the HECM program
+## § 1115. Stabilizing the HECM program
 
 - **(a)** *In general* Section 255 of the National Housing Act (12 U.S.C. 1715z–20) is amended—
   - **(1)** in subsection (d)(8)—
     - **(A)** by inserting “property maintenance,” before “insurance”; and
     - **(B)** by inserting “, including matters that set forth terms and provisions for establishing escrow accounts, performing financial assessments, or limiting the amount of any payment made available under the mortgage” before the semicolon; and
+    - **(B)** by inserting “the establishment of escrow accounts or set-asides, the limiting of amounts of any payment made available under the mortgage,” after “payment of taxes”;
+    - **(C)** by striking “may” and inserting “shall”; and
+    - **(D)** by inserting “, including matters that set forth the terms and provisions for performing financial assessments” before the semicolon;
   - **(2)** in subsection (h)—
     - **(A)** in paragraph (1), by striking “; and” and inserting a semicolon;
     - **(B)** in paragraph (2), by striking the period and inserting “; and”; and
     - **(C)** by adding at the end the following new paragraph:
       > - **(3)** by notice or mortgagee letter, establish any additional or alternative requirements that the Secretary, in his or her discretion, determines necessary to more effectively carry out the purposes of the program authorized under this section, and any such notice or mortgagee letter shall take effect upon issuance and expire not later than 24 months after the date of issuance of the notice or mortgagee letter.
 
-- **(b)** *Rulemaking*
-  - **(1)** *In general* In carrying out the authority provided to the Secretary of Housing and Urban Development under section 255(h)(3) of the National Housing Act, as added by subsection (a), the Secretary shall—
+  - **(2)** in subsection (h)(3), as added by the Reverse Mortgage Stabilization Act of 2013 (Public Law 113–29), by striking “any additional or alternative requirements” and inserting “requirements pertaining to escrow accounts or set-asides, financial assessments, or limiting the amount of any payment made available under the mortgage, as authorized under subsection (d)(8),”; and
+  - **(3)** by adding at the end the following:
+    > - **(s)** *Escrow accounts or set-asides* In carrying out the program authorized under this section, the Secretary shall require the establishment of an escrow account or set-aside in any instance where the Secretary determines, after a financial assessment of the mortgagor has been completed, that such an account or set-aside would mitigate the risk of loss to the mortgagee, the mortgagor, the program, or the Mutual Mortgage Insurance Fund.
+
+- **(b)** *Limitation on authority* The authority of the Secretary of Housing and Urban Development to issue any notice or mortgagee letter pursuant to section 255(h)(3) of the National Housing Act, as added by the Reverse Mortgage Stabilization Act of 2013 (Public Law 113–29) shall expire not later than 24 months after the date of enactment of this Act.
+- **(bc)** *Rulemaking*
+  - **(1)** *In general* In carrying out the authority provided to the Secretary of Housing and Urban Development under section 255(h)(3) of the National Housing Act, as added by subsection (a)as added by the Reverse Mortgage Stabilization Act of 2013 (Public Law 113–29), the Secretary shall—
     - **(A)** not later than 90 days after the issuance of the notice or mortgagee letter pursuant to such section, issue a notice of proposed rulemaking addressing the same additional or alternative requirements that are the subject of the notice or mortgagee letter; and
     - **(B)** not later than 24 months after the issuance of the notice of proposed rulemaking required under subparagraph (A)—
       - **(i)** issue a final rule addressing the same additional or alternative requirements that are the subject of the notice or mortgagee letter; or
@@ -315,9 +363,32 @@ Section 202(a)(4) of the National Housing Act (12 U.S.C. 1708(a)(4)) is amended�
     - **(B)** the Secretary—
       - **(i)** shall not have authority to reissue such notice or mortgagee letter; and
       - **(ii)** may only address the requirements that are the subject of the notice or mortgagee letter at issue through the promulgation of a regulation pursuant to the rulemaking requirements of title 5, United States Code; and
-    - **(C)** the Secretary and the Director of Office of Management and Budget shall appear before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives to provide testimony explaining the failure to comply with the requirements of this subsection.
+    - **(C)** the Secretary and the Director of the Office of Management and Budget shall appear before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives to provide testimony explaining the failure to comply with the requirements of this subsection.
+- **(d)** *Additional rulemaking relating to fixed-rate full draw products* Not later than 1 year after the date of enactment of this Act, the Secretary of Housing and Urban Development shall issue a notice of proposed rulemaking that—
+  - **(1)** eliminates the use, issuance, or establishment of any standard fixed-rate full draw product offered under the home equity conversion mortgage program authorized by section 255 of the National Housing Act (12 U.S.C. 1715z-20); and
+  - **(2)** requires any other fixed-rate full draw product offered under the home equity conversion mortgage program authorized by section 255 of the National Housing Act not subject to elimination under paragraph (1) to be based on a financial assessment of the mortgagor.
+- **(e)** *Report*
+  - **(1)** *In general* The Secretary of Housing and Urban Development, on a quarterly basis, shall report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the status and financial condition of each distinct product offered under the home equity conversion mortgage program authorized by section 255 of the National Housing Act, including the HECM Standard Adjustable, HECM Saver Fixed, and HECM Saver Adjustable products.
+  - **(2)** *Contents of report* The report required under paragraph (1) shall set forth, for each product the—
+    - **(A)** default rates under the product;
+    - **(B)** rate of foreclosure on loans insured pursuant to each product; and
+    - **(C)** severity and extent of losses incurred on loans insured pursuant to each product.
+  - **(3)** *Further study* Upon review of the information collected pursuant to this subsection, if the Secretary of Housing and Urban Development determines that any individual product has a default rate measurably higher than the default rates occurring in any other product or is experiencing losses measurably higher than losses incurred in any other product, the Secretary shall further study the product and include in the next quarterly report due under paragraph (1)—
+    - **(A)** information identifying and enumerating the causes of such higher default rates and severity of losses; and
+    - **(B)** a detailed description of the actions to be taken by the Secretary to correct such inefficiencies.
 
-## § 12. Publication of final rules relating to limiting seller contributions towards purchase related expenses
+## § 16. Principal limit factor for HECM program
+
+Section 255(m)(2) of the National Housing Act (12 U.S.C. 1715z–20(m)(2)) is amended—
+
+- **(1)** by striking “paragraph (1) shall” and inserting “paragraph (1)—”
+  > - **(A)** shall
+
+- **(2)** in subparagraph (A), as so designated, by striking the period at the end and inserting “; and”; and
+- **(3)** by adding at the end the following:
+  > - **(B)** in the case of a fixed rate mortgage, may not involve a principal limit (as defined in section 206.3 of title 24, Code of Federal Regulations) with a principal limit factor in excess of .61.
+
+## § 1217. Publication of final rules relating to limiting seller contributions towards purchase related expenses
 
 - **(a)** *Required completion of rule* Not later than 90 days after the date of enactment of this Act, the Secretary of Housing and Urban Development shall—
   - **(1)** issue and publish its final rule to implement the proposed rule entitled “Federal Housing Administration (FHA) Risk Management Initiatives: Revised Seller Concessions” (77 Fed. Reg. 10695 (February 23, 2012)); and
@@ -325,3 +396,9 @@ Section 202(a)(4) of the National Housing Act (12 U.S.C. 1708(a)(4)) is amended�
     - **(A)** limits the amount a seller or interested third party, or both, may contribute towards the purchase-related expenses of a borrower without reducing the maximum insured amount of a mortgage insured under title II of the National Housing Act (12 U.S.C. 1707 et seq.); and
     - **(B)** defines the acceptable types of expenses that a seller or interested third party, or both, may contribute under subparagraph (A), such as closing costs, prepaid expenses, discount points, up-front mortgage insurance premiums, and interest rate buydowns.
 - **(b)** *Failure To comply* If the Secretary of Housing and Urban Development fails to issue a final rule by the end of the period described under subsection (a), the Secretary and the Director of Office of Management and Budget shall appear before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives to provide testimony explaining the failure to comply with the requirements of this section.
+
+## § 18. GAO Study on FHA loan limits
+
+- **(a)** *In general* The Comptroller General of the United States shall conduct a one-time study to determine the appropriate dollar amount limitation on the maximum original principal obligation of a mortgage that may be insured under title II of the National Housing Act (12 U.S.C. 1701 et seq.).
+- **(b)** *Required review* In carrying out the study required under subsection (a), the Comptroller General shall review and make recommendations regarding the appropriate methodology for further adjustments to the dollar amount limitation, including adjustments for inflation, varying home prices across different regions of the United States, and the effects of economic downturns.
+- **(c)** *Report* Not later than 1 year after the date of enactment of this Act, the Comptroller General shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the results of the study conducted pursuant to subsection (a), including its reasons justifying its determination.
