@@ -1,7 +1,7 @@
 ---
 measure: S. 1417
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-39 amendatory instructions. 11 executed, 28 stated and not applied.
+96 amendatory instructions. 28 executed, 68 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -123,6 +123,159 @@ to guess them.
 | Removed | `the Administrator, the Director of the Agency for Healthcare Research and Quality` |
 | Inserted | `the Administrator of the Health Resources and Services Administration, the Director of the Agency for Healthcare Research and Quality, the Commissioner of Food and Drugs,` |
 
+### 42 U.S.C. § 300b-8
+
+> by striking “subsection (j)” and inserting “section 1117”; and
+
+| | |
+|---|---|
+| Removed | `subsection (j)` |
+| Inserted | `section 1117` |
+
+### 42 U.S.C. § 300b-8
+
+> by striking “and in consultation with the Advisory Committee” and inserting “and taking into consideration the expertise of the Advisory Committee”;
+
+| | |
+|---|---|
+| Removed | `and in consultation with the Advisory Committee` |
+| Inserted | `and taking into consideration the expertise of the Advisory Committee` |
+
+### 42 U.S.C. § 300b-8
+
+> in paragraph (2), by striking “screening and training” and inserting “screening, counseling, and training”;
+
+| | |
+|---|---|
+| Removed | `screening and training` |
+| Inserted | `screening, counseling, and training` |
+
+### 42 U.S.C. § 300b-8
+
+> by striking “treatment” and inserting “follow-up and treatment”; and
+
+| | |
+|---|---|
+| Removed | `treatment` |
+| Inserted | `follow-up and treatment` |
+
+### 42 U.S.C. § 300b-8
+
+> in subsection (h), by striking “subsection (c)(2)” each place that such appears and inserting “subsection (c)”; and
+
+| | |
+|---|---|
+| Removed | `subsection (c)(2)` |
+| Inserted | `subsection (c)` |
+
+### 42 U.S.C. § 300b-9
+
+> in subsection (a), by striking “of screening,” and inserting “, including with respect to timeliness, of screening, follow-up,”;
+
+| | |
+|---|---|
+| Removed | `of screening,` |
+| Inserted | `, including with respect to timeliness, of screening, follow-up,` |
+
+### 42 U.S.C. § 300b-9
+
+> by striking “counseling, testing” and inserting “treatment, counseling, testing, follow-up,”; and
+
+| | |
+|---|---|
+| Removed | `counseling, testing` |
+| Inserted | `treatment, counseling, testing, follow-up,` |
+
+### 42 U.S.C. § 300b-9
+
+> by striking “counseling, testing” and inserting “treatment, counseling, testing, follow-up,”; and
+
+| | |
+|---|---|
+| Removed | `counseling, testing` |
+| Inserted | `treatment, counseling, testing, follow-up,` |
+
+### 42 U.S.C. § 300b-10
+
+> in subparagraph (A), by striking “achieve rapid diagnosis” and inserting “achieve best practices in rapid diagnosis and appropriate treatment”;
+
+| | |
+|---|---|
+| Removed | `achieve rapid diagnosis` |
+| Inserted | `achieve best practices in rapid diagnosis and appropriate treatment` |
+
+### 42 U.S.C. § 300b-10
+
+> by striking “180” and inserting “120”; and
+
+| | |
+|---|---|
+| Removed | `180` |
+| Inserted | `120` |
+
+### 42 U.S.C. § 300b-10
+
+> in subsection (g) (as so redesignated), by striking “Newborn Screening Saves Lives Act of 2008” and inserting “Newborn Screening Saves Lives Reauthorization Act of 2013”; and
+
+| | |
+|---|---|
+| Removed | `Newborn Screening Saves Lives Act of 2008` |
+| Inserted | `Newborn Screening Saves Lives Reauthorization Act of 2013` |
+
+### 42 U.S.C. § 300b-11
+
+> by striking “data” and inserting “information”; and
+
+| | |
+|---|---|
+| Removed | `data` |
+| Inserted | `information` |
+
+### 42 U.S.C. § 300b-11
+
+> in subsection (b)(4)(D), by striking “Newborn Screening Saves Lives Act of 2008” and inserting “Newborn Screening Saves Lives Reauthorization Act of 2013”;
+
+| | |
+|---|---|
+| Removed | `Newborn Screening Saves Lives Act of 2008` |
+| Inserted | `Newborn Screening Saves Lives Reauthorization Act of 2013` |
+
+### 42 U.S.C. § 300b-11
+
+> by striking “developing the clearinghouse” and inserting “carrying out activities”; and
+
+| | |
+|---|---|
+| Removed | `developing the clearinghouse` |
+| Inserted | `carrying out activities` |
+
+### 42 U.S.C. § 300b-11
+
+> by striking “clearinghouse minimizes” and inserting “activities minimize”; and
+
+| | |
+|---|---|
+| Removed | `clearinghouse minimizes` |
+| Inserted | `activities minimize` |
+
+### 42 U.S.C. § 300b-12
+
+> in the matter preceding paragraph (1), by striking “and in consultation with the Advisory Committee” and inserting “and taking into consideration the expertise of the Advisory Committee”;
+
+| | |
+|---|---|
+| Removed | `and in consultation with the Advisory Committee` |
+| Inserted | `and taking into consideration the expertise of the Advisory Committee` |
+
+### 42 U.S.C. § 300b-13
+
+> in subsection (c), by striking “the Administrator, the Director of the Agency for Healthcare Research and Quality” and inserting “the Administrator of the Health Resources and Services Administration, the Director of the Agency for Healthcare Research and Quality, the Commissioner of Food and Drugs,”; and
+
+| | |
+|---|---|
+| Removed | `the Administrator, the Director of the Agency for Healthcare Research and Quality` |
+| Inserted | `the Administrator of the Health Resources and Services Administration, the Director of the Agency for Healthcare Research and Quality, the Commissioner of Food and Drugs,` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -155,6 +308,46 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 300b-12` | strike | by striking the subsection enumerator and heading; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-12` | strike | by striking subsection (b) (relating to authorization of appropriations). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-13` | replace | by striking subsection (e) (relating to authorization of appropriations) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-14` | add-at-end | Section 1115(a) of the Public Health Service Act (42 U.S.C. 300b–14(a)) is amended by adding at the end the following: “The plan shall be updated as needed and at least every five years.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-15` | replace | in subparagraph (B), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 300b-15` | redesignate | by redesignating subparagraph (C) as subparagraph (E); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-15` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Part A of title XI of the Public Health Service Act is amended by adding at the end, the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 300b-8` | strike | in paragraph (3), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 300b-8` | replace | by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300b-8` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-8` | strike | by striking subsection (j) (relating to authorization of appropriations). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-9` | insert | in the section heading, by inserting “and follow-up” after “child screening”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300b-9` | insert | by inserting before the semicolon the following: “, including, as appropriate, through the assessment of health and development outcomes for such children through adolescence”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-9` | strike | by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 300b-9` | replace | in paragraph (3), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-9` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-9` | strike | by striking subsection (d) (relating to authorization of appropriations). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-10` | redesignate | by redesignating paragraphs (4) through (6) as paragraphs (5) through (7), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-10` | insert | by inserting after paragraph (3), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-10` | redesignate | in paragraph (5) (as so redesignated), by inserting “, including the cost” after “public health impact”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300b-10` | insert | in subparagraph (D), by inserting before the semicolon “, including information on cost and incidence”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-10` | strike | in subparagraph (J), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 300b-10` | replace | in subparagraph (K), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300b-10` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-10` | add-at-end | by adding at the end the following: “If the Secretary is unable to make a determination to adopt or reject such recommendation within such 120-day period, the Secretary shall notify the Advisory Committee and the appropriate committees o… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-10` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-10` | redesignate | by redesignating paragraph (3) as paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-10` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-10` | redesignate | by redesignating subsections (f) and (g) as subsections (g) and (h), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-10` | insert | by inserting after subsection (e) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-10` | redesignate | by striking subsection (h) (relating to authorization of appropriations), as redesignated by paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-11` | replace | in paragraph (2), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 300b-11` | replace | by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-11` | amend | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-11` | strike | by striking subsection (d) (relating to authorization of appropriations). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-12` | insert | in the section heading, by inserting “and surveillance” before the period; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300b-12` | strike | by striking the subsection enumerator and heading; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-12` | insert | by inserting “timeliness for processing such tests,” after “newborn screening tests”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300b-12` | strike | by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 300b-12` | replace | in paragraph (2), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300b-12` | replace | by striking subsection (b) (relating to authorization of appropriations) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-13` | strike | by striking subsection (e) (relating to authorization of appropriations). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-14` | add-at-end | Section 1115(a) of the Public Health Service Act (42 U.S.C. 300b–14(a)) is amended by adding at the end the following: “The plan shall be updated as needed and at least every five years.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-15` | replace | in subparagraph (B), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 300b-15` | redesignate | by redesignating subparagraph (C) as subparagraph (E); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

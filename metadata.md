@@ -1,7 +1,7 @@
 ---
 measure: S. 1417
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1417
@@ -16,9 +16,22 @@ Newborn Screening Saves Lives Reauthorization Act of 2013
 
 - Sen. Hagan, Kay R. [D-NC] (H001049)
 
-## Cosponsors (1)
+## Cosponsors (14)
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
 
 ## Committees (1)
 
@@ -28,3 +41,7 @@ Newborn Screening Saves Lives Reauthorization Act of 2013
 
 - 2013-08-01 — Introduced in Senate
 - 2013-08-01 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2013-12-18 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2013-12-19 — Committee on Health, Education, Labor, and Pensions. Reported with an amendment in the nature of a substitute. Without written report.
+- 2013-12-19 — Committee on Health, Education, Labor, and Pensions. Reported with an amendment in the nature of a substitute. Without written report.
+- 2013-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 282.
