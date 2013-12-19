@@ -1,7 +1,7 @@
 ---
 measure: S. 947
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 947
@@ -26,9 +26,10 @@ SAFE Act Confidentiality and Privilege Enhancement Act
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Johnson, Tim [D-SD] (J000177)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Financial Services Committee
 
 ## Actions
 
@@ -38,3 +39,6 @@ SAFE Act Confidentiality and Privilege Enhancement Act
 - 2013-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S8917)
 - 2013-12-17 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S8817)
 - 2013-12-17 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S8817)
+- 2013-12-18 — Message on Senate action sent to the House.
+- 2013-12-19 — Received in the House.
+- 2013-12-19 — Referred to the House Committee on Financial Services.
