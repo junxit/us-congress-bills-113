@@ -1,7 +1,7 @@
 ---
 measure: S. 1491
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1491
@@ -16,10 +16,11 @@ A bill to amend the Energy Independence and Security Act of 2007 to improve Unit
 
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Heinrich, Martin [D-NM] (H001046)
 
 ## Committees (1)
 
@@ -30,3 +31,7 @@ A bill to amend the Energy Independence and Security Act of 2007 to improve Unit
 - 2013-09-10 — Introduced in Senate
 - 2013-09-10 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S6330)
 - 2013-09-10 — Sponsor introductory remarks on measure. (CR S6329-6330)
+- 2013-12-19 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2013-12-19 — Committee on Energy and Natural Resources. Reported by Senator Wyden with amendments. Without written report.
+- 2013-12-19 — Committee on Energy and Natural Resources. Reported by Senator Wyden with amendments. Without written report.
+- 2013-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 278.

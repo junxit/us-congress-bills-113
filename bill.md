@@ -31,7 +31,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
     > - **(8)** United States-Israel energy cooperation, and the development of natural resources by Israel, are strategic interests of the United States;
     > - **(9)** Israel is a strategic partner of the United States in water technology;
     > - **(10)** the United States can play a role in assisting Israel with regional safety and security issues;
-    > - **(11)** the National Science Foundation of the United States should collaborate with the Israel Science Foundation;
+    > - **(11)** the National Science Foundation of the United States should collaborate with the Israel Science Foundation and the United States-Israel Binational Science Foundation;
     > - **(12)** the United States and Israel should strive to develop more robust academic cooperation in energy innovation technology and engineering, water science, technology transfer, and analysis of geopolitical implications of new natural resource development and associated areas;
     > - **(13)** the United States supports the goals of the Alternative Fuels Administration of Israel;
     > - **(14)** the United States strongly urges open dialogue and continued mechanisms for regular engagement and encourages further cooperation between applicable departments, agencies, ministries, institutions of higher education, and the private sector of the United States and Israel on energy security issues, including—
@@ -39,7 +39,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
     >   - **(B)** discussing best practices to secure cyber energy infrastructure;
     >   - **(C)** best practice sharing;
     >   - **(D)** leveraging natural gas to positively impact regional stability;
-    >   - **(E)** improving energy efficiency and the overall performance of water technologies through research and development in water desalination, wastewater treatment and reclamation, and other water treatment refiners;
+    >   - **(E)** issues relating to the energy-water nexus, including improving energy efficiency and the overall performance of water technologies through research and development in water desalination, wastewater treatment and reclamation, water treatment in gas and oil production processes, and other water treatment refiners;
     >   - **(F)** technical and environmental management of deep-water exploration and production;
     >   - **(G)** coastal protection and restoration;
     >   - **(H)** academic outreach and engagement;
@@ -53,7 +53,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(1)** in subparagraph (F), by striking “and” after the semicolon at the end;
   - **(2)** in subparagraph (G), by striking the period at the end and inserting a semicolon; and
   - **(3)** by adding at the end the following:
-    > - **(H)** natural gas energy, including natural gas projects conducted by or in conjunction with the United States-Israel Binational Science Foundation;
+    > - **(H)** natural gas energy, including natural gas projects conducted by or in conjunction with the United States-Israel Binational Science Foundation and the United States-Israel Binational Industrial Research and Development Foundation;
     > - **(I)** improvement of energy efficiency and the overall performance of water technologies through research and development in water desalination, wastewater treatment and reclamation, and other water treatment refiners; and
     > - **(J)** conventional and unconventional oil and gas technologies.
 
