@@ -1,7 +1,7 @@
 ---
 measure: S. 975
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -37,6 +37,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1397m-1` | redesignate | by redesignating subparagraph (E) as subparagraph (F); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397m-1` | insert | by inserting after subparagraph (E), the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397m-1` | redesignate | by redesignating paragraphs (3), (4), and (5) as paragraphs (4), (5), and (6), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1397m-1` | insert | by inserting after paragraph (2), the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10702` | insert | by inserting after paragraph (2), the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397m-1` | redesignate | in paragraph (4) (as redesignated by paragraph (3) of this section), by inserting “(and, in the case of demonstration programs described in paragraph (2)(E), the highest court of a State)” after “a State”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1397m-1` | redesignate | in paragraph (5) (as so redesignated), by inserting “(or, in the case of demonstration programs described in paragraph (2)(E), the highest court of a State)” after “State” each place it appears. | the bill quotes the text inserted but describes where it goes |

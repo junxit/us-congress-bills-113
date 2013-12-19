@@ -28,7 +28,7 @@ Section 2042(c) of the Social Security Act (42 U.S.C. 1397m–1(c)) is amended�
 - **(3)** by redesignating paragraphs (3), (4), and (5) as paragraphs (4), (5), and (6), respectively;
 - **(4)** by inserting after paragraph (2), the following new paragraph:
   > - **(3)** *Requirements for court-appointed guardianship oversight demonstration programs*
-  >   - **(A)** *Award of grants* The Secretary shall award grants to the highest courts of States for demonstration programs described in paragraph (2)(E) based on the recommendations of the Attorney General and the State Justice Institute.
+  >   - **(A)** *Award of grants* The Secretary shall award grantsAny grants the Secretary awards to the highest courts of States for demonstration programs described in paragraph (2)(E) shall be based on the recommendations of the Attorney General and the State Justice Institute, as established by section 203 of the State Justice Institute Act of 1984 (42 U.S.C. 10702).
   >   - **(B)** *Collaboration* The highest court of a State awarded a grant to conduct a demonstration program described in paragraph (2)(E) shall collaborate with the State Unit on Aging for the State and the Adult Protective Services agency for the State in conducting the demonstration program.
 
 - **(5)** in paragraph (4) (as redesignated by paragraph (3) of this section), by inserting “(and, in the case of demonstration programs described in paragraph (2)(E), the highest court of a State)” after “a State”; and
