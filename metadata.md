@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 75
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 75
@@ -16,7 +16,7 @@ A resolution condemning the Government of Iran for its state-sponsored persecuti
 
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
 
-## Cosponsors (34)
+## Cosponsors (35)
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Rubio, Marco [R-FL] (R000595)
@@ -52,6 +52,7 @@ A resolution condemning the Government of Iran for its state-sponsored persecuti
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Cochran, Thad [R-MS] (C000567)
 - Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Murphy, Christopher [D-CT] (M001169)
 
 ## Committees (1)
 
@@ -65,3 +66,5 @@ A resolution condemning the Government of Iran for its state-sponsored persecuti
 - 2013-12-18 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment and with an amended preamble. Without written report.
 - 2013-12-18 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment and with an amended preamble. Without written report.
 - 2013-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 269.
+- 2013-12-20 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S9111-9114; text of measure as reported in Senate: CR S9111-9113; text as passed Senate: CR S9113-9114)
+- 2013-12-20 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S9111-9114; text of measure as reported in Senate: CR S9111-9113; text as passed Senate: CR S9113-9114)
