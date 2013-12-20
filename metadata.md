@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3350
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3350
@@ -183,10 +183,11 @@ Keep Your Health Plan Act of 2013
 - Rep. Culberson, John Abney [R-TX-7] (C001048)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (3)
 
@@ -221,3 +222,5 @@ Keep Your Health Plan Act of 2013
 - 2013-11-15 — Rule provides for consideration of H.R. 3350 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2013-11-15 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7143)
 - 2013-11-15 — The previous question was ordered pursuant to the rule. (consideration: CR H7139)
+- 2013-11-18 — Received in the Senate.
+- 2013-12-20 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
