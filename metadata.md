@@ -1,7 +1,7 @@
 ---
 measure: S. 1614
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1614
@@ -45,3 +45,15 @@ Accuracy for Adoptees Act
 - 2013-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S9069)
 - 2013-12-20 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S9069)
 - 2013-12-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S9069)
+- 2013-12-23 — Considered by unanimous consent. (consideration: CR H8130)
+- 2013-12-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-12-23 — Mr. Denham asked unanimous consent to take from the Speaker's table and consider.
+- 2013-12-23 — On passage Passed without objection. (text: CR H8130)
+- 2013-12-23 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8130)
+- 2013-12-23 — Received in the House.
+- 2014-01-08 — Presented to President.
+- 2014-01-08 — Presented to President.
+- 2014-01-16 — Became Public Law No: 113-74.
+- 2014-01-16 — Became Public Law No: 113-74.
+- 2014-01-16 — Signed by President.
+- 2014-01-16 — Signed by President.
