@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3521
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3521
@@ -28,9 +28,10 @@ Department of Veterans Affairs Major Medical Facility Lease Authorization Act of
 - Rep. Boustany, Charles W., Jr. [R-LA-3] (B001255)
 - Rep. Cassidy, Bill [R-LA-6] (C001075)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,5 @@ Department of Veterans Affairs Major Medical Facility Lease Authorization Act of
 - 2013-12-10 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended. (consideration: CR H7612)
 - 2013-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 346 - 1 (Roll no. 630). (text: CR H7612-7613)
 - 2013-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 346 - 1 (Roll no. 630).(text: CR H7612-7613)
+- 2013-12-11 — Received in the Senate.
+- 2013-12-20 — Read twice and referred to the Committee on Veterans' Affairs.
