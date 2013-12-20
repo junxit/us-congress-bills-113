@@ -1,7 +1,7 @@
 ---
 measure: H.R. 180
 congress: 113
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 180
@@ -61,3 +61,5 @@ National Blue Alert Act of 2013
 - 2013-05-14 — Placed on the Union Calendar, Calendar No. 32.
 - 2013-05-14 — Reported by the Committee on Judiciary. H. Rept. 113-54.
 - 2013-05-14 — Reported by the Committee on Judiciary. H. Rept. 113-54.
+- 2013-05-15 — Received in the Senate.
+- 2013-12-20 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 284.
