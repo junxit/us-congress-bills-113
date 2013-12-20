@@ -1,0 +1,22 @@
+---
+legis-num: S. 1890
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1890
+
+> To ensure that decisions by the Secretary of Education to award grants or other assistance to States or local educational agencies are not contingent upon the adoption of specific educational curricula.
+
+## § 1. Short title
+
+This Act may be cited as the “Preserving Education Access and Autonomy Act of 2013”.
+
+## § 2. Prohibition on requiring the adoption of specific curricula
+
+- **(a)** *Definition of education grant or assistance* In this section, the term education grant or assistance—
+  - **(1)** means any grant, contract, cooperative agreement, or other assistance provided through a program administered by the Secretary of Education; and
+  - **(2)** includes any waiver of a statutory or regulatory requirement of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) granted by the Secretary of Education under the authority provided under section 9401 of such Act (20 U.S.C. 7861).
+- **(b)** *No requirement for specific curricula* Notwithstanding any other provision of law, the Secretary of Education shall not require, as a condition of any education grant or assistance, that a State or local educational agency adopt a specific elementary school or secondary school curriculum.
+- **(c)** *No priority for specific curricula* Notwithstanding any other provision of law, the Secretary of Education shall select recipients for any education grant or assistance without providing any priority, preference, or special consideration to a State or local educational agency based on the adoption by the State or local educational agency of a specific elementary school or secondary school curriculum.
