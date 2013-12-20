@@ -13,7 +13,8 @@ That when the Senate recesses or adjourns on any day from Friday, December 20, 2
 
 ## § 2.
 
-- **(a)** The Majority Leader of the Senate or his designee, after consultation with the Minority Leader of the Senate, shall notify the Members of the Senate to reassemble at such place and time he may designate if, in his opinion, the public interest shall warrant it.
+(a) The Majority Leader of the Senate or his designee, after consultation with the Minority Leader of the Senate, shall notify the Members of the Senate to reassemble at such place and time he may designate if, in his opinion, the public interest shall warrant it.
+
 - **(b)** After reassembling pursuant to subsection (a), when the Senate adjourns on a motion offered pursuant to this subsection by the Majority Leader or his designee, the Senate shall again stand adjourned pursuant to the first section of this concurrent resolution.
 
 ## § 3.
