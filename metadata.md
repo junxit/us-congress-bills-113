@@ -1,7 +1,7 @@
 ---
 measure: H.R. 723
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 723
@@ -43,3 +43,5 @@ Wood-Pawcatuck Watershed Protection Act
 - 2013-06-11 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2013-06-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3268)
 - 2013-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3268)
+- 2013-06-12 — Received in the Senate.
+- 2013-12-20 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 286.
