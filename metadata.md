@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3174
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3174
@@ -25,9 +25,10 @@ To authorize the Secretary of Transportation to obligate funds for emergency rel
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -40,3 +41,7 @@ To authorize the Secretary of Transportation to obligate funds for emergency rel
 - 2013-09-30 — Mr. Petri moved to suspend the rules and pass the bill.
 - 2013-09-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6016)
 - 2013-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6016)
+- 2013-10-01 — Received in the Senate.
+- 2013-11-18 — For Further Action See H.R.2775.
+- 2013-11-18 — Provisions of HR 3174 were incorporated in HR 2775. See HR 2775 for further action.
+- 2013-12-20 — Read twice and referred to the Committee on Environment and Public Works.
