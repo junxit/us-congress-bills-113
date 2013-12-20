@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3102
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3102
@@ -16,11 +16,12 @@ Nutrition Reform and Work Opportunity Act of 2013
 
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 
-## Committees (3)
+## Committees (4)
 
 - House — Foreign Affairs Committee
 - House — Education and the Workforce Committee
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (2)
 
@@ -48,3 +49,5 @@ Nutrition Reform and Work Opportunity Act of 2013
 - 2013-09-19 — Rule provides for consideration of H.R. 687, H.R. 1526 and H.R. 3102. Measures will be considered read.
 - 2013-09-19 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5719; text: CR H5719)
 - 2013-09-19 — The previous question was ordered pursuant to the rule. (consideration: CR H5719)
+- 2013-09-23 — Received in the Senate.
+- 2013-12-20 — Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
