@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1961
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1961
@@ -41,9 +41,10 @@ To amend title 46, United States Code, to extend the exemption from the fire-ret
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 - Rep. Beatty, Joyce [D-OH-3] (B001281)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -69,3 +70,5 @@ To amend title 46, United States Code, to extend the exemption from the fire-ret
 - 2013-09-25 — Mr. Petri moved to suspend the rules and pass the bill.
 - 2013-09-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 280 - 89 (Roll no. 484). (text: CR H5810)
 - 2013-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 280 - 89 (Roll no. 484).(text: CR H5810)
+- 2013-09-26 — Received in the Senate.
+- 2013-12-20 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
