@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 3809
+congress: 113th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3809
+
+> To amend the Internal Revenue Code of 1986 to treat certain population census tracts for which information is not available as low-income communities for purposes of the new markets tax credit.
+
+## § 1. Certain population census tracts for which information is not available made eligible for new markets tax credit
+
+- **(a)** *In general* Subsection (e) of section 45D of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+  > - **(6)** *Special rule for tracts for which information is not available* In the case of a population census tract with respect to which the Secretary determines there is insufficient information to determine whether such tract is a low-income community (determined without regard to this paragraph), such tract shall be treated as a low-income community if—
+  >   - **(A)** such tract is adjacent to two or more low-income communities (determined without regard to this paragraph), and
+  >   - **(B)** the Secretary does not have information indicating that such tract is not a low-income community (as so determined).
+
+- **(b)** *Effective date* The amendment made by this section shall apply to investments made after the date of the enactment of this Act.
