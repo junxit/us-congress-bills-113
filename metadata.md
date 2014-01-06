@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2019
 congress: 113
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2019
@@ -200,3 +200,12 @@ Gabriella Miller Kids First Research Act
 - 2013-12-12 — Received in the Senate.
 - 2013-12-20 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2014-01-06 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 289.
+- 2014-03-11 — Message on Senate action sent to the House.
+- 2014-03-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1492)
+- 2014-03-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1492)
+- 2014-03-25 — Presented to President.
+- 2014-03-25 — Presented to President.
+- 2014-04-03 — Became Public Law No: 113-94.
+- 2014-04-03 — Became Public Law No: 113-94.
+- 2014-04-03 — Signed by President.
+- 2014-04-03 — Signed by President.

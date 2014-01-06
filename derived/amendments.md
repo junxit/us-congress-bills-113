@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2019
 congress: 113
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
