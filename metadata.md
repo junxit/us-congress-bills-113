@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2019
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2019
@@ -197,3 +197,6 @@ Gabriella Miller Kids First Research Act
 - 2013-12-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 295 - 103 (Roll no. 632). (text: CR H7653-7654)
 - 2013-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 295 - 103 (Roll no. 632).(text: CR H7653-7654)
 - 2013-12-11 — The title of the measure was amended. Agreed to without objection.
+- 2013-12-12 — Received in the Senate.
+- 2013-12-20 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-01-06 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 289.
