@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 288
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 288
@@ -32,3 +32,5 @@ A resolution supporting enhanced maritime security in the Gulf of Guinea and enc
 - 2013-12-18 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2013-12-18 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2013-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 270.
+- 2014-01-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S81-82; text as passed Senate: CR S81-82)
+- 2014-01-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S81-82; text as passed Senate: CR S81-82)
