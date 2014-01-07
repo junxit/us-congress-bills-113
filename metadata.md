@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 319
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 319
@@ -16,7 +16,7 @@ A resolution expressing support for the Ukrainian people in light of President Y
 
 - Sen. Murphy, Christopher [D-CT] (M001169)
 
-## Cosponsors (9)
+## Cosponsors (10)
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
@@ -27,6 +27,7 @@ A resolution expressing support for the Ukrainian people in light of President Y
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Cruz, Ted [R-TX] (C001098)
 
 ## Committees (1)
 
@@ -40,3 +41,5 @@ A resolution expressing support for the Ukrainian people in light of President Y
 - 2013-12-18 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2013-12-18 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2013-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 274.
+- 2014-01-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S82-83; text as passed Senate: CR S83)
+- 2014-01-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S82-83; text as passed Senate: CR S83)
