@@ -1,13 +1,13 @@
 ---
 legis-num: S. RES. 318
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. RES. 318
 
-> Expressing the sense of the Senate regarding the critical need for political reform in Bangladesh, and for other purposes.
+> Expressing the sense of the Senate regarding the critical need for political dialogue in Bangladesh, and for other purposes.
 
 ## Preamble
 
