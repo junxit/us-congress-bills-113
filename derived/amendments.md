@@ -1,7 +1,7 @@
 ---
 measure: H.R. 724
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | by striking paragraph (1); and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (1) and (2), respectively. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 7541` | strike | by striking paragraph (1); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7541` | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (1) and (2), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
