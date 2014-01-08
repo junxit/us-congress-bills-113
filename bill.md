@@ -21,9 +21,11 @@ Section 1271 of the Public Health Service Act (42 U.S.C. 300d–71) is amended b
 
 ## § 3. Reauthorization of nationwide media campaign to promote poison control center utilization
 
-Section 1272 of the Public Health Service Act (42 U.S.C. 300d–72) is amended by striking subsection (d) and inserting the following:
+Section 1272 of the Public Health Service Act (42 U.S.C. 300d–72) is amended—
 
-> - **(d)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section, $800,000 for each of fiscal years 2015 through 2019.
+- **(1)** in subsection (c)(2), by striking the comma after “Congress”; and
+- **(2)** by striking subsection (d) and inserting the following:
+  > - **(d)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section, $800,000 for each of fiscal years 2015 through 2019.
 
 ## § 4. Reauthorization of the poison control center grant program
 
@@ -32,10 +34,10 @@ Section 1272 of the Public Health Service Act (42 U.S.C. 300d–72) is amended b
     - **(A)** by striking “certified” and inserting “accredited”; and
     - **(B)** by striking “certification” and inserting “accreditation”;
   - **(2)** in subsection (b)—
-    - **(A)** in paragraph (1), by striking “establish” and inserting “research, establish, implement”;
+    - **(A)** in paragraph (1), by striking “establish” and inserting “research, establish, implement,”;
     - **(B)** by redesignating paragraphs (4) through (7) as paragraphs (5) through (8);
     - **(C)** by inserting after paragraph (3), the following:
-      > - **(4)** to research, improve, and enhance the communications and response capability and capacity of the nation’s network of poison control centers to facilitate increased access to the Centers through the integration and modernization of the current poison control centers communications and data system, including enhancing the network’s telephony, Internet, data and social networking technologies;
+      > - **(4)** to research, improve, and enhance the communications and response capability and capacity of the nation’s network of poison control centers to facilitate increased access to the centers through the integration and modernization of the current poison control centers communications and data system, including enhancing the network’s telephony, Internet, data and social networking technologies;
 
     - **(D)** in paragraph (6) (as so redesignated), by striking “paragraph (4)” and inserting “paragraph (5)”; and
     - **(E)** in paragraph (8) (as so redesignated), by striking “and respond” and inserting “and Internet communications, and to sustain and enhance the poison control center’s network capability to respond”;

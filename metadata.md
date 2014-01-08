@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3527
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3527
@@ -32,6 +32,10 @@ Poison Center Network Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2014-01-08 — [House 113-2-3](votes/house-113-2-0003.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (388–18)
+
 ## Actions
 
 - 2013-11-18 — Introduced in House
@@ -44,3 +48,11 @@ Poison Center Network Act
 - 2014-01-07 — Placed on the Union Calendar, Calendar No. 239.
 - 2014-01-07 — Reported by the Committee on Energy and Commerce. H. Rept. 113-321.
 - 2014-01-07 — Reported by the Committee on Energy and Commerce. H. Rept. 113-321.
+- 2014-01-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-01-08 — Considered as unfinished business. (consideration: CR H43)
+- 2014-01-08 — Considered under suspension of the rules. (consideration: CR H36-39)
+- 2014-01-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3527.
+- 2014-01-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-01-08 — Mr. Pitts moved to suspend the rules and pass the bill, as amended.
+- 2014-01-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 18 (Roll no. 3). (text: CR H36-37)
+- 2014-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 18 (Roll no. 3).(text: CR H36-37)

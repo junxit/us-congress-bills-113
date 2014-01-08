@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3527
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-20 amendatory instructions. 13 executed, 7 stated and not applied.
+21 amendatory instructions. 13 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,12 +44,12 @@ to guess them.
 
 ### 42 U.S.C. § 300d-73
 
-> in paragraph (1), by striking “establish” and inserting “research, establish, implement”;
+> in paragraph (1), by striking “establish” and inserting “research, establish, implement,”;
 
 | | |
 |---|---|
 | Removed | `establish` |
-| Inserted | `research, establish, implement` |
+| Inserted | `research, establish, implement,` |
 
 ### 42 U.S.C. § 300d-73
 
@@ -151,7 +151,8 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 300d-71` | replace | Section 1271 of the Public Health Service Act (42 U.S.C. 300d–71) is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300d-72` | replace | Section 1272 of the Public Health Service Act (42 U.S.C. 300d–72) is amended by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300d-72` | strike | in subsection (c)(2), by striking the comma after “Congress”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300d-72` | replace | by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300d-73` | redesignate | by redesignating paragraphs (4) through (7) as paragraphs (5) through (8); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300d-73` | insert | by inserting after paragraph (3), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300d-73` | strike | by striking the last sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
