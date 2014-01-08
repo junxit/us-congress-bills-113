@@ -1,7 +1,7 @@
 ---
 measure: S. 267
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 267
@@ -16,7 +16,7 @@ Pirate Fishing Elimination Act
 
 - Sen. Rockefeller, John D., IV [D-WV] (R000361)
 
-## Cosponsors (9)
+## Cosponsors (11)
 
 - Sen. Begich, Mark [D-AK] (B001265)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
@@ -27,6 +27,8 @@ Pirate Fishing Elimination Act
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 - Sen. Merkley, Jeff [D-OR] (M001176)
 - Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
 
 ## Committees (1)
 
@@ -36,3 +38,7 @@ Pirate Fishing Elimination Act
 
 - 2013-02-11 — Introduced in Senate
 - 2013-02-11 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2013-07-30 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2014-01-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. With written report No. 113-132.
+- 2014-01-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. With written report No. 113-132.
+- 2014-01-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 291.
