@@ -1,7 +1,7 @@
 ---
 measure: H.R. 724
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 724
@@ -129,6 +129,10 @@ To amend the Clean Air Act to remove the requirement for dealer certification of
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2014-01-08 — [House 113-2-2](votes/house-113-2-0002.md) — On Motion to Suspend the Rules and Pass — **Passed** (405–0)
+
 ## Actions
 
 - 2013-02-14 — Introduced in House
@@ -139,3 +143,11 @@ To amend the Clean Air Act to remove the requirement for dealer certification of
 - 2014-01-07 — Placed on the Union Calendar, Calendar No. 238.
 - 2014-01-07 — Reported by the Committee on Energy and Commerce. H. Rept. 113-320.
 - 2014-01-07 — Reported by the Committee on Energy and Commerce. H. Rept. 113-320.
+- 2014-01-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-01-08 — Considered as unfinished business. (consideration: CR H41-42)
+- 2014-01-08 — Considered under suspension of the rules. (consideration: CR H34-36)
+- 2014-01-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 724.
+- 2014-01-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-01-08 — Mr. Latta moved to suspend the rules and pass the bill.
+- 2014-01-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 2). (text: CR H34)
+- 2014-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 2).(text: CR H34)
