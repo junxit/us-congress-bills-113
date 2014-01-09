@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2952
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2952
@@ -16,6 +16,10 @@ Cybersecurity Workforce Assessment Act
 
 - Rep. Meehan, Patrick [R-PA-7] (M001181)
 
+## Cosponsors (1)
+
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+
 ## Committees (1)
 
 - House — Homeland Security Committee
@@ -25,3 +29,11 @@ Cybersecurity Workforce Assessment Act
 - 2013-08-01 — Introduced in House
 - 2013-08-01 — Introduced in House
 - 2013-08-01 — Referred to the House Committee on Homeland Security.
+- 2013-08-09 — Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.
+- 2013-09-18 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2013-09-18 — Subcommittee Consideration and Mark-up Session Held.
+- 2013-10-29 — Committee Consideration and Mark-up Session Held.
+- 2013-10-29 — Ordered to be Reported (Amended) by Voice Vote.
+- 2014-01-09 — Placed on the Union Calendar, Calendar No. 241.
+- 2014-01-09 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-324.
+- 2014-01-09 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-324.
