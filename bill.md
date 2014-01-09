@@ -1,0 +1,18 @@
+---
+legis-num: S. 1912
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1912
+
+> To clarify that certain banking entities are not required to divest from collateralized debt obligations backed by trust preferred securities under the Volcker Rule.
+
+## § 1. Volcker rule clarification relating to collateralized debt obligations backed by trust preferred securities
+
+Section 13(g) of the Bank Holding Company Act of 1956 (12 U.S.C. 1851(g)) is amended by adding at the end the following:
+
+> - **(4)** *Trust preferred securities* Nothing in this section shall require or be construed to require a banking entity having total consolidated assets of less than $50,000,000,000 or an organization that is a mutual holding company to divest from any collateralized debt obligation issued before May 19, 2010, if—
+>   - **(A)** the primary purpose for any such obligation was as a vehicle for trust preferred securities; and
+>   - **(B)** the investment in any such obligation was made on or before December 10, 2013.
