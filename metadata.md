@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3527
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3527
@@ -57,3 +57,12 @@ Poison Center Network Act
 - 2014-01-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 18 (Roll no. 3). (text: CR H36-37)
 - 2014-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 18 (Roll no. 3).(text: CR H36-37)
 - 2014-01-09 — Received in the Senate, read twice.
+- 2014-01-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S333)
+- 2014-01-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S333)
+- 2014-01-15 — Message on Senate action sent to the House.
+- 2014-01-15 — Presented to President.
+- 2014-01-15 — Presented to President.
+- 2014-01-24 — Became Public Law No: 113-77.
+- 2014-01-24 — Became Public Law No: 113-77.
+- 2014-01-24 — Signed by President.
+- 2014-01-24 — Signed by President.
