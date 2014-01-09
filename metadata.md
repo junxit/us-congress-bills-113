@@ -1,7 +1,7 @@
 ---
 measure: H.R. 724
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 724
@@ -125,9 +125,10 @@ To amend the Clean Air Act to remove the requirement for dealer certification of
 - Rep. Esty, Elizabeth H. [D-CT-5] (E000293)
 - Rep. Davis, Rodney [R-IL-13] (D000619)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -151,3 +152,4 @@ To amend the Clean Air Act to remove the requirement for dealer certification of
 - 2014-01-08 — Mr. Latta moved to suspend the rules and pass the bill.
 - 2014-01-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 2). (text: CR H34)
 - 2014-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 2).(text: CR H34)
+- 2014-01-09 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
