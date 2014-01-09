@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 312
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 312
@@ -32,3 +32,16 @@ A resolution urging the Government of Iran to fulfill their promises of assistan
 - 2013-12-18 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2013-12-18 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2013-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 271.
+- 2014-01-09 — Amendment SA 2638 agreed to in Senate by Unanimous Consent.
+- 2014-01-09 — Amendment SA 2638 proposed by Senator Reid for Senator Nelson. (consideration: CR S259; text: CR S259) To amend the preamble.
+- 2014-01-09 — Amendment SA 2639 agreed to in Senate by Unanimous Consent.
+- 2014-01-09 — Amendment SA 2639 proposed by Senator Reid for Senator Nelson. (consideration: CR S259; text: CR S259) To amend the title.
+- 2014-01-09 — Measure laid before Senate by unanimous consent. (consideration: CR S259)
+- 2014-01-09 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amendment to the Title and an amended preamble by Unanimous Consent.(text: CR S259)
+- 2014-01-09 — Resolution agreed to in Senate without amendment and an amendment to the Title and an amended preamble by Unanimous Consent. (text: CR S259)
+- 2014-01-09 — Senate amendment agreed to: Amendment SA 2638 agreed to in Senate by Unanimous Consent.
+- 2014-01-09 — Senate amendment agreed to: Amendment SA 2639 agreed to in Senate by Unanimous Consent.
+- 2014-01-09 — Senate amendment proposed (on the floor): Amendment SA 2638 proposed by Senator Reid for Senator Nelson.(consideration: CR S259; text: CR S259)
+- 2014-01-09 — Senate amendment proposed (on the floor): Amendment SA 2639 proposed by Senator Reid for Senator Nelson.(consideration: CR S259; text: CR S259)
+- 2014-01-09 — Senate amendment submitted
+- 2014-01-09 — Senate amendment submitted

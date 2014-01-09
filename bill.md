@@ -1,13 +1,13 @@
 ---
 legis-num: S. RES. 312
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. RES. 312
 
-> Calling on the government of Iran to fulfill their promises of assistance in this case of Robert Levinson, one of the longest held United States civilians in our Nation’s history.
+> Urging the Government of Iran to fulfill their promises of assistance in this case of Robert Levinson, one of the longest held United States civilians in our Nation’s history.
 
 ## Preamble
 
