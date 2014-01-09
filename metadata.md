@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3527
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3527
@@ -56,3 +56,4 @@ Poison Center Network Act
 - 2014-01-08 — Mr. Pitts moved to suspend the rules and pass the bill, as amended.
 - 2014-01-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 18 (Roll no. 3). (text: CR H36-37)
 - 2014-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 18 (Roll no. 3).(text: CR H36-37)
+- 2014-01-09 — Received in the Senate, read twice.
