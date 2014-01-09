@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2279
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 4 executed, 4 stated and not applied.
+28 amendatory instructions. 13 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -60,6 +60,87 @@ to guess them.
 | Removed | `or qualification` |
 | Inserted | `and qualification` |
 
+### 42 U.S.C. § 9604
+
+> Section 104(a)(2) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(a)(2)) is amended by striking “Any removal action undertaken by the President under this subsection (or by any other person referred to in section 122) should” and inserting “In undertaking a removal action under this subsection, the President (or any other person undertaking a removal action pursuant to section 122) shall consult with the affected State or States. Such removal action should”.
+
+| | |
+|---|---|
+| Removed | `Any removal action undertaken by the President under this subsection (or by any other person referred to in section 122) should` |
+| Inserted | `In undertaking a removal action under this subsection, the President (or any other person undertaking a removal action pursuant to section 122) shall consult with the affected State or States. Such removal action should` |
+
+### 42 U.S.C. § 9604
+
+> Section 104(c)(2) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(c)(2)) is amended by striking “before determining any appropriate remedial action” and inserting “during the process of selecting, and in selecting, any appropriate remedial action”.
+
+| | |
+|---|---|
+| Removed | `before determining any appropriate remedial action` |
+| Inserted | `during the process of selecting, and in selecting, any appropriate remedial action` |
+
+### 42 U.S.C. § 9604
+
+> Section 104(c)(4) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(c)(4)) is amended by striking “shall select remedial actions” and inserting “shall, in consultation with the affected State or States, select remedial actions”.
+
+| | |
+|---|---|
+| Removed | `shall select remedial actions` |
+| Inserted | `shall, in consultation with the affected State or States, select remedial actions` |
+
+### 42 U.S.C. § 9620
+
+> by striking “shall afford to” and inserting “shall consult with”;
+
+| | |
+|---|---|
+| Removed | `shall afford to` |
+| Inserted | `shall consult with` |
+
+### 42 U.S.C. § 9604
+
+> by striking “non-Federal funds.” and inserting “non-Federal funds, including oversight costs and in-kind expenditures. For purposes of this paragraph, in-kind expenditures shall include expenditures for, or contributions of, real property, equipment, goods, and services, valued at a fair market value, that are provided for the removal or remedial action at the facility, and amounts derived from materials recycled, recovered, or reclaimed from the facility, valued at a fair market value, that are used to fund or offset all or a portion of the cost of the removal or remedial action.”; and
+
+| | |
+|---|---|
+| Removed | `non-Federal funds.` |
+| Inserted | `non-Federal funds, including oversight costs and in-kind expenditures. For purposes of this paragraph, in-kind expenditures shall include expenditures for, or contributions of, real property, equipment, goods, and services, valued at a fair market value, that are provided for the removal or remedial action at the facility, and amounts derived from materials recycled, recovered, or reclaimed from the facility, valued at a fair market value, that are used to fund or offset all or a portion of the cost of the removal or remedial action.` |
+
+### 42 U.S.C. § 9605
+
+> by striking “To the extent practicable, the highest priority facilities shall be designated individually and shall be referred to as” and all that follows through the semicolon at the end, and inserting “Not more frequently than once every 5 years, a State may designate a facility that meets the criteria set forth in subparagraph (A) of this paragraph, which shall be included on the national list;”.
+
+| | |
+|---|---|
+| Removed | `To the extent practicable, the highest priority facilities shall be designated individually and shall be referred to as` |
+| Inserted | `Not more frequently than once every 5 years, a State may designate a facility that meets the criteria set forth in subparagraph (A) of this paragraph, which shall be included on the national list;` |
+
+### 42 U.S.C. § 9621
+
+> Section 121(f)(1)(C) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9621(f)(1)(C)) is amended by striking “deleting sites from” and inserting “adding sites to, and deleting sites from,”.
+
+| | |
+|---|---|
+| Removed | `deleting sites from` |
+| Inserted | `adding sites to, and deleting sites from,` |
+
+### 42 U.S.C. § 9621
+
+> Section 121(d)(2)(A)(ii) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9621(d)(2)(A)(ii)) is amended by striking “State environmental or facility siting law” and inserting “State environmental, facility siting, or environmental covenant law, or under a State law or regulation requiring the use of engineering controls or land use controls,”.
+
+| | |
+|---|---|
+| Removed | `State environmental or facility siting law` |
+| Inserted | `State environmental, facility siting, or environmental covenant law, or under a State law or regulation requiring the use of engineering controls or land use controls,` |
+
+### 42 U.S.C. § 9620
+
+> by striking “preliminary assessments” and inserting “response actions”;
+
+| | |
+|---|---|
+| Removed | `preliminary assessments` |
+| Inserted | `response actions` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -73,3 +154,14 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 9608` | strike | by striking “first” after “for which requirements will be”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 9608` | add-at-end | Section 108(b) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9608(b)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9614` | amend | Section 114(d) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9614(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9620` | insert | by inserting “and shall provide such State and local officials” before “the opportunity to participate in”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 9620` | add-at-end | by adding at the end the following: “If State or local officials make a determination not to participate in the planning and selection of the remedial action, such determination shall be documented in the administrative record regarding … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9604` | insert | by inserting “removal at such facility, or for” before “remedial action”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 9604` | insert | in subparagraph (B), by inserting “removal or” after “under this paragraph shall include expenses for”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 9605` | insert | by inserting “Not later than 90 days after any revision of the national list, with respect to a priority not included on the revised national list, upon request of the State that submitted the priority for consideration under this subpar… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 9620` | strike | Section 120(a) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(a)) is amended in the heading by striking “of Act”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 9620` | insert | by inserting “or” after “National Contingency Plan,”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 9620` | strike | by striking “, or applicable to remedial actions at such facilities”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 9620` | insert | by inserting “or have been” before “owned or operated”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 9620` | amend | Section 120(a)(4) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(a)(4)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9615` | add-at-end | Section 115 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9615) is amended by adding at the end the following new sentence: “If the President delegates or assigns any duties or powers und… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
