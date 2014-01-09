@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3628
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3628
@@ -20,9 +20,10 @@ Transportation Reports Elimination Act of 2014
 
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Transportation Reports Elimination Act of 2014
 - 2014-01-08 — Mr. Shuster moved to suspend the rules and pass the bill.
 - 2014-01-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 4). (text: CR H39-40)
 - 2014-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 4).(text: CR H39-40)
+- 2014-01-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
