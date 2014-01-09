@@ -1,7 +1,7 @@
 ---
 measure: S. 1171
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1171
@@ -31,9 +31,11 @@ A bill to amend the Controlled Substances Act to allow a veterinarian to transpo
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Burr, Richard [R-NC] (B001135)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -43,3 +45,7 @@ A bill to amend the Controlled Substances Act to allow a veterinarian to transpo
 - 2014-01-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S185)
 - 2014-01-08 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S185)
 - 2014-01-08 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S185)
+- 2014-01-09 — Message on Senate action sent to the House.
+- 2014-01-09 — Received in the House.
+- 2014-01-09 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-01-09 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
