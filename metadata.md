@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3811
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3811
@@ -16,7 +16,7 @@ Health Exchange Security and Transparency Act of 2014
 
 - Rep. Pitts, Joseph R. [R-PA-16] (P000373)
 
-## Cosponsors (72)
+## Cosponsors (75)
 
 - Rep. Aderholt, Robert B. [R-AL-4] (A000055)
 - Rep. Barletta, Lou [R-PA-11] (B001269)
@@ -90,13 +90,29 @@ Health Exchange Security and Transparency Act of 2014
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Womack, Steve [R-AR-3] (W000809)
 - Rep. Woodall, Rob [R-GA-7] (W000810)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
 
 ## Committees (1)
 
 - House — Energy and Commerce Committee
+
+## Recorded votes (1)
+
+- 2014-01-10 — [House 113-2-11](votes/house-113-2-0011.md) — On Passage — **Passed** (291–122)
 
 ## Actions
 
 - 2014-01-07 — Introduced in House
 - 2014-01-07 — Introduced in House
 - 2014-01-07 — Referred to the House Committee on Energy and Commerce.
+- 2014-01-08 — Rules Committee Resolution H. Res. 455 Reported to House. The resolution provides for consideration of H.R. 2279, H.R. 3362, and H.R. 3811. In each case, general debate shall be confined to one hour and one motion to recommit is allowed. The resolution specifies certain amendments are in order for H.R. 2279. Further amendments to H.R. 3362 and H.R. 3811 are not in order.
+- 2014-01-09 — Rule H. Res. 455 passed House.
+- 2014-01-10 — Considered under the provisions of rule H. Res. 455. (consideration: CR H139-150)
+- 2014-01-10 — DEBATE - The House proceeded with one hour of debate on H.R. 3811.
+- 2014-01-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-01-10 — On passage Passed by the Yeas and Nays: 291 - 122 (Roll no. 11). (text: CR H139)
+- 2014-01-10 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 291 - 122 (Roll no. 11).(text: CR H139)
+- 2014-01-10 — The previous question was ordered pursuant to the rule. (consideration: CR H149)
+- 2014-01-10 — The resolution provides for consideration of H.R. 2279, H.R. 3362, and H.R. 3811. In each case, general debate shall be confined to one hour and one motion to recommit is allowed. The resolution specifies certain amendments are in order for H.R. 2279. Further amendments to H.R. 3362 and H.R. 3811 are not in order.
