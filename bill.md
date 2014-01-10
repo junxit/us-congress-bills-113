@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 3842
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3842
+
+> To require the Secretary of Education to conduct a feasibility study for using income tax returns as the primary Federal student aid application.
+
+## § 1. Study on use of individual income tax returns as primary application for Federal student aid
+
+- **(a)** *Study* The Secretary of Education, in consultation with the Commissioner of Internal Revenue, shall conduct a study on the feasibility and advantages and disadvantages of using individual income tax returns as the primary form of application for student aid under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.).
+- **(b)** *Report* Not later than one year after the date of the enactment of this Act, the Secretary, in consultation with the Commissioner, shall submit to Congress a report containing the results of the study conducted under subsection (a).
