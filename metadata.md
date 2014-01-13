@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1513
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1513
@@ -27,6 +27,10 @@ To revise the boundaries of the Gettysburg National Military Park to include the
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2014-01-13 — [House 113-2-12](votes/house-113-2-0012.md) — On Motion to Suspend the Rules and Pass — **Passed** (396–0)
+
 ## Actions
 
 - 2013-04-11 — Introduced in House
@@ -41,3 +45,10 @@ To revise the boundaries of the Gettysburg National Military Park to include the
 - 2013-09-20 — Placed on the Union Calendar, Calendar No. 162.
 - 2013-09-20 — Reported by the Committee on Natural Resources. H. Rept. 113-222.
 - 2013-09-20 — Reported by the Committee on Natural Resources. H. Rept. 113-222.
+- 2014-01-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-01-13 — Considered as unfinished business. (consideration: CR H172)
+- 2014-01-13 — Considered under suspension of the rules. (consideration: CR H167-168)
+- 2014-01-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1513.
+- 2014-01-13 — Mr. Hastings (WA) moved to suspend the rules and pass the bill. (consideration: CR H167)
+- 2014-01-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 12). (text: CR H167)
+- 2014-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 12).(text: CR H167)
