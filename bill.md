@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 3861
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3861
+
+> To amend the Internal Revenue Code of 1986 to increase the deduction for business start-up expenditures from $5,000 to $10,000.
+
+## § 1. Short title
+
+This Act may be cited as the “Reward and Encourage New Business Act of 2013”.
+
+## § 2. Increased deduction for business start-up expenditures
+
+- **(a)** *In general* Clause (ii) of section 195(b)(1)(A) of the Internal Revenue Code of 1986 is amended by striking “$5,000” and inserting “$10,000”.
+- **(b)** *Conforming amendment* Section 195(b) of such Code is amended by striking paragraph (3).
+- **(c)** *Effective date* The amendment made by this section shall apply to amounts paid or incurred in taxable years beginning after the date of the enactment of this Act.
