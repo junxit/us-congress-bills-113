@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2279
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2279
@@ -16,10 +16,11 @@ Reducing Excessive Deadline Obligations Act of 2013
 
 - Rep. Gardner, Cory [R-CO-4] (G000562)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (4)
 
@@ -87,3 +88,4 @@ Reducing Excessive Deadline Obligations Act of 2013
 - 2014-01-09 — The previous question was ordered pursuant to the rule. (consideration: CR H109)
 - 2014-01-09 — The resolution provides for consideration of H.R. 2279, H.R. 3362, and H.R. 3811. In each case, general debate shall be confined to one hour and one motion to recommit is allowed. The resolution specifies certain amendments are in order for H.R. 2279. Further amendments to H.R. 3362 and H.R. 3811 are not in order.
 - 2014-01-09 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2014-01-13 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
