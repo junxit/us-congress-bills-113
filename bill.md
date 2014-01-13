@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 841
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -20,11 +20,13 @@ Section 1 of the Act entitled “An Act to establish a reservation for the Confe
   - **(B)** by adding after paragraph (1) (as designated by subparagraph (A)) the following:
     > - **(2)** *Additional trust acquisitions*
     >   - **(A)** *In general* The Secretary may accept title to any additional number of acres of real property located within the boundaries of the original 1857 reservation of the Confederated Tribes of the Grand Ronde Community of Oregon established by Executive Order dated June 30, 1857, comprised of land within the political boundaries of Polk and Yamhill Counties, Oregon, if that real property is conveyed or otherwise transferred to the United States by or on behalf of the Tribe.
-    >   - **(B)** *Treatment of trust land* All applications to take land into trust within the boundaries of the original 1857 reservation shall be treated by the Secretary as an on-reservation trust acquisition.
+    >   - **(B)** *Treatment of trust land*
+    >     - **(i)** All applications to take land into trust within the boundaries of the original 1857 reservation shall be treated by the Secretary as an on-reservation trust acquisition.
+    >     - **(ii)** Any real property taken into trust under this paragraph shall not be eligible, or used, for any Class II or Class III gaming activity carried out pursuant to the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.), except for real property within 2 miles of the gaming facility in existence on the date of enactment of this Act that is located on State Highway 18 in the Grand Ronde community of Oregon.
     >   - **(C)** *Reservation* All real property taken into trust within those boundaries at any time after September 9, 1988, shall be part of the reservation of the Tribe.
 
 - **(2)** in subsection (c)—
-  - **(A)** in the matter preceding the table, by striking “in subsection (a) are approximately 10,311.60” and inserting “in subsection (a)(1) are approximately 11,274.19”; and
+  - **(A)** in the matter preceding the table, by striking “in subsection (a) are approximately 10,311.60” and inserting “in subsection (a)(1) are approximately 11,349.92”; and
   - **(B)** in the table—
     - **(i)** by striking the following:
     -  and inserting the following:

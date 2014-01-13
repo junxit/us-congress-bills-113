@@ -1,7 +1,7 @@
 ---
 measure: H.R. 841
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 841
@@ -40,3 +40,8 @@ To amend the Grand Ronde Reservation Act to make technical corrections, and for 
 - 2013-07-22 — Placed on the Union Calendar, Calendar No. 122.
 - 2013-07-22 — Reported by the Committee on Natural Resources. H. Rept. 113-168.
 - 2013-07-22 — Reported by the Committee on Natural Resources. H. Rept. 113-168.
+- 2014-01-13 — Considered under suspension of the rules. (consideration: CR H170-172)
+- 2014-01-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 841.
+- 2014-01-13 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended. (consideration: CR H170)
+- 2014-01-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H170-171)
+- 2014-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H170-171)
