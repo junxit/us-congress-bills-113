@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3811
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3811
@@ -94,9 +94,10 @@ Health Exchange Security and Transparency Act of 2014
 - Rep. Posey, Bill [R-FL-8] (P000599)
 - Rep. Yoho, Ted S. [R-FL-3] (Y000065)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -116,3 +117,4 @@ Health Exchange Security and Transparency Act of 2014
 - 2014-01-10 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 291 - 122 (Roll no. 11).(text: CR H139)
 - 2014-01-10 — The previous question was ordered pursuant to the rule. (consideration: CR H149)
 - 2014-01-10 — The resolution provides for consideration of H.R. 2279, H.R. 3362, and H.R. 3811. In each case, general debate shall be confined to one hour and one motion to recommit is allowed. The resolution specifies certain amendments are in order for H.R. 2279. Further amendments to H.R. 3362 and H.R. 3811 are not in order.
+- 2014-01-13 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
