@@ -1,7 +1,7 @@
 ---
 measure: H.R. 841
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 841
@@ -23,9 +23,10 @@ To amend the Grand Ronde Reservation Act to make technical corrections, and for 
 - Rep. Bonamici, Suzanne [D-OR-1] (B001278)
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To amend the Grand Ronde Reservation Act to make technical corrections, and for 
 - 2014-01-13 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended. (consideration: CR H170)
 - 2014-01-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H170-171)
 - 2014-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H170-171)
+- 2014-01-14 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
