@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 106
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 106
@@ -25,3 +25,9 @@ Making further continuing appropriations for fiscal year 2014, and for other pur
 - 2014-01-10 — Introduced in House
 - 2014-01-10 — Introduced in House
 - 2014-01-10 — Referred to the House Committee on Appropriations.
+- 2014-01-14 — Considered under suspension of the rules. (consideration: CR H198)
+- 2014-01-14 — DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 106.
+- 2014-01-14 — Mr. Rogers (KY) moved to suspend the rules and pass the resolution.
+- 2014-01-14 — On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR H198)
+- 2014-01-14 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR H198)
+- 2014-01-14 — Received in the Senate, read twice.
