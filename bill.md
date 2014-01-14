@@ -1,0 +1,17 @@
+---
+legis-num: S. 1919
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1919
+
+> To repeal the Authorization for Use of Military Force Against Iraq Resolution of 2002.
+
+## § 1. Repeal of Authorization for Use of Military Force Against Iraq
+
+- **(a)** *Repeal* The Authorization for Use of Military Force Against Iraq Resolution of 2002 (Public Law 107–243; 116 Stat. 1498; 50 U.S.C. 1541 note) is hereby repealed.
+- **(b)** *Rule of construction* Nothing in this section shall be construed as limiting or prohibiting any authority of the President to—
+  - **(1)** provide security for United States facilities, military assets, or military or diplomatic personnel located in Iraq; or
+  - **(2)** gather, provide, and share intelligence with the Government of Iraq if the President determines it to be in the national security interests of the United States.
