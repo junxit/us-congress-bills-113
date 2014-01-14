@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1233
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Presidential and Federal Records Act Amendments of 2013”.
+- **(a)** *Short title* This Act may be cited as the “Presidential and Federal Records Act Amendments of 2014”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Presidential records
@@ -102,7 +102,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(3)** direct and effect, with the approval of the head of the originating Federal agency, or if the existence of the agency has been terminated, with the approval of the head of that agency’s successor in function, if any, the transfer of records, deposited or approved for deposit with the National Archives of the United States to public or educational institutions or associations; title to the records to remain vested in the United States unless otherwise authorized by Congress; and
   >   - **(4)** transfer materials from private sources authorized to be received by the Archivist by section 2111 of this title.
   > - **(b)** *Early transfer of records* The Archivist—
-  >   - **(1)** in consultation with the head of the originating Federal agency, is authorized to accept for deposita copy of the records described in subsection (a)(2) that have been in existence for less than thirty years; and
+  >   - **(1)** in consultation with the head of the originating Federal agency, is authorized to accept a copy of the records described in subsection (a)(2) that have been in existence for less than thirty years; and
   >   - **(2)** may not disclose any such records until the expiration of—
   >     - **(A)** the thirty-year period described in paragraph (1);
   >     - **(B)** any longer period established by the Archivist by order; or
@@ -152,7 +152,7 @@ Section 3106 of title 44, United States Code, is amended to read as follows:
 - **(c)** *Lists and schedules of records To be submitted to the Archivist by head of each Government agency* Section 3303(1) of title 44, United States Code, is amended by striking “photographed or microphotographed” and inserting “photographed, microphotographed, or digitized”.
 - **(d)** *Examination by Archivist of lists and schedules of records lacking preservation value; disposal of records* Section 3303a(c) of title 44, United States Code, is amended by striking “the Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives” and inserting “the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate”.
 - **(e)** *Photographs or microphotographs of records considered as originals; certified reproductions admissible in evidence* Section 3312 of title 44, United States Code, is amended—
-  - **(1)** in the first sentence, by striking “Photographs andor microphotographs of records” and inserting “Photographs, microphotographs of records, or digitized records”; and
+  - **(1)** in the first sentence, by striking “Photographs or microphotographs of records” and inserting “Photographs, microphotographs of records, or digitized records”; and
   - **(2)** in the second sentence, by striking “photographs or microphotographs” and inserting “photographs, microphotographs, or digitized records”, each place it appears.
 
 ## § 6. Procedures to prevent unauthorized removal of classified records from National Archives
@@ -212,7 +212,7 @@ Title 44, United States Code, is amended—
   - **(B)** by striking “his” and inserting “the Archivist’s”;
 - **(9)** in section 3103, by striking “he” and inserting “the head of such agency”;
 - **(10)** in section 3104—
-  - **(A)** by striking “his”the first place it appears and inserting “such official’s”; and
+  - **(A)** by striking “his” the first place it appears and inserting “such official’s”; and
   - **(B)** by striking “him or his” and inserting “such official or such official’s”;
 - **(11)** in section 3105, by striking “he” and inserting “the head of such agency”;
 - **(12)** in section 3302(1), by striking “him” and inserting “the Archivist”; and
@@ -230,9 +230,6 @@ Title 44, United States Code, is amended—
   - **(1)** in paragraph (4), by striking “creation and of records maintenance and use” and inserting “creation, maintenance, transfer, and use”;
   - **(2)** in paragraph (6), by inserting after “Federal paperwork” the following: “and the transfer of records from Federal agencies to the National Archives of the United States in digital or electronic form to the greatest extent possible”; and
   - **(3)** in paragraph (7), by striking “the Administrator or”.
-- **(b)** *Records centers and centralized microfilming services* Section 2907 of title 44, United States Code, is amended—
-  - **(1)** in the subject heading by inserting “or digitization” after “microfilming”; and
-  - **(2)** by inserting “or digitization” after “microfilming”.
 - **(b)** *Records centers and centralized microfilming services*
   - **(1)** *Amendment* Section 2907 of title 44, United States Code, is amended—
     - **(A)** in the section heading by inserting “or digitization” after “microfilming”; and
@@ -250,7 +247,7 @@ Title 44, United States Code, is amended—
   - **(3)** subsection (d) is amended to read as follows:
     > - **(d)** The Archivist shall promulgate regulations requiring all Federal agencies to transfer all digital or electronic records to the National Archives of the United States in digital or electronic form to the greatest extent possible.
 
-- **(d)** *Inspection of agency records* Section 2906(a)(1)2906 of title 44, United States Code, is amended—
+- **(d)** *Inspection of agency records* Section 2906 of title 44, United States Code, is amended—
   - **(1)** in subsection (a)—
     - **(A)** in paragraph (1)—
       - **(i)** by striking “their respective” and inserting “the”;
@@ -278,7 +275,7 @@ Title 44, United States Code, is amended—
     - **(A)** by striking “either”;
     - **(B)** by striking “or the Administrator”, each place it appears; and
     - **(C)** by striking “inaugurated” and inserting “demonstrably commenced”.
-- **(f)** *Records management by the Archivist* The heading for chapter 29 of title 44, United States Code, is amended by striking “and by the Administrator of General Services”.
+- **(f)** *Records management by the Archivist* .
   - **(1)** *Amendment* The heading for chapter 29 of title 44, United States Code, is amended by striking “and by the Administrator of General Services”.
   - **(2)** *Conforming amendment* The table of chapters at the beginning of title 44, United States Code, is amended in the item related to chapter 29 by striking “and by the Administrator of General Services”.
 - **(g)** *Establishment of program of management* Section 3102(2) of title 44, United States Code, is amended by striking “the Administrator of General Services and”.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1233
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-102 amendatory instructions. 24 executed, 78 stated and not applied.
+99 amendatory instructions. 24 executed, 75 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -96,7 +96,7 @@ to guess them.
 | Removed | `Act` |
 | Inserted | `chapter` |
 
-### 44 U.S.C. § 3303
+### 44 U.S.C. § 3302
 
 > Section 3302(3) of title 44, United States Code, is amended by striking “photographic or microphotographic processes” and inserting “photographic, microphotographic, or digital processes”.
 
@@ -114,7 +114,7 @@ to guess them.
 | Removed | `photographed or microphotographed` |
 | Inserted | `photographed, microphotographed, or digitized` |
 
-### 44 U.S.C. § 3303
+### 44 U.S.C. § 3303a
 
 > Section 3303a(c) of title 44, United States Code, is amended by striking “the Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives” and inserting “the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate”.
 
@@ -125,11 +125,11 @@ to guess them.
 
 ### 44 U.S.C. § 3312
 
-> in the first sentence, by striking “Photographs andor microphotographs of records” and inserting “Photographs, microphotographs of records, or digitized records”; and
+> in the first sentence, by striking “Photographs or microphotographs of records” and inserting “Photographs, microphotographs of records, or digitized records”; and
 
 | | |
 |---|---|
-| Removed | `Photographs andor microphotographs of records` |
+| Removed | `Photographs or microphotographs of records` |
 | Inserted | `Photographs, microphotographs of records, or digitized records` |
 
 ### 44 U.S.C. § 3312
@@ -177,7 +177,7 @@ to guess them.
 | Removed | `subsection (a) or (b), respectively` |
 | Inserted | `subsections (a) and (b)` |
 
-### 44 U.S.C. § 2902
+### 44 U.S.C. § 2906
 
 > by striking “their respective” and inserting “the”;
 
@@ -186,7 +186,7 @@ to guess them.
 | Removed | `their respective` |
 | Inserted | `the` |
 
-### 44 U.S.C. § 2902
+### 44 U.S.C. § 2906
 
 > by striking “designee of either” and inserting “the Archivist’s designee”;
 
@@ -195,7 +195,7 @@ to guess them.
 | Removed | `designee of either` |
 | Inserted | `the Archivist’s designee` |
 
-### 44 U.S.C. § 2902
+### 44 U.S.C. § 2906
 
 > by striking “designee of either” and inserting “Archivist’s designee”; and
 
@@ -204,7 +204,7 @@ to guess them.
 | Removed | `designee of either` |
 | Inserted | `Archivist’s designee` |
 
-### 44 U.S.C. § 2902
+### 44 U.S.C. § 2906
 
 > in subparagraph (A), by striking “the Administrator, the Archivist,” and inserting “the Archivist”; and
 
@@ -213,7 +213,7 @@ to guess them.
 | Removed | `the Administrator, the Archivist,` |
 | Inserted | `the Archivist` |
 
-### 44 U.S.C. § 2902
+### 44 U.S.C. § 2906
 
 > by striking “designee of either” and inserting “Archivist’s designee”.
 
@@ -249,10 +249,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `44 U.S.C. § 2205` | add-at-end | Chapter 22 of title 44, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `44 U.S.C. § 2205` | insert | Section 2204(d) of title 44, United States Code, is amended by inserting “, except section 2208,” after “chapter”. | the bill quotes the text inserted but describes where it goes |
+| `44 U.S.C. § 2204` | add-at-end | Chapter 22 of title 44, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `44 U.S.C. § 2204` | insert | Section 2204(d) of title 44, United States Code, is amended by inserting “, except section 2208,” after “chapter”. | the bill quotes the text inserted but describes where it goes |
 | `44 U.S.C. § 2207` | insert | Section 2207 of title 44, United States Code, is amended in the second sentence by inserting “, except section 2208,” after “chapter”. | the bill quotes the text inserted but describes where it goes |
-| `44 U.S.C. § 2205` | add-at-end | The table of sections at the beginning of chapter 22 of title 44, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `44 U.S.C. § 2204` | add-at-end | The table of sections at the beginning of chapter 22 of title 44, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 2201` | insert | by inserting “, whether in analog, digital, or any other form” after “mechanical recordations”; and | the bill quotes the text inserted but describes where it goes |
 | `44 U.S.C. § 2203` | redesignate | by redesignating subsection (f) as subsection (g); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 2203` | insert | by inserting after subsection (e) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -261,11 +261,11 @@ complete account of the bill's effect, which it is not.
 | `5 U.S.C. § 105` | add-at-end | The table of sections at the beginning of chapter 22 of title 44, United States Code, as amended by subsection (a)(3), is further amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 2107` | amend | Section 2107 of title 44, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 2111` | amend | Section 2111 of title 44, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `44 U.S.C. § 2107` | amend | Section 2114 of title 44, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `44 U.S.C. § 2107` | replace | The table of sections at the beginning of chapter 21 of title 44, United States Code, is amended by striking the item for section 2114 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `44 U.S.C. § 2114` | amend | Section 2114 of title 44, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `44 U.S.C. § 2114` | replace | The table of sections at the beginning of chapter 21 of title 44, United States Code, is amended by striking the item for section 2114 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 2116` | insert | Section 2116(a) of title 44, United States Code, is amended by inserting “digital,” after “microphotographic,”, each place it appears. | the bill quotes the text inserted but describes where it goes |
 | `44 U.S.C. § 3106` | amend | Section 3106 of title 44, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `44 U.S.C. § 3303` | amend | Section 3301 of title 44, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `44 U.S.C. § 3301` | amend | Section 3301 of title 44, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | repeal | Sections 3315 through 3324 of title 44, United States Code, are repealed. | the bill names no machine-readable US Code section |
 | — | strike | The table of sections at the beginning of chapter 33 of title 44, United States Code, is amended by striking the items relating to sections 3315 through 3324. | the bill names no machine-readable US Code section |
 | — | replace | in section 2116(c), by striking “his” and inserting “the Archivist’s”; | the bill names no machine-readable US Code section |
@@ -290,7 +290,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “He” and inserting “The Archivist”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “his” and inserting “the Archivist’s”; | the bill names no machine-readable US Code section |
 | — | replace | in section 3103, by striking “he” and inserting “the head of such agency”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “his”the first place it appears and inserting “such official’s”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “his” the first place it appears and inserting “such official’s”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “him or his” and inserting “such official or such official’s”; | the bill names no machine-readable US Code section |
 | — | replace | in section 3105, by striking “he” and inserting “the head of such agency”; | the bill names no machine-readable US Code section |
 | — | replace | in section 3302(1), by striking “him” and inserting “the Archivist”; and | the bill names no machine-readable US Code section |
@@ -301,29 +301,26 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (f), by striking “he” and inserting “the Archivist”. | the bill names no machine-readable US Code section |
 | `44 U.S.C. § 2902` | insert | in paragraph (6), by inserting after “Federal paperwork” the following: “and the transfer of records from Federal agencies to the National Archives of the United States in digital or electronic form to the greatest extent possible”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 2902` | strike | in paragraph (7), by striking “the Administrator or”. | the bill quotes the text struck but describes what replaces it |
-| `44 U.S.C. § 2907` | insert | in the subject heading by inserting “or digitization” after “microfilming”; and | the bill quotes the text inserted but describes where it goes |
+| `44 U.S.C. § 2907` | insert | in the section heading by inserting “or digitization” after “microfilming”; and | the bill quotes the text inserted but describes where it goes |
 | `44 U.S.C. § 2907` | insert | by inserting “or digitization” after “microfilming”. | the bill quotes the text inserted but describes where it goes |
-| `44 U.S.C. § 2902` | insert | in the section heading by inserting “or digitization” after “microfilming”; and | the bill quotes the text inserted but describes where it goes |
-| `44 U.S.C. § 2902` | insert | by inserting “or digitization” after “microfilming”. | the bill quotes the text inserted but describes where it goes |
-| `44 U.S.C. § 2902` | insert | The table of sections at the beginning of chapter 29 of title 44, United States Code, is amended in the item relating to section 2907 by inserting “or digitization” after “microfilming”. | the bill quotes the text inserted but describes where it goes |
+| `44 U.S.C. § 2907` | insert | The table of sections at the beginning of chapter 29 of title 44, United States Code, is amended in the item relating to section 2907 by inserting “or digitization” after “microfilming”. | the bill quotes the text inserted but describes where it goes |
 | `44 U.S.C. § 2904` | strike | by striking “and the Administrator”; and | the bill quotes the text struck but describes what replaces it |
 | `44 U.S.C. § 2904` | strike | by striking “each”; and | the bill quotes the text struck but describes what replaces it |
 | `44 U.S.C. § 2904` | strike | in paragraph (8), by striking “or the Administrator (as the case may be)”; and | the bill quotes the text struck but describes what replaces it |
 | `44 U.S.C. § 2904` | amend | subsection (d) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `44 U.S.C. § 2902` | strike | by striking “the Administrator of General Services and”; | the bill quotes the text struck but describes what replaces it |
-| `44 U.S.C. § 2902` | strike | by striking “solely”; and | the bill quotes the text struck but describes what replaces it |
-| `44 U.S.C. § 2902` | insert | by inserting after “for the improvement of records management practices and programs” the following: “and for determining whether the records of Federal agencies have sufficient value to warrant continued preservation or lack sufficient … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `44 U.S.C. § 2902` | strike | by striking “the Administrator and”; and | the bill quotes the text struck but describes what replaces it |
-| `44 U.S.C. § 2902` | strike | by striking the second sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `44 U.S.C. § 2902` | strike | by striking “the Administrator or”; and | the bill quotes the text struck but describes what replaces it |
-| `44 U.S.C. § 2902` | strike | by striking “the Administrator and”; and | the bill quotes the text struck but describes what replaces it |
+| `44 U.S.C. § 2906` | strike | by striking “the Administrator of General Services and”; | the bill quotes the text struck but describes what replaces it |
+| `44 U.S.C. § 2906` | strike | by striking “solely”; and | the bill quotes the text struck but describes what replaces it |
+| `44 U.S.C. § 2906` | insert | by inserting after “for the improvement of records management practices and programs” the following: “and for determining whether the records of Federal agencies have sufficient value to warrant continued preservation or lack sufficient … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `44 U.S.C. § 2906` | strike | by striking “the Administrator and”; and | the bill quotes the text struck but describes what replaces it |
+| `44 U.S.C. § 2906` | strike | by striking the second sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `44 U.S.C. § 2906` | strike | by striking “the Administrator or”; and | the bill quotes the text struck but describes what replaces it |
+| `44 U.S.C. § 2906` | strike | by striking “the Administrator and”; and | the bill quotes the text struck but describes what replaces it |
 | `44 U.S.C. § 2115` | strike | by striking “and the Administrator”; and | the bill quotes the text struck but describes what replaces it |
 | `44 U.S.C. § 2115` | strike | by striking “each”; and | the bill quotes the text struck but describes what replaces it |
 | `44 U.S.C. § 2115` | strike | by striking “either”; | the bill quotes the text struck but describes what replaces it |
 | `44 U.S.C. § 2115` | strike | by striking “or the Administrator”, each place it appears; and | the bill quotes the text struck but describes what replaces it |
 | `44 U.S.C. § 2902` | strike | The heading for chapter 29 of title 44, United States Code, is amended by striking “and by the Administrator of General Services”. | the bill quotes the text struck but describes what replaces it |
-| `44 U.S.C. § 2902` | strike | The heading for chapter 29 of title 44, United States Code, is amended by striking “and by the Administrator of General Services”. | the bill quotes the text struck but describes what replaces it |
 | `44 U.S.C. § 2902` | strike | The table of chapters at the beginning of title 44, United States Code, is amended in the item related to chapter 29 by striking “and by the Administrator of General Services”. | the bill quotes the text struck but describes what replaces it |
-| `44 U.S.C. § 2902` | strike | Section 3102(2) of title 44, United States Code, is amended by striking “the Administrator of General Services and”. | the bill quotes the text struck but describes what replaces it |
+| `44 U.S.C. § 3102` | strike | Section 3102(2) of title 44, United States Code, is amended by striking “the Administrator of General Services and”. | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 105` | add-at-end | Chapter 29 of title 44, United States Code is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 105` | add-at-end | The table of sections at the beginning of chapter 29 of title 44, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
