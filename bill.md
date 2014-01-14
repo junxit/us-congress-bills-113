@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 3872
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3872
+
+> To amend title 23, United States Code, to reauthorize the State infrastructure bank program.
+
+## § 1. Short title
+
+This Act may be cited as the “State Transportation and Infrastructure Financing Innovation Act (STIFIA)”.
+
+## § 2. State infrastructure bank program
+
+Section 610 of title 23, United States Code, is amended—
+
+- **(1)** in subsection (d)—
+  - **(A)** in paragraph (1), by striking subparagraph (A) and inserting the following:
+    > - **(A)** 15 percent of the funds apportioned to the State for each of fiscal years 2013 and 2014 under each of sections 104(b)(1) and 104(b)(2); and
+
+  - **(B)** in paragraph (2), by striking “2005 through 2009” and inserting “2013 and 2014”;
+  - **(C)** in paragraph (3), by striking “2005 through 2009” and inserting “2013 and 2014”; and
+  - **(D)** in paragraph (5), by striking “section 133(d)(3)” and inserting “section 133(d)(4)”; and
+- **(2)** in subsection (k), by striking “2005 through 2009” and inserting “2013 and 2014”.
