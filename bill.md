@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Holding Company Registration Threshold Equalization Act of 2014”.
+This Act may be cited as the “Holding Company Registration Threshold Equalization Act of 2013”.
 
 ## § 2. Registration threshold for savings and loan holding companies
 
