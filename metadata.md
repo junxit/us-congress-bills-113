@@ -1,7 +1,7 @@
 ---
 measure: S. 1434
 congress: 113
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1434
@@ -28,3 +28,8 @@ A bill to designate the Junction City Community-Based Outpatient Clinic located 
 
 - 2013-08-01 — Introduced in Senate
 - 2013-08-01 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2013-10-30 — Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-280.
+- 2014-01-14 — Passed Senate without amendment by Unanimous Consent. (text: CR S333-334)
+- 2014-01-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S333-334)
+- 2014-01-14 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S333-334)
+- 2014-01-14 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S333-334)
