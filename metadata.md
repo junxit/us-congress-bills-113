@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1513
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1513
@@ -52,3 +52,4 @@ To revise the boundaries of the Gettysburg National Military Park to include the
 - 2014-01-13 — Mr. Hastings (WA) moved to suspend the rules and pass the bill. (consideration: CR H167)
 - 2014-01-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 12). (text: CR H167)
 - 2014-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 12).(text: CR H167)
+- 2014-01-14 — Received in the Senate.
