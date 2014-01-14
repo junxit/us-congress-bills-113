@@ -1,7 +1,7 @@
 ---
 measure: H.R. 801
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | in paragraph (1)(B), by inserting after “is a bank” the following: “, a savings and loan holding company (as defined in section 10 of the Home Owners' Loan Act),”; and | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (4), by inserting after “case of a bank” the following: “, a savings and loan holding company (as defined in section 10 of the Home Owners' Loan Act),”; and | the bill names no machine-readable US Code section |
-| — | replace | in section 15(d), by striking “case of bank” and inserting the following: “case of a bank, a savings and loan holding company (as defined in section 10 of the Home Owners' Loan Act),”. | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 78a` | insert | in paragraph (1)(B), by inserting after “is a bank” the following: “, a savings and loan holding company (as defined in section 10 of the Home Owners' Loan Act),”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78a` | insert | in paragraph (4), by inserting after “case of a bank” the following: “, a savings and loan holding company (as defined in section 10 of the Home Owners' Loan Act),”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78a` | replace | in section 15(d), by striking “case of bank” and inserting the following: “case of a bank, a savings and loan holding company (as defined in section 10 of the Home Owners' Loan Act),”. | the bill quotes the text struck but describes what replaces it |
