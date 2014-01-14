@@ -7,19 +7,19 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2274
 
-> To amend the Securities Exchange Act of 1934 to exempt from registration brokers performing services in connection with the transfer of ownership of smaller privately held companies.
+> To amend the Securities Exchange Act of 1934 to provide for a notice-filing registration procedure for brokers performing services in connection with the transfer of ownership of smaller privately held companies and to provide for regulation appropriate to the limited scope of the activities of such brokers.
 
 ## § 1. Short title
 
-This Act may be cited as the “Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2014”.
+This Act may be cited as the “Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2013”.
 
 ## § 2. Registration exemption for merger and acquisition brokers
 
 Section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b)) is amended by adding at the end the following:
 
 > - **(13)** *Registration exemption for merger and acquisition brokers*
->   - **(A)** *In general* Except as provided in subparagraph (B), an M&A broker shall be exempt from registration under this section.
->   - **(B)** *Excluded activities* An M&A broker is not exempt from registration under this paragraph if such broker does any of the following:
+>   - **(A)** *In general* Except as provided in subparagraph (B), an M&A broker and any person associated with an M&A broker shall be exempt from registration under this section.
+>   - **(B)** *Excluded activities* An M&A broker or a person associated with an M&A broker is not exempt from registration under this paragraph if such broker or associated person does any of the following:
 >     - **(i)** Directly or indirectly, in connection with the transfer of ownership of an eligible privately held company, receives, holds, transmits, or has custody of the funds or securities to be exchanged by the parties to the transaction.
 >     - **(ii)** Engages on behalf of an issuer in a public offering of any class of securities that is registered, or is required to be registered, with the Commission under section 12 or with respect to which the issuer files, or is required to file, periodic information, documents, and reports under subsection (d).
 >   - **(C)** *Rule of construction* Nothing in this paragraph shall be construed to limit any other authority of the Commission to exempt any person, or any class of persons, from any provision of this title, or from any provision of any rule or regulation thereunder.
@@ -33,11 +33,11 @@ Section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b)) is amend
 >       - **(II)** In the fiscal year ending immediately before the fiscal year in which the services of the M&A broker are initially engaged with respect to the securities transaction, the company meets either or both of the following conditions (determined in accordance with the historical financial accounting records of the company):
 >         - **(aa)** The earnings of the company before interest, taxes, depreciation, and amortization are less than $25,000,000.
 >         - **(bb)** The gross revenues of the company are less than $250,000,000.
->     - **(iii)** *M&A broker* The term “M&A broker” means a broker, and any person associated with a broker, engaged in the business of effecting securities transactions solely in connection with the transfer of ownership of an eligible privately held company, regardless of whether the broker acts on behalf of a seller or buyer, through the purchase, sale, exchange, issuance, repurchase, or redemption of, or a business combination involving, securities or assets of the eligible privately held company, if the broker reasonably believes that—
+>     - **(iii)** *M&A broker* The term “M&A broker” means a broker engaged in the business of effecting securities transactions solely in connection with the transfer of ownership of an eligible privately held company, regardless of whether the broker acts on behalf of a seller or buyer, through the purchase, sale, exchange, issuance, repurchase, or redemption of, or a business combination involving, securities or assets of the eligible privately held company, if the broker reasonably believes that—
 >       - **(I)** upon consummation of the transaction, any person acquiring securities or assets of the eligible privately held company, acting alone or in concert, will control and, directly or indirectly, will be active in the management of the eligible privately held company or the business conducted with the assets of the eligible privately held company; and
 >       - **(II)** if any person is offered securities in exchange for securities or assets of the eligible privately held company, such person will, prior to becoming legally bound to consummate the transaction, receive or have reasonable access to the most recent year-end balance sheet, income statement, statement of changes in financial position, and statement of owner’s equity of the issuer of the securities offered in exchange, and, if the financial statements of the issuer are audited, the related report of the independent auditor, a balance sheet dated not more than 120 days before the date of the offer, and information pertaining to the management, business, results of operations for the period covered by the foregoing financial statements, and material loss contingencies of the issuer.
 >   - **(E)** *Inflation adjustment*
->     - **(i)** *In general* On the date that is 5 years after the date of the enactment of the Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2014, and every 5 years thereafter, each dollar amount in subparagraph (D)(ii)(II) shall be adjusted by—
+>     - **(i)** *In general* On the date that is 5 years after the date of the enactment of the Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2013, and every 5 years thereafter, each dollar amount in subparagraph (D)(ii)(II) shall be adjusted by—
 >       - **(I)** dividing the annual value of the Employment Cost Index For Wages and Salaries, Private Industry Workers (or any successor index), as published by the Bureau of Labor Statistics, for the calendar year preceding the calendar year in which the adjustment is being made by the annual value of such index (or successor) for the calendar year ending December 31, 2012; and
 >       - **(II)** multiplying such dollar amount by the quotient obtained under subclause (I).
 >     - **(ii)** *Rounding* Each dollar amount determined under clause (i) shall be rounded to the nearest multiple of $100,000.
