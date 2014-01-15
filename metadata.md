@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2860
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2860
@@ -45,3 +45,4 @@ OPM IG Act
 - 2014-01-14 — Mr. Farenthold moved to suspend the rules and pass the bill. (consideration: CR H200)
 - 2014-01-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 17). (text:P CR H200-201)
 - 2014-01-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 17).(text:P CR H200-201)
+- 2014-01-15 — Received in the Senate, read twice.
