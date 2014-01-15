@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2274
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2274
@@ -28,9 +28,10 @@ Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of
 - 2014-01-14 — Reported (Amended) by the Committee on Financial Services. H. Rept. 113-326.
 - 2014-01-14 — Reported (Amended) by the Committee on Financial Services. H. Rept. 113-326.
 - 2014-01-14 — The title of the measure was amended. Agreed to without objection.
+- 2014-01-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
