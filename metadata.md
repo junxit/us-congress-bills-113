@@ -1,7 +1,7 @@
 ---
 measure: S. 1434
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1434
@@ -37,3 +37,16 @@ A bill to designate the Junction City Community-Based Outpatient Clinic located 
 - 2014-01-15 — Message on Senate action sent to the House.
 - 2014-01-15 — Received in the House.
 - 2014-01-15 — Referred to the House Committee on Veterans' Affairs.
+- 2014-01-28 — Referred to the Subcommittee on Health.
+- 2014-12-08 — Considered under suspension of the rules. (consideration: CR H8856-8857)
+- 2014-12-08 — DEBATE - The House proceeded with forty minutes of debate on S. 1434.
+- 2014-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-08 — Mr. Roe (TN) moved to suspend the rules and pass the bill.
+- 2014-12-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8856)
+- 2014-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8856)
+- 2014-12-10 — Presented to President.
+- 2014-12-10 — Presented to President.
+- 2014-12-16 — Became Public Law No: 113-231.
+- 2014-12-16 — Became Public Law No: 113-231.
+- 2014-12-16 — Signed by President.
+- 2014-12-16 — Signed by President.
