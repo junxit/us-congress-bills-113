@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 74
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 74
@@ -27,3 +27,6 @@ Providing for a correction in the enrollment of H.R. 3547.
 - 2014-01-13 — Introduced in House
 - 2014-01-13 — Referred to the Committee on Appropriations, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2014-01-13 — Referred to the Committee on Appropriations, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-01-15 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 458, H. Con. Res. 74 is considered passed House.(consideration: CR H452; text as passed House: CR H452)
+- 2014-01-15 — Pursuant to the provisions of H. Res. 458, H. Con. Res. 74 is considered passed House. (consideration: CR H452; text as passed House: CR H452)
+- 2014-01-15 — Received in the Senate.
