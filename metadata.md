@@ -1,7 +1,7 @@
 ---
 measure: S. 1901
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1901
@@ -28,3 +28,7 @@ Support for United States-Republic of Korea Civil Nuclear Cooperation Act
 
 - 2014-01-09 — Introduced in Senate
 - 2014-01-09 — Read twice and referred to the Committee on Foreign Relations.
+- 2014-01-15 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2014-01-15 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2014-01-15 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2014-01-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 295.
