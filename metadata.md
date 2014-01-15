@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 74
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 74
@@ -30,3 +30,6 @@ Providing for a correction in the enrollment of H.R. 3547.
 - 2014-01-15 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 458, H. Con. Res. 74 is considered passed House.(consideration: CR H452; text as passed House: CR H452)
 - 2014-01-15 — Pursuant to the provisions of H. Res. 458, H. Con. Res. 74 is considered passed House. (consideration: CR H452; text as passed House: CR H452)
 - 2014-01-15 — Received in the Senate.
+- 2014-01-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S425)
+- 2014-01-16 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S425)
+- 2014-01-17 — Message on Senate action sent to the House.
