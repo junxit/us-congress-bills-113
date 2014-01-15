@@ -2,7 +2,7 @@
 legis-num: H.R. 801
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 801
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Holding Company Registration Threshold Equalization Act of 2013”.
+This Act may be cited as the “Holding Company Registration Threshold Equalization Act of 2014”.
 
 ## § 2. Registration threshold for savings and loan holding companies
 

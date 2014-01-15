@@ -1,7 +1,7 @@
 ---
 measure: H.R. 801
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 801
@@ -25,9 +25,10 @@ Holding Company Registration Threshold Equalization Act of 2014
 - Rep. Polis, Jared [D-CO-2] (P000598)
 - Rep. Renacci, James B. [R-OH-16] (R000586)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Holding Company Registration Threshold Equalization Act of 2014
 - 2014-01-14 — Placed on the Union Calendar, Calendar No. 242.
 - 2014-01-14 — Reported by the Committee on Financial Services. H. Rept. 113-325.
 - 2014-01-14 — Reported by the Committee on Financial Services. H. Rept. 113-325.
+- 2014-01-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
