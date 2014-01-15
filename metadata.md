@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2860
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2860
@@ -46,3 +46,12 @@ OPM IG Act
 - 2014-01-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 17). (text:P CR H200-201)
 - 2014-01-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 17).(text:P CR H200-201)
 - 2014-01-15 — Received in the Senate, read twice.
+- 2014-01-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S607)
+- 2014-01-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S607)
+- 2014-01-30 — Message on Senate action sent to the House.
+- 2014-02-04 — Presented to President.
+- 2014-02-04 — Presented to President.
+- 2014-02-12 — Became Public Law No: 113-80.
+- 2014-02-12 — Became Public Law No: 113-80.
+- 2014-02-12 — Signed by President.
+- 2014-02-12 — Signed by President.
