@@ -2,14 +2,14 @@
 legis-num: H. RES. 458
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 458
 
 > Providing for consideration of the Senate amendments to the bill (H.R. 3547) to extend the application of certain space launch liability provisions through 2014; providing for proceedings during the period from January 17, 2014, through January 24, 2014; and for other purposes.
 
-That upon adoption of this resolution it shall be in order to take from the Speaker's table the bill (H.R. 3547) to extend the application of certain space launch liability provisions through 2014, with the Senate amendments thereto, and to consider in the House, without intervention of any point of order, a single motion offered by the chair of the Committee on Appropriations or his designee that the House (1) concur in the Senate amendment to the title and (2) concur in the Senate amendment to the text with an amendment inserting the text of Rules Committee Print 113-32 in lieu of the matter proposed to be inserted by the Senate. The Senate amendments and the motion shall be considered as read. The motion shall be debatable for one hour equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations. The previous question shall be considered as ordered on the motion to adoption without intervening motion or demand for division of the question.
+That upon adoption of this resolution it shall be in order to take from the Speaker's table the bill (H.R. 3547) to extend the application of certain space launch liability provisions through 2014, with the Senate amendments thereto, and to consider in the House, without intervention of any point of order, a single motion offered by the chair of the Committee on Appropriations or his designee that the House: (1) concur in the Senate amendment to the title; and (2) concur in the Senate amendment to the text with an amendment inserting the text of Rules Committee Print 113–32 (as modified by section 6 of this resolution) in lieu of the matter proposed to be inserted by the Senate. The Senate amendments and the motion shall be considered as read. The motion shall be debatable for one hour equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations. The previous question shall be considered as ordered on the motion to adoption without intervening motion or demand for division of the question.
 
 ## § 2.
 
@@ -29,3 +29,11 @@ On any legislative day during the period from January 17, 2014, through January 
 ## § 5.
 
 The Speaker may appoint Members to perform the duties of the Chair for the duration of the period addressed by section 4 of this resolution as though under clause 8(a) of rule I.
+
+## § 6.
+
+The modification referred to in the first section of this resolution is as follows: page 363, strike lines 12 through 16 and insert the following:
+
+> - **(1)** *Combat-related special compensation* Section 1413a(b)(3) of title 10, United States Code, is amended—
+>   - **(A)** in subparagraph (A), by inserting “, with adjustment under paragraph (2) of section 1401a(b) of this title to which the member would have been entitled (but without the application of paragraph (4) of such section),” after “under any other provision of law”; and
+>   - **(B)** in subparagraph (B), by striking “whichever is applicable to the member.” and inserting “with adjustment under paragraph (2) of section 1401a(b) of this title to which the member would have been entitled (but without the application of paragraph (4) of such section), whichever is applicable to the member.”.
