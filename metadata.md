@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1233
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1233
@@ -16,9 +16,10 @@ Presidential and Federal Records Act Amendments of 2014
 
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -41,3 +42,4 @@ Presidential and Federal Records Act Amendments of 2014
 - 2014-01-14 — Mr. Farenthold moved to suspend the rules and pass the bill, as amended.
 - 2014-01-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 18). (text: CR H202-206)
 - 2014-01-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 18).(text: CR H202-206)
+- 2014-01-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
