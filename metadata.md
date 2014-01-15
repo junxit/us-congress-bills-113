@@ -1,7 +1,7 @@
 ---
 measure: S. 1434
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1434
@@ -20,9 +20,10 @@ A bill to designate the Junction City Community-Based Outpatient Clinic located 
 
 - Sen. Roberts, Pat [R-KS] (R000307)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -33,3 +34,6 @@ A bill to designate the Junction City Community-Based Outpatient Clinic located 
 - 2014-01-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S333-334)
 - 2014-01-14 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S333-334)
 - 2014-01-14 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S333-334)
+- 2014-01-15 — Message on Senate action sent to the House.
+- 2014-01-15 — Received in the House.
+- 2014-01-15 — Referred to the House Committee on Veterans' Affairs.
