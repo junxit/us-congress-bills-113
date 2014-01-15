@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3547
 congress: 113
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 3547
@@ -26,10 +26,12 @@ Consolidated Appropriations Act, 2014
 
 - House — Science, Space, and Technology Committee
 
-## Recorded votes (2)
+## Recorded votes (4)
 
 - 2013-12-02 — [House 113-1-612](votes/house-113-1-0612.md) — On Motion to Suspend the Rules and Pass — **Passed** (376–5)
 - 2014-01-15 — [House 113-2-21](votes/house-113-2-0021.md) — Concurring in the Senate Amendments with an Amendment — **Passed** (359–67)
+- 2014-01-16 — [Senate 113-2-12](votes/senate-113-2-0012.md) — On the Cloture Motion — **Cloture Motion Agreed to** (72–26)
+- 2014-01-16 — [Senate 113-2-13](votes/senate-113-2-0013.md) — On the Motion — **Motion Agreed to** (72–26)
 
 ## Actions
 
@@ -60,3 +62,17 @@ Consolidated Appropriations Act, 2014
 - 2014-01-15 — On motion that the House agree to the Senate amendment to the title and agree to the Senate amendment to the text with an amendment Agreed to by the Yeas and Nays: 359 - 67 (Roll No. 21).
 - 2014-01-15 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment to the title and agree to the Senate amendment to the text with an amendment Agreed to by the Yeas and Nays: 359 - 67 (Roll No. 21).
 - 2014-01-15 — The previous question was ordered pursuant to the rule. (consideration: CR H451-452)
+- 2014-01-16 — Cloture on the motion to concur in the House amendment to the Senate amendment invoked in Senate by Yea-Nay Vote. 72 - 26. Record Vote Number: 12. (consideration: CR S424-425; text: CR S424-425)
+- 2014-01-16 — Considered by Senate. (consideration: CR S385-425)
+- 2014-01-16 — Motion by Senator Reid to refer to Senate Committee on Appropriations the House message to accompany the bill with instructions to report back forthwith with amendment SA 2657 rendered moot  when cloture was invoked on the motion to concur in the House amendment to the Senate amendment in Senate. (consideration: CR S385)
+- 2014-01-16 — Motion to concur in the House amendment to the Senate amendment with amendment SA 2655 withdrawn. (consideration: CR S425)
+- 2014-01-16 — Pursuant to the provisions of H. Con. Res. 74, enrollment corrections on H.R. 3547 have been made.
+- 2014-01-16 — Resolving differences -- Senate actions: Senate concurred in the House amendment to the Senate amendment Yea-Nay Vote. 72 - 26. Record Vote Number: 13.(consideration: CR S425)
+- 2014-01-16 — Senate concurred in the House amendment to the Senate amendment Yea-Nay Vote. 72 - 26. Record Vote Number: 13. (consideration: CR S425)
+- 2014-01-17 — Became Public Law No: 113-76.
+- 2014-01-17 — Became Public Law No: 113-76.
+- 2014-01-17 — Message on Senate action sent to the House.
+- 2014-01-17 — Presented to President.
+- 2014-01-17 — Presented to President.
+- 2014-01-17 — Signed by President.
+- 2014-01-17 — Signed by President.

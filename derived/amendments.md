@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3547
 congress: 113
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 

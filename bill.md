@@ -1,17 +1,13 @@
 ---
 legis-num: H.R. 3547
-congress: 113th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 3547
 
-That the House concur in the Senate amendment to the title of the bill (H.R. 3547) entitled “An Act to extend the application of certain space launch liability provisions through 2014.”, and be it further
-
-That the House agree to the amendment of the Senate to the text of the aforementioned bill, with the following
-
-*In lieu of the matter proposed to be inserted by the Senate, insert the following:*
+> Making consolidated appropriations for the fiscal year ending September 30, 2014, and for other purposes.
 
 ## § 1. Short title
 
