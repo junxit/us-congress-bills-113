@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3362
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,4 +35,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 18031` | replace | in subparagraph (B), by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 18031` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 18031` | add-at-end | Section 1311(i) of the Patient Protection and Affordable Care Act (42 U.S.C. 18031(i)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 18032` | add-at-end | Section 1312(e) of the Patient Protection and Affordable Care Act (42 U.S.C. 18032(e)) is amended by adding at the end the following flush sentence: “Not later that 5 days after the date of the enactment of the Exchange Information Discl… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 18032` | add-at-end | Section 1312(e) of the Patient Protection and Affordable Care Act (42 U.S.C. 18032(e)) is amended by adding at the end the following flush sentence: “Not later than 5 days after the date of the enactment of the Exchange Information Discl… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
