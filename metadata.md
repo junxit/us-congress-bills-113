@@ -1,7 +1,7 @@
 ---
 measure: H.R. 908
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 908
@@ -30,3 +30,11 @@ Green Mountain Lookout Heritage Protection Act
 - 2013-02-28 — Introduced in House
 - 2013-02-28 — Referred to the House Committee on Natural Resources.
 - 2013-02-28 — Sponsor introductory remarks on measure. (CR E222)
+- 2013-03-04 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2013-07-23 — Subcommittee Hearings Held.
+- 2013-07-31 — Committee Consideration and Mark-up Session Held.
+- 2013-07-31 — Ordered to be Reported by Unanimous Consent.
+- 2013-07-31 — Subcommittee on Public Lands and Environmental Regulation Discharged.
+- 2014-01-23 — Placed on the Union Calendar, Calendar No. 244.
+- 2014-01-23 — Reported by the Committee on Natural Resources. H. Rept. 113-328.
+- 2014-01-23 — Reported by the Committee on Natural Resources. H. Rept. 113-328.
