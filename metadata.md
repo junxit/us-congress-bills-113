@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1308
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1308
@@ -32,3 +32,11 @@ Endangered Salmon and Fisheries Predation Prevention Act
 - 2013-03-21 — Introduced in House
 - 2013-03-21 — Introduced in House
 - 2013-03-21 — Referred to the House Committee on Natural Resources.
+- 2013-04-11 — Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.
+- 2013-06-13 — Subcommittee Hearings Held.
+- 2013-11-14 — Committee Consideration and Mark-up Session Held.
+- 2013-11-14 — Ordered to be Reported by the Yeas and Nays: 22 - 16.
+- 2013-11-14 — Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.
+- 2014-01-23 — Placed on the Union Calendar, Calendar No. 246.
+- 2014-01-23 — Reported by the Committee on Natural Resources. H. Rept. 113-330.
+- 2014-01-23 — Reported by the Committee on Natural Resources. H. Rept. 113-330.
