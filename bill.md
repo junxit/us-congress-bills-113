@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Good Samaritan Search and Recovery Act of 2013”.
+This Act may be cited as the “Good Samaritan Search and Recovery Act”.
 
 ## § 2. Expedited access to certain Federal lands
 

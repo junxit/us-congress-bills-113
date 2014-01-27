@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2166
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2166
@@ -27,6 +27,10 @@ Good Samaritan Search and Recovery Act
 - House — Agriculture Committee
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2014-01-27 — [House 113-2-24](votes/house-113-2-0024.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (394–0)
+
 ## Actions
 
 - 2013-05-23 — Introduced in House
@@ -44,3 +48,10 @@ Good Samaritan Search and Recovery Act
 - 2014-01-23 — Placed on the Union Calendar, Calendar No. 247.
 - 2014-01-23 — Reported by the Committee on Natural Resources. H. Rept. 113-331, Part I.
 - 2014-01-23 — Reported by the Committee on Natural Resources. H. Rept. 113-331, Part I.
+- 2014-01-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-01-27 — Considered as unfinished business. (consideration: CR H1259-1260)
+- 2014-01-27 — Considered under suspension of the rules. (consideration: CR H1255-1257)
+- 2014-01-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2166.
+- 2014-01-27 — Mrs. Lummis moved to suspend the rules and pass the bill, as amended.
+- 2014-01-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 0 (Roll no. 24). (text: CR H1255)
+- 2014-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 0 (Roll no. 24).(text: CR H1255)
