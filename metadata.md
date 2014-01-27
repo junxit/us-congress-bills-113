@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3362
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3362
@@ -28,10 +28,11 @@ Exchange Information Disclosure Act
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 - Rep. Stockman, Steve [R-TX-36] (S000937)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (2)
 
@@ -64,3 +65,4 @@ Exchange Information Disclosure Act
 - 2014-01-16 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1227)
 - 2014-01-16 — The previous question was ordered pursuant to the rule. (consideration: CR H1226: text: CR H1226)
 - 2014-01-16 — The resolution provides for consideration of H.R. 2279, H.R. 3362, and H.R. 3811. In each case, general debate shall be confined to one hour and one motion to recommit is allowed. The resolution specifies certain amendments are in order for H.R. 2279. Further amendments to H.R. 3362 and H.R. 3811 are not in order.
+- 2014-01-27 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
