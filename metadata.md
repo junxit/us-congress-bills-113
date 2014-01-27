@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 75
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 75
@@ -26,3 +26,4 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2014-01-16 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.
 - 2014-01-27 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S491)
 - 2014-01-27 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S491)
+- 2014-01-28 — Message on Senate action sent to the House.
