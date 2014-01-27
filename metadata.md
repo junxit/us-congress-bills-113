@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1684
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1684
@@ -33,3 +33,8 @@ Ranch A Consolidation and Management Improvement Act
 - 2013-09-10 — Placed on the Union Calendar, Calendar No. 145.
 - 2013-09-10 — Reported by the Committee on Natural Resources. H. Rept. 113-198.
 - 2013-09-10 — Reported by the Committee on Natural Resources. H. Rept. 113-198.
+- 2014-01-27 — Considered under suspension of the rules. (consideration: CR H1257-1258)
+- 2014-01-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1684.
+- 2014-01-27 — Mrs. Lummis moved to suspend the rules and pass the bill.
+- 2014-01-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1257)
+- 2014-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1257)
