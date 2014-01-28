@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1684
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1684
@@ -16,9 +16,10 @@ Ranch A Consolidation and Management Improvement Act
 
 - Rep. Lummis, Cynthia M. [R-WY-At Large] (L000571)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Ranch A Consolidation and Management Improvement Act
 - 2014-01-27 — Mrs. Lummis moved to suspend the rules and pass the bill.
 - 2014-01-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1257)
 - 2014-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1257)
+- 2014-01-28 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
