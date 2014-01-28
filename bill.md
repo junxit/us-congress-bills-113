@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 3949
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3949
+
+> To amend the Internal Revenue Code of 1986 to extend for one year the enhanced charitable deduction for contributions of food inventory.
+
+## § 1. Extension of enhanced charitable deduction for contributions of food inventory
+
+- **(a)** *In general* Clause (iv) of section 170(e)(3)(C) of the Internal Revenue Code of 1986 is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
+- **(b)** *Effective date* The amendment made by this section shall apply to contributions made after December 31, 2013.
