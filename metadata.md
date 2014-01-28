@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 334
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 334
@@ -16,11 +16,20 @@ A resolution recognizing the goals of Catholic Schools Week and honoring the val
 
 - Sen. Vitter, David [R-LA] (V000127)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+
+## Committees (1)
+
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
 - 2014-01-16 — Introduced in Senate
 - 2014-01-16 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S448)
+- 2014-01-28 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2014-01-28 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2014-01-28 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S554)
+- 2014-01-28 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S554)
