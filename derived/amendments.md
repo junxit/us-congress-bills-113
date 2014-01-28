@@ -1,7 +1,7 @@
 ---
 measure: S. 611
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 1 executed, 1 stated and not applied.
+4 amendatory instructions. 2 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,15 @@ to guess them.
 | Removed | `conveyance` |
 | Inserted | `the title to be conveyed` |
 
+### 16 U.S.C. § 539m-11
+
+> in the first sentence of paragraph (4), by striking “conveyance” and inserting “title to be conveyed”; and
+
+| | |
+|---|---|
+| Removed | `conveyance` |
+| Inserted | `title to be conveyed` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -43,3 +52,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `16 U.S.C. § 539m-11` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 539m-11` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
