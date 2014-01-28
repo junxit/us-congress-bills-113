@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 7
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,5 +11,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “No Taxpayer Funding for Abortion Act”.
-- **(b)** *Table of contents* The table of contents for this Act is as follows:
+- **(a)** *Short title* This Act may be cited as the “No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2014”.
+- **(b)** *Table of contents* The table of contents of this Act is as follows:
