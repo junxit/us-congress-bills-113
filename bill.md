@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 3947
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3947
+
+> To amend the Internal Revenue Code of 1986 to extend for one year the work opportunity tax credit.
+
+## § 1. Extension of work opportunity tax credit
+
+- **(a)** *In general* Subparagraph (B) of section 51(c)(4) of the Internal Revenue Code of 1986 is amended by striking “December 31, 2013” and inserting “December 31, 2014”.
+- **(b)** *Effective date* The amendment made by this section shall apply to individuals who begin work for the employer after December 31, 2013.
