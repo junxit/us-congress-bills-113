@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2166
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2166
@@ -22,10 +22,11 @@ Good Samaritan Search and Recovery Act
 - Rep. Moran, James P. [D-VA-8] (M000933)
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ Good Samaritan Search and Recovery Act
 - 2014-01-27 — Mrs. Lummis moved to suspend the rules and pass the bill, as amended.
 - 2014-01-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 0 (Roll no. 24). (text: CR H1255)
 - 2014-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 0 (Roll no. 24).(text: CR H1255)
+- 2014-01-28 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
