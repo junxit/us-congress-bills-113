@@ -2,14 +2,14 @@
 legis-num: H. RES. 465
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 465
 
 > Providing for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions, and providing for consideration of the conference report to accompany the bill (H.R. 2642) to provide for the reform and continuation of agricultural and other programs of the Department of Agriculture through fiscal year 2018, and for other purposes.
 
-That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 7) to prohibit taxpayer funded abortions. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-33 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided among and controlled by the chair and ranking minority member of the Committee on the Judiciary, the chair and ranking minority member of the Committee on Ways and Means, and the chair and ranking minority member of the Committee on Energy and Commerce; and (2) one motion to recommit with or without instructions.
+That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 7) to prohibit taxpayer funded abortions. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 113–33 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided among and controlled by the chair and ranking minority member of the Committee on the Judiciary, the chair and ranking minority member of the Committee on Ways and Means, and the chair and ranking minority member of the Committee on Energy and Commerce; and (2) one motion to recommit with or without instructions.
 
 ## § 2.
 
