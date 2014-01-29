@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 29
 congress: 113
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 29
@@ -29,3 +29,7 @@ A joint resolution providing for the appointment of Risa Lavizzo-Mourey as a cit
 
 - 2013-12-11 — Introduced in Senate
 - 2013-12-11 — Read twice and referred to the Committee on Rules and Administration.
+- 2014-01-29 — Passed Senate without amendment by Unanimous Consent. (text: CR S607)
+- 2014-01-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S607)
+- 2014-01-29 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S607)
+- 2014-01-29 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S607)
