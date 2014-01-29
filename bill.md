@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2799
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Sportsmen’s Heritage And Recreational Enhancement (SHARE) Act”.
+This Act may be cited as the “Sportsmen’s Heritage And Recreational Enhancement Act” or the “SHARE Act” .
 
 ## § 2. Wildlife and Hunting Heritage Conservation Council Advisory Committee
 
@@ -49,6 +49,7 @@ The Fish and Wildlife Coordination Act (16 U.S.C. 661 et seq.) is amended by add
 >       - **(viii)** Tribal resource management organizations.
 >       - **(ix)** The agriculture industry.
 >       - **(x)** The ranching industry.
+>       - **(xi)** Waterfowl hunting organizations.
 >     - **(D)** *Eligibility* Prior to the appointment of the discretionary members, the Secretaries shall determine that all individuals nominated for appointment to the Advisory Committee, and the organization each individual represents, actively support and promote sustainable-use hunting, wildlife conservation, and recreational shooting.
 >   - **(2)** *Terms*
 >     - **(A)** *In general* Except as provided in subparagraph (B), members of the Advisory Committee shall be appointed for a term of 4 years. Members shall not be appointed for more than 3 consecutive or nonconsecutive terms.
@@ -62,7 +63,7 @@ The Fish and Wildlife Coordination Act (16 U.S.C. 661 et seq.) is amended by add
 >     - **(B)** *Removal* Advisory Committee members shall serve at the discretion of the Secretaries and may be removed at any time for good cause.
 >   - **(5)** *Continuation of service* Each appointed member may continue to serve after the expiration of the term of office to which such member was appointed until a successor has been appointed.
 >   - **(6)** *Chairperson* The Chairperson of the Advisory Committee shall be appointed for a 3-year term by the Secretaries, jointly, from among the members of the Advisory Committee. An individual may not be appointed as Chairperson for more than 2 consecutive or nonconsecutive terms.
->   - **(7)** *Pay and expenses* Members of the Advisory Committee shall serve without pay for such service, but each member of the Advisory Committee shall be reimbursed for travel and lodging incurred through attending meetings of the Advisory Committee approved subgroup meetings in the same amounts and under the same conditions as Federal employees (in accordance with section 5703 of title 5, United States Code).
+>   - **(7)** *Pay and expenses* Members of the Advisory Committee shall serve without pay for such service, but each member of the Advisory Committee may be reimbursed for travel and lodging incurred through attending meetings of the Advisory Committee approved subgroup meetings in the same amounts and under the same conditions as Federal employees (in accordance with section 5703 of title 5, United States Code).
 >   - **(8)** *Meetings*
 >     - **(A)** *In general* The Advisory Committee shall meet at the call of the Secretaries, the chairperson, or a majority of the members, but not less frequently than twice annually.
 >     - **(B)** *Open meetings* Each meeting of the Advisory Committee shall be open to the public.
