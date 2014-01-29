@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7
@@ -190,11 +190,12 @@ No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2
 - Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
 - Rep. Graves, Tom [R-GA-14] (G000560)
 
-## Committees (3)
+## Committees (4)
 
 - House — Judiciary Committee
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Recorded votes (2)
 
@@ -236,3 +237,4 @@ No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2
 - 2014-01-28 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1471)
 - 2014-01-28 — The previous question was ordered pursuant to the rule. (consideration: CR H1470)
 - 2014-01-28 — The resolution provides for consideration of H.R. 7, under a closed rule with one hour of debate on the bill. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-33 shall be considered as adopted. Also the rule provides for consideration of the conference report to accompany H.R. 2642.
+- 2014-01-29 — Received in the Senate and Read twice and referred to the Committee on Finance.
