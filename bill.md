@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1417
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -19,9 +19,17 @@ chamber: IN THE SENATE OF THE UNITED STATES
 Section 1109 of the Public Health Service Act (42 U.S.C. 300b–8) is amended—
 
 - **(1)** in subsection (a)—
-  - **(A)** in the matter preceding paragraph (1), by striking “and in consultation with the Advisory Committee” and inserting “and taking into consideration the recommendations of the Advisory Committee”;
-  - **(B)** in paragraph (2), by striking “screening and training” and inserting “screening, counseling, and training”; and
-  - **(C)** in paragraph (4), by striking “treatment” and inserting “follow-up and treatment”;
+  - **(A)** in the matter preceding paragraph (1)—
+    - **(i)** by striking “subsection (j)” and inserting “section 1117”; and
+    - **(ii)** by striking “and in consultation with the Advisory Committee” and inserting “and taking into consideration the expertise of the Advisory Committee”;
+  - **(B)** in paragraph (2), by striking “screening and training” and inserting “screening, counseling, and training”;
+  - **(C)** in paragraph (3), by striking “and” at the end;
+  - **(D)** in paragraph (4)—
+    - **(i)** by striking “treatment” and inserting “follow-up and treatment”; and
+    - **(ii)** by striking the period and inserting “; and”; and
+  - **(E)** by adding at the end the following:
+    > - **(5)** to improve the timely collection, delivery, receipt, and screening of specimens, and the timely diagnosis of heritable disorders in newborns.
+
 - **(2)** in subsection (h), by striking “subsection (c)(2)” each place that such appears and inserting “subsection (c)”; and
 - **(3)** by striking subsection (j) (relating to authorization of appropriations).
 
@@ -30,23 +38,18 @@ Section 1109 of the Public Health Service Act (42 U.S.C. 300b–8) is amended—
 Section 1110 of the Public Health Service Act (42 U.S.C. 300b–9) is amended—
 
 - **(1)** in the section heading, by inserting “and follow-up” after “child screening”;
-- **(2)** in subsection (a), by inserting “follow-up,” after “the effectiveness of screening,”;
+- **(2)** in subsection (a), by striking “of screening,” and inserting “, including with respect to timeliness, of screening, follow-up,”;
 - **(3)** in subsection (b)—
-  - **(A)** in paragraph (1), by inserting “ascertainment, treatment,” after “the effectiveness of screening, counseling,”;
+  - **(A)** in paragraph (1)—
+    - **(i)** by striking “counseling, testing” and inserting “treatment, counseling, testing, follow-up,”; and
+    - **(ii)** by inserting before the semicolon the following: “, including, as appropriate, through the assessment of health and development outcomes for such children through adolescence”;
   - **(B)** in paragraph (2)—
-    - **(i)** by inserting “ascertainment, treatment,” after “the effectiveness of screening, counseling,”; and
+    - **(i)** by striking “counseling, testing” and inserting “treatment, counseling, testing, follow-up,”; and
     - **(ii)** by striking “or” at the end;
   - **(C)** in paragraph (3), by striking the period at the end and inserting a semicolon; and
   - **(D)** by adding at the end the following:
-    > - **(4)** the availability and effectiveness of follow-up care for newborns and their families after screening and diagnosis;
-    > - **(5)** the costs and effectiveness of newborn screening, evaluation and intervention programs, and surveillance systems conducted by State-based programs in order to answer issues of importance to State and national policymakers;
-    > - **(6)** the effectiveness of newborn screening follow-up and intervention programs through the assessment of the health and development of children at school age and as young adults;
-    > - **(7)** the level of data sharing regarding newborn screening with State-based birth defects and developmental disabilities monitoring programs;
-    > - **(8)** the coordination of surveillance activities, including—
-    >   - **(A)** standardized data collection and reporting; and
-    >   - **(B)** use of electronic health records;
-    > - **(9)** the facilitation of quality improvement in treatment and disease management based on gaps in services or care identified by longitudinal tracking systems; and
-    > - **(10)** the utilization of data from longitudinal tracking systems to support the development and evaluation of evidence-based guidelines for diagnosis, treatment, and disease management.
+    > - **(4)** methods that may be identified to improve quality in the diagnosis, treatment, and disease management of heritable disorders based on gaps in services or care; or
+    > - **(5)** methods or best practices by which the eligible entities described in section 1109 can achieve the timely collection, delivery, receipt, and screening of newborn screening specimens, and the timely diagnosis of heritable disorders in newborns.
 
 - **(4)** by striking subsection (d) (relating to authorization of appropriations).
 
@@ -55,32 +58,34 @@ Section 1110 of the Public Health Service Act (42 U.S.C. 300b–9) is amended—
 Section 1111 of the Public Health Service Act (42 U.S.C. 300b–10) is amended—
 
 - **(1)** in subsection (b)—
-  - **(A)** in paragraph (4), by striking “public health impact” and inserting “public health impact, including the cost”; and
-  - **(B)** in paragraph (6)—
+  - **(A)** by redesignating paragraphs (4) through (6) as paragraphs (5) through (7), respectively;
+  - **(B)** by inserting after paragraph (3), the following:
+    > - **(4)** provide technical assistance, as appropriate, to individuals and organizations regarding the submission of nominations to the uniform screening panel, including prior to the submission of such nominations;
+
+  - **(C)** in paragraph (5) (as so redesignated), by inserting “, including the cost” after “public health impact”; and
+  - **(D)** in paragraph (7) (as so redesignated)—
     - **(i)** in subparagraph (A), by striking “achieve rapid diagnosis” and inserting “achieve best practices in rapid diagnosis and appropriate treatment”;
     - **(ii)** in subparagraph (D), by inserting before the semicolon “, including information on cost and incidence”;
-    - **(iii)** in subparagraph (J), by striking “and” at the end; and
-    - **(iv)** in subparagraph (K), by striking the period and inserting “; and”;
+    - **(iii)** in subparagraph (J), by striking “and” at the end;
+    - **(iv)** in subparagraph (K), by striking the period and inserting “; and”; and
+    - **(v)** by adding at the end the following:
+      > - **(L)** the timely collection, delivery, receipt, and screening of specimens to be tested for heritable disorders in newborns in order to ensure rapid diagnosis and follow-up.
+
 - **(2)** in subsection (d)—
-  - **(A)** in paragraph (1), by striking “180” and inserting “60”;
-  - **(B)** in paragraph (2), by striking “Newborn Screening Saves Lives Act of 2008” and insert “Newborn Screening Saves Lives Reauthorization Act of 2013”; and
-  - **(C)** by adding at the end the following:
-    > - **(4)** *Priority review*
-    >   - **(A)** *In general* For each nomination to the recommended uniform screening panel that meets the criteria of subparagraph (B), the Advisory Committee on Heritable Disorders in Newborns and Children shall provide a priority review as described in this paragraph and subject to the deadlines in subparagraph (C).
-    >   - **(B)** *Criteria for priority review* The Advisory Committee on Heritable Disorders in Newborns and Children shall provide a priority review with respect to a nomination to the recommended uniform screening panel that meets each of the following criteria:
-    >     - **(i)** A human drug application, as defined in section 735(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379g(1)), has been submitted to the Secretary for treatment of such disease or condition.
-    >     - **(ii)** The application described in clause (i) has been granted priority review or has received fast track or breakthrough therapy designations by the Secretary as described in section 529(a)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360ff(a)(1)).
-    >   - **(C)** *Deadlines for priority review* The Advisory Committee on Heritable Disorders in Newborns and Children shall vote on the nominated condition that is under priority review within 8 months of the later of—
-    >     - **(i)** the date on which the Advisory Committee refers the nomination to the condition review workgroup; or
-    >     - **(ii)** the date of the approval, by the Food and Drug Administration, of the treatment associated with the nomination to the recommended uniform screening panel.
-    >   - **(D)** *Failure to act* If the Secretary fails to act on a recommendation within the time period provided for in paragraph (1), the Secretary shall adopt the recommendation and include the screening recommended by the Advisory Committee on Heritable Disorders in Newborns and Children in the recommended uniform screening panel.
-    >   - **(E)** *Other reviews* For each nomination to the recommended uniform screening panel that does not meet the criteria of subparagraph (B), the Advisory Committee on Heritable Disorders in Newborns and Children shall provide for a review and vote on the nominated condition that is under review within 10 months of the date on which the Advisory Committee referred the nomination to the condition review workgroup.
+  - **(A)** in paragraph (1)—
+    - **(i)** by striking “180” and inserting “120”; and
+    - **(ii)** by adding at the end the following: “If the Secretary is unable to make a determination to adopt or reject such recommendation within such 120-day period, the Secretary shall notify the Advisory Committee and the appropriate committees of Congress of such determination together with an explanation for why the Secretary was unable to comply within such 120-day period, as well as a plan of action for consideration of such pending recommendations.”;
+  - **(B)** by striking paragraph (2);
+  - **(C)** by redesignating paragraph (3) as paragraph (2); and
+  - **(D)** by adding at the end the following:
+    > - **(3)** *Deadline for review* For each nomination to the recommended uniform screening panel, the Advisory Committee on Heritable Disorders in Newborns and Children shall review and vote on the nominated condition within 9 months of the date on which the Advisory Committee referred the nomination to the condition review workgroup.
 
 - **(3)** by redesignating subsections (f) and (g) as subsections (g) and (h), respectively;
 - **(4)** by inserting after subsection (e) the following new subsection:
-  > - **(f)** *Meetings* The Advisory Committee shall meet at least 4 times each calendar year with at least 2 meetings in person.
+  > - **(f)** *Meetings* The Advisory Committee shall meet at least 4 times each calendar year, or as subject to the discretion of the Designated Federal Officer in consultation with the Chair.
 
-- **(5)** by striking subsection (h) (relating to authorization of appropriations), as redesignated by paragraph (2).
+- **(5)** in subsection (g) (as so redesignated), by striking “Newborn Screening Saves Lives Act of 2008” and inserting “Newborn Screening Saves Lives Reauthorization Act of 2013”; and
+- **(6)** by striking subsection (h) (relating to authorization of appropriations), as redesignated by paragraph (3).
 
 ## § 5. Clearinghouse of Newborn Screening Information
 
@@ -88,38 +93,42 @@ Section 1112 of the Public Health Service Act (42 U.S.C. 300b–11) is amended�
 
 - **(1)** in subsection (a)—
   - **(A)** in paragraph (2), by striking “; and” and inserting a semicolon;
-  - **(B)** in paragraph (3), by striking the period at the end and inserting a semicolon; and
+  - **(B)** in paragraph (3)—
+    - **(i)** by striking “data” and inserting “information”; and
+    - **(ii)** by striking the period at the end and inserting a semicolon; and
   - **(C)** by adding at the end the following new paragraphs:
-    > - **(4)** maintain current data on the number of conditions for which screening is conducted in each State; and
-    > - **(5)** disseminate available evidence-informed guidelines related to diagnosis, counseling, and treatment with respect to conditions detected by newborn screening.
+    > - **(4)** maintain current information on the number of conditions for which screening is conducted in each State; and
+    > - **(5)** disseminate available evidence-based guidelines related to diagnosis, counseling, and treatment with respect to conditions detected by newborn screening.
 
-- **(2)** in subsection (b)(4)(D), by striking “Newborn Screening Saves Lives Act of 2008” and inserting “Newborn Screening Saves Lives Reauthorization Act of 2013”; and
-- **(3)** by striking subsection (d) (relating to authorization of appropriations).
+- **(2)** in subsection (b)(4)(D), by striking “Newborn Screening Saves Lives Act of 2008” and inserting “Newborn Screening Saves Lives Reauthorization Act of 2013”;
+- **(3)** in subsection (c)—
+  - **(A)** by striking “developing the clearinghouse” and inserting “carrying out activities”; and
+  - **(B)** by striking “clearinghouse minimizes” and inserting “activities minimize”; and
+- **(4)** by striking subsection (d) (relating to authorization of appropriations).
 
-## § 6. Laboratory quality
+## § 6. Laboratory quality and surveillance
 
 Section 1113 of the Public Health Service Act (42 U.S.C. 300b–12) is amended—
 
-- **(1)** in subsection (a)—
-  - **(A)** by striking the subsection enumerator and heading; and
-  - **(B)** by striking “and in consultation with the Advisory Committee” and inserting “and taking into consideration the recommendations of the Advisory Committee”; and
-- **(2)** by striking subsection (b) (relating to authorization of appropriations).
+- **(1)** in the section heading, by inserting “and surveillance” before the period;
+- **(2)** in subsection (a)—
+  - **(A)** by striking the subsection enumerator and heading;
+  - **(B)** in the matter preceding paragraph (1), by striking “and in consultation with the Advisory Committee” and inserting “and taking into consideration the expertise of the Advisory Committee”;
+  - **(C)** in paragraph (1)—
+    - **(i)** by inserting “timeliness for processing such tests,” after “newborn screening tests”; and
+    - **(ii)** by striking “and” at the end; and
+  - **(D)** in paragraph (2), by striking the period and inserting “; and”; and
+- **(3)** by striking subsection (b) (relating to authorization of appropriations) and inserting the following:
+  > - **(b)** *Surveillance activities* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, and taking into consideration the expertise of the Advisory Committee on Heritable Disorders in Newborns and Children established under section 1111, may provide, as appropriate, for the coordination of surveillance activities, including—
+  >   - **(1)** through standardized data collection and reporting, as well as the use of electronic health records; and
+  >   - **(2)** by promoting data sharing regarding newborn screening with State-based birth defects and developmental disabilities monitoring programs.
 
 ## § 7. Interagency Coordinating Committee on Newborn and Child Screening
 
 Section 1114 of the Public Health Service Act (42 U.S.C. 300b–13) is amended—
 
 - **(1)** in subsection (c), by striking “the Administrator, the Director of the Agency for Healthcare Research and Quality” and inserting “the Administrator of the Health Resources and Services Administration, the Director of the Agency for Healthcare Research and Quality, the Commissioner of Food and Drugs,”; and
-- **(2)** by striking subsection (e) (relating to authorization of appropriations) and inserting the following:
-  > - **(e)** *Report to congress*
-  >   - **(1)** *In general* The Secretary shall—
-  >     - **(A)** not later than 1 year after the date of enactment of the Newborn Screening Saves Lives Reauthorization Act of 2013, submit to the Health, Education, Labor, and Pensions Committee of the Senate and the Energy and Commerce Committee of the House of Representatives a report on activities related to—
-  >       - **(i)** newborn screening; and
-  >       - **(ii)** screening children who have or are at risk for heritable disorders; and
-  >     - **(B)** not less than every 2 years, shall submit to such committees an updated version of such report.
-  >   - **(2)** *Contents* The report submitted under subsection (a) shall contain a description of—
-  >     - **(A)** the implementation of sections 1111 through 1116B, including this section; and
-  >     - **(B)** the amounts expended on such implementation.
+- **(2)** by striking subsection (e) (relating to authorization of appropriations).
 
 ## § 8. National contingency plan for newborn screening
 
@@ -132,7 +141,7 @@ Section 1116(a)(1) of the Public Health Service Act (42 U.S.C. 300b–15(a)(1)) 
 - **(1)** in subparagraph (B), by striking “; and” and inserting a semicolon;
 - **(2)** by redesignating subparagraph (C) as subparagraph (E); and
 - **(3)** by inserting after subparagraph (B) the following:
-  > - **(C)** providing research and data for newborn conditions under review by the Advisory Committee on Heritable Disorders in Newborns and Children to be added to the recommended uniform screening panel;
+  > - **(C)** by providing research findings and data for newborn conditions under review by the Advisory Committee on Heritable Disorders in Newborns and Children to be added to the recommended uniform screening panel;
   > - **(D)** conducting pilot studies on conditions recommended by the Advisory Committee on Heritable Disorders in Newborns and Children to ensure that screenings are ready for nationwide implementation; and
 
 ## § 10. Authorization of appropriations
@@ -145,3 +154,21 @@ Part A of title XI of the Public Health Service Act is amended by adding at the 
 >
 > - **(1)** to carry out sections 1109, 1110, 1111, and 1112, $18,334,000 for each of fiscal years 2014 through 2018; and
 > - **(2)** to carry out section 1113, $7,500,000 for each of fiscal years 2014 through 2018.
+
+## § 11. Reports to Congress
+
+- **(a)** *GAO report on timeliness of newborn screening*
+  - **(1)** *In general* Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall submit a report to the Committee on Health, Education, Labor and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives concerning the timeliness of screening for heritable disorders in newborns.
+  - **(2)** *Contents* The report submitted under paragraph (1) shall include the following:
+    - **(A)** An analysis of information regarding the timeliness of newborn screening, which may include the time elapsed from birth to specimen collection, specimen collection to receipt by laboratory, specimen receipt to reporting, reporting to follow-up testing, and follow-up testing to confirmed diagnosis.
+    - **(B)** A summary of any guidelines, recommendations, or best practices available to States and health care providers intended to support a timely newborn screening system.
+    - **(C)** An analysis of any barriers to maintaining a timely newborn screening system which may exist and recommendations for addressing such barriers.
+- **(b)** *Report by Secretary*
+  - **(1)** *In general* The Secretary of Health and Human Services shall—
+    - **(A)** not later than 1 year after the date of enactment of the Newborn Screening Saves Lives Reauthorization Act of 2013, submit to the Committee on Health, Education, Labor and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on activities related to—
+      - **(i)** newborn screening; and
+      - **(ii)** screening children who have or are at risk for heritable disorders; and
+    - **(B)** not less than every 2 years, shall submit to such committees an updated version of such report.
+  - **(2)** *Contents* The report submitted under this subsection shall contain a description of—
+    - **(A)** the ongoing activities under sections 1109, 1110, and 1112 through 1115 of the Public Health Service Act; and
+    - **(B)** the amounts expended on such activities.
