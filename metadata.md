@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3675
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3675
@@ -29,3 +29,7 @@ Federal Communications Commission Process Reform Act of 2014
 - 2013-12-09 — Introduced in House
 - 2013-12-09 — Introduced in House
 - 2013-12-09 — Referred to the House Committee on Energy and Commerce.
+- 2013-12-10 — Committee Consideration and Mark-up Session Held.
+- 2014-01-31 — Placed on the Union Calendar, Calendar No. 251.
+- 2014-01-31 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-338.
+- 2014-01-31 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-338.
