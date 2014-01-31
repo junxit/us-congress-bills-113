@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 28
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.J.Res. 28
@@ -37,3 +37,16 @@ A joint resolution providing for the appointment of John Fahey as a citizen rege
 - 2014-01-30 — Message on Senate action sent to the House.
 - 2014-01-31 — Received in the House.
 - 2014-01-31 — Referred to the House Committee on House Administration.
+- 2014-02-11 — Committee on House Administration discharged.
+- 2014-02-11 — Committee on House Administration discharged.
+- 2014-02-11 — Considered by unanimous consent. (consideration: CR H1759)
+- 2014-02-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-02-11 — Mr. Harper asked unanimous consent to discharge from committee and consider.
+- 2014-02-11 — On passage Passed without objection. (text: CR H1759)
+- 2014-02-11 — Passed/agreed to in House: On passage Passed without objection.(text: CR H1759)
+- 2014-02-14 — Presented to President.
+- 2014-02-14 — Presented to President.
+- 2014-02-21 — Became Public Law No: 113-84.
+- 2014-02-21 — Became Public Law No: 113-84.
+- 2014-02-21 — Signed by President.
+- 2014-02-21 — Signed by President.
