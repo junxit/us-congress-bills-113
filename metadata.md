@@ -1,7 +1,7 @@
 ---
 measure: S. 1417
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1417
@@ -35,9 +35,10 @@ Newborn Screening Saves Lives Reauthorization Act of 2013
 - Sen. Alexander, Lamar [R-TN] (A000360)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -49,3 +50,6 @@ Newborn Screening Saves Lives Reauthorization Act of 2013
 - 2013-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 282.
 - 2014-01-29 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S605-607; text as passed Senate: CR S605-607)
 - 2014-01-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S605-607; text as passed Senate: CR S605-607)
+- 2014-01-30 — Message on Senate action sent to the House.
+- 2014-01-31 — Received in the House.
+- 2014-01-31 — Referred to the House Committee on Energy and Commerce.

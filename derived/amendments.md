@@ -1,7 +1,7 @@
 ---
 measure: S. 1417
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
@@ -194,7 +194,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 300b-9` | insert | by inserting before the semicolon the following: “, including, as appropriate, through the assessment of health and development outcomes for such children through adolescence”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-9` | strike | by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 300b-9` | replace | in paragraph (3), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300b-9` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-9` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-9` | strike | by striking subsection (d) (relating to authorization of appropriations). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-10` | redesignate | by redesignating paragraphs (4) through (6) as paragraphs (5) through (7), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-10` | insert | by inserting after paragraph (3), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -206,13 +206,13 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 300b-10` | add-at-end | by adding at the end the following: “If the Secretary is unable to make a determination to adopt or reject such recommendation within such 120-day period, the Secretary shall notify the Advisory Committee and the appropriate committees o… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-10` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-10` | redesignate | by redesignating paragraph (3) as paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300b-10` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-10` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-10` | redesignate | by redesignating subsections (f) and (g) as subsections (g) and (h), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-10` | insert | by inserting after subsection (e) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-10` | redesignate | by striking subsection (h) (relating to authorization of appropriations), as redesignated by paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-11` | replace | in paragraph (2), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 300b-11` | replace | by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300b-11` | amend | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-11` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-11` | strike | by striking subsection (d) (relating to authorization of appropriations). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-12` | insert | in the section heading, by inserting “and surveillance” before the period; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300b-12` | strike | by striking the subsection enumerator and heading; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
