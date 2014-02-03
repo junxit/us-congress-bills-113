@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1791
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1791
@@ -27,6 +27,10 @@ Medical Preparedness Allowable Use Act
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2014-02-03 — [House 113-2-32](votes/house-113-2-0032.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (391–2)
+
 ## Actions
 
 - 2013-04-26 — Introduced in House
@@ -39,3 +43,9 @@ Medical Preparedness Allowable Use Act
 - 2013-11-21 — Placed on the Union Calendar, Calendar No. 194.
 - 2013-11-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-273.
 - 2013-11-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-273.
+- 2014-02-03 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-02-03 — Considered as unfinished business. (consideration: CR H1526-1527)
+- 2014-02-03 — Considered under suspension of the rules. (consideration: CR H1518-1520)
+- 2014-02-03 — Mrs. Brooks (IN) moved to suspend the rules and pass the bill, as amended.
+- 2014-02-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 2 (Roll no. 32). (text: CR H1518)
+- 2014-02-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 2 (Roll no. 32).(text: CR H1518)
