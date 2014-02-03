@@ -1,7 +1,7 @@
 ---
 measure: H.R. 357
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 357
@@ -73,6 +73,10 @@ GI Bill Tuition Fairness Act of 2014
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2014-02-03 — [House 113-2-33](votes/house-113-2-0033.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (390–0)
+
 ## Actions
 
 - 2013-01-23 — Introduced in House
@@ -87,3 +91,10 @@ GI Bill Tuition Fairness Act of 2014
 - 2013-06-03 — Placed on the Union Calendar, Calendar No. 66.
 - 2013-06-03 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-94.
 - 2013-06-03 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-94.
+- 2014-02-03 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-02-03 — Considered as unfinished business. (consideration: CR H1527-1528)
+- 2014-02-03 — Considered under suspension of the rules. (consideration: CR H1520-1526)
+- 2014-02-03 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
+- 2014-02-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 33). (text: CR H1520-1522)
+- 2014-02-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 33).(text: CR H1520-1522)
+- 2014-02-03 — The title of the measure was amended. Agreed to without objection.

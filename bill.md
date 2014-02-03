@@ -1,64 +1,58 @@
 ---
 legis-num: H.R. 357
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 357
 
-> To amend title 38, United States Code, to require courses of education provided by public institutions of higher education that are approved for purposes of the educational assistance programs administered by the Secretary of Veterans Affairs to charge veterans tuition and fees at the in-State tuition rate.
+> To amend title 38, United States Code, to require courses of education provided by public institutions of higher education that are approved for purposes of the educational assistance programs administered by the Secretary of Veterans Affairs to charge veterans tuition and fees at the in-State tuition rate, to make other improvements in the laws relating to benefits administered by the Secretary of Veterans Affairs, and for other purposes.
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “GI Bill Tuition Fairness Act of 2013”.
+- **(a)** *Short title* This Act may be cited as the “GI Bill Tuition Fairness Act of 2014”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. References to title 38, United States Code
 
 Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or a repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of title 38, United States Code.
 
-## § 3. Approval of courses of education provided by public educational institutions for purposes of educational assistance programs administered by Secretary of Veterans Affairs conditional on in-State tuition rate for veterans
+## § 3. Scoring of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+
+## § 4. Approval of courses of education provided by public institutions of higher education for purposes of All-Volunteer Force Educational Assistance Program and Post-9/11 Educational Assistance conditional on in-State tuition rate for veterans
 
 - **(a)** *In general* Section 3679 is amended by adding at the end the following new subsection:
-  > - **(c)** Notwithstanding any other provision of this subtitle, the Secretary or the Secretary’s designee shall disapprove a course of education provided by a public educational institution unless the institution charges tuition and fees for a veteran at up to the same rate as the institution charges for residents of the State in which the institution is located, regardless of the veteran’s State of residence. The Secretary shall notify the State approving agency of the Secretary’s disapproval of a course of education under this subsection.
+  > - **(c)**
+  >   - **(1)** Notwithstanding any other provision of this chapter and subject to paragraphs (3) through (6), the Secretary shall disapprove a course of education provided by a public institution of higher education to a covered individual pursuing a course of education with educational assistance under chapter 30 or 33 of this title while living in the State in which the public institution of higher education is located if the institution charges tuition and fees for that course for the covered individual at a rate that is higher than the rate the institution charges for tuition and fees for that course for residents of the State in which the institution is located, regardless of the covered individual’s State of residence.
+  >   - **(2)** For purposes of this subsection, a covered individual is a veteran who was discharged or released from a period of not fewer than 90 days of service in the active military, naval, or air service less than three years before the date of enrollment in the course concerned.
+  >   - **(3)** If after enrollment in a course of education that is subject to disapproval under paragraph (1) a covered individual pursues one or more courses of education at the same public institution of higher education while remaining continuously enrolled (other than during regularly scheduled breaks between courses, semesters or terms) at that institution of higher education, any course so pursued by the covered individual at that institution of higher education while so continuously enrolled shall also be subject to disapproval under paragraph (1).
+  >   - **(4)** It shall not be grounds to disapprove a course of education under paragraph (1) if a public institution of higher education requires a covered individual pursuing a course of education at the institution to demonstrate an intent, by means other than satisfying a physical presence requirement, to establish residency in the State in which the institution is located, or to satisfy other requirements not relating to the establishment of residency, in order to be charged tuition and fees for that course at a rate that is equal to or less than the rate the institution charges for tuition and fees for that course for residents of the State.
+  >   - **(5)** The Secretary may waive such requirements of paragraph (1) as the Secretary considers appropriate.
+  >   - **(6)** Disapproval under paragraph (1) shall apply only with respect to educational assistance under chapters 30 and 33 of this title.
 
-- **(b)** *Treatment of enrolled benefits recipients*
-  - **(1)** *In general* In the case of a veteran or eligible person who is enrolled before July 1, 2015, in a course of education provided by a public educational institution that was approved under chapter 36 of title 38, United States Code, at the time of the initial enrollment of the veteran or eligible person but that is disapproved by the Secretary of Veterans Affairs or the Secretary’s designee by reason of subsection (c) of section 3679 of such title, as added by subsection (a), the Secretary shall treat such institution as an institution that is approved under such chapter for purposes of the laws administered by the Secretary with respect to the veteran or eligible person until the veteran or eligible person completes the program of education in which the veteran or eligible person is enrolled.
-  - **(2)** *Termination*
-    - **(A)** *Limitation* Except as provided in subparagraph (B), the Secretary of Veterans Affairs may not treat such an institution as an approved institution under paragraph (1) after July 1, 2019.
-    - **(B)** *Waiver* The Secretary may waive the limitation under subparagraph (A) if the Secretary determines such a waiver is appropriate.
-- **(c)** *Effective date* Subsection (c) of section 3679 of title 38, United States Code, as added by subsection (a) shall apply with respect to educational assistance provided after July 1, 2015.
+- **(b)** *Effective date* Subsection (c) of section 3679 of title 38, United States Code (as added by subsection (a) of this section), shall apply with respect to educational assistance provided for pursuit of programs of education during academic terms that begin after July 1, 2016, through courses of education that commence on or after that date.
 
-## § 4. Extension of authorization of appropriations for payment of a monthly assistance allowance to disabled veterans training or competing for the Paralympic Team
+## § 5. Clarification of eligibility for services under the Homeless Veterans Reintegration Program
 
-Section 322(d)(4) is amended by striking “2013” and inserting “2018”.
-
-## § 5. Extension of authorization of appropriations for assistance to United States Paralympics, Inc
-
-Section 521A is amended—
-
-- **(1)** in subsection (g), by striking “2013” and inserting “2018”; and
-- **(2)** in subsection (l), by striking “2013” and inserting “2018”.
-
-## § 6. Clarification of eligibility for services under the Homeless Veterans Reintegration Program
-
-Subsection (a) of section 2021 is amended by striking “reintegration of homeless veterans into the labor force.” and inserting the following: “reintegration into the labor force of—”
+Subsection (a) of section 2021 is amended by striking “reintegration of homeless veterans into the labor force.” and inserting the following: “reintegration into the labor force of—
 
 > - **(1)** homeless veterans;
 > - **(2)** veterans participating in the Department of Veterans Affairs supported housing program for which rental assistance provided pursuant to section 8(o)(19) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(19)); and
 > - **(3)** veterans who are transitioning from being incarcerated.
 
-## § 7. Extension of eligibility period for vocational rehabilitation programs
+## § 6. Extension of eligibility period for vocational rehabilitation programs
 
 - **(a)** *Extension* Section 3103 is amended by striking “twelve-year period” and inserting “17-year period” each place it appears.
 - **(b)** *Effective date* The amendment made by subsection (a) shall apply with respect to a veteran applying for assistance under chapter 31 of title 38, United States Code, on or after the date of the enactment of this Act.
 
-## § 8. Work-study allowance
+## § 7. Work-study allowance
 
 Section 3485(a)(4) is amended by striking “June 30, 2013” each place it appears and inserting “June 30, 2018”.
 
-## § 9. Responsibilities of the Directors of Veterans’ Employment and Training
+## § 8. Responsibilities of the Directors of Veterans’ Employment and Training
 
 Section 4103 is amended—
 
@@ -77,7 +71,7 @@ Section 4103 is amended—
   >   - **(10)** Submitting to the Assistant Secretary regular reports on the matters described in paragraphs (1), (2), (4), and (8), and any other matters the Assistant Secretary determine appropriate.
   >   - **(11)** Performing such other related duties as directed by the Assistant Secretary.
 
-## § 10. Contents of Transition Assistance Program
+## § 9. Contents of Transition Assistance Program
 
 - **(a)** *In general* Section 1144 of title 10, United States Code, is amended—
   - **(1)** in subsection (b), by adding at the end the following new paragraph:
@@ -88,40 +82,103 @@ Section 4103 is amended—
     > - **(c)** *Additional elements of program* The mandatory program carried out by this section shall include—
     >   - **(1)** for any such member who plans to use the member’s entitlement to educational assistance under title 38—
     >     - **(A)** instruction providing an overview of the use of such entitlement; and
-    >     - **(B)** testing to determine academic readiness for post-secondary education, courses of post-secondary education appropriate for the member, courses of post-secondary education compatible with the member’s education goals, and instruction on how to finance the member’s post-secondary education; and
+    >     - **(B)** courses of post-secondary education appropriate for the member, courses of post-secondary education compatible with the member’s education goals, and instruction on how to finance the member’s post-secondary education; and
     >   - **(2)** instruction in the benefits under laws administered by the Secretary of Veterans Affairs and in other subjects determined by the Secretary concerned.
 
 - **(b)** *Deadline for implementation* The program carried out under section 1144 of title 10, United States Code, shall comply with the requirements of subsections (b)(9) and (c) of such section, as added by subsection (a), by not later than April 1, 2015.
-- **(c)** *Feasibility study* Not later than 270 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives the results of a study carried out by the Secretary to determine the feasibility of providing the instruction described in subsection (b) of section 1142 of title 10, United States Code, at all overseas locations where such instruction is provided by entering into a contract jointly with the Secretary of Labor for the provision of such instruction.
+- **(c)** *Feasibility study* Not later than 270 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committee on Veterans’ Affairs and the Committee on Armed Services of the Senate and the Committee on Veterans’ Affairs and the Committee on Armed Services of the House of Representatives the results of a study carried out by the Secretary to determine the feasibility of providing the instruction described in subsection (b) of section 1142 of title 10, United States Code, at all overseas locations where such instruction is provided by entering into a contract jointly with the Secretary of Labor for the provision of such instruction.
 
-## § 11. Three-month extension of Veterans Retraining Assistance Program
+## § 10. Rounding down of increase in rates of disability compensation and dependency and indemnity compensation
 
-- **(a)** *Extension* Section 211 of the VOW to Hire Heroes Act of 2011 (Public Law 112–56; 125 Stat. 713; 38 U.S.C. 4100 note) is amended—
-  - **(1)** in subsection (a)(2)(B), by striking “March 31, 2014” and inserting “June 30, 2014”; and
-  - **(2)** in subsection (k), by striking “March 31, 2014” and inserting “June 30, 2014”.
-- **(b)** *Interim report*
-  - **(1)** *Report required* Not later than 30 days after the date of the enactment of this Act, the Secretary of Veterans Affairs, in collaboration with the Secretary of Labor, shall submit to the appropriate committees of Congress an interim report on the retraining assistance provided under section 211 of the VOW to Hire Heroes Act of 2011 (Public Law 112–56; 125 Stat. 713; 38 U.S.C. 4100 note).
-  - **(2)** *Elements* The report required by paragraph (1) shall include the following:
-    - **(A)** The total number of—
-      - **(i)** eligible veterans who have participated in the program established under such section as of the date of the enactment of this Act; and
-      - **(ii)** associates degrees or certificates awarded (or other similar evidence of the completion of the program of education or training earned) to veterans participating in the program established under such section as of such date.
-    - **(B)** Data related to the employment status of eligible veterans who participated in such program.
+- **(a)** *Rounding* Each dollar amount increased under section 2 of the Veterans’ Compensation Cost- of-Living Adjustment Act of 2013 (Public Law 113–52), if not a whole dollar amount, shall be rounded to the next lower whole dollar amount.
+- **(b)** *Applicability* Subsection (a) shall apply with respect to a payment made after the date of the enactment of this Act.
 
-## § 12. Increase in rates of disability compensation and dependency and indemnity compensation
+## § 11. Limitation on performance awards in the senior executive service
 
-- **(a)** *Rate adjustment* Effective on December 1, 2013, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2013, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b).
-- **(b)** *Amounts To be increased* The dollar amounts to be increased pursuant to subsection (a) are the following:
-  - **(1)** *Wartime disability compensation* Each of the dollar amounts under section 1114 of title 38, United States Code.
-  - **(2)** *Additional compensation for dependents* Each of the dollar amounts under section 1115(1) of such title.
-  - **(3)** *Clothing allowance* The dollar amount under section 1162 of such title.
-  - **(4)** *Dependency and indemnity compensation to surviving spouse* Each of the dollar amounts under subsections (a) through (d) of section 1311 of such title.
-  - **(5)** *Dependency and indemnity compensation to children* Each of the dollar amounts under sections 1313(a) and 1314 of such title.
-- **(c)** *Determination of Increase*
-  - **(1)** *Percentage* Except as provided in paragraph (2), each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 2012, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
-  - **(2)** *Rounding* Each dollar amount increased under paragraph (1), if not a whole dollar amount, shall be rounded to the next lower whole dollar amount.
-- **(d)** *Special rule* The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a), the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) who have not received compensation under chapter 11 of title 38, United States Code.
-- **(e)** *Publication of adjusted rates* The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in subsection (b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2014.
+For each of fiscal years 2014 through 2018, the Secretary of Veterans Affairs may not make any performance awards under section 5384 of title 5, United States Code.
 
-## § 13. Performance awards in the senior executive service
+## § 12. Semiannual reports to Congress on cost of certain travel
 
-For each of fiscal years 2014 through 2018, the Secretary of Veterans Affairs may not pay any performance awards under section 5384 of title 5, United States Code.
+- **(a)** *In general* Subchapter I of chapter 5 is amended by adding at the end the following new section:
+  > ## § 518. Semiannual reports to Congress on cost of certain travel
+  >
+  > - **(a)** *Semiannual reports* Not later than June 30, 2014, and not later than 60 days after each 180-day period thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the House of Representatives and the Committee on Veterans' Affairs of the Senate a semiannual report on covered travel made during the 180-day period covered by the report.
+  > - **(b)** *Matters included* Each report under subsection (a) shall include the following:
+  >   - **(1)** With respect to each instance of covered travel made during the period covered by the report—
+  >     - **(A)** the purpose of such travel;
+  >     - **(B)** the destination;
+  >     - **(C)** the name and title of each employee included on such travel;
+  >     - **(D)** the duration of such travel;
+  >     - **(E)** the total cost to the Department of such travel; and
+  >     - **(F)** with respect to covered travel described in subsection (d)(2), the identity of the person or entity that paid or reimbursed for such travel.
+  >   - **(2)** The final costs to the Department with respect to all covered travel made during the period covered by the report, including costs relating to—
+  >     - **(A)** transportation, including fares for travel by air, rail, bus, ferry, cruise ship, taxi, mass transit, or other mode of transportation;
+  >     - **(B)** expenses or reimbursements relating to operating and maintaining a car, including the costs of fuel and mileage;
+  >     - **(C)** passport and visa fees;
+  >     - **(D)** lodging;
+  >     - **(E)** per diem payments;
+  >     - **(F)** baggage charges;
+  >     - **(G)** computer rental fees;
+  >     - **(H)** rental of halls, auditoriums, or other spaces;
+  >     - **(I)** entertainment;
+  >     - **(J)** contractors;
+  >     - **(K)** registration fees; and
+  >     - **(L)** promotional items.
+  > - **(c)** *Duplicative information* Each report under subsection (a) shall include the information described in subsection (b) regardless of whether such information is also included in a report under section 517 of this title.
+  > - **(d)** *Covered travel defined* In this section, the term covered travel means travel made by an employee of the Department of Veterans Affairs, including an employee who is stationed in a foreign country, on official business to any of the following locations:
+  >   - **(1)** If the Department or other element of the Federal Government pays for such travel, a location outside of—
+  >     - **(A)** the several States;
+  >     - **(B)** the District of Columbia;
+  >     - **(C)** a territory, commonwealth, or possession of the United States;
+  >     - **(D)** Indian lands (as defined in section 4(4) of the Indian Gaming Regulatory Act (25 U.S.C. 2703(4))); or
+  >     - **(E)** the territorial waters of the United States.
+  >   - **(2)** If any person or entity other than the Federal Government pays (or reimburses) for such travel, any location, regardless of whether the location is inside or outside of the United States.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding after the item relating to section 517 the following new item:
+
+## § 13. Report of infectious disease at medical facilities of Department of Veterans Affairs
+
+- **(a)** *In general* Section 7311 is amended by adding at the end the following new subsection:
+  > - **(f)**
+  >   - **(1)** The Secretary shall report to the appropriate entity each case of a notifiable infectious disease or condition that is diagnosed at a medical facility of the Department of Veterans Affairs in accordance with the laws of the State in which the facility is located.
+  >   - **(2)** In addition to reporting each case of a notifiable infectious disease or condition at a medical facility of the Department pursuant to paragraph (1), the Secretary shall report each such case that is classified as a health-care-associated infection sentinel event to the accrediting organization of such facility.
+  >   - **(3)**
+  >     - **(A)** If the Secretary fails to report a case of a notifiable infectious disease or condition at a medical facility of the Department in accordance with State law pursuant to paragraph (1), the Secretary shall—
+  >       - **(i)** take any remedial action required under the laws of the State to correct such failure; and
+  >       - **(ii)** if the Secretary does not correct such failure pursuant to clause (i), pay to the State an amount equal to the amount that a medical facility not owned by the Federal Government that is located in the same State would pay as a penalty to such State for such failure.
+  >     - **(B)** The State may file a civil action against the Secretary in the United States district court for the district in which the medical facility is located to recover from the United States the amount described in subparagraph (A)(ii).
+  >     - **(C)** A civil action under subparagraph (B) may not be commenced later than two years after the cause of action accrues.
+  >   - **(4)**
+  >     - **(A)** In any case in which the Inspector General of the Department suspects that a director of a Veterans Integrated Service Network has failed to comply with an applicable provision of this subsection, the Inspector General shall conduct an investigation to determine whether such director failed to comply with an applicable provision of this section.
+  >     - **(B)** If the Inspector General determines under subparagraph (A) that a director has failed to comply with a provision of this subsection, the Secretary shall suspend such director for such period as the Secretary considers appropriate under subchapter I or subchapter II of chapter 75 of title 5, as the case may be. In addition to such suspension, the Secretary may impose such other administrative disciplinary action on the director as the Secretary considers appropriate and for which the Secretary is otherwise authorized.
+  >   - **(5)** The Secretary shall—
+  >     - **(A)** maintain records of each notifiable infectious disease or condition reported pursuant to paragraph (1); and
+  >     - **(B)** submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a notification of each such notifiable infectious disease or condition.
+  >   - **(6)** In this subsection, the term notifiable infectious disease or condition means any infectious disease or condition that is—
+  >     - **(A)** on the list of nationally notifiable diseases or conditions published by the Council of State and Territorial Epidemiologists and the Centers for Disease Control and Prevention; or
+  >     - **(B)** covered by a provision of law of a State that requires the reporting of infectious diseases or conditions.
+
+- **(b)** *Effective date* The reporting requirement under section 7311(f) of title 38, United States Code, as added by subsection (a), shall apply with respect to a case of a notifiable infectious disease or condition diagnosed at a medical facility of the Department of Veterans Affairs on or after the date that is 60 days after the date of the enactment of this Act.
+
+## § 14. Prohibition of visual recording without informed consent
+
+Section 7331 is amended—
+
+- **(1)** by striking “The Secretary, upon” and inserting “(a) In general.—The Secretary, upon”; and
+- **(2)** by adding at the end the following new subsection:
+  > - **(b)** *Visual recording*
+  >   - **(1)** The Secretary shall prescribe regulations establishing procedures to ensure that, except as provided by paragraph (2), any visual recording made by the Secretary of a patient during the course of furnishing care under this title is carried out only with the full and informed consent of the patient or, in appropriate cases, a representative thereof.
+  >   - **(2)** The Secretary may waive the requirement for informed consent under paragraph (1) with respect to the visual recording of a patient if such recording is made—
+  >     - **(A)** pursuant to a determination by a physician or psychologist that such recording is medically necessary or necessary for the safety of the patient;
+  >     - **(B)** pursuant to a warrant or order of a court of competent jurisdiction; or
+  >     - **(C)** in a public setting where a person would not have a reasonable expectation to privacy, such as a waiting room or hallway, and such recording is for general security purposes not particularized to the patient.
+  >   - **(3)** In this subsection, the term visual recording means the recording or transmission of images or video, but does not include—
+  >     - **(A)** medical imaging, including such imaging produced by radiographic procedures, nuclear medicine, endoscopy, ultrasound, or other similar procedures; or
+  >     - **(B)** images, video, and other clinical information transmitted for the purposes of providing treatment through telehealth and telemedicine technologies.
+
+## § 15. Two-month extension of Veterans Retraining Assistance Program
+
+Section 211 of the VOW to Hire Heroes Act of 2011 (Public Law 112–56; 125 Stat. 713; 38 U.S.C. 4100 note) is amended—
+
+- **(1)** in subsection (a)(2)(B), by striking “March 31, 2014” and inserting “May 31, 2014”; and
+- **(2)** in subsection (k), by striking “March 31, 2014” and inserting “May 31, 2014”.
