@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 341
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 341
@@ -16,6 +16,11 @@ A resolution observing the 100th birthday of civil rights leader Daisy Bates and
 
 - Sen. Pryor, Mark L. [D-AR] (P000590)
 
+## Cosponsors (2)
+
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Levin, Carl [D-MI] (L000261)
+
 ## Committees (1)
 
 - Senate — Judiciary Committee
@@ -24,3 +29,7 @@ A resolution observing the 100th birthday of civil rights leader Daisy Bates and
 
 - 2014-01-29 — Introduced in Senate
 - 2014-01-29 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S604)
+- 2014-02-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2014-02-03 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2014-02-03 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S704-705)
+- 2014-02-03 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S704-705)
