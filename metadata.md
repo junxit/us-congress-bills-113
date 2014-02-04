@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 270
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 270
@@ -16,7 +16,7 @@ A resolution supporting the goals and ideals of World Polio Day and commending t
 
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
 
-## Cosponsors (9)
+## Cosponsors (14)
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Cochran, Thad [R-MS] (C000567)
@@ -27,6 +27,11 @@ A resolution supporting the goals and ideals of World Polio Day and commending t
 - Sen. Begich, Mark [D-AK] (B001265)
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Collins, Susan M. [R-ME] (C001035)
 
 ## Committees (1)
 
@@ -36,3 +41,7 @@ A resolution supporting the goals and ideals of World Polio Day and commending t
 
 - 2013-10-16 — Introduced in Senate
 - 2013-10-16 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S7537-7538)
+- 2014-02-04 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2014-02-04 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2014-02-04 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2014-02-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 302.
