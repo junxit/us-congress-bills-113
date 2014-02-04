@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1791
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1791
@@ -23,9 +23,10 @@ Medical Preparedness Allowable Use Act
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
 - Rep. Palazzo, Steven M. [R-MS-4] (P000601)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Medical Preparedness Allowable Use Act
 - 2014-02-03 — Mrs. Brooks (IN) moved to suspend the rules and pass the bill, as amended.
 - 2014-02-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 2 (Roll no. 32). (text: CR H1518)
 - 2014-02-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 2 (Roll no. 32).(text: CR H1518)
+- 2014-02-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
