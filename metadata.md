@@ -1,7 +1,7 @@
 ---
 measure: H.R. 357
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 357
@@ -69,9 +69,10 @@ GI Bill Tuition Fairness Act of 2014
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 - Rep. Gerlach, Jim [R-PA-6] (G000549)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -98,3 +99,4 @@ GI Bill Tuition Fairness Act of 2014
 - 2014-02-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 33). (text: CR H1520-1522)
 - 2014-02-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 33).(text: CR H1520-1522)
 - 2014-02-03 — The title of the measure was amended. Agreed to without objection.
+- 2014-02-04 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
