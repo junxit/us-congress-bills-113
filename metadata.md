@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3448
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3448
@@ -16,9 +16,10 @@ Small Cap Liquidity Reform Act of 2014
 
 - Rep. Duffy, Sean P. [R-WI-7] (D000614)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Carney, John C., Jr. [D-DE-At Large] (C001083)
+- Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
 
 ## Committees (1)
 
@@ -30,3 +31,8 @@ Small Cap Liquidity Reform Act of 2014
 - 2013-11-12 — Introduced in House
 - 2013-11-12 — Introduced in House
 - 2013-11-12 — Referred to the House Committee on Financial Services.
+- 2013-11-14 — Committee Consideration and Mark-up Session Held.
+- 2013-11-14 — Ordered to be Reported (Amended) by the Yeas and Nays: 57 - 0.
+- 2014-02-05 — Placed on the Union Calendar, Calendar No. 252.
+- 2014-02-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 113-342.
+- 2014-02-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 113-342.
