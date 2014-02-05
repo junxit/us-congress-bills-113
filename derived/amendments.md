@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3590
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-16 amendatory instructions. 2 executed, 14 stated and not applied.
+17 amendatory instructions. 2 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -65,3 +65,4 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 669h-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1374` | amend | Section 104(c)(5)(D) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1374(c)(5)(D)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 661` | add-at-end | The Fish and Wildlife Coordination Act (16 U.S.C. 661 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 704` | add-at-end | Section 3 of the Migratory Bird Treaty Act (16 U.S.C. 704) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
