@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3964
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -63,8 +63,8 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subsection (f), by striking the period at the end; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
-| — | strike | in subsection (l), by striking “and,”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (m), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | strike | in subsection (l), by striking “and,” | the bill names no machine-readable US Code section |
+| — | replace | in subsection (m), by striking the period and inserting “; and”, and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in the heading, by striking “Limitation on contracting and contract reform” and inserting “Contracts”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking the language of the section and by adding: | the bill names no machine-readable US Code section |
@@ -72,11 +72,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (1)(A), by striking “to combination” and inserting “or combination”; | the bill names no machine-readable US Code section |
 | — | add-at-end | in paragraph (2), by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in the heading, by striking “Metering” and inserting “Measurement”; and | the bill names no machine-readable US Code section |
+| — | replace | in the heading, by striking “METERING” and inserting “MEASUREMENT”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after the first sentence the following: “The contracting district or agency, not including contracting districts serving multiple agencies with separate governing boards, shall ensure that all contractor-owned water delivery… | the bill names no machine-readable US Code section |
 | — | strike | By striking subsection (d). | the bill names no machine-readable US Code section |
 | — | redesignate | By redesignating subsections (e) and (f) as subsections (d) and (e), respectively. | the bill names no machine-readable US Code section |
-| — | redesignate | By amending subsection (e) (as redesignated by paragraph (4))— | the bill names no machine-readable US Code section |
+| — | redesignate | By amending subsection (e)(as redesignated by paragraph (4))— | the bill names no machine-readable US Code section |
 | — | replace | by striking “as a result of the increased repayment” and inserting “that exceed the cost-of-service”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “the delivery of ” after “rates applicable to”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “, and all increased revenues received by the Secretary as a result of the increased water prices established under subsection 3405(d) of this section,”. | the bill names no machine-readable US Code section |
@@ -165,7 +165,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (3), by striking “the Settlement” and inserting “this part”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, including without limitation to sections 10004(d) and 10004(h)(4) of this part,” after “implementing this part”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “for implementation of the Settlement”. | the bill names no machine-readable US Code section |
-| `16 U.S.C. § 1531` | insert | by inserting “and the obligations of the Secretary and all other parties to protect and keep in good condition any fish that may be planted or exist below Friant Dam including any obligations under section 5937 of the California Fish and… | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1531` | insert | by inserting: “and the obligations of the Secretary and all other parties to protect and keep in good condition any fish that may be planted or exist below Friant Dam including any obligations under section 5937 of the California Fish an… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1531` | strike | in paragraph (1), by striking “, as provided in the Settlement”. | the bill quotes the text struck but describes what replaces it |
 | — | strike | by striking “not a party to the Settlement” after “person or entity”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “or the Settlement” before the period and inserting “unless otherwise provided by this part. Any Central Valley Project long-term water service or repayment contractor within the Friant Division, Hidden unit, or Buchanan Unit… | the bill names no machine-readable US Code section |
@@ -173,7 +173,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “the Settlement” the first place it appears and inserting “this part”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “, estimated to total” and all that follows through “subsection (b)(1),”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “provided however,” and all that follows through “$110,000,000 of State funds”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking “(A) In general.—The Secretary” and inserting “The Secretary”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “(A) In general.—The Secretary” and inserting “The Secretary”; | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (B); and | the bill names no machine-readable US Code section |
 | — | replace | by striking “Except as provided in the Settlement, to” and inserting “To”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “this Settlement” and inserting “this part”; | the bill names no machine-readable US Code section |
@@ -182,13 +182,13 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “or the Settlement” before the period; | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding subparagraph (A), by striking “the Settlement” and inserting “this part”; | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (C), by striking “from the sale of water pursuant to the Settlement, or”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (D), by striking “the Settlement” and inserting “this part”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (D), by striking “the Settlement” and inserting “this part”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2), by striking “the Settlement and” before “this part”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subsections (d) through (f). | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (3)(D), by striking “the Settlement and” before “this part”; and | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (4)(C), by striking “the Settlement and” before “this part”; | the bill names no machine-readable US Code section |
 | — | strike | in subsection (c), by striking paragraph (3); | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d)(1), by striking “the Settlement” in both places it appears and inserting “this part”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d)(1), by striking “the Settlement” in both places it appears and inserting “this part”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “Interim Flows or Restoration Flows, pursuant to paragraphs 13 or 15 of the Settlement” and inserting “Restoration Flows, pursuant to this part”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “Interim Flows or” before “Restoration Flows”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “the Interim Flows or Restoration Flows or is intended to otherwise facilitate the Water Management Goal, as described in the Settlement” and inserting “Restoration Flows”; and | the bill names no machine-readable US Code section |
@@ -197,7 +197,7 @@ complete account of the bill's effect, which it is not.
 | — | repeal | Section 10011 of the San Joaquin River Restoration Settlement Act (Public Law 111–11) is repealed. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “the Interim or Restoration Flows authorized in part I of this subtitle” and inserting “Restoration Flows authorized in this part”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “the Interim or Restoration Flows authorized in part I of this subtitle” and inserting “Restoration Flows authorized in this part”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking “meet the Restoration Goal as described in part I of this subtitle” and inserting “recover Restoration Flows as described in this part”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “meet the Restoration Goal as described in part I of this subtitle” and inserting “recover Restoration Flows as described in this part”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “the Interim or Restoration Flows authorized in part I of this subtitle” and inserting “Restoration Flows authorized in this part”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “, and for ensuring appropriate adjustment in the recovered water account pursuant to section 10004(a)(5)”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “section 10004(a)(4)” and inserting “section 10004(a)(3)”; and | the bill names no machine-readable US Code section |
