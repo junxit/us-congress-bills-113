@@ -1,13 +1,13 @@
 ---
 legis-num: S. RES. 289
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. RES. 289
 
-> Expressing the sense of the Senate that ambush marketing adversely affects the United States Olympic and Paralympic teams and should be discouraged.
+> Expressing the sense of the Senate that ambush marketing adversely affects the United States Olympic and Paralympic teams.
 
 ## Preamble
 
@@ -15,12 +15,12 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas more than 5,500 athletes from 80 nations will compete in 7 Olympic sports and 1,350 Paralympic athletes will compete in 5 sports;
 - Whereas American athletes have spent countless days, months, and years training to earn a spot on the United States Olympic or Paralympic teams;
 - Whereas the Ted Stevens Olympic and Amateur Sports Act (36 U.S.C. 220501 et seq.)—(1)established the United States Olympic Committee as the coordinating body for all Olympic and Paralympic athletic activity in the United States;(2)gave the United States Olympic Committee the exclusive right in the United States to use the words “Olympic”, “Olympiad”, “Paralympic”, and “Paralympiad”, the emblem of the United States Olympic Committee, and the symbols of the International Olympic Committee and the International Paralympic Committee; and(3)empowered the United States Olympic Committee to authorize sponsors that contribute to the United States Olympic or Paralympic teams to use any trademark, symbol, insignia, or emblem of the International Olympic Committee, International Paralympic Committee, the Pan-American Sports Organization, or the United States Olympic Committee;
-- Whereas Team USA is significantly funded by 31 sponsors who assure that the United States has the best Olympic teams possible;
-- Whereas, in recent years, a number of entities in the United States have engaged in ambush marketing as a marketing strategy, affiliating themselves with the Olympic and Paralympic Games without becoming sponsors of Team USA;
-- Whereas ambush marketing harms the United States Olympic and Paralympic teams, undermines sponsorship activities, and gives ambush marketers an unfair and unethical advantage over entities that officially sponsor and provide funding for the elite athletes of the United States; and
-- Whereas efforts to prevent ambush marketing have enjoyed limited success as the strategies used by ambush marketers continue to multiply: Now, therefore, be it
+- Whereas Team USA is significantly funded by 31 sponsors who ensure that the United States has the best Olympic and Paralympic teams possible;
+- Whereas in recent years, a number of entities in the United States have engaged in marketing strategies that appear to affiliate themselves with the Olympic and Paralympic Games without becoming official sponsors of Team USA;
+- Whereas any ambush marketing in violation of the Lanham Act (15 U.S.C. 1051 et seq.) undermines sponsorship activities and creates consumer confusion around official Olympic and Paralympic sponsors; and
+- Whereas ambush marketing impedes the goals of the Ted Stevens Olympic and Amateur Sports Act (36 U.S.C. 220501 et seq.) to fund the United States Olympic and Paralympic teams through official sponsorships: Now, therefore, be it
 
 That it is the sense of the Senate that—
 
-- **(1)** ambush marketing adversely affects the United States Olympic and Paralympic teams and their ability to attract and retain the sponsorships necessary to be successful at the 2014 Olympic and Paralympic Games in Sochi, Russia; and
-- **(2)** entities in the United States should cease all ambush marketing efforts related to the United States Olympic and Paralympic teams.
+- **(1)** official sponsor support is critical to the success of Team USA at all international competitions; and
+- **(2)** ambush marketing adversely affects the United States Olympic and Paralympic teams and their ability to attract and retain corporate sponsorships.
