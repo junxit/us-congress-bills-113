@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2446
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -98,7 +98,7 @@ to guess them.
 
 ### 12 U.S.C. § 3303
 
-> in section 1111(b)(1)(D), by striking “Director” and inserting “Chair of the Commission”; and
+> in section 111(b)(1)(D), by striking “Director” and inserting “Chair of the Commission”; and
 
 | | |
 |---|---|
@@ -195,7 +195,7 @@ to guess them.
 | Removed | `Director` |
 | Inserted | `Bureau` |
 
-### 12 U.S.C. § 3303
+### 44 U.S.C. § 3513
 
 > Section 3513(c) of title 44, United States Code, as amended by section 1100D(b) of the Consumer Financial Protection Act of 2010, is amended by striking “Director of the Bureau” and inserting “Bureau”.
 

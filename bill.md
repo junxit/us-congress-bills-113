@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2446
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -24,19 +24,19 @@ Section 1011 of the Consumer Financial Protection Act of 2010 is amended—
   >   - **(1)** *In general* There is hereby established a commission (hereinafter referred to in this section as the “Commission”) that shall serve as the head of the Bureau.
   >   - **(2)** *Authority to prescribe regulations* The Commission may prescribe such regulations and issue such orders in accordance with this title as the Commission may determine to be necessary for carrying out this title and all other laws within the Commission’s jurisdiction and shall exercise any authorities granted under this title and all other laws within the Commission’s jurisdiction.
   > - **(c)** *Composition of the Commission*
-  >   - **(1)** *In general* The Commission shall be composed of 5 members who shall be appointed by the President, by and with the advice and consent of the Senate, from among individuals who—
+  >   - **(1)** *In general* The Commission shall be composed of the Vice Chairman for Supervision of the Federal Reserve System and 4 additional members who shall be appointed by the President, by and with the advice and consent of the Senate, from among individuals who—
   >     - **(A)** are citizens of the United States; and
   >     - **(B)** have strong competencies and experiences related to consumer financial protection.
-  >   - **(2)** *Staggering* The members of the Commission shall serve staggered terms, which initially shall be established by the President for terms of 1, 2, 4, and 5 years, respectively.
+  >   - **(2)** *Staggering* The members of the Commission appointed under paragraph (1) shall serve staggered terms, which initially shall be established by the President for terms of 1, 2, 4, and 5 years, respectively.
   >   - **(3)** *Terms*
-  >     - **(A)** *In general* Each member of the Commission, including the Chair, shall serve for a term of 5 years.
-  >     - **(B)** *Removal for cause* The President may remove any member of the Commission only for inefficiency, neglect of duty, or malfeasance in office.
-  >     - **(C)** *Vacancies* Any member of the Commission appointed to fill a vacancy occurring before the expiration of the term to which that member’s predecessor was appointed (including the Chair) shall be appointed only for the remainder of the term.
-  >     - **(D)** *Continuation of service* Each member of the Commission may continue to serve after the expiration of the term of office to which that member was appointed until a successor has been appointed by the President and confirmed by the Senate, except that a member may not continue to serve more than 1 year after the date on which that member’s term would otherwise expire.
-  >     - **(E)** *Other employment prohibited* No member of the Commission shall engage in any other business, vocation, or employment.
-  > - **(d)** *Affiliation* With respect to members appointed pursuant to subsection (c), not more than 3 shall be members of any one political party.
+  >     - **(A)** *In general* Each member of the Commission appointed under paragraph (1), including the Chair, shall serve for a term of 5 years.
+  >     - **(B)** *Removal* The President may remove any member of the Commission appointed under paragraph (1).
+  >     - **(C)** *Vacancies* Any member of the Commission appointed under paragraph (1) appointed to fill a vacancy occurring before the expiration of the term to which that member’s predecessor was appointed (including the Chair) shall be appointed only for the remainder of the term.
+  >     - **(D)** *Continuation of service* Each member of the Commission appointed under paragraph (1) may continue to serve after the expiration of the term of office to which that member was appointed until a successor has been appointed by the President and confirmed by the Senate, except that a member may not continue to serve more than 1 year after the date on which that member’s term would otherwise expire.
+  >     - **(E)** *Other employment prohibited* No member of the Commission appointed under paragraph (1) shall engage in any other business, vocation, or employment.
+  > - **(d)** *Affiliation* With respect to members appointed pursuant to subsection (c)(1), not more than 2 shall be members of any one political party.
   > - **(e)** *Chair of the Commission*
-  >   - **(1)** *Appointment* The Chair of the Commission shall be appointed by the President from among the members of the Commission.
+  >   - **(1)** *Appointment* The Chair of the Commission shall be appointed by the President from among the members of the Commission appointed under subsection (c)(1).
   >   - **(2)** *Authority* The Chair shall be the principal executive officer of the Bureau, and shall exercise all of the executive and administrative functions of the Bureau, including with respect to—
   >     - **(A)** the appointment and supervision of personnel employed under the Bureau (other than personnel employed regularly and full time in the immediate offices of members of the Commission other than the Chair);
   >     - **(B)** the distribution of business among personnel appointed and supervised by the Chair and among administrative units of the Bureau; and
@@ -47,13 +47,13 @@ Section 1011 of the Consumer Financial Protection Act of 2010 is amended—
   > - **(g)** *Seal* The Commission shall have an official seal.
   > - **(h)** *Compensation*
   >   - **(1)** *Chair* The Chair shall receive compensation at the rate prescribed for level I of the Executive Schedule under section 5313 of title 5, United States Code.
-  >   - **(2)** *Other members of the Commission* The 4 other members of the Commission shall each receive compensation at the rate prescribed for level II of the Executive Schedule under section 5314 of title 5, United States Code.
+  >   - **(2)** *Other members of the Commission* The 3 other members of the Commission appointed under subsection (c)(1) shall each receive compensation at the rate prescribed for level II of the Executive Schedule under section 5314 of title 5, United States Code.
   > - **(i)** *Initial quorum established* During any time period prior to the confirmation of at least two members of the Commission, one member of the Commission shall constitute a quorum for the transaction of business. Following the confirmation of at least 2 additional commissioners, the quorum requirements of subsection (f) shall apply.
 
 ## § 3. Conforming amendments
 
 - **(a)** *Consumer Financial Protection Act of 2010*
-  - **(1)** *In general* Except as provided under paragraph (1), the Consumer Financial Protection Act of 2010 is amended—
+  - **(1)** *In general* Except as provided under paragraph (2), the Consumer Financial Protection Act of 2010 is amended—
     - **(A)** by striking “Director of the” each place such term appears, other than where such term is used to refer to a Director other than the Director of the Bureau of Consumer Financial Protection;
     - **(B)** by striking “Director” each place such term appears and inserting “Bureau”, other than where such term is used to refer to a Director other than the Director of the Bureau of Consumer Financial Protection; and
     - **(C)** in section 1002, by striking paragraph (10).
@@ -68,7 +68,7 @@ Section 1011 of the Consumer Financial Protection Act of 2010 is amended—
     - **(D)** in section 1016(a), by striking “Director of the Bureau” and inserting “Chair of the Commission”; and
     - **(E)** in section 1066(a), by striking “Director of the Bureau is” and inserting “first member of the Commission is”.
 - **(b)** *Dodd-Frank Wall Street Reform and Consumer Protection Act* The Dodd-Frank Wall Street Reform and Consumer Protection Act is amended—
-  - **(1)** in section 1111(b)(1)(D), by striking “Director” and inserting “Chair of the Commission”; and
+  - **(1)** in section 111(b)(1)(D), by striking “Director” and inserting “Chair of the Commission”; and
   - **(2)** in section 1447, by striking “Director of the Bureau” each place such term appears and inserting “Bureau”.
 - **(c)** *Electronic Fund Transfer Act* Section 920(a)(4)(C) of the Electronic Fund Transfer Act, as added by section 1075(a)(2) of the Consumer Financial Protection Act of 2010, is amended by striking “Director of the Bureau of Consumer Financial Protection” and inserting “Bureau of Consumer Financial Protection”.
 - **(d)** *Expedited Funds Availability Act* The Expedited Funds Availability Act, as amended by section 1086 of the Consumer Financial Protection Act of 2010, is amended by striking “Director of the Bureau” each place such term appears and inserting “Bureau”.
