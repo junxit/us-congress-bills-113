@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 333
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 333
@@ -16,7 +16,7 @@ A resolution strongly recommending that the United States renegotiate the return
 
 - Sen. Toomey, Patrick [R-PA] (T000461)
 
-## Cosponsors (20)
+## Cosponsors (29)
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
@@ -38,6 +38,15 @@ A resolution strongly recommending that the United States renegotiate the return
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Boozman, John [R-AR] (B001236)
 - Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Collins, Susan M. [R-ME] (C001035)
 
 ## Committees (1)
 
@@ -51,3 +60,5 @@ A resolution strongly recommending that the United States renegotiate the return
 - 2014-02-04 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2014-02-04 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2014-02-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 303.
+- 2014-02-06 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S834)
+- 2014-02-06 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S834)
