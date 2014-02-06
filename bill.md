@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2431
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -30,7 +30,7 @@ Section 3 of the National Integrated Drought Information System Act of 2006 (15 
   >   - **(3)** provide timely data, information, and products that reflect local, regional, and State differences in drought conditions;
   >   - **(4)** coordinate, and integrate as practicable, Federal research and monitoring in support of a drought early warning system;
   >   - **(5)** build upon existing forecasting and assessment programs and partnerships, including through the designation of one or more cooperative institutes to assist with National Integrated Drought Information System functions; and
-  >   - **(6)** continue ongoing research and monitoring activities related to drought.
+  >   - **(6)** continue ongoing research and monitoring activities related to drought, including research activities relating to length, severity, and impacts of drought and the role of extreme weather events and climate variability in drought.
 
 - **(3)** by adding at the end the following:
   > - **(e)** *Report*
@@ -45,7 +45,7 @@ Section 3 of the National Integrated Drought Information System Act of 2006 (15 
 
 ## § 3. Authorization of appropriations
 
-Section 4 of such Act is amended to read as follows:
+Section 4 of such Act (15 U.S.C. 313d note) is amended to read as follows:
 
 > ## § 4. Authorization of appropriations
 >

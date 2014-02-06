@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2431
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2431
@@ -30,3 +30,9 @@ National Integrated Drought Information System Reauthorization Act of 2014
 - 2013-06-19 — Introduced in House
 - 2013-06-19 — Introduced in House
 - 2013-06-19 — Referred to the House Committee on Science, Space, and Technology.
+- 2013-09-24 — Referred to the Subcommittee on Environment.
+- 2013-12-05 — Committee Consideration and Mark-up Session Held.
+- 2013-12-05 — Ordered to be Reported (Amended) by Voice Vote.
+- 2014-02-06 — Placed on the Union Calendar, Calendar No. 258.
+- 2014-02-06 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-348.
+- 2014-02-06 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-348.

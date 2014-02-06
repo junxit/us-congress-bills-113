@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2431
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,5 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `15 U.S.C. § 313d` | insert | in subsection (a), by inserting before the period at the end the following: “to better inform and provide for more timely decisionmaking to reduce drought related impacts and costs”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 313d` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 313d` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Section 4 of such Act is amended to read as follows: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 313d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 313d` | amend | Section 4 of such Act (15 U.S.C. 313d note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
