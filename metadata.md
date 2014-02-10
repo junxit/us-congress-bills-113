@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2431
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2431
@@ -25,6 +25,10 @@ National Integrated Drought Information System Reauthorization Act of 2014
 
 - House — Science, Space, and Technology Committee
 
+## Recorded votes (1)
+
+- 2014-02-10 — [House 113-2-55](votes/house-113-2-0055.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (365–21)
+
 ## Actions
 
 - 2013-06-19 — Introduced in House
@@ -36,3 +40,10 @@ National Integrated Drought Information System Reauthorization Act of 2014
 - 2014-02-06 — Placed on the Union Calendar, Calendar No. 258.
 - 2014-02-06 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-348.
 - 2014-02-06 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-348.
+- 2014-02-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-02-10 — Considered as unfinished business. (consideration: CR H1697-1698)
+- 2014-02-10 — Considered under suspension of the rules. (consideration: CR H1691-1693)
+- 2014-02-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2431.
+- 2014-02-10 — Mr. Hall moved to suspend the rules and pass the bill, as amended.
+- 2014-02-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 21 (Roll no. 55). (text: CR H1691)
+- 2014-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 21 (Roll no. 55).(text: CR H1691)

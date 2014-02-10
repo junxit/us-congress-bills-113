@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “National Integrated Drought Information System Reauthorization Act of 2013”.
+This Act may be cited as the “National Integrated Drought Information System Reauthorization Act of 2014”.
 
 ## § 2. NIDIS program amendments
 
@@ -34,7 +34,7 @@ Section 3 of the National Integrated Drought Information System Act of 2006 (15 
 
 - **(3)** by adding at the end the following:
   > - **(e)** *Report*
-  >   - **(1)** *In general* Not later than 18 months after the date of enactment of the National Integrated Drought Information System Reauthorization Act of 2013, the Under Secretary shall transmit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that contains—
+  >   - **(1)** *In general* Not later than 18 months after the date of enactment of the National Integrated Drought Information System Reauthorization Act of 2014, the Under Secretary shall transmit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that contains—
   >     - **(A)** an analysis of the implementation of the National Integrated Drought Information System program, including how the information, forecasts, and assessments are utilized in drought policy planning and response activities;
   >     - **(B)** specific plans for continued development of such program, including future milestones; and
   >     - **(C)** an identification of research, monitoring, and forecasting needs to enhance the predictive capability of drought early warnings that include—
