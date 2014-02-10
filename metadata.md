@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3964
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3964
@@ -148,3 +148,5 @@ Sacramento-San Joaquin Valley Emergency Water Delivery Act
 - 2014-02-05 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1647)
 - 2014-02-05 — The previous question was ordered pursuant to the rule. (consideration: CR H1646)
 - 2014-02-05 — The resolution provides for consideration of H.R. 2954 and H.R. 3964. The resolution provides one hour of general debate for each bill. In each instance, the resolution makes in order only those amendments printed in the Rules Committee Report 113-340. The resolution provides one motion to recommit with or without instructions.
+- 2014-02-06 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-02-10 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 306.

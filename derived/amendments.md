@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3964
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -99,7 +99,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “of fish, wildlife” and all that follows through the period and inserting “of carrying out all activities described in this title.”. | the bill names no machine-readable US Code section |
 | — | insert | Section 3407(d)(2) of the Central Valley Project Improvement Act is amended by inserting “, or after October 1, 2015, $4 per megawatt-hour for Central Valley Project power sold to power contractors (October 2015 price levels)” after “$12… | the bill names no machine-readable US Code section |
 | — | insert | Section 3407(d)(2)(A) of the Central Valley Project Improvement Act is amended by inserting “no later than December 31, 2020,” after “That upon the completion of the fish, wildlife, and habitat mitigation and restoration actions mandated… | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 3407 of the Central Valley Project Improvement Act (106 Stat. 4714) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 3407 of the Central Valley Project Improvement Act (106 Stat. 4714) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 3408(c) of the Central Valley Project Improvement Act (106 Stat. 4728) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Interior and Insular Affairs and the Committee on Merchant Marine and Fisheries” and inserting “Natural Resources”; | the bill names no machine-readable US Code section |
 | — | insert | in the second sentence, by inserting before the period at the end the following: “, including progress on the plan required by subsection (j)”; and | the bill names no machine-readable US Code section |
