@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2954
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2954
@@ -16,9 +16,10 @@ Public Access and Lands Improvement Act
 
 - Rep. Miller, Jeff [R-FL-1] (M001144)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (4)
 
@@ -109,3 +110,4 @@ Public Access and Lands Improvement Act
 - 2014-02-06 — The previous question was ordered pursuant to the rule. (consideration: CR H1679)
 - 2014-02-06 — The resolution provides for consideration of H.R. 2954 and H.R. 3964. The resolution provides one hour of general debate for each bill. In each instance, the resolution makes in order only those amendments printed in the Rules Committee Report 113-340. The resolution provides one motion to recommit with or without instructions.
 - 2014-02-06 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2014-02-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
