@@ -1,7 +1,7 @@
 ---
 measure: S. 1954
 congress: 113
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1954
@@ -21,7 +21,15 @@ A bill to provide for the extension of the enforcement instruction on supervisio
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Thune, John [R-SD] (T000250)
 
+## Committees (1)
+
+- Senate — Finance Committee
+
 ## Actions
 
 - 2014-01-16 — Introduced in Senate
 - 2014-01-16 — Read twice and referred to the Committee on Finance.
+- 2014-02-10 — Passed Senate without amendment by Unanimous Consent. (text: CR S855)
+- 2014-02-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S855)
+- 2014-02-10 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S855)
+- 2014-02-10 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S855)
