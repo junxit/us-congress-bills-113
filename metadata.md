@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2431
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2431
@@ -47,3 +47,4 @@ National Integrated Drought Information System Reauthorization Act of 2014
 - 2014-02-10 — Mr. Hall moved to suspend the rules and pass the bill, as amended.
 - 2014-02-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 21 (Roll no. 55). (text: CR H1691)
 - 2014-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 21 (Roll no. 55).(text: CR H1691)
+- 2014-02-11 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 307.
