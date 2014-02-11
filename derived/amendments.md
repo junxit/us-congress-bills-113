@@ -1,7 +1,7 @@
 ---
 measure: S. 25
 congress: 113
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 

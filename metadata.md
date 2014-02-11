@@ -1,7 +1,7 @@
 ---
 measure: S. 25
 congress: 113
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 25
@@ -24,9 +24,10 @@ To ensure that the reduced annual cost-of-living adjustment to the retired pay o
 
 - Senate — Energy and Natural Resources Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2014-02-11 — [House 113-2-60](votes/house-113-2-0060.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (326–90)
+- 2014-02-12 — [Senate 113-2-35](votes/senate-113-2-0035.md) — On the Motion — **Motion Agreed to** (95–3)
 
 ## Actions
 
@@ -48,3 +49,14 @@ To ensure that the reduced annual cost-of-living adjustment to the retired pay o
 - 2014-02-11 — Mr. Fitzpatrick moved to suspend the rules and pass the bill, as amended.
 - 2014-02-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 326 - 90, 1 Present (Roll no. 60). (text: CR H1739)
 - 2014-02-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 326 - 90, 1 Present (Roll no. 60).(text: CR H1739)
+- 2014-02-12 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2014-02-12 — Message on Senate action sent to the House.
+- 2014-02-12 — Pursuant to the provisions of H. Con. Res. 81, enrollment corrections on S. 25 have been made.
+- 2014-02-12 — Resolving differences -- Senate actions: Senate agreed to House amendment to Senate bill by Yea-Nay Vote. 95 - 3. Record Vote Number: 35.(consideration: CR S934-935; text as Senate agreed to House amendment: CR S934)
+- 2014-02-12 — Senate agreed to House amendment to Senate bill by Yea-Nay Vote. 95 - 3. Record Vote Number: 35. (consideration: CR S934-935; text as Senate agreed to House amendment: CR S934)
+- 2014-02-14 — Presented to President.
+- 2014-02-14 — Presented to President.
+- 2014-02-15 — Became Public Law No: 113-82.
+- 2014-02-15 — Became Public Law No: 113-82.
+- 2014-02-15 — Signed by President.
+- 2014-02-15 — Signed by President.
