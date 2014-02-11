@@ -1,15 +1,13 @@
 ---
 legis-num: S. 540
-congress: 113th CONGRESS
+congress: One Hundred Thirteenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 540
 
-That the bill from the Senate (S. 540) entitled “An Act to designate the air route traffic control center located in Nashua, New Hampshire, as the “Patricia Clark Boston Air Route Traffic Control Center”.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To temporarily extend the public debt limit, and for other purposes.
 
 ## § 1. Short title
 
