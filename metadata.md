@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 475
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 475
@@ -16,6 +16,15 @@ Providing for consideration of the bill (H.R. 3193) to amend the Consumer Financ
 
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (2)
+
+- 2014-02-11 — [House 113-2-58](votes/house-113-2-0058.md) — On Ordering the Previous Question — **Passed** (222–195)
+- 2014-02-11 — [House 113-2-59](votes/house-113-2-0059.md) — On Agreeing to the Resolution — **Passed** (223–193)
+
 ## Actions
 
 - 2014-02-10 — Introduced in House
@@ -23,3 +32,11 @@ Providing for consideration of the bill (H.R. 3193) to amend the Consumer Financ
 - 2014-02-10 — Placed on the House Calendar, Calendar No. 84.
 - 2014-02-10 — The House Committee on Rules reported an original measure, H. Rept. 113-350, by Mr. Sessions.
 - 2014-02-10 — The House Committee on Rules reported an original measure, H. Rept. 113-350, by Mr. Sessions.
+- 2014-02-11 — Considered as privileged matter. (consideration: CR H1731-1739)
+- 2014-02-11 — Considered as unfinished business. (consideration: CR H1741-1743)
+- 2014-02-11 — DEBATE - The House proceeded with one hour of debate on H. Res. 475.
+- 2014-02-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-02-11 — On agreeing to the resolution Agreed to by recorded vote: 223 - 193, 1 Present (Roll no. 59). (text: CR H1731)
+- 2014-02-11 — On ordering the previous question Agreed to by the Yeas and Nays: 222 - 195 (Roll no. 58). (consideration: CR H1739, H1742)
+- 2014-02-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 475, the Chair put the question on ordering the previous question, and by voice vote, announced that the ayes had prevailed. Mr. Polis demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2014-02-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 223 - 193, 1 Present (Roll no. 59).(text: CR H1731)
