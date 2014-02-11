@@ -1,7 +1,7 @@
 ---
 measure: S. 1068
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1068
@@ -39,3 +39,12 @@ National Oceanic and Atmospheric Administration Commissioned Officer Corps Amend
 - 2014-01-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 113-133.
 - 2014-01-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 113-133.
 - 2014-01-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 292.
+- 2014-02-11 — Amendment SA 2740 agreed to in Senate by Unanimous Consent.
+- 2014-02-11 — Amendment SA 2740 proposed by Senator Reid for Senator Begich. (consideration: CR S907-908; text: CR S907-908) To treat certain officers in the commissioned officer corps of the National Oceanic and Atmospheric Administration as employees of the Administration for purposes of vacant positions of employment open only to current employees of the Administration.
+- 2014-02-11 — Measure laid before Senate by unanimous consent. (consideration: CR S903-913; text of measure as reported in Senate: CR S903-907)
+- 2014-02-11 — Passed Senate with an amendment by Unanimous Consent. (text: CR S908-913)
+- 2014-02-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S908-913)
+- 2014-02-11 — Senate amendment agreed to: Amendment SA 2740 agreed to in Senate by Unanimous Consent.
+- 2014-02-11 — Senate amendment proposed (on the floor): Amendment SA 2740 proposed by Senator Reid for Senator Begich.(consideration: CR S907-908; text: CR S907-908)
+- 2014-02-11 — Senate amendment submitted
+- 2014-02-11 — The committee substitute as amended agreed to by Unanimous Consent. (consideration: CR S907)
