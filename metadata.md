@@ -1,7 +1,7 @@
 ---
 measure: S. 25
 congress: 113
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 25
@@ -24,6 +24,10 @@ To ensure that the reduced annual cost-of-living adjustment to the retired pay o
 
 - Senate — Energy and Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2014-02-11 — [House 113-2-60](votes/house-113-2-0060.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (326–90)
+
 ## Actions
 
 - 2013-01-22 — Introduced in Senate
@@ -34,3 +38,13 @@ To ensure that the reduced annual cost-of-living adjustment to the retired pay o
 - 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 46.
 - 2013-06-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4717-4722; text as passed Senate: CR S4717-4718)
 - 2013-06-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4717-4722; text as passed Senate: CR S4717-4718)
+- 2013-06-20 — Held at the desk.
+- 2013-06-20 — Message on Senate action sent to the House.
+- 2013-06-20 — Received in the House.
+- 2014-02-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-02-11 — Considered as unfinished business. (consideration: CR H1743)
+- 2014-02-11 — Considered under suspension of the rules. (consideration: CR H1739-1741)
+- 2014-02-11 — DEBATE - The House proceeded with forty minutes of debate on S. 25.
+- 2014-02-11 — Mr. Fitzpatrick moved to suspend the rules and pass the bill, as amended.
+- 2014-02-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 326 - 90, 1 Present (Roll no. 60). (text: CR H1739)
+- 2014-02-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 326 - 90, 1 Present (Roll no. 60).(text: CR H1739)
