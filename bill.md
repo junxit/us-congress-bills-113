@@ -7,11 +7,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3578
 
-> To ensure that any new or revised requirement providing for the screening, testing, or treatment of an airman or an air traffic controller for a sleep disorder is adopted pursuant to a rulemaking proceeding, and for other purposes.
+> To establish requirements for the adoption of any new or revised requirement providing for the screening, testing, or treatment of an airman or an air traffic controller for a sleep disorder, and for other purposes.
 
 ## § 1. Medical certification requirements for airmen and air traffic controllers relating to sleep disorders
 
-- **(a)** *In general* The Secretary of Transportation may implement or enforce a requirement providing for the screening, testing, or treatment (including consideration of all possible treatment alternatives) of an airman or an air traffic controller for a sleep disorder only if the requirement is adopted pursuant to a rulemaking proceeding.
+- **(a)** *In general* The Secretary of Transportation may, consistent with accepted medical standards and practices, implement or enforce a requirement providing for the screening, testing, or treatment (including consideration of all possible treatment alternatives) of an airman or an air traffic controller for a sleep disorder—
+  - **(1)** in the case of an airman, only if the requirement is adopted pursuant to a rulemaking proceeding; and
+  - **(2)** in the case of an air traffic controller, only if the Federal Aviation Administration meets its obligations pursuant to chapter 71 of title 5, United States Code.
 - **(b)** *Applicability* Subsection (a) shall not apply to a requirement that was in force before November 1, 2013.
 - **(c)** *Definitions* In this section, the following definitions apply:
   - **(1)** *Airman* The term “airman” has the meaning given that term in section 40102(a) of title 49, United States Code.

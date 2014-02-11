@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3578
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3578
@@ -75,3 +75,11 @@ To establish requirements for the adoption of any new or revised requirement pro
 - 2014-02-06 — Placed on the Union Calendar, Calendar No. 253.
 - 2014-02-06 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-343.
 - 2014-02-06 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-343.
+- 2014-02-11 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. LoBiondo objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2014-02-11 — Considered as unfinished business. (consideration: CR H1758)
+- 2014-02-11 — Considered under suspension of the rules. (consideration: CR H1744-1746)
+- 2014-02-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3578.
+- 2014-02-11 — Mr. LoBiondo moved to suspend the rules and pass the bill, as amended.
+- 2014-02-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1744)
+- 2014-02-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1744)
+- 2014-02-11 — The title of the measure was amended. Agreed to without objection.
