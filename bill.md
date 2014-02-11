@@ -1,15 +1,28 @@
 ---
 legis-num: S. 540
 congress: 113th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 540
 
-> To designate the air route traffic control center located in Nashua, New Hampshire, as the “Patricia Clark Boston Air Route Traffic Control Center”.
+That the bill from the Senate (S. 540) entitled “An Act to designate the air route traffic control center located in Nashua, New Hampshire, as the “Patricia Clark Boston Air Route Traffic Control Center”.”, do pass with the following
 
-## § 1. Designation of Patricia Clark Boston Air Route Traffic Control Center
+*Strike out all after the enacting clause and insert:*
 
-- **(a)** *In general* The air route traffic control center located in Nashua, New Hampshire, and any successor air route traffic control center at that location, shall be known and designated as the “Patricia Clark Boston Air Route Traffic Control Center”.
-- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the air route traffic control center referred to in subsection (a) shall be deemed to be a reference to the “Patricia Clark Boston Air Route Traffic Control Center”.
+## § 1. Short title
+
+This Act may be cited as the “Temporary Debt Limit Extension Act”.
+
+## § 2. Temporary extension of public debt limit
+
+- **(a)** *In general* Section 3101(b) of title 31, United States Code, shall not apply for the period beginning on the date of the enactment of this Act and ending on March 15, 2015.
+- **(b)** *Special rule relating to obligations issued during extension period* Effective March 16, 2015, the limitation in effect under section 3101(b) of title 31, United States Code, shall be increased to the extent that—
+  - **(1)** the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on March 16, 2015, exceeds
+  - **(2)** the face amount of such obligations outstanding on the date of the enactment of this Act.
+
+## § 3. Restoring Congressional authority over the national debt
+
+- **(a)** *Extension limited to necessary obligations* An obligation shall not be taken into account under section 2(b)(1) unless the issuance of such obligation was necessary to fund a commitment incurred pursuant to law by the Federal Government that required payment before March 16, 2015.
+- **(b)** *Prohibition on creation of cash reserve during extension period* The Secretary of the Treasury shall not issue obligations during the period specified in section 2(a) for the purpose of increasing the cash balance above normal operating balances in anticipation of the expiration of such period.
