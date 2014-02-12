@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3448
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3448
@@ -21,9 +21,10 @@ Small Cap Liquidity Reform Act of 2014
 - Rep. Carney, John C., Jr. [D-DE-At Large] (C001083)
 - Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ Small Cap Liquidity Reform Act of 2014
 - 2014-02-11 — Mr. Garrett moved to suspend the rules and pass the bill, as amended.
 - 2014-02-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 4 (Roll no. 62). (text: CR H1746-1747)
 - 2014-02-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 4 (Roll no. 62).(text: CR H1746-1747)
+- 2014-02-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
