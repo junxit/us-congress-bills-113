@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3578
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3578
@@ -83,3 +83,4 @@ To establish requirements for the adoption of any new or revised requirement pro
 - 2014-02-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1744)
 - 2014-02-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1744)
 - 2014-02-11 — The title of the measure was amended. Agreed to without objection.
+- 2014-02-12 — Received in the Senate.
