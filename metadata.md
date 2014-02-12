@@ -1,7 +1,7 @@
 ---
 measure: S. 1254
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1254
@@ -16,7 +16,7 @@ Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2014
 
 - Sen. Nelson, Bill [D-FL] (N000032)
 
-## Cosponsors (17)
+## Cosponsors (18)
 
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Begich, Mark [D-AK] (B001265)
@@ -35,6 +35,7 @@ Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2014
 - Sen. Heinrich, Martin [D-NM] (H001046)
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Markey, Edward J. [D-MA] (M000133)
 
 ## Committees (1)
 
@@ -48,3 +49,11 @@ Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2014
 - 2013-11-18 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. With written report No. 113-121.
 - 2013-11-18 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. With written report No. 113-121.
 - 2013-11-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 248.
+- 2014-02-12 — Amendment SA 2741 agreed to in Senate by Unanimous Consent.
+- 2014-02-12 — Amendment SA 2741 proposed by Senator Reid for Senator Nelson. (consideration: CR S961; text: CR S961) To make a minor technical correction.
+- 2014-02-12 — Measure laid before Senate by unanimous consent. (consideration: CR S961-963)
+- 2014-02-12 — Passed Senate with an amendment by Unanimous Consent. (text: CR S961-963)
+- 2014-02-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S961-963)
+- 2014-02-12 — Senate amendment agreed to: Amendment SA 2741 agreed to in Senate by Unanimous Consent.
+- 2014-02-12 — Senate amendment proposed (on the floor): Amendment SA 2741 proposed by Senator Reid for Senator Nelson.(consideration: CR S961; text: CR S961)
+- 2014-02-12 — Senate amendment submitted

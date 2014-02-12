@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1254
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -25,7 +25,7 @@ Section 603(a) is amended—
 - **(2)** in paragraph (11), by striking “and”;
 - **(3)** by redesignating paragraph (12) as paragraph (13);
 - **(4)** by inserting after paragraph (11) the following:
-  > - **(12)** the Centers for Disease Control; and
+  > - **(12)** the Centers for Disease Control and Prevention; and
 
 - **(5)** in paragraph (13), as redesignated, by striking “such”.
 
