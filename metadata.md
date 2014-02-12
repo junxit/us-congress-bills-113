@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 82
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 82
@@ -27,3 +27,4 @@ Providing a correction in the enrollment of S. 540.
 - 2014-02-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H1759)
 - 2014-02-12 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S963)
 - 2014-02-12 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S963)
+- 2014-02-14 — Message on Senate action sent to the House.
