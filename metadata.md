@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 350
 congress: 113
-version: Agreed to Senate
+version: Introduced in Senate
 ---
 
 # S.Res. 350

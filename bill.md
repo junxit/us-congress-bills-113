@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## Preamble
 
-- Whereas National Solidarity Day for Compassionate Patient Care promotes national awareness of the importance of compassionate and respectful relationships between health care professionals and their patients;
+- Whereas National Solidarity Day for Compassionate Patient Care promotes national awareness of the importance of compassionate and respectful relationships between health care professionals and their patients as reflected in attitudes that are sensitive to the values, autonomy, and cultural and ethnic backgrounds of patients and their families;
 - Whereas on February 14 of each year, medical professionals and students stand in solidarity to support compassion in health care as expressed by Dr. Randall Friese, triage physician at the University of Arizona Medical Center, who stated that the most important treatment he provided to Congresswoman Gabrielle Giffords after she was shot on January 8, 2011, was to hold her hand and reassure her that she was in the hospital and would be cared for;
 - Whereas physicians, nurses, and all other health care professionals are charged with practicing medicine as both an art and a science;
 - Whereas an awareness of the importance of compassion in health care encourages health care professionals to be mindful of the need to treat the patient rather than the disease;
@@ -22,6 +22,4 @@ That the Senate—
 
 - **(1)** designates February 14, 2014, as National Solidarity Day for Compassionate Patient Care;
 - **(2)** recognizes the importance and value of a respectful relationship between health care professionals and their patients as a means of promoting better health outcomes; and
-- **(3)** encourages all health care professionals to be mindful of the importance of both—
-  - **(A)** being humane and compassionate; and
-  - **(B)** providing technical expertise.
+- **(3)** encourages all health care professionals to be mindful of the important roles in medicine of humanism and compassion, as well as technical expertise.
