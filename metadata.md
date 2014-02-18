@@ -1,7 +1,7 @@
 ---
 measure: S. 1254
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1254
@@ -37,9 +37,11 @@ Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2014
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 - Sen. Markey, Edward J. [D-MA] (M000133)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Natural Resources Committee
+- House — Science, Space, and Technology Committee
 
 ## Actions
 
@@ -57,3 +59,7 @@ Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2014
 - 2014-02-12 — Senate amendment agreed to: Amendment SA 2741 agreed to in Senate by Unanimous Consent.
 - 2014-02-12 — Senate amendment proposed (on the floor): Amendment SA 2741 proposed by Senator Reid for Senator Nelson.(consideration: CR S961; text: CR S961)
 - 2014-02-12 — Senate amendment submitted
+- 2014-02-18 — Message on Senate action sent to the House.
+- 2014-02-18 — Received in the House.
+- 2014-02-18 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-02-18 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
