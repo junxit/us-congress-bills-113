@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1423
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -24,7 +24,7 @@ This Act may be cited as the “Taxpayers Right-To-Know Act”.
     - **(D)** estimate—
       - **(i)** the number of full-time employees who administer the program; and
       - **(ii)** the number of full-time equivalents (whose salary is paid in part or full by the Federal Government through a grant or contract, a subaward of a grant or contract, a cooperative agreement, or another form of financial award or assistance) who assist in administering the program; and
-  - **(3)** identify programs within the agency with duplicative or overlapping missions, services, and allowable uses of funds.
+  - **(3)** identify programs within the agency with duplicative or overlapping missions, services, and allowable uses of funds, including any finding of duplication or overlap identified by internal review, an Inspector General, the Government Accountability Office, or other report to the agency about the program.
 - **(b)** *Report* Not later than February 1 of each fiscal year, the head of each agency shall create a link on the homepage of the official public website of the agency to a report containing the following:
   - **(1)** *Identification and description of programs* The information required under subsection (a) with respect to the preceding fiscal year.
   - **(2)** *Performance reviews* The latest performance reviews (including the program performance reports required under section 1116 of title 31, United States Code) of each program of the agency identified under subsection (a)(1), including performance indicators, performance goals, output measures, and other specific metrics used to review the program and how the program performed on each.
