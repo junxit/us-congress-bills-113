@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1211
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,40 +11,41 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “FOIA Oversight and Implementation Act of 2013” or the “FOIA Act”.
+This Act may be cited as the “FOIA Oversight and Implementation Act of 2014” or the “FOIA Act”.
 
 ## § 2. Freedom of Information Act amendments
 
-- **(a)** *Electronic accessibility* Section 552 of title 5, United States Code is amended—
+- **(a)** *Electronic accessibility* Section 552 of title 5, United States Code, is amended—
   - **(1)** in subsection (a)—
     - **(A)** in paragraph (2)—
-      - **(i)** by striking “for public inspection and copying” and inserting “in an electronic, publicly accessible format”each place it appears;
-      - **(ii)** by striking subparagraph (E) and inserting the following new subparagraphs:
-        > - **(E)** copies of all records, regardless of form or format, that have been released three or more times under paragraph (3); and
+      - **(i)** by striking “for public inspection and copying” and inserting “in an electronic, publicly accessible format” each place it appears;
+      - **(ii)** by striking “; and” and inserting a semicolon;
+      - **(iii)** by striking subparagraph (E) and inserting the following new subparagraphs:
+        > - **(E)** copies of all releasable records, regardless of form or format, that have been requested three or more times under paragraph (3); and
         > - **(F)** a general index of the records referred to under subparagraphs (D) and (E);
 
-      - **(iii)** in the matter proceedingfollowing subparagraph (F) (as added by clause (ii) of this subparagraph)—
+      - **(iv)** in the matter following subparagraph (F) (as added by clause (ii) of this subparagraph)—
         - **(I)** by striking “subparagraph (D)” and inserting “subparagraphs (D) and (E)”; and
         - **(II)** by striking “subparagraph (E)” and inserting “subparagraph (F)”; and
     - **(B)** in paragraph (7)—
       - **(i)** in subparagraph (A), by striking “that will take longer than ten days to process”; and
       - **(ii)** in subparagraph (B), by inserting “automated” after “provides”;
   - **(2)** in subsection (g), by striking “make publicly available upon request” and inserting “make available in an electronic, publicly accessible format”; and
-  - **(3)** in subsection (i), by striking “the implementation” and inserting “compliance with and implementation of the requirements”; and
-  - **(4) (3)** by adding at the end the following new subsection:
-    > - **(m)** *FOIA Web site required* Not later than one year after the date of enactment of this subsection, the Office of Management and Budget shall ensure the existence and operation of a single Web site, accessible by the public at no cost to access, that allows the public to—
-    >   - **(1)** submit requests for records under subsection (a)(3); and
-    >   - **(2)** receive automated information about the status of a request under subsection (a)(7).
+  - **(3)** by adding at the end the following new subsection:
+    > - **(m)** *FOIA Web site required* Not later than one year after the date of enactment of this subsection, the Office of Management and Budget shall ensure the existence and operation of a single website, accessible by the public at no cost to access, that allows the public to—
+    >   - **(1)** submit requests for records under subsection (a)(3);
+    >   - **(2)** receive automated information about the status of a request under subsection (a)(7); and
+    >   - **(3)** file appeals.
 
-- **(b)** *Presumption of openness* Section 552(b) of title 5, United States Code, is amended in the matter preceding paragraph (1), by inserting “that would cause foreseeable harm and” after “matters”.
-- **(c)** *The Office of Government Information Services* Section 552 of title 5, United States Code is amended—
+- **(b)** *Presumption of openness* Section 552(b) of title 5, United States Code, is amended in the matter following paragraph (9), by inserting before “Any reasonably segregable portion” the following: “An agency may not withhold information under this subsection unless such agency reasonably foresees that disclosure would cause specific identifiable harm to an interest protected by an exemption, or if disclosure is prohibited by law.”.
+- **(c)** *The Office of Government Information Services* Section 552 of title 5, United States Code, is amended—
   - **(1)** in subsection (a)(4)(A)(i), by striking “the Director of the Office of Management and Budget” and inserting “the Director of the Office of Management and Budget, in consultation with the Director of the Office of Government Information Services,”; and
-  - **(2)** subsection (h) is amended to read as follows:
+  - **(2)** by amending subsection (h) to read as follows:
     > - **(h)** *The Office of Government Information Services*
     >   - **(1)** *Establishment* There is established the Office of Government Information Services within the National Archives and Records Administration. The head of the Office is the Director of the Office of Government Information Services.
     >   - **(2)** *Review of FOIA policy, procedure, and compliance* The Office of Government Information Services shall—
     >     - **(A)** review policies and procedures of agencies under this section;
-    >     - **(B)** review compliance with this section by agencies; and
+    >     - **(B)** review compliance with this section by agencies;
     >     - **(C)** identify methods that improve compliance under this section that may include—
     >       - **(i)** the timely processing of requests submitted to agencies under this section;
     >       - **(ii)** the system for assessing fees and fee waivers under this section; and
@@ -52,20 +53,20 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2013”
     >     - **(D)** review and provide guidance to agencies on the use of fees and fee waivers.
     >   - **(3)** *Mediation services* The Office of Government Information Services shall offer mediation services to resolve disputes between persons making requests under this section and agencies as a non-exclusive alternative to litigation and, at the discretion of the Office, may issue advisory opinions if mediation has not resolved the dispute.
     >   - **(4)** *Submission of report*
-    >     - **(A)** *In general* The Office of Government Information Services shall not less than annually submit to the committees described in subparagraph (C) and the President a report on the findings from the information reviewed and identified under paragraph (2) and legislative and regulatory recommendations to improve the administration of this section.
+    >     - **(A)** *In general* The Office of Government Information Services shall not less than annually submit to the committees described in subparagraph (C) and the President a report on the findings from the information reviewed and identified under paragraph (2), a summary of the Office’s activities under paragraph (3) (including any advisory opinions issued), and legislative and regulatory recommendations to improve the administration of this section.
     >     - **(B)** *Electronic availability of reports* The Office shall make available any report submitted under paragraph (A) in a publicly accessible format.
     >     - **(C)** *Congressional submission of report* The committees described in this subparagraph are the following:
     >       - **(i)** The Committee on Oversight and Government Reform of the House of Representatives.
     >       - **(ii)** The Committees on Homeland Security and Governmental Affairs and the Judiciary of the Senate.
-    >     - **(D)** *Direct submission of report* Any report submitted under paragraph (A) shall be submitted directly to the committees and the President, without any requirement that any officer or employee outside of the Office of Government Information Services, including the Archivist of the United States and the Director of the Office of Management and Budget, review such report.
+    >     - **(D)** *Direct submission of reports and testimony* Any report submitted under paragraph (A), any testimony, or any other communication to Congress shall be submitted directly to the committees and the President, without any requirement that any officer or employee outside of the Office of Government Information Services, including the Archivist of the United States and the Director of the Office of Management and Budget, review such report, testimony, or other communication.
     >   - **(5)** *Submission of additional information* The Director of the Office of Government Information Services may submit additional information to Congress and the President that the Director determines to be appropriate.
     >   - **(6)** *Annual meeting required* Not less than once a year, the Office of Government Information Services shall hold a meeting that is open to the public on the review and reports by the Office and permit interested persons to appear and present oral or written statements at such meeting.
 
 - **(d)** *Public resources* Section 552(a)(6)(A) of title 5, United States Code, is amended—
-  - **(1)** in clause (i), by striking “of such determination and the reasons therefor, and of the right of such person to appeal to the head of the agency any adverse determination; and” and inserting the following new subclauses: : “of—
+  - **(1)** in clause (i), by striking “of such determination and the reasons therefor, and of the right of such person to appeal to the head of the agency any adverse determination; and” and inserting the following: “of—
     > - **(I)** such determination and the reasons therefor;
     > - **(II)** the right of such person to seek assistance from the agency FOIA Public Liaison; and
-    > - **(III)** the right of such person to appeal to the head of the agency any adverse determination, not later than 90 days after the receipt of such adverse determination; and
+    > - **(III)** the right of such person to appeal to the head of the agency any adverse determination, within a period determined by the agency that is not less than 90 days after the receipt of such adverse determination; and
 
   - **(2)** in clause (ii), by striking the period and inserting the following: “and the right of such person to seek dispute resolution services from the agency FOIA Public Liaison or the Office of Government Information Services.”
 - **(e)** *Additional disclosure of information requirements* Section 552(a) of title 5, United States Code, is amended by adding at the end the following new paragraphs:
@@ -79,15 +80,16 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2013”
   >     - **(ii)** ensure timely disclosure of information; and
   >   - **(B)** establish procedures for identifying categories of records that may be disclosed regularly and additional records of interest to the public that are appropriate for public disclosure, and for posting such records in an electronic, publicly accessible format.
 
-- **(f)** *Agency FOIA report* Section 552(e) of title 5, United States Code, is amended—
+- **(f)** *Report on categories of information for disclosure* Not later than one year after the date of the enactment of this Act, and every two years thereafter, the Director of the Office of Information Policy of the Department of Justice, after consultation with agencies selected by the Director, shall submit to the Committee on Oversight and Government Reform of the House of Representatives and the Committees on Homeland Security and Governmental Affairs and the Judiciary of the Senate a report that identifies categories of records that would be appropriate for proactive disclosure, and shall make such report available in an electronic, publicly accessible format.
+- **(g)** *Agency FOIA report* Section 552(e) of title 5, United States Code, is amended—
   - **(1)** in paragraph (1)—
     - **(A)** by inserting “and to the Director of the Office of Government Information Services” after “the Attorney General of the United States”;
     - **(B)** in subparagraph (N), by striking “; and” and inserting a semicolon;
     - **(C)** in subparagraph (O), by striking the period and inserting a semicolon; and
     - **(D)** by adding at the end the following new subparagraphs:
       > - **(P)** the number of times the agency invoked a law enforcement exclusion under subsection (c);
-      > - **(Q)** the number of times the agency engaged in dispute resolution with the assistance of the Office of Government Information Services or the FOIA Public Liaison; and
-      > - **(R)** the number of records that were made available in an electronic, publicly accessible format under subsection (a)(2).”;; and
+      > - **(Q)** the number of times the agency engaged in dispute resolution with the assistance of the Office of Government Information Services or the FOIA Public Liaison;
+      > - **(R)** the number of records that were made available in an electronic, publicly accessible format under subsection (a)(2); and
       > - **(S)** the number of times the agency assessed a search or duplication fee under subsection (a)(4)(A) and did not comply with a time limit under subsection (a)(6).
 
   - **(2)** by amending paragraph (3) to read as follows:
@@ -116,15 +118,14 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2013”
     >       - **(II)** capable of being searched and aggregated; and
     >       - **(III)** permitted to be downloaded, including downloaded in bulk.
 
-- **(g)** *Search or duplication fees* Section 552(a)(4)(A)(viii) of title 5, United States Code, is amended by adding at the end the following new sentence: “Any agency that does assess search or duplication fees after failing to comply with a time limit under paragraph (6) shall provide written notice to the requester of the circumstance that justifies the fees. If an agency fails to provide such notice, the agency may not assess search or duplication fees.”.
-- **(g) (h)** *Government Accountability Office* Subsection (i) of section 552 of title 5, United States Code, is amended to read as follows:
+- **(h)** *Search or duplication fees* Section 552(a)(4)(A)(viii) of title 5, United States Code, is amended by adding at the end the following new sentence: “Any agency that does assess search or duplication fees after failing to comply with a time limit under paragraph (6) shall provide written notice to the requester of the circumstance that justifies the fees. If an agency fails to provide such notice, the agency may not assess search or duplication fees.”.
+- **(i)** *Government Accountability Office* Subsection (i) of section 552 of title 5, United States Code, is amended to read as follows:
   > - **(i)** *Government Accountability Office* The Government Accountability Office shall—
-  >   - **(1)** conduct audits of administrative agencies on the implementationcompliance with and implementation of the requirements of this section and issue reports detailing the results of such audits; and;
-  >   - **(2)** catalog the number of exemptions under subsection (b)(3) and agency use of such exemptions.
+  >   - **(1)** conduct audits of administrative agencies on compliance with and implementation of the requirements of this section and issue reports detailing the results of such audits;
   >   - **(2)** catalog the number of exemptions under subsection (b)(3) and agency use of such exemptions; and
   >   - **(3)** review and prepare a report on the processing of requests by agencies for information pertaining to an entity that has received assistance under title I of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5211 et seq.) during any period in which the Government owns or owned more than 50 percent of the stock of such entity.
 
-- **(h) (i)** *Chief FOIA Officer responsibilities; Council; review* Section 552 of title 5, United States Code is amended—
+- **(j)** *Chief FOIA Officer responsibilities; Council; review* Section 552 of title 5, United States Code, is amended—
   - **(1)** by striking subsections (j) and (k); and
   - **(2)** by inserting after subsection (i), the following new subsections:
     > - **(j)** *Chief FOIA Officer*
@@ -134,8 +135,9 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2013”
     >     - **(B)** monitor implementation of this section throughout the agency and keep the head of the agency, the chief legal officer of the agency, and the Attorney General appropriately informed of the agency’s performance in implementing this section;
     >     - **(C)** recommend to the head of the agency such adjustments to agency practices, policies, personnel, and funding as may be necessary to improve its implementation of this section;
     >     - **(D)** review and report to the Attorney General, through the head of the agency, at such times and in such formats as the Attorney General may direct, on the agency’s performance in implementing this section;
-    >     - **(E)** facilitate public understanding of the purposes of the statutory exemptions of this section by including concise descriptions of the exemptions in both the agency’s handbook issued under subsection (g), and the agency’s annual report on this section, and by providing an overview, where appropriate, of certain general categories of agency records to which those exemptions apply; and
-    >     - **(F)** designate one or more FOIA Public Liaisons.
+    >     - **(E)** facilitate public understanding of the purposes of the statutory exemptions of this section by including concise descriptions of the exemptions in both the agency’s handbook issued under subsection (g), and the agency’s annual report on this section, and by providing an overview, where appropriate, of certain general categories of agency records to which those exemptions apply;
+    >     - **(F)** serve as the primary agency liaison with the Office of Government Information Services and the Office of Information Policy; and
+    >     - **(G)** designate one or more FOIA Public Liaisons.
     >   - **(3)** *Compliance review required* The Chief FOIA Officer of each agency shall—
     >     - **(A)** review, not less than annually, all aspects of the agency’s administration of this section to ensure compliance with the requirements of this section, including—
     >       - **(i)** agency regulations;
@@ -168,7 +170,7 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2013”
     >     - **(D)** *Public availability of Council records* Except as provided in subsection (b), the records, reports, transcripts, minutes, appendixes, working papers, drafts, studies, agenda, or other documents that were made available to or prepared for or by the Council shall be made publicly available.
     >     - **(E)** *Minutes* Detailed minutes of each meeting of the Council shall be kept and shall contain a record of the persons present, a complete and accurate description of matters discussed and conclusions reached, and copies of all reports received, issued, or approved by the Council.
 
-- **(i) (j)** *Regulations*
+- **(k)** *Regulations*
   - **(1)** *Revision of regulations* Not later than 180 days after the date of the enactment of this Act, the head of each agency shall review the regulations of such agency and shall issue regulations on procedures for the disclosure of records under section 552 of title 5, United States Code, in accordance with the amendments made by this section. The regulations of each agency shall include—
     - **(A)** procedures for engaging in dispute resolution; and
     - **(B)** procedures for engaging with the Office of Government Information Services.
@@ -179,25 +181,28 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2013”
 
 ## § 3. Pilot program
 
-- **(a)** *Establishment* The Director of the Office of Management and Budget shall establish a pilot program for 3 years to review the benefits of FOIAonline to process requests and release information under section 552 of title 5, United States Code (commonly known as the Freedom of Information Act).
-- **(b)** *Plan required* Not later than 90 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall establish a plan to evaluate FOIAonline at no less than 3 agencies that have not previously participated in FOIAonline, including at least one of the following:
-  - **(1)** An agency that receives more than 50,000 requests annually for information under section 552 of title 5, United States Code.
-  - **(2)** An agency that receives between 25,000 and 50,000 requests annually for information under such section.
-  - **(3)** An agency that receives 25,000 or fewer requests annually for information under such section.
-- **(c)** *Agency use of Web site* Each agency selected under subsection (b) shall use FOIAonline to—
+- **(a)** *Establishment* The Director of the Office of Management and Budget shall establish a pilot program for 3 years to review the benefits of a centralized portal to process requests and release information under section 552 of title 5, United States Code (commonly known as the Freedom of Information Act).
+- **(b)** *Plan required* Not later than 90 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall establish a plan to evaluate the functionality and benefits of a centralized portal to receive and track requests made under section 552 of title 5, United States Code, by selecting no less than 3 agencies that have not previously participated in a centralized portal, including at least one of the following:
+  - **(1)** An agency that receives more than 30,000 requests annually for information under section 552 of title 5, United States Code.
+  - **(2)** An agency that receives between 15,000 and 30,000 requests annually for information under such section.
+  - **(3)** An agency that receives 15,000 or fewer requests annually for information under such section.
+- **(c)** *Agency use of Web site* Each agency selected under subsection (b) shall use the centralized portal to—
   - **(1)** receive requests under section 552 of title 5, United States Code;
-  - **(2)** process requests received under such section;
-  - **(3)** track the status of requests submitted under such section; and
-  - **(4)** make records released available publicly on FOIAonline.
-- **(d)** *Review required* The Director of the Office of Management and Budget shall, in consultation with the Attorney General, the Office of Government Information Services, and the head of each agency participating in the pilot program, review the benefits of FOIAonline, including—
-  - **(1)** any cost saving, resource saving, or efficiency gained through the use of FOIAonline;
+  - **(2)** consult with and refer requests to participating agencies;
+  - **(3)** if practicable, process requests received under such section;
+  - **(4)** track the status of requests submitted under such section; and
+  - **(5)** make records released available publicly through the centralized portal.
+- **(d)** *Review required* The Director of the Office of Management and Budget shall, in consultation with the Attorney General, the Office of Government Information Services, and the head of each agency participating in the pilot program, review the benefits of a centralized portal, including—
+  - **(1)** any cost saving, resource saving, or efficiency gained;
   - **(2)** any change in the amount of requests received under section 552 of title 5, United States Code;
   - **(3)** any increase in transparency and accessibility to Government information; and
   - **(4)** any changes in the ability to access and compile information needed for agency annual reports required under section 552 of title 5, United States Code.
-- **(e)** *Report required* Not later than 3 months after the completion of the pilot program, the head of each agency participating in the program shall submit to Congress a report on the impact of the pilot program on agency processes under section 552 of title 5, United States Code, whether the agency will continue to participate in FOIAonline, and any recommendations the head of the agency considers appropriate to continue the use of FOIAonline.
+- **(e)** *Report required* Not later than 3 months after the completion of the pilot program, the head of each agency participating in the program—
+  - **(1)** shall submit to Congress a report on the impact of the pilot program on agency processes under section 552 of title 5, United States Code, whether the agency will continue to participate in the centralized portal, and any recommendations the head of the agency considers appropriate; and
+  - **(2)** shall make such report available in an electronic, publicly accessible format.
 - **(f)** *Definitions* In this section:
   - **(1)** *Agency* The term agency has the meaning given such term in section 552(f) of title 5, United States Code.
-  - **(2)** *FOIAonline* The term FOIAonline means the electronic online portal FOIAonline.regulations.gov.
+  - **(2)** *Centralized portal* The term “centralized portal” means an electronic online portal that allows a requester to submit a request under section 552 of title 5, United States Code, to any participating agency, to track the status of a request, and to obtain a response to a request made through the portal.
 
 ## § 4. Inspector general review; adverse actions
 
@@ -207,3 +212,33 @@ This Act may be cited as the “FOIA Oversight and Implementation Act of 2013”
     - **(B)** make recommendations the Inspector General determines to be necessary to the head of the agency, including recommendations for disciplinary action.
   - **(2)** *Agency defined* In this subsection, the term “agency” has the meaning given that term under section 552(f) of title 5, United States Code.
 - **(b)** *Adverse actions* The withholding of information in a manner inconsistent with the requirements of section 552 of title 5, United States Code (including any rules, regulations, or other implementing guidelines), as determined by the appropriate supervisor, shall be a basis for disciplinary action in accordance with subchapter I, II, or V of chapter 75 of such title, as the case may be.
+
+## § 5. Open Government Advisory Committee
+
+- **(a)** *Establishment* The Archivist of the United States shall establish an Open Government Advisory Committee (in this section, referred to as the “Committee”), an independent advisory committee to make recommendations for improving Government transparency.
+- **(b)** *Membership; chair; meetings; qualifications of members* The Committee shall be composed of at least nine members appointed by the Archivist, one of whom shall be designated the Chair by the members, and shall meet at such times and places as may be designated by the Chair. Each member of the Committee shall be qualified by education, training, or experience to make recommendations on improving Government transparency. The membership of the Committee shall include—
+  - **(1)** representatives of the Department of Justice and the Office of Government Information Services;
+  - **(2)** at least two members with experience requesting information under section 552 of title 5, United States Code (including one member of the news media); and
+  - **(3)** at least one member with expertise in information technology.
+- **(c)** *Compensation* While serving on the business of the Committee, and while so serving away from home and the member’s regular place of business, a member may be allowed travel expenses, as authorized by the Archivist.
+- **(d)** *Conflict of interest disclosure* The members of the Committee shall be considered to be special Government employees (as such term is defined in section 202 of title 18, United States Code).
+- **(e)** *Staff* The Archivist may appoint and fix the compensation of such personnel as may be necessary to enable the Committee to carry out its functions. Any personnel of the Committee who are employees shall be employees under section 2105 of title 5, United States Code. Any Federal Government employee may be detailed to the Committee without reimbursement from the Committee, and such detailee shall retain the rights, status, and privileges of regular employment of such employee without interruption.
+- **(f)** *Applicability of the Federal Advisory Committee Act* The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee and any subcommittee or subgroup thereof.
+- **(g)** *Disclosure of information* The Archivist shall make publicly available the following information:
+  - **(1)** The charter of the Committee.
+  - **(2)** A description of the process used to establish and appoint the members of the Committee, including the following:
+    - **(A)** The process for identifying prospective members.
+    - **(B)** The process of selecting members for balance of viewpoints or expertise.
+    - **(C)** The reason each member was appointed to the Committee.
+  - **(3)** A list of all current members, including, for each member, the name of any person or entity that nominated the member.
+  - **(4)** A summary of the process used by the Committee for making decisions.
+  - **(5)** A transcript or audio or visual recording of each meeting of the Committee.
+  - **(6)** Any written determination by the President or the Archivist, pursuant to section 10(d) of the Federal Advisory Committee Act (5 U.S.C. App.), to close a meeting or any portion of a meeting and the reasons for such determination.
+  - **(7)** Notices of future meetings of the Committee.
+- **(h)** *Manner of disclosure*
+  - **(1)** *Website publication* Except as provided in paragraph (2), the Archivist shall make the information required to be disclosed under this section available electronically on the official public website of the National Archives and Records Administration at least 15 calendar days before each meeting of the Committee. If the Archivist determines that such timing is not practicable for any required information, the Archivist shall make the information available as soon as practicable but no later than 48 hours before the next meeting of the Committee.
+  - **(2)** *Availability of Committee meeting* The Archivist shall make available electronically, on the official public website of the National Archives and Records Administration, a transcript or audio or video recording of each Committee meeting not later than 30 calendar days after such meeting.
+
+## § 6. No additional funds authorized
+
+No additional funds are authorized to carry out the requirements of this Act and the amendments made by this Act. Such requirements shall be carried out using amounts otherwise authorized or appropriated.

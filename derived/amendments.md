@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1211
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-30 amendatory instructions. 9 executed, 21 stated and not applied.
+30 amendatory instructions. 8 executed, 22 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 5 U.S.C. § 552
 
-> by striking “for public inspection and copying” and inserting “in an electronic, publicly accessible format”each place it appears;
+> by striking “for public inspection and copying” and inserting “in an electronic, publicly accessible format” each place it appears;
 
 | | |
 |---|---|
@@ -59,15 +59,6 @@ to guess them.
 |---|---|
 | Removed | `make publicly available upon request` |
 | Inserted | `make available in an electronic, publicly accessible format` |
-
-### 5 U.S.C. § 552
-
-> in subsection (i), by striking “the implementation” and inserting “compliance with and implementation of the requirements”; and
-
-| | |
-|---|---|
-| Removed | `the implementation` |
-| Inserted | `compliance with and implementation of the requirements` |
 
 ### 5 U.S.C. § 552
 
@@ -114,24 +105,25 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `5 U.S.C. § 552` | replace | by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 552` | replace | by striking subparagraph (E) and inserting the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 552` | strike | in subparagraph (A), by striking “that will take longer than ten days to process”; and | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 552` | insert | in subparagraph (B), by inserting “automated” after “provides”; | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 552` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 552` | insert | Section 552(b) of title 5, United States Code, is amended in the matter preceding paragraph (1), by inserting “that would cause foreseeable harm and” after “matters”. | the bill quotes the text inserted but describes where it goes |
-| `5 U.S.C. § 552` | amend | subsection (h) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 552` | replace | in clause (i), by striking “of such determination and the reasons therefor, and of the right of such person to appeal to the head of the agency any adverse determination; and” and inserting the following new subclauses: : “of— | the bill quotes the text struck but describes what replaces it |
+| `5 U.S.C. § 552` | insert | Section 552(b) of title 5, United States Code, is amended in the matter following paragraph (9), by inserting before “Any reasonably segregable portion” the following: “An agency may not withhold information under this subsection unless … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 552` | amend | by amending subsection (h) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 552` | replace | in clause (i), by striking “of such determination and the reasons therefor, and of the right of such person to appeal to the head of the agency any adverse determination; and” and inserting the following: “of— | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 552` | replace | in clause (ii), by striking the period and inserting the following: “and the right of such person to seek dispute resolution services from the agency FOIA Public Liaison or the Office of Government Information Services.” | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 552` | add-at-end | Section 552(a) of title 5, United States Code, is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 552` | insert | by inserting “and to the Director of the Office of Government Information Services” after “the Attorney General of the United States”; | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 552` | replace | in subparagraph (N), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 552` | replace | in subparagraph (O), by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 552` | amend | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 552` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 552` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 552` | insert | by inserting “and the Director of the Office of Government Information Services” after “the Director of the Office of Management and Budget”; and | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 552` | strike | by striking “by October 1, 1997”; and | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 552` | amend | by amending paragraph (6) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 552` | amend | Section 552(a)(4)(A)(viii) of title 5, United States Code, is amended by adding at the end the following new sentence: “Any agency that does assess search or duplication fees after failing to comply with a time limit under paragraph (6) … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 552` | add-at-end | Section 552(a)(4)(A)(viii) of title 5, United States Code, is amended by adding at the end the following new sentence: “Any agency that does assess search or duplication fees after failing to comply with a time limit under paragraph (6) … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 552` | amend | Subsection (i) of section 552 of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 552` | strike | by striking subsections (j) and (k); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 552` | insert | by inserting after subsection (i), the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
