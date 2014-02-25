@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1423
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1423
@@ -43,3 +43,8 @@ Taxpayers Right-To-Know Act
 - 2014-02-21 — Placed on the Union Calendar, Calendar No. 263.
 - 2014-02-21 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-355.
 - 2014-02-21 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-355.
+- 2014-02-25 — Considered under suspension of the rules. (consideration: CR H1902-1904)
+- 2014-02-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1423.
+- 2014-02-25 — Mr. Lankford moved to suspend the rules and pass the bill, as amended. (consideration: CR H1902)
+- 2014-02-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1902-1903)
+- 2014-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1902-1903)
