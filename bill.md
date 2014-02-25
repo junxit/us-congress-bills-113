@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2530
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -27,4 +27,8 @@ Not later than 30 days after receiving any written correspondence from a taxpaye
 
 ## § 4. Deadline for conclusion of audits of individual taxpayers
 
-Any audit of a tax return of an individual by the Internal Revenue Service shall be concluded not later than 1 year after the date of the initiation of such audit and the Internal Revenue Service shall not assess any tax with respect to which such audit relates after the conclusion of such audit.
+If any audit of a tax return of an individual by the Internal Revenue Service is not concluded before the end of the 1-year period beginning on the date of the initiation of such audit, the Internal Revenue Service shall provide the taxpayer a written letter explaining why such audit has taken more than 1 year to complete.
+
+## § 5. No additional funds authorized
+
+No additional funds are authorized to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized or appropriated.
