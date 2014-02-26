@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1232
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1232
@@ -20,9 +20,10 @@ Federal Information Technology Acquisition Reform Act
 
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 - Senate — Armed Services Committee
 
 ## Actions
@@ -40,3 +41,5 @@ Federal Information Technology Acquisition Reform Act
 - 2014-02-25 — Placed on the Union Calendar, Calendar No. 267.
 - 2014-02-25 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-359.
 - 2014-02-25 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-359.
+- 2014-02-26 — Committee on Armed Services Subcommittee on Readiness and Management Support. Hearings held.
+- 2014-02-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
