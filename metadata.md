@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1123
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1123
@@ -29,9 +29,10 @@ Unlocking Consumer Choice and Wireless Competition Act
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -57,3 +58,4 @@ Unlocking Consumer Choice and Wireless Competition Act
 - 2014-02-25 — Placed on the Union Calendar, Calendar No. 264.
 - 2014-02-25 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-356.
 - 2014-02-25 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-356.
+- 2014-02-26 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
