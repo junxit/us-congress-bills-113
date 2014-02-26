@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3308
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3308
@@ -146,3 +146,8 @@ Taxpayer Transparency Act of 2014
 - 2014-02-25 — Placed on the Union Calendar, Calendar No. 266.
 - 2014-02-25 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-358.
 - 2014-02-25 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-358.
+- 2014-02-26 — Considered under suspension of the rules. (consideration: CR H1947-1950)
+- 2014-02-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3308.
+- 2014-02-26 — Mr. Farenthold moved to suspend the rules and pass the bill, as amended. (consideration: CR H1947)
+- 2014-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1947-1948)
+- 2014-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1947-1948)

@@ -15,7 +15,7 @@ This Act may be cited as the “Taxpayer Transparency Act of 2014”.
 
 ## § 2. Requirements for printed materials and advertisements by Federal agencies
 
-- **(a)** *Requirement to identify funding source for communication funded by Federal agency* Each communication funded by a Federal agency that is an advertisement, or that provides information about any Federal Government program, benefit, or service, shall clearly state—
+- **(a)** *Requirement To identify funding source for communication funded by Federal agency* Each communication funded by a Federal agency that is an advertisement, or that provides information about any Federal Government program, benefit, or service, shall clearly state—
   - **(1)** in the case of a printed communication, including mass mailings, signs, and billboards, that the communication is printed or published at taxpayer expense; and
   - **(2)** in the case of a communication transmitted through radio, television, the Internet, or any means other than the means referred to in paragraph (1), that the communication is produced or disseminated at taxpayer expense.
 - **(b)** *Additional requirements*
