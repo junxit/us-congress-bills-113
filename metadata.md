@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1944
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1944
@@ -25,6 +25,10 @@ Private Property Rights Protection Act of 2014
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2014-02-26 — [House 113-2-67](votes/house-113-2-0067.md) — On Motion to Suspend the Rules and Pass — **Passed** (353–65)
+
 ## Actions
 
 - 2013-05-09 — Introduced in House
@@ -42,3 +46,6 @@ Private Property Rights Protection Act of 2014
 - 2014-02-25 — Placed on the Union Calendar, Calendar No. 265.
 - 2014-02-25 — Reported by the Committee on Judiciary. H. Rept. 113-357.
 - 2014-02-25 — Reported by the Committee on Judiciary. H. Rept. 113-357.
+- 2014-02-26 — Considered as unfinished business. (consideration: CR H1960)
+- 2014-02-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 353 - 65 (Roll no. 67). (text: CR 2/25/3014 H1913-1914)
+- 2014-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 353 - 65 (Roll no. 67).(text: CR 2/25/3014 H1913-1914)
