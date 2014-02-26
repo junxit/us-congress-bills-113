@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3865
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3865
@@ -89,6 +89,12 @@ Stop Targeting of Political Beliefs by the IRS Act of 2014
 
 - House — Ways and Means Committee
 
+## Recorded votes (3)
+
+- 2014-02-26 — [House 113-2-68](votes/house-113-2-0068.md) — On Motion to Recommit with Instructions — **Failed** (191–230)
+- 2014-02-26 — [House 113-2-69](votes/house-113-2-0069.md) — On Passage — **Passed** (243–176)
+- 2014-02-26 — [House 113-2-70](votes/house-113-2-0070.md) — On Agreeing to the Amendment — **Failed** (177–241)
+
 ## Actions
 
 - 2014-01-14 — Introduced in House
@@ -99,3 +105,24 @@ Stop Targeting of Political Beliefs by the IRS Act of 2014
 - 2014-02-18 — Placed on the Union Calendar, Calendar No. 261.
 - 2014-02-18 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-353.
 - 2014-02-18 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-353.
+- 2014-02-25 — Rules Committee Resolution H. Res. 487 Reported to House. The resolution provides for consideration of H.R. 3865 and H.R. 2804. The resolution provides for one hour of debate for each bill.
+- 2014-02-26 — Amendment (A002) offered by Mr. Polis. (consideration: CR H1970-1971; text: CR H1970)
+- 2014-02-26 — Amendment failed by House: On agreeing to the Polis amendment (A002) Failed by recorded vote: 177 - 241 (Roll no. 70).
+- 2014-02-26 — Considered under the provisions of rule H. Res. 487. (consideration: CR H1960-1971)
+- 2014-02-26 — DEBATE - Pursuant to clause 6 of Rule 16, the Chair announced the amendment was not debatable.
+- 2014-02-26 — DEBATE - The House continued with debate on H.R. 3865.
+- 2014-02-26 — DEBATE - The House proceeded with 10 minutes of debate on the Van Hollen motion to recommit with instructions, pending the reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add 2 sections to the bill. The first would prohibit limitations on the Secretary of the Treasury to issue regulations requiring the disclosure of secret political donors. The second would prohibit the bill from taking effect until certain unemployment benefits are restored. The point of order was withdrawn.
+- 2014-02-26 — DEBATE - The House proceeded with one hour of debate on H.R. 3865.
+- 2014-02-26 — House amendment not agreed to: On agreeing to the Polis amendment (A002) Failed by recorded vote: 177 - 241 (Roll no. 70).
+- 2014-02-26 — House amendment offered
+- 2014-02-26 — House amendment offered
+- 2014-02-26 — House amendment offered/reported by: Amendment (A002) offered by Mr. Polis.(consideration: CR H1970-1971; text: CR H1970)
+- 2014-02-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-02-26 — Mr. Van Hollen moved to recommit with instructions to Ways and Means. (consideration: CR H1968-1970; text: CR H1968-1969)
+- 2014-02-26 — On agreeing to the Polis amendment (A002) Failed by recorded vote: 177 - 241 (Roll no. 70).
+- 2014-02-26 — On motion to recommit with instructions Failed by the Yeas and Nays: 191 - 230 (Roll no. 68). (consideration: CR H1969-1970)
+- 2014-02-26 — On passage Passed by recorded vote: 243 - 176 (Roll no. 69). (text: CR H1961)
+- 2014-02-26 — Passed/agreed to in House: On passage Passed by recorded vote: 243 - 176 (Roll no. 69).(text: CR H1961)
+- 2014-02-26 — Roll call votes on amendments in House
+- 2014-02-26 — The previous question was ordered pursuant to the rule. (consideration: CR H1968)
+- 2014-02-26 — The resolution provides for consideration of H.R. 3865 and H.R. 2804. The resolution provides for one hour of debate for each bill.
