@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1211
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1211
@@ -21,9 +21,10 @@ FOIA Act
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 - Rep. Quigley, Mike [D-IL-5] (Q000023)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ FOIA Act
 - 2014-02-25 — Mr. Issa moved to suspend the rules and pass the bill, as amended. (consideration: CR H1887)
 - 2014-02-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 63). (text: CR H1887-1890)
 - 2014-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 63).(text: CR H1887-1890)
+- 2014-02-26 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
