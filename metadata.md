@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 487
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 487
@@ -16,6 +16,15 @@ Providing for consideration of the bill (H.R. 3865) to prohibit the Internal Rev
 
 - Rep. Woodall, Rob [R-GA-7] (W000810)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (2)
+
+- 2014-02-26 — [House 113-2-65](votes/house-113-2-0065.md) — On Ordering the Previous Question — **Passed** (224–192)
+- 2014-02-26 — [House 113-2-66](votes/house-113-2-0066.md) — On Agreeing to the Resolution — **Passed** (231–185)
+
 ## Actions
 
 - 2014-02-25 — Introduced in House
@@ -23,3 +32,9 @@ Providing for consideration of the bill (H.R. 3865) to prohibit the Internal Rev
 - 2014-02-25 — The House Committee on Rules reported an original measure, H. Rept. 113-361, by Mr. Woodall.
 - 2014-02-25 — The House Committee on Rules reported an original measure, H. Rept. 113-361, by Mr. Woodall.
 - 2014-02-25 — The resolution provides for consideration of H.R. 3865 and H.R. 2804. The resolution provides for one hour of debate for each bill.
+- 2014-02-26 — Considered as privileged matter. (consideration: CR H1950-1960)
+- 2014-02-26 — DEBATE - The House proceeded with one hour of debate on H. Res. 487.
+- 2014-02-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-02-26 — On agreeing to the resolution Agreed to by recorded vote: 231 - 185 (Roll no. 66). (text: CR H1950)
+- 2014-02-26 — On ordering the previous question Agreed to by the Yeas and Nays: 224 - 192 (Roll no. 65). (consideration: CR H1958-1959)
+- 2014-02-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 231 - 185 (Roll no. 66).(text: CR H1950)
