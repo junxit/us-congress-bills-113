@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1944
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1944
@@ -21,9 +21,10 @@ Private Property Rights Protection Act of 2014
 - Rep. Chabot, Steve [R-OH-1] (C000266)
 - Rep. Simpson, Michael K. [R-ID-2] (S001148)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Private Property Rights Protection Act of 2014
 - 2014-02-26 — Considered as unfinished business. (consideration: CR H1960)
 - 2014-02-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 353 - 65 (Roll no. 67). (text: CR 2/25/3014 H1913-1914)
 - 2014-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 353 - 65 (Roll no. 67).(text: CR 2/25/3014 H1913-1914)
+- 2014-02-27 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.

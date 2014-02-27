@@ -2,7 +2,7 @@
 legis-num: H.R. 1944
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1944
@@ -27,7 +27,7 @@ The Federal Government or any authority of the Federal Government shall not exer
 
 - **(a)** *Cause of Action* Any:
   - **(1)** owner of private property whose property is subject to eminent domain who suffers injury as a result of a violation of any provision of this Act with respect to that property; or
-  - **(2)** any tenant of property that is subject to eminent domain who suffers injury as a result of a violation of any provision of this Act with respect to that property, may bring an action to enforce any provision of this Act in the appropriate Federal or State court. A State shall not be immune under the 11th Amendment to the Constitution of the United States from any such action in a Federal or State court of competent jurisdiction. In such action, the defendant has the burden to show by clear and convincing evidence that the taking is not for economic development. Any such property owner or tenant may also seek an appropriate relief through a preliminary injunction or a temporary restraining order.
+    - **(2)** any tenant of property that is subject to eminent domain who suffers injury as a result of a violation of any provision of this Act with respect to that property, may bring an action to enforce any provision of this Act in the appropriate Federal or State court. A State shall not be immune under the 11th Amendment to the Constitution of the United States from any such action in a Federal or State court of competent jurisdiction. In such action, the defendant has the burden to show by clear and convincing evidence that the taking is not for economic development. Any such property owner or tenant may also seek an appropriate relief through a preliminary injunction or a temporary restraining order.
 - **(b)** *Limitation on Bringing Action* An action brought by a property owner or tenant under this Act may be brought if the property is used for economic development following the conclusion of any condemnation proceedings condemning the property of such property owner or tenant, but shall not be brought later than seven years following the conclusion of any such proceedings.
 - **(c)** *Attorneys’ Fee and Other Costs* In any action or proceeding under this Act, the court shall allow a prevailing plaintiff a reasonable attorneys’ fee as part of the costs, and include expert fees as part of the attorneys’ fee.
 
