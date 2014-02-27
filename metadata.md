@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1423
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1423
@@ -29,9 +29,10 @@ Taxpayers Right-To-Know Act
 - Rep. Walberg, Tim [R-MI-7] (W000798)
 - Rep. Nugent, Richard B. [R-FL-11] (N000185)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,5 @@ Taxpayers Right-To-Know Act
 - 2014-02-25 — Mr. Lankford moved to suspend the rules and pass the bill, as amended. (consideration: CR H1902)
 - 2014-02-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1902-1903)
 - 2014-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1902-1903)
+- 2014-02-26 — Received in the Senate.
+- 2014-02-27 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
