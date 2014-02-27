@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2531
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2531
@@ -28,9 +28,10 @@ Protecting Taxpayers from Intrusive IRS Requests Act
 - Rep. Black, Diane [R-TN-6] (B001273)
 - Rep. Reichert, David G. [R-WA-8] (R000578)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -42,3 +43,5 @@ Protecting Taxpayers from Intrusive IRS Requests Act
 - 2014-02-25 — Mr. Roskam moved to suspend the rules and pass the bill. (consideration: CR H1919)
 - 2014-02-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1919)
 - 2014-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1919)
+- 2014-02-26 — Received in the Senate.
+- 2014-02-27 — Read twice and referred to the Committee on Finance.
