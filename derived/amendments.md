@@ -1,7 +1,7 @@
 ---
 measure: S. 1982
 congress: 113
-version: Placed on Calendar Senate
+version: Referred to Committee Senate
 derived: true
 ---
 
