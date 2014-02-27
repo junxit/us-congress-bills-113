@@ -9,18 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend title 5, United States Code, to require the Administrator of the Office of Information and Regulatory Affairs to publish information about rules on the Internet, and for other purposes.
 
-## § 1. Short title
+## § 1. Short title; table of contents
 
-This Act may be cited as the “All Economic Regulations are Transparent Act of 2014” or the “ALERT Act of 2014”.
-
-## § 2. Office of Information and Regulatory Affairs publication of information relating to rules
-
-- **(a)** *Amendment* Title 5, United States Code, is amended by inserting after chapter 6, the following new chapter:
-- **(b)** *Technical and conforming amendment* The table of chapters for part I of title 5, United States Code, is amended by inserting after the item relating to chapter 5, the following:
-- **(c)** *Effective dates*
-  - **(1)** *Agency monthly submission to the Office of Information and Regulatory Affairs* The first submission required pursuant to section 651 of title 5, United States Code, as added by subsection (a), shall be submitted not later than 30 days after the date of the enactment of this Act, and monthly thereafter.
-  - **(2)** *Cumulative assessment of agency rule making*
-    - **(A)** *In general* Subsection (b) of section 652 of title 5, United States Code, as added by subsection (a), shall take effect on the date that is 60 days after the date of the enactment of this Act.
-    - **(B)** *Deadline* The first requirement to publish or make available, as the case may be, under subsection (b) of section 652 of title 5, United States Code, as added by subsection (a), shall be the first October 1 after the effective date of such subsection.
-    - **(C)** *First publication* The requirement under section 652(b)(2)(A) of title 5, United States Code, as added by subsection (a), shall include for the first publication, any analysis of the costs or benefits conducted for a proposed or final rule, for the 10 years before the date of the enactment of this Act.
-  - **(3)** *Requirement for rules to appear in agency-specific monthly publication* Section 653 of title 5, United States Code, as added by subsection (a), shall take effect on the date that is 8 months after the date of the enactment of this Act.
+- **(a)** *Short title* This Act may be cited as the “Achieving Less Excess in Regulation and Requiring Transparency Act of 2014” or as the “ALERRT Act of 2014”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
