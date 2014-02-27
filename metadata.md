@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3308
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3308
@@ -132,9 +132,10 @@ Taxpayer Transparency Act of 2014
 - Rep. Bentivolio, Kerry L. [R-MI-11] (B001280)
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -151,3 +152,4 @@ Taxpayer Transparency Act of 2014
 - 2014-02-26 — Mr. Farenthold moved to suspend the rules and pass the bill, as amended. (consideration: CR H1947)
 - 2014-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1947-1948)
 - 2014-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1947-1948)
+- 2014-02-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
