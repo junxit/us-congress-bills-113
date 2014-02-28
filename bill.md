@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 163
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -38,6 +38,13 @@ In this Act:
   - **(2)** any reference in the Wilderness Act to the Secretary of Agriculture shall be considered to be a reference to the Secretary.
 - **(b)** *Maintenance of roads outside wilderness boundary* Nothing in this Act prevents the maintenance and improvement of roads that are located outside the boundary of the wilderness area designated by section 3(a).
 - **(c)** *Fish and wildlife* Nothing in this Act affects the jurisdiction of the State of Michigan with respect to the management of fish and wildlife, including hunting and fishing within the national lakeshore in accordance with section 5 of Public Law 91–479 (16 U.S.C. 460x–4).
-- **(d)** *Savings provisions* Nothing in this Act modifies, alters, or affects—
+- **(d)** *Buffer zones*
+  - **(1)** *In general* Nothing in this section creates a protective perimeter or buffer zone around any area designated as wilderness by subsection (a).
+  - **(2)** *Activities outside wilderness* The fact that an activity or use on land outside any area designated as wilderness by subsection (a) can be seen or heard within the wilderness shall not preclude the activity or use outside the boundary of the wilderness.
+- **(e)** *Military overflights* Nothing in this section restricts or precludes—
+  - **(1)** low-level overflights of military aircraft over an area designated as wilderness by subsection (a), including military overflights that can be seen or heard within any wilderness area;
+  - **(2)** flight testing and evaluation; or
+  - **(3)** the designation or creation of new units of special use airspace, or the establishment of military flight training routes over the wilderness area.
+- **(f)** *Savings provisions* Nothing in this Act modifies, alters, or affects—
   - **(1)** any treaty rights; or
   - **(2)** any valid private property rights in existence on the day before the date of enactment of this Act.
