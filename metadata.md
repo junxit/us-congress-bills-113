@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3826
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3826
@@ -16,7 +16,7 @@ Electricity Security and Affordability Act
 
 - Rep. Whitfield, Ed [R-KY-1] (W000413)
 
-## Cosponsors (59)
+## Cosponsors (94)
 
 - Rep. Aderholt, Robert B. [R-AL-4] (A000055)
 - Rep. Barr, Andy [R-KY-6] (B001282)
@@ -77,6 +77,41 @@ Electricity Security and Affordability Act
 - Rep. Womack, Steve [R-AR-3] (W000809)
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 - Rep. Young, Todd [R-IN-9] (Y000064)
+- Rep. Brooks, Susan W. [R-IN-5] (B001284)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
+- Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
+- Rep. Massie, Thomas [R-KY-4] (M001184)
+- Rep. King, Steve [R-IA-4] (K000362)
+- Rep. Southerland, Steve II [R-FL-2] (S001186)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
+- Rep. Harper, Gregg [R-MS-3] (H001045)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. McIntyre, Mike [D-NC-7] (M000485)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Mullin, Markwayne [R-OK-2] (M001190)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Renacci, James B. [R-OH-16] (R000586)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Gibbs, Bob [R-OH-7] (G000563)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Byrne, Bradley [R-AL-1] (B001289)
+- Rep. Roby, Martha [R-AL-2] (R000591)
 
 ## Committees (1)
 
@@ -87,3 +122,10 @@ Electricity Security and Affordability Act
 - 2014-01-09 — Introduced in House
 - 2014-01-09 — Introduced in House
 - 2014-01-09 — Referred to the House Committee on Energy and Commerce.
+- 2014-01-10 — Referred to the Subcommittee on Energy and Power.
+- 2014-01-27 — Committee Consideration and Mark-up Session Held.
+- 2014-01-28 — Committee Consideration and Mark-up Session Held.
+- 2014-01-28 — Ordered to be Reported by the Yeas and Nays: 29 - 19.
+- 2014-02-28 — Placed on the Union Calendar, Calendar No. 271.
+- 2014-02-28 — Reported by the Committee on Energy and Commerce. H. Rept. 113-365.
+- 2014-02-28 — Reported by the Committee on Energy and Commerce. H. Rept. 113-365.
