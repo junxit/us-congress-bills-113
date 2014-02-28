@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3492
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,7 +15,7 @@ This Act may be cited as the “River Paddling Protection Act”.
 
 ## § 2. Regulations Superseded
 
-- **(a)** *In general* The following regulations shall have no force or effect with regard to hand-propelled vessels and the Secretary of the Interior may not issue substantially similar regulations that apply to hand-propelled vessels:
+- **(a)** *In general* The rivers and streams of Yellowstone National Park and Grand Teton National Park shall be open to hand-propelled vessels as determined by the director of the National Park Service within 3 years of the date of enactment of this Act. Beginning on the date that is 3 years after the date of enactment of this Act, the following regulations shall have no the force or effect regarding closing rivers and streams of Yellowstone National Park and Grand Teton National Park to hand-propelled vessels:
   - **(1)** Section 7.13(d)(4)(ii) of title 36, Code of Federal Regulations, regarding vessels on streams and rivers in Yellowstone National Park.
   - **(2)** Section 7.22(e)(3) of title 36, Code of Federal Regulations, regarding vessels on lakes and rivers in Grand Teton National Park.
-- **(b)** *Wildlife-Dependent recreational use* Notwithstanding section 25.21(a) of title 50, Code of Federal Regulations, regarding National Elk Refuge, the use of hand-propelled vessels on rivers and streams in the National Elk Refuge shall be considered a “wildlife-dependent recreational use” as that term is defined in section 5(2) of Public Law 89–669 (16 U.S.C. 668ee(2)).
+- **(b)** *Coordination of recreational use* The Fish and Wildlife Service shall coordinate any recreational use of hand-propelled vessels on the Gros Ventre River within the National Elk Refuge with Grand Teton National Park to ensure such use is consistent with the requirements of the National Wildlife Refuge Administration Act.
