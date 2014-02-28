@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Unfunded Mandates Information and Transparency Act of 2013”.
+This Act may be cited as the “Unfunded Mandates Information and Transparency Act of 2014”.
 
 ## § 2. Purpose
 
@@ -84,7 +84,7 @@ Section 201 of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1531) is amend
   >   - **(1)** The text of the draft proposed rulemaking or final rule, together with a reasonably detailed description of the need for the proposed rulemaking or final rule and an explanation of how the proposed rulemaking or final rule will meet that need.
   >   - **(2)** An assessment of the potential costs and benefits of the proposed rulemaking or final rule, including an explanation of the manner in which the proposed rulemaking or final rule is consistent with a statutory requirement and avoids undue interference with State, local, and tribal governments in the exercise of their governmental functions.
   >   - **(3)** A qualitative and quantitative assessment, including the underlying analysis, of benefits anticipated from the proposed rulemaking or final rule (such as the promotion of the efficient functioning of the economy and private markets, the enhancement of health and safety, the protection of the natural environment, and the elimination or reduction of discrimination or bias).
-  >   - **(4)** A qualitative and quantitative assessment, including the underlying analysis, of costs anticipated from the proposed rulemaking or final rule (such as the direct costs both to the Government in administering the final rule and to businesses and others in complying with the final rule, and any adverse effects on the efficient functioning of the economy, private markets (including productivity, employment, and international competitiveness), health, safety, and the natural environment);
+  >   - **(4)** A qualitative and quantitative assessment, including the underlying analysis, of costs anticipated from the proposed rulemaking or final rule (such as the direct costs both to the Government in administering the final rule and to businesses and others in complying with the final rule, and any adverse effects on the efficient functioning of the economy, private markets (including productivity, employment, and international competitiveness), health, safety, and the natural environment).
   >   - **(5)** Estimates by the agency, if and to the extent that the agency determines that accurate estimates are reasonably feasible, of—
   >     - **(A)** the future compliance costs of the Federal mandate; and
   >     - **(B)** any disproportionate budgetary effects of the Federal mandate upon any particular regions of the Nation or particular State, local, or tribal governments, urban or rural or other types of communities, or particular segments of the private sector.
