@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 4130
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4130
+
+> To amend the Internal Revenue Code of 1986 to encourage mixed-income housing development.
+
+## § 1. Short title
+
+This Act may be cited as the “Low and Moderate Income Housing Act of 2014”.
+
+## § 2. Mixed-income housing test for low-income housing credit
+
+- **(a)** *In general* Subparagraph (B) of section 42(g)(1) of the Internal Revenue Code of 1986 is amended to read as follows:
+  > - **(B)** *50–50–120 test* The project meets the requirements of this subparagraph if 50 percent or more of the residential units in such project are both rent-restricted and occupied by individuals whose income is at least 50 percent, but not more than 120 percent, of area median gross income.
+
+- **(b)** *Effective date* The amendments made by this section shall apply to determinations under section 42 of the Internal Revenue Code of 1986 with respect to housing credit dollar amounts allocated from State housing credit ceilings after the date of the enactment of this Act.
