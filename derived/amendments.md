@@ -1,7 +1,7 @@
 ---
 measure: H.R. 931
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `25 U.S.C. § 711e` | add-at-end | Section 7 of the Siletz Tribe Indian Restoration Act (25 U.S.C. 711e) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 711e` | amend | Section 7 of the Siletz Tribe Indian Restoration Act (25 U.S.C. 711e) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

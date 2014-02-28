@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 931
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,7 +9,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To provide for the addition of certain real property to the reservation of the Siletz Tribe in the State of Oregon.
 
-## § 1. Treatment of certain property of the Siletz tribe of the State of Oregon
+## § 1. Purpose; clarification
+
+- **(a)** *Purpose* The purpose of this Act is to facilitate fee-to-trust applications for the Siletz Tribe within the geographic area specified in the amendment made by this Act.
+- **(b)** *Clarification* Except as specifically provided otherwise by this Act or the amendment made by this Act, nothing in this Act or the amendment made by this Act, shall prioritize for any purpose the claims of any federally-recognized Indian tribe over the claims of any other federally-recognized Indian tribe.
+
+## § 2. Treatment of certain property of the Siletz tribe of the State of Oregon
 
 Section 7 of the Siletz Tribe Indian Restoration Act (25 U.S.C. 711e) is amended by adding at the end the following:
 
