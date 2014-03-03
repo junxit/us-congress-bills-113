@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3865
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3865
@@ -126,3 +126,5 @@ Stop Targeting of Political Beliefs by the IRS Act of 2014
 - 2014-02-26 — Roll call votes on amendments in House
 - 2014-02-26 — The previous question was ordered pursuant to the rule. (consideration: CR H1968)
 - 2014-02-26 — The resolution provides for consideration of H.R. 3865 and H.R. 2804. The resolution provides for one hour of debate for each bill.
+- 2014-02-27 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-03-03 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 313.
