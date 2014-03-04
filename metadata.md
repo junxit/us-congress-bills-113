@@ -1,7 +1,7 @@
 ---
 measure: H.R. 899
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 899
@@ -23,12 +23,13 @@ Unfunded Mandates Information and Transparency Act of 2014
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
 
-## Committees (4)
+## Committees (5)
 
 - House — Judiciary Committee
 - House — Rules Committee
 - House — Budget Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (5)
 
@@ -104,3 +105,4 @@ Unfunded Mandates Information and Transparency Act of 2014
 - 2014-02-28 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 899.
 - 2014-02-28 — The Speaker designated the Honorable Randy Hultgren to act as Chairman of the Committee.
 - 2014-02-28 — The previous question was ordered pursuant to the rule. (consideration: CR H2083)
+- 2014-03-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
