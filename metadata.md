@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2804
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2804
@@ -29,10 +29,11 @@ Achieving Less Excess in Regulation and Requiring Transparency Act of 2014
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (8)
 
@@ -183,3 +184,4 @@ Achieving Less Excess in Regulation and Requiring Transparency Act of 2014
 - 2014-02-27 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2026)
 - 2014-02-27 — The previous question was ordered pursuant to the rule. (consideration: CR H2025)
 - 2014-02-27 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2014-03-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
