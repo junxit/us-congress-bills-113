@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2259
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2259
@@ -39,3 +39,8 @@ North Fork Watershed Protection Act of 2014
 - 2014-02-28 — Placed on the Union Calendar, Calendar No. 276.
 - 2014-02-28 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-370.
 - 2014-02-28 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-370.
+- 2014-03-04 — Considered under suspension of the rules. (consideration: CR H2126-2128)
+- 2014-03-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2259.
+- 2014-03-04 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
+- 2014-03-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2127)
+- 2014-03-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2127)
