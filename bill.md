@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3370
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,120 +9,353 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To delay the implementation of certain provisions of the Biggert-Waters Flood Insurance Reform Act of 2012, and for other purposes.
 
-## § 1. Short title
+## § 1. Short title and table of contents
 
-This Act may be cited as the “Homeowner Flood Insurance Affordability Act of 2013”.
+- **(a)** *Short title* This Act may be cited as the “Homeowner Flood Insurance Affordability Act of 2014”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Definitions
 
-As used in this Act, the following definitions shall apply:
+For purposes of this title, the following definitions shall apply:
 
-- **(1)** *Adjusted base flood elevation* For purposes of rating a floodproofed covered structure, the term adjusted base flood elevation means the base flood elevation for a covered structure on the applicable effective flood insurance rate map, plus 1 foot.
-- **(2)** *Administrator* The term Administrator means the Administrator of the Federal Emergency Management Agency.
-- **(3)** *Affordability authority bill* The term affordability authority bill means a non-amendable bill that if enacted would only grant the Administrator the authority necessary to promulgate regulations in accordance with the criteria set forth in section 3(d)(2).
-- **(4)** *Affordability study* The term affordability study means the study required under section 100236 of the Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141; 126 Stat. 957).
-- **(5)** *Applicable flood plain management measures* The term applicable flood plain management measures means flood plain management measures adopted by a community under section 60.3(c) of title 44, Code of Federal Regulations.
-- **(6)** *Covered structure* The term covered structure means a residential structure—
-  - **(A)** that is located in a community that has adopted flood plain management measures that are approved by the Federal Emergency Management Agency and that satisfy the requirements for an exception for floodproofed residential basements under section 60.6(c) of title 44, Code of Federal Regulations; and
-  - **(B)** that was built in compliance with the applicable flood plain management measures.
-- **(7)** *Draft affordability framework* The term draft affordability framework means the draft programmatic and regulatory framework required to be prepared by the Administrator and submitted to Congress under section 3(d) addressing the issues of affordability of flood insurance sold under the National Flood Insurance Program, including issues identified in the affordability study.
-- **(8)** *Floodproofed elevation* The term floodproofed elevation means the height of floodproofing on a covered structure, as identified on the Residential Basement Floodproofing Certificate for the covered structure.
-- **(9)** *National Flood Insurance Program* The term National Flood Insurance Program means the program established under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.).
+- **(1)** *Administrator* The term Administrator means the Administrator of the Federal Emergency Management Agency.
+- **(2)** *National Flood Insurance Program* The term National Flood Insurance Program means the program established under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.).
 
-## § 3. Delayed implementation of flood insurance rate increases; draft affordability framework
+## § 3. Repeal of certain rate increases
 
-- **(a)** *Delayed implementation of flood insurance rate increases*
-  - **(1)** *Grandfathered properties* Beginning on the date of enactment of this Act, the Administrator may not increase risk premium rates for flood insurance for any property located in an area subject to the premium adjustment required under section 1308(h) of the National Flood Insurance Act of 1968 (42 U.S.C. 4015(h)).
-  - **(2)** *Pre-firm properties* Beginning on the date of enactment of this Act, the Administrator may not reduce the risk premium rate subsidies for flood insurance for any property—
-    - **(A)** described under section 1307(g)(1) of the National Flood Insurance Act of 1968 (42 U.S.C. 4014(g)(1)); or
-    - **(B)** described under 1307(g)(3) of the National Flood Insurance Act of 1968 (42 U.S.C. 4014(g)(3)), provided that the decision of the policy holder to permit a lapse in flood insurance coverage was as a result of the property no longer being required to retain such coverage.
-  - **(3)** *Expiration* The prohibitions set forth under paragraphs (1) and (2) shall expire 6 months after the later of—
-    - **(A)** the date on which the Administrator proposes the draft affordability framework;
-    - **(B)** the date on which any regulations proposed pursuant to the authority that the Administrator is granted in the affordability authority bill, if such bill is enacted, become final; or
-    - **(C)** the date on which the Administrator certifies in writing to Congress that the Federal Emergency Management Agency has implemented a flood mapping approach that utilizes sound scientific and engineering methodologies to determine varying levels of flood risk in all areas participating in the National Flood Insurance Program.
-- **(b)** *Property sale trigger* Section 1307(g)(2) of the National Flood Insurance Act of 1968 (42 U.S.C. 4014(g)(2)) is amended to read as follows:
-  > - **(2)** any property purchased after the expiration of the 6-month period set forth under section 3(a)(3) of the Homeowner Flood Insurance Affordability Act of 2013;
+- **(a)** *Repeal*
+  - **(1)** *In general* Section 1307(g) of the National Flood Insurance Act of 1968 (42 U.S.C. 4014(g)) is amended—
+    - **(A)** by striking paragraphs (1) and (2);
+    - **(B)** in paragraph (3), by striking “as a result of the deliberate choice of the holder of such policy” and inserting “, unless the decision of the policy holder to permit a lapse in flood insurance coverage was as a result of the property covered by the policy no longer being required to retain such coverage”; and
+    - **(C)** by redesignating paragraphs (3) and (4) as paragraphs (1) and (2), respectively.
+  - **(2)** *Effective Date* The Administrator shall make available such rate tables, as necessary to implement the amendments made by paragraph (1) as if it were enacted as part of the Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141; 126 Stat. 957).
+  - **(3)** *Implementation, coordination, and guidance*
+    - **(A)** *Facilitation of timely refunds* To ensure the participation of Write Your Own companies (as such term is defined in section 100202(a) of the Biggert-Waters Flood Insurance Reform Act of 2012 (42 U.S.C. 4004(a)), the Administrator and the Federal Emergency Management Agency shall consult with Write Your Own companies throughout the development of guidance and rate tables necessary to implement the provisions of and the amendments made by this Act.
+    - **(B)** *Implementation and guidance* The Administrator shall issue final guidance and rate tables necessary to implement the provisions of and the amendments made by this Act not later than eight months following the date of the enactment of this Act. Write Your Own companies, in coordination with the Federal Emergency Management Agency, shall have not less than six months but not more than eight months following the issuance of such final guidance and rate tables to implement the changes required by such final guidance and rate tables.
+  - **(4)** *Refund of excess premium charges collected* The Administrator shall refund directly to insureds any premiums for flood insurance coverage under the National Flood Insurance Program collected in excess of the rates required under the provisions of and amendments made by this section. To allow for necessary and appropriate implementation of such provisions and amendments, any premium changes necessary to implement such provisions and amendments, including any such premium refund due to policy holders, which shall be paid directly by the National Flood Insurance Program, shall not be charged or paid to policyholders by the National Flood Insurance Program until after the Administrator issues guidance and makes available such rate tables to implement the provisions of and amendments made by this Act.
+- **(b)** *Assumption of policies at existing premium rates* The Administrator shall provide that the purchaser of a property that, as of the date of such purchase, is covered under an existing flood insurance policy under this title may assume such existing policy and coverage for the remainder of the term of the policy at the chargeable premium rates under such existing policy. Such rates shall continue with respect to such property until the implementation of subsection (a).
 
-- **(c)** *Treatment of Pre-FIRM properties* Beginning on the date of enactment of this Act and ending upon the expiration of the 6-month period set forth under subsection (a)(3), the Administrator shall restore the risk premium rate subsidies for flood insurance estimated under section 1307(a)(2) of the National Flood Insurance Act of 1968 (42 U.S.C. 4014(a)(2)) for any property described in subparagraphs (A) and (B) of subsection (a)(2) of this Act and in section 1307(g)(2) of the National Flood Insurance Act of 1968 (42 U.S.C. 4014(g)(2)).
-- **(d)** *Draft affordability framework*
-  - **(1)** *In general* The Administrator shall prepare a draft affordability framework that proposes to address, via programmatic and regulatory changes, the issues of affordability of flood insurance sold under the National Flood Insurance Program, including issues identified in the affordability study.
-  - **(2)** *Criteria* In carrying out the requirements under paragraph (1), the Administrator shall consider the following criteria:
-    - **(A)** Accurate communication to consumers of the flood risk associated with their property.
-    - **(B)** Targeted assistance to flood insurance policy holders based on their financial ability to continue to participate in the National Flood Insurance Program.
-    - **(C)** Individual or community actions to mitigate the risk of flood or lower the cost of flood insurance.
-    - **(D)** The impact of increases in risk premium rates on participation in the National Flood Insurance Program.
-    - **(E)** The impact flood insurance rate map updates have on the affordability of flood insurance.
-  - **(3)** *Deadline for submission* Not later than 18 months after the date on which the Administrator submits the affordability study, the Administrator shall submit to the full Committee on Banking, Housing, and Urban Affairs and the full Committee on Appropriations of the Senate and the full Committee on Financial Services and the full Committee on Appropriations of the House of Representatives the draft affordability framework.
-- **(e)** *Congressional consideration of FEMA affordability authorities*
-  - **(1)** *No referral* Upon introduction in either House of Congress, an affordability authority bill shall not be referred to a committee and shall immediately be placed on the calendar.
-  - **(2)** *Consideration in the House of Representatives*
-    - **(A)** *Proceeding to consideration* It shall be in order to move to proceed to consider the affordability authority bill in the House. All points of order against the motion are waived. Such a motion shall not be in order after the House has disposed of a motion to proceed with respect to the affordability authority bill. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
-    - **(B)** *Consideration* The affordability authority bill shall be considered as read. All points of order against the affordability authority bill and against its consideration are waived. The previous question shall be considered as ordered on the affordability authority bill to its passage without intervening motion except 10 hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the affordability authority bill shall not be in order.
-  - **(3)** *Consideration in the Senate*
-    - **(A)** *Placement on the calendar* Upon introduction in the Senate, an affordability authority bill shall be immediately placed on the calendar.
-    - **(B)** *Floor consideration* Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order, at any time beginning on the day after the 6th day after the date of introduction of an affordability authority bill (even if a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the affordability authority bill and all points of order against consideration of the affordability authority bill are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the affordability authority bill is agreed to, the affordability authority bill shall remain the unfinished business until disposed of.
-    - **(C)** *Consideration* All points of order against the affordability authority bill are waived. Consideration of the affordability authority bill and of all debatable motions and appeals in connection therewith shall be limited to not more than 10 hours which shall be divided equally between the majority and minority leaders or their designees. A motion further to limit debate on the affordability authority bill is in order, and is not debatable.
-    - **(D)** *No amendments* An amendment to the affordability authority bill, or a motion to postpone, or a motion to proceed to the consideration of other business, or a motion to commit or recommit the affordability authority bill, is not in order.
-    - **(E)** *Vote on passage* If the Senate has voted to proceed to the affordability authority bill, the vote on passage of the affordability authority bill shall occur immediately following the conclusion of consideration of the affordability authority bill, and a single quorum call at the conclusion of the debate if requested in accordance with the rules of the Senate.
-  - **(4)** *Amendment* The affordability authority bill shall not be subject to amendment in either the House of Representatives or the Senate.
-  - **(5)** *Consideration by the other House*
-    - **(A)** *In general* If, before passing the affordability authority bill, one House receives from the other an affordability authority bill—
-      - **(i)** the affordability authority bill of the other House shall not be referred to a committee; and
-      - **(ii)** the procedure in the receiving House shall be the same as if no affordability authority bill had been received from the other House except that the vote on passage shall be on the affordability authority bill of the other House.
-    - **(B)** *Revenue measure* This subsection shall not apply to the House of Representatives if the affordability authority bill received from the Senate is a revenue measure.
-  - **(6)** *Coordination with action by other house*
-    - **(A)** *Treatment of affordability authority bill of other house* If the Senate fails to introduce or consider a affordability authority bill under this section, the affordability authority bill of the House shall be entitled to expedited floor procedures under this section.
-    - **(B)** *Treatment of companion measures in the senate* If following passage of the affordability authority bill in the Senate, the Senate then receives the affordability authority bill from the House of Representatives, the House-passed affordability authority bill shall not be debatable.
-    - **(C)** *Vetoes* If the President vetoes the affordability authority bill, debate on a veto message in the Senate under this section shall be 1 hour equally divided between the majority and minority leaders or their designees.
-  - **(7)** *Rules of the House of Representatives and Senate* This subsection is enacted by Congress—
-    - **(A)** as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of an affordability authority bill, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
-    - **(B)** with full recognition of the constitutional right of either House to change its rules at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
-- **(f)** *Interagency agreements* The Administrator may enter into an agreement with another Federal agency to—
-  - **(1)** complete the affordability study; or
-  - **(2)** prepare the draft affordability framework.
-- **(g)** *Clear communications* The Administrator shall clearly communicate full flood risk determinations to individual property owners regardless of whether their premium rates are full actuarial rates.
-- **(h)** *Rule of construction* Nothing in this section shall be construed to provide the Administrator with the authority to provide assistance to homeowners based on affordability that was not available prior to the enactment of the Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141; 126 Stat. 916).
+## § 4. Restoration of grandfathered rates
 
-## § 4. Affordability study and report
+- **(a)** *In general* Section 1308 of the National Flood Insurance Act of 1968 (42 U.S.C. 4015) is amended—
+  - **(1)** by striking subsection (h); and
+  - **(2)** by redesignating subsection (i) as subsection (h).
+- **(b)** *Effective date* The amendments made by subsection (a) shall take effect as if enacted as part of the Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141; 126 Stat. 957).
 
-Notwithstanding the deadline under section 100236(c) of the Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141; 126 Stat. 957), not later than 2 years after the date of enactment of this Act, the Administrator shall submit to the full Committee on Banking, Housing, and Urban Affairs and the full Committee on Appropriations of the Senate and the full Committee on Financial Services and the full Committee on Appropriations of the House of Representatives the affordability study and report required under such section.
+## § 5. Requirements regarding annual rate increases
 
-## § 5. Affordability study funding
+Section 1308(e) of the National Flood Insurance Act of 1968 (42 U.S.C. 4015(e)) is amended—
 
-Section 100236(d) of the Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141; 126 Stat. 957) is amended by striking “not more than $750,000” and inserting “such amounts as may be necessary”.
+- **(1)** in the matter preceding paragraph (1), by striking “, the chargeable risk premium rates for flood insurance under this title for any properties”;
+- **(2)** in paragraph (1), by inserting “the chargeable risk premium rates for flood insurance under this title for any properties” before “within any”;
+- **(3)** in paragraph (2), by inserting “the chargeable risk premium rates for flood insurance under this title for any properties” before “described in”;
+- **(4)** by redesignating paragraphs (1) and (2), as so amended, as paragraphs (3) and (4), respectively; and
+- **(5)** by inserting before paragraph (3), as so redesignated, the following new paragraphs:
+  > - **(1)** the chargeable risk premium rate for flood insurance under this title for any property may not be increased by more than 18 percent each year, except—
+  >   - **(A)** as provided in paragraph (4);
+  >   - **(B)** in the case of property identified under section 1307(g); or
+  >   - **(C)** in the case of a property that—
+  >     - **(i)** is located in a community that has experienced a rating downgrade under the community rating system program carried out under section 1315(b);
+  >     - **(ii)** is covered by a policy with respect to which the policyholder has—
+  >       - **(I)** decreased the amount of the deductible; or
+  >       - **(II)** increased the amount of coverage; or
+  >     - **(iii)** was misrated;
+  > - **(2)** the chargeable risk premium rates for flood insurance under this title for any properties initially rated under section 1307(a)(2) within any single risk classification, excluding properties for which the chargeable risk premium rate is not less than the applicable estimated risk premium rate under section 1307(a)(1), shall be increased by an amount that results in an average of such rate increases for properties within the risk classification during any 12-month period of not less than 5 percent of the average of the risk premium rates for such properties within the risk classification upon the commencement of such 12-month period;
 
-## § 6. Funds to reimburse homeowners for successful map appeals
+- **(6)** in paragraph (3) (as so redesignated by paragraph (4) of this section), by striking “20 percent” and inserting “15 percent”; and
+- **(7)** in paragraph (4) (as so redesignated) by paragraph (4) of this section), by striking “paragraph (1)” and inserting “paragraph (3)”.
 
-- **(a)** *In general* Section 1363(f) of the National Flood Insurance Act of 1968 (42 U.S.C. 4104(f)) is amended by striking the second sentence and inserting the following: “The Administrator may use such amounts from the National Flood Insurance Fund established under section 1310 as may be necessary to carry out this subsection.”.
-- **(b)** *Conforming amendment* Section 1310(a) of the National Flood Insurance Act of 1968 (42 U.S.C. 4017(a)) is amended—
+## § 6. Clarification of rates for properties newly mapped into areas with special flood hazards
+
+Section 1308 of the National Flood Insurance Act of 1968 (42 U.S.C. 4015), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection:
+
+> - **(i)** *Rates for properties newly mapped into areas with special flood hazards* Notwithstanding subsection (f), the premium rate for flood insurance under this title that is purchased on or after the date of the enactment of this subsection—
+>   - **(1)** on a property located in an area not previously designated as having special flood hazards and that, pursuant to any issuance, revision, updating, or other change in a flood insurance map, becomes designated as such an area; and
+>   - **(2)** where such flood insurance premium rate is calculated under subsection (a)(1) of section 1307 (42 U.S.C. 4014(a)(1)),
+
+## § 7. Premiums and reports
+
+Section 1308 of the National Flood Insurance Act of 1968 (42 U.S.C. 4015), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection:
+
+> - **(j)** *Premiums and reports* In setting premium risk rates, in addition to striving to achieve the objectives of this title the Administrator shall also strive to minimize the number of policies with annual premiums that exceed one percent of the total coverage provided by the policy. For any policies premiums that exceed this one percent threshold, the Administrator shall report such exceptions to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+## § 8. Annual premium surcharge
+
+- **(a)** *Premium surcharge* Chapter I of the National Flood Insurance Act of 1968 (42 U.S.C. 4011 et seq.) is amended by inserting after section 1308 the following new section:
+  > ## § 1308A. Premium surcharge
+  >
+  > - **(a)** *Imposition and collection* The Administrator shall impose and collect an annual surcharge, in the amount provided in subsection (b), on all policies for flood insurance coverage under the National Flood Insurance Program that are newly issued or renewed after the date of the enactment of this section. Such surcharge shall be in addition to the surcharge under section 1304(b) and any other assessments and surcharges applied to such coverage.
+  > - **(b)** *Amount* The amount of the surcharge under subsection (a) shall be—
+  >   - **(1)** $25, except as provided in paragraph (2); and
+  >   - **(2)** $250, in the case of a policy for any property that is—
+  >     - **(A)** a non-residential property; or
+  >     - **(B)** a residential property that is not the primary residence of an individual.
+  > - **(c)** *Termination* Subsections (a) and (b) shall cease to apply on the date on which the chargeable risk premium rate for flood insurance under this title for each property covered by flood insurance under this title, other than properties for which premiums are calculated under subsection (e) or (f) of section 1307 or section 1336 of this Act (42 U.S.C. 4014, 4056) or under section 100230 of the Biggert-Waters Flood Insurance Reform Act of 2012 (42 U.S.C. 4014 note), is not less than the applicable estimated risk premium rate under section 1307(a)(1) for such property.
+
+- **(b)** *Deposit in Reserve Fund* Subsection (c) of section 1310A of the National Flood Insurance Act of 1968 (42 U.S.C. 4017a) is amended by adding at the end the following new paragraph:
+  > - **(4)** *Deposit of premium surcharges* The Administrator shall deposit in the Reserve Fund any surcharges collected pursuant to section 1308A.
+
+## § 9. Draft affordability framework
+
+- **(a)** *In general* The Administrator shall prepare a draft affordability framework that proposes to address, via programmatic and regulatory changes, the issues of affordability of flood insurance sold under the National Flood Insurance Program, including issues identified in the affordability study required under section 100236 of the Bigger-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141; 126 Stat. 957).
+- **(b)** *Criteria* In carrying out the requirements under subsection (a), the Administrator shall consider the following criteria:
+  - **(1)** Accurate communication to consumers of the flood risk associated with their properties.
+  - **(2)** Targeted assistance to flood insurance policy holders based on their financial ability to continue to participate in the National Flood Insurance Program.
+  - **(3)** Individual or community actions to mitigate the risk of flood or lower the cost of flood insurance.
+  - **(4)** The impact of increases in risk premium rates on participation in the National Flood Insurance Program.
+  - **(5)** The impact flood insurance rate map updates have on the affordability of flood insurance.
+- **(c)** *Deadline for submission* Not later than 18 months after the date on which the Administrator submits the affordability study referred to in subsection (a), the Administrator shall submit to the full Committee on Banking, Housing, and Urban Affairs and the full Committee on Appropriations of the Senate and the full Committee on Financial Services and the full Committee on Appropriations of the House of Representatives the draft affordability framework required under subsection (a).
+- **(d)** *Interagency agreements* The Administrator may enter into an agreement with another Federal agency to—
+  - **(1)** complete the affordability study referred to in subsection (a); or
+  - **(2)** prepare the draft affordability framework required under subsection (a).
+- **(e)** *Rule of construction* Nothing in this section shall be construed to provide the Administrator with the authority to provide assistance to homeowners based on affordability that was not available prior to the enactment of the Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141; 126 Stat. 916).
+
+## § 10. Risk transfer
+
+Section 1345 of the National Flood Insurance Act of 1968 (42 U.S.C. 4081) is amended by adding at the end the following new subsection:
+
+> - **(e)** *Risk transfer* The Administrator may secure reinsurance of coverage provided by the flood insurance program from the private reinsurance and capital markets at rates and on terms determined by the Administrator to be reasonable and appropriate, in an amount sufficient to maintain the ability of the program to pay claims.
+
+## § 11. Monthly installment payment for premiums
+
+- **(a)** *In general* Subsection (g) of section 1308 of the National Flood Insurance Act of 1968 (42 U.S.C. 4015(g)) is amended by striking “either annually or in more frequent installments” and inserting “annually or monthly”.
+- **(b)** *Implementation* The Administrator shall implement the requirement under section 1308(g) of the National Flood Insurance Act of 1968, as amended by subsection (a), not later than the expiration of the 18-month period beginning on the date of the enactment of this Act.
+
+## § 12. Optional high-deductible policies for residential properties
+
+Section 1306 of the National Flood Insurance Act of 1968 (42 U.S.C. 4013)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection:
+
+> - **(e)** *Optional high-Deductible policies for residential properties*
+>   - **(1)** *Availability* In the case of residential properties, the Administrator shall make flood insurance coverage available, at the option of the insured, that provides for a loss-deductible for damage to the covered property in various amounts, up to and including $10,000.
+>   - **(2)** *Disclosure*
+>     - **(A)** *Form* The Administrator shall provide the information described in subparagraph (B) clearly and conspicuously on the application form for flood insurance coverage or on a separate form, segregated from all unrelated information and other required disclosures.
+>     - **(B)** *Information* The information described in this subparagraph is—
+>       - **(i)** information sufficient to inform the applicant of the availability of the coverage option required by paragraph (1) to applicants for flood insurance coverage; and
+>       - **(ii)** a statement explaining the effect of a loss-deductible and that, in the event of an insured loss, the insured is responsible out-of-pocket for losses to the extent of the deductible selected.
+
+## § 13. Exclusion of detached structures from mandatory purchase requirement
+
+- **(a)** *Exclusion* Subsection (c) of section 102 of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(c)) is amended by adding at the end the following new paragraph:
+  > - **(3)** *Detached structures* Notwithstanding any other provision of this section, flood insurance shall not be required, in the case of any residential property, for any structure that is a part of such property but is detached from the primary residential structure of such property and does not serve as a residence.
+
+- **(b)** *RESPA statement* Section 5(b) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604(b)) is amended—
+  - **(1)** in paragraph (14), by inserting before the period at the end the following: “, and the following statement: “Although you may not be required to maintain flood insurance on all structures, you may still wish to do so, and your mortgage lender may still require you to do so to protect the collateral securing the mortgage. If you choose to not maintain flood insurance on a structure, and it floods, you are responsible for all flood losses relating to that structure.””; and
+  - **(2)** by transferring and inserting paragraph (14), as so amended, after paragraph (13).
+
+## § 14. Accounting for flood mitigation activities in estimates of premium rates
+
+Subparagraph (A) of section 1307(a)(1) of the National Flood Insurance Act of 1968 (42 U.S.C. 4014(a)(1)(A)) is amended to read as follows:
+
+> - **(A)** based on consideration of—
+>   - **(i)** the risk involved and accepted actuarial principles; and
+>   - **(ii)** the flood mitigation activities that an owner or lessee has undertaken on a property, including differences in the risk involved due to land use measures, floodproofing, flood forecasting, and similar measures,
+
+## § 15. Home improvement fairness
+
+Section 1307(a)(2)(E)(ii) of the National Flood Insurance Act of 1968 (42 U.S.C. 4014(a)(2)(E)(ii)) is amended by striking “30 percent” and inserting “50 percent”.
+
+## § 16. Affordability study and report
+
+- **(a)** *Study issues* Subsection (a) of section 100236 of the Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141; 126 Stat. 957) is amended—
+  - **(1)** in paragraph (3), by striking “and” at the end;
+  - **(2)** in paragraph (4), by striking the period at the end and inserting a semicolon; and
+  - **(3)** by adding at the end the following new paragraphs:
+    > - **(5)** options for maintaining affordability if annual premiums for flood insurance coverage were to increase to an amount greater than 2 percent of the liability coverage amount under the policy, including options for enhanced mitigation assistance and means-tested assistance;
+    > - **(6)** the effects that the establishment of catastrophe savings accounts would have regarding long-term affordability of flood insurance coverage; and
+    > - **(7)** options for modifying the surcharge under 1308A, including based on homeowner income, property value or risk of loss.
+
+- **(b)** *Timing of submission* Notwithstanding the deadline under section 100236(c) of the Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141; 126 Stat. 957), not later than 18 months after the date of enactment of this Act, the Administrator shall submit to the full Committee on Banking, Housing, and Urban Affairs and the full Committee on Appropriations of the Senate and the full Committee on Financial Services and the full Committee on Appropriations of the House of Representatives the affordability study and report required under such section 100236.
+- **(c)** *Affordability study funding* Section 100236(d) of the Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141; 126 Stat. 957) is amended by striking “$750,000” and inserting “$2,500,000”.
+
+## § 17. Flood insurance rate map certification
+
+The Administrator shall implement a flood mapping program for the National Flood Insurance Program, only after review by the Technical Mapping Advisory Council, that, when applied, results in technically credible flood hazard data in all areas where Flood Insurance Rate Maps are prepared or updated, shall certify in writing to the Congress when such a program has been implemented, and shall provide to the Congress the Technical Mapping Advisory Council review report.
+
+## § 18. Funds to reimburse homeowners for successful map appeals
+
+- **(a)** *In general* Section 1363(f) of the National Flood Insurance Act of 1968 (42 U.S.C. 4104(f)) is amended—
+  - **(1)** in the first sentence, by inserting after “as the case may be,” the following: “or, in the case of an appeal that is resolved by submission of conflicting data to the Scientific Resolution Panel provided for in section 1363A, the community,”; and
+  - **(2)** by striking the second sentence and inserting the following: “The Administrator may use such amounts from the National Flood Insurance Fund established under section 1310 as may be necessary to carry out this subsection.”.
+- **(b)** *Conforming amendments* Section 1310(a) of the National Flood Insurance Act of 1968 (42 U.S.C. 4017(a)) is amended—
   - **(1)** in paragraph (6), by striking “and” at the end;
   - **(2)** in paragraph (7), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following:
     > - **(8)** for carrying out section 1363(f).
 
-## § 7. Flood protection systems
+## § 19. Flood protection systems
 
 - **(a)** *Adequate progress on construction of flood protection systems* Section 1307(e) of the National Flood Insurance Act of 1968 (42 U.S.C. 4014(e)) is amended—
   - **(1)** in the first sentence, by inserting “or reconstruction” after “construction”;
-  - **(2)** by amending the second sentence to read as follows: “The Administrator shall find that adequate progress on the construction or reconstruction of a flood protection system, based on the present value of the completed flood protection system, has been made only if (1) 100 percent of the cost of the system has been authorized, (2) at least 60 percent of the cost of the system has been appropriated, (3) at least 50 percent of the cost of the system has been expended, and (4) the system is at least 50 percent completed.”; and
+  - **(2)** by amending the second sentence to read as follows: “The Administrator shall find that adequate progress on the construction or reconstruction of a flood protection system, based on the present value of the completed flood protection system, has been made only if: (1) 100 percent of the cost of the system has been authorized; (2) at least 60 percent of the cost of the system has been appropriated; (3) at least 50 percent of the cost of the system has been expended; and (4) the system is at least 50 percent completed.”; and
   - **(3)** by adding at the end the following: “Notwithstanding any other provision of law, in determining whether a community has made adequate progress on the construction, reconstruction, or improvement of a flood protection system, the Administrator shall consider all sources of funding, including Federal, State, and local funds.”.
 - **(b)** *Communities restoring disaccredited flood protection systems* Section 1307(f) of the National Flood Insurance Act of 1968 (42 U.S.C. 4014(f)) is amended by amending the first sentence to read as follows: “Notwithstanding any other provision of law, this subsection shall apply to riverine and coastal levees that are located in a community which has been determined by the Administrator of the Federal Emergency Management Agency to be in the process of restoring flood protection afforded by a flood protection system that had been previously accredited on a Flood Insurance Rate Map as providing 100-year frequency flood protection but no longer does so, and shall apply without regard to the level of Federal funding of or participation in the construction, reconstruction, or improvement of the flood protection system.”.
 
-## § 8. Treatment of floodproofed residential basements
+## § 20. Quarterly reports regarding Reserve Fund ratio
 
-Notwithstanding the Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141; 126 Stat. 916), the amendments made by that Act, or any other provision of law, the Administrator shall rate a covered structure using the elevation difference between the floodproofed elevation of the covered structure and the adjusted base flood elevation of the covered structure.
+Subsection (e) of section 1310A of the National Flood Insurance Act of 1968 (42 U.S.C. 4017a) is amended, in the matter preceding paragraph (1), by inserting “, on a calendar quarterly basis,” after “submit”.
 
-## § 9. Designation of flood insurance advocate
+## § 21. Treatment of floodproofed residential basements
+
+The Administrator shall continue to extend exceptions and variances for flood-proofed basements consistent with section 60.6 of title 44, Code of Federal Regulations, which are effective April 3, 2009; and section 60.3 of such title, which are effective April 3, 2009.
+
+## § 22. Exemption from fees for certain map change requests
+
+Notwithstanding any other provision of law, a requester shall be exempt from submitting a review or processing fee for a request for a flood insurance rate map change based on a habitat restoration project that is funded in whole or in part with Federal or State funds, including dam removal, culvert redesign or installation, or the installation of fish passage.
+
+## § 23. Study of voluntary community-based flood insurance options
+
+- **(a)** *Study*
+  - **(1)** *Study required* The Administrator shall conduct a study to assess options, methods, and strategies for making available voluntary community-based flood insurance policies through the National Flood Insurance Program.
+  - **(2)** *Considerations* The study conducted under paragraph (1) shall—
+    - **(A)** take into consideration and analyze how voluntary community-based flood insurance policies—
+      - **(i)** would affect communities having varying economic bases, geographic locations, flood hazard characteristics or classifications, and flood management approaches; and
+      - **(ii)** could satisfy the applicable requirements under section 102 of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a); and
+    - **(B)** evaluate the advisability of making available voluntary community-based flood insurance policies to communities, subdivisions of communities, and areas of residual risk.
+  - **(3)** *Consultation* In conducting the study required under paragraph (1), the Administrator may consult with the Comptroller General of the United States, as the Administrator determines is appropriate.
+- **(b)** *Report by the Administrator*
+  - **(1)** *Report required* Not later than 18 months after the date of enactment of this Act, the Administrator shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that contains the results and conclusions of the study conducted under subsection (a).
+  - **(2)** *Contents* The report submitted under paragraph (1) shall include recommendations for—
+    - **(A)** the best manner to incorporate voluntary community-based flood insurance policies into the National Flood Insurance Program; and
+    - **(B)** a strategy to implement voluntary community-based flood insurance policies that would encourage communities to undertake flood mitigation activities, including the construction, reconstruction, or improvement of levees, dams, or other flood control structures.
+- **(c)** *Report by Comptroller General* Not later than 6 months after the date on which the Administrator submits the report required under subsection (b), the Comptroller General of the United States shall—
+  - **(1)** review the report submitted by the Administrator; and
+  - **(2)** submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that contains—
+    - **(A)** an analysis of the report submitted by the Administrator;
+    - **(B)** any comments or recommendations of the Comptroller General relating to the report submitted by the Administrator; and
+    - **(C)** any other recommendations of the Comptroller General relating to community-based flood insurance policies.
+
+## § 24. Designation of flood insurance advocate
 
 - **(a)** *In general* The Administrator shall designate a Flood Insurance Advocate to advocate for the fair treatment of policy holders under the National Flood Insurance Program and property owners in the mapping of flood hazards, the identification of risks from flood, and the implementation of measures to minimize the risk of flood.
 - **(b)** *Duties and responsibilities* The duties and responsibilities of the Flood Insurance Advocate designated under subsection (a) shall be to—
   - **(1)** educate property owners and policyholders under the National Flood Insurance Program on—
     - **(A)** individual flood risks;
     - **(B)** flood mitigation;
-    - **(C)** measures to reduce flood insurance rates through effective mitigation; and
-    - **(D)** the flood insurance rate map review and amendment process;
+    - **(C)** measures to reduce flood insurance rates through effective mitigation;
+    - **(D)** the flood insurance rate map review and amendment process; and
+    - **(E)** any changes in the flood insurance program as a result of any newly enacted laws (including this Act);
   - **(2)** assist policy holders under the National Flood Insurance Program and property owners to understand the procedural requirements related to appealing preliminary flood insurance rate maps and implementing measures to mitigate evolving flood risks;
   - **(3)** assist in the development of regional capacity to respond to individual constituent concerns about flood insurance rate map amendments and revisions;
   - **(4)** coordinate outreach and education with local officials and community leaders in areas impacted by proposed flood insurance rate map amendments and revisions; and
   - **(5)** aid potential policy holders under the National Flood Insurance Program in obtaining and verifying accurate and reliable flood insurance rate information when purchasing or renewing a flood insurance policy.
-- **(c)** *Authorization of appropriations* There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out the duties and responsibilities of the Flood Insurance Advocate.
+
+## § 25. Exceptions to escrow requirement for flood insurance payments
+
+- **(a)** *In general* Section 102(d)(1) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(d)(1)) is amended—
+  - **(1)** in subparagraph (A), in the second sentence, by striking “subparagraph (C)” and inserting “subparagraph (B)”; and
+  - **(2)** in subparagraph (B)—
+    - **(A)** in clause (ii), by redesignating subclauses (I) and (II) as items (aa) and (bb), respectively, and adjusting the margins accordingly;
+    - **(B)** by redesignating clauses (i) and (ii) as subclauses (I) and (II), respectively, and adjusting the margins accordingly;
+    - **(C)** in the matter preceding subclause (I), as redesignated by subparagraph (B), by striking “(A) or (B), if—” and inserting the following: “(A)—
+      > - **(i)** if—
+
+    - **(D)** by striking the period at the end and inserting “; or”; and
+    - **(E)** by adding at the end the following
+      > - **(ii)** in the case of a loan that—
+      >   - **(I)** is in a junior or subordinate position to a senior lien secured by the same residential improved real estate or mobile home for which flood insurance is being provided at the time of the origination of the loan;
+      >   - **(II)** is secured by residential improved real estate or a mobile home that is part of a condominium, cooperative, or other project development, if the residential improved real estate or mobile home is covered by a flood insurance policy that—
+      >     - **(aa)** meets the requirements that the regulated lending institution is required to enforce under subsection (b)(1);
+      >     - **(bb)** is provided by the condominium association, cooperative, homeowners association, or other applicable group; and
+      >     - **(cc)** the premium for which is paid by the condominium association, cooperative, homeowners association, or other applicable group as a common expense;
+      >   - **(III)** is secured by residential improved real estate or a mobile home that is used as collateral for a business purpose;
+      >   - **(IV)** is a home equity line of credit;
+      >   - **(V)** is a nonperforming loan; or
+      >   - **(VI)** has a term of not longer than 12 months.
+
+- **(b)** *Applicability*
+  - **(1)** *In general*
+    - **(A)** *Required application* The amendments to section 102(d)(1) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(d)(1)) made by section 100209(a) of the Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141; 126 Stat. 920) and by subsection (a) of this section shall apply to any loan that is originated, refinanced, increased, extended, or renewed on or after January 1, 2016.
+    - **(B)** *Optional application*
+      - **(i)** *Definitions* In this subparagraph—
+        - **(I)** the terms Federal entity for lending regulation, improved real estate, regulated lending institution, and servicer have the meanings given the terms in section 3 of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4003);
+        - **(II)** the term outstanding loan means a loan that—
+          - **(aa)** is outstanding as of January 1, 2016;
+          - **(bb)** is not subject to the requirement to escrow premiums and fees for flood insurance under section 102(d)(1) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(d)(1)) as in effect on July 5, 2012; and
+          - **(cc)** would, if the loan had been originated, refinanced, increased, extended, or renewed on or after January 1, 2016, be subject to the requirements under section 102(d)(1)(A) of the Flood Disaster Protection Act of 1973, as amended; and
+        - **(III)** the term section 102(d)(1)(A) of the Flood Disaster Protection Act of 1973, as amended means section 102(d)(1)(A) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(d)(1)(A)), as amended by—
+          - **(aa)** section 100209(a) of the Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141; 126 Stat. 920); and
+          - **(bb)** subsection (a) of this section.
+      - **(ii)** *Option to escrow flood insurance payments* Each Federal entity for lending regulation (after consultation and coordination with the Federal Financial Institutions Examination Council) shall, by regulation, direct that each regulated lending institution or servicer of an outstanding loan shall offer and make available to a borrower the option to have the borrower's payment of premiums and fees for flood insurance under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.), including the escrow of such payments, be treated in the same manner provided under section 102(d)(1)(A) of the Flood Disaster Protection Act of 1973, as amended.
+  - **(2)** *Repeal of 2-year delay on applicability* Subsection (b) of section 100209 of the Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141; 126 Stat. 920) is repealed.
+  - **(3)** *Rule of construction* Nothing in this section or the amendments made by this section shall be construed to supersede, during the period beginning on July 6, 2012 and ending on December 31, 2015, the requirements under section 102(d)(1) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(d)(1)), as in effect on July 5, 2012.
+
+## § 26. Flood mitigation methods for buildings
+
+- **(a)** *Guidelines*
+  - **(1)** *In general* Section 1361 of the National Flood Insurance Act of 1968 (42 U.S.C. 4102) is amended by adding at the end the following new subsection:
+    > - **(d)** *Flood mitigation methods for buildings* The Administrator shall establish guidelines for property owners that—
+    >   - **(1)** provide alternative methods of mitigation, other than building elevation, to reduce flood risk to residential buildings that cannot be elevated due to their structural characteristics, including—
+    >     - **(A)** types of building materials; and
+    >     - **(B)** types of floodproofing; and
+    >   - **(2)** inform property owners about how the implementation of mitigation methods described in paragraph (1) may affect risk premium rates for flood insurance coverage under the National Flood Insurance Program.
+
+  - **(2)** *Issuance* The Administrator shall issue the guidelines required under section 1361(d) of the National Flood Insurance Act of 1968 (42 U.S.C. 4102(d)), as added by the amendment made by paragraph (1) of this subsection, not later than the expiration of the 1-year period beginning on the date of the enactment of this Act.
+- **(b)** *Calculation of risk premium rates* Section 1308 of the National Flood Insurance Act of 1968 (42 U.S.C. 4015), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection:
+  > - **(k)** *Consideration of mitigation methods* In calculating the risk premium rate charged for flood insurance for a property under this section, the Administrator shall take into account the implementation of any mitigation method identified by the Administrator in the guidance issued under section 1361(d) (42 U.S.C. 4102(d)).
+
+## § 27. Mapping of non-structural flood mitigation features
+
+Section 100216 of the Biggert-Waters Flood Insurance Reform Act of 2012 (42 U.S.C. 4101b) is amended—
+
+- **(1)** in subsection (b)(1)(A)—
+  - **(A)** in clause (iv), by striking “and” at the end;
+  - **(B)** by redesignating clause (v) as clause (vi);
+  - **(C)** by inserting after clause (iv) the following new clause:
+    > - **(v)** areas that are protected by non-structural flood mitigation features; and
+
+  - **(D)** in clause (vi) (as so redesignated), by inserting before the semicolon at the end the following: “and by non-structural flood mitigation features”; and
+- **(2)** in subsection (d)(1)—
+  - **(A)** by redesignating subparagraphs (A) through (C) as subparagraphs (B) through (D), respectively;
+  - **(B)** in subparagraph (C) (as so redesignated), by striking “subparagraph (A)” and inserting “subparagraph (B)”; and
+  - **(C)** by inserting before subparagraph (B) (as so redesignated) the following new subparagraph:
+    > - **(A)** work with States, local communities, and property owners to identify areas and features described in subsection (b)(1)(A)(v);
+
+## § 28. Clear communications
+
+Section 1308 of the National Flood Insurance Act of 1968 (42 U.S.C. 4015), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection:
+
+> - **(l)** *Clear communications* The Administrator shall clearly communicate full flood risk determinations to individual property owners regardless of whether their premium rates are full actuarial rates.
+
+## § 29. Protection of small businesses, non-profits, houses of worship, and residences
+
+Section 1308 of the National Flood Insurance Act of 1968 (42 U.S.C. 4015), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection:
+
+> - **(m)** *Protection of small businesses, non-Profits, houses of worship, and residences*
+>   - **(1)** *Report* Not later than 18 months after the date of the enactment of this section and semiannually thereafter, the Administrator shall monitor and report to Committee on Financial Services of the House Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, the Administrator’s assessment of the impact, if any, of the rate increases required under subparagraphs (A) and (D) of section 1307(a)(2) and the surcharges required under section 1308A on the affordability of flood insurance for—
+>     - **(A)** small businesses with less than 100 employees;
+>     - **(B)** non-profit entities;
+>     - **(C)** houses of worship; and
+>     - **(D)** residences with a value equal to or less than 25 percent of the median home value of properties in the State in which the property is located.
+>   - **(2)** *Recommendations* If the Administrator determines that the rate increases or surcharges described in paragraph (1) are having a detrimental effect on affordability, including resulting in lapsed policies, late payments, or other criteria related to affordability as identified by the Administrator, for any of the properties identified in subparagraphs (A) through (D) of such paragraph, the Administrator shall, not later than 3 months after making such a determination, make such recommendations as the Administrator considers appropriate to improve affordability to the Committee on Financial Services of the House Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+## § 30. Mapping
+
+Section 100216(d)(1) of the Biggert-Waters Flood Insurance Reform Act of 2012 (42 U.S.C. 4101b(d)(1)) is amended—
+
+- **(1)** in subparagraph (B)—
+  - **(A)** by striking “subparagraph (A)” and inserting “subparagraph (D)”; and
+  - **(B)** by striking “and” at the end;
+- **(2)** by redesignating subparagraphs (A), (B), and (C) as subparagraphs (D), (E), and (G), respectively;
+- **(3)** by inserting before subparagraph (B), as so redesignated, the following new subparagraphs:
+  > - **(A)** before commencement of any mapping or map updating process, notify each community affected of the model or models that the Administrator plans to use in such process and provide an explanation of why such model or models are appropriate;
+  > - **(B)** provide each community affected a 30-day period beginning upon notification under subparagraph (A) to consult with the Administrator regarding the appropriateness, with respect to such community, of the mapping model or models to be used; provided that consultation by a community pursuant to this subparagraph shall not waive or otherwise affect any right of the community to appeal any flood hazard determinations;
+  > - **(C)** upon completion of the first Independent Data Submission, transmit a copy of such Submission to the affected community, provide the affected community a 30-day period during which the community may provide data to Administrator that can be used to supplement or modify the existing data, and incorporate any data that is consistent with prevailing engineering principles;
+
+- **(4)** by inserting after subparagraph (E), as so redesignated, the following new subparagraph:
+  > - **(F)** not less than 30 days before issuance of any preliminary map, notify the Senators for each State affected and each Member of the House of Representatives for each congressional district affected by the preliminary map in writing of—
+  >   - **(i)** the estimated schedule for—
+  >     - **(I)** community meetings regarding the preliminary map;
+  >     - **(II)** publication of notices regarding the preliminary map in local newspapers; and
+  >     - **(III)** the commencement of the appeals process regarding the map; and
+  >   - **(ii)** the estimated number of homes and businesses that will be affected by changes contained in the preliminary map, including how many structures will be that were not previously located in an area having special flood hazards will be located within such an area under the preliminary map; and
+
+## § 31. Disclosure
+
+- **(a)** *Changes in rates resulting from this Act* Not later than the date that is 6 months before the date on which any change in risk premium rates for flood insurance coverage under the National Flood Insurance Program resulting from this Act or any amendment made by this Act is implemented, the Administrator shall make publicly available the rate tables and underwriting guidelines that provide the basis for the change.
+- **(b)** *Report on policy and claims data*
+  - **(1)** *In general* Not later than 90 days after the date of enactment of this Act, the Administrator shall submit to the Congress a report on the feasibility of—
+    - **(A)** releasing property-level policy and claims data for flood insurance coverage under the National Flood Insurance Program; and
+    - **(B)** establishing guidelines for releasing property-level policy and claims data for flood insurance coverage under the National Flood Insurance Program in accordance with section 552a of title 5, United States Code (commonly known as the Privacy Act of 1974).
+  - **(2)** *Contents* The report submitted under paragraph (1) shall include—
+    - **(A)** an analysis and assessment of how releasing property-level policy and claims data for flood insurance coverage under the National Flood Insurance Program will aid policy holders and insurers to understand how the Administration determines actuarial premium rates and assesses flood risks; and
+    - **(B)** recommendations for protecting personal information in accordance with section 552a of title 5, United States Code (commonly known as the Privacy Act of 1974).
