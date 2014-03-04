@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 4141
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4141
+
+> To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to enter into enhanced-use leases for excess property of the National Cemetery Administration that is unsuitable for burial purposes.
+
+## § 1. Authority of Secretary of Veterans Affairs to enter into enhanced-use leases for excess property of the National Cemetery Administration that is unsuitable for burial purposes
+
+- **(a)** *In general* Section 8162(a)(2) of title 38, United States Code, is amended—
+  - **(1)** by striking “only for the provision” and all that follows through the period at the end and inserting “only if the lease is not inconsistent with and will not adversely affect the mission of the Department for—”; and
+  - **(2)** by adding at the end the following new subparagraphs:
+    > - **(A)** the provision of supportive housing; or
+    > - **(B)** other purposes, only in the case of excess property of the National Cemetery Administration that is unsuitable for burial purposes.
+
+- **(b)** *Effective date* The amendments made by subsection (a) shall apply with respect to a lease entered into after the date of the enactment of this Act.
