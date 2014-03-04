@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2197
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2197
@@ -36,3 +36,8 @@ York River Wild and Scenic River Study Act of 2014
 - 2013-09-20 — Placed on the Union Calendar, Calendar No. 163.
 - 2013-09-20 — Reported by the Committee on Natural Resources. H. Rept. 113-223.
 - 2013-09-20 — Reported by the Committee on Natural Resources. H. Rept. 113-223.
+- 2014-03-04 — Considered under suspension of the rules. (consideration: CR H2139-2141)
+- 2014-03-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2197.
+- 2014-03-04 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
+- 2014-03-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2139)
+- 2014-03-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2139)
