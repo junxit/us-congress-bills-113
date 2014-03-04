@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3193
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3193
@@ -91,3 +91,4 @@ Consumer Financial Freedom and Washington Accountability Act
 - 2014-02-27 — The Speaker designated the Honorable Reid J. Ribble to act as Chairman of the Committee.
 - 2014-02-27 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2053-2054; text: CR H2052)
 - 2014-02-27 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2014-03-04 — Received in the Senate.
