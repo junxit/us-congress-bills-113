@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2259
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2259
@@ -44,3 +44,4 @@ North Fork Watershed Protection Act of 2014
 - 2014-03-04 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2014-03-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2127)
 - 2014-03-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2127)
+- 2014-03-05 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 314.
