@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4076
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4076
@@ -71,3 +71,12 @@ Home Heating Emergency Assistance Through Transportation Act of 2014
 - 2014-03-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2103)
 - 2014-03-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2103)
 - 2014-03-05 — Received in the Senate, read twice.
+- 2014-03-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1667-1668)
+- 2014-03-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1667-1668)
+- 2014-03-14 — Message on Senate action sent to the House.
+- 2014-03-18 — Presented to President.
+- 2014-03-18 — Presented to President.
+- 2014-03-21 — Became Public Law No: 113-90.
+- 2014-03-21 — Became Public Law No: 113-90.
+- 2014-03-21 — Signed by President.
+- 2014-03-21 — Signed by President.
