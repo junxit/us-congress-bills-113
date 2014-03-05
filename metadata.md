@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2197
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2197
@@ -20,9 +20,10 @@ York River Wild and Scenic River Study Act of 2014
 
 - Rep. Michaud, Michael H. [D-ME-2] (M001149)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ York River Wild and Scenic River Study Act of 2014
 - 2014-03-04 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
 - 2014-03-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2139)
 - 2014-03-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2139)
+- 2014-03-05 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
