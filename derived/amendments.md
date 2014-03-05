@@ -1,7 +1,7 @@
 ---
 measure: H.R. 938
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 4 executed, 2 stated and not applied.
+28 amendatory instructions. 13 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,14 +51,95 @@ to guess them.
 | Removed | `and 2014` |
 | Inserted | `, 2014, and 2015` |
 
-### 42 U.S.C. § 17337
+### 22 U.S.C. § 2776
 
-> Section 917(c) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17337(c)) is amended by striking “7 years” and inserting “17 years”.
+> in subsection (a), by striking “an ongoing basis” and inserting “a biennial basis”; and
 
 | | |
 |---|---|
-| Removed | `7 years` |
-| Inserted | `17 years` |
+| Removed | `an ongoing basis` |
+| Inserted | `a biennial basis` |
+
+### 22 U.S.C. § 2776
+
+> in the heading, by striking “Quadrennial” and inserting “Biennial”; and
+
+| | |
+|---|---|
+| Removed | `Quadrennial` |
+| Inserted | `Biennial` |
+
+### 22 U.S.C. § 2776
+
+> in the text, by striking “Not later than four years after the date on which the President transmits the initial report under paragraph (1), and every four years thereafter,” and inserting “Not later than one year after the date of the enactment of the United States-Israel Strategic Partnership Act of 2014, and biennially thereafter,”.
+
+| | |
+|---|---|
+| Removed | `Not later than four years after the date on which the President transmits the initial report under paragraph (1), and every four years thereafter,` |
+| Inserted | `Not later than one year after the date of the enactment of the United States-Israel Strategic Partnership Act of 2014, and biennially thereafter,` |
+
+### 42 U.S.C. § 17337
+
+> in paragraph (1), by striking “renewable” and inserting “covered”;
+
+| | |
+|---|---|
+| Removed | `renewable` |
+| Inserted | `covered` |
+
+### 42 U.S.C. § 17337
+
+> by striking “renewable” and inserting “covered”; and
+
+| | |
+|---|---|
+| Removed | `renewable` |
+| Inserted | `covered` |
+
+### 42 U.S.C. § 17337
+
+> by striking “renewable” and inserting “covered”; and
+
+| | |
+|---|---|
+| Removed | `renewable` |
+| Inserted | `covered` |
+
+### 42 U.S.C. § 17337
+
+> Section 917(b)(1) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17337(b)(1)) is amended by striking “renewable energy or energy efficiency” and inserting “covered energy”.
+
+| | |
+|---|---|
+| Removed | `renewable energy or energy efficiency` |
+| Inserted | `covered energy` |
+
+### 42 U.S.C. § 17337
+
+> in the heading, by striking “Types of” and inserting “Covered”;
+
+| | |
+|---|---|
+| Removed | `Types of` |
+| Inserted | `Covered` |
+
+### 42 U.S.C. § 17337
+
+> Section 917(b)(3) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17337(b)(3)) is amended by striking “energy efficiency or renewable” and inserting “covered”.
+
+| | |
+|---|---|
+| Removed | `energy efficiency or renewable` |
+| Inserted | `covered` |
+
+### 42 U.S.C. § 17337
+
+> Subsection (e) of section 917 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17337) (as redesignated by subsection (e)(1)) is amended by striking “the date that is 7 years after the date of enactment of this Act” and inserting “September 30, 2021”.
+
+| | |
+|---|---|
+| Removed | `the date that is 7 years after the date of enactment of this Act` |
+| Inserted | `September 30, 2021` |
 
 ## Stated, not applied
 
@@ -69,5 +150,18 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 8603` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 8603` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2321h` | amend | Section 5(a) of the United States-Israel Enhanced Security Cooperation Act of 2012 (Public Law 112–150) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17337` | replace | by striking “possible many” and inserting “possible— | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 17337` | insert | by inserting “and” after the semicolon at the end; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 17337` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17337` | strike | by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 17337` | replace | by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17337` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17337` | strike | in subparagraph (F), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 17337` | replace | in subparagraph (G), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17337` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17337` | redesignate | by redesignating subsections (c) and (d) as subsections (e) and (f), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17337` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16231` | redesignate | by amending subsection (f) (as redesignated) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 102(a) of the Enhanced Partnership with Pakistan Act of 2009 (Public Law 111–73) is amended by striking “$1,500,000,000” and inserting “$1,487,000,000”. | the bill names no machine-readable US Code section |
