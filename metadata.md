@@ -1,7 +1,7 @@
 ---
 measure: H.R. 938
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 938
@@ -374,11 +374,12 @@ United States-Israel Strategic Partnership Act of 2014
 - Rep. Scott, David [D-GA-13] (S001157)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 
-## Committees (3)
+## Committees (4)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
 - House — Science, Space, and Technology Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -402,3 +403,4 @@ United States-Israel Strategic Partnership Act of 2014
 - 2014-03-05 — Considered as unfinished business. (consideration: CR H2167-2168)
 - 2014-03-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 95). (text: CR 3/4/2014 H2109-2111)
 - 2014-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 95).(text: CR 3/4/2014 H2109-2111)
+- 2014-03-06 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
