@@ -1,7 +1,7 @@
 ---
 measure: H.R. 311
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 311
@@ -16,7 +16,7 @@ FUELS Act
 
 - Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
 
-## Cosponsors (34)
+## Cosponsors (73)
 
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
@@ -52,6 +52,45 @@ FUELS Act
 - Rep. DesJarlais, Scott [R-TN-4] (D000616)
 - Rep. Thompson, Glenn [R-PA-5] (T000467)
 - Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Palazzo, Steven M. [R-MS-4] (P000601)
+- Rep. Ellmers, Renee L. [R-NC-2] (E000291)
+- Rep. Huelskamp, Tim [R-KS-1] (H001057)
+- Rep. Mullin, Markwayne [R-OK-2] (M001190)
+- Rep. Bentivolio, Kerry L. [R-MI-11] (B001280)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Cotton, Tom [R-AR-4] (C001095)
+- Rep. Nunnelee, Alan [R-MS-1] (N000186)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Long, Billy [R-MO-7] (L000576)
+- Rep. Rooney, Thomas J. [R-FL-17] (R000583)
+- Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. Daines, Steve [R-MT-At Large] (D000618)
+- Rep. Pompeo, Mike [R-KS-4] (P000602)
+- Rep. Boustany, Charles W., Jr. [R-LA-3] (B001255)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
+- Rep. Reed, Tom [R-NY-23] (R000585)
+- Rep. Graves, Tom [R-GA-14] (G000560)
+- Rep. Alexander, Rodney [R-LA-5] (A000361)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Thornberry, Mac [R-TX-13] (T000238)
+- Rep. Mulvaney, Mick [R-SC-5] (M001182)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Lankford, James [R-OK-5] (L000575)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Latham, Tom [R-IA-3] (L000111)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Gardner, Cory [R-CO-4] (G000562)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
+- Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Walden, Greg [R-OR-2] (W000791)
 
 ## Committees (1)
 
@@ -62,3 +101,10 @@ FUELS Act
 - 2013-01-18 — Introduced in House
 - 2013-01-18 — Introduced in House
 - 2013-01-18 — Referred to the House Committee on Transportation and Infrastructure.
+- 2013-01-21 — Referred to the Subcommittee on Water Resources and Environment.
+- 2013-10-29 — Committee Consideration and Mark-up Session Held.
+- 2013-10-29 — Ordered to be Reported by Voice Vote.
+- 2013-10-29 — Subcommittee on Water Resources and Environment Discharged.
+- 2014-03-06 — Placed on the Union Calendar, Calendar No. 279.
+- 2014-03-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-375.
+- 2014-03-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-375.
