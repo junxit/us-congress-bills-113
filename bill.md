@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 3370
-congress: 113th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 3370
@@ -123,9 +123,9 @@ Section 1345 of the National Flood Insurance Act of 1968 (42 U.S.C. 4081) is ame
 
 ## § 12. Optional high-deductible policies for residential properties
 
-Section 1306 of the National Flood Insurance Act of 1968 (42 U.S.C. 4013)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection:
+Section 1306 of the National Flood Insurance Act of 1968 (42 U.S.C. 4013) is amended by adding at the end the following new subsection:
 
-> - **(e)** *Optional high-Deductible policies for residential properties*
+> - **(d)** *Optional high-Deductible policies for residential properties*
 >   - **(1)** *Availability* In the case of residential properties, the Administrator shall make flood insurance coverage available, at the option of the insured, that provides for a loss-deductible for damage to the covered property in various amounts, up to and including $10,000.
 >   - **(2)** *Disclosure*
 >     - **(A)** *Form* The Administrator shall provide the information described in subparagraph (B) clearly and conspicuously on the application form for flood insurance coverage or on a separate form, segregated from all unrelated information and other required disclosures.
@@ -148,7 +148,7 @@ Subparagraph (A) of section 1307(a)(1) of the National Flood Insurance Act of 19
 
 > - **(A)** based on consideration of—
 >   - **(i)** the risk involved and accepted actuarial principles; and
->   - **(ii)** the flood mitigation activities that an owner or lessee has undertaken on a property, including differences in the risk involved due to land use measures, floodproofing, flood forecasting, and similar measures,
+>   - **(ii)** the flood mitigation activities that an owner or lessee has undertaken on a property, including differences in the risk involved due to land use measures, floodproofing, flood forecasting, and similar measures, and
 
 ## § 15. Home improvement fairness
 
@@ -250,7 +250,7 @@ Notwithstanding any other provision of law, a requester shall be exempt from sub
       > - **(i)** if—
 
     - **(D)** by striking the period at the end and inserting “; or”; and
-    - **(E)** by adding at the end the following
+    - **(E)** by adding at the end the following:
       > - **(ii)** in the case of a loan that—
       >   - **(I)** is in a junior or subordinate position to a senior lien secured by the same residential improved real estate or mobile home for which flood insurance is being provided at the time of the origination of the loan;
       >   - **(II)** is secured by residential improved real estate or a mobile home that is part of a condominium, cooperative, or other project development, if the residential improved real estate or mobile home is covered by a flood insurance policy that—
@@ -326,23 +326,23 @@ Section 1308 of the National Flood Insurance Act of 1968 (42 U.S.C. 4015), as am
 >     - **(B)** non-profit entities;
 >     - **(C)** houses of worship; and
 >     - **(D)** residences with a value equal to or less than 25 percent of the median home value of properties in the State in which the property is located.
->   - **(2)** *Recommendations* If the Administrator determines that the rate increases or surcharges described in paragraph (1) are having a detrimental effect on affordability, including resulting in lapsed policies, late payments, or other criteria related to affordability as identified by the Administrator, for any of the properties identified in subparagraphs (A) through (D) of such paragraph, the Administrator shall, not later than 3 months after making such a determination, make such recommendations as the Administrator considers appropriate to improve affordability to the Committee on Financial Services of the House Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+>   - **(2)** *Recommendations* If the Administrator determines that the rate increases or surcharges described in paragraph (1) are having a detrimental effect on affordability, including resulting in lapsed policies, late payments, or other criteria related to affordability as identified by the Administrator, for any of the properties identified in subparagraphs (A) through (D) of such paragraph, the Administrator shall, not later than 3 months after making such a determination, make such recommendations as the Administrator considers appropriate to improve affordability to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
 ## § 30. Mapping
 
-Section 100216(d)(1) of the Biggert-Waters Flood Insurance Reform Act of 2012 (42 U.S.C. 4101b(d)(1)) is amended—
+Section 100216(d)(1) of the Biggert-Waters Flood Insurance Reform Act of 2012 (42 U.S.C. 4101b(d)(1)), as amended by section 27 of this Act, is further amended—
 
-- **(1)** in subparagraph (B)—
-  - **(A)** by striking “subparagraph (A)” and inserting “subparagraph (D)”; and
+- **(1)** in subparagraph (C)—
+  - **(A)** by striking “subparagraph (B)” and inserting “subparagraph (E)”; and
   - **(B)** by striking “and” at the end;
-- **(2)** by redesignating subparagraphs (A), (B), and (C) as subparagraphs (D), (E), and (G), respectively;
-- **(3)** by inserting before subparagraph (B), as so redesignated, the following new subparagraphs:
+- **(2)** by redesignating subparagraphs (A), (B), (C), and (D) as subparagraphs (D), (E), (F), and (H), respectively;
+- **(3)** by inserting before subparagraph (D), as so redesignated, the following new subparagraphs:
   > - **(A)** before commencement of any mapping or map updating process, notify each community affected of the model or models that the Administrator plans to use in such process and provide an explanation of why such model or models are appropriate;
   > - **(B)** provide each community affected a 30-day period beginning upon notification under subparagraph (A) to consult with the Administrator regarding the appropriateness, with respect to such community, of the mapping model or models to be used; provided that consultation by a community pursuant to this subparagraph shall not waive or otherwise affect any right of the community to appeal any flood hazard determinations;
   > - **(C)** upon completion of the first Independent Data Submission, transmit a copy of such Submission to the affected community, provide the affected community a 30-day period during which the community may provide data to Administrator that can be used to supplement or modify the existing data, and incorporate any data that is consistent with prevailing engineering principles;
 
-- **(4)** by inserting after subparagraph (E), as so redesignated, the following new subparagraph:
-  > - **(F)** not less than 30 days before issuance of any preliminary map, notify the Senators for each State affected and each Member of the House of Representatives for each congressional district affected by the preliminary map in writing of—
+- **(4)** by inserting after subparagraph (F), as so redesignated, the following new subparagraph:
+  > - **(G)** not less than 30 days before issuance of any preliminary map, notify the Senators for each State affected and each Member of the House of Representatives for each congressional district affected by the preliminary map in writing of—
   >   - **(i)** the estimated schedule for—
   >     - **(I)** community meetings regarding the preliminary map;
   >     - **(II)** publication of notices regarding the preliminary map in local newspapers; and

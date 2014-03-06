@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3370
 congress: 113
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3370
@@ -262,9 +262,10 @@ Homeowner Flood Insurance Affordability Act of 2014
 - House — Rules Committee
 - House — Financial Services Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2014-03-04 — [House 113-2-91](votes/house-113-2-0091.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (306–91)
+- 2014-03-13 — [Senate 113-2-78](votes/senate-113-2-0078.md) — On Passage of the Bill — **Bill Passed** (72–22)
 
 ## Actions
 
@@ -282,3 +283,14 @@ Homeowner Flood Insurance Affordability Act of 2014
 - 2014-03-04 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 3370.
 - 2014-03-05 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2014-03-06 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 317.
+- 2014-03-13 — Measure laid before Senate by unanimous consent. (consideration: S1627-1632)
+- 2014-03-13 — Message on Senate action sent to the House.
+- 2014-03-13 — Passed Senate, under the order of 3/13/2014, having received 60 votes in the affirmative, without amendment by Yea-Nay Vote. 72 - 22. Record Vote Number: 78.
+- 2014-03-13 — Passed/agreed to in Senate: Passed Senate, under the order of 3/13/2014, having received 60 votes in the affirmative, without amendment by Yea-Nay Vote. 72 - 22. Record Vote Number: 78.
+- 2014-03-13 — Pursuant to the provisions of H. Con. Res. 93, enrollment corrections on H.R. 3370 have been made.
+- 2014-03-18 — Presented to President.
+- 2014-03-18 — Presented to President.
+- 2014-03-21 — Became Public Law No: 113-89.
+- 2014-03-21 — Became Public Law No: 113-89.
+- 2014-03-21 — Signed by President.
+- 2014-03-21 — Signed by President.

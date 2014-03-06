@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3370
 congress: 113
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -89,12 +89,12 @@ to guess them.
 
 ### 42 U.S.C. § 4101b
 
-> by striking “subparagraph (A)” and inserting “subparagraph (D)”; and
+> by striking “subparagraph (B)” and inserting “subparagraph (E)”; and
 
 | | |
 |---|---|
-| Removed | `subparagraph (A)` |
-| Inserted | `subparagraph (D)` |
+| Removed | `subparagraph (B)` |
+| Inserted | `subparagraph (E)` |
 
 ## Stated, not applied
 
@@ -119,7 +119,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 4011` | insert | Chapter I of the National Flood Insurance Act of 1968 (42 U.S.C. 4011 et seq.) is amended by inserting after section 1308 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4017a` | add-at-end | Subsection (c) of section 1310A of the National Flood Insurance Act of 1968 (42 U.S.C. 4017a) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4081` | add-at-end | Section 1345 of the National Flood Insurance Act of 1968 (42 U.S.C. 4081) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4013` | add-at-end | Section 1306 of the National Flood Insurance Act of 1968 (42 U.S.C. 4013)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4013` | add-at-end | Section 1306 of the National Flood Insurance Act of 1968 (42 U.S.C. 4013) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4012a` | add-at-end | Subsection (c) of section 102 of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 2604` | insert | in paragraph (14), by inserting before the period at the end the following: “, and the following statement: Although you may not be required to maintain flood insurance on all structures, you may still wish to do so, and your mortgage le… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4014` | amend | Subparagraph (A) of section 1307(a)(1) of the National Flood Insurance Act of 1968 (42 U.S.C. 4014(a)(1)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -141,7 +141,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 4012a` | redesignate | by redesignating clauses (i) and (ii) as subclauses (I) and (II), respectively, and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4012a` | redesignate | in the matter preceding subclause (I), as redesignated by subparagraph (B), by striking “(A) or (B), if—” and inserting the following: “(A)— | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 4012a` | replace | by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 4012a` | add-at-end | by adding at the end the following | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4012a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4012a` | repeal | Subsection (b) of section 100209 of the Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141; 126 Stat. 920) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4102` | add-at-end | Section 1361 of the National Flood Insurance Act of 1968 (42 U.S.C. 4102) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4015` | add-at-end | Section 1308 of the National Flood Insurance Act of 1968 (42 U.S.C. 4015), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -154,6 +154,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 4015` | add-at-end | Section 1308 of the National Flood Insurance Act of 1968 (42 U.S.C. 4015), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4015` | add-at-end | Section 1308 of the National Flood Insurance Act of 1968 (42 U.S.C. 4015), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4101b` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 4101b` | redesignate | by redesignating subparagraphs (A), (B), and (C) as subparagraphs (D), (E), and (G), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4101b` | redesignate | by inserting before subparagraph (B), as so redesignated, the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4101b` | redesignate | by inserting after subparagraph (E), as so redesignated, the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4101b` | redesignate | by redesignating subparagraphs (A), (B), (C), and (D) as subparagraphs (D), (E), (F), and (H), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4101b` | redesignate | by inserting before subparagraph (D), as so redesignated, the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4101b` | redesignate | by inserting after subparagraph (F), as so redesignated, the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
