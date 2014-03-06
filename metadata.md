@@ -1,7 +1,7 @@
 ---
 measure: S. 149
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 149
@@ -16,9 +16,11 @@ STOP Identity Theft Act of 2013
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Nelson, Bill [D-FL] (N000032)
 
 ## Committees (1)
 
@@ -28,3 +30,7 @@ STOP Identity Theft Act of 2013
 
 - 2013-01-24 — Introduced in Senate
 - 2013-01-24 — Read twice and referred to the Committee on the Judiciary.
+- 2014-02-27 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2014-03-06 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2014-03-06 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2014-03-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 316.
