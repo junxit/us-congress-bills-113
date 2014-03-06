@@ -1,0 +1,30 @@
+---
+legis-num: H. RES. 506
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 506
+
+> Honoring the life and legacy of Václav Havel by directing the House of Representatives Fine Arts Board to provide for the display of a bust of Václav Havel in the United States Capitol.
+
+## Preamble
+
+- Whereas Václav Havel, former President of the Czech Republic, passed away on December 18, 2011, at 75 years of age, at his country home in Hrádeček in the Czech Republic;
+- Whereas Václav Havel is widely recognized and respected throughout the world as a defender of democratic principles and human rights;
+- Whereas through his extensive writings, Václav Havel courageously challenged the ideology and legitimacy of the authoritarian communist regimes that ruled Central and Eastern Europe during the Cold War;
+- Whereas Václav Havel, who was imprisoned multiple times by the Communist Party of Czechoslovakia for his advocacy of universal human rights and democratic principles, maintained his convictions in the face of repression;
+- Whereas Václav Havel was one of the founders of Charter 77, a group of 242 individuals who called for the human rights guaranteed under the 1975 Helsinki accords to be realized in Czechoslovakia;
+- Whereas Václav Havel was a cofounder of the Committee for the Defense of the Unjustly Prosecuted, an organization dedicated to supporting dissidents and their families which helped to advance the cause of freedom and justice in Czechoslovakia;
+- Whereas Václav Havel, as leader of the Civic Forum movement, was a key figure in the 1989 “Velvet Revolution”, the peaceful overthrow of the Czechoslovakia communist government;
+- Whereas, on February 21, 1990, Václav Havel addressed a Joint Session of Congress where he stated, “Thomas Jefferson wrote that ‘governments are instituted among men, deriving their just powers from the consent of the governed’. It was a simple and important act of the human spirit. What gave meaning to that act, however, was that the author backed it up with his life. It was not just his words but it was his deeds as well.”;
+- Whereas following the Velvet Revolution, Václav Havel was democratically elected as President of the Czech and Slovak Federal Republic in 1990, and after a peaceful partition forming 2 separate states, democratically elected President of the Czech Republic in 1993;
+- Whereas under the leadership of Václav Havel, the Czech Republic became a prosperous, democratic country and a respected member of the international community;
+- Whereas also under his leadership the Czech Republic became a member of the North Atlantic Treaty Organization (NATO) on March 12, 1999, and continues to be a valued ally of the United States;
+- Whereas during his lifetime, Václav Havel received praise as one of the world’s great democratic leaders and was awarded many international prizes recognizing his commitment to peace and democratic principles;
+- Whereas, on July 23, 2003, President George W. Bush honored Václav Havel with the Presidential Medal of Freedom, the highest civilian award of the United States Government, for being “one of liberty’s great heroes”;
+- Whereas after leaving office as president of the Czech Republic in February 2003, Václav Havel remained a voice on behalf of democratic dissidents worldwide and against authoritarian regimes; and
+- Whereas the legacy of Václav Havel inspires those that advocate and work for freedom from tyranny: Now, therefore, be it
+
+That to honor the life and legacy of Václav Havel, the House of Representatives Fine Arts Board shall provide for the display of an appropriate bust of Václav Havel in the House of Representatives wing of the United States Capitol.
