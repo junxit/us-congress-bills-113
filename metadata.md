@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3826
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3826
@@ -117,6 +117,15 @@ Electricity Security and Affordability Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (6)
+
+- 2014-03-06 — [House 113-2-101](votes/house-113-2-0101.md) — On Agreeing to the Amendment — **Agreed to** (230–184)
+- 2014-03-06 — [House 113-2-102](votes/house-113-2-0102.md) — On Agreeing to the Amendment — **Failed** (184–228)
+- 2014-03-06 — [House 113-2-103](votes/house-113-2-0103.md) — On Agreeing to the Amendment — **Failed** (190–221)
+- 2014-03-06 — [House 113-2-104](votes/house-113-2-0104.md) — On Agreeing to the Amendment — **Failed** (178–231)
+- 2014-03-06 — [House 113-2-105](votes/house-113-2-0105.md) — On Motion to Recommit with Instructions — **Failed** (184–223)
+- 2014-03-06 — [House 113-2-106](votes/house-113-2-0106.md) — On Passage — **Passed** (229–183)
+
 ## Actions
 
 - 2014-01-09 — Introduced in House
@@ -129,3 +138,98 @@ Electricity Security and Affordability Act
 - 2014-02-28 — Placed on the Union Calendar, Calendar No. 271.
 - 2014-02-28 — Reported by the Committee on Energy and Commerce. H. Rept. 113-365.
 - 2014-02-28 — Reported by the Committee on Energy and Commerce. H. Rept. 113-365.
+- 2014-03-04 — Rules Committee Resolution H. Res. 497 Reported to House. The rule waives all points of order against consideration of the bill. The rule makes in order as original text for the purpose of amendment an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-40 for H.R. 3826 and provides that it shall be considered as read. The rule waives all points of order against that amendment in the nature of a substitute.
+- 2014-03-05 — Amendment (A001) offered by Mr. Smith (TX). (consideration: CR H2186-2188; text: CR H2186)
+- 2014-03-05 — Amendment (A002) offered by Mrs. Capps. (consideration: CR H2188-2189; text: CR H2188)
+- 2014-03-05 — Amendment (A003) offered by Mrs. Capito. (consideration: CR H2189-2190; text: CR H2189)
+- 2014-03-05 — Amendment (A004) offered by Mr. McKinley. (consideration: CR H2190; text: CR H2190)
+- 2014-03-05 — Amendment (A005) offered by Mr. McKinley. (consideration: CR H2190-2191; text: CR H2190)
+- 2014-03-05 — Amendment (A006) offered by Ms. Schakowsky. (consideration: CR H2191-2192; text: CR H2191)
+- 2014-03-05 — Amendment (A007) offered by Mr. Latta. (consideration: CR H2193-2194; text: CR H2193)
+- 2014-03-05 — Amendment (A008) offered by Mr. Waxman. (consideration: CR H2194-2195; text: CR H2194)
+- 2014-03-05 — Amendment agreed to Committee of the Whole
+- 2014-03-05 — Amendment agreed to Committee of the Whole
+- 2014-03-05 — Amendment agreed to Committee of the Whole
+- 2014-03-05 — Amendment agreed to Committee of the Whole
+- 2014-03-05 — Amendment agreed to Committee of the Whole
+- 2014-03-05 — Committee of the Whole House on the state of the Union rises leaving H.R. 3826 as unfinished business.
+- 2014-03-05 — Committee of the Whole House on the state of the Union rises leaving H.R. 3826 as unfinished business.
+- 2014-03-05 — Considered as unfinished business. (consideration: CR H2192-2195)
+- 2014-03-05 — Considered under the provisions of rule H. Res. 497. (consideration: CR 3/5/2014 H2178-2192)
+- 2014-03-05 — DEBATE - Pursuant to the provisions of H. Res. 497, the Committee of the Whole proceeded with 10 minutes of debate on the Capito amendment No. 3.
+- 2014-03-05 — DEBATE - Pursuant to the provisions of H. Res. 497, the Committee of the Whole proceeded with 10 minutes of debate on the Capps amendment No. 2.
+- 2014-03-05 — DEBATE - Pursuant to the provisions of H. Res. 497, the Committee of the Whole proceeded with 10 minutes of debate on the Latta amendment No. 7.
+- 2014-03-05 — DEBATE - Pursuant to the provisions of H. Res. 497, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley amendment No. 4.
+- 2014-03-05 — DEBATE - Pursuant to the provisions of H. Res. 497, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley amendment No. 5.
+- 2014-03-05 — DEBATE - Pursuant to the provisions of H. Res. 497, the Committee of the Whole proceeded with 10 minutes of debate on the Schakowsky amendment No. 6.
+- 2014-03-05 — DEBATE - Pursuant to the provisions of H. Res. 497, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (TX) amendment No. 1.
+- 2014-03-05 — DEBATE - Pursuant to the provisions of H. Res. 497, the Committee of the Whole proceeded with 10 minutes of debate on the Waxman amendment No. 8.
+- 2014-03-05 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 3826.
+- 2014-03-05 — House amendment agreed to: On agreeing to the Capito amendment (A003) Agreed to by voice vote.
+- 2014-03-05 — House amendment agreed to: On agreeing to the Latta amendment (A007) Agreed to by voice vote.
+- 2014-03-05 — House amendment agreed to: On agreeing to the McKinley amendment (A004) Agreed to by voice vote.
+- 2014-03-05 — House amendment agreed to: On agreeing to the McKinley amendment (A005) Agreed to by voice vote.
+- 2014-03-05 — House amendment offered
+- 2014-03-05 — House amendment offered
+- 2014-03-05 — House amendment offered
+- 2014-03-05 — House amendment offered
+- 2014-03-05 — House amendment offered
+- 2014-03-05 — House amendment offered
+- 2014-03-05 — House amendment offered
+- 2014-03-05 — House amendment offered
+- 2014-03-05 — House amendment offered/reported by: Amendment (A001) offered by Mr. Smith (TX).(consideration: CR H2186-2188; text: CR H2186)
+- 2014-03-05 — House amendment offered/reported by: Amendment (A002) offered by Mrs. Capps.(consideration: CR H2188-2189; text: CR H2188)
+- 2014-03-05 — House amendment offered/reported by: Amendment (A003) offered by Mrs. Capito.(consideration: CR H2189-2190; text: CR H2189)
+- 2014-03-05 — House amendment offered/reported by: Amendment (A004) offered by Mr. McKinley.(consideration: CR H2190; text: CR H2190)
+- 2014-03-05 — House amendment offered/reported by: Amendment (A005) offered by Mr. McKinley.(consideration: CR H2190-2191; text: CR H2190)
+- 2014-03-05 — House amendment offered/reported by: Amendment (A006) offered by Ms. Schakowsky.(consideration: CR H2191-2192; text: CR H2191)
+- 2014-03-05 — House amendment offered/reported by: Amendment (A007) offered by Mr. Latta.(consideration: CR H2193-2194; text: CR H2193)
+- 2014-03-05 — House amendment offered/reported by: Amendment (A008) offered by Mr. Waxman.(consideration: CR H2194-2195; text: CR H2194)
+- 2014-03-05 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 497 and Rule XVIII.
+- 2014-03-05 — Mr. Whitfield moved to rise.
+- 2014-03-05 — Mr. Whitfield moved to rise.
+- 2014-03-05 — On agreeing to the Capito amendment (A003) Agreed to by voice vote.
+- 2014-03-05 — On agreeing to the Latta amendment (A007) Agreed to by voice vote.
+- 2014-03-05 — On agreeing to the McKinley amendment (A004) Agreed to by voice vote.
+- 2014-03-05 — On agreeing to the McKinley amendment (A005) Agreed to by voice vote.
+- 2014-03-05 — On motion to rise Agreed to by voice vote.
+- 2014-03-05 — On motion to rise Agreed to by voice vote.
+- 2014-03-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Capps amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mrs. Capps demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2014-03-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schakowsky amendment No. 6, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Schakowsky demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2014-03-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (TX) amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Smith (TX) demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2014-03-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Waxman amendment No. 8, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Waxman demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2014-03-05 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2014-03-05 — The Speaker designated the Honorable Jeff Fortenberry to act as Chairman of the Committee.
+- 2014-03-05 — The rule waives all points of order against consideration of the bill. The rule makes in order as original text for the purpose of amendment an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-40 for H.R. 3826 and provides that it shall be considered as read. The rule waives all points of order against that amendment in the nature of a substitute.
+- 2014-03-06 — Amendment agreed to Committee of the Whole
+- 2014-03-06 — Amendment failed in Committee of the Whole
+- 2014-03-06 — Amendment failed in Committee of the Whole
+- 2014-03-06 — Amendment failed in Committee of the Whole
+- 2014-03-06 — Amendment failed in Committee of the Whole
+- 2014-03-06 — Considered as unfinished business. (consideration: CR H2208-2215)
+- 2014-03-06 — DEBATE - The House proceeded with 10 minutes of debate on the Brownley (CA) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to prohibit the application of the bill with respect to rules that save consumers money on electricity bills, including rules that allow for or, encourage energy efficiency, demand response, and other approaches to lower the cost of electricity for consumers.
+- 2014-03-06 — House amendment agreed to: On agreeing to the Smith (TX) amendment (A001) Agreed to by recorded vote: 230 - 184 (Roll no. 101).(consideration: CR H2209)
+- 2014-03-06 — House amendment not agreed to: On agreeing to the Capps amendment (A002) Failed by recorded vote: 184 - 228 (Roll no. 102).(consideration: CR H2209-2210)
+- 2014-03-06 — House amendment not agreed to: On agreeing to the Schakowsky amendment (A006) Failed by recorded vote: 190 - 221 (Roll no. 103).(consideration: CR H2210)
+- 2014-03-06 — House amendment not agreed to: On agreeing to the Schakowsky amendment (A006) Failed by recorded vote: 190 - 221 (Roll no. 103).(consideration: CR H2210)
+- 2014-03-06 — House amendment not agreed to: On agreeing to the Waxman amendment (A008) Failed by recorded vote: 178 - 231 (Roll no. 104).(consideration: CR H2210-2211)
+- 2014-03-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-03-06 — Ms. Brownley (CA) moved to recommit with instructions to Energy and Commerce. (consideration: CR H2211-2214; text: CR H2211)
+- 2014-03-06 — On agreeing to the Capps amendment (A002) Failed by recorded vote: 184 - 228 (Roll no. 102). (consideration: CR H2209-2210)
+- 2014-03-06 — On agreeing to the Schakowsky amendment (A006) Failed by recorded vote: 190 - 221 (Roll no. 103). (consideration: CR H2210)
+- 2014-03-06 — On agreeing to the Smith (TX) amendment (A001) Agreed to by recorded vote: 230 - 184 (Roll no. 101). (consideration: CR H2209)
+- 2014-03-06 — On agreeing to the Waxman amendment (A008) Failed by recorded vote: 178 - 231 (Roll no. 104). (consideration: CR H2210-2211)
+- 2014-03-06 — On motion to recommit with instructions Failed by the Yeas and Nays: 184 - 223 (Roll no. 105).
+- 2014-03-06 — On passage Passed by recorded vote: 229 - 183 (Roll no. 106).
+- 2014-03-06 — Passed/agreed to in House: On passage Passed by recorded vote: 229 - 183 (Roll no. 106).
+- 2014-03-06 — Roll call votes on amendments in House
+- 2014-03-06 — Roll call votes on amendments in House
+- 2014-03-06 — Roll call votes on amendments in House
+- 2014-03-06 — Roll call votes on amendments in House
+- 2014-03-06 — Roll call votes on amendments in House
+- 2014-03-06 — Roll call votes on amendments in House
+- 2014-03-06 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H2185-2186)
+- 2014-03-06 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2014-03-06 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3826.
+- 2014-03-06 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2213)
+- 2014-03-06 — The previous question was ordered pursuant to the rule. (consideration: CR H2211)

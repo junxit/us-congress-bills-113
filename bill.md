@@ -18,7 +18,7 @@ This Act may be cited as the “Electricity Security and Affordability Act”.
 - **(a)** *Limitation* The Administrator of the Environmental Protection Agency may not issue, implement, or enforce any proposed or final rule under section 111 of the Clean Air Act (42 U.S.C. 7411) that establishes a standard of performance for emissions of any greenhouse gas from any new source that is a fossil fuel-fired electric utility generating unit unless such rule meets the requirements under subsections (b) and (c).
 - **(b)** *Requirements* In issuing any rule under section 111 of the Clean Air Act (42 U.S.C. 7411) establishing standards of performance for emissions of any greenhouse gas from new sources that are fossil fuel-fired electric utility generating units, the Administrator of the Environmental Protection Agency (for purposes of establishing such standards)—
   - **(1)** shall separate sources fueled with coal and natural gas into separate categories; and
-  - **(2)** shall not set a standard based on the best system of emission reduction for new sources within the coal category unless—
+  - **(2)** shall not set a standard based on the best system of emission reduction for new sources within a fossil-fuel category unless—
     - **(A)** such standard has been achieved on average for at least one continuous 12-month period (excluding planned outages) by each of at least 6 units within such category—
       - **(i)** each of which is located at a different electric generating station in the United States;
       - **(ii)** which, collectively, are representative of the operating characteristics of electric generation at different locations in the United States; and
@@ -32,6 +32,9 @@ This Act may be cited as the “Electricity Security and Affordability Act”.
       - **(ii)** which, collectively, are representative of the operating characteristics of electric generation at different locations in the United States; and
       - **(iii)** each of which is operated for the entire 12-month period on a full commercial basis; and
     - **(B)** no results obtained from any demonstration project are used in setting such standard.
+- **(d)** *Technologies* Nothing in this section shall be construed to preclude the issuance, implementation, or enforcement of a standard of performance that—
+  - **(1)** is based on the use of one or more technologies that are developed in a foreign country, but has been demonstrated to be achievable at fossil fuel-fired electric utility generating units in the United States; and
+  - **(2)** meets the requirements of subsection (b) and (c), as applicable.
 
 ## § 3. Congress To set effective date for standards of performance for existing, modified, and reconstructed fossil fuel-fired electric utility generating units
 
@@ -42,9 +45,12 @@ This Act may be cited as the “Electricity Security and Affordability Act”.
 - **(c)** *Reporting* A rule or guidelines described in subsection (a) shall not take effect unless the Administrator of the Environmental Protection Agency has submitted to Congress a report containing each of the following:
   - **(1)** The text of such rule or guidelines.
   - **(2)** The economic impacts of such rule or guidelines, including the potential effects on—
-    - **(A)** economic growth, competitiveness, and jobs in the United States; and
-    - **(B)** electricity ratepayers, including low-income ratepayers in affected States.
+    - **(A)** economic growth, competitiveness, and jobs in the United States;
+    - **(B)** electricity ratepayers, including low-income ratepayers in affected States;
+    - **(C)** required capital investments and projected costs for operation and maintenance of new equipment required to be installed; and
+    - **(D)** the global economic competitiveness of the United States.
   - **(3)** The amount of greenhouse gas emissions that such rule or guidelines are projected to reduce as compared to overall global greenhouse gas emissions.
+- **(d)** *Consultation* In carrying out subsection (c), the Administrator of the Environmental Protection Agency shall consult with the Administrator of the Energy Information Administration, the Comptroller General of the United States, the Director of the National Energy Technology Laboratory, and the Under Secretary of Commerce for Standards and Technology.
 
 ## § 4. Repeal of earlier rules and guidelines
 
@@ -66,7 +72,7 @@ The following rules and guidelines shall be of no force or effect, and shall be 
 
 In this Act:
 
-- **(1)** *Demonstration project* The term demonstration project means a project to test or demonstrate the feasibility of carbon capture and storage technologies that has received government funding or financial assistance.
+- **(1)** *Demonstration project* The term demonstration project means a project to test or demonstrate the feasibility of carbon capture and storage technologies that has received Federal Government funding or financial assistance.
 - **(2)** *Existing source* The term existing source has the meaning given such term in section 111(a) of the Clean Air Act (42 U.S.C. 7411(a)), except such term shall not include any modified source.
 - **(3)** *Greenhouse gas* The term greenhouse gas means any of the following:
   - **(A)** Carbon dioxide.
