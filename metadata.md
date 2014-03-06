@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3370
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3370
@@ -280,3 +280,5 @@ Homeowner Flood Insurance Affordability Act of 2014
 - 2014-03-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 306 - 91 (Roll no. 91). (text: CR H2128-2132)
 - 2014-03-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 306 - 91 (Roll no. 91).(text: CR H2128-2132)
 - 2014-03-04 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 3370.
+- 2014-03-05 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-03-06 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 317.
