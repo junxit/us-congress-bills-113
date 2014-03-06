@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2641
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 4321` | insert | Part I of chapter 5 of title 5, United States Code, is amended by inserting after subchapter II the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4321` | insert | The table of sections for chapter 5 of title 5, United States Code, is amended by inserting after the item relating to subchapter II the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | insert | Chapter 5 of part 1 of title 5, United States Code, is amended by inserting after subchapter II the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | insert | The table of sections for chapter 5 of title 5, United States Code, is amended by inserting after the items relating to subchapter II the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
