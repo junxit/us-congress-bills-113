@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2126
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2126
@@ -20,9 +20,10 @@ Energy Efficiency Improvement Act of 2014
 
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Energy Efficiency Improvement Act of 2014
 - 2014-03-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 36 (Roll no. 98). (text: CR 3/4/2014 H2115-2119)
 - 2014-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 36 (Roll no. 98).(text: CR 3/4/2014 H2115-2119)
 - 2014-03-05 — The title of the measure was amended. Agreed to without objection.
+- 2014-03-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
