@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 501
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 501
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 2824) to amend the Surface Mining 
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2014-03-06 — [House 113-2-99](votes/house-113-2-0099.md) — On Ordering the Previous Question — **Passed** (219–191)
+- 2014-03-06 — [House 113-2-100](votes/house-113-2-0100.md) — On Agreeing to the Resolution — **Passed** (225–190)
+
 ## Actions
 
 - 2014-03-05 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 2824) to amend the Surface Mining 
 - 2014-03-05 — The House Committee on Rules reported an original measure, H. Rept. 113-374, by Mr. Webster (FL).
 - 2014-03-05 — The House Committee on Rules reported an original measure, H. Rept. 113-374, by Mr. Webster (FL).
 - 2014-03-05 — The resolution provides for consideration of H.R. 2824 and H.R. 2641. The resolution provides one hour of general debate for each bill and makes in order specified amendments printed in the Rules Committee Report 113-374. The resolution provides one motion to recommit.
+- 2014-03-06 — Considered as privileged matter. (consideration: CR H2202-2208)
+- 2014-03-06 — DEBATE - The House proceeded with one hour of debate on H. Res. 501.
+- 2014-03-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-03-06 — On agreeing to the resolution Agreed to by the Yeas and Nays: 225 - 190 (Roll no. 100). (text: CR H2202-2203)
+- 2014-03-06 — On ordering the previous question Agreed to by the Yeas and Nays: 219 - 191 (Roll no. 99). (consideration: CR H2207-2208)
+- 2014-03-06 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 225 - 190 (Roll no. 100).(text: CR H2202-2203)
