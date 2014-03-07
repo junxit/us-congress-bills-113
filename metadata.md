@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4138
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4138
@@ -16,7 +16,7 @@ ENFORCE the Law Act of 2014
 
 - Rep. Gowdy, Trey [R-SC-4] (G000566)
 
-## Cosponsors (17)
+## Cosponsors (22)
 
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
@@ -35,6 +35,11 @@ ENFORCE the Law Act of 2014
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
 - Rep. Labrador, Raul R. [R-ID-1] (L000573)
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
+- Rep. Rigell, E. Scott [R-VA-2] (R000589)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
 
 ## Committees (1)
 
@@ -46,3 +51,9 @@ ENFORCE the Law Act of 2014
 - 2014-03-04 — Introduced in House
 - 2014-03-04 — Referred to the House Committee on the Judiciary.
 - 2014-03-04 — Referred to the Subcommittee on the Constitution and Civil Justice.
+- 2014-03-05 — Committee Consideration and Mark-up Session Held.
+- 2014-03-05 — Ordered to be Reported by the Yeas and Nays: 18 - 14.
+- 2014-03-05 — Subcommittee on the Constitution and Civil Justice Discharged.
+- 2014-03-07 — Placed on the Union Calendar, Calendar No. 281.
+- 2014-03-07 — Reported by the Committee on Judiciary. H. Rept. 113-377.
+- 2014-03-07 — Reported by the Committee on Judiciary. H. Rept. 113-377.
