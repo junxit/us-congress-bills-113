@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4118
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4118
@@ -64,3 +64,5 @@ SIMPLE Fairness Act
 - 2014-03-05 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2176)
 - 2014-03-05 — The previous question was ordered pursuant to the rule. (consideration: CR H2175)
 - 2014-03-05 — The rule waives all points of order against consideration of the bill. The rule makes in order as original text for the purpose of amendment an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-40 for H.R. 3826 and provides that it shall be considered as read. The rule waives all points of order against that amendment in the nature of a substitute.
+- 2014-03-06 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-03-10 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 319.
