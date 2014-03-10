@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2641
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2641
@@ -131,3 +131,4 @@ Responsibly And Professionally Invigorating Development Act of 2014
 - 2014-03-06 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2242)
 - 2014-03-06 — The previous question was ordered pursuant to the rule. (consideration: CR H2240)
 - 2014-03-06 — The resolution provides for consideration of H.R. 2824 and H.R. 2641. The resolution provides one hour of general debate for each bill and makes in order specified amendments printed in the Rules Committee Report 113-374. The resolution provides one motion to recommit.
+- 2014-03-10 — Received in the Senate.
