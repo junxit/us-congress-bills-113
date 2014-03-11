@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 361
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 361
@@ -30,3 +30,8 @@ A resolution recognizing the threats to freedom of the press and expression in t
 
 - 2014-02-24 — Introduced in Senate
 - 2014-02-24 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1008-1009)
+- 2014-02-25 — Sponsor introductory remarks on measure. (CR S1044)
+- 2014-03-11 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2014-03-11 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2014-03-11 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2014-03-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 322.
