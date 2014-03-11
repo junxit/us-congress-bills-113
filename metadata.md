@@ -1,7 +1,7 @@
 ---
 measure: S. 1917
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1917
@@ -38,3 +38,8 @@ Victims Protection Act of 2014
 - 2014-03-10 — Considered by Senate. (consideration: CR S1377)
 - 2014-03-10 — Passed Senate without amendment by Yea-Nay Vote. 97 - 0. Record Vote Number: 62.
 - 2014-03-10 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 97 - 0. Record Vote Number: 62.
+- 2014-03-11 — Message on Senate action sent to the House.
+- 2014-03-11 — Received in the House.
+- 2014-03-11 — Referred to the Committee on Armed Services, and in addition to the Committees on Transportation and Infrastructure, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-03-11 — Referred to the Committee on Armed Services, and in addition to the Committees on Transportation and Infrastructure, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-03-11 — Referred to the Committee on Armed Services, and in addition to the Committees on Transportation and Infrastructure, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
