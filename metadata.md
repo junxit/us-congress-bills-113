@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 375
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 375
@@ -20,7 +20,15 @@ A resolution concerning the crisis in the Central African Republic and supportin
 
 - Sen. Flake, Jeff [R-AZ] (F000444)
 
+## Committees (1)
+
+- Senate — Foreign Relations Committee
+
 ## Actions
 
 - 2014-03-05 — Introduced in Senate
 - 2014-03-05 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1325)
+- 2014-03-11 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-03-11 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment and with an amended preamble. Without written report.
+- 2014-03-11 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment and with an amended preamble. Without written report.
+- 2014-03-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 324.
