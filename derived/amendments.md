@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3675
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,5 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `47 U.S.C. § 151` | insert | Title I of the Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended by inserting after section 12 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 254` | add-at-end | Section 254 of the Communications Act of 1934 (47 U.S.C. 254) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 254` | repeal | Title III of Public Law 108–494 (118 Stat. 3997) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 302 of Public Law 108–494 (118 Stat. 3998) is amended by striking “December 31, 2015” each place it appears and inserting “December 31, 2020”. | the bill names no machine-readable US Code section |

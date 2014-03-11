@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3675
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3675
@@ -33,3 +33,9 @@ Federal Communications Commission Process Reform Act of 2014
 - 2014-01-31 — Placed on the Union Calendar, Calendar No. 251.
 - 2014-01-31 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-338.
 - 2014-01-31 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-338.
+- 2014-03-11 — Considered under suspension of the rules. (consideration: CR H2280-2284)
+- 2014-03-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3675.
+- 2014-03-11 — Mr. Walden moved to suspend the rules and pass the bill, as amended. (consideration: CR H2280-2281)
+- 2014-03-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (consideration: CR H2281-2282)
+- 2014-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(consideration: CR H2281-2282)
+- 2014-03-11 — The title of the measure was amended. Agreed to without objection.

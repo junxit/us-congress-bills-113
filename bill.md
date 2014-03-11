@@ -7,11 +7,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3675
 
-> To amend the Communications Act of 1934 to provide for greater transparency and efficiency in the procedures followed by the Federal Communications Commission.
+> To amend the Communications Act of 1934 to provide for greater transparency and efficiency in the procedures followed by the Federal Communications Commission, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Federal Communications Commission Process Reform Act of 2013”.
+This Act may be cited as the “Federal Communications Commission Process Reform Act of 2014”.
 
 ## § 2. FCC process reform
 
@@ -19,10 +19,10 @@ This Act may be cited as the “Federal Communications Commission Process Reform
   > ## § 13. Transparency and efficiency
   >
   > - **(a)** *Initial rulemaking and inquiry*
-  >   - **(1)** *Rulemaking* Not later than 1 year after the date of the enactment of the Federal Communications Commission Process Reform Act of 2013, the Commission shall complete a rulemaking proceeding and adopt procedural changes to its rules to maximize opportunities for public participation and efficient decisionmaking.
+  >   - **(1)** *Rulemaking* Not later than 1 year after the date of the enactment of the Federal Communications Commission Process Reform Act of 2014, the Commission shall complete a rulemaking proceeding and adopt procedural changes to its rules to maximize opportunities for public participation and efficient decisionmaking.
   >   - **(2)** *Requirements for rulemaking* The rules adopted under paragraph (1) shall—
   >     - **(A)** set minimum comment periods for comment and reply comment, subject to a determination by the Commission that good cause exists for departing from such minimum comment periods, for—
-  >       - **(i)** significant regulatory actions, as defined in Executive Order 12866; and
+  >       - **(i)** significant regulatory actions, as defined in Executive Order No. 12866; and
   >       - **(ii)** all other rulemaking proceedings;
   >     - **(B)** establish policies concerning the submission of extensive new comments, data, or reports towards the end of the comment period;
   >     - **(C)** establish policies regarding treatment of comments, ex parte communications, and data or reports (including statistical reports and reports to Congress) submitted after the comment period to ensure that the public has adequate notice of and opportunity to respond to such submissions before the Commission relies on such submissions in any order, decision, report, or action;
@@ -38,7 +38,7 @@ This Act may be cited as the “Federal Communications Commission Process Reform
   >       - **(ii)** substantially change (or propose to substantially change) a program activity to contain—
   >         - **(I)** performance measures for evaluating the effectiveness of the program activity as changed (or proposed to be changed); or
   >         - **(II)** a finding that existing performance measures will effectively evaluate the program activity as changed (or proposed to be changed).
-  >   - **(3)** *Inquiry* Not later than 1 year after the date of the enactment of the Federal Communications Commission Process Reform Act of 2013, the Commission shall complete an inquiry to seek public comment on whether and how the Commission should—
+  >   - **(3)** *Inquiry* Not later than 1 year after the date of the enactment of the Federal Communications Commission Process Reform Act of 2014, the Commission shall complete an inquiry to seek public comment on whether and how the Commission should—
   >     - **(A)** establish procedures for allowing a bipartisan majority of Commissioners to place an order, decision, report, or action on the agenda of an open meeting;
   >     - **(B)** establish procedures for informing all Commissioners of a reasonable number of options available to the Commission for resolving a petition, complaint, application, rulemaking, or other proceeding;
   >     - **(C)** establish procedures for ensuring that all Commissioners have adequate time, prior to being required to decide a petition, complaint, application, rulemaking, or other proceeding (including at a meeting held pursuant to section 5(d)), to review the proposed Commission decision document, including the specific language of any proposed rule or any proposed amendment of an existing rule;
@@ -126,9 +126,4 @@ Nothing in this Act or the amendments made by this Act shall relieve the Federal
 
 ## § 5. Application of Antideficiency Act to Universal Service Program
 
-- **(a)** *In general* Section 254 of the Communications Act of 1934 (47 U.S.C. 254) is amended by adding at the end the following:
-  > - **(m)** *Application of Antideficiency Act* Section 1341 and subchapter II of chapter 15 of title 31, United States Code, do not apply—
-  >   - **(1)** to any amount collected or received as Federal universal service contributions required by this section, including any interest earned on such contributions; or
-  >   - **(2)** to the expenditure or obligation of amounts attributable to such contributions for universal service support programs established pursuant to this section.
-
-- **(b)** *Repeal of temporary provision* Title III of Public Law 108–494 (118 Stat. 3997) is repealed.
+Section 302 of Public Law 108–494 (118 Stat. 3998) is amended by striking “December 31, 2015” each place it appears and inserting “December 31, 2020”.
