@@ -13,7 +13,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - Whereas the people of ancient Greece developed the concept of democracy, in which the supreme power to govern was vested in the people;
 - Whereas the founding fathers of the United States, many of whom read Greek political philosophy in the original Greek language, drew heavily on the political experience and philosophy of ancient Greece in forming the representative democracy of the United States;
-- Whereas Petros Mavromichalis, the former Commander in Chief of Greece and a founder of the modern Greek state, said to the citizens of the United States in 1821, “It is in your land that liberty has fixed her abode and … in imitating you, we shall imitate our ancestors and be thought worthy of them if we succeed in resembling you.”;
+- Whereas Petros Mavromichalis, the former Commander in Chief of Greece and a founder of the modern Greek state, said to the citizens of the United States in 1821, “It is in your land that liberty has fixed her abode and . . . in imitating you, we shall imitate our ancestors and be thought worthy of them if we succeed in resembling you.”;
 - Whereas the Greek national anthem, the “Hymn to Liberty”, includes the words, “most heartily was gladdened George Washington's brave land”;
 - Whereas the people of the United States generously offered humanitarian assistance to the people of Greece during their struggle for independence;
 - Whereas Greece, in one of the most consequential “David vs. Goliath” victories for freedom and democracy in modern times, refused to surrender to the Axis forces and inflicted a fatal wound at a crucial moment in World War II, forcing Adolf Hitler to change his timeline and delaying the attack on Russia, where the Axis forces met defeat;

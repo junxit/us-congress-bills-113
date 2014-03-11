@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 377
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 377
@@ -29,3 +29,7 @@ A resolution recognizing the 193rd anniversary of the independence of Greece and
 
 - 2014-03-10 — Introduced in Senate
 - 2014-03-10 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1418-1419)
+- 2014-03-11 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2014-03-11 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2014-03-11 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2014-03-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 326.
