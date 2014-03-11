@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3979
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3979
@@ -129,6 +129,10 @@ Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fi
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2014-03-11 — [House 113-2-116](votes/house-113-2-0116.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (410–0)
+
 ## Actions
 
 - 2014-01-31 — Introduced in House
@@ -139,3 +143,10 @@ Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fi
 - 2014-02-25 — Placed on the Union Calendar, Calendar No. 268.
 - 2014-02-25 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-360.
 - 2014-02-25 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-360.
+- 2014-03-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-03-11 — Considered as unfinished business. (consideration: CR H2285-2286)
+- 2014-03-11 — Considered under suspension of the rules. (consideration: CR H2278-2280)
+- 2014-03-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3979.
+- 2014-03-11 — Mr. Brady (TX) moved to suspend the rules and pass the bill, as amended. (consideration: CR H2278)
+- 2014-03-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 116). (text: CR H2278)
+- 2014-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 116).(text: CR H2278)
