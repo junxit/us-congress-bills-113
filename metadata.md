@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 506
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 506
@@ -35,3 +35,8 @@ Honoring the life and legacy of Václav Havel by directing the House of Represen
 - 2014-03-06 — Introduced in House
 - 2014-03-06 — Introduced in House
 - 2014-03-06 — Referred to the House Committee on House Administration.
+- 2014-03-11 — Considered under suspension of the rules. (consideration: CR H2266-2268)
+- 2014-03-11 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 506.
+- 2014-03-11 — Mrs. Miller (MI) moved to suspend the rules and agree to the resolution. (consideration: CR H2266)
+- 2014-03-11 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2266-2267)
+- 2014-03-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2266-2267)
