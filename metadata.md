@@ -1,7 +1,7 @@
 ---
 measure: H.R. 311
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 311
@@ -108,3 +108,8 @@ FUELS Act
 - 2014-03-06 — Placed on the Union Calendar, Calendar No. 279.
 - 2014-03-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-375.
 - 2014-03-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-375.
+- 2014-03-11 — Considered under suspension of the rules. (consideration: CR H2264-2266)
+- 2014-03-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 311.
+- 2014-03-11 — Mr. Crawford moved to suspend the rules and pass the bill. (consideration: CR H2264)
+- 2014-03-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2264-2265)
+- 2014-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2264-2265)
