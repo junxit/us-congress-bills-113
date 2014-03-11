@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 32
 congress: 113
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 32
@@ -29,3 +29,7 @@ A joint resolution providing for the reappointment of John W. McCarter as a citi
 
 - 2014-03-04 — Introduced in Senate
 - 2014-03-04 — Read twice and referred to the Committee on Rules and Administration.
+- 2014-03-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1527; text as passed Senate: CR S1527)
+- 2014-03-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1527; text as passed Senate: CR S1527)
+- 2014-03-11 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2014-03-11 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
