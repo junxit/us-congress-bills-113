@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 511
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 511
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 4138) to protect the separation of
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2014-03-12 — [House 113-2-118](votes/house-113-2-0118.md) — On Ordering the Previous Question — **Passed** (227–190)
+- 2014-03-12 — [House 113-2-119](votes/house-113-2-0119.md) — On Agreeing to the Resolution — **Passed** (229–192)
+
 ## Actions
 
 - 2014-03-11 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 4138) to protect the separation of
 - 2014-03-11 — Rule provides for consideration of H.R. 4138 and H.R. 3973. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
 - 2014-03-11 — The House Committee on Rules reported an original measure, H. Rept. 113-378, by Mr. Nugent.
 - 2014-03-11 — The House Committee on Rules reported an original measure, H. Rept. 113-378, by Mr. Nugent.
+- 2014-03-12 — Considered as privileged matter. (consideration: CR H2311-2319)
+- 2014-03-12 — DEBATE - The House proceeded with one hour of debate on H. Res. 511.
+- 2014-03-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-03-12 — On agreeing to the resolution Agreed to by recorded vote: 229 - 192 (Roll no. 119). (text: CR H2311)
+- 2014-03-12 — On ordering the previous question Agreed to by the Yeas and Nays: 227 - 190 (Roll no. 118). (consideration: CR H2318)
+- 2014-03-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 229 - 192 (Roll no. 119).(text: CR H2311)
