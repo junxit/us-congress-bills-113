@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 32
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.J.Res. 32
@@ -21,9 +21,10 @@ A joint resolution providing for the reappointment of John W. McCarter as a citi
 - Sen. Cochran, Thad [R-MS] (C000567)
 - Sen. Reed, Jack [D-RI] (R000122)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Rules and Administration Committee
+- House — Committee on House Administration
 
 ## Actions
 
@@ -33,3 +34,6 @@ A joint resolution providing for the reappointment of John W. McCarter as a citi
 - 2014-03-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1527; text as passed Senate: CR S1527)
 - 2014-03-11 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
 - 2014-03-11 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2014-03-12 — Message on Senate action sent to the House.
+- 2014-03-12 — Received in the House.
+- 2014-03-12 — Referred to the House Committee on House Administration.
