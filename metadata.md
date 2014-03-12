@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1814
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1814
@@ -259,3 +259,4 @@ EACH Act
 - 2014-03-11 — Mr. Schock moved to suspend the rules and pass the bill. (consideration: CR H2273)
 - 2014-03-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (consideration: CR H2273)
 - 2014-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(consideration: CR H2273)
+- 2014-03-12 — Received in the Senate.
