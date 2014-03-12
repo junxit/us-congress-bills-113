@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 32
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.J.Res. 32
@@ -37,3 +37,16 @@ A joint resolution providing for the reappointment of John W. McCarter as a citi
 - 2014-03-12 — Message on Senate action sent to the House.
 - 2014-03-12 — Received in the House.
 - 2014-03-12 — Referred to the House Committee on House Administration.
+- 2014-03-13 — Committee on House Administration discharged.
+- 2014-03-13 — Committee on House Administration discharged.
+- 2014-03-13 — Considered by unanimous consent. (consideration: CR H2374)
+- 2014-03-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-03-13 — Mrs. Miller (MI) asked unanimous consent to discharge from committee and consider.
+- 2014-03-13 — On passage Passed without objection. (text: CR H2374)
+- 2014-03-13 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2374)
+- 2014-03-14 — Presented to President.
+- 2014-03-14 — Presented to President.
+- 2014-03-21 — Became Public Law No: 113-91.
+- 2014-03-21 — Became Public Law No: 113-91.
+- 2014-03-21 — Signed by President.
+- 2014-03-21 — Signed by President.
