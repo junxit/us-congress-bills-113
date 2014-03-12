@@ -1,0 +1,48 @@
+---
+legis-num: S. 2114
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2114
+
+> To amend the Securities Exchange Act of 1934 with respect to disclosures to investors in municipal and corporate debt securities, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Bond Transparency Act of 2014”.
+
+## § 2. Markup disclosure in riskless principal transactions in municipal securities
+
+Section 15B of the Securities Exchange Act of 1934 (15 U.S.C. 78o–4) is amended—
+
+- **(1)** by redesignating subsection (e) as subsection (f); and
+- **(2)** by inserting after subsection (d) the following:
+  > - **(e)** *Markup disclosure in riskless principal transactions*
+  >   - **(1)** *Definition* In this subsection, the term riskless principal transaction means—
+  >     - **(A)** a transaction in which a broker, dealer, or municipal securities dealer receives a customer order to buy or sell any municipal securities and, after receiving the customer order, buys the municipal securities from, or sells the municipal securities to, another person, while acting as principal for its own account, to complete the customer order; and
+  >     - **(B)** any other transaction the Commission identifies by rule as a riskless principal transaction.
+  >   - **(2)** *Disclosure required* A broker, dealer, or municipal securities dealer that effects a riskless principal transaction shall disclose to the customer, in writing, at or before the time of completion of the transaction, the amount of the difference between—
+  >     - **(A)** the customer's purchase price and the broker's, dealer's or municipal securities dealer's purchase price; or
+  >     - **(B)** the customer's sale price and the broker's, dealer's, or municipal securities dealer's sale price.
+
+## § 3. Markup disclosure in riskless principal transactions in corporate debt securities
+
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o) is amended by adding at the end the following:
+
+> - **(p)** *Markup disclosure in riskless principal transactions in corporate debt securities*
+>   - **(1)** *Definitions* In this subsection—
+>     - **(A)** the term specified debt security—
+>       - **(i)** means any security that—
+>         - **(I)** evidences a liability of the issuer (including any such security that is convertible into stock or similar security), including bonds, debentures, notes, or any similar instruments, and any fractional or participation interests in any of the foregoing; and
+>         - **(II)** constitutes—
+>           - **(aa)** United States dollar-denominated securities issued by the United States or a foreign private issuer; or
+>           - **(bb)** any other security the Commission identifies by rule as a specified debt security for the purposes of this subsection; and
+>       - **(ii)** does not include a municipal security, as defined in section 3(a)(29) of this Act; and
+>     - **(B)** the term riskless principal transaction means—
+>       - **(i)** a transaction in which a broker or dealer receives a customer order to buy or sell any specified debt securities and, after receiving the customer order, buys the specified debt securities from, or sells the specified debt securities to, another person, while acting as principal for its own account, to complete the customer order; and
+>       - **(ii)** any other transaction the Commission identifies by rule as a riskless principal transaction.
+>   - **(2)** *Disclosure required* A broker or dealer that effects a riskless principal transaction shall disclose to the customer, in writing, at or before the time of completion of the transaction, the amount of the difference between—
+>     - **(A)** the customer's purchase price and the broker's or dealer's purchase price; or
+>     - **(B)** the customer's sale price and the broker's or dealer's sale price.
