@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4152
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4152
@@ -45,3 +45,6 @@ Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukr
 - 2014-03-06 — Mr. Rogers (KY) moved to suspend the rules and pass the bill.
 - 2014-03-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 23 (Roll no. 114). (text: CR H2215)
 - 2014-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 23 (Roll no. 114).(text: CR H2215)
+- 2014-03-10 — Received in the Senate.
+- 2014-03-11 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-03-12 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 328.
