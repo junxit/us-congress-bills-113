@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3675
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3675
@@ -20,9 +20,10 @@ Federal Communications Commission Process Reform Act of 2014
 
 - Rep. Kinzinger, Adam [R-IL-16] (K000378)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Federal Communications Commission Process Reform Act of 2014
 - 2014-03-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (consideration: CR H2281-2282)
 - 2014-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(consideration: CR H2281-2282)
 - 2014-03-11 — The title of the measure was amended. Agreed to without objection.
+- 2014-03-12 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
