@@ -1,7 +1,7 @@
 ---
 measure: S. 611
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 611
@@ -35,3 +35,17 @@ Sandia Pueblo Settlement Technical Amendment Act
 - 2014-01-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 299.
 - 2014-03-12 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1595; text as passed Senate: CR S1595)
 - 2014-03-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S1595; text as passed Senate: CR S1595)
+- 2014-03-13 — Held at the desk.
+- 2014-03-13 — Message on Senate action sent to the House.
+- 2014-03-13 — Received in the House.
+- 2014-05-28 — Considered under suspension of the rules. (consideration: CR H4860-4861)
+- 2014-05-28 — DEBATE - The House proceeded with forty minutes of debate on S. 611.
+- 2014-05-28 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
+- 2014-05-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4860)
+- 2014-05-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4860)
+- 2014-06-03 — Presented to President.
+- 2014-06-03 — Presented to President.
+- 2014-06-09 — Became Public Law No: 113-119.
+- 2014-06-09 — Became Public Law No: 113-119.
+- 2014-06-09 — Signed by President.
+- 2014-06-09 — Signed by President.
