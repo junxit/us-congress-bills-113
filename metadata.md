@@ -1,7 +1,7 @@
 ---
 measure: H.R. 311
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 311
@@ -92,9 +92,10 @@ FUELS Act
 - Rep. Forbes, J. Randy [R-VA-4] (F000445)
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -113,3 +114,4 @@ FUELS Act
 - 2014-03-11 — Mr. Crawford moved to suspend the rules and pass the bill. (consideration: CR H2264)
 - 2014-03-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2264-2265)
 - 2014-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2264-2265)
+- 2014-03-12 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
