@@ -1,7 +1,7 @@
 ---
 measure: S. 611
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 611
@@ -33,3 +33,5 @@ Sandia Pueblo Settlement Technical Amendment Act
 - 2014-01-28 — Committee on Indian Affairs. Reported by Senator Cantwell with an amendment in the nature of a substitute. With written report No. 113-136.
 - 2014-01-28 — Committee on Indian Affairs. Reported by Senator Cantwell with an amendment in the nature of a substitute. With written report No. 113-136.
 - 2014-01-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 299.
+- 2014-03-12 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1595; text as passed Senate: CR S1595)
+- 2014-03-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S1595; text as passed Senate: CR S1595)

@@ -17,17 +17,14 @@ This Act may be cited as the “Sandia Pueblo Settlement Technical Amendment Act
 
 Section 413(b) of the T’uf Shur Bien Preservation Trust Area Act (16 U.S.C. 539m–11(b)) is amended—
 
-- **(1)** in the first sentence of paragraph (4), by striking “conveyance” and inserting “the title to be conveyed”; and
+- **(1)** in the first sentence of paragraph (4), by striking “conveyance” and inserting “title to be conveyed”; and
 - **(2)** by adding at the end the following:
   > - **(6)** *Failure to exchange*
-  >   - **(A)** *In general* If the land exchange authorized under paragraph (1) is not completed by the date that is 90 days after the date of enactment of this paragraph, the Secretary, on receipt of consideration under subparagraph (B) and at the request of the Pueblo and the Secretary of the Interior, shall transfer the National Forest land generally depicted as Land to be Held in Trust on the map entitled Sandia Pueblo Settlement Technical Amendment and dated December 7, 2011, to the Secretary of the Interior to be held in trust by the United States for the Pueblo, subject to the condition that the land remain as open space, with the natural characteristics of the land to be preserved in perpetuity.
-  >   - **(B)** *Consideration* In consideration for the National Forest land to be held in trust under subparagraph (A), the Pueblo shall—
-  >     - **(i)** convey to the Secretary the La Luz tract; and
-  >     - **(ii)** pay to the Secretary the amount that is equal to the difference between—
-  >       - **(I)** the amount that is equal to the fair market value of the National Forest land, as subject to the condition that the National Forest land remain as open space, with the natural characteristics of the land to be preserved in perpetuity; and
-  >       - **(II)** the amount that is equal to the sum of—
-  >         - **(aa)** the amount of compensation owed to the Pueblo by the Secretary for the right-of-way and conservation easement on the Piedra Lisa tract under subsection (c)(2); and
-  >         - **(bb)** the amount that is equal to the fair market value of the La Luz tract.
-  >   - **(C)** *Use of funds* Any amounts received by the Secretary under this paragraph shall be—
-  >     - **(i)** deposited in the fund described in paragraph (3); and
-  >     - **(ii)** available to the Secretary, without further appropriation and until expended, for the acquisition of land or interests in land in the National Forest System.
+  >   - **(A)** *In general* If the land exchange authorized under paragraph (1) is not completed by the date that is 30 days after the date of enactment of this paragraph, the Secretary, on request of the Pueblo and the Secretary of the Interior, shall transfer the National Forest land generally depicted as Land to be Held in Trust on the map entitled Sandia Pueblo Settlement Technical Amendment Act and dated October 18, 2013, to the Secretary of the Interior to be held in trust by the United States for the Pueblo—
+  >     - **(i)** subject to the restriction enforced by the Secretary of the Interior that the land remain undeveloped, with the natural characteristics of the land to be preserved in perpetuity; and
+  >     - **(ii)** consistent with subsection (c).
+  >   - **(B)** *Other transfers* After the transfer under subparagraph (A) is complete, the Secretary of the Interior, with the consent of the Pueblo, shall—
+  >     - **(i)** transfer to the Secretary, consistent with section 411(c)—
+  >       - **(I)** the La Luz tract generally depicted on the map entitled Sandia Pueblo Settlement Technical Amendment Act and dated October 18, 2013; and
+  >       - **(II)** the conservation easement for the Piedra Lisa tract generally depicted on the map entitled Sandia Pueblo Settlement Technical Amendment Act and dated October 18, 2013; and
+  >     - **(ii)** grant to the Secretary a right-of-way for the Piedra Lisa Trail within the Piedra Lisa tract generally depicted on the map entitled Sandia Pueblo Settlement Technical Amendment Act and dated October 18, 2013.
