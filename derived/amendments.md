@@ -1,7 +1,7 @@
 ---
 measure: S. 2147
 congress: 113
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
