@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1786
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1786
@@ -16,6 +16,10 @@ National Windstorm Impact Reduction Act Reauthorization of 2014
 
 - Rep. Neugebauer, Randy [R-TX-19] (N000182)
 
+## Cosponsors (1)
+
+- Rep. Granger, Kay [R-TX-12] (G000377)
+
 ## Committees (2)
 
 - House — Transportation and Infrastructure Committee
@@ -27,3 +31,14 @@ National Windstorm Impact Reduction Act Reauthorization of 2014
 - 2013-04-26 — Introduced in House
 - 2013-04-26 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-04-26 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-04-29 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2013-06-24 — Referred to the Subcommittee on Research and Technology.
+- 2013-06-28 — Committee Consideration and Mark-up Session Held.
+- 2013-06-28 — Ordered to be Reported by Voice Vote.
+- 2014-02-28 — Committee Consideration and Mark-up Session Held.
+- 2014-02-28 — Ordered to be Reported (Amended) by Voice Vote.
+- 2014-03-13 — Committee on Transportation discharged.
+- 2014-03-13 — Committee on Transportation discharged.
+- 2014-03-13 — Placed on the Union Calendar, Calendar No. 282.
+- 2014-03-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-380, Part I.
+- 2014-03-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-380, Part I.

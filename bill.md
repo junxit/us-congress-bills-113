@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1786
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,11 +11,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “National Windstorm Impact Reduction Act Reauthorization of 2013”.
+This Act may be cited as the “National Windstorm Impact Reduction Act Reauthorization of 2014”.
 
 ## § 2. Definitions
 
-Section 203(1) of the National Windstorm Impact Reduction Act of 2004 (42 U.S.C. 15702(1)) is amended by striking “Director of the Office of Science and Technology Policy” and inserting “Director of the National Institute of Standards and Technology”.
+- **(a)** *Director* Section 203(1) of the National Windstorm Impact Reduction Act of 2004 (42 U.S.C. 15702(1)) is amended by striking “Director of the Office of Science and Technology Policy” and inserting “Director of the National Institute of Standards and Technology”.
+- **(b)** *Lifelines* Section 203 of the National Windstorm Impact Reduction Act of 2004 (42 U.S.C. 15702) is further amended—
+  - **(1)** by redesignating paragraphs (2) through (4) as paragraphs (3) through (5), respectively; and
+  - **(2)** by inserting after paragraph (1) the following new paragraph:
+    > - **(2)** *Lifelines* The term “lifelines” means public works and utilities, including transportation facilities and infrastructure, oil and gas pipelines, electrical power and communication facilities and infrastructure, and water supply and sewage treatment facilities.
 
 ## § 3. National Windstorm Impact Reduction Program
 
@@ -31,13 +35,22 @@ Section 204 of the National Windstorm Impact Reduction Act of 2004 (42 U.S.C. 15
   >     - **(D)** coordinate all Federal post-windstorm investigations; and
   >     - **(E)** when warranted by research or investigative findings, issue recommendations to assist in informing the development of model codes, and provide information to Congress on the use of such recommendations.
   >   - **(2)** *National Institute of Standards and Technology* In addition to the lead agency responsibilities described under paragraph (1), the National Institute of Standards and Technology shall be responsible for carrying out research and development to improve model building codes, voluntary standards, and best practices for the design, construction, and retrofit of buildings, structures, and lifelines.
-  >   - **(3)** *National Science Foundation* The National Science Foundation shall support research in engineering and the atmospheric sciences to improve the understanding of the behavior of windstorms and their impact on buildings, structures, and lifelines.
+  >   - **(3)** *National science foundation* The National Science Foundation shall support research in—
+  >     - **(A)** engineering and the atmospheric sciences to improve the understanding of the behavior of windstorms and their impact on buildings, structures, and lifelines; and
+  >     - **(B)** economic and social factors influencing windstorm risk reduction measures.
   >   - **(4)** *National Oceanic and Atmospheric Administration* The National Oceanic and Atmospheric Administration shall support atmospheric sciences research to improve the understanding of the behavior of windstorms and their impact on buildings, structures, and lifelines.
-  >   - **(5)** *Federal Emergency Management Agency* The Federal Emergency Management Agency shall support the development of risk assessment tools and effective mitigation techniques, windstorm-related data collection and analysis, public outreach, information dissemination, and implementation of mitigation measures consistent with the Agency’s all-hazards approach.
+  >   - **(5)** *Federal emergency management agency* The Federal Emergency Management Agency shall—
+  >     - **(A)** support—
+  >       - **(i)** the development of risk assessment tools and effective mitigation techniques;
+  >       - **(ii)** windstorm-related data collection and analysis;
+  >       - **(iii)** public outreach and information dissemination; and
+  >       - **(iv)** promotion of the adoption of windstorm preparedness and mitigation measures, including for households, businesses, and communities, consistent with the Agency’s all-hazards approach; and
+  >     - **(B)** work closely with national standards and model building code organizations, in conjunction with the National Institute of Standards and Technology, to promote the implementation of research results and promote better building practices within the building design and construction industry, including architects, engineers, contractors, builders, and inspectors.
 
-- **(2)** by redesignating subsection (d) as subsection (c);
-- **(3)** by inserting after subsection (c), as so redesignated, the following new subsection:
-  > - **(d)** *Interagency Coordinating Committee on Windstorm Impact Reduction*
+- **(2)** by redesignating subsection (d) as subsection (c), and by striking subsections (e) and (f); and
+- **(3)** by inserting after subsection (c), as so redesignated, the following new subsections:
+  > - **(d)** *Budget activities* The Director of the National Institute of Standards and Technology, the Director of the National Science Foundation, the Director of the National Oceanic and Atmospheric Administration, and the Director of the Federal Emergency Management Agency shall each include in their agency’s annual budget request to Congress a description of their agency’s projected activities under the Program for the fiscal year covered by the budget request, along with an assessment of what they plan to spend on those activities for that fiscal year.
+  > - **(e)** *Interagency Coordinating Committee on Windstorm Impact Reduction*
   >   - **(1)** *Establishment* There is established an Interagency Coordinating Committee on Windstorm Impact Reduction, chaired by the Director.
   >   - **(2)** *Membership* In addition to the chair, the Committee shall be composed of—
   >     - **(A)** the heads of—
@@ -49,20 +62,18 @@ Section 204 of the National Windstorm Impact Reduction Act of 2004 (42 U.S.C. 15
   >     - **(B)** the head of any other Federal agency the chair considers appropriate.
   >   - **(3)** *Meetings* The Committee shall meet not less than 2 times a year at the call of the Director of the National Institute of Standards and Technology.
   >   - **(4)** *General purpose and duties* The Committee shall oversee the planning and coordination of the Program.
-  >   - **(5)** *Strategic plan* The Committee shall develop and submit to Congress, not later than one year after the date of enactment of the National Windstorm Impact Reduction Act Reauthorization of 2013, a Strategic Plan for the Program that includes—
+  >   - **(5)** *Strategic plan* The Committee shall develop and submit to Congress, not later than one year after the date of enactment of the National Windstorm Impact Reduction Act Reauthorization of 2014, a Strategic Plan for the Program that includes—
   >     - **(A)** prioritized goals for the Program that will mitigate against the loss of life and property from future windstorms;
   >     - **(B)** short-term, mid-term, and long-term research objectives to achieve those goals;
   >     - **(C)** a description of the role of each Program agency in achieving the prioritized goals;
   >     - **(D)** the methods by which progress towards the goals will be assessed; and
   >     - **(E)** an explanation of how the Program will foster the transfer of research results into outcomes, such as improved model building codes.
-  >   - **(6)** *Progress report* Not later than 18 months after the date of enactment of the National Windstorm Impact Reduction Act Reauthorization of 2013, the Committee shall submit to the Congress a report on the progress of the Program that includes—
+  >   - **(6)** *Progress report* Not later than 18 months after the date of enactment of the National Windstorm Impact Reduction Act Reauthorization of 2014, the Committee shall submit to the Congress a report on the progress of the Program that includes—
   >     - **(A)** a description of the activities funded under the Program, a description of how these activities align with the prioritized goals and research objectives established in the Strategic Plan, and the budgets, per agency, for these activities;
   >     - **(B)** the outcomes achieved by the Program for each of the goals identified in the Strategic Plan;
   >     - **(C)** a description of any recommendations made to change existing building codes that were the result of Program activities; and
   >     - **(D)** a description of the extent to which the Program has incorporated recommendations from the Advisory Committee on Windstorm Impact Reduction.
   >   - **(7)** *Coordinated budget* The Committee shall develop a coordinated budget for the Program, which shall be submitted to the Congress at the time of the President’s budget submission for each fiscal year.
-
-- **(4)** by striking subsections (e) and (f).
 
 ## § 4. National Advisory Committee on Windstorm Impact Reduction
 
@@ -72,7 +83,7 @@ Section 205 of the National Windstorm Impact Reduction Act of 2004 (42 U.S.C. 15
 >
 > - **(a)** *In general* The Director of the National Institute of Standards and Technology shall establish an Advisory Committee on Windstorm Impact Reduction, which shall be composed of at least 7 members, none of whom may be employees of the Federal Government, including representatives of research and academic institutions, industry standards development organizations, emergency management agencies, State and local government, and business communities who are qualified to provide advice on windstorm impact reduction and represent all related scientific, architectural, and engineering disciplines. The recommendations of the Advisory Committee shall be considered by Federal agencies in implementing the Program.
 > - **(b)** *Assessments* The Advisory Committee on Windstorm Impact Reduction shall offer assessments on—
->   - **(1)** trends and developments in the natural and engineering sciences and practices of windstorm impact mitigation;
+>   - **(1)** trends and developments in the natural, engineering, and social sciences and practices of windstorm impact mitigation;
 >   - **(2)** the priorities of the Program’s Strategic Plan;
 >   - **(3)** the coordination of the Program; and
 >   - **(4)** any revisions to the Program which may be necessary.
@@ -80,6 +91,7 @@ Section 205 of the National Windstorm Impact Reduction Act of 2004 (42 U.S.C. 15
 > - **(d)** *Reports* At least every 2 years, the Advisory Committee shall report to the Director on the assessments carried out under subsection (b) and its recommendations for ways to improve the Program.
 > - **(e)** *Charter* Notwithstanding section 14(b)(2) of the Federal Advisory Committee Act (5 U.S.C. App), the Advisory Committee shall not be required to file a charter subsequent to its initial charter, filed under section 9(c) of such Act, before the termination date specified in subsection (f) of this section.
 > - **(f)** *Termination* The Advisory Committee shall terminate on September 30, 2016.
+> - **(g)** *Conflict of interest* An Advisory Committee member shall recuse himself from any Advisory Committee activity in which he has an actual pecuniary interest.
 
 ## § 5. Authorization of appropriations
 
@@ -88,18 +100,14 @@ Section 207 of the National Windstorm Impact Reduction Act of 2004 (42 U.S.C. 15
 > ## § 207. Authorization of appropriations
 >
 > - **(a)** *Federal Emergency Management Agency* There are authorized to be appropriated to the Federal Emergency Management Agency for carrying out this title—
->   - **(1)** $2,000,000 for fiscal year 2014;
->   - **(2)** $2,000,000 for fiscal year 2015; and
->   - **(3)** $2,000,000 for fiscal year 2016.
+>   - **(1)** $5,332,000 for fiscal year 2014; and
+>   - **(2)** $5,332,000 for fiscal year 2015.
 > - **(b)** *National Science Foundation* There are authorized to be appropriated to the National Science Foundation for carrying out this title—
->   - **(1)** $11,400,000 for fiscal year 2014;
->   - **(2)** $11,400,000 for fiscal year 2015; and
->   - **(3)** $11,400,000 for fiscal year 2016.
+>   - **(1)** $9,682,000 for fiscal year 2014; and
+>   - **(2)** $9,682,000 for fiscal year 2015.
 > - **(c)** *National Institute of Standards and Technology* There are authorized to be appropriated to the National Institute of Standards and Technology for carrying out this title—
->   - **(1)** $5,500,000 for fiscal year 2014;
->   - **(2)** $5,500,000 for fiscal year 2015; and
->   - **(3)** $5,500,000 for fiscal year 2016.
+>   - **(1)** $4,120,000 for fiscal year 2014; and
+>   - **(2)** $4,120,000 for fiscal year 2015.
 > - **(d)** *National Oceanic and Atmospheric Administration* There are authorized to be appropriated to the National Oceanic and Atmospheric Administration for carrying out this title—
->   - **(1)** $2,500,000 for fiscal year 2014;
->   - **(2)** $2,500,000 for fiscal year 2015; and
->   - **(3)** $2,500,000 for fiscal year 2016.
+>   - **(1)** $2,266,000 for fiscal year 2014; and
+>   - **(2)** $2,266,000 for fiscal year 2015.
