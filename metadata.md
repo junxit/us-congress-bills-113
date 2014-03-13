@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 375
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 375
@@ -32,3 +32,5 @@ A resolution concerning the crisis in the Central African Republic and supportin
 - 2014-03-11 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment and with an amended preamble. Without written report.
 - 2014-03-11 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment and with an amended preamble. Without written report.
 - 2014-03-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 324.
+- 2014-03-13 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S1668-1669; text as passed Senate: CR S1668-1669)
+- 2014-03-13 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S1668-1669; text as passed Senate: CR S1668-1669)
