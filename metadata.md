@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4138
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4138
@@ -41,9 +41,10 @@ ENFORCE the Law Act of 2014
 - Rep. Rigell, E. Scott [R-VA-2] (R000589)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (5)
 
@@ -119,3 +120,4 @@ ENFORCE the Law Act of 2014
 - 2014-03-12 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2338)
 - 2014-03-12 — The previous question was ordered pursuant to the rule. (consideration: CR H2337)
 - 2014-03-12 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2014-03-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
