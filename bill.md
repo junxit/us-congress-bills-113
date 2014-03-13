@@ -1,0 +1,18 @@
+---
+legis-num: S. 2147
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2147
+
+> To amend Public Law 112–59 to provide for the display of the congressional gold medal awarded to the Montford Point Marines, United States Marine Corps, by the Smithsonian Institution and at other appropriate locations.
+
+## § 1. Display of congressional gold medal by the Smithsonian Institution
+
+Section 2 of the Act entitled “An Act to grant the congressional gold medal to the Montford Point Marines”, approved November 23, 2011 (31 U.S.C. 5111 note), is amended by adding at the end the following:
+
+> - **(c)** *Smithsonian institution*
+>   - **(1)** *In general* Following the award of the gold medal in honor of the Montford Point Marines, United States Marine Corps, under subsection (a), the gold medal shall be given to the Smithsonian Institution, where it will be displayed as appropriate and made available for research.
+>   - **(2)** *Sense of congress* It is the sense of Congress that the Smithsonian Institution should make the gold medal received under paragraph (1) available for display elsewhere, particularly at other appropriate locations associated with the Montford Point Marines, United States Marine Corps.
