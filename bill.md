@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 4231
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4231
+
+> To prohibit United States assistance to the East-West Center.
+
+## § 1. Prohibition on United States assistance to the East-West Center
+
+No funds available to the Department of State or any other department or agency may be used to provide assistance to the Center for Cultural and Technical Interchange Between East and West (commonly known as the East-West Center).
