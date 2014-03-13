@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 4232
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4232
+
+> To clarify the cancellation of loans of members of the Armed Forces under the Federal Perkins Loan Program.
+
+## § 1. Short title
+
+This Act may be cited as the “Veterans Higher Education Opportunity Act”.
+
+## § 2. Cancellation of loans of members of the armed forces made from student loan funds
+
+Section 465(a) of the Higher Education Act of 1965 (20 U.S.C. 1087ee(a)) is amended by adding at the end the following new paragraph:
+
+> - **(8)** For the purpose of this subsection, the term year of service where applied to service by a member of the Armed Forces described in paragraph (2)(D) means a qualified tour of duty that—
+>   - **(A)** is for 6 months or longer; or
+>   - **(B)** was less than 6 months because the member was discharged or released from active duty in the Armed Forces for an injury or disability incurred in or aggravated by service in the Armed Forces.
