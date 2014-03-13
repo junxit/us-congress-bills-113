@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 93
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 93
@@ -26,3 +26,4 @@ Directing the Clerk of the House of Representatives to make technical correction
 - 2014-03-13 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H2401)
 - 2014-03-13 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S1669)
 - 2014-03-13 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S1669)
+- 2014-03-14 — Message on Senate action sent to the House.
