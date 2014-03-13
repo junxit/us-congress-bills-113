@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 4225
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4225
+
+> To amend title 18, United States Code, to provide a penalty for knowingly selling advertising that offers certain commercial sex acts.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Advertising Victims of Exploitation Act of 2014” or the “SAVE Act of 2014”.
+
+## § 2. Advertising that offers certain commercial sex acts
+
+> ## § 1591A. Advertising that offers certain commercial sex acts
+>
+> - **(a)** *Offense* Whoever, in or affecting interstate or foreign commerce, knowingly benefits financially from, receives anything of value from, or distributes advertising that offers a commercial sex act in a manner prohibited under section 1591, shall be fined under this title, imprisoned not more than 5 years, or both.
+> - **(b)** *Definitions* In this section, the terms have the meanings given those terms in section 1591.
+
+## § 3. Extra-territorial jurisdiction
+
+Section 1596 of title 18, United States Code, is amended by striking “or 1591” and inserting “1591, or 1591A”.
+
+## § 4. Clerical amendment
+
+The table of sections at the beginning of chapter 77 of title 18, United States Code, is amended by inserting after the item relating to section 1591 the following:
