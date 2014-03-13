@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1456
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -29,7 +29,7 @@ Congress makes the following findings:
 
 ## § 2. Congressional gold medal
 
-- **(a)** *Award authorized* The President pro tempore of the Senate and the Speaker of the House of Representatives shall make appropriate arrangements for the award, on behalf of Congress, of a single gold medal of appropriate design in honor of President Shimon Peres.
+- **(a)** *Award authorized* The President pro tempore of the Senate and the Speaker of the House of Representatives shall make appropriate arrangements for the award, on behalf of Congress, of a single gold medal of appropriate design to President Shimon Peres.
 - **(b)** *Design and striking* For the purpose of the award referred to in subsection (a), the Secretary of the Treasury shall strike a gold medal with suitable emblems, devices, and inscriptions to be determined by the Secretary.
 
 ## § 3. Duplicate medals
