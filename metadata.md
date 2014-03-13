@@ -1,7 +1,7 @@
 ---
 measure: S. 1086
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1086
@@ -16,16 +16,77 @@ Child Care and Development Block Grant Act of 2014
 
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 
-## Cosponsors (4)
+## Cosponsors (57)
 
 - Sen. Burr, Richard [R-NC] (B001135)
 - Sen. Harkin, Tom [D-IA] (H000206)
 - Sen. Alexander, Lamar [R-TN] (A000360)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Rubio, Marco [R-FL] (R000595)
 
 ## Committees (1)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+
+## Recorded votes (5)
+
+- 2014-03-12 — [Senate 113-2-72](votes/senate-113-2-0072.md) — On the Amendment — **Amendment Agreed to** (98–0)
+- 2014-03-12 — [Senate 113-2-73](votes/senate-113-2-0073.md) — On the Amendment — **Amendment Agreed to** (93–6)
+- 2014-03-12 — [Senate 113-2-74](votes/senate-113-2-0074.md) — On the Amendment — **Amendment Agreed to** (98–0)
+- 2014-03-13 — [Senate 113-2-75](votes/senate-113-2-0075.md) — On the Amendment — **Amendment Agreed to** (100–0)
+- 2014-03-13 — [Senate 113-2-77](votes/senate-113-2-0077.md) — On Passage of the Bill — **Bill Passed** (96–2)
 
 ## Actions
 
@@ -36,3 +97,151 @@ Child Care and Development Block Grant Act of 2014
 - 2014-02-25 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. With written report No. 113-138.
 - 2014-02-25 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. With written report No. 113-138.
 - 2014-02-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 309.
+- 2014-02-26 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1169)
+- 2014-02-27 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S1225; text: CR S1225)
+- 2014-02-27 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1187, S1210-1212, S1225-1226)
+- 2014-03-04 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1257)
+- 2014-03-05 — Cloture motion withdrawn by unanimous consent in Senate. (consideration: CR S1305)
+- 2014-03-05 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1285-1288)
+- 2014-03-06 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1329-1330)
+- 2014-03-06 — Senate amendment submitted
+- 2014-03-10 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1371)
+- 2014-03-10 — Senate amendment submitted
+- 2014-03-10 — Senate amendment submitted
+- 2014-03-11 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1487)
+- 2014-03-11 — Senate amendment submitted
+- 2014-03-11 — Senate amendment submitted
+- 2014-03-11 — Senate amendment submitted
+- 2014-03-11 — Senate amendment submitted
+- 2014-03-11 — Senate amendment submitted
+- 2014-03-11 — Senate amendment submitted
+- 2014-03-11 — Senate amendment submitted
+- 2014-03-11 — Senate amendment submitted
+- 2014-03-11 — Senate amendment submitted
+- 2014-03-11 — Senate amendment submitted
+- 2014-03-11 — Senate amendment submitted
+- 2014-03-11 — Senate amendment submitted
+- 2014-03-12 — Amendment SA 2809 agreed to in Senate by Voice Vote.
+- 2014-03-12 — Amendment SA 2809 proposed by Senator Harkin for Senator Boxer. (consideration: CR S1562-1566, S1569; text: CR S1562-1563) To amend the Crime Control Act of 1990 to improve the quality of background checks for Federal agencies hiring, or contracting to hire, individuals to provide child care services.
+- 2014-03-12 — Amendment SA 2811 proposed by Senator Harkin. (consideration: CR S1545-1553; text: CR S1545) To include rural and remote areas as underserved areas identified in the State plan.
+- 2014-03-12 — Amendment SA 2812 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 72.
+- 2014-03-12 — Amendment SA 2812 proposed by Senator Enzi. (consideration: CR S1553-1555, S1556; text: CR S1554) To require the Secretary of Health and Human Services, in conjunction with the Secretary of Education, to conduct a review of Federal early learning and care programs and make recommendations for streamlining the various programs.
+- 2014-03-12 — Amendment SA 2813 agreed to in Senate by Voice Vote.
+- 2014-03-12 — Amendment SA 2813 proposed by Senator Mikulski for Senator Landrieu. (consideration: CR S1559-1562, S1569; text: CR S1559) To allow children in foster care to receive services under the Child Care and Development Block Grant Act of 1990 while their families (including foster families) are taking necessary action to comply with immunization and other health and safety requirements.
+- 2014-03-12 — Amendment SA 2814 agreed to in Senate by Voice Vote.
+- 2014-03-12 — Amendment SA 2814 proposed by Senator Mikulski for Senator Landrieu. (consideration: CR S1559-1562, S1569; text: CR S1559) To require the State plan to describe how the State will coordinate the services supported to carry out the Child Care and Development Block Grant Act of 1990 with State agencies and programs serving children in foster care and the foster families of such children.
+- 2014-03-12 — Amendment SA 2818 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 74.
+- 2014-03-12 — Amendment SA 2818 proposed by Senator Harkin for Senator Landrieu. (consideration: CR S1555, S1568-1569; text: CR S1555) To require a statewide child care disaster plan.
+- 2014-03-12 — Amendment SA 2821 as modified agreed to in Senate by Voice Vote. (text as modified: CR S1568)
+- 2014-03-12 — Amendment SA 2821 proposed by Senator Burr for Senator Lee. (consideration: CR S1568; text: CR S1568) To prohibit States from providing the Secretary with reports containing personally identifiable information.
+- 2014-03-12 — Amendment SA 2822 agreed to in Senate by Yea-Nay Vote. 93 - 6. Record Vote Number: 73.
+- 2014-03-12 — Amendment SA 2822 proposed by Senator Harkin for Senator Franken. (consideration: CR S1556, S1557; text: CR S1556) To reserve not less than 2 percent of the amount appropriated under the Child Care and Development Block Grant Act of 1990 in each fiscal year for payments to Indian tribes and tribal organizations.
+- 2014-03-12 — Amendment SA 2824 agreed to in Senate by Voice Vote.
+- 2014-03-12 — Amendment SA 2824 proposed by Senator Harkin for Senator Bennet. (consideration: CR S1562-1566, S1569; text: CR S1562) To require States that elect to combine funding for early childhood education and care to describe the manner in which they use the combined funding.
+- 2014-03-12 — Amendment SA 2837 agreed to in Senate by Voice Vote.
+- 2014-03-12 — Amendment SA 2837 proposed by Senator Scott. (consideration: CR S1566-1568, S1569; text: CR S1566) To clarify parental rights to use child care certificates.
+- 2014-03-12 — Measure laid before Senate by unanimous consent. (consideration: CR S1531-1532, S1539-1569, S1569-1570; text of measure as reported in Senate CR S1539-1545)
+- 2014-03-12 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1531)
+- 2014-03-12 — Roll call votes on amendments in Senate: Amendment SA 2812 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 72.
+- 2014-03-12 — Roll call votes on amendments in Senate: Amendment SA 2818 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 74.
+- 2014-03-12 — Roll call votes on amendments in Senate: Amendment SA 2822 agreed to in Senate by Yea-Nay Vote. 93 - 6. Record Vote Number: 73.
+- 2014-03-12 — Senate amendment agreed to: Amendment SA 2809 agreed to in Senate by Voice Vote.
+- 2014-03-12 — Senate amendment agreed to: Amendment SA 2809 agreed to in Senate by Voice Vote.
+- 2014-03-12 — Senate amendment agreed to: Amendment SA 2812 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 72.
+- 2014-03-12 — Senate amendment agreed to: Amendment SA 2813 agreed to in Senate by Voice Vote.
+- 2014-03-12 — Senate amendment agreed to: Amendment SA 2814 agreed to in Senate by Voice Vote.
+- 2014-03-12 — Senate amendment agreed to: Amendment SA 2818 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 74.
+- 2014-03-12 — Senate amendment agreed to: Amendment SA 2821 as modified agreed to in Senate by Voice Vote.(text as modified: CR S1568)
+- 2014-03-12 — Senate amendment agreed to: Amendment SA 2822 agreed to in Senate by Yea-Nay Vote. 93 - 6. Record Vote Number: 73.
+- 2014-03-12 — Senate amendment agreed to: Amendment SA 2824 agreed to in Senate by Voice Vote.
+- 2014-03-12 — Senate amendment agreed to: Amendment SA 2837 agreed to in Senate by Voice Vote.
+- 2014-03-12 — Senate amendment proposed (on the floor): Amendment SA 2809 proposed by Senator Harkin for Senator Boxer.(consideration: CR S1562-1566, S1569; text: CR S1562-1563)
+- 2014-03-12 — Senate amendment proposed (on the floor): Amendment SA 2811 proposed by Senator Harkin.(consideration: CR S1545-1553; text: CR S1545)
+- 2014-03-12 — Senate amendment proposed (on the floor): Amendment SA 2811 proposed by Senator Harkin.(consideration: CR S1545-1553; text: CR S1545)
+- 2014-03-12 — Senate amendment proposed (on the floor): Amendment SA 2812 proposed by Senator Enzi.(consideration: CR S1553-1555, S1556; text: CR S1554)
+- 2014-03-12 — Senate amendment proposed (on the floor): Amendment SA 2813 proposed by Senator Mikulski for Senator Landrieu.(consideration: CR S1559-1562, S1569; text: CR S1559)
+- 2014-03-12 — Senate amendment proposed (on the floor): Amendment SA 2814 proposed by Senator Mikulski for Senator Landrieu.(consideration: CR S1559-1562, S1569; text: CR S1559)
+- 2014-03-12 — Senate amendment proposed (on the floor): Amendment SA 2818 proposed by Senator Harkin for Senator Landrieu.(consideration: CR S1555, S1568-1569; text: CR S1555)
+- 2014-03-12 — Senate amendment proposed (on the floor): Amendment SA 2821 proposed by Senator Burr for Senator Lee.(consideration: CR S1568; text: CR S1568)
+- 2014-03-12 — Senate amendment proposed (on the floor): Amendment SA 2822 proposed by Senator Harkin for Senator Franken.(consideration: CR S1556, S1557; text: CR S1556)
+- 2014-03-12 — Senate amendment proposed (on the floor): Amendment SA 2824 proposed by Senator Harkin for Senator Bennet.(consideration: CR S1562-1566, S1569; text: CR S1562)
+- 2014-03-12 — Senate amendment proposed (on the floor): Amendment SA 2837 proposed by Senator Scott.(consideration: CR S1566-1568, S1569; text: CR S1566)
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-12 — Senate amendment submitted
+- 2014-03-13 — Amendment SA 2827 agreed to in Senate by Voice Vote.
+- 2014-03-13 — Amendment SA 2827 proposed by Senator Harkin for Senator Portman. (consideration: S1609-1610, S1611; text: CR S1609) To provide for evidence-based training that promotes early language and literacy development.
+- 2014-03-13 — Amendment SA 2830 as modified agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 75. (text as modified: CR S1608)
+- 2014-03-13 — Amendment SA 2830 proposed by Senator Coburn. (consideration: CR S1608-1609, S1610) To establish a $1,000,000 asset limit for eligibility for child care assistance.
+- 2014-03-13 — Amendment SA 2834 agreed to in Senate by Voice Vote.
+- 2014-03-13 — Amendment SA 2834 proposed by Senator Harkin for Senator Tester. (consideration: S1609-1610; text: CR S1609) To permit the Secretary of Health and Human Services to waive the prohibition on the use of amounts by Indian tribes and tribal organizations for construction or renovation of facilities for child care programs if the use will result in an increase of the level of child care services.
+- 2014-03-13 — Amendment SA 2838 agreed to in Senate by Voice Vote.
+- 2014-03-13 — Amendment SA 2838 proposed by Senator Harkin for Senator Thune. (consideration: S1609-1610; text: CR S1609) To specify that child care certificates may be included in State strategies to increase the supply of child care.
+- 2014-03-13 — Amendment SA 2839 as modified agreed to in Senate by Voice Vote. (text as modified: CR S1610)
+- 2014-03-13 — Amendment SA 2839 proposed by Senator Harkin for Senator Bennet. (consideration: S1609-1610) To expand the requirement that space allotted to child care providers in Federal buildings will be used to provide child care services to children of whom at least 50 percent have 1 parent or guardian employed by the Federal Government.
+- 2014-03-13 — Amendment SA 2842 agreed to in Senate by Voice Vote.
+- 2014-03-13 — Amendment SA 2842 proposed by Senator Harkin for Senator Warren. (consideration: S1609-1610; text: CR S1609-1610) To allow funds reserved under section 658G(a) of the Child Care and Development Block Grant Act of 1990 to be used to connect child care staff members with Federal and State financial aid, or other resources, in order to assist the staff members in pursuing relevant training.
+- 2014-03-13 — Amendment SA 2845 as modified agreed to in Senate by Voice Vote. (text as modified: CR S1613)
+- 2014-03-13 — Amendment SA 2845 proposed by Senator Vitter. (consideration: S1613-1614) To require the Secretary (acting through the Assistant Secretary for Children and Families) to prepare an annual report that contains a determination about whether States have complied with a priority requirement, and to require the Secretary to withhold funds from States that fail to comply with such priority requirement.
+- 2014-03-13 — Amendment SA 2846 agreed to in Senate by Voice Vote.
+- 2014-03-13 — Amendment SA 2846 proposed by Senator Harkin for Senator Sanders. (consideration: CR S1616-1617; text: CR S1616) To express the sense of the Senate on significantly reducing child poverty by calendar year 2019.
+- 2014-03-13 — Amendment SA 2847 agreed to in Senate by Voice Vote.
+- 2014-03-13 — Amendment SA 2847 proposed by Senator Harkin for Senator Portman. (consideration: CR S1616-1617; text: CR S1616) To provide that a child care staff member who has been convicted of a violent misdemeanor against a child or a misdemeanor involving child pornography is ineligible for employment by certain child care providers.
+- 2014-03-13 — Considered by Senate. (consideration: CR S1602, S1617)
+- 2014-03-13 — Considered by Senate. (consideration: CR S1602-1610, S1611-1612, S1613-1627)
+- 2014-03-13 — Held at the desk.
+- 2014-03-13 — Message on Senate action sent to the House.
+- 2014-03-13 — Passed Senate with an amendment by Yea-Nay Vote. 96 - 2. Record Vote Number: 77. (text: CR S1617-1627)
+- 2014-03-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 96 - 2. Record Vote Number: 77.(text: CR S1617-1627)
+- 2014-03-13 — Proposed amendment SA 2811 withdrawn in Senate. (consideration: CR S1617)
+- 2014-03-13 — Received in the House.
+- 2014-03-13 — Roll call votes on amendments in Senate: Amendment SA 2830 as modified agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 75.(text as modified: CR S1608)
+- 2014-03-13 — Senate amendment agreed to: Amendment SA 2827 agreed to in Senate by Voice Vote.
+- 2014-03-13 — Senate amendment agreed to: Amendment SA 2830 as modified agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 75.(text as modified: CR S1608)
+- 2014-03-13 — Senate amendment agreed to: Amendment SA 2834 agreed to in Senate by Voice Vote.
+- 2014-03-13 — Senate amendment agreed to: Amendment SA 2838 agreed to in Senate by Voice Vote.
+- 2014-03-13 — Senate amendment agreed to: Amendment SA 2839 as modified agreed to in Senate by Voice Vote.(text as modified: CR S1610)
+- 2014-03-13 — Senate amendment agreed to: Amendment SA 2842 agreed to in Senate by Voice Vote.
+- 2014-03-13 — Senate amendment agreed to: Amendment SA 2845 as modified agreed to in Senate by Voice Vote.(text as modified: CR S1613)
+- 2014-03-13 — Senate amendment agreed to: Amendment SA 2845 as modified agreed to in Senate by Voice Vote.(text as modified: CR S1613)
+- 2014-03-13 — Senate amendment agreed to: Amendment SA 2846 agreed to in Senate by Voice Vote.
+- 2014-03-13 — Senate amendment agreed to: Amendment SA 2847 agreed to in Senate by Voice Vote.
+- 2014-03-13 — Senate amendment proposed (on the floor): Amendment SA 2827 proposed by Senator Harkin for Senator Portman.(consideration: S1609-1610, S1611; text: CR S1609)
+- 2014-03-13 — Senate amendment proposed (on the floor): Amendment SA 2827 proposed by Senator Harkin for Senator Portman.(consideration: S1609-1610, S1611; text: CR S1609)
+- 2014-03-13 — Senate amendment proposed (on the floor): Amendment SA 2830 proposed by Senator Coburn.(consideration: CR S1608-1609, S1610)
+- 2014-03-13 — Senate amendment proposed (on the floor): Amendment SA 2834 proposed by Senator Harkin for Senator Tester.(consideration: S1609-1610; text: CR S1609)
+- 2014-03-13 — Senate amendment proposed (on the floor): Amendment SA 2838 proposed by Senator Harkin for Senator Thune.(consideration: S1609-1610; text: CR S1609)
+- 2014-03-13 — Senate amendment proposed (on the floor): Amendment SA 2839 proposed by Senator Harkin for Senator Bennet.(consideration: S1609-1610)
+- 2014-03-13 — Senate amendment proposed (on the floor): Amendment SA 2842 proposed by Senator Harkin for Senator Warren.(consideration: S1609-1610; text: CR S1609-1610)
+- 2014-03-13 — Senate amendment proposed (on the floor): Amendment SA 2845 proposed by Senator Vitter.(consideration: S1613-1614)
+- 2014-03-13 — Senate amendment proposed (on the floor): Amendment SA 2846 proposed by Senator Harkin for Senator Sanders.(consideration: CR S1616-1617; text: CR S1616)
+- 2014-03-13 — Senate amendment proposed (on the floor): Amendment SA 2847 proposed by Senator Harkin for Senator Portman.(consideration: CR S1616-1617; text: CR S1616)
+- 2014-03-13 — Senate amendment submitted
+- 2014-03-13 — Senate amendment submitted
+- 2014-03-13 — Senate amendment submitted
+- 2014-03-13 — Senate amendment submitted
+- 2014-03-13 — Senate amendment submitted
+- 2014-03-13 — Senate amendment submitted
+- 2014-03-13 — Senate amendment submitted
+- 2014-03-13 — The committee substitute as amended agreed to by Voice Vote. (consideration: CR S1617)
