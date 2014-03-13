@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 4248
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4248
+
+> To require institutions of higher education to disseminate information with respect to the completion rates, employment rates, and retention rates of recipients of GI Bill funding.
+
+## § 1. Short title
+
+This Act may be cited as the “Veterans Education Outcomes Act”.
+
+## § 2. Information dissemination with respect to recipients of GI Bill funding
+
+Section 485(a) of the Higher Education Act of 1965 (20 U.S.C. 1092) is amended—
+
+- **(1)** in paragraph (1)(Q)—
+  - **(A)** in clause (iii), by striking “and”; and
+  - **(B)** by adding “and” at the end of clause (iv); and
+  - **(C)** by adding at the end the following:
+    > - **(v)** are recipients of educational assistance provided under chapter 30 or 33 of title 38, United States Code, or chapter 1606 of title 10, United States Code;
+
+- **(2)** by adding at the end the following:
+  > - **(8)** The information disseminated under subparagraphs (E), (L), (R), (S), and (U) of paragraph (1) shall be disaggregated by the recipients of educational assistance provided under chapter 30 or 33 of title 38, United States Code, or chapter 1606 of title 10, United States Code, if the number of students in such subgroup is sufficient to yield statistically reliable information and reporting will not reveal personally identifiable information about an individual student. If such number is not sufficient for such purposes, then the institution shall note that the institution enrolled too few of such students to so disclose or report with confidence and confidentiality.
