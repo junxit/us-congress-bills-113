@@ -991,3 +991,23 @@ Section 1848 of the Social Security Act (42 U.S.C. 1395w–4), as amended by sub
     - **(C)** *Medical malpractice or medical product liability action or claim* The term medical malpractice or medical product liability action or claim means a medical malpractice action or claim (as defined in section 431(7) of the Health Care Quality Improvement Act of 1986 (42 U.S.C. 11151(7))) and includes a liability action or claim relating to a health care provider’s prescription or provision of a drug, device, or biological product (as such terms are defined in section 201 of the Federal Food, Drug, and Cosmetic Act or section 351 of the Public Health Service Act).
     - **(D)** *State* The term State includes the District of Columbia, Puerto Rico, and any other commonwealth, possession, or territory of the United States.
   - **(3)** *Preservation of State law* No provision of the Patient Protection and Affordable Care Act (Public Law 111–148), title I or subtitle B of title II of the Health Care and Education Reconciliation Act of 2010 (Public Law 111–152), or title XVIII or XIX of the Social Security Act shall be construed to preempt any State or common law governing medical professional or medical product liability actions or claims.
+
+## § 10. Delay in implementation of penalty for failure to comply with individual health insurance mandate
+
+- **(a)** *In general* Section 5000A(c) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+  > - **(5)** *Delay in implementation of penalty* Notwithstanding any other provision of this subsection, the monthly penalty amount with respect to any taxpayer for any month beginning before January 1, 2019, shall be zero.
+
+- **(b)** *Delay of certain phase ins and indexing*
+  - **(1)** *Phase in of percentage of income limitation* Section 5000A(c)(2)(B) of such Code is amended—
+    - **(A)** by striking “2014” in clause (i) and inserting “2019”, and
+    - **(B)** by striking “2015” in clauses (ii) and (iii) and inserting “2020”.
+  - **(2)** *Phase in of applicable dollar amount* Section 5000A(c)(3)(B) of such Code is amended—
+    - **(A)** by striking “2014” and inserting “2019”, and
+    - **(B)** by striking “2015” (before amendment by subparagraph (A)) and inserting “2020”.
+  - **(3)** *Indexing of applicable dollar amount* Section 5000A(c)(3)(D) of such Code is amended—
+    - **(A)** by striking “2016” in the matter preceding clause (i) and inserting “2021”, and
+    - **(B)** by striking “2015” in clause (ii) and inserting “2020”.
+  - **(4)** *Indexing of exemption based on household income* Section 5000A(e)(1)(D) of such Code is amended—
+    - **(A)** by striking “2014” (before amendment by subparagraph (B)) and inserting “2019”, and
+    - **(B)** by striking “2013” and inserting “2018”.
+- **(c)** *Effective date* The amendments made by this section shall apply to months beginning after December 31, 2013.
