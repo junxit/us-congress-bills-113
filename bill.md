@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 4256
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4256
+
+> To amend the Endangered Species Act of 1973 to require, in counting the number of a species in a State for purposes of determining whether the species is an endangered or threatened species, inclusion of the number of the species on State and private lands as determined by the State, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Endangered Species Improvement Act of 2014”.
+
+## § 2. Inclusion of number of a species on State and private lands in determinations under Endangered Species Act of 1973
+
+- **(a)** *Requirement* Section 4(b)(1) of the Endangered Species Act of 1973 (16 U.S.C. 1353(b)(1)) is amended by adding at the end the following:
+  > - **(C)** In counting the number of a species in a State for purposes of determining under this section whether the species is an endangered species or threatened species, the Secretary shall count all of the species without regard to whether it is found on State, private, or tribal lands as determined by the State for purposes of recovery of the species and determination of listing status on the basis of the best scientific and commercial data available.
+
+- **(b)** *Application* The amendment made by subsection (a) shall apply beginning on the first day of the year of the enactment of this Act.
