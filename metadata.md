@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1872
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1872
@@ -37,3 +37,10 @@ Budget and Accounting Transparency Act of 2014
 - 2013-05-08 — Introduced in House
 - 2013-05-08 — Referred to the Committee on the Budget, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-05-08 — Referred to the Committee on the Budget, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-02-11 — Committee Consideration and Mark-up Session Held.
+- 2014-02-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 17 - 8.
+- 2014-03-18 — Committee on Oversight and Government discharged.
+- 2014-03-18 — Committee on Oversight and Government discharged.
+- 2014-03-18 — Placed on the Union Calendar, Calendar No. 284.
+- 2014-03-18 — Reported (Amended) by the Committee on Budget. H. Rept. 113-381, Part I.
+- 2014-03-18 — Reported (Amended) by the Committee on Budget. H. Rept. 113-381, Part I.

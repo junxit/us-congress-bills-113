@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1872
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,4 +11,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Budget and Accounting Transparency Act of 2013”.
+This Act may be cited as the “Budget and Accounting Transparency Act of 2014”.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1872
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -34,4 +34,4 @@ complete account of the bill's effect, which it is not.
 | — | amend | Title V of the Congressional Budget Act of 1974 is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | The table of contents set forth in section 1(b) of the Congressional Budget and Impoundment Control Act of 1974 is amended by striking the items relating to title V and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 251(b)(1) of the Balanced Budget and Emergency Deficit Control Act of 1985 is amended by adding at the end the following new sentence: “A change in discretionary spending solely as a result of the amendment to title V of the Cong… | the bill names no machine-readable US Code section |
-| — | insert | Section 1108 of title 31, United States Code, is amended by inserting at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `31 U.S.C. § 1108` | insert | Section 1108 of title 31, United States Code, is amended by inserting at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
