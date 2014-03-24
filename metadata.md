@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1813
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1813
@@ -37,8 +37,22 @@ To redesignate the facility of the United States Postal Service located at 162 N
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2014-03-24 — [House 113-2-137](votes/house-113-2-0137.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (393–0)
+
 ## Actions
 
 - 2013-04-26 — Introduced in House
 - 2013-04-26 — Introduced in House
 - 2013-04-26 — Referred to the House Committee on Oversight and Government Reform.
+- 2014-03-12 — Committee Consideration and Mark-up Session Held.
+- 2014-03-12 — Ordered to be Reported by Unanimous Consent.
+- 2014-03-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-03-24 — Considered as unfinished business. (consideration: CR H2590-2591)
+- 2014-03-24 — Considered under suspension of the rules. (consideration: CR H2573-2574)
+- 2014-03-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1813.
+- 2014-03-24 — Mr. Farenthold moved to suspend the rules and pass the bill, as amended.
+- 2014-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 137). (text: CR H2573)
+- 2014-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 137).(text: CR H2573)
+- 2014-03-24 — The title of the measure was amended. Agreed to without objection.
