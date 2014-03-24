@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3060
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3060
@@ -58,8 +58,21 @@ To designate the facility of the United States Postal Service located at 232 Sou
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2014-03-24 — [House 113-2-136](votes/house-113-2-0136.md) — On Motion to Suspend the Rules and Pass — **Passed** (398–0)
+
 ## Actions
 
 - 2013-08-02 — Introduced in House
 - 2013-08-02 — Introduced in House
 - 2013-08-02 — Referred to the House Committee on Oversight and Government Reform.
+- 2014-03-12 — Committee Consideration and Mark-up Session Held.
+- 2014-03-12 — Ordered to be Reported by Unanimous Consent.
+- 2014-03-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-03-24 — Considered as unfinished business. (consideration: CR H2589-2590)
+- 2014-03-24 — Considered under suspension of the rules. (consideration: CR H2570-2571)
+- 2014-03-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3060.
+- 2014-03-24 — Mr. Farenthold moved to suspend the rules and pass the bill.
+- 2014-03-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 136). (text: CR H2570)
+- 2014-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 136).(text: CR H2570)
