@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3979
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3979
@@ -150,3 +150,6 @@ Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fi
 - 2014-03-11 — Mr. Brady (TX) moved to suspend the rules and pass the bill, as amended. (consideration: CR H2278)
 - 2014-03-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 116). (text: CR H2278)
 - 2014-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 116).(text: CR H2278)
+- 2014-03-12 — Received in the Senate.
+- 2014-03-13 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-03-24 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 333.
