@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4275
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -114,7 +114,7 @@ to guess them.
 | Removed | `single-employer plan` |
 | Inserted | `single-employer plan (other than a CSEC plan)` |
 
-### 29 U.S.C. § 1082
+### 29 U.S.C. § 1054
 
 > Paragraph (3) of section 204(i) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1054(i)) is amended by striking “multiemployer plans” and inserting “multiemployer plans or CSEC plans”.
 
@@ -123,7 +123,7 @@ to guess them.
 | Removed | `multiemployer plans` |
 | Inserted | `multiemployer plans or CSEC plans` |
 
-### 29 U.S.C. § 1082
+### 29 U.S.C. § 1023
 
 > Subparagraph (B) of section 103(d)(8) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1023(d)(8)) is amended by striking “303(h) and 304(c)(3)” and inserting “303(h), 304(c)(3), and 306(c)(3)”.
 
@@ -132,7 +132,7 @@ to guess them.
 | Removed | `303(h) and 304(c)(3)` |
 | Inserted | `303(h), 304(c)(3), and 306(c)(3)` |
 
-### 29 U.S.C. § 1082
+### 29 U.S.C. § 1303
 
 > Subparagraph (B) of section 4003(e)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1303(e)(1)) is amended by striking “303(k)(1)(A) and (B) of this Act or section 430(k)(1)(A) and (B) of the Internal Revenue Code of 1986” and inserting “303(k)(1)(A) and (B) or 306(g)(1)(A) and (B) of this Act or section 430(k)(1)(A) and (B) or 433(g)(1)(A) and (B) of the Internal Revenue Code of 1986”.
 
@@ -141,7 +141,7 @@ to guess them.
 | Removed | `303(k)(1)(A) and (B) of this Act or section 430(k)(1)(A) and (B) of the Internal Revenue Code of 1986` |
 | Inserted | `303(k)(1)(A) and (B) or 306(g)(1)(A) and (B) of this Act or section 430(k)(1)(A) and (B) or 433(g)(1)(A) and (B) of the Internal Revenue Code of 1986` |
 
-### 29 U.S.C. § 1082
+### 29 U.S.C. § 1310
 
 > Paragraph (2) of section 4010(b) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1310(b)) is amended by striking “303(k)(1)(A) and (B) of this Act or section 430(k)(1)(A) and (B) of the Internal Revenue Code of 1986” and inserting “303(k)(1)(A) and (B) or 306(g)(1)(A) and (B) of this Act or section 430(k)(1)(A) and (B) or 433(g)(1)(A) and (B) of the Internal Revenue Code of 1986”.
 
@@ -168,7 +168,7 @@ to guess them.
 | Removed | `For purposes of` |
 | Inserted | `(1) In general.—For purposes of` |
 
-### 29 U.S.C. § 1023
+### 29 U.S.C. § 1021
 
 > Paragraph (2) of section 101(d) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1021(d)) is amended by striking “303” and inserting “303 or 306”.
 
@@ -177,7 +177,7 @@ to guess them.
 | Removed | `303` |
 | Inserted | `303 or 306` |
 
-### 29 U.S.C. § 1023
+### 21 U.S.C. § 1021
 
 > Paragraph (3) of section 101(d) of the Employee Retirement Income Security Act of 1974 (21 U.S.C. 1021(d)) is amended by striking “303(j)” and inserting “303(j) or 306(f), whichever is applicable”.
 
@@ -437,12 +437,12 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 1082` | insert | by inserting the following new clause after clause (ii) of subsection (c)(1)(B): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1082` | strike | by striking “and” at the end of subclause (I) of subsection (c)(4)(C)(i) and adding “or the accumulated funding deficiency under section 306, whichever is applicable,”, | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 1082` | amend | by adding immediately after subclause (II) of subsection (c)(4)(C)(i) the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1082` | add-at-end | Subsection (g) of section 206 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1056) is amended by adding at the end thereof the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1056` | add-at-end | Subsection (g) of section 206 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1056) is amended by adding at the end thereof the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1082` | redesignate | by redesignating the last paragraph as paragraph (11), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1082` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 430` | add-at-end | Subsection (f) of section 210 of the Employee Retirement Income Security Act of 1974, as added by section 101, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 430` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1023` | add-at-end | Paragraph (2) of section 101(f) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1021(f)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1021` | add-at-end | Paragraph (2) of section 101(f) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1021(f)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1023` | add-at-end | Section 103 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1023) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 414` | add-at-end | Section 414 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 413` | add-at-end | Subpart A of part III of subchapter D of chapter 1 of subtitle A of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -456,4 +456,4 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 412` | replace | by striking “or” at the end of paragraph (1), by adding “or” at the end of paragraph (2), and by inserting immediately after paragraph (2) the following new paragraph: | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 412` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 412` | redesignate | Section 4971 of such Code is amended by redesignating subsection (h) as subsection (i), and by inserting after subsection (g) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 414` | amend | Section 414(y) of the Internal Revenue Code of 1986, as added by section 201, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 414` | add-at-end | Section 414(y) of the Internal Revenue Code of 1986, as added by section 201, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

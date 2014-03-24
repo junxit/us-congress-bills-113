@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4275
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4275
@@ -31,3 +31,8 @@ Cooperative and Small Employer Charity Pension Flexibility Act
 - 2014-03-18 — Introduced in House
 - 2014-03-18 — Referred to the Committee on Education and the Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2014-03-18 — Referred to the Committee on Education and the Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-03-24 — Considered under suspension of the rules. (consideration: CR H2577-2589)
+- 2014-03-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4275.
+- 2014-03-24 — Mrs. Brooks (IN) moved to suspend the rules and pass the bill.
+- 2014-03-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2577-2588)
+- 2014-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2577-2588)
