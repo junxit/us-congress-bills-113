@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3474
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3474
@@ -76,3 +76,6 @@ Hire More Heroes Act of 2014
 - 2014-03-11 — Mr. Brady (TX) moved to suspend the rules and pass the bill. (consideration: CR H2276)
 - 2014-03-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 1 (Roll no. 115). (text: CR H2276)
 - 2014-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 1 (Roll no. 115).(text: CR H2276)
+- 2014-03-12 — Received in the Senate.
+- 2014-03-13 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-03-24 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 332.
