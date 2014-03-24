@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4015
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -255,7 +255,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395w-4` | add-at-end | Section 1848 of the Social Security Act (42 U.S.C. 1395w–4), as amended by subsection (c), is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-4` | insert | Section 1848 of the Social Security Act (42 U.S.C. 1395w–4), as amended by subsections (c) and (g) of section 2, is further amended by inserting at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-4` | add-at-end | Section 1848(b) of the Social Security Act (42 U.S.C. 1395w–4(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-4` | add-at-end | Section 1848(c)(2) of the Social Security Act (42 U.S.C. 1395w–4(c)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-4` | amend | Section 1848(c)(2) of the Social Security Act (42 U.S.C. 1395w–4(c)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-4` | strike | in subparagraph (D), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395w-4` | replace | in subparagraph (E), by striking the period at the end and inserting “, and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395w-4` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -267,7 +267,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395w-4` | insert | in the first sentence of clause (ii), by inserting “or group of services” before the period. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395w-4` | add-at-end | Section 1848(e) of the Social Security Act (42 U.S.C. 1395w–4(e)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395m` | add-at-end | Section 1834 of the Social Security Act (42 U.S.C. 1395m) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395l` | add-at-end | Section 1833(t)(16) of the Social Security Act (42 U.S.C. 1395l(t)(16)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395l` | amend | Section 1833(t)(16) of the Social Security Act (42 U.S.C. 1395l(t)(16)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395kk` | strike | in the subsection heading, by striking “Medicare”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395kk` | insert | by inserting after the first sentence the following new sentence: “Beginning July 1, 2015, if the Secretary determines appropriate, the data described in this paragraph may also include standardized extracts (as determined by the Secreta… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395kk` | insert | in the last sentence, by inserting “or under titles XIX or XXI” before the period at the end. | the bill quotes the text inserted but describes where it goes |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4015
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4015
@@ -172,3 +172,5 @@ SGR Repeal and Medicare Provider Payment Modernization Act of 2014
 - 2014-03-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2469)
 - 2014-03-14 — The previous question was ordered pursuant to the rule. (consideration: CR H2468)
 - 2014-03-14 — The resolution provides for one hour of debate on H.R. 3189. The rule makes in order as original text for the purpose of amendment an amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in the bill and provides that it shall be considered as read. The rule provides for a closed rule for H.R. 4015 with one hour of debate on the bill.
+- 2014-03-20 — Referred to the Subcommittee on the Constitution and Civil Justice.
+- 2014-03-24 — Received in the Senate.
