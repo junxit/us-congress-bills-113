@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3189
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3189
@@ -34,10 +34,11 @@ Water Rights Protection Act
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Gardner, Cory [R-CO-4] (G000562)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (3)
 
@@ -110,3 +111,4 @@ Water Rights Protection Act
 - 2014-03-13 — The resolution provides for one hour of debate on H.R. 3189. The rule makes in order as original text for the purpose of amendment an amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in the bill and provides that it shall be considered as read. The rule provides for a closed rule for H.R. 4015 with one hour of debate on the bill.
 - 2014-03-13 — The title of the measure was amended. Agreed to without objection.
 - 2014-03-13 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
+- 2014-03-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
