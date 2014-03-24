@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3973
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3973
@@ -56,9 +56,10 @@ Faithful Execution of the Law Act of 2014
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 - Rep. Jenkins, Lynn [R-KS-2] (J000290)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (3)
 
@@ -104,3 +105,4 @@ Faithful Execution of the Law Act of 2014
 - 2014-03-13 — Roll call votes on amendments in House
 - 2014-03-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2403)
 - 2014-03-13 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
+- 2014-03-24 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
