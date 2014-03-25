@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1451
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1451
@@ -45,9 +45,10 @@ To designate the facility of the United States Postal Service located at 14 Main
 - Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
 - Rep. Reed, Tom [R-NY-23] (R000585)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ To designate the facility of the United States Postal Service located at 14 Main
 - 2014-03-24 — Mr. Farenthold moved to suspend the rules and pass the bill.
 - 2014-03-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2571)
 - 2014-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2571)
+- 2014-03-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
