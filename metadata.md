@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1036
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1036
@@ -28,9 +28,10 @@ To designate the facility of the United States Postal Service located at 103 Cen
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 - Rep. Smith, Adam [D-WA-9] (S000510)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To designate the facility of the United States Postal Service located at 103 Cen
 - 2014-03-24 — Mr. Farenthold moved to suspend the rules and pass the bill.
 - 2014-03-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2574)
 - 2014-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2574)
+- 2014-03-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
