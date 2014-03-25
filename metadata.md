@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3060
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3060
@@ -54,9 +54,10 @@ To designate the facility of the United States Postal Service located at 232 Sou
 - Rep. Veasey, Marc A. [D-TX-33] (V000131)
 - Rep. Vela, Filemon [D-TX-34] (V000132)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -76,3 +77,4 @@ To designate the facility of the United States Postal Service located at 232 Sou
 - 2014-03-24 — Mr. Farenthold moved to suspend the rules and pass the bill.
 - 2014-03-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 136). (text: CR H2570)
 - 2014-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 136).(text: CR H2570)
+- 2014-03-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
