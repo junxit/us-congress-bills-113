@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3771
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3771
