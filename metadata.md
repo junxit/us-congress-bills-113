@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4275
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4275
@@ -40,3 +40,9 @@ Cooperative and Small Employer Charity Pension Flexibility Act
 - 2014-03-25 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed, pursuant to the order of January 28, 2014, without amendment by Unanimous Consent.(consideration: CR S1710)
 - 2014-03-25 — Received in the Senate, read twice, considered, read the third time, and passed, pursuant to the order of January 28, 2014, without amendment by Unanimous Consent. (consideration: CR S1710)
 - 2014-03-25 — See also S. 1302.
+- 2014-03-27 — Presented to President.
+- 2014-03-27 — Presented to President.
+- 2014-04-07 — Became Public Law No: 113-97.
+- 2014-04-07 — Became Public Law No: 113-97.
+- 2014-04-07 — Signed by President.
+- 2014-04-07 — Signed by President.
