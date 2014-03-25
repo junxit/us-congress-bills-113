@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1813
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1813
@@ -33,9 +33,10 @@ To redesignate the facility of the United States Postal Service located at 162 N
 - Rep. Renacci, James B. [R-OH-16] (R000586)
 - Rep. Turner, Michael R. [R-OH-10] (T000463)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ To redesignate the facility of the United States Postal Service located at 162 N
 - 2014-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 137). (text: CR H2573)
 - 2014-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 137).(text: CR H2573)
 - 2014-03-24 — The title of the measure was amended. Agreed to without objection.
+- 2014-03-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
