@@ -11,5 +11,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Coast Guard and Maritime Transportation Act of 2014”.
+- **(a)** *Short title* This Act may be cited as the “Howard Coble Coast Guard and Maritime Transportation Act of 2014”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
