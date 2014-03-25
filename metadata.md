@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1376
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1376
@@ -30,9 +30,10 @@ To designate the facility of the United States Postal Service located at 369 Mar
 - Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To designate the facility of the United States Postal Service located at 369 Mar
 - 2014-03-24 — Mr. Farenthold moved to suspend the rules and pass the bill.
 - 2014-03-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2572)
 - 2014-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2572)
+- 2014-03-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
