@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3771
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3771
@@ -70,3 +70,13 @@ Philippines Charitable Giving Assistance Act
 - 2014-03-24 — Mr. Kelly (PA) moved to suspend the rules and pass the bill, as amended.
 - 2014-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2575)
 - 2014-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2575)
+- 2014-03-25 — Became Public Law No: 113-92.
+- 2014-03-25 — Became Public Law No: 113-92.
+- 2014-03-25 — Message on Senate action sent to the House.
+- 2014-03-25 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed, pursuant to the order of March 6, 2014, without amendment by Unanimous Consent.(consideration: CR S1706)
+- 2014-03-25 — Presented to President.
+- 2014-03-25 — Presented to President.
+- 2014-03-25 — Received in the Senate, read twice, considered, read the third time, and passed, pursuant to the order of March 6, 2014, without amendment by Unanimous Consent. (consideration: CR S1706)
+- 2014-03-25 — See also S. 1821.
+- 2014-03-25 — Signed by President.
+- 2014-03-25 — Signed by President.
