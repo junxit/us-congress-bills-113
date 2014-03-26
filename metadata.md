@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 92
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 92
@@ -29,3 +29,10 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2014-03-11 — Introduced in House
 - 2014-03-11 — Introduced in House
 - 2014-03-11 — Referred to the House Committee on Transportation and Infrastructure.
+- 2014-03-12 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2014-03-13 — Committee Consideration and Mark-up Session Held.
+- 2014-03-13 — Ordered to be Reported by Voice Vote.
+- 2014-03-13 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2014-03-26 — Placed on the House Calendar, Calendar No. 94.
+- 2014-03-26 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-388.
+- 2014-03-26 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-388.
