@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2575
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2575
@@ -16,7 +16,7 @@ Save American Workers Act of 2014
 
 - Rep. Young, Todd [R-IN-9] (Y000064)
 
-## Cosponsors (111)
+## Cosponsors (210)
 
 - Rep. Olson, Pete [R-TX-22] (O000168)
 - Rep. Kelly, Mike [R-PA-3] (K000376)
@@ -129,6 +129,105 @@ Save American Workers Act of 2014
 - Rep. Pitts, Joseph R. [R-PA-16] (P000373)
 - Rep. Perry, Scott [R-PA-4] (P000605)
 - Rep. Rothfus, Keith J. [R-PA-12] (R000598)
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Stockman, Steve [R-TX-36] (S000937)
+- Rep. Whitfield, Ed [R-KY-1] (W000413)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
+- Rep. Lankford, James [R-OK-5] (L000575)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Coffman, Mike [R-CO-6] (C001077)
+- Rep. Cassidy, Bill [R-LA-6] (C001075)
+- Rep. Bentivolio, Kerry L. [R-MI-11] (B001280)
+- Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
+- Rep. Dent, Charles W. [R-PA-15] (D000604)
+- Rep. Smith, Jason [R-MO-8] (S001195)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Young, C. W. Bill [R-FL-13] (Y000031)
+- Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Rep. Mica, John L. [R-FL-7] (M000689)
+- Rep. Marino, Tom [R-PA-10] (M001179)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Massie, Thomas [R-KY-4] (M001184)
+- Rep. Denham, Jeff [R-CA-10] (D000612)
+- Rep. Turner, Michael R. [R-OH-10] (T000463)
+- Rep. Gibbs, Bob [R-OH-7] (G000563)
+- Rep. Lance, Leonard [R-NJ-7] (L000567)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Runyan, Jon [R-NJ-3] (R000594)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Harper, Gregg [R-MS-3] (H001045)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
+- Rep. Ellmers, Renee L. [R-NC-2] (E000291)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Bachmann, Michele [R-MN-6] (B001256)
+- Rep. Hultgren, Randy [R-IL-14] (H001059)
+- Rep. Cotton, Tom [R-AR-4] (C001095)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Mulvaney, Mick [R-SC-5] (M001182)
+- Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. Rohrabacher, Dana [R-CA-48] (R000409)
+- Rep. Heck, Joseph J. [R-NV-3] (H001055)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Crenshaw, Ander [R-FL-4] (C001045)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
+- Rep. Lummis, Cynthia M. [R-WY-At Large] (L000571)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. Rice, Tom [R-SC-7] (R000597)
+- Rep. Hurt, Robert [R-VA-5] (H001060)
+- Rep. Hastings, Doc [R-WA-4] (H000329)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Gibson, Christopher P. [R-NY-19] (G000564)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Cook, Paul [R-CA-8] (C001094)
+- Rep. DeSantis, Ron [R-FL-6] (D000621)
+- Rep. McAllister, Vance M. [R-LA-5] (M001192)
+- Rep. DesJarlais, Scott [R-TN-4] (D000616)
+- Rep. Miller, Gary G. [R-CA-31] (M001139)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
+- Rep. Daines, Steve [R-MT-At Large] (D000618)
+- Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
+- Rep. Shimkus, John [R-IL-15] (S000364)
+- Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. King, Steve [R-IA-4] (K000362)
+- Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
+- Rep. Ross, Dennis A. [R-FL-15] (R000593)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Bridenstine, Jim [R-OK-1] (B001283)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Matheson, Jim [D-UT-4] (M001142)
+- Rep. Schweikert, David [R-AZ-6] (S001183)
+- Rep. Byrne, Bradley [R-AL-1] (B001289)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+- Rep. McIntyre, Mike [D-NC-7] (M000485)
+- Rep. Barrow, John [D-GA-12] (B001252)
+- Rep. Amash, Justin [R-MI-3] (A000367)
+- Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
+- Rep. Latham, Tom [R-IA-3] (L000111)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
 
 ## Committees (1)
 
@@ -139,3 +238,9 @@ Save American Workers Act of 2014
 - 2013-06-28 — Introduced in House
 - 2013-06-28 — Introduced in House
 - 2013-06-28 — Referred to the House Committee on Ways and Means.
+- 2013-07-23 — Referred to the Subcommittee on Health.
+- 2014-02-04 — Committee Consideration and Mark-up Session Held.
+- 2014-02-04 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 23 - 14.
+- 2014-03-26 — Placed on the Union Calendar, Calendar No. 287.
+- 2014-03-26 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-386.
+- 2014-03-26 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-386.
