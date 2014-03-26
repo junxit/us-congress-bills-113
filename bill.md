@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1459
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -25,6 +25,14 @@ Section 2 of the Act of June 8, 1906 (16 U.S.C. 431; commonly known as the “An
 - **(4)** by adding at the end the following:
   > - **(b)** A declaration under this section shall—
   >   - **(1)** not include private property without the informed written consent of the owner of the private property affected by the declaration;
-  >   - **(2)** be considered a major Federal action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), if it affects more than 5,000 acres;
-  >   - **(3)** be categorically excluded under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and expire three years after the date of the declaration (unless specifically designated as a monument by Federal law), if it affects 5,000 acres or less; and
-  >   - **(4)** be followed by a feasibility study that includes an estimate of the costs associated with managing the monument in perpetuity, including any loss of Federal and State revenue, which shall be submitted to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate and made available on the website of the Department of the Interior not later than one year after the date of the declaration.
+  >   - **(2)** be considered a major Federal action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), except if it affects 5,000 acres or less, in which case—
+  >     - **(A)** the declaration shall be categorically excluded from the National Environmental Policy Act of 1969;
+  >     - **(B)** the declaration shall expire three years after the date of the declaration; and
+  >     - **(C)** the declaration may become permanent if—
+  >       - **(i)** specifically designated as a monument by Federal statute; or
+  >       - **(ii)** the President follows the review process under the National Environmental Policy Act of 1969; and
+  >   - **(3)** be followed by a feasibility study that includes an estimate of the costs associated with managing the monument in perpetuity, including any loss of Federal and State revenue, and the benefits associated with managing the monument in perpetuity, including jobs created and tourism dollars associated with managing the monument, which shall be submitted to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate and made available on the website of the Department of the Interior not later than one year after the date of the declaration.
+
+## § 3. Use of existing funds
+
+This Act shall not be construed to increase the amount of funds that are authorized to be appropriated for any fiscal year.
