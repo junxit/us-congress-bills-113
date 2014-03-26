@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 387
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 387
@@ -29,3 +29,7 @@ A resolution celebrating the 2014 Arctic Winter Games, in Fairbanks, Alaska.
 - 2014-03-13 — Introduced in Senate
 - 2014-03-13 — Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S1663)
 - 2014-03-13 — Sponsor introductory remarks on measure. (CR S1663)
+- 2014-03-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2014-03-26 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2014-03-26 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S1779)
+- 2014-03-26 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S1779)
