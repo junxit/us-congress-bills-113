@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 4315
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4315
+
+> To amend the Endangered Species Act of 1973 to require publication on the Internet of the basis for determinations that species are endangered species or threatened species, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “21st Century Endangered Species Transparency Act”.
+
+## § 2. Requirement to publish on the Internet the basis for listings
+
+Section 4(b) of the Endangered Species Act (16 U.S.C. 1533(b)) is amended by adding at the end the following:
+
+> - **(9)** The Secretary shall make publicly available on the Internet the best scientific and commercial data available that are the basis for each regulation, including each proposed regulation, promulgated under subsection (a)(1).
