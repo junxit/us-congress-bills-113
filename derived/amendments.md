@@ -1,7 +1,7 @@
 ---
 measure: S. 994
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-52 amendatory instructions. 15 executed, 37 stated and not applied.
+62 amendatory instructions. 16 executed, 46 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -159,6 +159,15 @@ to guess them.
 | Removed | `collecting the debt` |
 | Inserted | `the purposes` |
 
+### 5 U.S.C. § 105
+
+> in the matter preceding paragraph (1), by striking “this section” and inserting “this Act”;
+
+| | |
+|---|---|
+| Removed | `this section` |
+| Inserted | `this Act` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -205,3 +214,12 @@ complete account of the bill's effect, which it is not.
 | `31 U.S.C. § 3512` | insert | in paragraph (1), by inserting “and make available on the website described under section 1122” after “appropriate committees of Congress”; | the bill quotes the text inserted but describes where it goes |
 | `31 U.S.C. § 3512` | insert | in paragraph (3)(B)(vi), by inserting “, system development, financial management workforce development, related risk assessment and mitigation for the Federal Government as a whole, related risk assessment and mitigation for executive a… | the bill quotes the text inserted but describes where it goes |
 | `31 U.S.C. § 6101` | add-at-end | in paragraph (4), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 105` | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (3) and (7), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 105` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 1105` | redesignate | by inserting after paragraph (3), as redesignated by subparagraph (A), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 105` | strike | in paragraph (4), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `5 U.S.C. § 105` | replace | in paragraph (5), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 105` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1002` | replace | by striking sections 3 and 4 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 3512` | insert | in paragraph (1), by inserting “and make available on the website described under section 1122” after “appropriate committees of Congress”; and | the bill quotes the text inserted but describes where it goes |
+| `31 U.S.C. § 3512` | add-at-end | in paragraph (4), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
