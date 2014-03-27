@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 395
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 395
@@ -29,3 +29,7 @@ A resolution designating the month of April 2014 as "Military and Veterans Careg
 
 - 2014-03-25 — Introduced in Senate
 - 2014-03-25 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S1732-1733)
+- 2014-03-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2014-03-27 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2014-03-27 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1835)
+- 2014-03-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S1835)
