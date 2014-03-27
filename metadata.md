@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4152
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4152
@@ -25,15 +25,17 @@ Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukr
 - Sen. Pryor, Mark L. [D-AR] (P000590)
 - Sen. Corker, Bob [R-TN] (C001071)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Appropriations Committee
+- Joint — Commission on Security and Cooperation in Europe (U.S. Helsinki Commission)
 
-## Recorded votes (2)
+## Recorded votes (3)
 
 - 2014-03-06 — [House 113-2-114](votes/house-113-2-0114.md) — On Motion to Suspend the Rules and Pass — **Passed** (385–23)
 - 2014-03-27 — [Senate 113-2-88](votes/senate-113-2-0088.md) — On the Amendment — **Amendment Agreed to** (98–2)
+- 2014-04-01 — [House 113-2-149](votes/house-113-2-0149.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (378–34)
 
 ## Actions
 
@@ -67,3 +69,17 @@ Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukr
 - 2014-03-27 — Senate amendment agreed to: Amendment SA 2867 agreed to in Senate by Yea-Nay Vote. 98 - 2. Record Vote Number: 88.
 - 2014-03-27 — Senate amendment submitted
 - 2014-03-27 — Senate amendment submitted
+- 2014-04-01 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2014-04-01 — Considered as unfinished business. (consideration: CR H2784-2785)
+- 2014-04-01 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and concur in the Senate amendment to H.R. 4152.
+- 2014-04-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-04-01 — Mr. Royce moved that the House suspend the rules and concur to the Senate amendment. (consideration: CR H2752-2756)
+- 2014-04-01 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays (2/3 required): 378 - 34 (Roll No. 149). (text as House agreed to Senate amendment: CR H2752-2755)
+- 2014-04-01 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays (2/3 required): 378 - 34 (Roll No. 149).(text as House agreed to Senate amendment: CR H2752-2755)
+- 2014-04-03 — Became Public Law No: 113-95.
+- 2014-04-03 — Became Public Law No: 113-95.
+- 2014-04-03 — Presented to President.
+- 2014-04-03 — Presented to President.
+- 2014-04-03 — Signed by President.
+- 2014-04-03 — Signed by President.
+- 2014-04-09 — Committee on Commission on Security and Cooperation in Europe. Hearings held.

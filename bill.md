@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 4152
-congress: 113th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4152
 
-That the bill from the House of Representatives (H.R. 4152) entitled “An Act to provide for the costs of loan guarantees for Ukraine.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To provide for the costs of loan guarantees for Ukraine.
 
 ## § 1. Short title
 
