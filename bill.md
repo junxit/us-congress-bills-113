@@ -12,10 +12,10 @@ chamber: IN THE SENATE OF THE UNITED STATES
 ## § 1. FINDINGS AND DECLARATIONS
 
 - **(a)** Congress finds and declares the following:
-  - **(1)** The Russian Government has deliberately blocked the Ukrainian people's access to uncensored sources of information and has provided alternative news and information that is both inaccurate and inflammatory.
-  - **(2)** United States international programming exists to advance the United States interests and values by presenting accurate and comprehensive news and information, which is the foundation for democratic governance.
-  - **(3)** The opinions and views of the Ukrainian people, especially those people located in the eastern regions and Crimea, are not being accurately represented in Russian dominated mass media.
-  - **(4)** Russian forces have seized more than five television stations in Crimea and taken over transmissions, switching to a 24/7 Russian propaganda format; this increase in programming augments the already robust pro-Russian programming to Ukraine.
+  - **(1)** The Russian Government has deliberately blocked the Ukrainian people's access to uncensored sources of information and has provided alternative news and information that is both inaccurate and inflammatory;
+  - **(2)** United States international programming exists to advance the United States interests and values by presenting accurate and comprehensive news and information, which is the foundation for democratic governance;
+  - **(3)** The opinions and views of the Ukrainian people, especially those people located in the eastern regions and Crimea, are not being accurately represented in Russian dominated mass media;
+  - **(4)** Russian forces have seized more than five television stations in Crimea and taken over transmissions, switching to a 24/7 Russian propaganda format; this increase in programming augments the already robust pro-Russian programming to Ukraine;
   - **(5)** United States international programming has the potential to combat this anti-democratic propaganda.
 - **(b)** *Programming* Radio Free Europe/Radio Liberty (RFE/RL), Incorporated, and the Voice of America service to Ukraine and neighboring regions shall—
   - **(1)** provide news and information that is accessible, credible, and accurate;
