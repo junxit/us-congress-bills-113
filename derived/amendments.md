@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4278
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 22 U.S.C. § 8412
 
-> Section 102(a) of the Enhanced Partnership with Pakistan Act of 2009 (22 U.S.C. 8412(a); Public Law 111–73; 123 Stat. 2068) is amended by striking “$1,500,000,000” and inserting “$1,490,000,000”.
+> Section 102(a) of the Enhanced Partnership with Pakistan Act of 2009 (22 U.S.C. 8412(a); Public Law 111–73; 123 Stat. 2068) is amended by striking “$1,500,000,000” and inserting “$1,430,000,000”.
 
 | | |
 |---|---|
 | Removed | `$1,500,000,000` |
-| Inserted | `$1,490,000,000` |
+| Inserted | `$1,430,000,000` |
 
 ## Stated, not applied
 
