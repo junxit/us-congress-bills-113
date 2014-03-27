@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4302
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -330,7 +330,7 @@ to guess them.
 | Removed | `2014` |
 | Inserted | `2015` |
 
-### 42 U.S.C. § 300gg-6
+### 42 U.S.C. § 18022
 
 > in paragraph (4)(A), by striking “paragraphs (1)(B)(i) and (2)(B)(i)” and inserting “paragraph (1)(B)(i)”.
 
@@ -614,11 +614,11 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 1139B(e) of the Social Security Act (42 U.S.C. 1320b–9b(e)) is amended by adding at the end the following: “Of the funds appropriated under this subsection, not less than $15,000,000 shall be used to carry out section 1139A(b).”. | the bill names no machine-readable US Code section |
 | — | strike | Section 1139B(b)(5)(A) of the Social Security Act (42 U.S.C. 1320b–9b(b)(5)(A)) is amended by striking “The aggregate amount awarded by the Secretary for grants and contracts for the development, testing, and validation of emerging and i… | the bill names no machine-readable US Code section |
 | — | replace | Effective as if included in the enactment of the Bipartisan Budget Act of 2013 (Public Law 113–67), section 202(c) of such Act is amended by striking “October 1, 2014” and inserting “October 1, 2016”. | the bill names no machine-readable US Code section |
-| `42 U.S.C. § 300gg-6` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 18022` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395yy` | add-at-end | Section 1888 of the Social Security Act (42 U.S.C. 1395yy) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395yy` | add-at-end | Section 1888 of the Social Security Act (42 U.S.C. 1395yy), as amended by subsection (a), is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395m` | insert | Title XVIII of the Social Security Act is amended by inserting after section 1834 (42 U.S.C. 1395m) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395ff` | amend | Section 1869(f)(2) of the Social Security Act (42 U.S.C. 1395ff(f)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395ff` | add-at-end | Section 1869(f)(2) of the Social Security Act (42 U.S.C. 1395ff(f)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395rr` | add-at-end | by adding at the end the following new sentence: “Notwithstanding section 1881(b)(14)(A)(ii) of the Social Security Act (42 U.S.C. 1395rr(b)(14)(A)(ii)), implementation of the policy described in the previous sentence shall be based on d… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395rr` | insert | Section 1881(b)(14)(I) of the Social Security Act (42 U.S.C. 1395rr(b)(14)(I)) is amended by inserting “and before January 1, 2015,” after “January 1, 2014,”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395rr` | add-at-end | by adding at the end the following new sentence: “In order to accomplish the purposes of subparagraph (I) with respect to 2016, 2017, and 2018, after determining the increase factor described in the preceding sentence for each of 2016, 2… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -631,8 +631,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395w-4` | add-at-end | Section 1833(t) of the Social Security Act (42 1395l(t)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-4` | add-at-end | Section 1848(c)(2)(B)(v) of the Social Security Act (42 U.S.C. 1395w–4(c)(2)(B)(v)) is amended by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395m` | add-at-end | Section 1834 of the Social Security Act (42 U.S.C. 1395m), as amended by subsection (a), is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395l` | amend | Section 1833(t)(16) of the Social Security Act (42 U.S.C. 1395l(t)(16)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-4` | amend | Section 1848(c)(2) of the Social Security Act (42 U.S.C. 1395w–4(c)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395l` | add-at-end | Section 1833(t)(16) of the Social Security Act (42 U.S.C. 1395l(t)(16)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-4` | add-at-end | Section 1848(c)(2) of the Social Security Act (42 U.S.C. 1395w–4(c)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-4` | strike | in subparagraph (D), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395w-4` | replace | in subparagraph (E), by striking the period at the end and inserting “, and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395w-4` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
