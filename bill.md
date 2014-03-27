@@ -1,0 +1,21 @@
+---
+legis-num: S. 2168
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2168
+
+> To amend the Internal Revenue Code of 1986 to modify the definition of large employer for purposes of applying the employer mandate.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Business Stability Act”.
+
+## § 2. Modification of large employer definition for purposes of the employer mandate
+
+- **(a)** *In general* Paragraph (2) of section 4980H(c) of the Internal Revenue Code of 1986 is amended—
+  - **(1)** by striking “50 full-time employees” each place it appears in subparagraphs (A) and (B)(i) and inserting “100 full-time employees”, and
+  - **(2)** by striking “in excess of 50” in subparagraph (B)(i)(II) and inserting “in excess of 100”.
+- **(b)** *Effective date* The amendments made by this section shall apply to months beginning after December 31, 2013.
