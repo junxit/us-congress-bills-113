@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1228
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1228
@@ -26,9 +26,10 @@ To designate the facility of the United States Postal Service located at 123 Sou
 - Rep. Pocan, Mark [D-WI-2] (P000607)
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ To designate the facility of the United States Postal Service located at 123 Sou
 - 2014-03-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 144). (text: CR 3/24/2014 H2569)
 - 2014-03-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 144).(text: CR 3/24/2014 H2569)
 - 2014-03-26 — The title of the measure was amended. Agreed to without objection.
+- 2014-03-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
