@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1459
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1459
@@ -26,9 +26,10 @@ Ensuring Public Involvement in the Creation of National Monuments Act
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
 - Rep. Stewart, Chris [R-UT-2] (S001192)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (3)
 
@@ -93,3 +94,4 @@ Ensuring Public Involvement in the Creation of National Monuments Act
 - 2014-03-26 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2681)
 - 2014-03-26 — The previous question was ordered pursuant to the rule. (consideration: CR H2680)
 - 2014-03-26 — UNFINISHED BUSINESS - The Chair announced that the unfinished business ons the adoption of the amendment that had been debated earlier and on which further proceedings had been postponed.
+- 2014-03-27 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
