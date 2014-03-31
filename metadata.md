@@ -1,7 +1,7 @@
 ---
 measure: S. 1044
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1044
@@ -16,6 +16,11 @@ World War II Memorial Prayer Act of 2013
 
 - Sen. Portman, Rob [R-OH] (P000449)
 
+## Cosponsors (2)
+
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Blunt, Roy [R-MO] (B000575)
+
 ## Committees (1)
 
 - Senate — Energy and Natural Resources Committee
@@ -24,3 +29,8 @@ World War II Memorial Prayer Act of 2013
 
 - 2013-05-23 — Introduced in Senate
 - 2013-05-23 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-07-31 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 113-93.
+- 2013-11-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2014-03-31 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-141.
+- 2014-03-31 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-141.
+- 2014-03-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 339.
