@@ -1,7 +1,7 @@
 ---
 legis-num: S. 404
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -21,3 +21,22 @@ This Act may be cited as the “Green Mountain Lookout Heritage Protection Act�
 ## § 3. Preservation of Green Mountain Lookout location
 
 The Secretary of Agriculture, acting through the Chief of the Forest Service, may not move Green Mountain Lookout from its current location on Green Mountain in the Mount Baker-Snoqualmie National Forest unless the Secretary determines that moving Green Mountain Lookout is necessary to preserve the Lookout or to ensure the safety of individuals on or around Green Mountain. If the Secretary makes such a determination, the Secretary shall move the Green Mountain Lookout to a location outside of the lands described in section 3(5) of the Washington State Wilderness Act of 1984 and designated as a wilderness area in section 4(b) of such Act.
+
+## § 4. Alaska native veteran allotment
+
+- **(a)** *Definitions* In this section:
+  - **(1)** *Application* The term “application” means the Alaska Native Veteran Allotment application numbered AA-084021-B.
+  - **(2)** *Federal land* The term “Federal land” means the 80 acres of Federal land that is—
+    - **(A)** described in the application; and
+    - **(B)** depicted as Lot 2 in U.S. Survey No. 13957, Alaska, that was officially filed on October 9, 2009.
+  - **(3)** *Secretary* The term “Secretary” means the Secretary of the Interior.
+- **(b)** *Issuance of patent* Notwithstanding section 41 of the Alaska Native Claims Settlement Act (43 U.S.C. 1629g) and subject to subsection (c), the Secretary shall—
+  - **(1)** approve the application; and
+  - **(2)** issue a patent for the Federal land to the person that submitted the application.
+- **(c)** *Terms and Conditions*
+  - **(1)** *In general* The patent issued under subsection (b) shall—
+    - **(A)** only be for the surface rights to the Federal land; and
+    - **(B)** be subject to the terms and conditions of any certificate issued under section 41 of the Alaska Native Claims Settlement Act (43 U.S.C. 1629g), including terms and conditions providing that—
+      - **(i)** the patent is subject to valid existing rights, including any right of the United States to income derived, directly or indirectly, from a lease, license, permit, right-of-way, or easement on the Federal land; and
+      - **(ii)** the United States shall reserve an interest in deposits of oil, gas, and coal on the Federal land, including the right to explore, mine, and remove the minerals on portions of the Federal land that the Secretary determines to be prospectively valuable for development.
+  - **(2)** *Additional terms and conditions* The Secretary may require any additional terms and conditions for the issuance of the patent under subsection (a) that the Secretary determines to be appropriate to protect the interests of the United States.

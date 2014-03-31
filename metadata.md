@@ -1,7 +1,7 @@
 ---
 measure: S. 404
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 404
@@ -28,3 +28,8 @@ Green Mountain Lookout Heritage Protection Act
 
 - 2013-02-28 — Introduced in Senate
 - 2013-02-28 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-07-30 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 113-85.
+- 2013-12-19 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2014-03-31 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment. With written report No. 113-140.
+- 2014-03-31 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment. With written report No. 113-140.
+- 2014-03-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 338.
