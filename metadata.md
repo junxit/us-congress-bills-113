@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 92
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 92
@@ -36,3 +36,8 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2014-03-26 — Placed on the House Calendar, Calendar No. 94.
 - 2014-03-26 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-388.
 - 2014-03-26 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-388.
+- 2014-04-01 — Considered under suspension of the rules. (consideration: CR H2779-2781)
+- 2014-04-01 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 92.
+- 2014-04-01 — Mr. Barletta moved to suspend the rules and agree to the resolution.
+- 2014-04-01 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2779-2780)
+- 2014-04-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2779-2780)
