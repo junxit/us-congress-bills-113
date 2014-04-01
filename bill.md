@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. RES. 371
 
-> Honoring the legacy of Jan Karski by designating April 24, 2014, as “Jan Karski Day”.
+> Honoring the legacy and accomplishments of Jan Karski on the centennial of his birth.
 
 ## Preamble
 
@@ -22,6 +22,5 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 That the Senate—
 
-- **(1)** designates April 24, 2014, as “Jan Karski Day”;
-- **(2)** recognizes the life and legacy of Dr. Jan Karski, and expresses its gratitude for his efforts alerting the free world about the atrocities committed by Nazi and totalitarian forces in occupied Poland during World War II; and
-- **(3)** applauds the awarding of the Presidential Medal of Freedom to Jan Karski for his efforts during World War II and reaffirms the importance of the United States-Poland bilateral relationship.
+- **(1)** recognizes the life and legacy of Dr. Jan Karski on the centennial of his birth, and expresses its gratitude for his efforts alerting the free world about the atrocities committed by Nazi and totalitarian forces in occupied Poland during World War II; and
+- **(2)** applauds the awarding of the Presidential Medal of Freedom to Jan Karski for his efforts during World War II and reaffirms the importance of the United States-Poland bilateral relationship.
