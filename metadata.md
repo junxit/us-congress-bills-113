@@ -1,7 +1,7 @@
 ---
 measure: S. 970
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 970
@@ -29,3 +29,7 @@ Water Resources Research Amendments Act of 2013
 - 2013-05-16 — Introduced in Senate
 - 2013-05-16 — Read twice and referred to the Committee on Environment and Public Works. (text of measure as introduced: CR S3572-3573)
 - 2013-05-16 — Sponsor introductory remarks on measure. (CR S3572)
+- 2014-02-06 — Committee on Environment and Public Works. Ordered to be reported with an amendment favorably.
+- 2014-04-01 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment. With written report No. 113-143.
+- 2014-04-01 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment. With written report No. 113-143.
+- 2014-04-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 341.

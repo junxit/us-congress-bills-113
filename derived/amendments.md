@@ -1,7 +1,7 @@
 ---
 measure: S. 970
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `From the` |
 | Inserted | `(1) In general.—From the` |
 
-### 42 U.S.C. § 10303
+### 42 U.S.C. § 10301
 
 > Section 104(f)(1) of the Water Resources Research Act of 1984 (42 U.S.C. 10303(f)(1)) is amended by striking “$12,000,000 for each of fiscal years 2007 through 2011” and inserting “$7,500,000 for each of fiscal years 2013 through 2018”.
 

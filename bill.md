@@ -1,7 +1,7 @@
 ---
 legis-num: S. 970
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -24,6 +24,9 @@ This Act may be cited as the “Water Resources Research Amendments Act of 2013�
     >   - **(B)** decentralized approaches;
     >   - **(C)** water use efficiency; and
     >   - **(D)** actions to reduce energy consumption or extract energy from wastewater;
+    >   - **(C)** energy use efficiency;
+    >   - **(D)** water use efficiency; and
+    >   - **(E)** actions to extract energy from wastewater;.
 
 - **(b)** *Clarification of research activities* Section 104(b)(1) of the Water Resources Research Act of 1984 (42 U.S.C. 10303(b)(1)) is amended—
   - **(1)** in subparagraph (B)(ii), by striking “water-related phenomena” and inserting “water resources”; and
