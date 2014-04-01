@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3222
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -45,7 +45,12 @@ As used in this Act:
   - **(3)** consider other alternatives for preservation, protection, and interpretation of the study area by Federal, State, or local governmental entities, or private and nonprofit organizations;
   - **(4)** identify properties related to the John Bowne House that could potentially meet criteria for designation as a National Historic Landmark;
   - **(5)** consult with interested Federal, State, or local governmental entities, private and nonprofit organizations, or any other interested individuals;
-  - **(6)** evaluate the impact of the proposed action on the flow of commerce and commercial activity, job opportunities, and any adverse economic effects that could not be avoided if the proposal is implemented; and
-  - **(7)** identify cost estimates for any Federal acquisition, development, interpretation, operation, and maintenance associated with the alternatives.
-- **(c)** *Applicable law* The study required under subsection (a) shall be conducted in accordance with section 8 of National Park Service General Authorities Act (16 U.S.C. 1a–5).
-- **(d)** *Report* Not later than 3 years after the date on which funds are first made available for the study under subsection (a), the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report containing the results of the study and any conclusions and recommendations of the Secretary.
+  - **(6)** evaluate the impact of the proposed action on the flow of commerce and commercial activity, job opportunities, and any adverse economic effects that could not be avoided if the proposal is implemented;
+  - **(7)** identify cost estimates for any Federal acquisition, development, interpretation, operation, and maintenance associated with the alternatives;
+  - **(8)** analyze the effect of the designation of the study area as a unit of the National Park System on—
+    - **(A)** existing recreational activities, and on the authorization, construction, operation, maintenance, or improvement of energy production and transmission infrastructure; and
+    - **(B)** the authority of State and local governments to manage those activities; and
+  - **(9)** identify any authorities, including condemnation, that will compel or permit the Secretary to influence or participate in local land use decisions (such as zoning) or place restrictions on non-Federal lands if the study area is designated a unit of the National Park System.
+- **(c)** *Notification of private property owners* Upon the commencement of the study, owners of private property in or adjacent to the study area shall be notified of the study’s commencement and scope.
+- **(d)** *Applicable law* The study required under subsection (a) shall be conducted in accordance with section 8(c)) of the National Park System General Authorities Act (16 U.S.C. 1a–5(c)).
+- **(e)** *Report* Not later than 3 years after the date on which funds are first made available for the study under subsection (a), the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report containing the results of the study and any conclusions and recommendations of the Secretary.
