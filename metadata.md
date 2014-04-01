@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1206
 congress: 113
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1206
@@ -54,3 +54,12 @@ Permanent Electronic Duck Stamp Act of 2013
 - 2014-04-01 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 113-145.
 - 2014-04-01 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 113-145.
 - 2014-04-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 343.
+- 2014-12-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6840)
+- 2014-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6840)
+- 2014-12-16 — Message on Senate action sent to the House.
+- 2014-12-17 — Presented to President.
+- 2014-12-17 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-239.
+- 2014-12-18 — Became Public Law No: 113-239.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
