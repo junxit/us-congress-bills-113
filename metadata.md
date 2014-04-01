@@ -1,7 +1,7 @@
 ---
 measure: H.R. 724
 congress: 113
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 724
@@ -157,3 +157,12 @@ To amend the Clean Air Act to remove the requirement for dealer certification of
 - 2014-04-01 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 113-144.
 - 2014-04-01 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 113-144.
 - 2014-04-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 342.
+- 2014-05-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3307)
+- 2014-05-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3307)
+- 2014-05-23 — Message on Senate action sent to the House.
+- 2014-05-30 — Presented to President.
+- 2014-05-30 — Presented to President.
+- 2014-06-09 — Became Public Law No: 113-109.
+- 2014-06-09 — Became Public Law No: 113-109.
+- 2014-06-09 — Signed by President.
+- 2014-06-09 — Signed by President.
