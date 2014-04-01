@@ -1,7 +1,7 @@
 ---
 measure: S. 864
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 864
@@ -16,7 +16,7 @@ Grassroots Rural and Small Community Water Systems Assistance Act
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (15)
+## Cosponsors (17)
 
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 - Sen. Cochran, Thad [R-MS] (C000567)
@@ -33,6 +33,8 @@ Grassroots Rural and Small Community Water Systems Assistance Act
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 - Sen. Baucus, Max [D-MT] (B000243)
 - Sen. Vitter, David [R-LA] (V000127)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Schatz, Brian [D-HI] (S001194)
 
 ## Committees (1)
 
@@ -42,3 +44,7 @@ Grassroots Rural and Small Community Water Systems Assistance Act
 
 - 2013-05-06 — Introduced in Senate
 - 2013-05-06 — Read twice and referred to the Committee on Environment and Public Works.
+- 2014-02-06 — Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-04-01 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. With written report No. 113-142.
+- 2014-04-01 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. With written report No. 113-142.
+- 2014-04-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 340.
