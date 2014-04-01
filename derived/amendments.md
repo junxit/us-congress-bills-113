@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4005
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -230,14 +230,14 @@ complete account of the bill's effect, which it is not.
 | `14 U.S.C. § 93` | add-at-end | Chapter 5 of title 14, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `14 U.S.C. § 93` | add-at-end | The analysis for chapter 5 of title 14, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `14 U.S.C. § 687` | add-at-end | Section 687(b) of title 14, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Chapter 5 of title 14, United States Code, as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 5 of title 14, United States Code, as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for chapter 5 of title 14, United States Code, as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `14 U.S.C. § 194` | amend | Section 194 of title 14, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `14 U.S.C. § 494` | strike | Section 494 of title 14, United States Code, is amended by striking “medal of honor,” each place that it appears. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `14 U.S.C. § 569` | amend | Section 569 of title 14, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `14 U.S.C. § 569` | replace | The analysis for chapter 15 of title 14, United States Code, is amended by striking the item relating to section 569 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 1105` | insert | Title 14, United States Code, as amended by this Act, is further amended by inserting after section 662 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 1105` | insert | The analysis for chapter 17 of title 14, United States Code, is amended by inserting after the item relating to section 662 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `14 U.S.C. § 662` | insert | The analysis for chapter 17 of title 14, United States Code, is amended by inserting after the item relating to section 662 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Chapter 17 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for chapter 17 of title 14, United States Code, as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `14 U.S.C. § 712` | strike | Section 712(a) of title 14, United States Code, is amended by striking “not more than 60 days in any 4-month period and”. | the bill quotes the text struck but describes what replaces it |
@@ -260,8 +260,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | in section 93(b)(1) by striking “Notwithstanding subsection (a)(14)” and inserting “Notwithstanding subsection (a)(13)”; | the bill names no machine-readable US Code section |
 | — | strike | in section 197(b) by striking “of Homeland Security”; and | the bill names no machine-readable US Code section |
 | — | insert | in section 573(c)(3)(A) by inserting “and shall maintain such cutter in such class” before the period at the end. | the bill names no machine-readable US Code section |
-| — | insert | Title 14, United States Code, is amended by inserting after section 295 the following: | the bill names no machine-readable US Code section |
-| — | insert | The analysis for chapter 11 of title 14, United States Code, is amended by inserting after the item relating to section 295 the following: | the bill names no machine-readable US Code section |
+| `10 U.S.C. § 1216` | insert | Title 14, United States Code, is amended by inserting after section 295 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `14 U.S.C. § 295` | insert | The analysis for chapter 11 of title 14, United States Code, is amended by inserting after the item relating to section 295 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Subchapter I of chapter 313 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 31309 the following: | the bill names no machine-readable US Code section |
 | `46 U.S.C. § 80301` | add-at-end | Section 80301 of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -276,9 +276,9 @@ complete account of the bill's effect, which it is not.
 | `46 U.S.C. § 10313` | strike | by striking “class action”; and | the bill quotes the text struck but describes what replaces it |
 | `46 U.S.C. § 10313` | strike | by striking “class action”; and | the bill quotes the text struck but describes what replaces it |
 | `46 U.S.C. § 7101` | add-at-end | Section 7101 of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `46 U.S.C. § 7101` | insert | Title 14, United States Code, as amended by this Act, is further amended by inserting after section 427 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `46 U.S.C. § 7101` | insert | The analysis for chapter 11 of title 14, United States Code, as amended by this Act, is further amended by inserting after the item relating to section 427 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `46 U.S.C. § 60105` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 101` | insert | Title 14, United States Code, as amended by this Act, is further amended by inserting after section 427 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 101` | insert | The analysis for chapter 11 of title 14, United States Code, as amended by this Act, is further amended by inserting after the item relating to section 427 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 1105` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1901` | add-at-end | in section 9, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `46 U.S.C. § 55305` | insert | by inserting “for the cost of providing armed personnel aboard such vessels” before “if”; and | the bill quotes the text inserted but describes where it goes |
 | `46 U.S.C. § 55305` | replace | by striking paragraphs (2) and (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -288,7 +288,7 @@ complete account of the bill's effect, which it is not.
 | `46 U.S.C. § 3104` | amend | Section 3104 of title 46, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `46 U.S.C. § 55305` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `46 U.S.C. § 55305` | redesignate | by redesignating paragraph (2) as paragraph (5), and by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `46 U.S.C. § 55305` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 1105` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `46 U.S.C. § 55305` | add-at-end | Section 55305(d) of title 46, United States Code, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `46 U.S.C. § 55305` | repeal | Section 3511(c) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (46 U.S.C. 55305 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1952` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

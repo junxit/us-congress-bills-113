@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4005
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4005
@@ -37,3 +37,8 @@ Coast Guard and Maritime Transportation Act of 2014
 - 2014-03-25 — Placed on the Union Calendar, Calendar No. 286.
 - 2014-03-25 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-384.
 - 2014-03-25 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-384.
+- 2014-04-01 — Considered under suspension of the rules. (consideration: CR H2763-2779)
+- 2014-04-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4005.
+- 2014-04-01 — Mr. Hunter moved to suspend the rules and pass the bill, as amended.
+- 2014-04-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2763-2772)
+- 2014-04-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2763-2772)
