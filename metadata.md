@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2413
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2413
@@ -56,3 +56,9 @@ Weather Forecasting Improvement Act of 2014
 - 2014-03-21 — Placed on the Union Calendar, Calendar No. 285.
 - 2014-03-21 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-383.
 - 2014-03-21 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-383.
+- 2014-04-01 — Considered under suspension of the rules. (consideration: CR H2759-2763)
+- 2014-04-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2413.
+- 2014-04-01 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2014-04-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2759-2761)
+- 2014-04-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2759-2761)
+- 2014-04-01 — The title of the measure was amended. Agreed to without objection.

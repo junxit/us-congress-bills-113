@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2413
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `51 U.S.C. § 60161` | add-at-end | Section 60161 of title 51, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `51 U.S.C. § 60161` | add-at-end | Section 60161 of title 51, United States Code, is amended by adding at the end the following: “This prohibition shall not extend to— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | repeal | If the Budget Control Act of 2011 (Public Law 112–25) is repealed or replaced with an Act that increases allocations, subsection (a) shall not apply, and there are authorized to be appropriated for fiscal year 2014— | the bill names no machine-readable US Code section |

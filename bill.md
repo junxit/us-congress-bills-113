@@ -7,39 +7,39 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2413
 
-> To prioritize and redirect NOAA resources to a focused program of investment on near-term, affordable, and attainable advances in observational, computing, and modeling capabilities to deliver substantial improvement in weather forecasting and prediction of high impact weather events, such as tornadoes and hurricanes, and for other purposes.
+> To prioritize and redirect NOAA resources to a focused program of investment on affordable and attainable advances in observational, computing, and modeling capabilities to deliver substantial improvement in weather forecasting and prediction of high impact weather events, such as those associated with hurricanes, tornadoes, droughts, floods, storm surges, and wildfires, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Weather Forecasting Improvement Act of 2013”.
+This Act may be cited as the “Weather Forecasting Improvement Act of 2014”.
 
 ## § 2. Public safety priority
 
-In accordance with NOAA’s critical mission to provide science, service, and stewardship, the Under Secretary shall prioritize weather-related activities, including the provision of weather data, forecasts, and warnings for the protection of life and property and the enhancement of the national economy, in all relevant line offices.
+In accordance with NOAA’s critical mission to provide science, service, and stewardship, the Under Secretary shall prioritize weather-related activities, including the provision of improved weather data, forecasts, and warnings for the protection of life and property and the enhancement of the national economy, in all relevant line offices.
 
 ## § 3. Weather research and forecasting innovation
 
-- **(a)** *Program* The Assistant Administrator for OAR shall conduct a program to develop improved understanding of and forecast capabilities for atmospheric events and their impacts, placing priority on developing more accurate, timely, and effective warnings and forecasts of high impact weather events that endanger life and property.
+- **(a)** *Program* The Assistant Administrator for OAR shall conduct a program to develop improved understanding of and forecast capabilities for atmospheric events and their impacts, placing priority on developing more accurate, timely, and effective warnings and fore-casts of high impact weather events that endanger life and property.
 - **(b)** *Program elements* The program described in subsection (a) shall focus on the following activities:
-  - **(1)** Improving the fundamental understanding of weather consistent with section 2, including boundary layer and other atmospheric processes.
+  - **(1)** Improving the fundamental understanding of weather consistent with section 2, including the boundary layer and other atmospheric processes affecting high impact weather events.
   - **(2)** Improving the understanding of how the public receives, interprets, and responds to warnings and forecasts of high impact weather events that endanger life and property.
   - **(3)** Research and development, and transfer of knowledge, technologies, and applications to the NWS and other appropriate agencies and entities, including the American weather industry and academic partners, related to—
-    - **(A)** advanced radar, radar networking technologies, and other ground-based technologies, including those emphasizing rapid, fine-scale sensing of the boundary layer and the use of innovative, dual-polarization, phased-array technologies;
+    - **(A)** advanced radar, radar networking technologies, and other ground-based technologies, including those emphasizing rapid, fine-scale sensing of the boundary layer and lower troposphere, and the use of innovative, dual-polarization, phased array technologies;
     - **(B)** aerial weather observing systems;
-    - **(C)** high performance computing and information technology networks;
+    - **(C)** high performance computing and information technology and wireless communication networks;
     - **(D)** advanced numerical weather prediction systems and forecasting tools and techniques that improve the forecasting of timing, track, intensity, and severity of high impact weather, including through—
       - **(i)** the development of more effective mesoscale models;
       - **(ii)** more effective use of existing, and the development of new, regional and national cloud-resolving models;
-      - **(iii)** enhanced global models; and
+      - **(iii)** enhanced global weather models; and
       - **(iv)** integrated assessment models;
-    - **(E)** quantitative assessment tools for measuring the value of data and observing systems, including OSSEs (as described in section 8), OSEs, and AOAs;
+    - **(E)** quantitative assessment tools for measuring the impact and value of data and observing systems, including OSSEs (as described in section 8), OSEs, and AOAs;
     - **(F)** atmospheric chemistry and interactions essential to accurately characterizing atmospheric composition and predicting meteorological processes, including cloud microphysical, precipitation, and atmospheric electrification processes, to more effectively understand their role in severe weather; and
     - **(G)** additional sources of weather data and information, including commercial observing systems.
-  - **(4)** A technology transfer initiative, carried out jointly and in coordination with the Assistant Administrator for NWS, and in cooperation with the American weather industry and academic partners, to ensure continuous development and transition of the latest scientific and technological advances into NWS operations.
+  - **(4)** A technology transfer initiative, carried out jointly and in coordination with the Assistant Administrator for NWS, and in cooperation with the American weather industry and academic partners, to ensure continuous development and transition of the latest scientific and technological advances into NWS operations and to establish a process to sunset outdated and expensive operational methods and tools to enable cost-effective transfer of new methods and tools into operations.
 - **(c)** *Extramural research*
   - **(1)** *In general* In carrying out the program under this section, the Assistant Administrator for OAR shall collaborate with and support the non-Federal weather research community, which includes institutions of higher education, private entities, and nongovernmental organizations, by making funds available through competitive grants, contracts, and cooperative agreements.
-  - **(2)** *Sense of Congress* It is the sense of Congress that not less than 30 percent of the funds authorized for research and development at OAR by this Act should be made available for this purpose.
-  - **(3)** *Report* The Under Secretary shall transmit to Congress annually, concurrently with NOAA’s budget request, a description of current and planned activities under this section.
+  - **(2)** *Sense of congress* It is the sense of Congress that not less than 30 percent of the funds authorized for research and development at OAR by this Act should be made available for this purpose.
+- **(d)** *Report* The Under Secretary shall transmit to Congress annually, concurrently with NOAA’s budget request, a description of current and planned activities under this section.
 
 ## § 4. Tornado warning improvement and extension program
 
@@ -69,8 +69,8 @@ Not later than 6 months after the date of enactment of this Act, and annually th
 The Under Secretary shall—
 
 - **(1)** develop and maintain a prioritized list of observation data requirements necessary to ensure weather forecasting capabilities to protect life and property to the maximum extent practicable;
-- **(2)** undertake, using OSSEs, OSEs, AOAs, and other appropriate assessment tools, ongoing systematic evaluations of the combination of observing systems, data, and information needed to meet the requirements developed under paragraph (1), assessing various options to maximize observational capabilities and their cost-effectiveness;
-- **(3)** identify current and potential future data gaps in observing capabilities related to the requirements under paragraph (1); and
+- **(2)** undertake, using OSSEs, OSEs, AOAs, and other appropriate assessment tools, ongoing systematic evaluations of the combination of observing systems, data, and information needed to meet the requirements listed under paragraph (1), assessing various options to maximize observational capabilities and their cost-effectiveness;
+- **(3)** identify current and potential future data gaps in observing capabilities related to the requirements listed under paragraph (1); and
 - **(4)** determine a range of options to address gaps identified under paragraph (3).
 
 ## § 8. Observing system simulation experiments
@@ -79,22 +79,23 @@ The Under Secretary shall—
   - **(1)** may include assessments of the impact of observing capabilities on—
     - **(A)** global weather prediction;
     - **(B)** hurricane track and intensity forecasting;
-    - **(C)** tornado warning lead times and accuracy; and
+    - **(C)** tornado warning lead times and accuracy;
     - **(D)** prediction of mid-latitude severe local storm outbreaks; and
-  - **(2)** shall be conducted in cooperation with other appropriate entities within NOAA, other Federal agencies, the American weather industry, and academic partners.
+    - **(E)** prediction of storms that have the potential to cause extreme precipitation and flooding lasting from 6 hours to 1 week; and
+  - **(2)** shall be conducted in cooperation with other appropriate entities within NOAA, other Federal agencies, the American weather industry, and academic partners to ensure the technical and scientific merit of OSSE results.
 - **(b)** *Requirements* OSSEs shall quantitatively—
-  - **(1)** determine the potential impact of proposed space-based, suborbital, and in situ observing systems on analyses and forecasts;
+  - **(1)** determine the potential impact of proposed space-based, suborbital, and in situ observing systems on analyses and forecasts, including potential impacts on extreme weather events across all parts of the Nation;
   - **(2)** evaluate and compare observing system design options; and
   - **(3)** assess the relative capabilities and costs of various observing systems and combinations of observing systems in providing data necessary to protect life and property.
 - **(c)** *Implementation* OSSEs—
   - **(1)** shall be conducted prior to the acquisition of major Government-owned or Government-leased operational observing systems, including polar-orbiting and geostationary satellite systems, with a lifecycle cost of more than $500,000,000; and
   - **(2)** shall be conducted prior to the purchase of any major new commercially provided data with a lifecycle cost of more than $500,000,000.
-- **(d)** *Priority OSSEs* Not later than June 30, 2014, the Assistant Administrator for OAR shall complete OSSEs to assess the value of data from both Global Positioning System radio occultation and a geostationary hyperspectral sounder global constellation.
+- **(d)** *Priority osses* Not later than June 30, 2014, the Assistant Administrator for OAR shall complete OSSEs to assess the value of data from both Global Positioning System radio occultation and a geostationary hyperspectral sounder global constellation.
 - **(e)** *Results* Upon completion of all OSSEs, results shall be publicly released and accompanied by an assessment of related private and public sector weather data sourcing options, including their availability, affordability, and cost effectiveness. Such assessments shall be developed in accordance with section 50503 of title 51, United States Code.
 
 ## § 9. Computing resources prioritization report
 
-Not later than 12 months after the date of enactment of this Act, and annually thereafter, the NOAA Chief Information Officer, in coordination with the Assistant Administrator for OAR and the Assistant Administrator for NWS, shall produce a report that explains how NOAA intends to—
+Not later than 12 months after the date of enactment of this Act, and annually thereafter, the NOAA Chief Information Officer, in coordination with the Assistant Administrator for OAR and the Assistant Administrator for NWS, shall produce and make publicly available a report that explains how NOAA intends to—
 
 - **(1)** aggressively pursue the newest, fastest, and most cost effective high performance computing technologies in support of its weather prediction mission;
 - **(2)** ensure a balance between the research requirements to develop the next generation of regional and global models and its highly reliable operational models;
@@ -104,18 +105,17 @@ Not later than 12 months after the date of enactment of this Act, and annually t
 
 ## § 10. Commercial weather data
 
-- **(a)** *Amendment* Section 60161 of title 51, United States Code, is amended by adding at the end the following:
-  > This prohibition shall not extend to—
+- **(a)** *Amendment* Section 60161 of title 51, United States Code, is amended by adding at the end the following: “This prohibition shall not extend to—
   > - **(1)** the purchase of weather data through contracts with commercial providers; or
   > - **(2)** the placement of weather satellite instruments on cohosted government or private payloads.
 
 - **(b)** *Strategy*
-  - **(1)** *In general* Not later than 6 months after the date of enactment of this Act, the Secretary of Commerce, in consultation with the Under Secretary, shall transmit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a strategy to enable the procurement of quality commercial weather data. The strategy shall assess the range of commercial opportunities, including public-private partnerships, for obtaining both surface-based and space-based weather observations. The strategy shall include the cost effectiveness of these opportunities, as well as provide a plan for procuring data from these nongovernmental sources, as appropriate.
+  - **(1)** *In general* Not later than 6 months after the date of enactment of this Act, the Secretary of Commerce, in consultation with the Under Secretary, shall transmit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a strategy to enable the procurement of quality commercial weather data. The strategy shall assess the range of commercial opportunities, including public-private partnerships, for obtaining both surface-based and space-based weather observations. The strategy shall include the expected cost effectiveness of these opportunities as well as provide a plan for procuring data, including an expected implementation timeline, from these nongovernmental sources, as appropriate.
   - **(2)** *Requirements* The strategy shall include—
     - **(A)** an analysis of financial or other benefits to, and risks associated with, acquiring commercial weather data or services, including through multiyear acquisition approaches;
     - **(B)** an identification of methods to address planning, programming, budgeting, and execution challenges to such approaches, including—
       - **(i)** how standards will be set to ensure that data is reliable and effective;
-      - **(ii)** how data may be acquired from commercial experimental or innovative techniques and then evaluated for integration into operational use;
+      - **(ii)** how data may be acquired through commercial experimental or innovative techniques and then evaluated for integration into operational use;
       - **(iii)** how to guarantee public access to all forecast-critical data to ensure that the American weather industry and the public continue to have access to information critical to their work; and
       - **(iv)** in accordance with section 50503 of title 51, United States Code, methods to address potential termination liability or cancellation costs associated with weather data or service contracts; and
     - **(C)** an identification of any changes needed in the requirements development and approval processes of the Department of Commerce to facilitate effective and efficient implementation of such strategy.
@@ -129,28 +129,28 @@ Not later than 12 months after the date of enactment of this Act, and annually t
   - **(4)** address such other matters as the Under Secretary or the Advisory Committee believes would improve innovation in weather forecasting.
 - **(b)** *Composition*
   - **(1)** *In general* The Under Secretary shall appoint leading experts and innovators from all relevant fields of science and engineering that inform meteorology, including atmospheric chemistry, atmospheric physics, hydrology, social science, risk communications, electrical engineering, and computer modeling.
-  - **(2)** *Number* The Advisory Committee shall be composed of at least 12 members, with the chair of the Advisory Committee chosen from among the members.
+  - **(2)** *Number* The Advisory Committee shall be composed of at least 12 members, with the chair of the Advisory Committee chosen by the Under Secretary from among the members.
   - **(3)** *Restriction* The Under Secretary may not appoint a majority of members who are employees of NOAA-funded research centers.
 - **(c)** *Annual report* The Advisory Committee shall transmit annually to the Under Secretary a report on progress made by NOAA in adopting the Advisory Committee’s recommendations. The Under Secretary shall transmit a copy of such report to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 - **(d)** *Duration* Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Committee until the date that is 5 years after the date of enactment of this Act.
 
 ## § 12. Interagency weather research and innovation coordination
 
-- **(a)** *Establishment* The Director of the Office of Science and Technology Policy shall establish an Interagency Committee for Advancing Weather Services to improve coordination of relevant weather research and forecast innovation activities across the Federal Government. The Interagency Committee shall—
+- **(a)** *Establishment* The Director of the Office of Science and Technology Policy shall establish an Inter-agency Committee for Advancing Weather Services to improve coordination of relevant weather research and forecast innovation activities across the Federal Government. The Interagency Committee shall—
   - **(1)** include participation by the National Aeronautics and Space Administration, the Federal Aviation Administration, NOAA and its constituent elements, the National Science Foundation, and such other agencies involved in weather forecasting research as the President determines are appropriate;
   - **(2)** identify and prioritize top forecast needs and coordinate those needs against budget requests and program initiatives across participating offices and agencies; and
   - **(3)** share information regarding operational needs and forecasting improvements across relevant agencies.
-- **(b)** *Co-Chair* The Federal Coordinator for Meteorology shall serve as a co-chair of this panel.
+- **(b)** *Co-chair* The Federal Coordinator for Meteorology shall serve as a co-chair of this panel.
 - **(c)** *Further coordination* The Director shall take such other steps as are necessary to coordinate the activities of the Federal Government with those of the American weather industry, State governments, emergency managers, and academic researchers.
 
-## § 13. Visiting OAR researchers program
+## § 13. Oar and NWS exchange program
 
-- **(a)** *In general* The Assistant Administrator for OAR, in collaboration with the Assistant Administrator for NWS, may establish a program to detail OAR researchers to the NWS.
+- **(a)** *In general* The Assistant Administrator for OAR and the Assistant Administrator for NWS may establish a program to detail OAR personnel to the NWS and NWS personnel to OAR.
 - **(b)** *Goal* The goal of this program is to enhance forecasting innovation through regular, direct interaction between OAR’s world-class scientists and NWS’s operational staff.
-- **(c)** *Elements* The program shall allow no fewer than 5 and no more than 15 OAR staff to spend up to 1 year on detail to the NWS. Such detail shall be at any of the National Centers for Environmental Prediction or at any of the Regional Forecast Offices where such interaction could be productive in improving forecasting capabilities. Candidates shall be jointly selected by the Assistant Administrator for OAR and the Assistant Administrator for NWS.
+- **(c)** *Elements* The program shall allow up to 10 OAR staff and NWS staff to spend up to 1 year on detail. Candidates shall be jointly selected by the Assistant Administrator for OAR and the Assistant Administrator for NWS.
 - **(d)** *Report* The Under Secretary shall report annually to the Committee on Science, Space, and Technology of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate on participation in such program and shall highlight any innovations that come from this interaction.
 
-## § 14. Visiting Fellows at NWS
+## § 14. Visiting fellows at NWS
 
 - **(a)** *In general* The Assistant Administrator for NWS may establish a program to host postdoctoral fellows and academic researchers at any of the National Centers for Environmental Prediction.
 - **(b)** *Goal* This program shall be designed to provide direct interaction between forecasters and talented academic and private sector researchers in an effort to bring innovation to forecasting tools and techniques available to the NWS.
@@ -167,22 +167,23 @@ In this Act:
 - **(5)** *OAR* The term “OAR” means the Office of Oceanic and Atmospheric Research.
 - **(6)** *OSE* The term “OSE” means an Observing System Experiment.
 - **(7)** *OSSE* The term “OSSE” means an Observing System Simulation Experiment.
-- **(8)** *Under Secretary* The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.
+- **(8)** *Under secretary* The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.
 
 ## § 16. Authorization of appropriations
 
 - **(a)** *Fiscal year 2014* There are authorized to be appropriated for fiscal year 2014—
-  - **(1)** out of funds made available for operations, research, and facilities in OAR, $83,000,000 to carry out section 3, of which—
+  - **(1)** $83,000,000 to OAR to carry out this Act, of which—
     - **(A)** $65,000,000 is authorized for weather laboratories and cooperative institutes; and
     - **(B)** $18,000,000 is authorized for weather and air chemistry research programs; and
   - **(2)** out of funds made available for research and development in NWS, an additional amount of $14,000,000 for OAR to carry out the joint technology transfer initiative described in section 3(b)(4).
 - **(b)** *Alternative funding for fiscal year 2014* If the Budget Control Act of 2011 (Public Law 112–25) is repealed or replaced with an Act that increases allocations, subsection (a) shall not apply, and there are authorized to be appropriated for fiscal year 2014—
-  - **(1)** out of funds made available for operations, research, and facilities in OAR, $96,500,000 to carry out section 3, of which—
+  - **(1)** $96,500,000 to OAR to carry out this Act, of which—
     - **(A)** $77,500,000 is authorized for weather laboratories and cooperative institutes; and
     - **(B)** $19,000,000 is authorized for weather and air chemistry research programs; and
   - **(2)** out of funds made available for research and development in NWS, an additional amount of $16,000,000 for OAR to carry out the joint technology transfer initiative described in section 3(b)(4).
-- **(c)** *Fiscal years 2015 through 2017* Out of funds made available for operations, research, and facilities in OAR for each of fiscal years 2015 through 2017, there are authorized to be appropriated—
-  - **(1)** $100,000,000 to carry out section 3, of which—
+- **(c)** *Fiscal years 2015 through 2017* For each of fiscal years 2015 through 2017, there are authorized to be appropriated—
+  - **(1)** $100,000,000 to OAR to carry out this Act, of which—
     - **(A)** $80,000,000 is authorized for weather laboratories and cooperative institutes; and
     - **(B)** $20,000,000 is authorized for weather and air chemistry research programs; and
   - **(2)** an additional amount of $20,000,000 for the joint technology transfer initiative described in section 3(b)(4).
+- **(d)** *Limitation* No additional funds are authorized to carry out this Act, and the amendments made by this Act.
