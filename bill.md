@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1501
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -14,5 +14,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(a)** *Short title* This section may be cited as the “Prison Ship Martyrs’ Monument Preservation Act”.
 - **(b)** *Study*
   - **(1)** *In general* The Secretary of the Interior shall complete a study to determine the suitability and feasibility of designating the Prison Ship Martyrs’ Monument in Fort Greene Park, in the New York City borough of Brooklyn, as a unit of the National Park System.
-  - **(2)** *Applicability of other law* Section 8(c) of Public Law 91–383 (16 U.S.C. 1a–5(c); commonly known as the National Park System General Authorities Act) shall apply to the study.
-- **(c)** *Report* Not later than one year after the date of the enactment of this Act, the Secretary of the Interior shall transmit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report containing the conclusions of the study required by subsection (b).
+  - **(2)** *Applicable law* The study required under this subsection shall be conducted in accordance with section 8(c) of the National Park System General Authorities Act (16 U.S.C. 1a-5(c)).
+  - **(3)** *Content of study* The study shall include—
+    - **(A)** an analysis of operational issues that should be considered if the Prison Ship Martyrs’ Monument were to be designated as a unit of the National Park System;
+    - **(B)** an analysis of the feasibility of administering the Prison Ships Martyrs’ Monument, considering its size, configuration, and other factors, including an annual cost estimate;
+    - **(C)** an analysis of the economic, educational, and other impacts of the designation of the Prison Ship Martyrs’ Monument as a unit of the National Park System;
+    - **(D)** an analysis of the effect of the designation of the Prison Ship Martyrs’ Monument as a unit of the National Park System on—
+      - **(i)** existing commercial and recreational activities, and on the authorization, construction, operation, maintenance, or improvement of energy production and transmission infrastructure; and
+      - **(ii)** the authority of State and local governments to manage those activities; and
+    - **(E)** an identification of any authorities, including condemnation, that will compel or permit the Secretary of the Interior to influence or participate in local land use decisions (such as zoning) or place restrictions on non-Federal lands if the Prison Ship Martyrs’ Monument is designated as a unit of the National Park System.
+- **(c)** *Notification of private property owners* Upon commencement of the study, owners of private property in or adjacent to the Prison Ship Martyrs’ Monument shall be notified of the study’s commencement and scope.
+- **(d)** *Report* Not later than one year after the date of the enactment of this Act, the Secretary of the Interior shall transmit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report containing the conclusions of the study required by subsection (b).
