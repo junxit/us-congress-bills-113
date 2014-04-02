@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4278
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4278
@@ -27,10 +27,11 @@ Ukraine Support Act
 - Rep. Messer, Luke [R-IN-6] (M001189)
 - Rep. Kelly, Mike [R-PA-3] (K000376)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ Ukraine Support Act
 - 2014-03-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 19 (Roll no. 148). (text: CR H2718-2723)
 - 2014-03-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 19 (Roll no. 148).(text: CR H2718-2723)
 - 2014-03-27 — Received in the Senate.
+- 2014-04-02 — Read twice and referred to the Committee on Foreign Relations.
