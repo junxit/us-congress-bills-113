@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 92
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 92
@@ -42,3 +42,6 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2014-04-01 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2779-2780)
 - 2014-04-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2779-2780)
 - 2014-04-02 — Received in the Senate.
+- 2014-04-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S2201)
+- 2014-04-07 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2201)
+- 2014-04-08 — Message on Senate action sent to the House.
