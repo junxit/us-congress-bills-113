@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 4371
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4371
+
+> To redesignate the Johnson Valley Off-Highway Vehicle Recreation Area in California as the “Johnson Valley National Off-Highway Vehicle Recreation Area”, and for other purposes.
+
+## § 1. Redesignation
+
+- **(a)** *Redesignation* The Johnson Valley Off-Highway Vehicle Recreation Area in California is hereby redesignated as the “Johnson Valley National Off-Highway Vehicle Recreation Area”.
+- **(b)** *Conforming amendments* Subtitle C of title XXIX of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66) is amended—
+  - **(1)** in section 2942(c)(3), by striking “Johnson Valley Off-Highway Vehicle Recreation Area” and inserting “Johnson Valley National Off-Highway Vehicle Recreation Area”; and
+  - **(2)** in section 2945—
+    - **(A)** in the section heading, by inserting “national” after “valley”;
+    - **(B)** in subsection (a), by inserting “National” after “Valley” in the matter preceding paragraph (1); and
+    - **(C)** in subsections (b), (c), and (d), by inserting “National” after “Valley” each place it appears.
+- **(c)** *Relation to authorized Navy use* The redesignation of the Johnson Valley Off-Highway Vehicle Recreation Area as the “Johnson Valley National Off-Highway Vehicle Recreation Area” does not alter or interfere with the rights and obligations of the Navy regarding the use of portions of the Recreation Area as provided in subtitle C of title XXIX of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66).
+- **(d)** *References* Any reference in any law, regulation, document, record, map, or other paper of the United States to the Johnson Valley Off-Highway Vehicle Recreation Area is deemed to be a reference to the “Johnson Valley National Off-Highway Vehicle Recreation Area”.
