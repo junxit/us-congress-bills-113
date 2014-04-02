@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2413
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2413
@@ -39,9 +39,10 @@ Weather Forecasting Improvement Act of 2014
 - Rep. Roe, David P. [R-TN-1] (R000582)
 - Rep. Hartzler, Vicky [R-MO-4] (H001053)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ Weather Forecasting Improvement Act of 2014
 - 2014-04-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2759-2761)
 - 2014-04-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2759-2761)
 - 2014-04-01 — The title of the measure was amended. Agreed to without objection.
+- 2014-04-02 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
