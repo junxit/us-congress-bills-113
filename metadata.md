@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 92
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 92
@@ -41,3 +41,4 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2014-04-01 — Mr. Barletta moved to suspend the rules and agree to the resolution.
 - 2014-04-01 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2779-2780)
 - 2014-04-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2779-2780)
+- 2014-04-02 — Received in the Senate.
