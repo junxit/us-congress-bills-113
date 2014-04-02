@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 4367
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4367
+
+> To prohibit the National Telecommunications and Information Administration from relinquishing responsibilities with respect to Internet domain name functions.
+
+## § 1. Short title
+
+This Act may be cited as the “Internet Stewardship Act of 2014”.
+
+## § 2. NTIA prohibited from relinquishing DNS responsibilities
+
+The Assistant Secretary of Commerce for Communications and Information may not relinquish or agree to relinquish the responsibilities of the National Telecommunications and Information Administration with respect to Internet domain name functions, including responsibility with respect to the authoritative root zone file, the Internet Assigned Numbers Authority functions, or the related root zone management functions, unless such relinquishment is permitted by a statute enacted after the date of the enactment of this Act.
