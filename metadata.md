@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4005
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4005
@@ -21,9 +21,10 @@ Coast Guard and Maritime Transportation Act of 2014
 - Rep. Shuster, Bill [R-PA-9] (S001154)
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Coast Guard and Maritime Transportation Act of 2014
 - 2014-04-01 — Mr. Hunter moved to suspend the rules and pass the bill, as amended.
 - 2014-04-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2763-2772)
 - 2014-04-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2763-2772)
+- 2014-04-02 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
