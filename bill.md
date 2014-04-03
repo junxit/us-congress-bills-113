@@ -25,7 +25,7 @@ The Secretary of Agriculture, acting through the Chief of the Forest Service, ma
 ## § 4. Alaska native veteran allotment
 
 - **(a)** *Definitions* In this section:
-  - **(1)** *Application* The term “application” means the Alaska Native Veteran Allotment application numbered AA-084021-B.
+  - **(1)** *Application* The term “application” means the Alaska Native Veteran Allotment application numbered AA–084021–B.
   - **(2)** *Federal land* The term “Federal land” means the 80 acres of Federal land that is—
     - **(A)** described in the application; and
     - **(B)** depicted as Lot 2 in U.S. Survey No. 13957, Alaska, that was officially filed on October 9, 2009.
