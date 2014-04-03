@@ -1,7 +1,7 @@
 ---
 measure: S. 404
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 404
@@ -38,3 +38,14 @@ Green Mountain Lookout Heritage Protection Act
 - 2014-04-03 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2151-2152; text as passed Senate: CR S2152)
 - 2014-04-03 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S2151-2152; text as passed Senate: CR S2152)
 - 2014-04-03 — Received in the House.
+- 2014-04-07 — Considered under suspension of the rules. (consideration: CR H2977-2980)
+- 2014-04-07 — DEBATE - The House proceeded with forty minutes of debate on S. 404.
+- 2014-04-07 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
+- 2014-04-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2977-2978)
+- 2014-04-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2977-2978)
+- 2014-04-09 — Presented to President.
+- 2014-04-09 — Presented to President.
+- 2014-04-15 — Became Public Law No: 113-99.
+- 2014-04-15 — Became Public Law No: 113-99.
+- 2014-04-15 — Signed by President.
+- 2014-04-15 — Signed by President.
