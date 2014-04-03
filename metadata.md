@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 384
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 384
@@ -58,3 +58,5 @@ A resolution expressing the sense of the Senate concerning the humanitarian cris
 - 2014-04-02 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2014-04-02 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2014-04-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 346.
+- 2014-04-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S2166)
+- 2014-04-03 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2166)
