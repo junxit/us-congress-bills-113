@@ -1,7 +1,7 @@
 ---
 measure: S. 1219
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1219
@@ -28,3 +28,8 @@ Pechanga Band of Luiseno Mission Indians Water Rights Settlement Act
 
 - 2013-06-25 — Introduced in Senate
 - 2013-06-25 — Read twice and referred to the Committee on Indian Affairs.
+- 2013-09-10 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 113-143.
+- 2014-04-02 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-04-03 — Committee on Indian Affairs. Reported by Senator Tester with an amendment in the nature of a substitute. Without written report.
+- 2014-04-03 — Committee on Indian Affairs. Reported by Senator Tester with an amendment in the nature of a substitute. Without written report.
+- 2014-04-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 349.
