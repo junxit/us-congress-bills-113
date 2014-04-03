@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Save American Workers Act of 2013”.
+This Act may be cited as the “Save American Workers Act of 2014”.
 
 ## § 2. Repeal of 30-hour threshold for classification as full-time employee for purposes of the employer mandate in the Patient Protection and Affordable Care Act and replacement with 40 hours
 
@@ -25,4 +25,4 @@ This Act may be cited as the “Save American Workers Act of 2013”.
   - **(2)** by inserting before subparagraph (B) the following new subparagraph:
     > - **(A)** *In general* The term full-time employee means, with respect to any month, an employee who is employed on average at least 40 hours of service per week.
 
-- **(c)** *Effective date* The amendments made by this section shall take effect as if included in the amendments made by section 1513 of the Patient Protection and Affordable Care Act.
+- **(c)** *Effective date* The amendments made by this section shall apply to months beginning after December 31, 2013.

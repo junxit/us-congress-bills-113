@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2575
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2575
@@ -233,6 +233,11 @@ Save American Workers Act of 2014
 
 - House — Ways and Means Committee
 
+## Recorded votes (2)
+
+- 2014-04-03 — [House 113-2-155](votes/house-113-2-0155.md) — On Motion to Recommit with Instructions — **Failed** (191–232)
+- 2014-04-03 — [House 113-2-156](votes/house-113-2-0156.md) — On Passage — **Passed** (248–179)
+
 ## Actions
 
 - 2013-06-28 — Introduced in House
@@ -244,3 +249,20 @@ Save American Workers Act of 2014
 - 2014-03-26 — Placed on the Union Calendar, Calendar No. 287.
 - 2014-03-26 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-386.
 - 2014-03-26 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-386.
+- 2014-04-01 — Rules Committee Resolution H. Res. 530 Reported to House. Rule provides for consideration of H.R. 2575 with 3 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2014-04-02 — Considered under the provisions of rule H. Res. 530. (consideration: CR H2821-2833)
+- 2014-04-02 — DEBATE - The House proceeded with three hours of debate on H.R. 2575.
+- 2014-04-02 — House amendment offered
+- 2014-04-02 — POSTPONED PROCEEDINGS - The Chair announced that pursuant to clause 1(c) of rule 19, further proceedings on H.R. 2575 would be postponed.
+- 2014-04-02 — Rule H. Res. 530 passed House.
+- 2014-04-02 — Rule provides for consideration of H.R. 2575 with 3 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2014-04-03 — Considered as unfinished business. (consideration: CR H2861-2891)
+- 2014-04-03 — DEBATE - The House proceeded with the remaining 1 hour and 46 minutes of debate on H.R. 2575.
+- 2014-04-03 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Takano motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to prohibit the underlying bill from taking effect if any provision results in (1) the loss of health coverage or loss of wages for any employee; (2) an increase in the Federal deficit; (3) the loss of health coverage for veterans and their families; (4) an increase in premiums or out of pocket costs for employees; (5) denial of coverage for pre-existing conditions; or (6) discriminating against women by limiting their access to quality healthcare or decreasing their health coverage.
+- 2014-04-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-04-03 — Mr. Takano moved to recommit with instructions to the Committee on Ways and Means. (consideration: CR H2889-2890; text: CR H2889)
+- 2014-04-03 — On motion to recommit with instructions Failed by the Yeas and Nays: 191 - 232 (Roll no. 155). (consideration: CR H2889-2890)
+- 2014-04-03 — On passage Passed by recorded vote: 248 - 179 (Roll no. 156). (text: CR 4/02/2014 H2821)
+- 2014-04-03 — Passed/agreed to in House: On passage Passed by recorded vote: 248 - 179 (Roll no. 156).(text: CR 4/02/2014 H2821)
+- 2014-04-03 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2890)
+- 2014-04-03 — The previous question was ordered pursuant to the rule. (consideration: CR H2889)
