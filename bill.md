@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1874
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,16 +11,17 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Pro-Growth Budgeting Act of 2013”.
+This Act may be cited as the “Pro-Growth Budgeting Act of 2014”.
 
 ## § 2. Macroeconomic impact analyses
 
 - **(a)** *In general* Part A of title IV of the Congressional Budget Act of 1974 is amended by adding at the end the following new section:
   > ## § 407. Macroeconomic impact analysis of major legislation
   >
-  > - **(a)** *Congressional Budget Office* The Congressional Budget Office shall, to the extent practicable, prepare for each major bill or resolution reported by any committee of the House of Representatives or the Senate (except the Committee on Appropriations of each House), as a supplement to estimates prepared under section 402, a macroeconomic impact analysis of the budgetary effects of such bill or resolution for the ten fiscal-year period beginning with the first fiscal year for which an estimate was prepared under section 402 and each of the next three ten fiscal-year periods. Such estimate shall be predicated upon the supplemental projection described in section 202(e)(4). The Director shall submit to such committee the macroeconomic impact analysis, together with the basis for the analysis. As a supplement to estimates prepared under section 402, all such information so submitted shall be included in the report accompanying such bill or resolution.
+  > - **(a)** *Congressional Budget Office* The Congressional Budget Office shall, to the extent practicable, prepare for each major bill or resolution reported by any committee of the House of Representatives or the Senate (except the Committee on Appropriations of each House), as a supplement to estimates prepared under section 402, a macroeconomic impact analysis of the budgetary effects of such bill or resolution for the ten fiscal-year period beginning with the first fiscal year for which an estimate was prepared under section 402 and each of the next three ten fiscal-year periods. The Director shall submit to such committee the macroeconomic impact analysis, together with the basis for the analysis. As a supplement to estimates prepared under section 402, all such information so submitted shall be included in the report accompanying such bill or resolution.
   > - **(b)** *Economic impact* The analysis prepared under subsection (a) shall describe the potential economic impact of the applicable major bill or resolution on major economic variables, including real gross domestic product, business investment, the capital stock, employment, interest rates, and labor supply. The analysis shall also describe the potential fiscal effects of the bill or resolution, including any estimates of revenue increases or decreases resulting from changes in gross domestic product. To the extent practicable, the analysis should use a variety of economic models in order to reflect the full range of possible economic outcomes resulting from the bill or resolution. The analysis (or a technical appendix to the analysis) shall specify the economic and econometric models used, sources of data, relevant data transformations, and shall include such explanation as is necessary to make the models comprehensible to academic and public policy analysts.
-  > - **(c)** *Definitions* As used in this section—
+  > - **(c)** *Reporting on accuracy of Macroeconomic impact analyses* Upon completion of the fifth fiscal year beginning after the date of enactment of any major bill or joint resolution for which the Congressional Budget Office prepared an analysis under subsection (a), the Congressional Budget Office shall report on the accuracy of the original macroeconomic impact analysis of such enacted bill or joint resolution and submit these reports to the Committees on the Budget of the House of Representatives and the Senate.
+  > - **(d)** *Definitions* As used in this section—
   >   - **(1)** the term macroeconomic impact analysis means—
   >     - **(A)** an estimate of the changes in economic output, employment, interest rates, capital stock, and tax revenues expected to result from enactment of the proposal;
   >     - **(B)** an estimate of revenue feedback expected to result from enactment of the proposal; and
@@ -28,5 +29,6 @@ This Act may be cited as the “Pro-Growth Budgeting Act of 2013”.
   >   - **(2)** the term major bill or resolution means any bill or resolution if the gross budgetary effects of such bill or resolution for any fiscal year in the period for which an estimate is prepared under section 402 is estimated to be greater than .25 percent of the current projected gross domestic product of the United States for any such fiscal year;
   >   - **(3)** the term budgetary effect, when applied to a major bill or resolution, means the changes in revenues, outlays, deficits, and debt resulting from that measure; and
   >   - **(4)** the term revenue feedback means changes in revenue resulting from changes in economic growth as the result of the enactment of any major bill or resolution.
+  > - **(e)** *Legislation with revenue provisions* The macroeconomic analysis described in subsection (c) shall rely on macroeconomic analysis prepared by the Joint Committee on Taxation for any provisions of such legislation that are described in section 201(f). For legislation consisting solely of provisions described in section 201(f), the macroeconomic analysis described in subsection (c) shall be prepared by the Joint Committee on Taxation.
 
-- **(b)** *Conforming amendment* The table of contents set forth in section 1(b) of the Congressional Budget Act of 1974Congressional Budget and Impoundment Control Act of 1974 is amended by inserting after the item relating to section 406 the following new item:
+- **(b)** *Conforming amendment* The table of contents set forth in section 1(b) of the Congressional Budget and Impoundment Control Act of 1974 is amended by inserting after the item relating to section 406 the following new item:
