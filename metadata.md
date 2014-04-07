@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 90
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 90
@@ -31,3 +31,10 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - 2014-03-06 — Introduced in House
 - 2014-03-06 — Introduced in House
 - 2014-03-06 — Referred to the House Committee on House Administration.
+- 2014-04-07 — Committee on House Administration discharged.
+- 2014-04-07 — Committee on House Administration discharged.
+- 2014-04-07 — Considered by unanimous consent. (consideration: CR H2986)
+- 2014-04-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-04-07 — Mrs. Miller (MI) asked unanimous consent to discharge from committee and consider.
+- 2014-04-07 — On agreeing to the resolution Agreed to without objection. (text: CR H2986)
+- 2014-04-07 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H2986)
