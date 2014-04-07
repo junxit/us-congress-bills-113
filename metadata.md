@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3979
 congress: 113
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3979
@@ -129,9 +129,13 @@ Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fi
 
 - House — Ways and Means Committee
 
-## Recorded votes (1)
+## Recorded votes (5)
 
 - 2014-03-11 — [House 113-2-116](votes/house-113-2-0116.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (410–0)
+- 2014-03-27 — [Senate 113-2-90](votes/senate-113-2-0090.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (65–34)
+- 2014-04-02 — [Senate 113-2-98](votes/senate-113-2-0098.md) — On the Motion to Table — **Motion to Table Agreed to** (67–29)
+- 2014-04-03 — [Senate 113-2-100](votes/senate-113-2-0100.md) — On the Cloture Motion — **Cloture Motion Agreed to** (61–35)
+- 2014-04-07 — [Senate 113-2-101](votes/senate-113-2-0101.md) — On Passage of the Bill — **Bill Passed** (59–38)
 
 ## Actions
 
@@ -153,3 +157,22 @@ Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fi
 - 2014-03-12 — Received in the Senate.
 - 2014-03-13 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2014-03-24 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 333.
+- 2014-03-25 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1720)
+- 2014-03-26 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S1770-1771; text: CR S1770-1771)
+- 2014-03-26 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1741-1744; S1761-1770, S1770-1771)
+- 2014-03-27 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 65 - 34. Record Vote Number: 90. (consideration: CR S1799-1800; text: CR S1799)
+- 2014-03-27 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1781-1784, S1793, S1799-1800, S1800, S1803-1809)
+- 2014-03-31 — Cloture motion on the measure presented in Senate. (consideration: CR S1860; text: CR S1860)
+- 2014-03-31 — Measure laid before Senate by motion. (consideration: CR S1859-1860)
+- 2014-03-31 — Motion by Senator Reid to commit to Senate Committee on Finance with instructions to report back forthwith with the following amendment (SA 2879) made in Senate. (consideration: CR S1860; text: CR S1860)
+- 2014-03-31 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2014-04-01 — Considered by Senate. (consideration: CR S1897)
+- 2014-04-02 — Considered by Senate. (consideration: CR S2044-2046, S2047-2081, S2082-2085)
+- 2014-04-02 — Motion by Senator Reid to commit to Senate Committee on Finance with instructions to report back forthwith with the following amendment (SA 2879) fell when cloture was invoked on SA 2874 in Senate. (consideration: CR S2047)
+- 2014-04-02 — Motion to table the motion to appeal the ruling of the chair agreed to in Senate by Yea-Nay Vote. 67 - 29. Record Vote Number: 98.
+- 2014-04-02 — Senator Vitter moved to appeal the ruling of the chair that Amdt. No. 2931 is not in order to be proposed. (consideration: CR S2081)
+- 2014-04-03 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 61 - 35. Record Vote Number: 100. (consideration: CR S2150; text: CR S2150)
+- 2014-04-03 — Considered by Senate. (consideration: CR S2137-2140, S2141-2144, S2145-2146, S2148, S2148-2149, S2149-2150, S2152)
+- 2014-04-07 — Considered by Senate. (consideration: CR S2175-2178)
+- 2014-04-07 — Passed Senate with an amendment by Yea-Nay Vote. 59 - 38. Record Vote Number: 101. (text: CR S2176-2178)
+- 2014-04-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 59 - 38. Record Vote Number: 101.(text: CR S2176-2178)
