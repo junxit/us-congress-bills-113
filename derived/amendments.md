@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3470
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-29 amendatory instructions. 15 executed, 14 stated and not applied.
+30 amendatory instructions. 20 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,30 +53,21 @@ to guess them.
 
 ### 22 U.S.C. § 2776
 
-> in paragraph (1), by striking “Subject to paragraph (6), in” and inserting “In”;
+> in subparagraph (A), by striking “$25,000,000” and inserting “$75,000,000”; and
 
 | | |
 |---|---|
-| Removed | `Subject to paragraph (6), in` |
-| Inserted | `In` |
+| Removed | `$25,000,000` |
+| Inserted | `$75,000,000` |
 
 ### 22 U.S.C. § 2776
 
-> in paragraph (5)(C), by striking “Subject to paragraph (6), if” and inserting “If”; and
+> in subparagraph (B), by striking “$100,000,000” and inserting “$200,000,000”.
 
 | | |
 |---|---|
-| Removed | `Subject to paragraph (6), if` |
-| Inserted | `If` |
-
-### 22 U.S.C. § 2776
-
-> by striking “Subject to paragraph (5), in” and inserting “In”;
-
-| | |
-|---|---|
-| Removed | `Subject to paragraph (5), in` |
-| Inserted | `In` |
+| Removed | `$100,000,000` |
+| Inserted | `$200,000,000` |
 
 ### 22 U.S.C. § 2776
 
@@ -89,12 +80,30 @@ to guess them.
 
 ### 22 U.S.C. § 2776
 
-> by striking “$50,000,000” and inserting “$100,000,000”;
+> by striking “$50,000,000” and inserting “$100,000,000”; and
 
 | | |
 |---|---|
 | Removed | `$50,000,000` |
 | Inserted | `$100,000,000` |
+
+### 22 U.S.C. § 2776
+
+> in subparagraph (A), by striking “$25,000,000” and inserting “$75,000,000”; and
+
+| | |
+|---|---|
+| Removed | `$25,000,000` |
+| Inserted | `$75,000,000` |
+
+### 22 U.S.C. § 2776
+
+> in subparagraph (B), by striking “$100,000,000” and inserting “$200,000,000”.
+
+| | |
+|---|---|
+| Removed | `$100,000,000` |
+| Inserted | `$200,000,000` |
 
 ### 22 U.S.C. § 2794
 
@@ -113,24 +122,6 @@ to guess them.
 |---|---|
 | Removed | `includes` |
 | Inserted | `means, with respect to a sale or transfer by the United States under the authority of this Act or any other foreign assistance or sales program of the United States,` |
-
-### 22 U.S.C. § 2761
-
-> in subparagraphs (A) and (C)(i), by striking “Maintenance and Supply Agency of the North Atlantic Treaty Organization” and inserting “North Atlantic Treaty Organization (NATO) Support Organization and its executive agencies”; and
-
-| | |
-|---|---|
-| Removed | `Maintenance and Supply Agency of the North Atlantic Treaty Organization` |
-| Inserted | `North Atlantic Treaty Organization (NATO) Support Organization and its executive agencies` |
-
-### 22 U.S.C. § 2761
-
-> in subparagraph (C)(i)(II), by striking “a specific weapon system” and inserting “activities”.
-
-| | |
-|---|---|
-| Removed | `a specific weapon system` |
-| Inserted | `activities` |
 
 ### 22 U.S.C. § 2751
 
@@ -159,6 +150,60 @@ to guess them.
 | Removed | `the Committee on National Security and the Committee on International Relations of the House of Representatives` |
 | Inserted | `the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives` |
 
+### 18 U.S.C. § 175b
+
+> in clause (xi), by striking “; or” and inserting “, or”; and
+
+| | |
+|---|---|
+| Removed | `; or` |
+| Inserted | `, or` |
+
+### 18 U.S.C. § 175b
+
+> by striking “section” and inserting “sections”; and
+
+| | |
+|---|---|
+| Removed | `section` |
+| Inserted | `sections` |
+
+### 18 U.S.C. § 175b
+
+> by striking “(18 U.S.C. 175b)” and inserting “(18 U.S.C. 175c)”; and
+
+| | |
+|---|---|
+| Removed | `(18 U.S.C. 175b)` |
+| Inserted | `(18 U.S.C. 175c)` |
+
+### 22 U.S.C. § 2751
+
+> in section 47(2), in the matter preceding subparagraph (A), by striking “sec. 21(a),,” and inserting “section 21(a),”.
+
+| | |
+|---|---|
+| Removed | `sec. 21(a),,` |
+| Inserted | `section 21(a),` |
+
+### 22 U.S.C. § 2304
+
+> in subsection (b), by striking “Wherever applicable, a description” and inserting “Wherever applicable, such report shall include a description”; and
+
+| | |
+|---|---|
+| Removed | `Wherever applicable, a description` |
+| Inserted | `Wherever applicable, such report shall include a description` |
+
+### 22 U.S.C. § 2304
+
+> in subsection (d)(2)(B), by striking “credits” and inserting “credits)”.
+
+| | |
+|---|---|
+| Removed | `credits` |
+| Inserted | `credits)` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -170,15 +215,11 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `22 U.S.C. § 2776` | insert | by inserting “of any defense articles or defense services under this Act for $200,000,000 or more, any design and construction services for $300,000,000 or more, or any major defense equipment for $75,000,000 or more,” after “The letter … | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 2776` | insert | by inserting “of any defense articles or services under this Act for $100,000,000 or more, any design and construction services for $200,000,000 or more, or any major defense equipment for $50,000,000 or more,” after “or with respect to … | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 2776` | strike | by striking paragraph (6). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2776` | insert | in subparagraph (A), by inserting after “for an export” the following: “of any major defense equipment sold under a contract in the amount of $75,000,000 or more or of defense articles or defense services sold under a contract in the amo… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2776` | insert | in subparagraph (C), by inserting after “license” the following: “for an export of any major defense equipment sold under a contract in the amount of $50,000,000 or more or of defense articles or defense services sold under a contract in… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2776` | strike | by striking paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2776` | redesignate | by redesignating paragraph (6) as paragraph (5). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2778` | add-at-end | Section 38 of the Arms Export Control Act (22 U.S.C. 2778) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2778` | add-at-end | Section 38(f) of the Arms Export Control Act (22 U.S.C. 2778(f)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2778` | add-at-end | Section 38(f) of the Arms Export Control Act (22 U.S.C. 2778(f)), as amended by this section, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2304` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 1701` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2304` | strike | in paragraph (1), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 2751` | insert | in section 21(i)(1) by inserting after “the Speaker of the House of Representatives” the following “, the Committees on Foreign Affairs and Armed Services of the House of Representatives,”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2751` | insert | in sections 27(f) and 62(a), by inserting after “the Speaker of the House of Representatives,” each place it appears the following: “the Committee on Foreign Affairs of the House of Representatives,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 175b` | redesignate | in subsection (b)(1), by redesignating the second subparagraph (B) (as added by section 1255(b) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (Public Law 100–204; 101 Stat. 1431)) as subparagraph (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 175b` | insert | in subsection (j)(2), in the matter preceding subparagraph (A), by inserting “in” after “to”; and | the bill quotes the text inserted but describes where it goes |
