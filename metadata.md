@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1874
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1874
@@ -68,10 +68,11 @@ Pro-Growth Budgeting Act of 2014
 - Rep. Barletta, Lou [R-PA-11] (B001269)
 - Rep. Kinzinger, Adam [R-IL-16] (K000378)
 
-## Committees (2)
+## Committees (3)
 
 - House — Rules Committee
 - House — Budget Committee
+- Senate — Budget Committee
 
 ## Recorded votes (6)
 
@@ -155,3 +156,4 @@ Pro-Growth Budgeting Act of 2014
 - 2014-04-04 — The previous question was ordered pursuant to the rule. (consideration: CR H2943)
 - 2014-04-04 — The resolution provides for consideration of H.R. 1874, H.R. 1871, and H.R. 1872. The resolution provides for 1 hour of general debate for each bill. Specified amendments printed in Part B of House Report 113-400 are in order for H.R. 1874. The resolution allows for one motion to recommit with instructions for each bill.
 - 2014-04-04 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2014-04-07 — Received in the Senate and Read twice and referred to the Committee on the Budget.
