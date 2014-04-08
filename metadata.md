@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4323
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4323
@@ -58,3 +58,12 @@ Debbie Smith Reauthorization Act of 2014
 - 2014-04-07 — Reported by the Committee on Judiciary. H. Rept. 113-404.
 - 2014-04-07 — Reported by the Committee on Judiciary. H. Rept. 113-404.
 - 2014-04-08 — Received in the Senate, read twice.
+- 2014-09-18 — Message on Senate action sent to the House.
+- 2014-09-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5763)
+- 2014-09-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5763)
+- 2014-09-29 — Became Public Law No: 113-182.
+- 2014-09-29 — Became Public Law No: 113-182.
+- 2014-09-29 — Presented to President.
+- 2014-09-29 — Presented to President.
+- 2014-09-29 — Signed by President.
+- 2014-09-29 — Signed by President.
