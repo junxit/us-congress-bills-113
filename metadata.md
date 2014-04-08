@@ -1,7 +1,7 @@
 ---
 measure: S. 1294
 congress: 113
-version: Reference Change Senate
+version: Reported to Senate
 ---
 
 # S. 1294
@@ -32,3 +32,7 @@ Tennessee Wilderness Act
 - 2013-07-24 — Referred to the Committee on Agriculture, Nutrition, and Forestry.
 - 2013-07-24 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
 - 2013-07-24 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2014-04-08 — Committee on Agriculture, Nutrition, and Forestry. Ordered to be reported without amendment favorably.
+- 2014-04-08 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Stabenow without amendment. Without written report.
+- 2014-04-08 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Stabenow without amendment. Without written report.
+- 2014-04-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 351.
