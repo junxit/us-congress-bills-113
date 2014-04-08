@@ -25,7 +25,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 That the Senate—
 
-- **(1)** reaffirms the importance of freedom of the press to efforts by the United States Government to support democracy, mitigate conflict, and promote good governance domestically and around the world;
+- **(1)** reaffirms the importance of freedom of the press to efforts to support democracy, mitigate conflict, and promote good governance domestically and around the world;
 - **(2)** expresses concern about the threats to freedom of the press and expression in the People’s Republic of China;
 - **(3)** condemns actions taken by the Government of the People’s Republic of China to suppress freedom of the press, including the increased harassment of Chinese and international journalists through denial of visas, harassment of sources, physical threats, and other methods; and
 - **(4)** urges the President to use all appropriate instruments of United States influence to support, promote, and strengthen principles, practices, and values that promote the free flow of information to the people of China without interference or discrimination, including through the Internet and other electronic media.

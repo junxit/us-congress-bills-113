@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 361
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 361
@@ -16,11 +16,12 @@ A resolution recognizing the threats to freedom of the press and expression in t
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Cornyn, John [R-TX] (C001056)
 
 ## Committees (1)
 
@@ -35,3 +36,12 @@ A resolution recognizing the threats to freedom of the press and expression in t
 - 2014-03-11 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2014-03-11 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2014-03-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 322.
+- 2014-04-08 — Amendment SA 2969 agreed to in Senate by Unanimous Consent.
+- 2014-04-08 — Amendment SA 2969 proposed by Senator Reid for Senator Cardin. (consideration: CR S2286-2287; text: CR S2286-2287) To make a technical correction.
+- 2014-04-08 — Measure laid before Senate by unanimous consent. (consideration: CR S2286-2287)
+- 2014-04-08 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.(text: CR S2287)
+- 2014-04-08 — Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent. (text: CR S2287)
+- 2014-04-08 — Senate amendment agreed to: Amendment SA 2969 agreed to in Senate by Unanimous Consent.
+- 2014-04-08 — Senate amendment agreed to: Amendment SA 2969 agreed to in Senate by Unanimous Consent.
+- 2014-04-08 — Senate amendment proposed (on the floor): Amendment SA 2969 proposed by Senator Reid for Senator Cardin.(consideration: CR S2286-2287; text: CR S2286-2287)
+- 2014-04-08 — Senate amendment submitted
