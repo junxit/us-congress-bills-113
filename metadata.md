@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3470
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3470
@@ -24,9 +24,10 @@ To affirm the importance of the Taiwan Relations Act, to provide for the transfe
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 - Rep. Conaway, K. Michael [R-TX-11] (C001062)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To affirm the importance of the Taiwan Relations Act, to provide for the transfe
 - 2014-04-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2973-2976)
 - 2014-04-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2973-2976)
 - 2014-04-07 — The title of the measure was amended. Agreed to without objection.
+- 2014-04-08 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
