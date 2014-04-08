@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1871
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1871
@@ -35,6 +35,11 @@ Baseline Reform Act of 2014
 
 - House — Budget Committee
 
+## Recorded votes (2)
+
+- 2014-04-08 — [House 113-2-167](votes/house-113-2-0167.md) — On Motion to Recommit with Instructions — **Failed** (191–221)
+- 2014-04-08 — [House 113-2-168](votes/house-113-2-0168.md) — On Passage — **Passed** (230–185)
+
 ## Actions
 
 - 2013-05-08 — Introduced in House
@@ -45,3 +50,16 @@ Baseline Reform Act of 2014
 - 2013-06-25 — Placed on the Union Calendar, Calendar No. 94.
 - 2013-06-25 — Reported (Amended) by the Committee on Budget. H. Rept. 113-129.
 - 2013-06-25 — Reported (Amended) by the Committee on Budget. H. Rept. 113-129.
+- 2014-04-03 — Rules Committee Resolution H. Res. 539 Reported to House. The resolution provides for consideration of H.R. 1874, H.R. 1871, and H.R. 1872. The resolution provides for 1 hour of general debate for each bill. Specified amendments printed in Part B of House Report 113-400 are in order for H.R. 1874. The resolution allows for one motion to recommit with instructions for each bill.
+- 2014-04-08 — Considered under the provisions of rule H. Res. 539. (consideration: CR H3014-3021)
+- 2014-04-08 — DEBATE - The House proceeded with 10 minutes of debate on the Bustos motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a section to the bill titled "Prohibiting Cuts in Education, Health, and Safety Protections".
+- 2014-04-08 — DEBATE - The House proceeded with one hour of debate on H.R. 1871.
+- 2014-04-08 — House amendment offered
+- 2014-04-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-04-08 — Mrs. Bustos moved to recommit with instructions to the Committee on the Budget. (consideration: CR H3019-3021; text: CR H3019-3020)
+- 2014-04-08 — On motion to recommit with instructions Failed by the Yeas and Nays: 191 - 221 (Roll no. 167).
+- 2014-04-08 — On passage Passed by recorded vote: 230 - 185 (Roll no. 168). (text: CR H3015)
+- 2014-04-08 — Passed/agreed to in House: On passage Passed by recorded vote: 230 - 185 (Roll no. 168).(text: CR H3015)
+- 2014-04-08 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3020-3021)
+- 2014-04-08 — The previous question was ordered pursuant to the rule. (consideration: CR H3019)
+- 2014-04-08 — The resolution provides for consideration of H.R. 1874, H.R. 1871, and H.R. 1872. The resolution provides for 1 hour of general debate for each bill. Specified amendments printed in Part B of House Report 113-400 are in order for H.R. 1874. The resolution allows for one motion to recommit with instructions for each bill.
