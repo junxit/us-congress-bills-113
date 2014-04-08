@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2575
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2575
@@ -266,3 +266,5 @@ Save American Workers Act of 2014
 - 2014-04-03 — Passed/agreed to in House: On passage Passed by recorded vote: 248 - 179 (Roll no. 156).(text: CR 4/02/2014 H2821)
 - 2014-04-03 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2890)
 - 2014-04-03 — The previous question was ordered pursuant to the rule. (consideration: CR H2889)
+- 2014-04-07 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-04-08 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 350.
