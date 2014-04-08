@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 90
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 90
@@ -40,3 +40,4 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - 2014-04-07 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H2986)
 - 2014-04-08 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S2287)
 - 2014-04-08 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S2287)
+- 2014-04-09 — Message on Senate action sent to the House.
