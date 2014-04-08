@@ -1,7 +1,7 @@
 ---
 measure: S. 2195
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2195
@@ -16,17 +16,19 @@ A bill to deny admission to the United States to any representative to the Unite
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Sen. Coats, Daniel [R-IN] (C000542)
 - Sen. Vitter, David [R-LA] (V000127)
 - Sen. Cochran, Thad [R-MS] (C000567)
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -48,3 +50,6 @@ A bill to deny admission to the United States to any representative to the Unite
 - 2014-04-07 — Senate amendment proposed (on the floor): Amendment SA 2961 proposed by Senator Cruz.(consideration: CR S2181; text: CR S2181)
 - 2014-04-07 — Senate amendment submitted
 - 2014-04-07 — Senate amendment submitted
+- 2014-04-08 — Message on Senate action sent to the House.
+- 2014-04-08 — Received in the House.
+- 2014-04-08 — Referred to the House Committee on the Judiciary.
