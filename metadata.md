@@ -1,7 +1,7 @@
 ---
 measure: H.R. 697
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 697
@@ -49,3 +49,7 @@ Three Kids Mine Remediation and Reclamation Act
 - 2013-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4831-4832)
 - 2013-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4831-4832)
 - 2013-07-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-11-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2014-04-08 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-147.
+- 2014-04-08 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-147.
+- 2014-04-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 353.
