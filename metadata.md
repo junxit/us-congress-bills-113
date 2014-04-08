@@ -1,7 +1,7 @@
 ---
 measure: S. 2195
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2195
@@ -53,3 +53,16 @@ A bill to deny admission to the United States to any representative to the Unite
 - 2014-04-08 — Message on Senate action sent to the House.
 - 2014-04-08 — Received in the House.
 - 2014-04-08 — Referred to the House Committee on the Judiciary.
+- 2014-04-10 — Committee on the Judiciary discharged.
+- 2014-04-10 — Committee on the Judiciary discharged.
+- 2014-04-10 — Considered by unanimous consent. (consideration: CR H3184)
+- 2014-04-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-04-10 — Mr. Goodlatte asked unanimous consent to discharge from committee and consider.
+- 2014-04-10 — On passage Passed without objection. (text: CR H3184)
+- 2014-04-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H3184)
+- 2014-04-10 — Presented to President.
+- 2014-04-10 — Presented to President.
+- 2014-04-18 — Became Public Law No: 113-100.
+- 2014-04-18 — Became Public Law No: 113-100.
+- 2014-04-18 — Signed by President.
+- 2014-04-18 — Signed by President.
