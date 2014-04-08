@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1872
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1872
@@ -26,10 +26,11 @@ Budget and Accounting Transparency Act of 2014
 - Rep. Amash, Justin [R-MI-3] (A000367)
 - Rep. Hensarling, Jeb [R-TX-5] (H001036)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Budget Committee
+- Senate — Budget Committee
 
 ## Recorded votes (2)
 
@@ -65,3 +66,4 @@ Budget and Accounting Transparency Act of 2014
 - 2014-04-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2985)
 - 2014-04-07 — The previous question was ordered pursuant to the rule. (consideration: CR H2973)
 - 2014-04-07 — The resolution provides for consideration of H.R. 1874, H.R. 1871, and H.R. 1872. The resolution provides for 1 hour of general debate for each bill. Specified amendments printed in Part B of House Report 113-400 are in order for H.R. 1874. The resolution allows for one motion to recommit with instructions for each bill.
+- 2014-04-08 — Received in the Senate and Read twice and referred to the Committee on the Budget.
