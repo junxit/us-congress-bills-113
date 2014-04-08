@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4323
 congress: 113
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 4323
@@ -57,3 +57,4 @@ Debbie Smith Reauthorization Act of 2014
 - 2014-04-07 — Placed on the Union Calendar, Calendar No. 298.
 - 2014-04-07 — Reported by the Committee on Judiciary. H. Rept. 113-404.
 - 2014-04-07 — Reported by the Committee on Judiciary. H. Rept. 113-404.
+- 2014-04-08 — Received in the Senate, read twice.
