@@ -25,9 +25,10 @@ Section 15 of the Small Business Act (15 U.S.C. 644) is amended by adding at the
 >     - **(C)** establish consequences for failure to properly identify contracts as bundled or consolidated;
 >     - **(D)** establish requirements for periodic and statistically valid data verification and validation; and
 >     - **(E)** assign clear data verification responsibilities.
->   - **(3)** *Implementation* Not later than the first day of fiscal year 2017, the Administrator of the Small Business Administration shall implement the plan described in this subsection.
->   - **(4)** *Certification* The Administrator shall annually provide to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate certification of the accuracy and completeness of data reported on bundled and consolidated contracts.
->   - **(5)** *GAO study and report*
+>   - **(3)** *Committee briefing* Once finalized and by not later than 90 days prior to implementation, the plan described in this subsection shall be presented to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate.
+>   - **(4)** *Implementation* Not later than the first day of fiscal year 2017, the Administrator of the Small Business Administration shall implement the plan described in this subsection.
+>   - **(5)** *Certification* The Administrator shall annually provide to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate certification of the accuracy and completeness of data reported on bundled and consolidated contracts.
+>   - **(6)** *GAO study and report*
 >     - **(A)** *Study* Not later than the first day of fiscal year 2018, the Comptroller General of the United States shall initiate a study on the effectiveness of the plan described in this subsection that shall assess whether contracts were accurately labeled as bundled or consolidated.
 >     - **(B)** *Contracts evaluated* For the purposes of conducting the study described in subparagraph (A), the Comptroller General of the United States—
 >       - **(i)** shall evaluate, for work in each of sectors 23, 33, 54, and 56 (as defined by the North American Industry Classification System), not fewer than 100 contracts in each sector;
@@ -36,6 +37,6 @@ Section 15 of the Small Business Act (15 U.S.C. 644) is amended by adding at the
 >         - **(II)** that have a Base and Exercised Options Value, an Action Obligation, or a Base and All Options Value; and
 >       - **(iii)** shall not evaluate contracts that have used any set aside authority.
 >     - **(C)** *Report* Not later than 12 months after initiating the study required by subparagraph (A), the Comptroller General of the United States shall report to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate on the results from such study and, if warranted, any recommendations on how to improve the quality of data reported on bundled and consolidated contracts.
->   - **(6)** *Definitions* In this subsection the following definitions shall apply:
+>   - **(7)** *Definitions* In this subsection the following definitions shall apply:
 >     - **(A)** *Chief Acquisition Officer; senior procurement executive* The terms Chief Acquisition Officer and senior procurement executive have the meanings given such terms in section 44 of this Act.
 >     - **(B)** *Federal procurement data system definitions* The terms Base and Exercised Options Value, Action Obligation, Base and All Options Value, and set aside authority have the meanings given such terms by the Administrator for Federal Procurement Policy in the Federal procurement data system on October 1, 2013, or subsequent equivalent terms.
