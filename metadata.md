@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3786
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3786
@@ -25,3 +25,10 @@ To direct the Administrator of General Services, on behalf of the Archivist of t
 - 2013-12-16 — Introduced in House
 - 2013-12-16 — Introduced in House
 - 2013-12-16 — Referred to the House Committee on Transportation and Infrastructure.
+- 2013-12-17 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2014-03-13 — Committee Consideration and Mark-up Session Held.
+- 2014-03-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2014-03-13 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2014-04-09 — Placed on the Union Calendar, Calendar No. 299.
+- 2014-04-09 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-407.
+- 2014-04-09 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-407.

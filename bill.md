@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3786
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,7 +23,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
       - **(ii)** is based on the highest and best use of the property;
       - **(iii)** is approved by the Archivist; and
       - **(iv)** is paid for by the City.
-    - **(C)** *Form of consideration* The consideration described in this paragraph shall consist of monetary payment by the City, unless the Archivist and the City agree to a different form of consideration, in whole or in part, which may include replacement property or use of existing structures.
   - **(2)** *Pre-conveyance entry* The Archivist, on terms and conditions the Archivist determines to be appropriate, may authorize the City to enter the property at no charge for pre-construction and construction activities.
   - **(3)** *Additional terms and conditions* The Archivist may require additional terms and conditions in connection with the conveyance under subsection (a) as the Archivist considers appropriate to protect the interests of the United States.
-- **(d)** *City defined* In this section, the term City means the Municipality of Anchorage, Alaska.
+- **(d)** *Proceeds* Subject to appropriations Acts, the net proceeds from the conveyance of property under subsection (a) shall be available to the Archivist for activities funded in annual appropriations Acts under the heading “National Archives and Records Administration—Repairs and Restorations”.
+- **(e)** *City defined* In this section, the term City means the Municipality of Anchorage, Alaska.
