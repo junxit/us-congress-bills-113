@@ -19,6 +19,6 @@ That when the Senate recesses or adjourns on any day from Thursday, April 10, 20
 
 ## § 3.
 
-(a) The Speaker or his designee, after consultation with the Minority Leader of the House, shall notify the Members of the House to reassemble at such place and time he may designate if, in his opinion, the public interest shall warrant it.
+(a) The Speaker of his designee, after consultation with the Minority Leader of the House, shall notify Members of the House to reassemble at such place and time he may designate if, in his opinion, the public interest shall warrant it.
 
 - **(b)** After reassembling pursuant to subsection (a), when the House adjourns on a motion offered pursuant to this subsection by its Majority Leader or his designee, the House shall again stand adjourned pursuant to the first section of this concurrent resolution.
