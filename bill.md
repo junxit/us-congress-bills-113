@@ -18,7 +18,7 @@ This Act may be cited as the “Albuquerque, New Mexico, Federal Land Conveyance
 In this Act:
 
 - **(1)** *Administrator* The term “Administrator” means the Administrator of General Services.
-- **(2)** *Federal land* The term “Federal land” means the real property located in Albuquerque, New Mexico, that, as determined by the Administrator, subject to survey, generally consists of lots 12 through 19, and for the westerly boundary, the portion of either lot 19 or 20 which is the outside west wall of the basement level of the Old Post Office building, and which has a municipal address of 123 Fourth Street, SW., in Block 18, New Mexico Town Company’s Original Townsite, Albuquerque, New Mexico.
+- **(2)** *Federal land* The term “Federal land” means the real property, including any improvements thereon, located in Albuquerque, New Mexico, that, as determined by the Administrator, subject to survey, generally consists of lots 12 through 19, and for the westerly boundary, the portion of either lot 19 or 20 which is the outside west wall of the basement level of the Old Post Office building, and which has a municipal address of 123 Fourth Street, SW., in Block 18, New Mexico Town Company’s Original Townsite, Albuquerque, New Mexico.
 - **(3)** *Foundation* The term “Foundation” means the Amy Biehl High School Foundation.
 
 ## § 3. Conveyance of real property in Albuquerque, New Mexico, to the Amy Biehl High School Foundation
@@ -30,6 +30,6 @@ In this Act:
   - **(2)** any other costs relating to the conveyance of the Federal land under this Act.
 - **(d)** *Proceeds*
   - **(1)** *Deposit* Net proceeds received under subsection (b) shall be paid into the Federal Buildings Fund established under section 592 of title 40, United States Code.
-  - **(2)** *Expenditure* Amounts paid into the Federal Buildings Fund under paragraph (1) shall be available to the Administrator, in amounts specified in appropriations Acts, for expenditure for any lawful purpose consistent with existing authorities granted to the Administrator, except that the Administrator shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate 30 days advance written notice of any expenditure of the proceeds.
+  - **(2)** *Expenditure* Amounts paid into the Federal Buildings Fund under paragraph (1) shall be available to the Administrator, in amounts specified in appropriations Acts, for expenditure for any lawful purpose consistent with existing authorities granted to the Administrator.
 - **(e)** *Additional terms and conditions* The Administrator may require that any conveyance under subsection (a) be subject to such additional terms and conditions as the Administrator considers appropriate to protect the interests of the United States.
 - **(f)** *Deadline* The conveyance of the Federal land under this Act shall occur not later than 3 years after the date of enactment of this Act.
