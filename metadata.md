@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1871
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1871
@@ -31,9 +31,10 @@ Baseline Reform Act of 2014
 - Rep. Messer, Luke [R-IN-6] (M001189)
 - Rep. Nugent, Richard B. [R-FL-11] (N000185)
 
-## Committees (1)
+## Committees (2)
 
 - House — Budget Committee
+- Senate — Budget Committee
 
 ## Recorded votes (2)
 
@@ -63,3 +64,4 @@ Baseline Reform Act of 2014
 - 2014-04-08 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3020-3021)
 - 2014-04-08 — The previous question was ordered pursuant to the rule. (consideration: CR H3019)
 - 2014-04-08 — The resolution provides for consideration of H.R. 1874, H.R. 1871, and H.R. 1872. The resolution provides for 1 hour of general debate for each bill. Specified amendments printed in Part B of House Report 113-400 are in order for H.R. 1874. The resolution allows for one motion to recommit with instructions for each bill.
+- 2014-04-09 — Received in the Senate and Read twice and referred to the Committee on the Budget.
