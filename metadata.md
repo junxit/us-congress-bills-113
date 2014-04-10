@@ -1,7 +1,7 @@
 ---
 measure: H.R. 507
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 507
@@ -57,3 +57,8 @@ Pascua Yaqui Tribe Trust Land Act
 - 2013-05-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 131). (text: CR H2411)
 - 2013-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 131).(text: CR H2411)
 - 2013-05-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-07-30 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.
+- 2013-11-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2014-04-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-148.
+- 2014-04-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-148.
+- 2014-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 359.
