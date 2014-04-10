@@ -1,0 +1,28 @@
+---
+legis-num: S. 2241
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2241
+
+> To enhance the safety of drug-free playgrounds.
+
+## § 1. Short title
+
+This Act may be cited as the “Drug-Free Playgrounds Safety Enhancement Act of 2014”.
+
+## § 2. Drug-free playgrounds
+
+Section 419 of the Controlled Substances Act (21 U.S.C. 860) is amended—
+
+- **(1)** in subsection (a), by striking “video arcade facility” and inserting “video amusement game facility”; and
+- **(2)** in subsection (e)—
+  - **(A)** in paragraph (1)—
+    - **(i)** by striking “outdoor facility” and inserting “outdoor area”;
+    - **(ii)** by striking “three or more separate” and inserting “1 or more”;
+    - **(iii)** by inserting “play structures,” after “not limited to,”; and
+    - **(iv)** by striking “and teeterboards” and inserting “seesaw, merry-go-round, slides, jungle gym, chin-up bars, sandbox, spring rider, monkey bars, overhead ladders, trapeze rings, playhouses, rope bridges, and mazes”; and
+  - **(B)** by amending paragraph (3) to read as follows:
+    > - **(3)** The term video amusement game facility means any facility, legally accessible to persons under 18 years of age, intended primarily for amusement, which contains video game machines or other similar youth games.
