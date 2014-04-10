@@ -1,7 +1,7 @@
 ---
 measure: H.R. 862
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 862
@@ -50,3 +50,8 @@ To authorize the conveyance of two small parcels of land within the boundaries o
 - 2013-06-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 1 (Roll no. 247). (text: CR H3664)
 - 2013-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 1 (Roll no. 247).(text: CR H3664)
 - 2013-06-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-07-30 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.
+- 2013-11-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2014-04-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-149.
+- 2014-04-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-149.
+- 2014-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 360.
