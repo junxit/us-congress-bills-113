@@ -1,7 +1,7 @@
 ---
 measure: H.R. 507
 congress: 113
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 507
@@ -62,3 +62,12 @@ Pascua Yaqui Tribe Trust Land Act
 - 2014-04-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-148.
 - 2014-04-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-148.
 - 2014-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 359.
+- 2014-07-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4355-4364; text as passed Senate: CR S4355-4356)
+- 2014-07-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4355-4364; text as passed Senate: CR S4355-4356)
+- 2014-07-10 — Message on Senate action sent to the House.
+- 2014-07-15 — Presented to President.
+- 2014-07-15 — Presented to President.
+- 2014-07-25 — Became Public Law No: 113-134.
+- 2014-07-25 — Became Public Law No: 113-134.
+- 2014-07-25 — Signed by President.
+- 2014-07-25 — Signed by President.
