@@ -1,7 +1,7 @@
 ---
 measure: S. 2197
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2197
@@ -30,3 +30,7 @@ A bill to repeal certain requirements regarding newspaper advertising of Senate 
 
 - 2014-04-01 — Introduced in Senate
 - 2014-04-01 — Read twice and referred to the Committee on Rules and Administration.
+- 2014-04-09 — Committee on Rules and Administration. Ordered to be reported without amendment favorably.
+- 2014-04-10 — Committee on Rules and Administration. Reported by Senator Schumer without amendment. Without written report.
+- 2014-04-10 — Committee on Rules and Administration. Reported by Senator Schumer without amendment. Without written report.
+- 2014-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 358.
