@@ -1,7 +1,7 @@
 ---
 measure: H.R. 876
 congress: 113
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 876
@@ -51,3 +51,12 @@ Idaho Wilderness Water Resources Protection Act
 - 2014-04-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-150.
 - 2014-04-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-150.
 - 2014-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 361.
+- 2014-07-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4355-4364; text as passed Senate: CR S4356)
+- 2014-07-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4355-4364; text as passed Senate: CR S4356)
+- 2014-07-10 — Message on Senate action sent to the House.
+- 2014-07-15 — Presented to President.
+- 2014-07-15 — Presented to President.
+- 2014-07-25 — Became Public Law No: 113-136.
+- 2014-07-25 — Became Public Law No: 113-136.
+- 2014-07-25 — Signed by President.
+- 2014-07-25 — Signed by President.
