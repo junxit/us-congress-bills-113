@@ -1,7 +1,7 @@
 ---
 measure: H.R. 862
 congress: 113
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 862
@@ -55,3 +55,12 @@ To authorize the conveyance of two small parcels of land within the boundaries o
 - 2014-04-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-149.
 - 2014-04-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-149.
 - 2014-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 360.
+- 2014-05-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3307-3308)
+- 2014-05-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3307-3308)
+- 2014-05-23 — Message on Senate action sent to the House.
+- 2014-05-23 — Presented to President.
+- 2014-05-23 — Presented to President.
+- 2014-05-24 — Became Public Law No: 113-107.
+- 2014-05-24 — Became Public Law No: 113-107.
+- 2014-05-24 — Signed by President.
+- 2014-05-24 — Signed by President.
