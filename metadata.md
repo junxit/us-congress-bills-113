@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1158
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1158
@@ -40,3 +40,8 @@ North Cascades National Park Service Complex Fish Stocking Act
 - 2013-06-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3267)
 - 2013-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3267)
 - 2013-06-12 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-07-31 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 113-93.
+- 2013-12-19 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2014-04-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-151.
+- 2014-04-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-151.
+- 2014-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 362.
