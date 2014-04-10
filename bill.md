@@ -11,236 +11,183 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Digital Accountability and Transparency Act of 2013”.
+This Act may be cited as the “Digital Accountability and Transparency Act of 2014” or the “DATA Act”.
 
 ## § 2. Purposes
 
 The purposes of this Act are to—
 
-- **(1)** expand the Federal Funding Accountability and Transparency Act of 2006 by disclosing direct Federal agency expenditures and linking Federal contract, loan, and grant spending information to programs of Federal agencies in order to enable taxpayers and policy makers to track Federal spending more effectively;
-- **(2)** provide consistent, reliable, and searchable Government-wide spending data that is displayed accurately for taxpayers and policy makers on USASpending.gov;
-- **(3)** analyze Federal spending data to proactively prevent waste, fraud, abuse, and improper payments;
-- **(4)** simplify reporting for entities receiving Federal funds by streamlining reporting requirements and reducing compliance costs while improving transparency; and
-- **(5)** improve the quality of data submitted to USASpending.gov by holding Federal agencies accountable for the completeness and accuracy of the data submitted.
+- **(1)** expand the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) by disclosing direct Federal agency expenditures and linking Federal contract, loan, and grant spending information to programs of Federal agencies to enable taxpayers and policy makers to track Federal spending more effectively;
+- **(2)** establish Government-wide data standards for financial data and provide consistent, reliable, and searchable Government-wide spending data that is displayed accurately for taxpayers and policy makers on USASpending.gov (or a successor system that displays the data);
+- **(3)** simplify reporting for entities receiving Federal funds by streamlining reporting requirements and reducing compliance costs while improving transparency;
+- **(4)** improve the quality of data submitted to USASpending.gov by holding Federal agencies accountable for the completeness and accuracy of the data submitted; and
+- **(5)** apply approaches developed by the Recovery Accountability and Transparency Board to spending across the Federal Government.
 
 ## § 3. Amendments to the Federal Funding Accountability and Transparency Act of 2006
 
-- **(a)** *In general* Section 2 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended—
-  - **(1)** in the section heading, by striking “Full disclosure of entities receiving Federal funding” and inserting “Disclosure of Federal funding”;
-  - **(2)** in subsection (a)—
-    - **(A)** by redesignating paragraphs (2) and (3) as paragraphs (3) and (7), respectively;
-    - **(B)** by inserting after paragraph (1) the following:
-      > - **(2)** *Federal agency* The term Federal agency has the meaning given the term Executive agency under section 105 of title 5, United States Code.
+The Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended—
 
-    - **(C)** by inserting after paragraph (3), as redesignated by subparagraph (A), the following:
-      > - **(4)** *Federal funds* The term Federal funds means any funds that are made available to or expended by a Federal agency.
+- **(1)** in section 2—
+  - **(A)** in subsection (a)—
+    - **(i)** in the matter preceding paragraph (1), by striking “this section” and inserting “this Act”;
+    - **(ii)** by redesignating paragraphs (1), (2), and (3) as paragraphs (2), (4), and (7), respectively;
+    - **(iii)** by inserting before paragraph (2), as so redesignated, the following:
+      > - **(1)** *Director* The term Director means the Director of the Office of Management and Budget.
+
+    - **(iv)** by inserting after paragraph (2), as so redesignated, the following:
+      > - **(3)** *Federal agency* The term Federal agency has the meaning given the term Executive agency under section 105 of title 5, United States Code.
+
+    - **(v)** by inserting after paragraph (4), as so redesignated, the following:
       > - **(5)** *Object class* The term object class means the category assigned for purposes of the annual budget of the President submitted under section 1105(a) of title 31, United States Code, to the type of property or services purchased by the Federal Government.
       > - **(6)** *Program activity* The term program activity has the meaning given that term under section 1115(h) of title 31, United States Code.
 
-    - **(D)** in paragraph (7), as redesignated by subparagraph (A)—
-      - **(i)** in subparagraph (B), by striking “paragraph (2)(A)(i)” and inserting “paragraph (3)(A)(i)”; and
-      - **(ii)** in subparagraph (C), by striking “paragraph (2)(A)(ii)” and inserting “paragraph (3)(A)(ii)”;
-  - **(3)** in subsection (b)—
-    - **(A)** in paragraph (1)—
-      - **(i)** by striking “the Office of Management and Budget” and inserting “the Secretary of the Treasury” each place it appears;
-      - **(ii)** by redesignating subparagraphs (A) through (G) as clauses (i) through (vii), respectively, and adjusting the margin accordingly;
-      - **(iii)** by striking “for each Federal award—” and inserting the following: “for all Federal funds—
-        > - **(A)** for each Federal agency, component of a Federal agency, appropriations account, program activity, and object class (including any subcomponent of an object class), and other accounts or data as appropriate—
-        >   - **(i)** the amount of budget authority available;
-        >   - **(ii)** the amount obligated;
-        >   - **(iii)** the amount of outlays;
-        >   - **(iv)** the amount of any Federal funds reprogrammed or transferred; and
-        >   - **(v)** the amount of expired and unexpired unobligated balances; and
-        > - **(B)** for each Federal award—
+    - **(vi)** by adding at the end the following:
+      > - **(8)** *Secretary* The term Secretary means the Secretary of the Treasury.
 
-      - **(iv)** in subparagraph (B)(iii), as so designated by this subparagraph, by inserting “, which shall be assigned a unique identifier,” after “information on the award”;
-    - **(B)** in paragraph (3)—
-      - **(i)** by striking “Director of the Office of Management and Budget” and inserting “Secretary of the Treasury”; and
-      - **(ii)** by striking “the Director may” and inserting “the Secretary may”;
-    - **(C)** in paragraph (4)—
-      - **(i)** by striking “Director of the Office of Management and Budget” and inserting “Secretary of the Treasury”;
-      - **(ii)** by striking “the Director upon” and inserting “the Secretary upon”; and
-      - **(iii)** by striking “the Director in” and inserting “the Secretary in”; and
-    - **(D)** by adding at the end the following:
-      > - **(5)** *Application of data standards* The Secretary of the Treasury shall apply the data standards established by the Secretary of the Treasury under subsection (e) to all data collection, data dissemination, and data publication required under this section.
-      > - **(6)** *Data feed to recovery accountability and transparency board* The Secretary of the Treasury shall provide the data described in paragraph (1) to the Recovery Accountability and Transparency Board for inclusion in the Recovery Operations Center described in subsection (h).
-
-  - **(4)** in subsection (c)—
-    - **(A)** in paragraph (1)—
-      - **(i)** in the matter preceding subparagraph (A), by striking “and Grants.gov” and inserting “Grants.gov, the Payment Automation Manager and Federal Information Repository and other data or databases from the Department of the Treasury, the MAX Information System of the Office of Management and Budget, and other data from Federal agencies collected and identified by the Office of Management and Budget”;
-      - **(ii)** in subparagraph (B), by adding “and” at the end; and
-      - **(iii)** by adding at the end the following:
-        > - **(C)** specify such search shall be confined to Federal funds;
-
-    - **(B)** in paragraph (2), by inserting “the Payment Automation Manager and Federal Information Repository and other data or databases from the Department of the Treasury, the MAX Information System of the Office of Management and Budget, other data from Federal agencies collected and identified by the Office of Management and Budget,” after “Grants.gov website,”;
-    - **(C)** in paragraph (4)—
-      - **(i)** by striking “shall be updated not later” and inserting the following: “shall be updated—
-        > - **(A)** not later
-
-      - **(ii)** by adding at the end the following:
-        > - **(B)** not less than once each quarter with information relating to Federal funds;
-
-    - **(D)** in paragraph (5)—
-      - **(i)** by inserting “Federal funds and” before “Federal awards” the first place it appears;
-      - **(ii)** by striking “subsection (a)(2)(A)(i) and those described in subsection (a)(2)(A)(ii)” and inserting “subsection (a)(3)(A)(i) and those described in subsection (a)(3)(A)(ii)”; and
-      - **(iii)** by striking the period at the end and inserting a semicolon; and
-    - **(E)** by adding at the end the following:
+  - **(B)** in subsection (b)—
+    - **(i)** in paragraph (3), by striking “of the Office of Management and Budget”; and
+    - **(ii)** in paragraph (4), by striking “of the Office of Management and Budget”;
+  - **(C)** in subsection (c)—
+    - **(i)** in paragraph (4), by striking “and” at the end;
+    - **(ii)** in paragraph (5), by striking the period at the end and inserting a semicolon; and
+    - **(iii)** by adding at the end the following:
       > - **(6)** shall have the ability to aggregate data for the categories described in paragraphs (1) through (5) without double-counting data; and
-      > - **(7)** shall permit all information published under this section to be downloaded in bulk.
+      > - **(7)** shall ensure that all information published under this section is available—
+      >   - **(A)** in machine-readable and open formats;
+      >   - **(B)** to be downloaded in bulk; and
+      >   - **(C)** to the extent practicable, for automated processing.
 
-  - **(5)** by redesignating subsections (e), (f), and (g) as subsections (i), (j), and (k), respectively; and
-  - **(6)** by inserting after subsection (d) the following:
-    > - **(e)** *Department of the Treasury requirements*
-    >   - **(1)** *Data standards*
-    >     - **(A)** *In general* The Secretary of the Treasury, in consultation with the Director of the Office of Management and Budget, the Administrator of General Services, and the heads of Federal agencies, shall establish Government-wide financial data standards for Federal funds, which shall—
-    >       - **(i)** include common data elements, such as codes, unique award identifiers, and fields, for financial and payment information required to be reported by Federal agencies and entities receiving Federal funds, including identifiers for Federal awards and entities receiving Federal awards;
-    >       - **(ii)** to the extent reasonable and practicable, ensure interoperability and incorporate—
-    >         - **(I)** common data elements developed and maintained by an international voluntary consensus standards body, as defined by the Office of Management and Budget, such as the International Organization for Standardization;
-    >         - **(II)** common data elements developed and maintained by Federal agencies with authority over contracting and financial assistance, such as the Federal Acquisition Regulatory Council; and
-    >         - **(III)** common data elements developed and maintained by accounting standards organizations; and
-    >       - **(iii)** include data reporting standards that—
-    >         - **(I)** incorporate a widely accepted, nonproprietary, searchable, platform-independent computer-readable format;
-    >         - **(II)** be consistent with and implement applicable accounting principles;
-    >         - **(III)** be capable of being continually upgraded as necessary;
-    >         - **(IV)** are structured to specifically support the reporting of financial and performance-related data, such as that any data produced, regardless of reporting need or software used for creation or consumption, is consistent and comparable across reporting situations;
-    >         - **(V)** establish, for each data point, a standard method of conveying the reporting period, reporting entity, unit of measure, and other associated attributes; and
-    >         - **(VI)** incorporate nonproprietary standards in effect on the date of enactment of the Digital Accountability and Transparency Act of 2013.
-    >     - **(B)** *Deadlines*
-    >       - **(i)** *Guidance* The Secretary of the Treasury, in consultation with the Director of the Office of Management and Budget, shall issue guidance on the data standards established under subparagraph (A) to Federal agencies not later than 1 year after the date of enactment of the Digital Accountability and Transparency Act of 2013.
-    >       - **(ii)** *Website* Not later than 1 year after the date on which the guidance under clause (i) is issued, the Director of the Office of Management and Budget shall ensure that the website required under this section makes data publically available in accordance with the data standards established under subparagraph (A).
-    >       - **(iii)** *Agencies* Not later than 180 days after the date on which the guidance under clause (i) is issued, each Federal agency shall collect, report, and maintain data in accordance with the data standards established under subparagraph (A).
-    >     - **(C)** *Consultation* The Secretary of the Treasury shall consult with public and private stakeholders in establishing data standards under this paragraph.
-    >   - **(2)** *Improper payment prevention*
-    >     - **(A)** *In general* The Secretary of the Treasury, in consultation with the heads and Inspectors General of Federal agencies, shall use the data to which the data standards established under paragraph (1) apply and other available data (including available data from State and local governments) to detect, prevent, and recover improper payments through pre-award, post-award pre-payment, and post-payment analysis, which shall include analysis and investigations incorporating—
-    >       - **(i)** review and data matching of payments and beneficiary enrollment lists of State programs carried out using Federal funds for the purposes of identifying eligibility duplication, residency ineligibility, duplicate payments, or other potential improper payment issues;
-    >       - **(ii)** review of multiple Federal agencies and programs for which comparison of data could show payment duplication; and
-    >       - **(iii)** review of other information the Secretary of the Treasury determines are effective, which may include investigation or review of information from multiple Federal agencies or programs.
-    >     - **(B)** *Report* Not later than 180 days after the date of enactment of the Digital Accountability and Transparency Act of 2013, the Secretary of the Treasury shall submit to Congress a report, which may be included as part of another report submitted to Congress, which shall include a description of—
-    >       - **(i)** the implementation of the fraud prevention efforts described under subparagraph (A); and
-    >       - **(ii)** the metrics used in determining whether the fraud prevention efforts have reduced, or contributed to the reduction of, improper payments or improper awards.
-    >   - **(3)** *Improvements to access to data*
-    >     - **(A)** *In general* In order to carry out this Act, upon request by the Secretary of the Treasury—
-    >       - **(i)** the Commissioner of Social Security shall make available the Social Security earnings information of a living or deceased employee;
-    >       - **(ii)** the Director of the Bureau of Prisons shall make available information relating to Federal prisoners; and
-    >       - **(iii)** the Secretary of Housing and Urban Development shall make available information in the Credit Alert Verification System of the Department of Housing and Urban Development.
-    >     - **(B)** *Use and protection of information* The Secretary of the Treasury—
-    >       - **(i)** may only use information obtained under subparagraph (A) to assist in Federal debt collection and in the prevention, identification or recovery of improper payments; and
-    >       - **(ii)** shall ensure that data to which the data standards established under paragraph (1) apply is adequately protected and collected in a manner consistent with privacy protections provided for by law.
-    > - **(f)** *Consolidated recipient financial reports* The Director of the Office of Management and Budget shall—
-    >   - **(1)** review the financial reporting required by Federal agencies for Federal award recipients to reduce duplicative financial reporting and compliance costs for recipients;
-    >   - **(2)** request input from Federal award recipients to reduce duplicative financial reporting, especially from State and local governments and institutes of higher education;
-    >   - **(3)** not later than 1 year after the date of enactment of the Digital Accountability and Transparency Act of 2013, provide instructions to the heads of Federal agencies regarding how to simplify the reporting requirements for Federal award recipients to reduce duplicative reporting and reports to reduce compliance costs, as appropriate; and
-    >   - **(4)** not later than 18 months after the date of enactment of the Digital Accountability and Transparency Act of 2013, submit to Congress a report regarding any legislative action required to streamline the reporting requirements for Federal award recipients.
-    > - **(g)** *Accountability for Federal funding*
-    >   - **(1)** *In general* Not later than 1 year after the date of enactment of the Digital Accountability and Transparency Act of 2013, and every 2 years thereafter until the date that is 6 years after such date of enactment, the Inspector General of each Federal agency, in consultation with the Comptroller General of the United States, shall review a sampling of the spending data submitted under this Act by the Federal agency and shall submit to Congress and make publically available a report in on the completeness, timeliness, quality, and accuracy of the data sampled and the implementation and use of consistent data standards by the Federal agency.
-    >   - **(2)** *Comptroller General*
-    >     - **(A)** *In general* Not later than 2 years after the date of enactment of the Digital Accountability and Transparency Act of 2013, and every 2 years thereafter until the date that is 6 years after such date of enactment, and after review of the reports submitted under paragraph (1), the Comptroller General of the United States shall submit to Congress and make publically available a report on the data completeness, timeliness, quality, and accuracy of the data submitted under this Act by each Federal agency and the implementation and use of consistent data standards by each Federal agency.
-    >     - **(B)** *Ranking* The Comptroller General of the United States shall make available a ranking of Federal agencies regarding data quality, accuracy, and compliance with this Act.
-    > - **(h)** *Recovery Accountability and Transparency Board*
-    >   - **(1)** *Resources and mechanisms* The Recovery Accountability and Transparency Board shall develop and test information technology resources and oversight mechanisms to enhance the transparency of, and detect and remediate waste, fraud, and abuse in, Federal spending for Inspectors General.
-    >   - **(2)** *Website* The Recovery Accountability and Transparency Board shall maintain a website informing the public of the activities of the Recovery Accountability and Transparency Board to identify waste, fraud, and abuse and increase transparency of Federal spending to provide analytical support for Inspectors General.
-    >   - **(3)** *Recovery Operations Center* The Recovery Accountability and Transparency Board shall establish and maintain a Recovery Operations Center as a governmentwide Internet-based data access system to carry out the functions described in paragraph (4).
-    >   - **(4)** *Functions of the Recovery Operations Center* The functions described in this paragraph are the following:
-    >     - **(A)** *In general* The Recovery Operations Center shall incorporate—
-    >       - **(i)** all information described in subsection (b)(1);
-    >       - **(ii)** other information maintained by Federal, State, local, and foreign government agencies; and
-    >       - **(iii)** other commercially and publicly available information.
-    >     - **(B)** *Specific functions* The Recovery Operations Center shall be designed and operated to carry out the following functions:
-    >       - **(i)** Combine information described in subsection (b)(1) with other compilations of information, including those listed in subparagraph (A).
-    >       - **(ii)** Permit Inspectors Generals, in accordance with applicable law, to detect and remediate waste, fraud, and abuse.
+  - **(D)** in subsection (d)—
+    - **(i)** in paragraph (1)(A), by striking “of the Office of Management and Budget”;
+    - **(ii)** in paragraph (2)—
+      - **(I)** in subparagraph (A), by striking “of the Office of Management and Budget”; and
+      - **(II)** in subparagraph (B), by striking “of the Office of Management and Budget”;
+  - **(E)** in subsection (e), by striking “of the Office of Management and Budget”; and
+  - **(F)** in subsection (g)—
+    - **(i)** in paragraph (1), by striking “of the Office of Management and Budget”; and
+    - **(ii)** in paragraph (3), by striking “of the Office of Management and Budget”; and
+- **(2)** by striking sections 3 and 4 and inserting the following:
+  > ## § 3. Full disclosure of Federal Funds
+  >
+  > - **(a)** *In general* Not later than 3 years after the date of enactment of the Digital Accountability and Transparency Act of 2014, and monthly when practicable but not less than quarterly thereafter, the Secretary, in consultation with the Director, shall ensure that the information in subsection (b) is posted on the website established under section 2.
+  > - **(b)** *Information To be posted* For any funds made available to or expended by a Federal agency or component of a Federal agency, the information to be posted shall include—
+  >   - **(1)** for each appropriations account, including an expired or unexpired appropriations account, the amount—
+  >     - **(A)** of budget authority appropriated;
+  >     - **(B)** that is obligated;
+  >     - **(C)** of unobligated balances; and
+  >     - **(D)** of any other budgetary resources;
+  >   - **(2)** from which accounts and in what amount—
+  >     - **(A)** appropriations are obligated for each program activity; and
+  >     - **(B)** outlays are made for each program activity;
+  >   - **(3)** from which accounts and in what amount—
+  >     - **(A)** appropriations are obligated for each object class; and
+  >     - **(B)** outlays are made for each object class; and
+  >   - **(4)** for each program activity, the amount—
+  >     - **(A)** obligated for each object class; and
+  >     - **(B)** of outlays made for each object class.
+  >
+  > ## § 4. Data standards
+  >
+  > - **(a)** *In general*
+  >   - **(1)** *Establishment of standards* The Secretary and the Director, in consultation with the heads of Federal agencies, shall establish Government-wide financial data standards for any Federal funds made available to or expended by Federal agencies and entities receiving Federal funds.
+  >   - **(2)** *Data elements* The financial data standards established under paragraph (1) shall include common data elements for financial and payment information required to be reported by Federal agencies and entities receiving Federal funds.
+  > - **(b)** *Requirements* The data standards established under subsection (a) shall, to the extent reasonable and practicable—
+  >   - **(1)** incorporate widely accepted common data elements, such as those developed and maintained by—
+  >     - **(A)** an international voluntary consensus standards body;
+  >     - **(B)** Federal agencies with authority over contracting and financial assistance; and
+  >     - **(C)** accounting standards organizations;
+  >   - **(2)** incorporate a widely accepted, nonproprietary, searchable, platform-independent computer-readable format;
+  >   - **(3)** include unique identifiers for Federal awards and entities receiving Federal awards that can be consistently applied Government-wide;
+  >   - **(4)** be consistent with and implement applicable accounting principles;
+  >   - **(5)** be capable of being continually upgraded as necessary;
+  >   - **(6)** produce consistent and comparable data, including across program activities; and
+  >   - **(7)** establish a standard method of conveying the reporting period, reporting entity, unit of measure, and other associated attributes.
+  > - **(c)** *Deadlines*
+  >   - **(1)** *Guidance* Not later than 1 year after the date of enactment of the Digital Accountability and Transparency Act of 2014, the Director and the Secretary shall issue guidance to Federal agencies on the data standards established under subsection (a).
+  >   - **(2)** *Agencies*
+  >     - **(A)** *In general* Except as provided in subparagraph (B), not later than 2 years after the date on which the guidance under paragraph (1) is issued, each Federal agency shall report financial and payment information data in accordance with the data standards established under subsection (a).
+  >     - **(B)** *Noninterference with auditability of Department of Defense financial statements*
+  >       - **(i)** *In general* Upon request by the Secretary of Defense, the Director may grant an extension of the deadline under subparagraph (A) to the Department of Defense for a period of not more than 6 months to report financial and payment information data in accordance with the data standards established under subsection (a).
+  >       - **(ii)** *Limitation* The Director may not grant more than 3 extensions to the Secretary of Defense under clause (i).
+  >       - **(iii)** *Notification* The Director of the Office of Management and Budget shall notify the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate and the Committee on Oversight and Government Reform and the Committee on Armed Services of the House of Representatives of—
+  >         - **(I)** each grant of an extension under clause (i); and
+  >         - **(II)** the reasons for granting such an extension.
+  >   - **(3)** *Website* Not later than 3 years after the date on which the guidance under paragraph (1) is issued, the Director and the Secretary shall ensure that the data standards established under subsection (a) are applied to the data made available on the website established under section 2.
+  > - **(d)** *Consultation* The Director and the Secretary shall consult with public and private stakeholders in establishing data standards under this section.
+  >
+  > ## § 5. Simplifying Federal award reporting
+  >
+  > - **(a)** *In general* The Director, in consultation with relevant Federal agencies, recipients of Federal awards, including State and local governments, and institutions of higher education (as defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002)), shall review the information required to be reported by recipients of Federal awards to identify—
+  >   - **(1)** common reporting elements across the Federal Government;
+  >   - **(2)** unnecessary duplication in financial reporting; and
+  >   - **(3)** unnecessarily burdensome reporting requirements for recipients of Federal awards.
+  > - **(b)** *Pilot program*
+  >   - **(1)** *Establishment* Not later than 1 year after the date of enactment of the Digital Accountability and Transparency Act of 2014, the Director, or a Federal agency designated by the Director, shall establish a pilot program (in this section referred to as the “pilot program”) with the participation of appropriate Federal agencies to facilitate the development of recommendations for—
+  >     - **(A)** standardized reporting elements across the Federal Government;
+  >     - **(B)** the elimination of unnecessary duplication in financial reporting; and
+  >     - **(C)** the reduction of compliance costs for recipients of Federal awards.
+  >   - **(2)** *Requirements* The pilot program shall—
+  >     - **(A)** include a combination of Federal contracts, grants, and subawards, the aggregate value of which is not less than $1,000,000,000 and not more than $2,000,000,000;
+  >     - **(B)** include a diverse group of recipients of Federal awards; and
+  >     - **(C)** to the extent practicable, include recipients who receive Federal awards from multiple programs across multiple agencies.
+  >   - **(3)** *Data collection* The pilot program shall include data collected during a 12-month reporting cycle.
+  >   - **(4)** *Reporting and evaluation requirements* Each recipient of a Federal award participating in the pilot program shall submit to the Office of Management and Budget or the Federal agency designated under paragraph (1), as appropriate, any requested reports of the selected Federal awards.
+  >   - **(5)** *Termination* The pilot program shall terminate on the date that is 2 years after the date on which the pilot program is established.
+  >   - **(6)** *Report to Congress* Not later than 90 days after the date on which the pilot program terminates under paragraph (5), the Director shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on the Budget of the Senate and the Committee on Oversight and Government Reform and the Committee on the Budget of the House of Representatives a report on the pilot program, which shall include—
+  >     - **(A)** a description of the data collected under the pilot program, the usefulness of the data provided, and the cost to collect the data from recipients; and
+  >     - **(B)** a discussion of any legislative action required and recommendations for—
+  >       - **(i)** consolidating aspects of Federal financial reporting to reduce the costs to recipients of Federal awards;
+  >       - **(ii)** automating aspects of Federal financial reporting to increase efficiency and reduce the costs to recipients of Federal awards;
+  >       - **(iii)** simplifying the reporting requirements for recipients of Federal awards; and
+  >       - **(iv)** improving financial transparency.
+  >   - **(7)** *Government-wide implementation* Not later than 1 year after the date on which the Director submits the report under paragraph (6), the Director shall issue guidance to the heads of Federal agencies as to how the Government-wide financial data standards established under section 4(a) shall be applied to the information required to be reported by entities receiving Federal awards to—
+  >     - **(A)** reduce the burden of complying with reporting requirements; and
+  >     - **(B)** simplify the reporting process, including by reducing duplicative reports.
+  >
+  > ## § 6. Accountability for Federal funding
+  >
+  > - **(a)** *Inspector general reports*
+  >   - **(1)** *In general* In accordance with paragraph (2), the Inspector General of each Federal agency, in consultation with the Comptroller General of the United States, shall—
+  >     - **(A)** review a statistically valid sampling of the spending data submitted under this Act by the Federal agency; and
+  >     - **(B)** submit to Congress and make publically available a report assessing the completeness, timeliness, quality, and accuracy of the data sampled and the implementation and use of data standards by the Federal agency.
+  >   - **(2)** *Deadlines*
+  >     - **(A)** *First report* Not later than 18 months after the date on which the Director and the Secretary issue guidance to Federal agencies under section 4(c)(1), the Inspector General of each Federal agency shall submit and make publically available a report as described in paragraph (1).
+  >     - **(B)** *Subsequent reports* On the same date as the Inspector General of each Federal agency submits the second and fourth reports under sections 3521(f) and 9105(a)(3) of title 31, United States Code, that are submitted after the report under subparagraph (A), the Inspector General shall submit and make publically available a report as described in paragraph (1). The report submitted under this subparagraph may be submitted as a part of the report submitted under section 3521(f) or 9105(a)(3) of title 31, United States Code.
+  > - **(b)** *Comptroller general reports*
+  >   - **(1)** *In general* In accordance with paragraph (2) and after a review of the reports submitted under subsection (a), the Comptroller General of the United States shall submit to Congress and make publically available a report assessing and comparing the data completeness, timeliness, quality, and accuracy of the data submitted under this Act by Federal agencies and the implementation and use of data standards by Federal agencies.
+  >   - **(2)** *Deadlines* Not later than 30 months after the date on which the Director and the Secretary issue guidance to Federal agencies under section 4(c)(1), and every 2 years thereafter until the date that is 4 years after the date on which the first report is submitted under this subsection, the Comptroller General of the United States shall submit and make publically available a report as described in paragraph (1).
+  > - **(c)** *Recovery Accountability and Transparency Board Data Analysis Center*
+  >   - **(1)** *In general* The Secretary may establish a data analysis center or expand an existing service to provide data, analytic tools, and data management techniques to support—
+  >     - **(A)** the prevention and reduction of improper payments by Federal agencies; and
+  >     - **(B)** improving efficiency and transparency in Federal spending.
+  >   - **(2)** *Data availability* The Secretary shall enter into memoranda of understanding with Federal agencies, including Inspectors General and Federal law enforcement agencies—
+  >     - **(A)** under which the Secretary may provide data from the data analysis center for—
+  >       - **(i)** the purposes set forth under paragraph (1);
+  >       - **(ii)** the identification, prevention, and reduction of waste, fraud, and abuse relating to Federal spending; and
+  >       - **(iii)** use in the conduct of criminal and other investigations; and
+  >     - **(B)** which may require the Federal agency, Inspector General, or Federal law enforcement agency to provide reimbursement to the Secretary for the reasonable cost of carrying out the agreement.
+  >   - **(3)** *Transfer* Upon the establishment of a data analysis center or the expansion of a service under paragraph (1), and on or before the date on which the Recovery Accountability and Transparency Board terminates, and in addition to any other transfer that the Director determines is necessary under section 1531 of title 31, United States Code, there are transferred to the Department of the Treasury all assets identified by the Secretary that support the operations and activities of the Recovery Operations Center of the Recovery Accountability and Transparency Board relating to the detection of waste, fraud, and abuse in the use of Federal funds that are in existence on the day before the transfer.
+  >
+  > ## § 7. Classified and protected information
+  >
+  > Nothing in this Act shall require the disclosure to the public of—
+  >
+  > - **(1)** information that would be exempt from disclosure under section 552 of title 5, United States Code (commonly known as the “Freedom of Information Act”); or
+  > - **(2)** information protected under section 552a of title 5, United States Code (commonly known as the “Privacy Act of 1974”), or section 6103 of the Internal Revenue Code of 1986.
+  >
+  > ## § 8. No private right of action
+  >
+  > -  Nothing in this Act shall be construed to create a private right of action for enforcement of any provision of this Act.
 
-## § 4. Pilot program to evaluate consolidated recipient reporting
+## § 4. Executive agency accounting and other financial management reports and plans
 
-- **(a)** *In general* Not later than 90 days after the date of enactment of this Act, the Recovery Accountability and Transparency Board, in consultation with the Secretary of the Treasury and the Director of the Office of Management, shall establish a pilot program relating to reporting by recipients of Federal funds (in this section referred to as the “pilot program”) for the purpose of increasing financial transparency to—
-  - **(1)** display the full cycle of Federal funds;
-  - **(2)** improve the accuracy of Federal financial data; and
-  - **(3)** develop recommendations for reducing reporting required of recipients of Federal funds by consolidating and automating financial reporting requirements across the Federal Government.
-- **(b)** *Requirements* The pilot program shall—
-  - **(1)** include recipients that collectively receive not less than $1,000,000,000 in Federal funds each fiscal year;
-  - **(2)** include recipients that receive Federal funds under multiple programs across multiple agencies; and
-  - **(3)** include recipients that collectively receive Federal funds under contracts, grants, and subawards.
-- **(c)** *Reporting and evaluation requirements* Each recipient of Federal funds participating in the pilot program shall submit to the Recovery Accountability and Transparency Board reports on the finances of the selected Federal awards.
-- **(d)** *Publication of information* All the information collected by the Recovery Accountability and Transparency Board under the pilot program shall be made publicly available and searchable on the website established under section 2 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note).
-- **(e)** *Termination* The pilot program shall terminate on the date that is 3 years after the date on which the Recovery Accountability and Transparency Board establishes the pilot program.
-- **(f)** *Report to Congress* Not later than 90 days after the date on which the pilot program terminates under subsection (e), the Recovery Accountability and Transparency Board shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on the Budget of the Senate and the Committee on Oversight and Government Reform and the Committee on the Budget of the House of Representatives a report on the pilot program, which shall include—
-  - **(1)** a description of financial data collected under the pilot program, the accuracy of the data provided, and the cost to collect the data from recipients; and
-  - **(2)** recommendations for—
-    - **(A)** consolidating some or all aspects of Federal financial reporting to reduce the costs to recipients of Federal funds;
-    - **(B)** automating some or all aspects of Federal financial reporting to increase efficiency and reduce the costs to recipients of Federal funds; and
-    - **(C)** improving financial transparency.
+Section 3512(a)(1) of title 31, United States Code, is amended by inserting “and make available on the website described under section 1122” after “appropriate committees of Congress”.
 
-## § 5. Classified and protected information
+## § 5. Debt collection improvement
 
-Section 3 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended to read as follows:
+Section 3716(c)(6) of title 31, United States Code, is amended—
 
-> ## § 3. Classified and protected information
->
-> Nothing in this Act shall require the disclosure to the public or to any person without an identifiable need to know—
->
-> - **(1)** information protected under section 552 of title 5, United States Code (commonly known as the ‘Freedom of Information Act’); or
-> - **(2)** information protected under section 552a of title 5, United States Code (commonly known as the “Privacy Act of 1974”), or section 6103 of the Internal Revenue Code of 1986.
-
-## § 6. Expanding access by the Secretary of the Treasury to the National Directory of New Hires
-
-Section 453(j)(9) of the Social Security Act (42 U.S.C. 653(j)(9)) is amended—
-
-- **(1)** in the paragraph heading, by inserting “and in the prevention, identification, and recovery of improper payments” after “collection”;
-- **(2)** in subparagraph (A)—
-  - **(A)** in the matter preceding clause (i), by striking “with respect to persons—” and inserting “to assist in Federal debt collection and in the prevention, identification, or recovery of improper payments with respect to—”;
-  - **(B)** by striking “who owe” and inserting the following: “persons—
-    > - **(I)** who owe
-
-  - **(C)** by striking “31 U.S.C. 3711(g).” and inserting “section 3711(g) of title 31, United States Code; or”;
-  - **(D)** redesignating clause (ii) as subclause (II), and adjusting the margin accordingly; and
-  - **(E)** by adding at the end the following:
-    > - **(ii)** persons—
-    >   - **(I)** who receive a payment the head of a Federal executive, judicial, or legislative agency certifies is under review to determine the eligibility of the person to receive the payment; or
-    >   - **(II)** whose eligibility, or continuing eligibility, to participate in a program of the Federal Government (including a program administered by a State or local government) is being reviewed.
-
-- **(3)** in subparagraph (B), by striking “to improve collection of the debt” and inserting “for the purposes”;
-- **(4)** in subparagraph (D), by striking “of collecting the debt”;
-- **(5)** in subparagraph (E)—
-  - **(A)** in clause (i), by striking “of collecting the debt”;
-  - **(B)** in clause (ii), by inserting “and to a Federal, State, or local agency in connection with preventing, identifying, or recovering improper payments as described in subparagraph (A)” before the period at the end;
-  - **(C)** in clause (iv)(II), by striking “described in subparagraph (A),” and all that follows and inserting “, in connection with a purpose described in subparagraph (A), to a contractor or agent of either Secretary, to the Federal agency (including any contractor or agent of the Federal agency) that referred a debt to the Secretary of the Treasury for collection, or to a Federal, State, or local agency (including any contractor or agent of any such agency) for purposes of preventing, identifying, or recovering improper payments, subject to the conditions in clause (iii) and such additional conditions as agreed by the Secretaries.”; and
-  - **(D)** in clause (v), by striking “collecting the debt” and inserting “the purposes”; and
-- **(6)** in subparagraph (F), by adding at the end the following: “The Secretary of the Treasury shall reimburse the Secretary for any costs attributable to the prevention, identification, or recovery of improper payments out of any appropriation available to the Secretary of the Treasury for this purpose.”.
-
-## § 7. American Recovery and Reinvestment Act of 2009 amendments
-
-Title XV of division A of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5; 123 Stat. 286) is amended—
-
-- **(1)** in section 1501, by striking paragraph (4) and inserting the following:
-  > - **(4)** *Covered funds* The term covered funds—
-  >   - **(A)** except as provided in subparagraph (B), means any funds that are expended or obligated from appropriations made under this Act; and
-  >   - **(B)** for purposes of sections 1522 and 1524, means funds that are expended or obligated by an agency from appropriations made under this or any other Act.
-
-- **(2)** in section 1512, by adding at the end the following:
-  > - **(i)** *Expiration* The requirements under this section shall terminate on September 30, 2013.
-
-- **(3)** in section 1523, by adding at the end the following:
-  > - **(d)** *Expiration* The requirements under this section shall terminate on September 30, 2013.
-
-- **(4)** in section 1526, by adding at the end the following:
-  > - **(e)** *Expiration* The requirements under this section shall terminate on September 30, 2013.
-
-- **(5)** in section 1530, by striking “September 30, 2013,” and inserting “September 30, 2017.”.
-
-## § 8. Disaster Relief Appropriations Act of 2013 amendments
-
-Section 904(d) of division A of the Disaster Relief Appropriations Act of 2013 (Public Law 113–2; 127 Stat. 18) is amended in section 904(d)—
-
-- **(1)** by striking “for purposes related to the impact of Hurricane Sandy”;
-- **(2)** by striking “related to the impact of Hurricane Sandy” after “receiving appropriations”; and
-- **(3)** by striking “related to funds appropriated for the impact of Hurricane Sandy” after “on its activities”.
-
-## § 9. Executive agency accounting and other financial management reports and plans
-
-Section 3512(a) of title 31, United States Code, is amended—
-
-- **(1)** in paragraph (1), by inserting “and make available on the website described under section 1122” after “appropriate committees of Congress”;
-- **(2)** in paragraph (3)(B)(vi), by inserting “, system development, financial management workforce development, related risk assessment and mitigation for the Federal Government as a whole, related risk assessment and mitigation for executive agencies, development of capacity to prevent and detect fraud,” after “equipment acquisitions”; and
-- **(3)** in paragraph (4), by adding at the end the following:
-  > - **(C)** Not later than 90 days after the date of enactment of the Digital Accountability and Transparency Act of 2013, and every 90 days thereafter, the Director shall make available on the website described under section 1122 a report regarding—
-  >   - **(i)** specific goals for the most recent full fiscal year, the fiscal year during which the report is submitted, and the fiscal year following the year during which the report is submitted that are necessary steps toward implementing the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) fully and in an effective, efficient, and accurate manner; and
-  >   - **(ii)** the status and progress achieved toward each goal described in clause (i), including any changes to the cost, schedule, or performance baselines of achieving each goal, using earned value management where appropriate.
+- **(1)** by inserting “(A)” before “Any Federal agency”;
+- **(2)** in subparagraph (A), as so designated, by striking “180 days” and inserting “120 days”; and
+- **(3)** by adding at the end the following:
+  > - **(B)** The Secretary of the Treasury shall notify Congress of any instance in which an agency fails to notify the Secretary as required under subparagraph (A).

@@ -1,7 +1,7 @@
 ---
 measure: S. 994
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 994
@@ -16,7 +16,7 @@ DATA Act
 
 - Sen. Warner, Mark R. [D-VA] (W000805)
 
-## Cosponsors (10)
+## Cosponsors (13)
 
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
@@ -28,6 +28,9 @@ DATA Act
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Portman, Rob [R-OH] (P000449)
 
 ## Committees (1)
 
@@ -41,3 +44,19 @@ DATA Act
 - 2014-03-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. With written report No. 113-139.
 - 2014-03-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. With written report No. 113-139.
 - 2014-03-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 337.
+- 2014-04-10 — Amendment SA 2970 agreed to in Senate by Unanimous Consent.
+- 2014-04-10 — Amendment SA 2970 proposed by Senator Warner for Senator Carper. (consideration: CR S2359) In the nature of a substitute.
+- 2014-04-10 — Amendment SA 2971 agreed to in Senate by Unanimous Consent.
+- 2014-04-10 — Amendment SA 2971 proposed by Senator Warner for Senator Carper to Amendment SA 2970. (consideration: CR S2359; text: CR S2359) To allow the Secretary of Defense to request an extension to report financial and payment information data.
+- 2014-04-10 — Measure laid before Senate by unanimous consent. (consideration: CR S2359-2362)
+- 2014-04-10 — Message on Senate action sent to the House.
+- 2014-04-10 — Passed Senate with an amendment by Unanimous Consent. (text: CR S2359-2361)
+- 2014-04-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S2359-2361)
+- 2014-04-10 — Senate amendment agreed to: Amendment SA 2970 agreed to in Senate by Unanimous Consent.
+- 2014-04-10 — Senate amendment agreed to: Amendment SA 2970 agreed to in Senate by Unanimous Consent.
+- 2014-04-10 — Senate amendment agreed to: Amendment SA 2971 agreed to in Senate by Unanimous Consent.
+- 2014-04-10 — Senate amendment proposed (on the floor): Amendment SA 2970 proposed by Senator Warner for Senator Carper.(consideration: CR S2359)
+- 2014-04-10 — Senate amendment proposed (on the floor): Amendment SA 2971 proposed by Senator Warner for Senator Carper to Amendment SA 2970.(consideration: CR S2359; text: CR S2359)
+- 2014-04-10 — Senate amendment submitted
+- 2014-04-10 — Senate amendment submitted
+- 2014-04-10 — The committee substitute was withdrawn by Unanimous Consent.
