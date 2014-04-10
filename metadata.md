@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4032
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4032
@@ -32,3 +32,15 @@ North Texas Invasive Species Barrier Act of 2014
 - 2014-02-11 — Introduced in House
 - 2014-02-11 — Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2014-02-11 — Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-02-12 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2014-02-19 — Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.
+- 2014-02-27 — Subcommittee Hearings Held.
+- 2014-03-13 — Committee Consideration and Mark-up Session Held.
+- 2014-03-13 — Ordered to be Reported by Unanimous Consent.
+- 2014-03-13 — Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.
+- 2014-04-08 — Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.
+- 2014-04-10 — Committee on the Judiciary discharged.
+- 2014-04-10 — Committee on the Judiciary discharged.
+- 2014-04-10 — Placed on the Union Calendar, Calendar No. 304.
+- 2014-04-10 — Reported by the Committee on Natural Resources. H. Rept. 113-413, Part I.
+- 2014-04-10 — Reported by the Committee on Natural Resources. H. Rept. 113-413, Part I.
