@@ -1,0 +1,18 @@
+---
+legis-num: S. 2249
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2249
+
+> To amend the Indian Tribal Judgment Funds Use or Distribution Act to extend a certain income tax exemption to the Grand Portage Band of Lake Superior Chippewa Indians.
+
+## § 1. Short title
+
+This Act may be cited as the “Grand Portage Band Per Capita Adjustment Act”.
+
+## § 2. Equal treatment of certain per capita income for purposes of Federal assistance
+
+Section 7(4) of the Indian Tribal Judgment Funds Use or Distribution Act (25 U.S.C. 1407(4)) is amended by striking “pursuant to the agreements of such Band to voluntarily restrict tribal rights to hunt and fish in territory cede” and inserting “or the Grand Portage Band of Lake Superior Chippewa Indians, or both, pursuant to the agreements of each band to voluntarily restrict tribal rights to hunt and fish in territory ceded”.
