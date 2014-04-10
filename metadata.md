@@ -1,7 +1,7 @@
 ---
 measure: S. 994
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 994
@@ -60,3 +60,16 @@ DATA Act
 - 2014-04-10 — Senate amendment submitted
 - 2014-04-10 — Senate amendment submitted
 - 2014-04-10 — The committee substitute was withdrawn by Unanimous Consent.
+- 2014-04-28 — Considered under suspension of the rules. (consideration: CR H3203-3207)
+- 2014-04-28 — DEBATE - The House proceeded with forty minutes of debate on S. 994.
+- 2014-04-28 — Held at the desk.
+- 2014-04-28 — Mr. Issa moved to suspend the rules and pass the bill.
+- 2014-04-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3203-3205)
+- 2014-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3203-3205)
+- 2014-04-28 — Received in the House.
+- 2014-04-30 — Presented to President.
+- 2014-04-30 — Presented to President.
+- 2014-05-09 — Became Public Law No: 113-101.
+- 2014-05-09 — Became Public Law No: 113-101.
+- 2014-05-09 — Signed by President.
+- 2014-05-09 — Signed by President.
