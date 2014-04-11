@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 96
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.Con.Res. 96
@@ -16,9 +16,10 @@ Establishing the budget for the United States Government for fiscal year 2015 an
 
 - Rep. Ryan, Paul [R-WI-1] (R000570)
 
-## Committees (1)
+## Committees (2)
 
 - House — Budget Committee
+- Senate — Budget Committee
 
 ## Recorded votes (6)
 
@@ -112,3 +113,7 @@ Establishing the budget for the United States Government for fiscal year 2015 an
 - 2014-04-10 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2014-04-10 — The House rose from the Committee of the Whole House on the state of the Union to report H. Con. Res. 96.
 - 2014-04-10 — The previous question was ordered without objection. (consideration: CR H3183)
+- 2014-04-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 365.
+- 2014-04-11 — Received in the Senate and referred to the Committee on the Budget.
+- 2014-04-11 — Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act.
+- 2014-04-11 — Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act.
