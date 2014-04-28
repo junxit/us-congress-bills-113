@@ -14,7 +14,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(a)** *Short title* This section may be cited as the “Prison Ship Martyrs’ Monument Preservation Act”.
 - **(b)** *Study*
   - **(1)** *In general* The Secretary of the Interior shall complete a study to determine the suitability and feasibility of designating the Prison Ship Martyrs’ Monument in Fort Greene Park, in the New York City borough of Brooklyn, as a unit of the National Park System.
-  - **(2)** *Applicable law* The study required under this subsection shall be conducted in accordance with section 8(c) of the National Park System General Authorities Act (16 U.S.C. 1a-5(c)).
+  - **(2)** *Applicable law* The study required under this subsection shall be conducted in accordance with section 8(c) of the National Park System General Authorities Act (16 U.S.C. 1a–5(c)).
   - **(3)** *Content of study* The study shall include—
     - **(A)** an analysis of operational issues that should be considered if the Prison Ship Martyrs’ Monument were to be designated as a unit of the National Park System;
     - **(B)** an analysis of the feasibility of administering the Prison Ships Martyrs’ Monument, considering its size, configuration, and other factors, including an annual cost estimate;
