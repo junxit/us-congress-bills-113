@@ -13,6 +13,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “North Texas Invasive Species Barrier Act of 2014”.
 
-## § 2. Compliance with Lacey Act Amendment of 1981
+## § 2. Compliance with Lacey Act Amendments of 1981
 
-The Lacey Act Amendments of 1981 (16 U.S.C. 3371 et seq.) and section 42 of title 18, United States Code, shall not apply with respect to any water transfer by the North Texas Municipal Water District and the Greater Texoma Utility Authority using only closed conveyance systems from the Lake Texoma raw water intake structure to treatment facilities at which all genera and species prohibited in accordance with such Act or such section, respectively, are extirpated and removed from the water transferred.
+Section 5 of Public Law 112–237 (126 Stat. 1629) is amended by inserting after “zebra mussels” the following: “and other fish, wildlife, and plants present in Lake Texoma that are prohibited under section 3 of such Act (16 U.S.C. 3372) or under section 42 of title 18, United States Code”.
