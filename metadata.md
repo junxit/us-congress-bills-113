@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4194
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4194
@@ -30,3 +30,13 @@ Government Reports Elimination Act of 2014
 - 2014-03-11 — Introduced in House
 - 2014-03-11 — Introduced in House
 - 2014-03-11 — Referred to the House Committee on Oversight and Government Reform.
+- 2014-03-12 — Committee Consideration and Mark-up Session Held.
+- 2014-03-12 — Ordered to be Reported by Voice Vote.
+- 2014-04-28 — Considered under suspension of the rules. (consideration: CR H3209-3212)
+- 2014-04-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4194.
+- 2014-04-28 — Mr. Issa moved to suspend the rules and pass the bill, as amended.
+- 2014-04-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3209-3212)
+- 2014-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3209-3212)
+- 2014-04-28 — Placed on the Union Calendar, Calendar No. 309.
+- 2014-04-28 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-419.
+- 2014-04-28 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-419.
