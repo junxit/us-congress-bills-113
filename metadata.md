@@ -1,7 +1,7 @@
 ---
 measure: H.R. 930
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 930
@@ -44,3 +44,8 @@ New Philadelphia, Illinois, Study Act
 - 2013-09-20 — Placed on the Union Calendar, Calendar No. 159.
 - 2013-09-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-219.
 - 2013-09-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-219.
+- 2014-04-28 — Considered under suspension of the rules. (consideration: CR H3214-3215)
+- 2014-04-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 930.
+- 2014-04-28 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
+- 2014-04-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3214-3215)
+- 2014-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3214-3215)

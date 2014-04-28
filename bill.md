@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 930
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -45,7 +45,7 @@ In this Act:
     - **(A)** interested Federal, State, or local governmental entities;
     - **(B)** private and nonprofit organizations; or
     - **(C)** any other interested individuals;
-  - **(5)** identify cost estimates for any Federal acquisition, development, interpretation, operation, and maintenance associated with the alternatives considered under paragraph (3); and
+  - **(5)** identify cost estimates for any Federal acquisition, development, interpretation, operation, and maintenance associated with the alternatives considered under paragraph (3);
   - **(6)** determine the effect of the designation of the Study Area as a unit of the National Park System on—
     - **(A)** existing commercial and recreational activities, including but not limited to hunting, fishing, recreational shooting, and on the authorization, construction, operation, maintenance or improvement of energy production and transmission infrastructure; and
     - **(B)** the effect of the authority of State and local governments to manage those activities; and
