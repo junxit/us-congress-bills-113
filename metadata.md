@@ -1,7 +1,7 @@
 ---
 measure: H.R. 298
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 298
@@ -40,3 +40,8 @@ To direct the Secretary of the Interior to conduct a special resource study to e
 - 2013-12-02 — Placed on the Union Calendar, Calendar No. 201.
 - 2013-12-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-280.
 - 2013-12-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-280.
+- 2014-04-28 — Considered under suspension of the rules. (consideration: CR H3212-3214)
+- 2014-04-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 298.
+- 2014-04-28 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
+- 2014-04-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3212-3213)
+- 2014-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3212-3213)
