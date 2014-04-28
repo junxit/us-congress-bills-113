@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4192
 congress: 113
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | by striking “penthouses over elevator shafts,” and inserting “penthouses,”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “and no floor or compartment thereof shall be constructed or used for human occupancy above the top story of the building upon which such structures are placed” and inserting “and, except in the case of a penthouse which is e… | the bill names no machine-readable US Code section |
+| — | replace | The eighth paragraph of section 5 of the Act entitled “An Act to regulate the height of buildings in the District of Columbia”, approved June 1, 1910 (sec. 6–601.05(h), D.C. Official Code) is amended by striking “and no floor or compartm… | the bill names no machine-readable US Code section |

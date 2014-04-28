@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4192
 congress: 113
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 4192
