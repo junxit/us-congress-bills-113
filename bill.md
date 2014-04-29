@@ -2,14 +2,14 @@
 legis-num: H.R. 298
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 298
 
 > To direct the Secretary of the Interior to conduct a special resource study to evaluate the significance of the Mill Springs Battlefield located in Pulaski and Wayne Counties, Kentucky, and the feasibility of its inclusion in the National Park System, and for other purposes.
 
-## § 1. Battle of mill springs study
+## § 1. Battle of Mill Springs study
 
 - **(a)** *Findings* Congress finds as follows:
   - **(1)** In 1994, the Mills Springs Battlefield in Pulaski and Wayne Counties in Kentucky was designated as a National Historic Landmark by the Department of the Interior.

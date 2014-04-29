@@ -1,7 +1,7 @@
 ---
 measure: H.R. 298
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 298
@@ -23,9 +23,10 @@ To direct the Secretary of the Interior to conduct a special resource study to e
 - Rep. Barr, Andy [R-KY-6] (B001282)
 - Rep. Roe, David P. [R-TN-1] (R000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To direct the Secretary of the Interior to conduct a special resource study to e
 - 2014-04-28 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
 - 2014-04-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3212-3213)
 - 2014-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3212-3213)
+- 2014-04-29 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
