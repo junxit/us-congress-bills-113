@@ -1,7 +1,7 @@
 ---
 measure: H.R. 930
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 930
@@ -27,9 +27,10 @@ New Philadelphia, Illinois, Study Act
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Guthrie, Brett [R-KY-2] (G000558)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ New Philadelphia, Illinois, Study Act
 - 2014-04-28 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
 - 2014-04-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3214-3215)
 - 2014-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3214-3215)
+- 2014-04-29 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
