@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4032
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4032
@@ -21,10 +21,11 @@ North Texas Invasive Species Barrier Act of 2014
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 - Rep. Johnson, Sam [R-TX-3] (J000174)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ North Texas Invasive Species Barrier Act of 2014
 - 2014-04-28 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
 - 2014-04-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3216)
 - 2014-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3216)
+- 2014-04-29 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.

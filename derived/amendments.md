@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4032
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 3372` | insert | Section 5 of Public Law 112–237 (126 Stat. 1629) is amended by inserting after “zebra mussels” the following: “and other fish, wildlife, and plants present in Lake Texoma that are prohibited under section 3 of such Act (16 U.S.C. 3372) o… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 5 of Public Law 112–237 (126 Stat. 1629) is amended by inserting after “zebra mussels” the following: “and other fish, wildlife, and plants present in Lake Texoma that are prohibited under section 3 of such Act (16 U.S.C. 3372) o… | the bill names no machine-readable US Code section |
