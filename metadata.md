@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4032
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4032
@@ -51,3 +51,14 @@ North Texas Invasive Species Barrier Act of 2014
 - 2014-04-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3216)
 - 2014-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3216)
 - 2014-04-29 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2014-05-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3308)
+- 2014-05-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3308)
+- 2014-05-22 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2014-05-22 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2014-05-23 — Message on Senate action sent to the House.
+- 2014-05-30 — Presented to President.
+- 2014-05-30 — Presented to President.
+- 2014-06-09 — Became Public Law No: 113-117.
+- 2014-06-09 — Became Public Law No: 113-117.
+- 2014-06-09 — Signed by President.
+- 2014-06-09 — Signed by President.
