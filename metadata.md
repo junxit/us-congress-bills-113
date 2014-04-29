@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4120
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4120
@@ -52,3 +52,12 @@ To amend the National Law Enforcement Museum Act to extend the termination date.
 - 2014-04-28 — Reported by the Committee on Natural Resources. H. Rept. 113-421.
 - 2014-04-28 — Reported by the Committee on Natural Resources. H. Rept. 113-421.
 - 2014-04-29 — Received in the Senate, read twice.
+- 2014-05-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2676)
+- 2014-05-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2676)
+- 2014-05-06 — Message on Senate action sent to the House.
+- 2014-05-07 — Presented to President.
+- 2014-05-07 — Presented to President.
+- 2014-05-16 — Became Public Law No: 113-102.
+- 2014-05-16 — Became Public Law No: 113-102.
+- 2014-05-16 — Signed by President.
+- 2014-05-16 — Signed by President.
