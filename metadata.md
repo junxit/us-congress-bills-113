@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4488
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4488
@@ -31,3 +31,8 @@ Gold Medal Technical Corrections Act of 2014
 - 2014-04-28 — Introduced in House
 - 2014-04-28 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2014-04-28 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-04-29 — Considered under suspension of the rules. (consideration: CR H3253-3254)
+- 2014-04-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4488.
+- 2014-04-29 — Mr. Garrett moved to suspend the rules and pass the bill.
+- 2014-04-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3253)
+- 2014-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3253)
