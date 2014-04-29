@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4192
 congress: 113
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 4192
@@ -45,3 +45,4 @@ To amend the Act entitled "An Act to regulate the height of buildings in the Dis
 - 2014-04-28 — Placed on the Union Calendar, Calendar No. 308.
 - 2014-04-28 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-418.
 - 2014-04-28 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-418.
+- 2014-04-29 — Received in the Senate, read twice.
