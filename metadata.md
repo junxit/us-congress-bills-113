@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4167
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4167
@@ -16,6 +16,10 @@ Restoring Proven Financing for American Employers Act
 
 - Rep. Barr, Andy [R-KY-6] (B001282)
 
+## Cosponsors (1)
+
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+
 ## Committees (1)
 
 - House — Financial Services Committee
@@ -26,3 +30,10 @@ Restoring Proven Financing for American Employers Act
 - 2014-03-06 — Introduced in House
 - 2014-03-06 — Introduced in House
 - 2014-03-06 — Referred to the House Committee on Financial Services.
+- 2014-03-14 — Committee Consideration and Mark-up Session Held.
+- 2014-03-14 — Ordered to be Reported (Amended) by the Yeas and Nays: 53 - 3.
+- 2014-04-29 — Considered under suspension of the rules. (consideration: CR H3257-3261)
+- 2014-04-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4167.
+- 2014-04-29 — Mr. Garrett moved to suspend the rules and pass the bill, as amended.
+- 2014-04-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3257)
+- 2014-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3257)

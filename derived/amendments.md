@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4167
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 1851` | amend | Section 13(g) of the Bank Holding Company Act of 1956 (12 U.S.C. 1851(g)) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1851` | add-at-end | Section 13(g) of the Bank Holding Company Act of 1956 (12 U.S.C. 1851(g)) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
