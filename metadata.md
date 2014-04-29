@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1501
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1501
@@ -29,9 +29,10 @@ Prison Ship Martyrs' Monument Preservation Act
 - Rep. Meng, Grace [D-NY-6] (M001188)
 - Rep. Horsford, Steven [D-NV-4] (H001066)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Prison Ship Martyrs' Monument Preservation Act
 - 2014-04-28 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
 - 2014-04-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3218)
 - 2014-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3218)
+- 2014-04-29 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
