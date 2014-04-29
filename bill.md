@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 627
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -90,3 +90,14 @@ The Congress finds the following:
   - **(2)** *Prohibition on land acquisition* Surcharges paid to the National Park Foundation pursuant to paragraph (1) may not be used for land acquisition.
 - **(c)** *Audits* The National Park Foundation shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received by the Foundation under subsection (b).
 - **(d)** *Limitations* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
+
+## § 8. Financial assurances
+
+The Secretary shall take such actions as may be necessary to ensure that—
+
+- **(1)** minting and issuing coins under this Act will not result in any net cost to the United States Government; and
+- **(2)** no funds, including applicable surcharges, shall be disbursed to any recipient designated in section 7 until the total cost of designing and issuing all of the coins authorized by this Act (including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping) is recovered by the United States Treasury, consistent with sections 5112(m) and 5134(f) of title 31, United States Code.
+
+## § 9. Budget compliance
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.
