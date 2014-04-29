@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3110
 congress: 113
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3110
@@ -41,3 +41,12 @@ Huna Tlingit Traditional Gull Egg Use Act
 - 2014-04-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3215)
 - 2014-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3215)
 - 2014-04-29 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 369.
+- 2014-07-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4355-4364; text as passed Senate: CR S4357)
+- 2014-07-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4355-4364; text as passed Senate: CR S4357)
+- 2014-07-10 — Message on Senate action sent to the House.
+- 2014-07-15 — Presented to President.
+- 2014-07-15 — Presented to President.
+- 2014-07-25 — Became Public Law No: 113-142.
+- 2014-07-25 — Became Public Law No: 113-142.
+- 2014-07-25 — Signed by President.
+- 2014-07-25 — Signed by President.
