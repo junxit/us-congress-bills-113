@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4167
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4167
@@ -20,9 +20,10 @@ Restoring Proven Financing for American Employers Act
 
 - Rep. Higgins, Brian [D-NY-26] (H001038)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Restoring Proven Financing for American Employers Act
 - 2014-04-29 — Mr. Garrett moved to suspend the rules and pass the bill, as amended.
 - 2014-04-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3257)
 - 2014-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3257)
+- 2014-04-30 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
