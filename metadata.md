@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4488
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4488
@@ -36,3 +36,4 @@ Gold Medal Technical Corrections Act of 2014
 - 2014-04-29 — Mr. Garrett moved to suspend the rules and pass the bill.
 - 2014-04-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3253)
 - 2014-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3253)
+- 2014-04-30 — Received in the Senate, read twice.
