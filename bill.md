@@ -2,7 +2,7 @@
 legis-num: H. RES. 557
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 557
@@ -21,4 +21,4 @@ Pending the adoption of a concurrent resolution on the budget for fiscal year 20
 
 ## § 4.
 
-During consideration of H.R. 4486 and H.R. 4487 pursuant to this resolution, the suballocations printed in House Report 113-425 shall be considered for all purposes in the House to be suballocations under section 302(b) of the Congressional Budget Act of 1974.
+During consideration of H.R. 4486 and H.R. 4487 pursuant to this resolution, the suballocations printed in House Report 113–425 shall be considered for all purposes in the House to be suballocations under section 302(b) of the Congressional Budget Act of 1974.
