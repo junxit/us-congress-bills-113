@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4414
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4414
@@ -86,3 +86,4 @@ Expatriate Health Coverage Clarification Act of 2014
 - 2014-04-29 — Rule H. Res. 555 passed House.
 - 2014-04-29 — Rule provides for consideration of H.R. 4414 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The resolution provides that the amendment printed in Report No. 113-422 shall be considered as adopted.
 - 2014-04-29 — The previous question was ordered pursuant to the rule. (consideration: CR H3274)
+- 2014-04-30 — Received in the Senate.
