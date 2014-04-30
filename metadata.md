@@ -1,7 +1,7 @@
 ---
 measure: H.R. 627
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 627
@@ -326,9 +326,10 @@ National Park Service 100th Anniversary Commemorative Coin Act
 - Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
 - Rep. Garcia, Joe [D-FL-26] (G000573)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -346,3 +347,4 @@ National Park Service 100th Anniversary Commemorative Coin Act
 - 2014-04-29 — Mr. Garrett moved to suspend the rules and pass the bill, as amended.
 - 2014-04-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 13 (Roll no. 183). (text: CR H3254-3255)
 - 2014-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 13 (Roll no. 183).(text: CR H3254-3255)
+- 2014-04-30 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
