@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4486
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4486
@@ -16,9 +16,10 @@ Military Construction and Veterans Affairs, and Related Agencies Appropriations 
 
 - Rep. Culberson, John Abney [R-TX-7] (C001048)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (3)
 
@@ -208,3 +209,4 @@ Military Construction and Veterans Affairs, and Related Agencies Appropriations 
 - 2014-04-30 — The resolution provides for 1 hour of general debate for both bills. For H.R. 4486, the resolution provides that the bill shall be considered for amendment under the five-minute rule. For H.R. 4487, the resolution makes in order only those specified amendments printed in the report. The resolution provides one motion to recommit with or without instructions during consideration of each bill.
 - 2014-04-30 — UNFINISHED BUSINESS - The Chair announced that proceedings would resume on the adoption of amendments.
 - 2014-04-30 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2014-05-01 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
