@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4487
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Chapter 7 of title 31, United States Code, is amended by adding at the end the following new subchapter: | the bill names no machine-readable US Code section |
-| — | amend | The table of sections for chapter 7 of title 31, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 7 of title 31, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
