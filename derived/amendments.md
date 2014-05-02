@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4438
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -68,7 +68,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 41` | redesignate | in paragraph (4) as so redesignated, by striking subparagraphs (B) and (C) and by redesignating subparagraphs (D) and (E) as subparagraphs (B) and (C), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 41` | strike | by striking “, and the gross receipts” in subparagraph (A)(i) and all that follows through “determined under clause (iii)”, | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 41` | redesignate | by striking clause (iii) of subparagraph (A) and redesignating clauses (iv), (v), and (vi), thereof, as clauses (iii), (iv), and (v), respectively, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 41` | redesignate | by striking subclause (IV) of subparagraph (A)(iv) (as so redesignated), by striking “, and” at the end of subparagraph (A)(iv)(III) (as so redesignated) and inserting a period, and by adding “and” at the end of subparagraph (A)(v)(II) (… | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 41` | redesignate | by striking subclause (IV) of subparagraph (A)(iv) (as so redesignated), by striking “, and” at the end of subparagraph (A)(iv)(III) (as so redesignated) and inserting a period, and by adding “and” at the end of subparagraph (A)(iv)(II) … | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 41` | redesignate | by striking “, and the gross receipts of the predecessor,” in subparagraph (A)(iv)(II) (as so redesignated), | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 41` | strike | by striking “, and the gross receipts of,” in subparagraph (B), | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 41` | strike | by striking “, or gross receipts of,” in subparagraph (B)(i)(I), and | the bill quotes the text struck but describes what replaces it |

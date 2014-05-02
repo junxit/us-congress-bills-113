@@ -45,7 +45,7 @@ This Act may be cited as the “American Research and Competitiveness Act of 201
       - **(i)** by striking “, and the gross receipts” in subparagraph (A)(i) and all that follows through “determined under clause (iii)”,
       - **(ii)** by striking clause (iii) of subparagraph (A) and redesignating clauses (iv), (v), and (vi), thereof, as clauses (iii), (iv), and (v), respectively,
       - **(iii)** by striking “and (iv)” each place it appears in subparagraph (A)(iv) (as so redesignated) and inserting “and (iii)”,
-      - **(iv)** by striking subclause (IV) of subparagraph (A)(iv) (as so redesignated), by striking “, and” at the end of subparagraph (A)(iv)(III) (as so redesignated) and inserting a period, and by adding “and” at the end of subparagraph (A)(v)(II) (as so redesignated),
+      - **(iv)** by striking subclause (IV) of subparagraph (A)(iv) (as so redesignated), by striking “, and” at the end of subparagraph (A)(iv)(III) (as so redesignated) and inserting a period, and by adding “and” at the end of subparagraph (A)(iv)(II) (as so redesignated),
       - **(v)** by striking “(A)(vi)” in subparagraph (B) and inserting “(A)(v)”, and
       - **(vi)** by striking “(A)(iv)(II)” in subparagraph (B)(i)(II) and inserting “(A)(iii)(II)”,
     - **(B)** by striking “, and the gross receipts of the predecessor,” in subparagraph (A)(iv)(II) (as so redesignated),
@@ -53,5 +53,5 @@ This Act may be cited as the “American Research and Competitiveness Act of 201
     - **(D)** by striking “, or gross receipts of,” in subparagraph (B)(i)(I), and
     - **(E)** by striking subparagraph (C).
 - **(d)** *Effective date*
-  - **(1)** *In general* Except as provided in paragraph (2), the amendments made by this subsection shall apply to taxable years beginning after December 31, 2013.
+  - **(1)** *In general* Except as provided in paragraph (2), the amendments made by this section shall apply to taxable years beginning after December 31, 2013.
   - **(2)** *Subsection (b)* The amendment made by subsection (b) shall apply to amounts paid or incurred after December 31, 2013.
