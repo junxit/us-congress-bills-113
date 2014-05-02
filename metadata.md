@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4429
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4429
@@ -16,7 +16,7 @@ Permanent Active Financing Exception Act of 2014
 
 - Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
 
-## Cosponsors (14)
+## Cosponsors (16)
 
 - Rep. Neal, Richard E. [D-MA-1] (N000015)
 - Rep. Johnson, Sam [R-TX-3] (J000174)
@@ -32,6 +32,8 @@ Permanent Active Financing Exception Act of 2014
 - Rep. Sánchez, Linda T. [D-CA-38] (S001156)
 - Rep. Young, Todd [R-IN-9] (Y000064)
 - Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
 
 ## Committees (1)
 
@@ -42,3 +44,8 @@ Permanent Active Financing Exception Act of 2014
 - 2014-04-08 — Introduced in House
 - 2014-04-08 — Introduced in House
 - 2014-04-08 — Referred to the House Committee on Ways and Means.
+- 2014-04-29 — Committee Consideration and Mark-up Session Held.
+- 2014-04-29 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 21 - 14.
+- 2014-05-02 — Placed on the Union Calendar, Calendar No. 315.
+- 2014-05-02 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-427.
+- 2014-05-02 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-427.
