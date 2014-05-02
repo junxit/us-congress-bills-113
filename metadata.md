@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4464
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4464
@@ -16,7 +16,7 @@ Permanent CFC Look-Through Act of 2014
 
 - Rep. Boustany, Charles W., Jr. [R-LA-3] (B001255)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Rep. Kind, Ron [D-WI-3] (K000188)
 - Rep. Reed, Tom [R-NY-23] (R000585)
@@ -28,6 +28,7 @@ Permanent CFC Look-Through Act of 2014
 - Rep. Young, Todd [R-IN-9] (Y000064)
 - Rep. Matheson, Jim [D-UT-4] (M001142)
 - Rep. Crowley, Joseph [D-NY-14] (C001038)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
 
 ## Committees (1)
 
@@ -38,3 +39,8 @@ Permanent CFC Look-Through Act of 2014
 - 2014-04-10 — Introduced in House
 - 2014-04-10 — Introduced in House
 - 2014-04-10 — Referred to the House Committee on Ways and Means.
+- 2014-04-29 — Committee Consideration and Mark-up Session Held.
+- 2014-04-29 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 22 - 14.
+- 2014-05-02 — Placed on the Union Calendar, Calendar No. 316.
+- 2014-05-02 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-428.
+- 2014-05-02 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-428.
