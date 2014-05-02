@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2548
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,124 +11,147 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Electrify Africa Act of 2013”.
+This Act may be cited as the “Electrify Africa Act of 2014”.
 
 ## § 2. Purpose
 
-The purpose of this Act is to improve access to affordable, reliable electricity in Africa in order to unlock the potential for economic growth, job creation, food security, improved health and education outcomes, and sustainable poverty reduction.
+The purpose of this Act is to encourage the efforts of countries in sub-Saharan Africa to improve access to affordable and reliable electricity in Africa in order to unlock the potential for economic growth, job creation, food security, improved health, education and environmental outcomes, and poverty reduction.
 
 ## § 3. Findings
 
 Congress finds that—
 
-- **(1)** 589,000,000 people in sub-Saharan Africa, or 68 percent of the population, do not have access to electricity, as of 2010;
-- **(2)** electricity services are highly unreliable and remain at least twice as expensive compared to other emerging regions for the majority of people with access to electricity in sub-Saharan Africa;
-- **(3)** lack of access to electricity services dis­pro­por­tion­al­ly affects women—who often shoulder the burden of seeking sources of heat and light such as dung, wood or charcoal and are often more exposed to the associated negative health impacts. Women and girls also face increase risks of assault from walking long distances to gather fuel sources;
-- **(4)** people without access to electricity are often trapped in subsistence lifestyles and are unable to work their way out of poverty;
+- **(1)** 589,000,000 people in sub-Saharan Africa, or 68 percent of the population, did not have access to electricity, as of 2010;
+- **(2)** in sub-Saharan Africa, electricity services are highly unreliable and they are at least twice as expensive for those with electricity access compared to other emerging markets;
+- **(3)** lack of access to electricity services disproportionally affects women and girls, who often shoulder the burden of seeking sources of heat and light such as dung, wood or charcoal and are often more exposed to the associated negative health impacts. Women and girls also face an increased risk of assault from walking long distances to gather fuel sources;
+- **(4)** access to electricity creates opportunities, including entrepreneurship, for people to work their way out of poverty;
 - **(5)** a lack of electricity contributes to the high use of inefficient and often highly polluting fuel sources for indoor cooking, heating, and lighting that produce toxic fumes resulting in more than 3,000,000 annual premature deaths from respiratory disease, more annual deaths than from HIV/AIDS and malaria in sub-Saharan Africa;
-- **(6)** electricity access is crucial for the storage of vaccines and anti-retroviral and other lifesaving medical drugs, as well as the operation of modern lifesaving medical equipment;
+- **(6)** electricity access is crucial for the cold storage of vaccines and anti-retroviral and other lifesaving medical drugs, as well as the operation of modern lifesaving medical equipment;
 - **(7)** electricity access can be used to improve food security by enabling post-harvest processing, pumping, irrigation, dry grain storage, milling, refrigeration, and other uses;
-- **(8)** electricity access can provide improved lighting options, internet access, mobile phone charging, and other new information and communication technologies that can greatly improve health and education outcomes as well as commercial possibilities;
-- **(9)** Africa’s consumer base of 1,000,000,000 people is rapidly growing and will create increasing demand for United States goods, services, and technologies, but the current African electricity deficit limits this growth in demand by restricting economic growth on the continent;
+- **(8)** reliable electricity access can provide improved lighting options and information and communication technologies, including Internet access and mobile phone charging, that can greatly improve health, social, and education outcomes, as well as economic and commercial possibilities;
+- **(9)** sub-Saharan Africa’s consumer base of nearly one billion people is rapidly growing and will create increasing demand for United States goods, services, and technologies, but the current electricity deficit in sub-Saharan Africa limits this demand by restricting economic growth on the continent;
 - **(10)** approximately 30 African countries face endemic power shortages, and nearly 70 percent of surveyed African businesses cite unreliable power as a major constraint to growth;
-- **(11)** the Millennium Challenge Corporation’s work in the energy sector shows high projected economic rates of returns that translate to sustainable economic growth and that the highest returns are projected when infrastructure improvements are coupled with significant legislative and regulatory and institutional policy reforms;
-- **(12)** in some countries, regulatory bottlenecks and legal constraints stifle the ability of private investment to assist in the generation and distribution of electricity; and
-- **(13)** without new policies and more effective investments in electricity sector enterprises to increase and expand electricity access in sub-Saharan Africa, over 70 percent of the rural population, and 48 percent of the total population, will remain without access to electricity by 2030.
+- **(11)** the Millennium Challenge Corporation’s work in the energy sector shows high projected economic rates of return that translate to sustainable economic growth and that the highest returns are projected when infrastructure improvements are coupled with significant legislative, regulatory, institutional, and policy reforms;
+- **(12)** in many countries, weak governance capacity, regulatory bottlenecks, legal constraints, and lack of transparency and accountability can stifle the ability of private investment to assist in the generation and distribution of electricity; and
+- **(13)** without new policies and more effective investments in electricity sector capacity to increase and expand electricity access in sub-Saharan Africa, over 70 percent of the rural population, and 48 percent of the total population, will potentially remain without access to electricity by 2030.
 
 ## § 4. Statement of policy
 
-Congress declares that it is the policy of the United States, in consultation with sub-Saharan African governments, to—
+Congress declares that it is the policy of the United States—
 
-- **(1)** encourage the installation of at least an additional 20,000 megawatts of electrical power in sub-Saharan Africa by 2020;
-- **(2)** promote first-time access to electricity for at least 50,000,000 people in sub-Saharan Africa by 2020 in both urban and rural areas; and
-- **(3)** promote efficient institutional platforms to provide electrical service to rural and underserved areas.
+- **(1)** in consultation with sub-Saharan African governments, to encourage the private sector, international community, African Regional Economic Communities, philanthropies, civil society, and other governments to promote—
+  - **(A)** the installation of at least an additional 20,000 megawatts of electrical power in sub-Saharan Africa by 2020 to support poverty reduction, promote development outcomes, and drive economic growth;
+  - **(B)** first-time direct access to electricity for at least 50,000,000 people in sub-Saharan Africa by 2020 in both urban and rural areas;
+  - **(C)** efficient institutional platforms with accountable governance to provide electrical service to rural and underserved areas; and
+  - **(D)** the necessary in-country legislative, regulatory and policy reforms to make such expansion of electricity access possible; and
+- **(2)** to encourage private sector and international support for construction of hydroelectric dams in sub-Saharan Africa that—
+  - **(A)** offer low-cost clean energy consistent with—
+    - **(i)** the national security interests of the United States; and
+    - **(ii)** best international practices regarding social and environmental safeguards, including—
+      - **(I)** engagement of local communities regarding the design, implementation, monitoring, and evaluation of such projects;
+      - **(II)** the consideration of energy alternatives, including distributed renewable energy; and
+      - **(III)** the development of appropriate mitigation measures; and
+  - **(B)** support partner country efforts.
 
 ## § 5. Development of a comprehensive, multiyear strategy
 
-- **(a)** *Strategy* The President shall establish a comprehensive, integrated, multiyear strategy to assist countries in sub-Saharan Africa to develop an appropriate mix of power solutions, including renewable energy, to provide sufficient electricity access to people living in rural and urban areas in order to alleviate poverty and drive economic growth. Such strategy shall maintain sufficient flexibility and remain responsive to technological innovation in the power sector.
+- **(a)** *Strategy* The President shall establish a comprehensive, integrated, multiyear policy, partnership, and funding strategy to encourage countries in sub-Saharan Africa to develop an appropriate mix of power solutions, including renewable energy, to provide sufficient electricity access to people living in rural and urban areas in order to alleviate poverty and drive economic growth. Such strategy shall maintain sufficient flexibility and remain responsive to technological innovation in the power sector.
 - **(b)** *Report*
   - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the President shall transmit to the appropriate congressional committees a report setting forth the strategy described in subsection (a).
   - **(2)** *Report contents* The report required by paragraph (1) shall include a discussion of the elements described in paragraph (3), and should include a discussion of any additional elements relevant to the strategy described in subsection (a).
   - **(3)** *Report elements* The elements referred to in paragraph (2) are the following:
-    - **(A)** The general and specific objectives of the strategy described in subsection (a), the criteria for determining success of the strategy, and a description of the manner in which the strategy will increase production and improve access to electricity.
-    - **(B)** Development of plans and regulations at the national, regional, and local level to increase power production, strengthen electrical transmission and distribution infrastructure, and improve access to electricity.
-    - **(C)** Administration plans to increase access to electricity, including a description of how the strategy will address commercial and residential needs, as well as urban and rural access.
-    - **(D)** Administration strategy to reduce waste and improve existing power generation through the use of a broad power mix and use of a distributed generation model.
-    - **(E)** Administration policy on engaging and leveraging private sector resources and public sector financing.
-    - **(F)** A description of the strategy for the transfer of relevant technology and skills to local participation in the long-term maintenance and management of such investments to ensure power sector investments are sustainable, including the details of the programs to be undertaken to maximize United States contributions in the areas of technical assistance and training.
-    - **(G)** An identification of the relevant executive branch agencies that will be involved in carrying out the strategy, the level and distribution of resources that will be dedicated on an annual basis among the such agencies, the assignment of priorities to such agencies, a description of the role of each agency, and the types of programs that each agency will be undertaking.
-    - **(H)** A description of the mechanisms that will be utilized to coordinate the efforts of the relevant executive branch agencies in carrying out the strategy to avoid duplication of efforts, enhance coordination, and ensure that each agency undertakes programs primarily in those areas where each such agency has the greatest expertise, technical capabilities, and potential for success.
-    - **(I)** A description of the mechanisms to be established for monitoring and evaluating increased electricity access development, for learning and transmitting best practices among relevant executive branch agencies as well as among participating countries, and for terminating unsuccessful programs.
-    - **(J)** A description of the engagement plan for working with local communities benefitting from the projects and affected by the projects as well as the environment and social impacts of the projects.
-    - **(K)** A description of the mechanisms that will be utilized to ensure greater coordination between the United States and foreign governments, international organizations, African regional economic communities, international financial institutions, and private sector organizations.
-    - **(L)** A description of how United States leadership will be used to enhance the overall international response to prioritizing electricity access for sub-Saharan Africa and to strengthen coordination among relevant international forums such as the G8 and G20.
-    - **(M)** An outline of how the Administration intends to partner with foreign governments, the World Bank Group, the African Development Bank Group, and the public sector to assist sub-Saharan African countries to conduct project feasibility studies and facilitate project development.
+    - **(A)** The general and specific objectives of the strategy described in subsection (a), the criteria for determining success of the strategy, a description of the manner in which the strategy will support partner country efforts to increase production and improve access to electricity, and criteria and indicators used to select partner countries for focused engagement on the power sector.
+    - **(B)** Development, by partner country governments, of plans and regulations at the national, regional, and local level to increase power production, strengthen existing electrical transmission and distribution infrastructure, bolster accountable governance and oversight, and improve access to electricity.
+    - **(C)** Administration plans to support partner country efforts to increase new access to electricity, including a description of how the strategy will address commercial and residential needs, as well as urban and rural access.
+    - **(D)** Administration strategy to support partner country efforts to reduce government waste, fraud, and corruption, and improve existing power generation through improvement of existing transmission and distribution systems, as well as the use of a broad power mix, including renewable energy, and the use of a distributed generation model.
+    - **(E)** Administration policy to support partner country efforts to attract private sector investment and public sector resources.
+    - **(F)** A description of the Administration’s strategy for the transfer of relevant technology, skills, and information to increase local participation in the long-term maintenance and management of the power sector to ensure investments are sustainable and transparent, including details of the programs to be undertaken to maximize United States contributions in the areas of technical assistance and training.
+    - **(G)** An identification of the relevant executive branch agencies that will be involved in carrying out the strategy, the level and distribution of resources that will be dedicated on an annual basis among such agencies, timely and comprehensive publication of aid information and available transmission of resource data consistent with Administration commitments to implement the transparency measures specified in the International Aid Transparency Initiative by December 2015, the assignment of priorities to such agencies, a description of the role of each such agency, and the types of programs that each such agency will undertake.
+    - **(H)** A description of the mechanisms that will be utilized by the Administration, including the International Aid Transparency Initiative, to coordinate the efforts of the relevant executive branch agencies in carrying out the strategy to avoid duplication of efforts, enhance coordination, and ensure that each agency undertakes programs primarily in those areas where each such agency has the greatest expertise, technical capabilities, and potential for success.
+    - **(I)** A description of the mechanisms that will be established by the Administration for monitoring and evaluating the strategy and its implementation, including procedures for learning and sharing best practices among relevant executive branch agencies, as well as among participating countries, and for terminating unsuccessful programs.
+    - **(J)** A description of the Administration’s engagement plan, consistent with international best practices, to ensure local and affected communities are informed, consulted, and benefit from projects encouraged by the United States, as well as the environmental and social impacts of the projects.
+    - **(K)** A description of the mechanisms that will be utilized to ensure greater coordination between the United States and foreign governments, international organizations, African regional economic communities, international fora, the private sector, and civil society organizations.
+    - **(L)** A description of how United States leadership will be used to enhance the overall international response to prioritizing electricity access for sub-Saharan Africa and to strengthen coordination among relevant international forums such as the Post-2015 Development Agenda and the G8 and G20, as well as the status of efforts to support reforms that are being undertaken by partner country governments.
+    - **(M)** An outline of how the Administration intends to partner with foreign governments, the international community, and other public sector entities, civil society groups, and the private sector to assist sub-Saharan African countries to conduct comprehensive project feasibility studies and facilitate project development.
     - **(N)** A description of how the Administration intends to help facilitate transnational and regional power and electrification projects where appropriate.
 
 ## § 6. USAID
 
 - **(a)** *Loan guarantees* It is the sense of Congress that in pursuing the policy goals described in section 4, the Administrator of USAID should identify and prioritize—
-  - **(1)** where loan guarantees to local African financial institutions would facilitate the involvement of such financial institutions in power projects in Africa; and
-  - **(2)** where partnerships and grants for research, development, and deployment of technology would increase access to electricity in Africa.
-- **(b)** *Grants* It is the sense of Congress that the Administrator of USAID, acting through USAID’s Bureau for Africa and Economic Growth, Education and Environment, should consider providing grants to—
-  - **(1)** develop national, regional, and local energy and electricity policy plans;
+  - **(1)** loan guarantees to local sub-Saharan African financial institutions that would facilitate the involvement of such financial institutions in power projects in sub-Saharan Africa; and
+  - **(2)** partnerships and grants for research, development, and deployment of technology that would increase access to electricity in sub-Saharan Africa.
+- **(b)** *Grants* It is the sense of Congress that the Administrator of USAID should consider providing grants to—
+  - **(1)** support the development and implementation of national, regional, and local energy and electricity policy plans;
   - **(2)** expand distribution of electricity access to the poorest; and
-  - **(3)** build a country’s capacity to monitor and regulate the energy and electricity sector.
-- **(c)** *USAID defined* In this section, the term USAID means the United States Agency for International Development.
+  - **(3)** build a country’s capacity to plan, monitor and regulate the energy and electricity sector.
+- **(c)** *USAID defined* In this section, the term “USAID” means the United States Agency for International Development.
 
-## § 7. Department of the Treasury
+## § 7. Leveraging international support
 
-In pursuing the policy goals described in section 4, the Secretary of the Treasury should direct the United States Executive Director at each institution in the World Bank Group and the African Development Bank to use the voice, vote, and influence of the United States to encourage each such entity to—
+In pursuing the policy goals described in section 4, the President should direct the United States’ representatives to appropriate international bodies to use the influence of the United States, consistent with the broad development goals of the United States, to advocate that each such body—
 
-- **(1)** commit to significantly increase power sector and electrification investments in sub-Saharan Africa;
-- **(2)** consider energy needs of individuals where access to an electricity grid is impractical or cost-prohibitive;
+- **(1)** commit to significantly increase efforts to promote investment in well-designed power sector and electrification projects in sub-Saharan Africa that increase energy access, in partnership with the private sector and consistent with the host countries’ absorptive capacity;
+- **(2)** address energy needs of individuals and communities where access to an electricity grid is impractical or cost-prohibitive;
 - **(3)** enhance coordination with the private sector in sub-Saharan Africa to increase access to electricity;
-- **(4)** provide technical assistance to the regulatory authorities of sub-Saharan African governments to remove unnecessary barriers to investment in commercially viable projects, reduce transmission and distribution losses, encourage end-use efficiency, strengthen local markets, and unlock domestic investment in the power sector; and
+- **(4)** provide technical assistance to the regulatory authorities of sub-Saharan African governments to remove unnecessary barriers to investment in otherwise commercially viable projects; and
 - **(5)** utilize clear, accountable, and metric-based targets to measure the effectiveness of such projects.
 
-## § 8. Overseas Private Investment Corporation
+## § 8. Overseas private investment corporation
 
 - **(a)** *In general* The Overseas Private Investment Corporation should—
-  - **(1)** in carrying out its programs and pursuing the policy goals described in section 4, place a priority on supporting investment in the electricity sector of sub-Saharan Africa and implement procedures for expedited review of and, where appropriate, approval of, applications by eligible investors for loans, loan guarantees, and insurance for such investments;
-  - **(2)** to the extent permitted by its authorities, policies, and programs, support investments in projects that will—
+  - **(1)** in carrying out its programs and pursuing the policy goals described in section 4, place a priority on supporting investment in the electricity sector of sub-Saharan Africa, including renewable energy, and implement procedures for expedited review of and, where appropriate, approval of, applications by eligible investors for loans, loan guarantees, and insurance for such investments;
+  - **(2)** support investments in projects and partner country strategies to the extent permitted by its authorities, policies, and programs, that will—
     - **(A)** maximize the number of people with new access to electricity to support economic development;
-    - **(B)** improve the transmission and distribution of electricity;
-    - **(C)** provide reliable and low-cost electricity to people living in rural and urban communities;
-    - **(D)** consider energy needs of individuals where access to an electricity grid is impractical or cost-prohibitive; and
-    - **(E)** reduce transmission and distribution losses and improve end-use efficiency;
-  - **(3)** encourage small- and medium-sized enterprises and cooperative service providers to participate in investment activities in sub-Saharan Africa; and
-  - **(4)** publish measurable development impacts of its investments.
+    - **(B)** improve the generation, transmission, and distribution of electricity;
+    - **(C)** provide reliable and low-cost electricity, including renewable energy and on-grid, off-grid, and multi-grid solutions, to people living in rural and urban communities;
+    - **(D)** consider energy needs of individuals where access to an electricity grid is impractical or cost-prohibitive;
+    - **(E)** reduce transmission and distribution losses and improve end-use efficiency; and
+    - **(F)** reduce energy-related impediments to business and investment opportunity and success;
+  - **(3)** encourage locally-owned, micro, small- and medium-sized enterprises and cooperative service providers to participate in investment activities in sub-Saharan Africa; and
+  - **(4)** publish in an accessible digital format measurable development impacts of its investments, including appropriate quantifiable metrics to measure energy access at the individual household, enterprise, and community level; and
+  - **(5)** publish in an accessible digital format the amount, type, location, duration, and measurable results, with links to relevant reports and displays on an interactive map, where appropriate, of all OPIC investments and financings.
 - **(b)** *Amendments* Title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 is amended—
   - **(1)** in section 233 (22 U.S.C. 2193)—
-    - **(A)** in subsection (b), by inserting after the sixth sentence the following new sentence: “Of the eight such Directors, not more than six should be of the same political party.”; and
+    - **(A)** in subsection (b), by inserting after the sixth sentence the following new sentence: “Of the eight such Directors, not more than five should be of the same political party.”; and
     - **(B)** by adding at the end the following new subsection:
       > - **(e)** *Investment advisory council* The Board shall take prompt measures to increase the loan, guarantee, and insurance programs, and financial commitments, of the Corporation in sub-Saharan Africa, including through the use of an investment advisory council to assist the Board in developing and implementing policies, programs, and financial instruments with respect to sub-Saharan Africa. In addition, the investment advisory council shall make recommendations to the Board on how the Corporation can facilitate greater support by the United States for trade and investment with and in sub-Saharan Africa. The investment advisory council shall terminate on December 31, 2017.
 
   - **(2)** in section 234(c) (22 U.S.C. 2194(c)), by inserting “eligible investors or” after “involve”;
-  - **(3)** in section 235(a)(2) (22 U.S.C. 2195), by striking “2007” and inserting “2016”; and
-  - **(4)** in section 239(e) (22 U.S.C. 2199(e)) to read as follows:
+  - **(3)** in section 235(a)(2) (22 U.S.C. 2195), by striking “2007” and inserting “2017”;
+  - **(4)** in section 237(d) (22 U.S.C. 2197(d))—
+    - **(A)** in paragraph (2), by inserting “, systems infrastructure costs,” after “outside the Corporation”; and
+    - **(B)** in paragraph (3), by inserting “, systems infrastructure costs,” after “project-specific transaction costs”; and
+  - **(5)** by amending section 239(e) (22 U.S.C. 2199(e)) to read as follows:
     > - **(e)** *Inspector general* The Board shall appoint and maintain an Inspector General in the Corporation, in accordance with the Inspector General Act of 1978 (5 U.S.C. App.).
 
-- **(c)** *Policy* Not later than 180 days after the date of the enactment of this Act, the Board of Directors and President of the Overseas Private Investment Corporation are hereby directed to issue policy guidance that permits significant investment in the electricity sector of the poorest and lowest pollution-emitting countries in a development-driven and environmentally sensitive manner.
+- **(c)** *Annual consumer satisfaction survey and report*
+  - **(1)** *Survey*
+    - **(A)** *In general* For each of calendar years 2014 through 2016, the Overseas Private Investment Corporation shall conduct a survey of private entities that sponsor or are involved in projects that are insured, reinsured, guaranteed, or financed by the Corporation regarding the level of satisfaction of such entities with the operations and procedures of the Corporation with respect to such projects.
+    - **(B)** *Priority* The survey shall be primarily focused on United States small businesses and businesses that sponsor or are involved in projects with a cost of less than $20,000,000 (as adjusted for inflation).
+  - **(2)** *Report*
+    - **(A)** *In general* Not later than each of July 1, 2015, July 1, 2016, and July 1, 2017, the Corporation should submit to the congressional committees specified in subparagraph (C) a report on the results of the survey required under paragraph (1).
+    - **(B)** *Matters to be included* The report should include the Corporation’s plans to revise its operations and procedures based on concerns raised in the results of the survey, if appropriate.
+    - **(C)** *Form* The report shall be submitted in unclassified form and shall not disclose any confidential business information.
+    - **(D)** *Congressional committees specified* The congressional committees specified in this subparagraph are—
+      - **(i)** the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives; and
+      - **(ii)** the Committee on Appropriations and the Committee on Foreign Relations of the Senate.
 
-## § 9. Trade and Development Agency
+## § 9. Trade and development agency
 
 - **(a)** *In general* The Director of the Trade and Development Agency should—
-  - **(1)** promote United States private sector participation in energy sector development projects in sub-Saharan Africa through project preparation activities, including feasibility studies, technical assistance, pilot projects, reverse trade missions, conferences and workshops; and
+  - **(1)** promote United States private sector participation in energy sector development projects in sub-Saharan Africa through project preparation activities, including feasibility studies at the project, sector, and national level, technical assistance, pilot projects, reverse trade missions, conferences and workshops; and
   - **(2)** seek opportunities to fund project preparation activities that involve increased access to electricity, including power generation and trade capacity building.
-- **(b)** *Focus* In pursuing the policy goals described in section 4, project preparation activities described in subsection (a) should focus on power generation using clean energy sources, improving the efficiency of transmission and distribution grids, including on-grid, off-grid and mini-grid solutions, and promoting energy efficiency and demand-side management.
+- **(b)** *Focus* In pursuing the policy goals described in section 4, project preparation activities described in subsection (a) should focus on power generation, including renewable energy, improving the efficiency of transmission and distribution grids, including on-grid, off-grid and mini-grid solutions, and promoting energy efficiency and demand-side management.
 
 ## § 10. Progress report
 
-Not later than three years after the date of the enactment of this Act, the President shall transmit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on progress made toward achieving the policy goals described in section 4, including the following:
+Not later than three years after the date of the enactment of this Act, the President shall transmit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, and post through appropriate digital means, a report on progress made toward achieving the policy goals described in section 4, including the following:
 
-- **(1)** The number and type of policy and legislative changes implemented in partner countries to support increased electricity generation and access since United States engagement.
+- **(1)** The number, type, and status of policy, regulatory, and legislative changes implemented in partner countries to support increased electricity generation and access, and strengthen effective, accountable governance of the electricity sector since United States engagement.
 - **(2)** A list of power sector and electrification projects United States Government instruments are supporting to achieve the policy goals described in section 4, and for each such project—
   - **(A)** a description of how each such project fits into the national power plans of the partner country;
-  - **(B)** the total cost of each such project and predicted United States Government contributions to such projects broken down by United States Government funding source, including from the Overseas Private Investment Corporation, the United States Agency for International Development, the Department of the Treasury, and other appropriate United States Government departments and agencies;
-  - **(C)** the amount of actual United States Government financing provided to such projects, broken down by United States Government funding source, including from the Overseas Private Investment Corporation, the United States Agency for International Development, the Department of the Treasury, and other appropriate United States Government departments and agencies;
-  - **(D)** the predicted electrical power capacity in megawatts of each project upon completion;
-  - **(E)** expected environmental and social impacts from each project;
-  - **(F)** the number of individuals, businesses, schools, and health facilities that have gained electricity connections as a result of each project at the time of such report;
-  - **(G)** the predicted number of individuals gaining electricity connections as a result of each project upon completion; and
-  - **(H)** the current operating electrical power capacity in megawatts of each project.
+  - **(B)** the total cost of each such project and predicted United States Government contributions, and actual grants and other financing provided to such projects, broken down by United States Government funding source, including from the Overseas Private Investment Corporation, the United States Agency for International Development, the Department of the Treasury, and other appropriate United States Government departments and agencies;
+  - **(C)** the predicted electrical power capacity of each project upon completion, with metrics appropriate to the scale of electricity access being supplied, as well as total megawatts installed;
+  - **(D)** compliance with international best practices and expected environmental and social impacts from each project;
+  - **(E)** the estimated number of women, men, poor communities, businesses, schools, and health facilities that have gained electricity connections as a result of each project at the time of such report; and
+  - **(F)** the current operating electrical power capacity in wattage of each project.
