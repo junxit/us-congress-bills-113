@@ -1,7 +1,7 @@
 ---
 measure: S. 839
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 839
@@ -30,3 +30,7 @@ Coral Reef Conservation Amendments Act of 2013
 
 - 2013-04-25 — Introduced in Senate
 - 2013-04-25 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2013-07-30 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2014-05-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. With written report No. 113-156.
+- 2014-05-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. With written report No. 113-156.
+- 2014-05-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 370.
