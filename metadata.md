@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4487
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4487
@@ -16,9 +16,10 @@ Legislative Branch Appropriations Act, 2015
 
 - Rep. Cole, Tom [R-OK-4] (C001053)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (6)
 
@@ -121,3 +122,4 @@ Legislative Branch Appropriations Act, 2015
 - 2014-05-01 — The previous question was ordered pursuant to the rule. (consideration: CR H3390)
 - 2014-05-01 — The resolution provides for 1 hour of general debate for both bills. For H.R. 4486, the resolution provides that the bill shall be considered for amendment under the five-minute rule. For H.R. 4487, the resolution makes in order only those specified amendments printed in the report. The resolution provides one motion to recommit with or without instructions during consideration of each bill.
 - 2014-05-01 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2014-05-05 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
