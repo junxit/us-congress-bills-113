@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 102
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 102
@@ -28,3 +28,7 @@ A resolution expressing support for the designation of Saint Louis, Missouri, as
 
 - 2013-04-18 — Introduced in Senate
 - 2013-04-18 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S2805)
+- 2014-05-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S2677)
+- 2014-05-05 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S2677)
+- 2014-05-05 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S2677)
+- 2014-05-05 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S2677)
