@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2430
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 2 executed, 2 stated and not applied.
+6 amendatory instructions. 3 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,6 +42,15 @@ to guess them.
 | Removed | `The Map` |
 | Inserted | `The Map and the map referred to in paragraph (3)(B)` |
 
+### 16 U.S.C. § 410lll
+
+> in subparagraph (A), by striking “The Secretary” and inserting “Except as provided in subparagraphs (B) and (C), the Secretary”; and
+
+| | |
+|---|---|
+| Removed | `The Secretary` |
+| Inserted | `Except as provided in subparagraphs (B) and (C), the Secretary` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -52,4 +61,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `16 U.S.C. § 410lll` | redesignate | by redesignating subparagraphs (A) through (G) as clauses (i) through (vii), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 410lll` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 410lll` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 410lll` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

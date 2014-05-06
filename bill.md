@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2430
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Hinchliffe Stadium Heritage Act of 2013”.
+This Act may be cited as the “Hinchliffe Stadium Heritage Act”.
 
 ## § 2. Paterson Great Falls National Historical Park boundary adjustment
 
@@ -21,6 +21,18 @@ Section 7001 of the Omnibus Public Land Management Act of 2009 (16 U.S.C. 410lll
   - **(A)** by striking “The Park shall” and inserting “(A) The Park shall”;
   - **(B)** by redesignating subparagraphs (A) through (G) as clauses (i) through (vii), respectively; and
   - **(C)** by adding at the end the following:
-    > - **(B)** In addition to the lands described in subparagraph (A), the Park shall include the approximately 6 acres of land containing Hinchliffe Stadium and generally depicted as the Boundary Modification Area on the map entitled Paterson Great Falls National Historical Park, numbered T03/120,155, and dated March 2013, which shall be administered as part of the Park in accordance with subsection (c)(1).
+    > - **(B)** In addition to the lands described in subparagraph (A), the Park shall include the approximately 6 acres of land containing Hinchliffe Stadium and generally depicted as the Boundary Modification Area on the map entitled “Paterson Great Falls National Historical Park, Proposed Boundary Modification”, numbered T03/120,155, and dated April 2014, which shall be administered as part of the Park in accordance with subsection (c)(1) and section 3 of the Hinchliffe Stadium Heritage Act.
 
 - **(2)** In subsection (b)(4), by striking “The Map” and inserting “The Map and the map referred to in paragraph (3)(B)”.
+- **(3)** In subsection (c)(4)—
+  - **(A)** in subparagraph (A), by striking “The Secretary” and inserting “Except as provided in subparagraphs (B) and (C), the Secretary”; and
+  - **(B)** by inserting after subparagraph (B) the following:
+    > - **(C)** *Hinchliffe Stadium* The Secretary may not acquire fee title to Hinchliffe Stadium, but may acquire a preservation easement in Hinchliffe Stadium if the Secretary determines that doing so will facilitate resource protection of the stadium.
+
+## § 3. Additional considerations for hinchliffe stadium
+
+In administering the approximately 6 acres of land containing Hinchliffe Stadium and generally depicted as the “Boundary Modification Area” on the map entitled “Paterson Great Falls National Historical Park, Proposed Boundary Modification”, numbered T03/120,155, and dated April 2014, the Secretary of the Interior—
+
+- **(1)** may not include non-Federal property within the approximately 6 acres of land as part of Paterson Great Falls National Historical Park without the written consent of the owner;
+- **(2)** may not acquire by condemnation any land or interests in land within the approximately 6 acres of land; and
+- **(3)** shall not construe this Act or the amendments made by this Act to create buffer zones outside the boundaries of the Paterson Great Falls National Historical Park. That activities or uses can be seen, heard or detected from areas within the approximately 6 acres of land added to the Paterson Great Falls National Historical Park by this Act shall not preclude, limit, control, regulate or determine the conduct or management of activities or uses outside of the Paterson Great Falls National Historical Park.
