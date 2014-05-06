@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4228
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4228
@@ -16,11 +16,22 @@ DHS Acquisition Accountability and Efficiency Act
 
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
 
-## Cosponsors (3)
+## Cosponsors (14)
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Barber, Ron [D-AZ-2] (B001279)
 - Rep. Daines, Steve [R-MT-At Large] (D000618)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. O'Rourke, Beto [D-TX-16] (O000170)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Lummis, Cynthia M. [R-WY-At Large] (L000571)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. Matheson, Jim [D-UT-4] (M001142)
+- Rep. Pompeo, Mike [R-KS-4] (P000602)
+- Rep. Young, Todd [R-IN-9] (Y000064)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
 
 ## Committees (1)
 
@@ -31,3 +42,11 @@ DHS Acquisition Accountability and Efficiency Act
 - 2014-03-13 — Introduced in House
 - 2014-03-13 — Introduced in House
 - 2014-03-13 — Referred to the House Committee on Homeland Security.
+- 2014-03-20 — Referred to the Subcommittee on Oversight and Management Efficiency.
+- 2014-03-26 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2014-03-26 — Subcommittee Consideration and Mark-up Session Held.
+- 2014-04-30 — Committee Consideration and Mark-up Session Held.
+- 2014-04-30 — Ordered to be Reported (Amended) by Voice Vote.
+- 2014-05-06 — Placed on the Union Calendar, Calendar No. 324.
+- 2014-05-06 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-436.
+- 2014-05-06 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-436.
