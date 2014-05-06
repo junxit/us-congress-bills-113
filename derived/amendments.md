@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3468
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 1787` | insert | in subparagraph (A), by inserting after “deposits in the name of the member” the following: “or held in the member’s account on behalf of another person”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1787` | replace | in subparagraph (C), by striking the period and inserting the following: “, or where a member holds funds for the use of a nonmember. Coverage for an account established by a member shall be consistent with that of the Federal Deposit In… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1787` | insert | by inserting after “payable to any member” the following: “, or to any person with funds lawfully held in a member account,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1787` | strike | by striking “and paragraphs (5) and (6)”; | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1787` | strike | in paragraph (2)(A), by striking “(as determined under paragraph (5))”; | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1787` | redesignate | by redesignating paragraph (5) as paragraph (6); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1787` | insert | by inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
