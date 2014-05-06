@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 863
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Commission to Study the Potential Creation of a National Women’s History Museum Act of 2013”.
+This Act may be cited as the “Commission to Study the Potential Creation of a National Women’s History Museum Act”.
 
 ## § 2. Definitions
 
@@ -53,14 +53,14 @@ In this Act:
   - **(2)** *Report on issues* The Commission shall submit to the President and Congress a report that addresses the following issues:
     - **(A)** The availability and cost of collections to be acquired and housed in the Museum.
     - **(B)** The impact of the Museum on regional women history-related museums.
-    - **(C)** Potential locations for the Museum in Washington, DC, and its environs (including the location located on public land bounded by Independence Avenue SW., 14th Street SW., 15th Street SW., and Jefferson Drive SW., in Washington, DC, that is established subject to chapter 89 of title 40, United States Code (commonly known as the “Commemorative Works Act”)).
+    - **(C)** Potential locations for the Museum in Washington, DC, and its environs.
     - **(D)** Whether the Museum should be part of the Smithsonian Institution.
     - **(E)** The governance and organizational structure from which the Museum should operate.
     - **(F)** Best practices for engaging women in the development and design of the Museum.
     - **(G)** The cost of constructing, operating, and maintaining the Museum.
   - **(3)** *Deadline* The reports required under paragraphs (1) and (2) shall be submitted not later than the date that is 18 months after the date of the first meeting of the Commission.
 - **(b)** *Fundraising plan*
-  - **(1)** *In general* The Commission shall develop a fundraising plan to support the establishment and maintenance of the Museum through contributions from the public.
+  - **(1)** *In general* The Commission shall develop a fundraising plan to support the establishment, operation, and maintenance of the Museum through contributions from the public.
   - **(2)** *Considerations* In developing the fundraising plan under paragraph (1), the Commission shall consider—
     - **(A)** the role of the National Women’s History Museum (a nonprofit, educational organization described in section 501(c)(3) of the Internal Revenue Code of 1986 that was incorporated in 1996 in Washington, DC, and dedicated for the purpose of establishing a women’s history museum) in raising funds for the construction of the Museum; and
     - **(B)** issues relating to funding the operations and maintenance of the Museum in perpetuity.
