@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3329
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Changes required to small bank holding company policy statement on assessment of financial and managerial factors
 
-- **(a)** *In general* Before the end of the 6-month period beginning on the date of the enactment of this Act, the Board of Governors of the Federal Reserve System shall publish in the Federal Register proposed revisions to the Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors (12 C.F.R. part 225–appendix C) that provide that the policy shall apply to bank holding companies and savings and loan holding companies which have pro forma consolidated assets of less than $1,000,000,000 and that—
+- **(a)** *In general* Before the end of the 6-month period beginning on the date of the enactment of this Act, the Board of Governors of the Federal Reserve System shall publish in the Federal Register proposed revisions to the Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors (12 CFR Part 225 Appendix C) that provide that the policy shall apply to bank holding companies and savings and loan holding companies which have pro forma consolidated assets of less than $1,000,000,000 and that—
   - **(1)** are not engaged in any nonbanking activities involving significant leverage; and
   - **(2)** do not have a significant amount of outstanding debt that is held by the general public.
 - **(b)** *Conforming amendment* Section 171(b)(5)(C) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5371(b)(5)(C)) is amended by inserting “or small savings and loan holding company” after “any small bank holding company”.
