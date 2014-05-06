@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 503
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,6 +23,8 @@ For the purposes of this Act:
 ## § 3. Memorial to commemorate
 
 - **(a)** *Authorization To establish commemorative work* The Association may establish the National Desert Storm and Desert Shield Memorial as a commemorative work, on Federal land in the District of Columbia to commemorate and honor those who, as a member of the Armed Forces, served on active duty in support of Operation Desert Storm or Operation Desert Shield.
-- **(b)** *Compliance with standards for commemorative works act* The establishment of the commemorative work shall be in accordance with chapter 89 of title 40, United States Code (commonly known as the “Commemorative Works Act”).
+- **(b)** *Compliance with standards for Commemorative Works Act* The establishment of the commemorative work shall be in accordance with chapter 89 of title 40, United States Code (commonly known as the “Commemorative Works Act”).
 - **(c)** *Use of federal funds prohibited* Federal funds may not be used to pay any expense of the establishment of the memorial. The Association shall be solely responsible for acceptance of contributions for, and payment of the expenses of, the establishment of the memorial.
-- **(d)** *Deposit of excess funds* If, upon payment of all expenses for the establishment of the memorial (including the maintenance and preservation amount required by section 8906(b)(1) of title 40, United States Code), or upon expiration of the authority for the commemorative work under section 8903(e) of title 40, United States Code, there remains a balance of funds received for the establishment of the commemorative work, the Association shall transmit the amount of the balance to the Secretary of the Interior for deposit in the account provided for in section 8906(b)(3) of title 40, United States Code.
+- **(d)** *Deposit of excess funds*
+  - **(1)** If upon payment of all expenses for the establishment of the memorial (including the maintenance and preservation amount required by section 8906(b)(1) of title 40, United States Code), there remains a balance of funds received for the establishment of the commemorative work, the Association shall transmit the amount of the balance to the Secretary of the Interior for deposit in the account provided for in section 8906(b)(3) of title 40, United States Code.
+  - **(2)** If upon expiration of the authority for the commemorative work under section 8903(e) of title 40, United States Code, there remains a balance of funds received for the establishment of the commemorative work, the Association shall transmit the balance to a separate account with the National Park Foundation for memorials, to be available to the Secretary of the Interior or the Administrator (as appropriate) following the process provided in section 8906(b)(4) of title 40, United States Code, for accounts established under section 8906(b)(2) or (3) of title 40, United States Code.
