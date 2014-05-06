@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4386
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4386
@@ -16,7 +16,7 @@ Money Remittances Improvement Act of 2014
 
 - Rep. Ellison, Keith [D-MN-5] (E000288)
 
-## Cosponsors (8)
+## Cosponsors (10)
 
 - Rep. Paulsen, Erik [R-MN-3] (P000594)
 - Rep. Duffy, Sean P. [R-WI-7] (D000614)
@@ -26,6 +26,8 @@ Money Remittances Improvement Act of 2014
 - Rep. Cramer, Kevin [R-ND-At Large] (C001096)
 - Rep. Smith, Adam [D-WA-9] (S000510)
 - Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Bass, Karen [D-CA-37] (B001270)
 
 ## Committees (1)
 
@@ -36,3 +38,8 @@ Money Remittances Improvement Act of 2014
 - 2014-04-03 — Introduced in House
 - 2014-04-03 — Introduced in House
 - 2014-04-03 — Referred to the House Committee on Financial Services.
+- 2014-05-06 — Considered under suspension of the rules. (consideration: CR H3422-3424)
+- 2014-05-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4386.
+- 2014-05-06 — Mrs. Capito moved to suspend the rules and pass the bill.
+- 2014-05-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3422-3423)
+- 2014-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3422-3423)
