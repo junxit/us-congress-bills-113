@@ -1,7 +1,7 @@
 ---
 measure: H.R. 863
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 863
@@ -122,6 +122,10 @@ Commission to Study the Potential Creation of a National Women's History Museum 
 - House — Natural Resources Committee
 - House — Committee on House Administration
 
+## Recorded votes (1)
+
+- 2014-05-07 — [House 113-2-201](votes/house-113-2-0201.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (383–33)
+
 ## Actions
 
 - 2013-02-27 — Introduced in House
@@ -141,3 +145,10 @@ Commission to Study the Potential Creation of a National Women's History Museum 
 - 2014-05-06 — Placed on the Union Calendar, Calendar No. 327.
 - 2014-05-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-411, Part II.
 - 2014-05-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-411, Part II.
+- 2014-05-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-05-07 — Considered as unfinished business. (consideration: CR H3481-3482)
+- 2014-05-07 — Considered under suspension of the rules. (consideration: CR H3471-3477)
+- 2014-05-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 863.
+- 2014-05-07 — Mrs. Lummis moved to suspend the rules and pass the bill, as amended.
+- 2014-05-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 33 (Roll no. 201). (text: CR H3471-3472)
+- 2014-05-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 33 (Roll no. 201).(text: CR H3471-3472)
