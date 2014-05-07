@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 83
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 83
@@ -29,3 +29,8 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an ev
 - 2014-02-11 — Introduced in House
 - 2014-02-11 — Introduced in House
 - 2014-02-11 — Referred to the House Committee on House Administration.
+- 2014-05-07 — Considered under suspension of the rules. (consideration: CR H3477-3479)
+- 2014-05-07 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 83.
+- 2014-05-07 — Mrs. Miller (MI) moved to suspend the rules and agree to the resolution.
+- 2014-05-07 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3478)
+- 2014-05-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3478)
