@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3329
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 5371` | insert | Section 171(b)(5)(C) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5371(b)(5)(C)) is amended by inserting “or small savings and loan holding company” after “any small bank holding company”. | the bill quotes the text inserted but describes where it goes |
+| — | insert | Section 171(b)(5)(C) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5371(b)(5)(C)) is amended by inserting “or small savings and loan holding company” after “any small bank holding company”. | the bill names no machine-readable US Code section |

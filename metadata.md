@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3329
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3329
@@ -25,9 +25,10 @@ To enhance the ability of community financial institutions to foster economic gr
 - Rep. Veasey, Marc A. [D-TX-33] (V000131)
 - Rep. Miller, Gary G. [R-CA-31] (M001139)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To enhance the ability of community financial institutions to foster economic gr
 - 2014-05-06 — Mrs. Capito moved to suspend the rules and pass the bill.
 - 2014-05-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3424)
 - 2014-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3424)
+- 2014-05-07 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
