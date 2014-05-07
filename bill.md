@@ -2,7 +2,7 @@
 legis-num: H. RES. 565
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 565
@@ -26,7 +26,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Carter Hull, a 48-year veteran of the Federal Government, testified that the “multi-tier review” was unprecedented in his experience;
 - Whereas on June 1, 2011, Holly Paz, Director of Rulings and Agreements within the Exempt Organizations Division, requested the tax-exempt application filed by Crossroads Grassroots Policy Strategies for review by Lois G. Lerner’s senior technical advisor;
 - Whereas in June 2011, Lois G. Lerner ordered the Tea Party cases to be renamed because she viewed the term “Tea Party” to be “pejorative”;
-- Whereas on March 22, 2012, IRS Commissioner Douglas Shulman was specifically asked about the targeting of Tea Party groups applying for tax-exempt status during a hearing before the House Committee on Ways and Means, to which he replied, “I can give you assurances … [t]here is absolutely no targeting.”;
+- Whereas on March 22, 2012, IRS Commissioner Douglas Shulman was specifically asked about the targeting of Tea Party groups applying for tax-exempt status during a hearing before the House Committee on Ways and Means, to which he replied, “I can give you assurances * * * [t]here is absolutely no targeting.”;
 - Whereas on April 26, 2012, IRS Exempt Organizations Director Lois G. Lerner informed the House Committee on Oversight and Government Reform that information requests were done in “the ordinary course of the application process”;
 - Whereas on May 4, 2012, IRS Exempt Organizations Director Lois G. Lerner provided to the House Committee on Oversight and Government Reform specific justification for the IRS’s information requests;
 - Whereas prior to the November 2012 election, the IRS provided 31 applications for tax-exempt status to the investigative website ProPublica, all of which were from conservative groups and nine of which had not yet been approved by the IRS, and Federal law prohibits public disclosure of application materials until after the application has been approved;
@@ -38,7 +38,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Ways and Means Committee determined that, of the 298 applications delayed and set aside for extra scrutiny by the IRS, 83 percent were from right-leaning organizations;
 - Whereas the Ways and Means Committee also determined that, as of Lois G. Lerner’s May 10, 2013 apology, only 45 percent of the right-leaning groups set aside for extra scrutiny had been approved, while 70 percent of left-leaning groups and 100 percent of the groups with “progressive” names had been approved;
 - Whereas the Ways and Means Committee has also determined that, of the groups that were inappropriately subject to demands to divulge confidential donors, 89 percent were right-leaning;
-- Whereas on May 15, 2013, Attorney General Holder testified before the Judiciary Committee that the Department of Justice would conduct a “dispassionate” investigation into the IRS matter, and “[t]his will not be about parties … this will not be about ideological persuasions … anybody who has broken the law will be held accountable”;
+- Whereas on May 15, 2013, Attorney General Holder testified before the Judiciary Committee that the Department of Justice would conduct a “dispassionate” investigation into the IRS matter, and “[t]his will not be about parties * * * this will not be about ideological persuasions * * * anybody who has broken the law will be held accountable”;
 - Whereas on May 15, 2013, President Barack Obama called the IRS’s targeting “inexcusable” and promised that he would “not tolerate this kind of behavior in any agency, but especially in the IRS, given the power that it has and the reach that it has into all of our lives”;
 - Whereas the Attorney General has stated that the Department of Justice’s investigation involves components from the Civil Rights Division and the Public Integrity Section;
 - Whereas the Civil Rights Division of the Department of Justice has a history of politicization, as evident in the report by the Department of Justice Office of Inspector General entitled, “A Review of the Operations of the Voting Rights Section of the Civil Rights Division”;
