@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2919
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2919
@@ -26,9 +26,10 @@ Open Book on Equal Access to Justice Act
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
 - Rep. Bishop, Rob [R-UT-1] (B001250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Open Book on Equal Access to Justice Act
 - 2014-05-06 — Placed on the Union Calendar, Calendar No. 322.
 - 2014-05-06 — Reported by the Committee on Judiciary. H. Rept. 113-434.
 - 2014-05-06 — Reported by the Committee on Judiciary. H. Rept. 113-434.
+- 2014-05-07 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
