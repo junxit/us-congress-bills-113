@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3468
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3468
@@ -41,3 +41,14 @@ Credit Union Share Insurance Fund Parity Act
 - 2014-05-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3426)
 - 2014-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3426)
 - 2014-05-07 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2014-12-11 — Message on Senate action sent to the House.
+- 2014-12-11 — Passed Senate without amendment by Unanimous Consent.
+- 2014-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-12-11 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S6608)
+- 2014-12-11 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S6608)
+- 2014-12-12 — Presented to President.
+- 2014-12-12 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-252.
+- 2014-12-18 — Became Public Law No: 113-252.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
