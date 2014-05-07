@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 567
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 567
@@ -25,3 +25,7 @@ Providing for the Establishment of the Select Committee on the Events Surroundin
 - 2014-05-06 — Introduced in House
 - 2014-05-06 — Introduced in House
 - 2014-05-06 — Referred to the House Committee on Rules.
+- 2014-05-07 — Placed on the House Calendar, Calendar No. 105.
+- 2014-05-07 — Reported by the Committee on Rules. H. Rept. 113-442.
+- 2014-05-07 — Reported by the Committee on Rules. H. Rept. 113-442.
+- 2014-05-07 — Rules Committee Resolution H. Res. 575 Reported to House. Rule provides for consideration of H. Res. 567 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. Bill is closed to amendments.
