@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 575
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 575
+
+> Providing for consideration of the resolution (H. Res. 567) providing for the Establishment of the Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi.
+
+That upon the adoption of this resolution it shall be in order without intervention of any point of order to consider in the House the resolution (H. Res. 567) providing for the Establishment of the Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi. The resolution shall be considered as read. The previous question shall be considered as ordered on the resolution to its adoption without intervening motion or demand for division of the question except one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Rules.
