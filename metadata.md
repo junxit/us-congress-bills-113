@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4292
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4292
@@ -22,9 +22,10 @@ Foreign Cultural Exchange Jurisdictional Immunity Clarification Act
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Foreign Cultural Exchange Jurisdictional Immunity Clarification Act
 - 2014-05-06 — Placed on the Union Calendar, Calendar No. 323.
 - 2014-05-06 — Reported by the Committee on Judiciary. H. Rept. 113-435.
 - 2014-05-06 — Reported by the Committee on Judiciary. H. Rept. 113-435.
+- 2014-05-07 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
