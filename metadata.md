@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4386
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4386
@@ -45,3 +45,14 @@ Money Remittances Improvement Act of 2014
 - 2014-05-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3422-3423)
 - 2014-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3422-3423)
 - 2014-05-07 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2014-08-01 — Message on Senate action sent to the House.
+- 2014-08-01 — Passed Senate without amendment by Unanimous Consent.
+- 2014-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-08-01 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S5329)
+- 2014-08-01 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S5329)
+- 2014-08-04 — Presented to President.
+- 2014-08-04 — Presented to President.
+- 2014-08-08 — Became Public Law No: 113-156.
+- 2014-08-08 — Became Public Law No: 113-156.
+- 2014-08-08 — Signed by President.
+- 2014-08-08 — Signed by President.
