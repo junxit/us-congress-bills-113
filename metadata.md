@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3468
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3468
@@ -23,9 +23,10 @@ Credit Union Share Insurance Fund Parity Act
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Peters, Gary C. [D-MI-14] (P000595)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Credit Union Share Insurance Fund Parity Act
 - 2014-05-06 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2014-05-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3426)
 - 2014-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3426)
+- 2014-05-07 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
