@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4386
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4386
@@ -29,9 +29,10 @@ Money Remittances Improvement Act of 2014
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 - Rep. Bass, Karen [D-CA-37] (B001270)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Money Remittances Improvement Act of 2014
 - 2014-05-06 — Mrs. Capito moved to suspend the rules and pass the bill.
 - 2014-05-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3422-3423)
 - 2014-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3422-3423)
+- 2014-05-07 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
