@@ -33,4 +33,4 @@ The Congress makes the following findings:
   - **(B)** greater child engagement in case planning while in foster care;
   - **(C)** improved efforts to locate and respond to children who have run away from foster care and to reduce the number of foster children who are on the run;
   - **(D)** improved policies and procedures that encourage age or developmentally-appropriate activities for children in foster care and that permit more opportunities for such children to make meaningful and permanent connections with caring adults; and
-  - **(E)** with regard to domestic sex trafficking, improved identification, prevention, and intervention by the child welfare agency in collaboration with the courts, local law enforcement agencies, schools, juvenile justice agencies, and other social service providers.
+  - **(E)** with regard to domestic sex trafficking, improved identification, prevention, and intervention by the child welfare agency in collaboration with the courts, State and local law enforcement agencies, schools, juvenile justice agencies, and other social service providers.

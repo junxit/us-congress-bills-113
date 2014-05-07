@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4058
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-39 amendatory instructions. 7 executed, 32 stated and not applied.
+37 amendatory instructions. 6 executed, 31 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -78,15 +78,6 @@ to guess them.
 | Removed | `independent living` |
 | Inserted | `a successful adulthood` |
 
-### 42 U.S.C. § 675
-
-> by striking “and receives assistance” and inserting “receives assistance”; and
-
-| | |
-|---|---|
-| Removed | `and receives assistance` |
-| Inserted | `receives assistance` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -109,7 +100,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 671` | insert | by inserting “, and that the preparation shall include knowledge and skills relating to the reasonable and prudent parent standard for the participation of the child in age or developmentally-appropriate activities, including knowledge a… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 671` | amend | Section 471(a)(10) of such Act (42 U.S.C. 671(a)(10)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 675` | insert | Section 475(5)(C)(i) of the Social Security Act (42 U.S.C. 675(5)(C)(i)) is amended by inserting “only in the case of a child who has attained 16 years of age” before “(in cases where”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 622` | insert | Section 422(b)(8)(A)(iii)(II) of such Act (42 U.S.C. 622(b)(8)(A)(iii)(II)) is amended by inserting “, subject to the requirements of paragraphs (5)(C) and (10) of section 475” after “arrangement”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 622` | insert | Section 422(b)(8)(A)(iii)(II) of such Act (42 U.S.C. 622(b)(8)(A)(iii)(II)) is amended by inserting “, subject to the requirements of sections 475(5)(C) and 475A(a)” after “arrangement”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 670` | insert | Part E of title IV of such Act (42 U.S.C. 670 et seq.) is amended by inserting after section 475 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 622` | insert | Section 422(b)(8)(A)(ii) of such Act (42 U.S.C. 622(b)(8)(A)(ii)) is amended by inserting “and in accordance with the requirements of section 475A” after “section 475(5)”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 671` | insert | by inserting “and in accordance with the requirements of section 475A” after “section 475(1)”; and | the bill quotes the text inserted but describes where it goes |
@@ -119,8 +110,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 675` | add-at-end | Section 475(1)(B) of the Social Security Act (42 U.S.C. 675(1)(B)) is amended by adding at the end the following: “With respect to a child who has attained 14 years of age, the plan developed for the child in accordance with this paragra… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 675` | strike | by striking “and” at the end of clause (ii); and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 675` | add-at-end | by adding at the end the following: “and (iv) if a child has attained 14 years of age, the permanency plan developed for the child, and any revision or addition to the plan, shall be developed in consultation with the child and, at the o… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 675` | amend | Section 475A of such Act, as added by section 202(b)(1) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 461` | insert | by inserting “, and, unless the child has been in foster care for less than 6 months or the child is being discharged from care to return to live with the family of the child or to be adopted, is not discharged from care without being pr… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 675` | add-at-end | Section 475A of such Act, as added by section 202(b)(1) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 679` | strike | in subparagraph (C)(iii), by striking “and” after the comma; and | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 7102` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 679b` | replace | by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
