@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2672
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2672
@@ -43,3 +43,4 @@ Helping Expand Lending Practices in Rural Communities Act
 - 2014-05-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3420)
 - 2014-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3420)
 - 2014-05-06 — The title of the measure was amended. Agreed to without objection.
+- 2014-05-07 — Received in the Senate.
