@@ -2,7 +2,7 @@
 legis-num: H. RES. 576
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 576
@@ -32,7 +32,7 @@ The Committee on Appropriations may, at any time before 5 p.m. on Thursday, May 
 
 ## § 6.
 
-During consideration of the bill (H.R. 4438) to amend the Internal Revenue Code of 1986 to simplify and make permanent the research credit, pursuant to House Resolution 569, the further amendment printed in part B of the report of the Committee on Rules accompanying this resolution shall be considered as adopted.
+During consideration of the bill (H.R. 4438) to amend the Internal Revenue Code of 1986 to simplify and make permanent the research credit, pursuant to House Resolution 569, the further amendment printed in part B of the report of the Committee on Rules accompanying this resolution shall be considered as adopted at the end of the bill.
 
 ## § 7.
 

@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 576
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
