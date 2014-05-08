@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4366
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4366
@@ -47,3 +47,8 @@ Strengthening Education through Research Act
 - 2014-04-29 — Placed on the Union Calendar, Calendar No. 313.
 - 2014-04-29 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-424.
 - 2014-04-29 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-424.
+- 2014-05-08 — Considered under suspension of the rules. (consideration: CR H3988-4001)
+- 2014-05-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4366.
+- 2014-05-08 — Mr. Rokita moved to suspend the rules and pass the bill, as amended.
+- 2014-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3988-3999)
+- 2014-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3988-3999)
