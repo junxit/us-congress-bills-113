@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 83
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 83
@@ -36,3 +36,4 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an ev
 - 2014-05-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3478)
 - 2014-05-08 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S2887-2888)
 - 2014-05-08 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S2887-2888)
+- 2014-05-09 — Message on Senate action sent to the House.
