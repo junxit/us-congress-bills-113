@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3826
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3826
@@ -233,3 +233,6 @@ Electricity Security and Affordability Act
 - 2014-03-06 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3826.
 - 2014-03-06 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2213)
 - 2014-03-06 — The previous question was ordered pursuant to the rule. (consideration: CR H2211)
+- 2014-03-10 — Received in the Senate.
+- 2014-05-07 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-05-08 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 374.
