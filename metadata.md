@@ -1,7 +1,7 @@
 ---
 measure: H.R. 863
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 863
@@ -152,3 +152,4 @@ Commission to Study the Potential Creation of a National Women's History Museum 
 - 2014-05-07 — Mrs. Lummis moved to suspend the rules and pass the bill, as amended.
 - 2014-05-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 33 (Roll no. 201). (text: CR H3471-3472)
 - 2014-05-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 33 (Roll no. 201).(text: CR H3471-3472)
+- 2014-05-08 — Received in the Senate.
