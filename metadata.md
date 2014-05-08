@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2824
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2824
@@ -84,3 +84,6 @@ Preventing Government Waste and Protecting Coal Mining Jobs in America
 - 2014-03-25 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2633)
 - 2014-03-25 — The resolution provides for consideration of H.R. 2824 and H.R. 2641. The resolution provides one hour of general debate for each bill and makes in order specified amendments printed in the Rules Committee Report 113-374. The resolution provides one motion to recommit.
 - 2014-03-25 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2014-03-26 — Received in the Senate.
+- 2014-05-07 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-05-08 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 373.
