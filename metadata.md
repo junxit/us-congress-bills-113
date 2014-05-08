@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2548
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2548
@@ -141,6 +141,10 @@ Electrify Africa Act of 2014
 - House — Financial Services Committee
 - House — Foreign Affairs Committee
 
+## Recorded votes (1)
+
+- 2014-05-08 — [House 113-2-208](votes/house-113-2-0208.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (297–117)
+
 ## Actions
 
 - 2013-06-27 — Introduced in House
@@ -154,3 +158,10 @@ Electrify Africa Act of 2014
 - 2014-05-02 — Placed on the Union Calendar, Calendar No. 321.
 - 2014-05-02 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 113-433, Part I.
 - 2014-05-02 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 113-433, Part I.
+- 2014-05-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-05-07 — Considered under suspension of the rules. (consideration: CR H3923-3929)
+- 2014-05-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2548.
+- 2014-05-07 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
+- 2014-05-08 — Considered as unfinished business. (consideration: CR H3970-3971)
+- 2014-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 297 - 117 (Roll no. 208). (text: CR 5/7/2014 H3923-3929)
+- 2014-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 297 - 117 (Roll no. 208).(text: CR 5/7/2014 H3923-3929)

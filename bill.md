@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2548
 
-> To establish a comprehensive United States Government policy to assist countries in sub-Saharan Africa to develop an appropriate mix of power solutions for more broadly distributed electricity access in order to support poverty alleviation and drive economic growth, and for other purposes.
+> To establish a comprehensive United States Government policy to encourage the efforts of countries in sub-Saharan Africa to develop an appropriate mix of power solutions, including renewable energy, for more broadly distributed electricity access in order to support poverty reduction, promote development outcomes, and drive economic growth, and for other purposes.
 
 ## § 1. Short title
 
