@@ -2,7 +2,7 @@
 legis-num: H. RES. 567
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 567
@@ -47,8 +47,8 @@ There is hereby established the Select Committee on the Events Surrounding the 2
     - **(A)** The chair of the Select Committee, upon consultation with the ranking minority member, may order the taking of depositions, under oath and pursuant to notice or subpoena, by a Member of the Select Committee or a counsel of the Select Committee.
     - **(B)** Depositions taken under the authority prescribed in this paragraph shall be governed by the procedures submitted by the chair of the Committee on Rules for printing in the Congressional Record.
   - **(6)** The chair of the Select Committee may, after consultation with the ranking minority member, recognize—
-    - **(A)** Members of the Select Committee to question a witness for periods longer than five minutes as though pursuant to clause (2)(j)(2)(B) of rule XI; and
-    - **(B)** staff of the Select Committee to question a witness as though pursuant to clause (2)(j)(2)(C) of rule XI.
+    - **(A)** Members of the Select Committee to question a witness for periods longer than five minutes as though pursuant to clause 2(j)(2)(B) of rule XI; and
+    - **(B)** staff of the Select Committee to question a witness as though pursuant to clause 2(j)(2)(C) of rule XI.
 
 ## § 5. Records; Staff; Funding
 
