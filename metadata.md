@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4438
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4438
@@ -46,6 +46,11 @@ American Research and Competitiveness Act of 2014
 
 - House — Ways and Means Committee
 
+## Recorded votes (2)
+
+- 2014-05-09 — [House 113-2-210](votes/house-113-2-0210.md) — On Motion to Recommit with Instructions — **Failed** (191–209)
+- 2014-05-09 — [House 113-2-211](votes/house-113-2-0211.md) — On Passage — **Passed** (274–131)
+
 ## Actions
 
 - 2014-04-09 — Introduced in House
@@ -56,3 +61,22 @@ American Research and Competitiveness Act of 2014
 - 2014-05-02 — Placed on the Union Calendar, Calendar No. 319.
 - 2014-05-02 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-431.
 - 2014-05-02 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-431.
+- 2014-05-06 — Rules Committee Resolution H. Res. 569 Reported to House. Rule provides for consideration of H.R. 4438 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived. The amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill shall be considered as adopted.
+- 2014-05-07 — Rule H. Res. 569 passed House.
+- 2014-05-08 — Considered as unfinished business. (consideration: CR H3985-3988)
+- 2014-05-08 — Considered under the provisions of rule H. Res. 569. (consideration: CR H3980-3985; text of measure as reported in House: CR H3980-3981)
+- 2014-05-08 — DEBATE - The House proceeded with one hour of debate on H.R. 4438.
+- 2014-05-08 — DEBATE - The House resumed with the remaining 28 and 3/4 minutes of debate.
+- 2014-05-08 — House amendment offered
+- 2014-05-08 — POSTPONED PROCEEDINGS - The Chair announced that pursuant to clause 1(c) of rule 19, further proceedings on H.R. 4438 would be postponed.
+- 2014-05-08 — POSTPONED PROCEEDINGS - The Chair announced that pursuant to clause 1(c) of rule 19, further proceedings on H.R. 4438 would be postponed.
+- 2014-05-08 — Rule provides for consideration of H.R. 4438 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived. The amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill shall be considered as adopted.
+- 2014-05-08 — The previous question was ordered pursuant to the rule. (consideration: CR H3988)
+- 2014-05-09 — Considered as unfinished business. (consideration: CR H4021-4023)
+- 2014-05-09 — DEBATE - The House proceeded with 10 minutes of debate on the Kirkpatrick motion to recommit with instructions. The instructions contained in the motion seek to ensure that businesses can only claim the Research and Development credit for expenses attributable to wages if they: (1) guarantee female employees receive equal pay for equal work; (2) give priority to hiring unemployed Americans, especially veterans; and (3) do not outsource American jobs. Additionally, the motion ensures that the underlying legislation cannot take effect if it increases the deficit.
+- 2014-05-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-05-09 — Mrs. Kirkpatrick moved to recommit with instructions to the Committee on Ways and Means. (consideration: CR H4021-4022; text: CR H4021)
+- 2014-05-09 — On motion to recommit with instructions Failed by the Yeas and Nays: 191 - 209 (Roll no. 210).
+- 2014-05-09 — On passage Passed by the Yeas and Nays: 274 - 131 (Roll no. 211). (text: CR 5/8/2014 H3980-3981)
+- 2014-05-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 274 - 131 (Roll no. 211).(text: CR 5/8/2014 H3980-3981)
+- 2014-05-09 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4022)

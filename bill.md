@@ -55,3 +55,8 @@ This Act may be cited as the “American Research and Competitiveness Act of 201
 - **(d)** *Effective date*
   - **(1)** *In general* Except as provided in paragraph (2), the amendments made by this section shall apply to taxable years beginning after December 31, 2013.
   - **(2)** *Subsection (b)* The amendment made by subsection (b) shall apply to amounts paid or incurred after December 31, 2013.
+
+## § 3. PAYGO Scorecard
+
+- **(a)** *Paygo Scorecard* The budgetary effects of this Act shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010.
+- **(b)** *Senate Paygo Scorecard* The budgetary effects of this Act shall not be entered on any PAYGO scorecard maintained for purposes of section 201 of S. Con. Res. 21 (110th Congress).
