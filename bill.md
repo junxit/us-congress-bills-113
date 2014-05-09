@@ -30,7 +30,7 @@ Except as otherwise specifically provided, whenever in this Act a section or oth
   > - **(3)** expand the number of high-quality charter schools available to students across the Nation;
   > - **(4)** evaluate the impact of such schools on student achievement, families, and communities, and share best practices between charter schools and other public schools;
   > - **(5)** encourage States to provide support to charter schools for facilities financing in an amount more nearly commensurate to the amount the States have typically provided for traditional public schools;
-  > - **(6)** improve student services to increase opportunities for students with disabilities, limited English proficient students, and other traditionally underserved students to attend charter schools and meet challenging State academic achievement standards;
+  > - **(6)** improve student services to increase opportunities for students with disabilities, English learners, and other traditionally underserved students to attend charter schools and meet challenging State academic achievement standards;
   > - **(7)** support efforts to strengthen the charter school authorizing process to improve performance management, including transparency, oversight, monitoring, and evaluation of such schools; and
   > - **(8)** support quality accountability and transparency in the operational performance of all authorized public chartering agencies, which include State educational agencies, local educational agencies, and other authorizing entities.
 
@@ -53,6 +53,9 @@ Section 5202 (20 U.S.C. 7221a) is amended to read as follows:
 >   - **(2)** reserve not more than 10 percent to carry out national activities under section 5205; and
 >   - **(3)** use the remaining amount after the Secretary reserves funds under paragraphs (1) and (2) to carry out section 5203.
 > - **(c)** *Prior grants and subgrants* The recipient of a grant or subgrant under this subpart or subpart 2, as such subpart was in effect on the day before the date of enactment of the Success and Opportunity through Quality Charter Schools Act, shall continue to receive funds in accordance with the terms and conditions of such grant or subgrant.
+> - **(d)** *GAO report* Not later than 3 years after the date of enactment of the Success and Opportunity through Quality Charter Schools Act, the Comptroller General of the United States shall submit a report to the Secretary and Congress that—
+>   - **(1)** examines whether the funds authorized to be reserved by State entities for administrative costs under section 5203(b)(1)(C) is appropriate; and
+>   - **(2)** if determined not to be appropriate, makes recommendations on the appropriate reservation of funding for such administrative costs.
 
 ## § 5. Grants to support high-quality charter schools
 
@@ -85,7 +88,7 @@ Section 5203 (20 U.S.C. 7221b) is amended to read as follows:
 >       - **(i)** award not less than 3 grants under this section;
 >       - **(ii)** wholly fund each grant awarded under this section, without making continuation awards; and
 >       - **(iii)** fully obligate the funds appropriated for the purpose of awarding grants under this section in the fiscal year for which such grants are awarded; and
->     - **(B)** midway through the grant period of each grant awarded under this section to a State entity, review the grant to determine whether the State entity will meet the agreed upon uses of funds in the State entity’s application, and if not, reallot the grant funds that will not be used for such agreed upon uses of funds to other State entities during the succeeding grant competition under this section.
+>     - **(B)** prior to the start of the final year of the grant period of each grant awarded under this section to a State entity, review whether the State entity is using the grant funds for the agreed upon uses of funds and whether the full amount of the grant will be needed for the remainder of the grant period and may, as determined necessary based on that review, terminate or reduce the amount of the grant and reallocate the remaining grant funds to other State entities during the succeeding grant competition under this section.
 >   - **(4)** *Diversity of Projects* Each State entity receiving a grant under this section shall award subgrants under this section in a manner that, to the extent possible, ensures that such subgrants—
 >     - **(A)** are distributed throughout different areas, including urban, suburban, and rural areas; and
 >     - **(B)** will assist charter schools representing a variety of educational approaches.
@@ -93,7 +96,7 @@ Section 5203 (20 U.S.C. 7221b) is amended to read as follows:
 >     - **(A)** the waiver is requested in an approved application under this section; and
 >     - **(B)** the Secretary determines that granting such a waiver will promote the purpose of this subpart.
 > - **(d)** *Limitations*
->   - **(1)** *Grants* A State entity may not receive more than 1 grant under this section for a 5-year period.
+>   - **(1)** *Grants* The Secretary shall not award a grant to a State entity under this section in a case in which such award would result in more than 1 grant awarded under this section being carried out in a State at the same time.
 >   - **(2)** *Subgrants* An eligible applicant may not receive more than 1 subgrant under this section per individual charter school for a 5-year period, unless the eligible applicant demonstrates to the State entity not less than 3 years of improved educational results in the areas described in subparagraphs (A) and (D) of section 5210(8) for students enrolled in such charter school.
 > - **(e)** *Applications* A State entity desiring to receive a grant under this section shall submit an application to the Secretary at such time and in such manner as the Secretary may require. The application shall include the following:
 >   - **(1)** *Description of Program* A description of the State entity’s objectives under this section and how the objectives of the program will be carried out, including a description—
@@ -111,14 +114,15 @@ Section 5203 (20 U.S.C. 7221b) is amended to read as follows:
 >       - **(vi)** will ensure each eligible applicant that receives a subgrant under the State entity’s program to open and prepare to operate a new charter school, a replicated, high-quality charter school model, or an expanded, high-quality charter school—
 >         - **(I)** will ensure such school or model meets the requirements under section 5210(1); and
 >         - **(II)** is prepared to continue to operate such school or model, in a manner consistent with the eligible applicant’s application, after the subgrant funds have expired;
->       - **(vii)** will support charter schools in local educational agencies with large numbers of schools identified by the State for improvement;
->       - **(viii)** will work with charter schools to promote inclusion of all students and support all students once they are enrolled to promote retention;
+>       - **(vii)** will support charter schools in local educational agencies with large numbers of schools identified by the State for improvement, including supporting the use of charter schools to improve, or in turning around, struggling schools;
+>       - **(viii)** will work with charter schools to promote inclusion of all students, including eliminating any barriers to enrollment for foster youth or unaccompanied homeless youth, and support all students once they are enrolled to promote retention including through the use of fair disciplinary practice;
 >       - **(ix)** will work with charter schools on recruitment practices, including efforts to engage groups that may otherwise have limited opportunities to participate in charter schools, and to ensure such schools do not have in effect policies or procedures that may create barriers to enrollment of students, including educationally disadvantaged students, and are in compliance with all Federal and State laws on enrollment practices;
 >       - **(x)** will share best and promising practices between charter schools and other public schools, including, where appropriate, instruction and professional development in core academic subjects, and science, technology, engineering, and math education, including computer science;
 >       - **(xi)** will ensure the charter schools receiving funds under the State entity’s program meet the educational needs of their students, including students with disabilities and English learners;
 >       - **(xii)** will support efforts to increase quality initiatives, including meeting the quality authorizing elements described in paragraph (2)(E);
->       - **(xiii)** in the case of a State entity not described in clause (xiv), will provide oversight of authorizing activity, including how the State will approve, actively monitor, and re-approve or revoke the authority of an authorized public chartering agency based on the performance of the charter schools authorized by such agency in the areas of student achievement, student safety, financial management, and compliance with all applicable statutes and regulations; and
->       - **(xiv)** in the case of a State entity defined in subsection (i)(4), will work with the State to provide assistance to and oversight of authorized public chartering agencies for authorizing activity described in clause (xiii);
+>       - **(xiii)** in the case of a State entity not described in clause (xiv), will provide oversight of authorizing activity, including how the State will approve, actively monitor, and re-approve or revoke the authority of an authorized public chartering agency based on the performance of the charter schools authorized by such agency in the areas of student achievement, student safety, financial management, and compliance with all applicable statutes and regulations;
+>       - **(xiv)** in the case of a State entity defined in subsection (i)(4), will work with the State to provide assistance to and oversight of authorized public chartering agencies for authorizing activity described in clause (xiii); and
+>       - **(xv)** will work with eligible applicants receiving a subgrant under the State entity’s program to support the opening of charter schools or charter school models described in clause (i) that are secondary schools;
 >     - **(B)** of the extent to which the State entity—
 >       - **(i)** is able to meet and carry out the priorities listed in subsection (f)(2); and
 >       - **(ii)** is working to develop or strengthen a cohesive statewide system to support the opening of new charter schools, replicated, high-quality charter school models, or expanded, high-quality charter schools;
@@ -134,19 +138,23 @@ Section 5203 (20 U.S.C. 7221b) is amended to read as follows:
 >     - **(F)** of how the State entity will support diverse charter school models, including models that serve rural communities.
 >   - **(2)** *Assurances* Assurances, including a description of how the assurances will be met, that—
 >     - **(A)** each charter school receiving funds under the State entity’s program will have a high degree of autonomy over budget and operations;
->     - **(B)** the State entity will support charter schools in meeting the educational needs of their students as described in paragraph (1)(A)(x);
+>     - **(B)** the State entity will support charter schools in meeting the educational needs of their students as described in paragraph (1)(A)(xi);
 >     - **(C)** the State entity will ensure that the authorized public chartering agency of any charter school that receives funds under the State entity’s program—
 >       - **(i)** adequately monitors each charter school in recruiting, enrolling, and meeting the needs of all students, including students with disabilities and English learners; and
 >       - **(ii)** ensures that each charter school solicits and considers input from parents and other members of the community on the implementation and operation of the school;
 >     - **(D)** the State entity will provide adequate technical assistance to eligible applicants to—
->       - **(i)** meet the objectives described in clauses (vii) and (viii) of paragraph (1)(A) and paragraph (2)(B); and
+>       - **(i)** meet the objectives described in clauses (viii) and (ix) of paragraph (1)(A) and paragraph (2)(B); and
 >       - **(ii)** recruit, enroll, and retain traditionally underserved students, including students with disabilities and English learners, at rates similar to traditional public schools;
 >     - **(E)** the State entity will promote quality authorizing, such as through providing technical assistance and supporting all authorized public chartering agencies in the State to improve the oversight of their charter schools, including by—
->       - **(i)** assessing annual performance data of the schools, including, as appropriate, graduation rates and student academic growth;
+>       - **(i)** assessing annual performance data of the schools, including, as appropriate, graduation rates, student academic growth, and rates of student attrition;
 >       - **(ii)** reviewing the schools’ independent, annual audits of financial statements conducted in accordance with generally accepted accounting principles, and ensuring any such audits are publically reported; and
 >       - **(iii)** holding charter schools accountable to the academic, financial, and operational quality controls agreed to between the charter school and the authorized public chartering agency involved, such as through renewal, non-renewal, or revocation of the school’s charter;
 >     - **(F)** the State entity will work to ensure that charter schools are included with the traditional public schools in decision-making about the public school system in the State; and
->     - **(G)** the State entity will ensure that each charter school in the State make publicly available, consistent with the dissemination requirements of the annual State report card, information to help parents make informed decisions about the education options available to their children, including information on the educational program, student support services, and annual performance and enrollment data for the groups of students described in section 1111(b)(2)(C)(v)(II).
+>     - **(G)** The State entity will ensure that each charter school in the State makes publicly available, consistent with the dissemination requirements of the annual State report card, information to help parents make informed decisions about the education options available to their children, including information for each school on—
+>       - **(i)** the educational program;
+>       - **(ii)** student support services;
+>       - **(iii)** annual performance and enrollment data, disaggregated by the groups of students described in section 1111(b)(2)(C)(v)(II); and
+>       - **(iv)** any other information the State requires all other public schools to report for purposes of section 1111(h)(1)(D).
 >   - **(3)** *Requests for waivers* A request and justification for waivers of any Federal statutory or regulatory provisions that the State entity believes are necessary for the successful operation of the charter schools that will receive funds under the State entity’s program under this section, and a description of any State or local rules, generally applicable to public schools, that will be waived, or otherwise not apply to such schools or, in the case of a State entity defined in subsection (i)(4), a description of how the State entity will work with the State to request necessary waivers where applicable.
 > - **(f)** *Selection criteria; priority*
 >   - **(1)** *Selection criteria* The Secretary shall award grants to State entities under this section on the basis of the quality of the applications submitted under subsection (e), after taking into consideration—
@@ -167,7 +175,7 @@ Section 5203 (20 U.S.C. 7221b) is amended to read as follows:
 >     - **(C)** The State entity is located in a State that ensures equitable financing, as compared to traditional public schools, for charter schools and students in a prompt manner.
 >     - **(D)** The State entity is located in a State that uses charter schools and best practices from charter schools to help improve struggling schools and local educational agencies.
 >     - **(E)** The State entity partners with an organization that has a demonstrated record of success in developing management organizations to support the development of charter schools in the State.
->     - **(F)** The State entity supports charter schools that support at-risk students through activities such as dropout prevention or dropout recovery.
+>     - **(F)** The State entity supports charter schools that support at-risk students through activities such as dropout prevention, dropout recovery, or comprehensive career counseling practices.
 >     - **(G)** The State entity authorizes all charter schools in the State to serve as school food authorities.
 >     - **(H)** The State entity has taken steps to ensure that all authorizing public chartering agencies implement best practices for charter school authorizing.
 > - **(g)** *Local uses of funds* An eligible applicant receiving a subgrant under this section shall use such funds to carry out activities related to opening and preparing to operate a new charter school, a replicated, high-quality charter school model, or an expanded, high-quality charter school, such as—
@@ -177,13 +185,14 @@ Section 5203 (20 U.S.C. 7221b) is amended to read as follows:
 > - **(h)** *Reporting requirements* Each State entity receiving a grant under this section shall submit to the Secretary, at the end of the third year of the 5-year grant period and at the end of such grant period, a report on—
 >   - **(1)** the number of students served by each subgrant awarded under this section and, if applicable, how many new students were served during each year of the subgrant period;
 >   - **(2)** the progress the State entity made toward meeting the priorities described in subsection (f)(2), as applicable;
->   - **(3)** how the State entity met the objectives of the quality charter school program described in the State entity’s application under subsection (e);
+>   - **(3)** how the State entity met the objectives of the quality charter school program described in the State entity’s application under subsection (e), including how the State entity met the objective of sharing best and promising practices described in subsection (e)(1)(A)(x) in areas such as instruction, professional development, curricula development, and operations between charter schools and other public schools, and the extent to which, if known, such practices were adopted and implemented by such other public schools;
 >   - **(4)** how the State entity complied with, and ensured that eligible applicants complied with, the assurances described in the State entity’s application;
->   - **(5)** how the State entity worked with authorized public chartering agencies, including how the agencies worked with the management company or leadership of the schools that received subgrants under this section; and
+>   - **(5)** how the State entity worked with authorized public chartering agencies, including how the agencies worked with the management company or leadership of the schools that received subgrants under this section;
 >   - **(6)** the number of subgrants awarded under this section to carry out each of the following:
 >     - **(A)** The opening of new charter schools.
 >     - **(B)** The opening of replicated, high-quality charter school models.
->     - **(C)** The opening of expanded, high-quality charter schools.
+>     - **(C)** The opening of expanded, high-quality charter schools; and
+>   - **(7)** how the State entity has worked with charter schools receiving funds under the State entity’s program to foster community involvement in the planning for and opening of such schools.
 > - **(i)** *State entity defined* For purposes of this section, the term State entity means—
 >   - **(1)** a State educational agency;
 >   - **(2)** a State charter school board;
@@ -290,10 +299,10 @@ Section 5205 (20 U.S.C. 7221d) is amended to read as follows:
 >   - **(1)** *In general* The Secretary shall make grants, on a competitive basis, to eligible applicants for the purpose of carrying out the activities described in section 5202(a)(1), subparagraphs (A) through (C) of section 5203(a)(1), and section 5203(g).
 >   - **(2)** *Terms and conditions* Except as otherwise provided in this subsection, grants awarded under this subsection shall have the same terms and conditions as grants awarded to State entities under section 5203.
 >   - **(3)** *Charter management organizations* The Secretary shall—
->     - **(A)** use not less than 75 percent of the funds described in subsection (a)(1) to make grants, on a competitive basis, to eligible applicants described in paragraph (4)(C); and
+>     - **(A)** use not less than 75 percent of the funds described in subsection (a)(1) to make grants, on a competitive basis, to eligible applicants described in paragraph (4)(B); and
 >     - **(B)** notwithstanding paragraphs (1)(A) and (2) of section 5203(f)—
 >       - **(i)** award grants to eligible applicants on the basis of the quality of the applications submitted under this subsection; and
->       - **(ii)** in awarding grants to eligible applicants described in paragraph (4)(C), give priority to each such eligible applicant that—
+>       - **(ii)** in awarding grants to eligible applicants described in paragraph (4)(B), take into consideration whether such an eligible applicant—
 >         - **(I)** demonstrates a high proportion of high-quality charter schools within the network of the eligible applicant;
 >         - **(II)** demonstrates success in serving students who are educationally disadvantaged;
 >         - **(III)** does not have a significant proportion of charter schools that have been closed, had their charter revoked for compliance issues, or had their affiliation with such eligible applicant revoked;
@@ -348,7 +357,7 @@ Section 5210 (20 U.S.C. 7221i) is amended—
   >   - **(B)** has no significant issues in the areas of student safety, operational and financial management, or statutory or regulatory compliance;
   >   - **(C)** has demonstrated success in significantly increasing student academic achievement, including graduation rates where applicable, consistent with the requirements under title I, for all students served by the charter school; and
   >   - **(D)** has demonstrated success in increasing student academic achievement, including graduation rates where applicable, for the groups of students described in section 1111(b)(2)(C)(v)(II), except that such demonstration is not required in a case in which the number of students in a group is insufficient to yield statistically reliable information or the results would reveal personally identifiable information about an individual student.
-  > - **(9)** *Replicated, high-quality charter school model* The term replicated, high-quality charter school model means a high-quality charter school that has opened a new campus under an existing charter or an additional charter if required by State law.
+  > - **(9)** *Replicated, high-quality charter school model* The term replicated, high-quality charter school model means a high-quality charter school that has opened a new campus under an existing charter or an additional charter if required or permitted by State law.
 
 ## § 10. Authorization of appropriations
 
