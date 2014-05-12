@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4438
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4438
@@ -80,3 +80,4 @@ American Research and Competitiveness Act of 2014
 - 2014-05-09 — On passage Passed by the Yeas and Nays: 274 - 131 (Roll no. 211). (text: CR 5/8/2014 H3980-3981)
 - 2014-05-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 274 - 131 (Roll no. 211).(text: CR 5/8/2014 H3980-3981)
 - 2014-05-09 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4022)
+- 2014-05-12 — Received in the Senate.
