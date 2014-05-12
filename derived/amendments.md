@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4366
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -303,7 +303,7 @@ to guess them.
 | Removed | `and wide dissemination activities` |
 | Inserted | `and, consistent with section 114(j), wide dissemination and utilization activities` |
 
-### 20 U.S.C. § 9543
+### 34 U.S.C. § 200
 
 > in subparagraph (E), by striking “and opportunity for,” and inserting “opportunity for, and completion of”;
 
@@ -312,7 +312,7 @@ to guess them.
 | Removed | `and opportunity for,` |
 | Inserted | `opportunity for, and completion of` |
 
-### 20 U.S.C. § 9543
+### 34 U.S.C. § 200
 
 > in subparagraph (L), by striking “and opportunity for,” and inserting “opportunity for, and quality of”;
 
@@ -321,7 +321,7 @@ to guess them.
 | Removed | `and opportunity for,` |
 | Inserted | `opportunity for, and quality of` |
 
-### 20 U.S.C. § 9543
+### 34 U.S.C. § 200
 
 > in subparagraph (M), by striking “such programs during school recesses” and inserting “summer school”; and
 
@@ -330,7 +330,7 @@ to guess them.
 | Removed | `such programs during school recesses` |
 | Inserted | `summer school` |
 
-### 20 U.S.C. § 9543
+### 34 U.S.C. § 200
 
 > in subparagraph (N), by striking “vocational” and inserting “career”;
 
@@ -339,7 +339,7 @@ to guess them.
 | Removed | `vocational` |
 | Inserted | `career` |
 
-### 20 U.S.C. § 9543
+### 34 U.S.C. § 200
 
 > in paragraph (3), by striking “when such disaggregated information will facilitate educational and policy decisionmaking” and inserting “so long as any reported information does not reveal individually identifiable information”;
 
@@ -348,7 +348,7 @@ to guess them.
 | Removed | `when such disaggregated information will facilitate educational and policy decisionmaking` |
 | Inserted | `so long as any reported information does not reveal individually identifiable information` |
 
-### 20 U.S.C. § 9543
+### 34 U.S.C. § 200
 
 > by striking “Third” and inserting “Trends in”; and
 
@@ -1019,18 +1019,18 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 9541` | insert | in paragraph (2), by inserting “and consistent with the privacy protections under section 183” after “manner”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 9541` | insert | in subparagraph (A), by inserting “disability,” after “cultural,”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 9541` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 9543` | insert | in the matter preceding paragraph (1), by inserting “, consistent with the privacy protections under section 183,” after “Center shall”; | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 9543` | amend | by amending subparagraph (D) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 9543` | amend | by amending subparagraph (F) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 9543` | insert | in subparagraph (G), by inserting “and school leaders” before the semicolon; | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 9543` | insert | in subparagraph (H), by inserting “, climate, and in- and out-of-school suspensions and expulsions” before “, including information regarding”; | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 9543` | amend | by amending subparagraph (K) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 9543` | insert | in paragraph (4), by inserting before the semicolon the following: “, and the implementation (with the assistance of the Department and other Federal officials who have statutory authority to provide assistance on applicable privacy laws… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 9543` | strike | in paragraph (5), by striking “promote linkages across States,”; | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 9543` | insert | by inserting “and the Program for International Student Assessment” after “Science Study”; | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 9543` | insert | in paragraph (7), by inserting before the semicolon the following: “, ensuring such collections protect student privacy consistent with section 183”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 9543` | amend | by amending paragraph (8) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 9543` | strike | by striking paragraph (9); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 200` | insert | in the matter preceding paragraph (1), by inserting “, consistent with the privacy protections under section 183,” after “Center shall”; | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 200` | amend | by amending subparagraph (D) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 200` | amend | by amending subparagraph (F) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 200` | insert | in subparagraph (G), by inserting “and school leaders” before the semicolon; | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 200` | insert | in subparagraph (H), by inserting “, climate, and in- and out-of-school suspensions and expulsions” before “, including information regarding”; | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 200` | amend | by amending subparagraph (K) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 200` | insert | in paragraph (4), by inserting before the semicolon the following: “, and the implementation (with the assistance of the Department and other Federal officials who have statutory authority to provide assistance on applicable privacy laws… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 200` | strike | in paragraph (5), by striking “promote linkages across States,”; | the bill quotes the text struck but describes what replaces it |
+| `34 U.S.C. § 200` | insert | by inserting “and the Program for International Student Assessment” after “Science Study”; | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 200` | insert | in paragraph (7), by inserting before the semicolon the following: “, ensuring such collections protect student privacy consistent with section 183”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 200` | amend | by amending paragraph (8) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 200` | strike | by striking paragraph (9); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 9543` | redesignate | by redesignating subsection (b) as subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 9543` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 9544` | replace | by striking “In carrying” and inserting the following: | the bill quotes the text struck but describes what replaces it |

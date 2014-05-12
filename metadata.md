@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4366
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4366
@@ -33,9 +33,10 @@ Strengthening Education through Research Act
 - Rep. Walberg, Tim [R-MI-7] (W000798)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Strengthening Education through Research Act
 - 2014-05-08 — Mr. Rokita moved to suspend the rules and pass the bill, as amended.
 - 2014-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3988-3999)
 - 2014-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3988-3999)
+- 2014-05-12 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
