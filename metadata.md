@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 10
@@ -41,9 +41,10 @@ Success and Opportunity through Quality Charter Schools Act
 - Rep. Hudson, Richard [R-NC-8] (H001067)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (6)
 
@@ -172,3 +173,4 @@ Success and Opportunity through Quality Charter Schools Act
 - 2014-05-09 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2014-05-09 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 10.
 - 2014-05-09 — UNFINISHED BUSINESS - The Chair announced that, pursuant to clause 6 of Rule XVIII, the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2014-05-12 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
