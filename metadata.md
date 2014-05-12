@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2548
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2548
@@ -136,10 +136,11 @@ Electrify Africa Act of 2014
 - Rep. Smith, Adam [D-WA-9] (S000510)
 - Rep. Gabbard, Tulsi [D-HI-2] (G000571)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -165,3 +166,4 @@ Electrify Africa Act of 2014
 - 2014-05-08 — Considered as unfinished business. (consideration: CR H3970-3971)
 - 2014-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 297 - 117 (Roll no. 208). (text: CR 5/7/2014 H3923-3929)
 - 2014-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 297 - 117 (Roll no. 208).(text: CR 5/7/2014 H3923-3929)
+- 2014-05-12 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
