@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4435
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4435
@@ -29,3 +29,27 @@ Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015
 - 2014-04-09 — Introduced in House
 - 2014-04-09 — Introduced in House
 - 2014-04-09 — Referred to the House Committee on Armed Services.
+- 2014-04-28 — Referred to the Subcommittee on Intelligence, Emerging Threats & Capabilities.
+- 2014-04-28 — Referred to the Subcommittee on Military Personnel.
+- 2014-04-28 — Referred to the Subcommittee on Readiness.
+- 2014-04-28 — Referred to the Subcommittee on Seapower and Projection Forces.
+- 2014-04-28 — Referred to the Subcommittee on Strategic Forces.
+- 2014-04-28 — Referred to the Subcommittee on Tactical Air and Land Forces.
+- 2014-04-30 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2014-04-30 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2014-04-30 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2014-04-30 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2014-04-30 — Subcommittee Consideration and Mark-up Session Held.
+- 2014-04-30 — Subcommittee Consideration and Mark-up Session Held.
+- 2014-04-30 — Subcommittee Consideration and Mark-up Session Held.
+- 2014-04-30 — Subcommittee Consideration and Mark-up Session Held.
+- 2014-05-01 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2014-05-01 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2014-05-01 — Subcommittee Consideration and Mark-up Session Held.
+- 2014-05-01 — Subcommittee Consideration and Mark-up Session Held.
+- 2014-05-07 — Committee Consideration and Mark-up Session Held.
+- 2014-05-08 — Committee Consideration and Mark-up Session Held.
+- 2014-05-08 — Ordered to be Reported (Amended) by the Yeas and Nays: 61 - 0.
+- 2014-05-13 — Placed on the Union Calendar, Calendar No. 329.
+- 2014-05-13 — Reported (Amended) by the Committee on Armed Services. H. Rept. 113-446.
+- 2014-05-13 — Reported (Amended) by the Committee on Armed Services. H. Rept. 113-446.
