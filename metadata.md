@@ -1,7 +1,7 @@
 ---
 measure: H.R. 306
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 306
@@ -26,3 +26,10 @@ For the relief of Corina de Chalup Turcinovic.
 - 2013-01-15 — Introduced in House
 - 2013-01-15 — Referred to the House Committee on the Judiciary.
 - 2013-01-15 — Referred to the Subcommittee on Immigration and Border Security.
+- 2014-04-04 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2014-04-04 — Subcommittee Consideration and Mark-up Session Held.
+- 2014-04-30 — Committee Consideration and Mark-up Session Held.
+- 2014-04-30 — Ordered to be Reported by Voice Vote.
+- 2014-05-13 — Placed on the Private Calendar, Calendar No. 1.
+- 2014-05-13 — Reported by the Committee on Judiciary. H. Rept. 113-445.
+- 2014-05-13 — Reported by the Committee on Judiciary. H. Rept. 113-445.
