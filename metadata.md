@@ -1,7 +1,7 @@
 ---
 measure: S. 1309
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1309
@@ -24,3 +24,8 @@ Military Land Withdrawals Act of 2014
 
 - 2013-07-16 — Introduced in Senate
 - 2013-07-16 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-07-30 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 113-85.
+- 2013-11-14 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-05-14 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 113-161.
+- 2014-05-14 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 113-161.
+- 2014-05-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 378.
