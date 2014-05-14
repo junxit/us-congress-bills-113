@@ -1,7 +1,7 @@
 ---
 legis-num: S. RES. 314
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -12,12 +12,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
 ## Preamble
 
 - Whereas an estimated 35,000,000 people are living with HIV/AIDS in 2013;
-- Whereas Target 6a of the United Nations Millennium Development Goals is to halt and begin to reverse the spread of HIV/AIDS by 2015;
 - Whereas the 2001 United Nations Declaration of Commitment on HIV/AIDS Global mobilized global attention and commitment to the HIV/AIDS epidemic and set out a series of national targets and global actions to reverse the epidemic;
-- Whereas the 2011 United Nations Political Declaration on HIV and AIDS provided an updated framework for intensified efforts to eliminate HIV and AIDS, including redoubling efforts to achieve by 2015 universal access to HIV prevention, treatment, care, and support, and to eliminate gender inequalities and gender-based abuse and violence and increase the capacity of women and adolescent girls to protect themselves from the risk of HIV infection;
+- Whereas the 2011 United Nations General Assembly High Level Meeting on AIDS addressed the progress of intensified efforts to eliminate HIV and AIDS, including redoubling efforts to achieve by 2015 universal access to HIV prevention, treatment, care, and support, and to eliminate gender inequalities and gender-based abuse and violence and increase the capacity of women and adolescent girls to protect themselves from the risk of HIV infection;
 - Whereas the Global Fund to Fight AIDS, Tuberculosis and Malaria was launched in 2002 and, as of November 2013, supported programs in more than 140 countries that provided antiretroviral therapy to 6,100,000 people living with HIV/AIDS and antiretrovirals to 2,100,000 pregnant women to prevent transmission of HIV/AIDS to their babies;
 - Whereas the United States is the largest donor to the Global Fund to Fight AIDS, Tuberculosis and Malaria;
-- Whereas, for every dollar contributed to the Global Fund to Fight AIDS, Tuberculosis and Malaria by the United States, an additional $2 is leveraged from other donors;
+- Whereas for every dollar contributed to the Global Fund to Fight AIDS, Tuberculosis and Malaria by the United States, an additional $2 is leveraged from other donors;
 - Whereas the United States hosted the Global Fund’s Fourth Voluntary Replenishment Conference on December 2–3, 2013;
 - Whereas the United States President’s Emergency Plan for AIDS Relief (PEPFAR), introduced by President George W. Bush in 2003, remains the largest commitment in history by any nation to combat a single disease;
 - Whereas, as of the end of September 2012, PEPFAR supported treatment for 5,100,000 people, up from 1,700,000 in 2008, and in 2012, PEPFAR supported provision of antiretroviral drugs to 750,000 pregnant women living with HIV to prevent the transmission of HIV from mother to baby during birth;
@@ -38,7 +37,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 That the Senate—
 
 - **(1)** supports the goals and ideals of World AIDS Day, including getting to zero through zero new HIV infections, zero discrimination, and zero AIDS-related deaths;
-- **(2)** applauds the goals and approaches for achieving an AIDS-free generation set forth in the PEPFAR Blueprint: Creating an AIDS-free Generation, as well as the targets set by United Nations member states in the 2011 United Nations Political Declaration on HIV and AIDS;
+- **(2)** applauds the goals and approaches for achieving an AIDS-free generation set forth in the PEPFAR Blueprint: Creating an AIDS-free Generation;
 - **(3)** commends the dramatic progress in global AIDS programs supported through the efforts of PEPFAR, the Global Fund to Fight AIDS, Tuberculosis and Malaria, and UNAIDS;
 - **(4)** urges, in order to ensure that an AIDS-free generation is within reach, rapid action towards—
   - **(A)** full implementation of the Global Plan Towards the Elimination of New HIV Infections Among Children by 2015 and Keeping Their Mothers Alive to build on progress made to date; and

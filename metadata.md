@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 314
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 314
@@ -33,3 +33,16 @@ A resolution commemorating and supporting the goals of World AIDS Day.
 - 2013-12-18 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2013-12-18 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2013-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 272.
+- 2014-05-14 — Amendment SA 3096 agreed to in Senate by Unanimous Consent.
+- 2014-05-14 — Amendment SA 3096 proposed by Senator Reid for Senator Coons. (consideration: CR S3043; text: CR S3043) To make a technical correction.
+- 2014-05-14 — Amendment SA 3097 agreed to in Senate by Unanimous Consent.
+- 2014-05-14 — Amendment SA 3097 proposed by Senator Reid for Senator Coons. (consideration: CR S3043-3044; text: CR S3044) To amend the preamble.
+- 2014-05-14 — Measure laid before Senate by unanimous consent. (consideration: CR S3043-3044)
+- 2014-05-14 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(text: CR S3044)
+- 2014-05-14 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (text: CR S3044)
+- 2014-05-14 — Senate amendment agreed to: Amendment SA 3096 agreed to in Senate by Unanimous Consent.
+- 2014-05-14 — Senate amendment agreed to: Amendment SA 3097 agreed to in Senate by Unanimous Consent.
+- 2014-05-14 — Senate amendment proposed (on the floor): Amendment SA 3096 proposed by Senator Reid for Senator Coons.(consideration: CR S3043; text: CR S3043)
+- 2014-05-14 — Senate amendment proposed (on the floor): Amendment SA 3097 proposed by Senator Reid for Senator Coons.(consideration: CR S3043-3044; text: CR S3044)
+- 2014-05-14 — Senate amendment submitted
+- 2014-05-14 — Senate amendment submitted
