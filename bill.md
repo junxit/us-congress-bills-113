@@ -1,7 +1,7 @@
 ---
 legis-num: S. 753
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -25,6 +25,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(c)** *Transfer of administrative jurisdiction* Effective on the date of enactment of this Act, administrative jurisdiction over the approximately 2,050 acres of land generally depicted as “Parcel 2” on the map—
   - **(1)** is transferred from the Secretary of the Army to the Secretary of the Interior (acting through the Director of the Bureau of Land Management); and
   - **(2)** shall be managed in accordance with—
+    - **(A)** the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.); and
+    - **(B)** any other applicable laws.
+- **(c)** *Revocation of withdrawal; management* Effective on the date of enactment of this Act—
+  - **(1)** Public Land Order 833, dated May 21, 1952 (17 Fed. Reg. 4822), is revoked with respect to the approximately 2,050 acres of land generally depicted as “Parcel 2” on the map; and
+  - **(2)** the land described in paragraph (1) shall be managed by the Secretary of the Interior as public land, in accordance with—
     - **(A)** the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.); and
     - **(B)** any other applicable laws.
 - **(d)** *Legal description*
