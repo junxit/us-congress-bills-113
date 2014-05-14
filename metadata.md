@@ -1,7 +1,7 @@
 ---
 measure: S. 2076
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2076
@@ -29,3 +29,7 @@ U.S. Merchant Marine Academy Board of Visitors Enhancement Act
 
 - 2014-03-04 — Introduced in Senate
 - 2014-03-04 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2014-04-09 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2014-05-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. With written report No. 113-158.
+- 2014-05-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. With written report No. 113-158.
+- 2014-05-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 375.
