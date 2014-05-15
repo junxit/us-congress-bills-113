@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3530
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-46 amendatory instructions. 13 executed, 33 stated and not applied.
+32 amendatory instructions. 12 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,32 +24,41 @@ to guess them.
 
 ## Executed
 
-### 18 U.S.C. § 1594
+### 42 U.S.C. § 14044b
 
-> by striking “that was used or” and inserting “that was involved in, used, or”;
-
-| | |
-|---|---|
-| Removed | `that was used or` |
-| Inserted | `that was involved in, used, or` |
-
-### 18 U.S.C. § 1594
-
-> by striking “Any property, real or personal, used or” and inserting “Any property, real or personal, involved in, used, or”; and
+> by striking “Secretary of Health and Human Services” and inserting “Attorney General, in consultation with the Secretary of Health and Human Services,”; and
 
 | | |
 |---|---|
-| Removed | `Any property, real or personal, used or` |
-| Inserted | `Any property, real or personal, involved in, used, or` |
+| Removed | `Secretary of Health and Human Services` |
+| Inserted | `Attorney General, in consultation with the Secretary of Health and Human Services,` |
 
-### 18 U.S.C. § 1959
+### 42 U.S.C. § 14044b
 
-> by striking “murders, kidnaps, maims” and inserting “aggravated human trafficking racketeering activity, murders, kidnaps, human trafficking, sexual exploitation, coerced prostitution, maims”; and
+> by striking “fiscal years 2008 through 2011” and inserting “fiscal years 2015 through 2019”.
 
 | | |
 |---|---|
-| Removed | `murders, kidnaps, maims` |
-| Inserted | `aggravated human trafficking racketeering activity, murders, kidnaps, human trafficking, sexual exploitation, coerced prostitution, maims` |
+| Removed | `fiscal years 2008 through 2011` |
+| Inserted | `fiscal years 2015 through 2019` |
+
+### 42 U.S.C. § 13004
+
+> in subsection (a), by striking “fiscal years 2004 and 2005” and inserting “fiscal years 2015 through 2019”; and
+
+| | |
+|---|---|
+| Removed | `fiscal years 2004 and 2005` |
+| Inserted | `fiscal years 2015 through 2019` |
+
+### 42 U.S.C. § 13004
+
+> in subsection (b), by striking “fiscal years 2004 and 2005” and inserting “fiscal years 2015 through 2019”.
+
+| | |
+|---|---|
+| Removed | `fiscal years 2004 and 2005` |
+| Inserted | `fiscal years 2015 through 2019` |
 
 ### 42 U.S.C. § 5780
 
@@ -123,24 +132,6 @@ to guess them.
 | Removed | `a preponderance of the evidence` |
 | Inserted | `clear and convincing evidence` |
 
-### 18 U.S.C. § 2423
-
-> in subsection (b), by striking “for the purpose” and inserting “with a motivating purpose of”; and
-
-| | |
-|---|---|
-| Removed | `for the purpose` |
-| Inserted | `with a motivating purpose of` |
-
-### 18 U.S.C. § 2423
-
-> in subsection (d), by striking “for the purpose of engaging” and inserting “with a motivating purpose of engaging”.
-
-| | |
-|---|---|
-| Removed | `for the purpose of engaging` |
-| Inserted | `with a motivating purpose of engaging` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -150,36 +141,23 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `8 U.S.C. § 1324` | add-at-end | Chapter 201 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 3013` | insert | The table of sections for chapter 201 of title 18, United States Code, is amended by inserting after the item relating to section 3013 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 7105` | add-at-end | Section 107(f) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7105) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 14044b` | amend | Section 203 of the Trafficking Victims Protection Reauthorization Act of 2005 (42 U.S.C. 14044b) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10601` | insert | Section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601) is amended in subsection (d) by inserting before paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 14044b` | redesignate | by redesignating subsection (g) as subsection (j); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7102` | replace | by striking subsections (a) through (f), and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 13001a` | insert | in section 212(5) (42 U.S.C. 13001a(5)), by inserting “, including human trafficking and the production of child pornography” before the semicolon at the end; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 13002` | redesignate | by redesignating subsections (b), (c), and (d) as subsections (c), (d), and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 13002` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1594` | insert | by inserting “or any property traceable to such property” after “such violation”; and | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 1594` | insert | in paragraph (2), by inserting “, or any property traceable to such property” after “such violation”; and | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 1594` | insert | by inserting “, or any property traceable to such property” after “any violation of this chapter”; | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 1594` | redesignate | by redesignating subsection (f) as subsection (g); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1594` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 524` | insert | Section 524(c)(1)(B) of title 28, United States Code, is amended by inserting “chapter 77 of title 18,” after “criminal drug laws of the United States or of”. | the bill quotes the text inserted but describes where it goes |
-| `31 U.S.C. § 9703` | strike | in clause (iii)(III), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `31 U.S.C. § 9703` | replace | in clause (iv), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `31 U.S.C. § 9703` | insert | by inserting after clause (iv) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 13002` | insert | Section 214 of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13002), as amended by this Act, is further amended by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 13003` | insert | Section 214A of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13003) is amended by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 2516` | insert | Section 2516(2) of title 18, United States Code, is amended by inserting “human trafficking, child sexual exploitation, child pornography production,” after “kidnapping,”. | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 1963` | add-at-end | Chapter 96 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1963` | insert | Section 1963 of title 18, United States Code, is amended by inserting “or section 1969” after “section 1962” each place it appears. | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 1959` | insert | by inserting “or aggravated human-trafficking racketeering activity” before “, or for the purpose”; and | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 1959` | redesignate | by redesignating paragraphs (1) and (2) as paragraphs (2) and (3), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1959` | redesignate | by inserting before paragraph (2), as redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1968` | insert | The table of sections for chapter 96 of title 18, United States Code, is amended by inserting after the item relating to section 1968 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3755` | add-at-end | Section 505 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3755) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5780` | strike | in paragraph (2), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5780` | insert | in subparagraph (A), by inserting “and a photograph taken within the previous 180 days” after “dental records”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5780` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5780` | redesignate | by redesignating subparagraph (C) as subparagraph (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5780` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | in section 1583(a), in the flush text following paragraph (3), by striking “not more than 20 years” and inserting “not more than 30 years”; | the bill names no machine-readable US Code section |
-| — | replace | in section 1587, by striking “four years” and inserting “10 years”; and | the bill names no machine-readable US Code section |
-| — | replace | in section 1591(d), by striking “20 years” and inserting “25 years”; and | the bill names no machine-readable US Code section |
-| — | replace | in section 2426(a), by striking “twice” and inserting “3 times”. | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 3771` | add-at-end | in subsection (a), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 3771` | insert | in subsection (d)(3), in the fifth sentence, by inserting “, unless the litigants, with the approval of the court, have stipulated to a different time period for consideration” before the period; and | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 3771` | replace | by striking “this chapter, the term” and inserting the following: "this chapter: | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 3771` | replace | by striking “In the case” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 3771` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 3771` | insert | Section 3771(d)(3) of title 18, United States Code, as amended by subsection (a)(2) of this section, is amended by inserting after the fifth sentence the following: “In deciding such application, the court of appeals shall apply ordinary… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
