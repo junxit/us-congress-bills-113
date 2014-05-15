@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4225
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 1 executed, 1 stated and not applied.
+6 amendatory instructions. 3 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,24 @@ to guess them.
 | Removed | `or 1591` |
 | Inserted | `1591, or 1591A` |
 
+### 18 U.S.C. § 1591
+
+> in paragraph (1), by striking “or obtained” and inserting “obtained, or advertised”; and
+
+| | |
+|---|---|
+| Removed | `or obtained` |
+| Inserted | `obtained, or advertised` |
+
+### 18 U.S.C. § 1591
+
+> in paragraph (2), by striking “or obtained” and inserting “obtained, or advertised”.
+
+| | |
+|---|---|
+| Removed | `or obtained` |
+| Inserted | `obtained, or advertised` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -42,4 +60,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | The table of sections at the beginning of chapter 77 of title 18, United States Code, is amended by inserting after the item relating to section 1591 the following: | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 1591` | insert | The table of sections at the beginning of chapter 77 of title 18, United States Code, is amended by inserting after the item relating to section 1591 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1591` | insert | Section 1591 of title 18, United States Code, is amended in subsection (a)(1), by inserting after “obtains,” the following: “advertises,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1591` | insert | Section 1591 of title 18, United States Code, is amended in subsection (a), by inserting after “knowing, or” the following: “, except where, in an offense under paragraph (2), the act constituting the violation of paragraph (1) is advert… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
