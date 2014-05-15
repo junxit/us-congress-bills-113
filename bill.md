@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3361
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,5 +11,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Uniting and Strengthening America by Fulfilling Rights and Ending Eavesdropping, Dragnet-collection, and Online Monitoring Act” or the “USA FREEDOM Act”.
+- **(a)** *Short title* This Act may be cited as the “USA FREEDOM Act”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 2. Amendments to the Foreign Intelligence Surveillance Act of 1978
+
+Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or a repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.).

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3361
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3361
@@ -16,7 +16,7 @@ USA FREEDOM Act
 
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 
-## Cosponsors (78)
+## Cosponsors (152)
 
 - Rep. Conyers, John, Jr. [D-MI-13] (C000714)
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
@@ -96,6 +96,80 @@ USA FREEDOM Act
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 - Rep. Schweikert, David [R-AZ-6] (S001183)
 - Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
+- Rep. Enyart, William L. [D-IL-12] (E000292)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Hanabusa, Colleen W. [D-HI-1] (H001050)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Tierney, John F. [D-MA-6] (T000266)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Perry, Scott [R-PA-4] (P000605)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Ribble, Reid J. [R-WI-8] (R000587)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Nugent, Richard B. [R-FL-11] (N000185)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Salmon, Matt [R-AZ-5] (S000018)
+- Rep. Fleming, John [R-LA-4] (F000456)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Vela, Filemon [D-TX-34] (V000132)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. Stockman, Steve [R-TX-36] (S000937)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. Capps, Lois [D-CA-24] (C001036)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Matsui, Doris O. [D-CA-6] (M001163)
+- Rep. Broun, Paul C. [R-GA-10] (B001262)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Bridenstine, Jim [R-OK-1] (B001283)
+- Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Garrett, Scott [R-NJ-5] (G000548)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Lujan, Ben Ray [D-NM-3] (L000570)
+- Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Campbell, John [R-CA-45] (C001064)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
+- Rep. Clark, Katherine M. [D-MA-5] (C001101)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Tsongas, Niki [D-MA-3] (T000465)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Gardner, Cory [R-CO-4] (G000562)
+- Rep. Neal, Richard E. [D-MA-1] (N000015)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Lance, Leonard [R-NJ-7] (L000567)
+- Rep. Peters, Gary C. [D-MI-14] (P000595)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Serrano, Jose E. [D-NY-15] (S000248)
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
 
 ## Committees (3)
 
@@ -110,3 +184,14 @@ USA FREEDOM Act
 - 2013-10-29 — Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-10-29 — Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-10-29 — Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-01-09 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2014-05-06 — Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.
+- 2014-05-07 — Committee Consideration and Mark-up Session Held.
+- 2014-05-07 — Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 0.
+- 2014-05-15 — Committee on Financial Services discharged.
+- 2014-05-15 — Committee on Financial Services discharged.
+- 2014-05-15 — Placed on the Union Calendar, Calendar No. 334.
+- 2014-05-15 — Reported (Amended) by the Committee on Intelligence. H. Rept. 113-452, Part II.
+- 2014-05-15 — Reported (Amended) by the Committee on Intelligence. H. Rept. 113-452, Part II.
+- 2014-05-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-452, Part I.
+- 2014-05-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-452, Part I.
