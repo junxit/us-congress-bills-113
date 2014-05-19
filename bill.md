@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 685
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -47,8 +47,3 @@ The Secretary may strike and sell duplicates in bronze of the gold medal struck 
 ## § 5. National medals
 
 The medal struck pursuant to this Act is a national medal for purposes of chapter 51 of title 31, United States Code.
-
-## § 6. Authority To use fund amounts; proceeds of sale
-
-- **(a)** *Authority To use fund amounts* There is authorized to be charged against the United States Mint Public Enterprise Fund, an amount not to exceed $40,000 to pay for the cost of the medal authorized under section 3.
-- **(b)** *Proceeds of sale* Amounts received from the sale of duplicate bronze medals under section 4 shall be deposited in the United States Mint Public Enterprise Fund.
