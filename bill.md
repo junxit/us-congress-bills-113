@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2939
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,9 +23,9 @@ Congress makes the following findings:
 - **(8)** Maintaining strong bilateral relations between the United States and Israel has been a priority of Shimon Peres since he began working with the United States in the days of John F. Kennedy. The strong bond is exemplified by the following:
   - **(A)** President Reagan said to Shimon Peres upon his visit to the United States, “Mr. Prime Minister, I thank you very much for your visit. It's been an occasion to renew a friendship and to review and enhance the strength of our unique bilateral relationship.”.
   - **(B)** At another point President Reagan said of Shimon Peres, “His vision, his statesmanship and his tenacity are greatly appreciated here.”.
-  - **(C)** While visiting with Shimon Peres at the Residence of the President in Jerusalem, President Obama described Shimon Peres as “… a son of Israel who’s devoted his life to keeping Israel strong and sustaining the bonds between our two nations”.
+  - **(C)** While visiting with Shimon Peres at the Residence of the President in Jerusalem, President Obama described Shimon Peres as “* * * a son of Israel who’s devoted his life to keeping Israel strong and sustaining the bonds between our two nations”.
   - **(D)** On March 20, 2013, Shimon Peres reaffirmed his belief in the relationship between the United States and Israel, stating, “America stood by our side from the very beginning. You support us as we rebuild our ancient homeland and as we defend our land. From Holocaust to redemption.”.
-  - **(E)** On March 21, 2013, Shimon Peres stated, “… America is so great and we are so small. But I learned that you don't measure us by size, but by values. When it comes to values, we are you and you are us … As I look back, I feel that the Israel of today has exceeded the vision we had 65 years ago. Reality has surpassed our dreams. The United States of America helped us to make this possible.”.
+  - **(E)** On March 21, 2013, Shimon Peres stated, “* * * America is so great and we are so small. But I learned that you don't measure us by size, but by values. When it comes to values, we are you and you are us * * * As I look back, I feel that the Israel of today has exceeded the vision we had 65 years ago. Reality has surpassed our dreams. The United States of America helped us to make this possible.”.
 
 ## § 2. Congressional gold medal
 
@@ -39,8 +39,3 @@ Under such regulations as the Secretary of the Treasury may prescribe, the Secre
 ## § 4. National medals
 
 Medals struck pursuant to this Act are national medals for purposes of chapter 51 of title 31, United States Code.
-
-## § 5. Authority to use fund amounts; proceeds of sale
-
-- **(a)** *Authorization of charges* There is authorized to be charged against the United States Mint Public Enterprise Fund, such amounts as may be necessary to pay for the costs of the medals struck pursuant to this Act.
-- **(b)** *Proceeds of sale* Amounts received from the sale of duplicate bronze medals under section 3 shall be deposited in the United States Mint Public Enterprise Fund.
