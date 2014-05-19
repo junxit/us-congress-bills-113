@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2203
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -46,8 +46,3 @@ Under such regulations as the Secretary of the Treasury may prescribe, the Secre
 ## § 4. National medals
 
 The medals struck under this Act are national medals for purposes of chapter 51 of title 31, United States Code.
-
-## § 5. Funding
-
-- **(a)** *Authorization of appropriations* There is authorized to be charged against the United States Mint Public Enterprise Fund an amount not to exceed $30,000 to pay for the cost of the medals authorized by this Act.
-- **(b)** *Proceeds of sale* Amounts received from the sale of duplicate bronze medals under section 3 shall be deposited in the United States Mint Public Enterprise Fund.
