@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4268
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4268
@@ -31,3 +31,9 @@ To amend title 23, United States Code, with respect to United States Route 78 in
 - 2014-03-14 — Introduced in House
 - 2014-03-14 — Introduced in House
 - 2014-03-14 — Referred to the House Committee on Transportation and Infrastructure.
+- 2014-03-17 — Referred to the Subcommittee on Highways and Transit.
+- 2014-05-19 — Considered under suspension of the rules. (consideration: CR H4439-4440)
+- 2014-05-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4268.
+- 2014-05-19 — Mr. Petri moved to suspend the rules and pass the bill.
+- 2014-05-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4439)
+- 2014-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4439)
