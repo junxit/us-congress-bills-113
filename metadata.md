@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4225
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4225
@@ -115,6 +115,10 @@ Stop Advertising Victims of Exploitation Act of 2014
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2014-05-20 — [House 113-2-222](votes/house-113-2-0222.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (392–19)
+
 ## Actions
 
 - 2014-03-13 — Introduced in House
@@ -127,3 +131,10 @@ Stop Advertising Victims of Exploitation Act of 2014
 - 2014-05-15 — Placed on the Union Calendar, Calendar No. 333.
 - 2014-05-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-451.
 - 2014-05-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-451.
+- 2014-05-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-05-20 — Considered as unfinished business. (consideration: CR H4535)
+- 2014-05-20 — Considered under suspension of the rules. (consideration: CR H4515-4522)
+- 2014-05-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4225.
+- 2014-05-20 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
+- 2014-05-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 19 (Roll no. 222). (text: CR H4515)
+- 2014-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 19 (Roll no. 222).(text: CR H4515)

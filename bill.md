@@ -15,15 +15,8 @@ This Act may be cited as the “Stop Advertising Victims of Exploitation Act of 
 
 ## § 2. Advertising that offers certain commercial sex acts
 
-> ## § 1591A. Advertising that offers certain commercial sex acts
->
-> - **(a)** *Offense* Whoever, in or affecting interstate or foreign commerce, knowingly benefits financially from, receives anything of value from, or distributes advertising that offers a commercial sex act in a manner prohibited under section 1591, shall be fined under this title, imprisoned not more than 5 years, or both.
-> - **(b)** *Definitions* In this section, the terms have the meanings given those terms in section 1591.
-
-## § 3. Extra-territorial jurisdiction
-
-Section 1596 of title 18, United States Code, is amended by striking “or 1591” and inserting “1591, or 1591A”.
-
-## § 4. Clerical amendment
-
-The table of sections at the beginning of chapter 77 of title 18, United States Code, is amended by inserting after the item relating to section 1591 the following:
+- **(a)** *In general* Section 1591 of title 18, United States Code, is amended in subsection (a)(1), by inserting after “obtains,” the following: “advertises,”.
+- **(b)** *Mens rea requirement* Section 1591 of title 18, United States Code, is amended in subsection (a), by inserting after “knowing, or” the following: “, except where, in an offense under paragraph (2), the act constituting the violation of paragraph (1) is advertising,”.
+- **(c)** *Conforming amendments* Section 1591(b) of title 18, United States Code, is amended—
+  - **(1)** in paragraph (1), by striking “or obtained” and inserting “obtained, or advertised”; and
+  - **(2)** in paragraph (2), by striking “or obtained” and inserting “obtained, or advertised”.
