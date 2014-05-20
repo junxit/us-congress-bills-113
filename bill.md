@@ -19,7 +19,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the Department of State's most recent human rights report on China found that “citizens did not have the right to change their government”;
 - Whereas, even in recent weeks, the Government of the People's Republic of China has detained those who attempt to peacefully commemorate the events of June 1989, including activists such as Pu Zhiqiang and Wen Kejian;
 - Whereas the Department of State’s most recent human rights report on China found “extrajudicial killings” remained a problem in China;
-- Whereas the Department of State’s most recent human rights report on China found the government continued to target “for arbitrary detention or arrest” “human rights activists, journalists … and former political prisoners and their family members”; and
+- Whereas the Department of State’s most recent human rights report on China found the government continued to target “for arbitrary detention or arrest”“human rights activists, journalists … and former political prisoners and their family members”; and
 - Whereas June 4, 2014, is the 25th anniversary of the Tiananmen Square massacre: Now, therefore, be it
 
 That the Senate—
