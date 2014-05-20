@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 585
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 585
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 4660) making appropriations for th
 - 2014-05-19 — Placed on the House Calendar, Calendar No. 108.
 - 2014-05-19 — The House Committee on Rules reported an original measure, H. Rept. 113-455, by Mr. Woodall.
 - 2014-05-19 — The House Committee on Rules reported an original measure, H. Rept. 113-455, by Mr. Woodall.
+- 2014-05-20 — Considered as privileged matter. (consideration: CR H4496-4501)
+- 2014-05-20 — DEBATE - The House proceeded with one hour of debate on H. Res. 585.
+- 2014-05-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-05-20 — On agreeing to the resolution Agreed to by voice vote. (text: CR H4496)
+- 2014-05-20 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H4496)
+- 2014-05-20 — The previous question was ordered without objection. (consideration: CR H4501)
