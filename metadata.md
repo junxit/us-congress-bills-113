@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1726
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1726
@@ -336,3 +336,4 @@ To award a Congressional Gold Medal to the 65th Infantry Regiment, known as the 
 - 2014-05-19 — Mr. Huizenga (MI) moved to suspend the rules and pass the bill, as amended.
 - 2014-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4440-4441)
 - 2014-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4440-4441)
+- 2014-05-20 — Received in the Senate, read twice.
