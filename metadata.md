@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2203
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2203
@@ -323,9 +323,10 @@ To provide for the award of a gold medal on behalf of Congress to Jack Nicklaus,
 - Rep. Chu, Judy [D-CA-27] (C001080)
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -343,3 +344,4 @@ To provide for the award of a gold medal on behalf of Congress to Jack Nicklaus,
 - 2014-05-19 — Mr. Huizenga (MI) moved to suspend the rules and pass the bill, as amended.
 - 2014-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 10 (Roll no. 218). (text: CR H4444-4445)
 - 2014-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 10 (Roll no. 218).(text: CR H4444-4445)
+- 2014-05-20 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
