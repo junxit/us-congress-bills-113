@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2203
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2203
@@ -345,3 +345,15 @@ To provide for the award of a gold medal on behalf of Congress to Jack Nicklaus,
 - 2014-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 10 (Roll no. 218). (text: CR H4444-4445)
 - 2014-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 10 (Roll no. 218).(text: CR H4444-4445)
 - 2014-05-20 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2014-12-01 — Passed Senate without amendment by Unanimous Consent.
+- 2014-12-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-12-01 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S6237)
+- 2014-12-01 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S6237)
+- 2014-12-02 — Message on Senate action sent to the House.
+- 2014-12-02 — Star Print ordered on the bill.
+- 2014-12-04 — Presented to President.
+- 2014-12-04 — Presented to President.
+- 2014-12-16 — Became Public Law No: 113-210.
+- 2014-12-16 — Became Public Law No: 113-210.
+- 2014-12-16 — Signed by President.
+- 2014-12-16 — Signed by President.

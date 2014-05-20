@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 2203
-congress: 113th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2203
@@ -32,7 +32,7 @@ Congress finds the following:
 - **(14)** Jack Nicklaus continues to manage the Memorial Tournament in his home State of Ohio, in which contributions generated through the aid of over 2,600 volunteers are given to support Nationwide Children’s Hospital and close to 75 other Central Ohio charities. This has garnered more than $5,700,000 for programs and services at Nationwide Children’s Hospital since 1976, so that Central Ohio will continue to have one of the best children’s hospitals in the United States.
 - **(15)** Jack Nicklaus serves as an honorary chairs of the American Lake Veterans Golf Course in Tacoma, Washington, which neighbors a Veterans Administration hospital and is designed for the rehabilitation of wounded and disabled veterans. Nicklaus has donated his design services for the improvement of the course, and raised contributions for the addition of nine new holes (the Nicklaus Nine), the construction of the Rehabilitation and Learning Center, and the upgrade of the maintenance facilities. The course is considered the only one in the United States designed solely for the use of disabled veterans. It served over 30,000 veterans and their families in 2011 to use the healing powers of golf to help them rehabilitate and recreate. The hope is that American Lake will serve as a pilot program for the more than 150 Veterans Administration hospitals nationwide.
 - **(16)** Jack Nicklaus serves as a spokesperson and Trustee for the First Tee program, which brings golf to children who would not otherwise be exposed to it, and teaches them valuable, character-building life lessons through the game of golf, and is a national co-chair of the organization’s More Than a Game campaign.
-- **(17)** Jack Nicklaus remains active in tournament golf, although he retired from major championship competition in 2005, when he played his final British Open and his final Masters Tournament, and led the United States to a thrilling victory in the President's Cup. He consults often with the PGA Tour, and no fewer than 95 Nicklaus courses have hosted a combined total of almost 700 professional tournaments. In 2013 alone, Nicklaus courses will host 17 PGA Tour-sanctioned events. His Muirfield Village Golf Club in Ohio will be hosting the Presidents Cup in October 2013, making it the only club in history to have hosted all three of the game’s most prominent international team competitions—the Ryder Cup, Solheim Cup and Presidents Cup. It is also expected that his course at the Jack Nicklaus Golf Club Korea in New Songdo City, South Korea, will be named the host venue for the 2015 Presidents Cup—the first time that country has hosted an international team competition of this stature
+- **(17)** Jack Nicklaus remains active in tournament golf, although he retired from major championship competition in 2005, when he played his final British Open and his final Masters Tournament, and led the United States to a thrilling victory in the President's Cup. He consults often with the PGA Tour, and no fewer than 95 Nicklaus courses have hosted a combined total of almost 700 professional tournaments. In 2013 alone, Nicklaus courses will host 17 PGA Tour-sanctioned events. His Muirfield Village Golf Club in Ohio will be hosting the Presidents Cup in October 2013, making it the only club in history to have hosted all three of the game’s most prominent international team competitions—the Ryder Cup, Solheim Cup and Presidents Cup. It is also expected that his course at the Jack Nicklaus Golf Club Korea in New Songdo City, South Korea, will be named the host venue for the 2015 Presidents Cup—the first time that country has hosted an international team competition of this stature.
 
 ## § 2. Congressional gold medal
 
