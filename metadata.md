@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4268
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4268
@@ -22,9 +22,10 @@ To amend title 23, United States Code, with respect to United States Route 78 in
 - Rep. Harper, Gregg [R-MS-3] (H001045)
 - Rep. Palazzo, Steven M. [R-MS-4] (P000601)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ To amend title 23, United States Code, with respect to United States Route 78 in
 - 2014-05-19 — Mr. Petri moved to suspend the rules and pass the bill.
 - 2014-05-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4439)
 - 2014-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4439)
+- 2014-05-20 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
