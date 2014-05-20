@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1098
 congress: 113th CONGRESS
-session: 1st Session
+session: 2nd Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,22 +15,31 @@ This Act may be cited as the “Traumatic Brain Injury Reauthorization Act of 20
 
 ## § 2. CDC programs for prevention and surveillance of traumatic brain injury
 
-Section 394A of the Public Health Service Act (42 U.S.C. 280b–3) is amended—
+- **(a)** *Prevention* Section 393B(b)(3) of the Public Health Service Act (42 U.S.C. 280b–1c(b)(3)) is amended by striking “health-status goals for 2010, commonly referred to as Healthy People 2010” and inserting “health-status goals for 2020, commonly referred to as Healthy People 2020”.
+- **(b)** *Surveillance* Subsection (b) of section 393C of the Public Health Service Act (42 U.S.C. 280b–1d) is amended—
+  - **(1)** by striking “(b) Not later than” and inserting the following:
+    > - **(b)** *Reports*
+    >   - **(1)** *Initial report* Not later than
 
-- **(1)** by striking the section heading and all that follows through “For the purpose” and inserting the following:
-  > ## § 394. Authorization of appropriations
-  >
-  > - **(a)** *In general* For the purpose
+  - **(2)** by adding at the end the following:
+    > - **(2)** *Subsequent report* Not later than 24 months after the date of enactment of the Traumatic Brain Injury Reauthorization Act of 2013, the Secretary, acting through the Director of the Centers for Disease Control and Prevention and the Director of the National Institutes of Health and in consultation with the Secretary of Defense and the Secretary of Veterans Affairs, shall submit to the relevant committees of Congress a report that—
+    >   - **(A)** identifies which recommendations in the report under paragraph (1) have been adopted and which recommendations in such report have not been adopted; and
+    >   - **(B)** includes a description of planned activities to address each recommendation in such report that has not been adopted.
 
-- **(2)** by adding at the end the following:
-  > - **(b)** *Traumatic brain injury* To carry out sections 393B and 393C, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2014 through 2018.
+- **(c)** *Funding* Section 394A of the Public Health Service Act (42 U.S.C. 280b–3) is amended—
+  - **(1)** by striking “and” after “1994,”;
+  - **(2)** by striking the second period at the end; and
+  - **(3)** by adding at the end the following: “Of the amounts made available to carry out this part for each of fiscal years 2014 through 2018, there is authorized to be appropriated $6,100,000 to carry out sections 393B and 393C.”.
 
 ## § 3. State grants for projects regarding traumatic brain injury
 
 Section 1252 of the Public Health Service Act (42 U.S.C. 300d–52) is amended—
 
-- **(1)** in subsection (a), by striking “, acting through the Administrator of the Health Resources and Services Administration,”; and
-- **(2)** in subsection (j), by striking “2012” and inserting “2018”.
+- **(1)** in subsection (a), by striking “, acting through the Administrator of the Health Resources and Services Administration,”;
+- **(2)** in paragraphs (1)(A)(i) and (3)(E) of subsection (f), by striking “brain injury” and inserting “traumatic brain injury”;
+- **(3)** in subsection (h), by striking the comma after “under this section” and inserting a comma before “including”; and
+- **(4)** by amending subsection (j) to read as follows:
+  > - **(j)** *Authorization of appropriations* For carrying out this section and section 1253, there is authorized to be appropriated $9,760,000 for each of fiscal years 2014 through 2018.
 
 ## § 4. State grants for protection and advocacy services
 
@@ -38,11 +47,17 @@ Section 1253 of the Public Health Service Act (42 U.S.C. 300d–53) is amended�
 
 - **(1)** in subsection (a), by striking “, acting through the Administrator of the Health Resources and Services Administration (referred to in this section as the “Administrator”),”;
 - **(2)** in subsections (c), (d)(1), (e)(1), (e)(4), (g), (h), and (j)(1), by striking “Administrator” each place it appears and inserting “Secretary”;
-- **(3)** in subsection (i)—
+- **(3)** in subsection (h)—
+  - **(A)** by striking the subsection heading and inserting “Reporting”;
+  - **(B)** by striking “Each protection and advocacy system” and inserting the following:
+    > - **(1)** *Reports by systems* Each protection and advocacy system
+
+  - **(C)** by adding at the end the following:
+    > - **(2)** *Report by Secretary* Not later than 1 year after the date of enactment of the Traumatic Brain Injury Reauthorization Act of 2013, the Secretary shall prepare and submit to the appropriate committees of Congress a report describing the services and activities carried out under this section during the period for which the report is being prepared.
+
+- **(4)** in subsection (i)—
   - **(A)** by striking “Administrator of the Health Resources and Services Administration” and inserting “Secretary”; and
-  - **(B)** by striking “by the Administrator” and inserting “by the Secretary”; and
-- **(4)** in subsection (l), by striking “2012” and inserting “2018”.
-
-## § 5. Interagency program for trauma research
-
-Section 1261(i) of the Public Health Service Act (42 U.S.C. 300d–61(i)) is amended by striking “2012” and inserting “2018”.
+  - **(B)** by striking “by the Administrator” and inserting “by the Secretary”;
+- **(5)** in subsection (k), by striking “subtitle C” and inserting “subtitle C of title I”;
+- **(6)** by striking subsection (l) (relating to authorization of appropriations); and
+- **(7)** by redesignating subsection (m) as subsection (l).
