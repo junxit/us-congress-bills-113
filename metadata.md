@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3658
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3658
@@ -336,3 +336,9 @@ Monuments Men Recognition Act of 2014
 - 2014-05-20 — Message on Senate action sent to the House.
 - 2014-05-20 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S3192)
 - 2014-05-20 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S3192)
+- 2014-05-30 — Presented to President.
+- 2014-05-30 — Presented to President.
+- 2014-06-09 — Became Public Law No: 113-116.
+- 2014-06-09 — Became Public Law No: 113-116.
+- 2014-06-09 — Signed by President.
+- 2014-06-09 — Signed by President.
