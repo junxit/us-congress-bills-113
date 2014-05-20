@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3610
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3610
@@ -84,3 +84,8 @@ Stop Exploitation Through Trafficking Act of 2014
 - 2014-05-13 — Placed on the Union Calendar, Calendar No. 330.
 - 2014-05-13 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-447, Part I.
 - 2014-05-13 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-447, Part I.
+- 2014-05-20 — Considered under suspension of the rules. (consideration: CR H4509-4515)
+- 2014-05-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3610.
+- 2014-05-20 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
+- 2014-05-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4509)
+- 2014-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4509)
