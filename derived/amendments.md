@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4573
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 7106` | add-at-end | Section 108(b)(4) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7106(b)(4)) is amended by adding at the end before the period the following: “, including cases involving nationals of that country who are suspected of engag… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7106` | add-at-end | Section 108(b)(4) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7106(b)(4)) is amended by adding at the end before the period the following: “, including severe forms of trafficking in persons related to sex tourism”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
