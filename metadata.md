@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2939
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2939
@@ -335,3 +335,9 @@ To award the Congressional Gold Medal to Shimon Peres.
 - 2014-05-20 — Message on Senate action sent to the House.
 - 2014-05-20 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S3192)
 - 2014-05-20 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S3192)
+- 2014-05-30 — Presented to President.
+- 2014-05-30 — Presented to President.
+- 2014-06-09 — Became Public Law No: 113-114.
+- 2014-06-09 — Became Public Law No: 113-114.
+- 2014-06-09 — Signed by President.
+- 2014-06-09 — Signed by President.
