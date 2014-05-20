@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1209
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1209
@@ -342,3 +342,6 @@ To award a Congressional Gold Medal to the World War II members of the "Doolittl
 - 2014-05-19 — Mr. Huizenga (MI) moved to suspend the rules and pass the bill.
 - 2014-05-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4451-4452)
 - 2014-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4451-4452)
+- 2014-05-20 — Message on Senate action sent to the House.
+- 2014-05-20 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S3192)
+- 2014-05-20 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S3192)
