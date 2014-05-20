@@ -1,7 +1,7 @@
 ---
 measure: H.R. 685
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 685
@@ -356,3 +356,9 @@ American Fighter Aces Congressional Gold Medal Act
 - 2014-05-20 — Message on Senate action sent to the House.
 - 2014-05-20 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S3192)
 - 2014-05-20 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S3192)
+- 2014-05-21 — Presented to President.
+- 2014-05-21 — Presented to President.
+- 2014-05-23 — Became Public Law No: 113-105.
+- 2014-05-23 — Became Public Law No: 113-105.
+- 2014-05-23 — Signed by President.
+- 2014-05-23 — Signed by President.
