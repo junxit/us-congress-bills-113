@@ -1,7 +1,7 @@
 ---
 measure: H.R. 685
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 685
@@ -353,3 +353,6 @@ American Fighter Aces Congressional Gold Medal Act
 - 2014-05-19 — Mr. Huizenga (MI) moved to suspend the rules and pass the bill, as amended.
 - 2014-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 381 - 0 (Roll no. 219). (text: CR H4456)
 - 2014-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 381 - 0 (Roll no. 219).(text: CR H4456)
+- 2014-05-20 — Message on Senate action sent to the House.
+- 2014-05-20 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S3192)
+- 2014-05-20 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S3192)
