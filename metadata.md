@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 426
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 426
@@ -16,7 +16,7 @@ A resolution supporting the goals and ideals of World Malaria Day.
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Cosponsors (8)
+## Cosponsors (12)
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Boozman, John [R-AR] (B001236)
@@ -26,6 +26,10 @@ A resolution supporting the goals and ideals of World Malaria Day.
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Murray, Patty [D-WA] (M001111)
 
 ## Committees (1)
 
@@ -35,3 +39,7 @@ A resolution supporting the goals and ideals of World Malaria Day.
 
 - 2014-04-29 — Introduced in Senate
 - 2014-04-29 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2473-2474)
+- 2014-05-20 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2014-05-20 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment and with an amended preamble. Without written report.
+- 2014-05-20 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment and with an amended preamble. Without written report.
+- 2014-05-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 382.
