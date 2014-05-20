@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1209
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1209
@@ -345,3 +345,9 @@ To award a Congressional Gold Medal to the World War II members of the "Doolittl
 - 2014-05-20 — Message on Senate action sent to the House.
 - 2014-05-20 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S3192)
 - 2014-05-20 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S3192)
+- 2014-05-22 — Presented to President.
+- 2014-05-22 — Presented to President.
+- 2014-05-23 — Became Public Law No: 113-106.
+- 2014-05-23 — Became Public Law No: 113-106.
+- 2014-05-23 — Signed by President.
+- 2014-05-23 — Signed by President.
