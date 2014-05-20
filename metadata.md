@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3548
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3548
@@ -16,6 +16,21 @@ Improving Trauma Care Act of 2014
 
 - Rep. Johnson, Bill [R-OH-6] (J000292)
 
+## Cosponsors (12)
+
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Edwards, Donna F. [D-MD-4] (E000290)
+- Rep. Meehan, Patrick [R-PA-7] (M001181)
+- Rep. Benishek, Dan [R-MI-1] (B001271)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+
 ## Committees (1)
 
 - House — Energy and Commerce Committee
@@ -25,3 +40,11 @@ Improving Trauma Care Act of 2014
 - 2013-11-20 — Introduced in House
 - 2013-11-20 — Introduced in House
 - 2013-11-20 — Referred to the House Committee on Energy and Commerce.
+- 2013-11-22 — Referred to the Subcommittee on Health.
+- 2014-02-27 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2014-02-27 — Subcommittee Consideration and Mark-up Session Held.
+- 2014-04-03 — Forwarded by Subcommittee to Full Committee (Amended) by Unanimous Consent .
+- 2014-04-03 — Subcommittee Consideration and Mark-up Session Held.
+- 2014-05-20 — Placed on the Union Calendar, Calendar No. 339.
+- 2014-05-20 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-458.
+- 2014-05-20 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-458.
