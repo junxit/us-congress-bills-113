@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 412
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 412
@@ -16,12 +16,13 @@ A resolution reaffirming the strong support of the United States Government for 
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. McCain, John [R-AZ] (M000303)
 - Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
 
 ## Committees (1)
 
@@ -31,3 +32,7 @@ A resolution reaffirming the strong support of the United States Government for 
 
 - 2014-04-07 — Introduced in Senate
 - 2014-04-07 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2198-2199)
+- 2014-05-20 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2014-05-20 — Committee on Foreign Relations. Reported by Senator Menendez with amendments and with an amended preamble. Without written report.
+- 2014-05-20 — Committee on Foreign Relations. Reported by Senator Menendez with amendments and with an amended preamble. Without written report.
+- 2014-05-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 380.
