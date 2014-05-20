@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3530
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-32 amendatory instructions. 12 executed, 20 stated and not applied.
+31 amendatory instructions. 11 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -114,15 +114,6 @@ to guess them.
 | Removed | `knew that the person` |
 | Inserted | `knew, or recklessly disregarded the fact, that the person` |
 
-### 22 U.S.C. § 7102
-
-> Section 103(10) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(10)) is amended by striking “or obtaining” and inserting “obtaining, patronizing, or soliciting”.
-
-| | |
-|---|---|
-| Removed | `or obtaining` |
-| Inserted | `obtaining, patronizing, or soliciting` |
-
 ### 18 U.S.C. § 2423
 
 > Section 2423(g) of title 18, United States Code, is amended by striking “a preponderance of the evidence” and inserting “clear and convincing evidence”.
@@ -143,7 +134,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 10601` | insert | Section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601) is amended in subsection (d) by inserting before paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 14044b` | redesignate | by redesignating subsection (g) as subsection (j); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 7102` | replace | by striking subsections (a) through (f), and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 13001` | replace | by striking subsections (a) through (f), and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 13001a` | insert | in section 212(5) (42 U.S.C. 13001a(5)), by inserting “, including human trafficking and the production of child pornography” before the semicolon at the end; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 13002` | redesignate | by redesignating subsections (b), (c), and (d) as subsections (c), (d), and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 13002` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -155,9 +146,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5780` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5780` | redesignate | by redesignating subparagraph (C) as subparagraph (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5780` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 3771` | add-at-end | in subsection (a), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10607` | add-at-end | in subsection (a), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 3771` | insert | in subsection (d)(3), in the fifth sentence, by inserting “, unless the litigants, with the approval of the court, have stipulated to a different time period for consideration” before the period; and | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 3771` | replace | by striking “this chapter, the term” and inserting the following: "this chapter: | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 3771` | replace | by striking “this chapter, the term” and inserting the following: “this chapter: | the bill quotes the text struck but describes what replaces it |
 | `18 U.S.C. § 3771` | replace | by striking “In the case” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `18 U.S.C. § 3771` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 3771` | insert | Section 3771(d)(3) of title 18, United States Code, as amended by subsection (a)(2) of this section, is amended by inserting after the fifth sentence the following: “In deciding such application, the court of appeals shall apply ordinary… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

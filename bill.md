@@ -17,12 +17,12 @@ This Act may be cited as the “Justice for Victims of Trafficking Act of 2014�
 
 Section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601) is amended in subsection (d) by inserting before paragraph (2) the following:
 
-> - **(1)** Of the amounts available in the Fund, exactly—
->   - **(A)** $805,000,000 shall be available for obligation in fiscal year 2016;
->   - **(B)** $825,000,000 shall be available for obligation in fiscal year 2017;
->   - **(C)** $845,000,000 shall be available for obligation in fiscal year 2018;
->   - **(D)** $866,000,000 shall be available for obligation in fiscal year 2019; and
->   - **(E)** $890,000,000 shall be available for obligation in fiscal year 2020.
+> - **(1)** A limitation on obligations is authorized to be provided with respect to fiscal years 2016 through 2020. Except in the case where a limitation on obligations is made by a continuing resolution, if such a limitation on obligations is less than—
+>   - **(A)** $805,000,000 in fiscal year 2016;
+>   - **(B)** $825,000,000 in fiscal year 2017;
+>   - **(C)** $845,000,000 in fiscal year 2018;
+>   - **(D)** $866,000,000 in fiscal year 2019; or
+>   - **(E)** $890,000,000 in fiscal year 2020;
 
 ## § 3. Victim-centered sex trafficking deterrence grant program
 
@@ -149,15 +149,15 @@ Section 3702 of the Crime Control Act of 1990 (42 U.S.C. 5780) is amended—
 
 ## § 7. Reducing demand for sex trafficking
 
-- **(a)** *In general* Section 1591 of title 18, United States Code, is amended—
-  - **(1)** in subsection (a)(1), by striking “or maintains” and inserting “maintains, patronizes, or solicits”;
-  - **(2)** in subsection (b)—
-    - **(A)** in paragraph (1), by striking “or obtained” and inserting “obtained, patronized, or solicited”; and
-    - **(B)** in paragraph (2), by striking “or obtained” and inserting “obtained, patronized, or solicited”; and
-  - **(3)** in subsection (c)—
-    - **(A)** by striking “or maintained” and inserting “, maintained, patronized, or solicited”; and
-    - **(B)** by striking “knew that the person” and inserting “knew, or recklessly disregarded the fact, that the person”.
-- **(b)** *Definition amended* Section 103(10) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(10)) is amended by striking “or obtaining” and inserting “obtaining, patronizing, or soliciting”.
+Section 1591 of title 18, United States Code, is amended—
+
+- **(1)** in subsection (a)(1), by striking “or maintains” and inserting “maintains, patronizes, or solicits”;
+- **(2)** in subsection (b)—
+  - **(A)** in paragraph (1), by striking “or obtained” and inserting “obtained, patronized, or solicited”; and
+  - **(B)** in paragraph (2), by striking “or obtained” and inserting “obtained, patronized, or solicited”; and
+- **(3)** in subsection (c)—
+  - **(A)** by striking “or maintained” and inserting “, maintained, patronized, or solicited”; and
+  - **(B)** by striking “knew that the person” and inserting “knew, or recklessly disregarded the fact, that the person”.
 
 ## § 8. Using existing task forces to target offenders who exploit children
 
@@ -205,7 +205,7 @@ Section 2423(g) of title 18, United States Code, is amended by striking “a pre
 
   - **(2)** in subsection (d)(3), in the fifth sentence, by inserting “, unless the litigants, with the approval of the court, have stipulated to a different time period for consideration” before the period; and
   - **(3)** in subsection (e)—
-    - **(A)** by striking “this chapter, the term” and inserting the following: "this chapter:
+    - **(A)** by striking “this chapter, the term” and inserting the following: “this chapter:
       > - **(1)** *Court of appeals* The term “court of appeals” means—
       >   - **(A)** the United States court of appeals for the judicial district in which a defendant is being prosecuted; or
       >   - **(B)** for a prosecution in the Superior Court of the District of Columbia, the District of Columbia Court of Appeals.
@@ -224,4 +224,9 @@ Section 2423(g) of title 18, United States Code, is amended by striking “a pre
 
 ## § 12. Sense of Congress
 
-It is the sense of Congress that child human trafficking (as such term is defined in section 203(h) of the Trafficking Victims Protection Reauthorization Act of 2005 (42 U.S.C. 14044b), as added by this Act) has no place in a civilized society, and that persons who commit crimes relating to child human trafficking should be prosecuted to the fullest extent of the law.
+It is the sense of Congress that—
+
+- **(1)** child human trafficking (as such term is defined in section 203(i) of the Trafficking Victims Protection Reauthorization Act of 2005 (42 U.S.C. 14044b), as added by this Act) has no place in a civilized society, and that persons who commit crimes relating to child human trafficking should be prosecuted to the fullest extent of the law;
+- **(2)** the United States, as a leader in monitoring and combating human trafficking throughout the world, must hold all nations to the same standards to which we hold our Nation;
+- **(3)** those who obtain, solicit, or patronize a victim of trafficking for the purpose of engaging in a commercial sex act with that person, are committing a human trafficking offense under Federal law; and
+- **(4)** the demand for commercial sex is a primary cause of the human rights violation of human trafficking, and the elimination of that human rights violation requires the elimination of that demand.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3530
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3530
@@ -142,6 +142,10 @@ Justice for Victims of Trafficking Act of 2014
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2014-05-20 — [House 113-2-221](votes/house-113-2-0221.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (409–0)
+
 ## Actions
 
 - 2013-11-19 — Introduced in House
@@ -154,3 +158,10 @@ Justice for Victims of Trafficking Act of 2014
 - 2014-05-15 — Placed on the Union Calendar, Calendar No. 332.
 - 2014-05-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-450.
 - 2014-05-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-450.
+- 2014-05-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-05-20 — Considered as unfinished business. (consideration: CR H4534-4535)
+- 2014-05-20 — Considered under suspension of the rules. (consideration: CR H4501-4509)
+- 2014-05-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3530.
+- 2014-05-20 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
+- 2014-05-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 221). (text: CR H4501-4504)
+- 2014-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 221).(text: CR H4501-4504)
