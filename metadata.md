@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 421
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 421
@@ -16,9 +16,20 @@ A resolution expressing the gratitude and appreciation of the Senate for the act
 
 - Sen. Boozman, John [R-AR] (B001236)
 
-## Cosponsors (1)
+## Cosponsors (12)
 
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
 
 ## Committees (1)
 
@@ -29,3 +40,7 @@ A resolution expressing the gratitude and appreciation of the Senate for the act
 - 2014-04-10 — Introduced in Senate
 - 2014-04-10 — Read twice and referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2387)
 - 2014-04-10 — Sponsor introductory remarks on measure. (CR S2387)
+- 2014-05-20 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2014-05-20 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2014-05-20 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2014-05-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 381.
