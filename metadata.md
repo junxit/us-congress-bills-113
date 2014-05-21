@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3610
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3610
@@ -89,3 +89,4 @@ Stop Exploitation Through Trafficking Act of 2014
 - 2014-05-20 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
 - 2014-05-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4509)
 - 2014-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4509)
+- 2014-05-21 — Received in the Senate.
