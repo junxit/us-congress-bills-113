@@ -1,0 +1,14 @@
+---
+legis-num: S. 2373
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2373
+
+> To authorize the appropriation of funds to the Centers for Disease Control and Prevention for conducting or supporting research on firearms safety or gun violence prevention.
+
+## § 1. Funding for research by CDC on firearms safety or gun violence prevention
+
+There is authorized to be appropriated to the Centers for Disease Control and Prevention $10,000,000 for each of fiscal years 2015 through 2020 for the purpose of conducting or supporting research on firearms safety or gun violence prevention under the Public Health Service Act (42 U.S.C. 201 et seq.). The amount authorized to be appropriated by the preceding sentence is in addition to any other amounts authorized to be appropriated for such purpose.
