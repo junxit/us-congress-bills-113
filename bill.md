@@ -2,7 +2,7 @@
 legis-num: H. RES. 590
 congress: 113th CONGRESS
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 590

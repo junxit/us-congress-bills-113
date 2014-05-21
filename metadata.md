@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 590
 congress: 113
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Res. 590
