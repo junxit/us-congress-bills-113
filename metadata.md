@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1228
 congress: 113
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1228
@@ -57,3 +57,10 @@ To designate the facility of the United States Postal Service located at 123 Sou
 - 2014-05-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3243)
 - 2014-05-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3243)
 - 2014-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 386.
+- 2014-05-22 — Message on Senate action sent to the House.
+- 2014-05-30 — Presented to President.
+- 2014-05-30 — Presented to President.
+- 2014-06-09 — Became Public Law No: 113-111.
+- 2014-06-09 — Became Public Law No: 113-111.
+- 2014-06-09 — Signed by President.
+- 2014-06-09 — Signed by President.
