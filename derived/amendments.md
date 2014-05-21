@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4121
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 1 executed, 9 stated and not applied.
+15 amendatory instructions. 1 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 15 U.S.C. § 648
 
-> by striking “as provided in this section and” and inserting “as provided in this section,”; and
+> in clause (ii), by striking “as provided in this section and” and inserting “as provided in this section,”; and
 
 | | |
 |---|---|
@@ -51,3 +51,8 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 648` | replace | in item (aa), by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 648` | strike | by striking item (bb). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 648` | add-at-end | Section 21 of the Small Business Act (15 U.S.C. 648), as amended by sections 3 and 5 of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 648` | replace | by striking “(3) At the discretion” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 5170` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 648` | strike | in clause (iii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 648` | insert | in clause (iv), by inserting “and” at the end; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 648` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
