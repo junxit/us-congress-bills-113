@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4058
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -119,7 +119,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 675` | add-at-end | Section 475(1)(B) of the Social Security Act (42 U.S.C. 675(1)(B)) is amended by adding at the end the following: “With respect to a child who has attained 14 years of age, the plan developed for the child in accordance with this paragra… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 675` | strike | by striking “and” at the end of clause (ii); and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 675` | add-at-end | by adding at the end the following: “and (iv) if a child has attained 14 years of age, the permanency plan developed for the child, and any revision or addition to the plan, shall be developed in consultation with the child and, at the o… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 675` | add-at-end | Section 475A of such Act, as added by section 202(b)(1) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 675` | amend | Section 475A of such Act, as added by section 202(b)(1) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 461` | insert | by inserting “, and, unless the child has been in foster care for less than 6 months or the child is being discharged from care to be reunited with the family of the child or to be adopted, is not discharged from care without being provi… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 679` | strike | in subparagraph (C)(iii), by striking “and” after the comma; and | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 7102` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

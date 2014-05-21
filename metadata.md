@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4058
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4058
@@ -77,3 +77,4 @@ Preventing Sex Trafficking and Improving Opportunities for Youth in Foster Care 
 - 2014-05-20 — Mr. Reichert moved to suspend the rules and pass the bill, as amended.
 - 2014-05-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4522-4525)
 - 2014-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4522-4525)
+- 2014-05-21 — Received in the Senate.
