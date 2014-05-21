@@ -27,10 +27,9 @@ This Act may be cited as the “Reliable Home Heating Act”.
 
 The Administrator of the Energy Information Administration, using data compiled from the Administration’s Weekly Petroleum Status Reports, shall notify the Governor of each State in a Petroleum Administration for Defense District if the inventory of residential heating fuel within such district has been below the most recent 5-year average for more than 3 consecutive weeks.
 
-## § 4. Propane and home heating fuel emergency transportation
+## § 4. Review
 
-- **(a)** *In general* Notwithstanding any other provision of law, a covered emergency exemption issued by the Federal Motor Carrier Safety Administration shall remain in effect until May 31, 2014, unless the Secretary of Transportation, after consultation with the Governors of affected States, determines that the emergency for which the exemption was provided ends before that date.
-- **(b)** *Covered emergency exemption defined* In this section, the term covered emergency exemption means an exemption issued under section 390.23 of title 49, Code of Federal Regulations, or extended under section 390.25 of such title that—
-  - **(1)** was issued or extended during the period beginning on February 5, 2014, and ending on the date of enactment of this Act; and
-  - **(2)** provided regulatory relief for commercial motor vehicle operations providing direct assistance supporting the delivery of propane and home heating fuels.
-- **(c)** *Rule of construction* Nothing in subsection (a) may be construed to prohibit the Federal Motor Carrier Safety Administration from issuing or extending a covered emergency exemption beyond May 31, 2014, under other Federal law.
+Not later than 12 months after the date of enactment of this Act, the Secretary of Transportation shall conduct a study of, and transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, a report on the impacts of safety from the extensions issued by Governors according to this Act. In conducting the study, the Secretary shall review, at a minimum—
+
+- **(1)** the safety implications of extending exemptions; and
+- **(2)** a review of the exemption process to ensure clarity and efficiency during emergencies.
