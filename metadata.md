@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 421
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 421
@@ -16,7 +16,7 @@ A resolution expressing the gratitude and appreciation of the Senate for the act
 
 - Sen. Boozman, John [R-AR] (B001236)
 
-## Cosponsors (12)
+## Cosponsors (13)
 
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Begich, Mark [D-AK] (B001265)
@@ -30,6 +30,7 @@ A resolution expressing the gratitude and appreciation of the Senate for the act
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Cornyn, John [R-TX] (C001056)
 
 ## Committees (1)
 
@@ -44,3 +45,5 @@ A resolution expressing the gratitude and appreciation of the Senate for the act
 - 2014-05-20 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2014-05-20 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2014-05-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 381.
+- 2014-05-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S3243)
+- 2014-05-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3243)
