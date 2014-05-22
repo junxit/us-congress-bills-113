@@ -1,7 +1,7 @@
 ---
 measure: S. 2086
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2086
@@ -48,3 +48,16 @@ Reliable Home Heating Act
 - 2014-05-22 — Received in the House.
 - 2014-05-22 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2014-05-22 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-05-23 — Referred to the Subcommittee on Energy and Power.
+- 2014-05-23 — Referred to the Subcommittee on Highways and Transit.
+- 2014-06-23 — Considered under suspension of the rules. (consideration: CR H5602-5604)
+- 2014-06-23 — DEBATE - The House proceeded with forty minutes of debate on S. 2086.
+- 2014-06-23 — Mr. Petri moved to suspend the rules and pass the bill.
+- 2014-06-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5602)
+- 2014-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5602)
+- 2014-06-25 — Presented to President.
+- 2014-06-25 — Presented to President.
+- 2014-06-30 — Became Public Law No: 113-125.
+- 2014-06-30 — Became Public Law No: 113-125.
+- 2014-06-30 — Signed by President.
+- 2014-06-30 — Signed by President.
