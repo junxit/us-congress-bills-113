@@ -1,7 +1,7 @@
 ---
 measure: H.R. 316
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 316
@@ -24,6 +24,10 @@ Collinsville Renewable Energy Production Act
 
 - House — Energy and Commerce Committee
 - Senate — Energy and Natural Resources Committee
+
+## Recorded votes (1)
+
+- 2014-06-23 — [House 113-2-340](votes/house-113-2-0340.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (379–3)
 
 ## Actions
 
@@ -50,3 +54,17 @@ Collinsville Renewable Energy Production Act
 - 2013-06-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 123.
 - 2014-05-22 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3307-3308; text as passed Senate: CR S3308)
 - 2014-05-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3307-3308; text as passed Senate: CR S3308)
+- 2014-05-23 — Message on Senate action sent to the House.
+- 2014-06-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2014-06-23 — Considered as unfinished business. (consideration: CR H5611-5612)
+- 2014-06-23 — DEBATE - The House proceeded with forty minutes of debate on agreeing to the Senate amendment to H.R. 316.
+- 2014-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-06-23 — Mr. Kinzinger (IL) moved that the House suspend the rules an agree to the Senate amendment. (consideration: CR H5605-5606)
+- 2014-06-23 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 379 - 3 (Roll no. 340). (text as House agreed to Senate amendment: CR H5605)
+- 2014-06-23 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 379 - 3 (Roll no. 340).(text as House agreed to Senate amendment: CR H5605)
+- 2014-06-25 — Presented to President.
+- 2014-06-25 — Presented to President.
+- 2014-06-30 — Became Public Law No: 113-122.
+- 2014-06-30 — Became Public Law No: 113-122.
+- 2014-06-30 — Signed by President.
+- 2014-06-30 — Signed by President.
