@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4031
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4031
@@ -195,3 +195,4 @@ Department of Veterans Affairs Management Accountability Act of 2014
 - 2014-05-21 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
 - 2014-05-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 33 (Roll no. 229). (text: CR H4694)
 - 2014-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 33 (Roll no. 229).(text: CR H4694)
+- 2014-05-22 — Received in the Senate.
