@@ -1,7 +1,7 @@
 ---
 measure: S. 258
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 1 executed, 4 stated and not applied.
+13 amendatory instructions. 1 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -45,4 +45,12 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 4321` | strike | by striking “or” at the end of each of paragraphs (1) and (2); | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 4321` | replace | in paragraph (3), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 4321` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1751` | amend | Title IV of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1751 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1752` | replace | by striking “Except as” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1752` | replace | in paragraph (1) (as designated by subparagraph (A)), by striking “ten years subject” and inserting the following: “ 10 years, up to a maximum term of 20 years, if the Secretary concerned— | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 4321` | redesignate | by redesignating paragraphs (1), (2), and (3) as subparagraphs (A), (B), and (C), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | replace | by striking “So long as” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 4321` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1752` | redesignate | by redesignating subsection (h) as subsection (j); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | insert | by inserting after subsection (g) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1751` | add-at-end | Title IV of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1751 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
