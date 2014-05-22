@@ -1,7 +1,7 @@
 ---
 measure: S. 782
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 782
@@ -29,3 +29,8 @@ Gettysburg National Military Park Expansion Act
 
 - 2013-04-23 — Introduced in Senate
 - 2013-04-23 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-07-31 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 113-93.
+- 2013-11-21 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2014-05-22 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment. With written report No. 113-168.
+- 2014-05-22 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment. With written report No. 113-168.
+- 2014-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 394.

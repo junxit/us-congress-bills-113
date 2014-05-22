@@ -1,7 +1,7 @@
 ---
 measure: S. 782
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+9 amendatory instructions. 0 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,9 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 430g-5` | add-at-end | Section 1 of Public Law 101–377 (16 U.S.C. 430g–4) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 430g-5` | replace | by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 430g-5` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 430g-4` | replace | by striking “include the” and insert “include— | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 430g-4` | replace | at the end of paragraph (1) (as designated by paragraph (1)), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 430g-4` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 430g-5` | replace | in the first sentence, by striking "The Secretary" and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 430g-5` | replace | in the second sentence, by striking “In acquiring” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 430g-5` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
