@@ -74,10 +74,12 @@ It is the policy of the United States—
 
 ## § 6. Support for civil society in Venezuela
 
-- **(a)** *In general* The Secretary of State shall, subject to the availability of appropriations, directly or through nongovernmental organizations—
+- **(a)** *In general* The Secretary of State and the Administrator of the United States Agency for International Development shall, subject to the availability of appropriations, directly or through nongovernmental organizations—
   - **(1)** defend internationally recognized human rights for the people of Venezuela;
   - **(2)** build the organizational and operational capacity of democratic civil society activists and organizations in Venezuela at the national and regional level;
   - **(3)** support the efforts of independent media outlets to broadcast, distribute, and share information beyond the limited channels made available by the Government of Venezuela;
+  - **(2)** strengthen the organizational and operational capacity of democratic civil society in Venezuela;
+  - **(3)** support the efforts of independent media outlets to broadcast, distribute, and share information beyond the limited means available as of the date of the enactment of this Act;
   - **(4)** facilitate open and uncensored access to the Internet for the people of Venezuela;
   - **(5)** improve transparency and accountability of institutions that are part of the Government of Venezuela;
   - **(6)** provide support to civil society organizations, activists, and peaceful demonstrators in Venezuela that have been targeted for exercising internationally recognized civil and political rights, as well as journalists targeted for activities related to the work of a free press; and
@@ -92,3 +94,14 @@ It is the policy of the United States—
       - **(i)** the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives; and
       - **(ii)** the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives.
     - **(B)** *Waiver* The President may waive the requirement under subparagraph (A) if the President determines that failure to waive that requirement would pose a substantial risk to human health or welfare, in which case notification shall be provided as early as practicable, but in no event later than 3 days after taking the action to which such notification requirement was applicable in the context of the circumstances necessitating such waiver.
+
+## § 7. Report on broadcasting, information distribution, and circumvention technology distribution in Venezuela
+
+- **(a)** *In general* Not later than 30 days after the date of the enactment of this Act, the Chairman of the Broadcasting Board of Governors (in this section referred to as the “Board”) shall submit to Congress a report that includes—
+  - **(1)** a thorough evaluation of the governmental, political, and technological obstacles faced by the people of Venezuela in their efforts to obtain accurate, objective, and comprehensive news and information about domestic and international affairs;
+  - **(2)** an assessment of current efforts relating to broadcasting, information distribution, and circumvention technology distribution in Venezuela, by the United States Government and otherwise; and
+  - **(3)** a strategy for expanding such efforts in Venezuela, including recommendations for additional measures to expand upon current efforts.
+- **(b)** *Elements* The report required by subsection (a) shall include—
+  - **(1)** an assessment of the current level of Federal funding dedicated to broadcasting, information distribution, and circumvention technology distribution in Venezuela by the Board before the date of the enactment of this Act;
+  - **(2)** an assessment of whether the current level and type of news and related programming and content provided by the Voice of America is sufficiently addressing the informational needs of the people of Venezuela; and
+  - **(3)** specific measures for increasing broadcasting, information distribution, and circumvention technology distribution in Venezuela.
