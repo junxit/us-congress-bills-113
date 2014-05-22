@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1341
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -17,7 +17,7 @@ This Act may be cited as the “Cabin Fee Act of 2013”.
 
 - **(a)** *In general* The Secretary of Agriculture (referred to in this Act as the Secretary) shall establish a fee in accordance with this section for the issuance of a special use permit for the use and occupancy of National Forest System land for recreational residence purposes.
 - **(b)** *Completion of current appraisal cycle* Not later than 2 years after the date of enactment of this Act, the Secretary shall complete the current appraisal cycle for recreational residences on National Forest System land in accordance with the Cabin User Fees Fairness Act of 2000 (16 U.S.C. 6201 et seq.) (referred to in this Act as the current appraisal cycle).
-- **(c)** *Interim fee* Until the date on which the current appraisal cycle is completed under subsection (b), the Secretary shall assess an interim annual fee for recreational residences on National Forest System land that is an amount equal to the lesser of—
+- **(c)** *Interim fee* Until During the period beginning on January 1, 2014, and ending on the date on which the current appraisal cycle is completed under subsection (b), the Secretary shall assess an interim annual fee for recreational residences on National Forest System land that is an amount equal to the lesser of—
   - **(1)** the fee determined under the Cabin User Fees Fairness Act (16 U.S.C. 6901 et seq.), subject to the requirement that any increase over the fee assessed during the previous year shall be limited to not more than 25 percent; or
   - **(2)** $5,500.
 - **(d)** *Adjustment*
