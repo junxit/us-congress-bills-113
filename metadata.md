@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4435
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4435
@@ -23,6 +23,22 @@ Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015
 ## Committees (1)
 
 - House — Armed Services Committee
+
+## Recorded votes (13)
+
+- 2014-05-21 — [House 113-2-225](votes/house-113-2-0225.md) — On Agreeing to the Amendment — **Failed** (192–229)
+- 2014-05-21 — [House 113-2-226](votes/house-113-2-0226.md) — On Agreeing to the Amendment — **Failed** (194–227)
+- 2014-05-21 — [House 113-2-227](votes/house-113-2-0227.md) — On Agreeing to the Amendment — **Agreed to** (222–196)
+- 2014-05-22 — [House 113-2-231](votes/house-113-2-0231.md) — On Agreeing to the Amendment — **Agreed to** (231–192)
+- 2014-05-22 — [House 113-2-232](votes/house-113-2-0232.md) — On Agreeing to the Amendment — **Agreed to** (245–177)
+- 2014-05-22 — [House 113-2-233](votes/house-113-2-0233.md) — On Agreeing to the Amendment — **Failed** (177–247)
+- 2014-05-22 — [House 113-2-234](votes/house-113-2-0234.md) — On Agreeing to the Amendment — **Failed** (191–230)
+- 2014-05-22 — [House 113-2-235](votes/house-113-2-0235.md) — On Agreeing to the Amendment — **Failed** (179–244)
+- 2014-05-22 — [House 113-2-236](votes/house-113-2-0236.md) — On Agreeing to the Amendment — **Agreed to** (233–191)
+- 2014-05-22 — [House 113-2-237](votes/house-113-2-0237.md) — On Agreeing to the Amendment — **Failed** (191–233)
+- 2014-05-22 — [House 113-2-238](votes/house-113-2-0238.md) — On Agreeing to the Amendment — **Agreed to** (224–199)
+- 2014-05-22 — [House 113-2-239](votes/house-113-2-0239.md) — On Motion to Recommit with Instructions — **Failed** (194–227)
+- 2014-05-22 — [House 113-2-240](votes/house-113-2-0240.md) — On Passage — **Passed** (325–98)
 
 ## Actions
 
@@ -53,3 +69,246 @@ Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015
 - 2014-05-13 — Placed on the Union Calendar, Calendar No. 329.
 - 2014-05-13 — Reported (Amended) by the Committee on Armed Services. H. Rept. 113-446.
 - 2014-05-13 — Reported (Amended) by the Committee on Armed Services. H. Rept. 113-446.
+- 2014-05-19 — FILING AUTHORITY - Mrs. Walorski asked unanimous consent that the Committee on Armed Services be authorized to file a supplemental report on H.R. 4435.
+- 2014-05-19 — Rules Committee Resolution H. Res. 585 Reported to House. All points of order against the bills are waived. General debate shall not exceed one hour. After general debate the bills shall be considered for amendment under the five-minute rule. In lieu of the amendment in the nature of a substitute recommended by the Committee of Armed Services for H.R. 4435, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-44 shall be considered as adopted and considered as an original bill for the purposes of amendment.
+- 2014-05-19 — Supplemental report filed by the Committee on Armed Services, H. Rept. 113-446, Part II.
+- 2014-05-19 — Supplemental report filed by the Committee on Armed Services, H. Rept. 113-446, Part II.
+- 2014-05-20 — All points of order against the bills are waived. General debate shall not exceed one hour. After general debate the bills shall be considered for amendment under the five-minute rule. In lieu of the amendment in the nature of a substitute recommended by the Committee of Armed Services for H.R. 4435, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-44 shall be considered as adopted and considered as an original bill for the purposes of amendment.
+- 2014-05-20 — Amendment (A001) offered by Mr. Blumenauer. (consideration: CR H4671-4673; text: CR H4671)
+- 2014-05-20 — Amendment (A002) offered by Mr. Gohmert. (consideration: CR H4673-4674; text: CR H4673)
+- 2014-05-20 — Amendment (A003) offered by Ms. Sanchez, Loretta. (consideration: CR H4674-4675; text: CR H4674)
+- 2014-05-20 — Amendment (A004) offered by Mr. Lamborn. (consideration: CR H4675-4676; text: CR H4675)
+- 2014-05-20 — Amendment (A005) offered by Mr. Garamendi. (consideration: CR H4676-4678; text: CR H4676-4677)
+- 2014-05-20 — Amendment (A006) offered by Mr. Daines. (consideration: CR H4678-4679; text: CR H4678)
+- 2014-05-20 — Amendment (A007) offered by Mr. Lamborn. (consideration: CR H4679-4680; text: CR H4679)
+- 2014-05-20 — Amendment agreed to Committee of the Whole
+- 2014-05-20 — Amendment agreed to Committee of the Whole
+- 2014-05-20 — Amendment agreed to Committee of the Whole
+- 2014-05-20 — By unanimous consent, the Gohmert amendment was withdrawn. (consideration: CR H4674)
+- 2014-05-20 — Committee of the Whole House on the state of the Union rises leaving H.R. 4435 as unfinished business.
+- 2014-05-20 — Considered under the provisions of rule H. Res. 585. (consideration: CR H4541-4680; text of amendment in the nature of a substitute: CR H4549-4671)
+- 2014-05-20 — DEBATE - Pursuant to the provisions of H. Res. 585, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer amendment No. 1.
+- 2014-05-20 — DEBATE - Pursuant to the provisions of H. Res. 585, the Committee of the Whole proceeded with 10 minutes of debate on the Daines amendment No. 6.
+- 2014-05-20 — DEBATE - Pursuant to the provisions of H. Res. 585, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment No. 5, as modified.
+- 2014-05-20 — DEBATE - Pursuant to the provisions of H. Res. 585, the Committee of the Whole proceeded with 10 minutes of debate on the Gohmert amendment No. 2.
+- 2014-05-20 — DEBATE - Pursuant to the provisions of H. Res. 585, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment No. 4.
+- 2014-05-20 — DEBATE - Pursuant to the provisions of H. Res. 585, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment No. 7.
+- 2014-05-20 — DEBATE - Pursuant to the provisions of H. Res. 585, the Committee of the Whole proceeded with 10 minutes of debate on the Loretta Sanchez amendment No. 3.
+- 2014-05-20 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4435.
+- 2014-05-20 — Garamendi amendment (A005) modified by unanimous consent. Modification replaces "Afghan Security Forces" with "African Union Standby Force (ASF)". (text as modified: CR H4677)
+- 2014-05-20 — House amendment agreed to: On agreeing to the Lamborn amendment (A004) Agreed to by voice vote.
+- 2014-05-20 — House amendment agreed to: On agreeing to the Lamborn amendment (A007) Agreed to by voice vote.
+- 2014-05-20 — House amendment offered
+- 2014-05-20 — House amendment offered
+- 2014-05-20 — House amendment offered
+- 2014-05-20 — House amendment offered
+- 2014-05-20 — House amendment offered
+- 2014-05-20 — House amendment offered
+- 2014-05-20 — House amendment offered
+- 2014-05-20 — House amendment offered
+- 2014-05-20 — House amendment offered/reported by: Amendment (A001) offered by Mr. Blumenauer.(consideration: CR H4671-4673; text: CR H4671)
+- 2014-05-20 — House amendment offered/reported by: Amendment (A002) offered by Mr. Gohmert.(consideration: CR H4673-4674; text: CR H4673)
+- 2014-05-20 — House amendment offered/reported by: Amendment (A003) offered by Ms. Sanchez, Loretta.(consideration: CR H4674-4675; text: CR H4674)
+- 2014-05-20 — House amendment offered/reported by: Amendment (A004) offered by Mr. Lamborn.(consideration: CR H4675-4676; text: CR H4675)
+- 2014-05-20 — House amendment offered/reported by: Amendment (A005) offered by Mr. Garamendi.(consideration: CR H4676-4678; text: CR H4676-4677)
+- 2014-05-20 — House amendment offered/reported by: Amendment (A006) offered by Mr. Daines.(consideration: CR H4678-4679; text: CR H4678)
+- 2014-05-20 — House amendment offered/reported by: Amendment (A007) offered by Mr. Lamborn.(consideration: CR H4679-4680; text: CR H4679)
+- 2014-05-20 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 585 and Rule XVIII.
+- 2014-05-20 — Mr. Lamborn moved that the Committee rise.
+- 2014-05-20 — On agreeing to the Lamborn amendment (A004) Agreed to by voice vote.
+- 2014-05-20 — On agreeing to the Lamborn amendment (A007) Agreed to by voice vote.
+- 2014-05-20 — On motion that the Committee rise Agreed to by voice vote.
+- 2014-05-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blumenauer amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Blumenauer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Blumenauer amendment until a time to be annnounced.
+- 2014-05-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Daines amendment No. 6, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cooper demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment No. 5, as modified, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Garamendi demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Loretta Sanchez amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Loretta Sanchez demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-20 — Rule H. Res. 585 passed House.
+- 2014-05-20 — The Speaker designated the Honorable Chris Stewart to act as Chairman of the Committee.
+- 2014-05-21 — Amendment (A008) offered by Mr. McKinley. (consideration: CR H4716-4718; text: CR H4716)
+- 2014-05-21 — Amendment (A010) offered by Mr. Westmoreland. (consideration: CR H4725-4726; text: CR H4725)
+- 2014-05-21 — Amendment (A011) offered by Mr. Shimkus. (consideration: CR H4726-4728; text: CR H4726)
+- 2014-05-21 — Amendment (A012) offered by Mr. Smith (WA). (consideration: CR H4728-4730; text: CR H4728)
+- 2014-05-21 — Amendment (A013) offered by Mr. Smith (WA). (consideration: CR H4730-4732; text: CR H4730)
+- 2014-05-21 — Amendment (A014) offered by Mr. Heck (WA). (consideration: CR H4732-4733; text: CR H4732)
+- 2014-05-21 — Amendment (A015) offered by Ms. Jenkins. (consideration: CR H4733-4735; text: CR H4733)
+- 2014-05-21 — Amendment (A016) offered by Mr. Lamborn. (consideration: CR H4735-4738; text: CR H4735)
+- 2014-05-21 — Amendment (A017) offered by Mr. Schiff. (consideration: CR H4738-4739; text: CR H4738)
+- 2014-05-21 — Amendment (A018) offered by Mr. Blumenauer. (consideration: CR H4739-4740; text: CR H4739)
+- 2014-05-21 — Amendment (A020) offered by Mr. Hastings (WA). (consideration: CR H4746-4747; text: CR H4746)
+- 2014-05-21 — Amendment agreed to Committee of the Whole
+- 2014-05-21 — Amendment agreed to Committee of the Whole
+- 2014-05-21 — Amendment agreed to Committee of the Whole
+- 2014-05-21 — Amendment agreed to Committee of the Whole
+- 2014-05-21 — Amendment agreed to Committee of the Whole
+- 2014-05-21 — Amendment agreed to Committee of the Whole
+- 2014-05-21 — Amendment agreed to Committee of the Whole
+- 2014-05-21 — Amendment agreed to Committee of the Whole
+- 2014-05-21 — Amendment agreed to Committee of the Whole
+- 2014-05-21 — Amendment failed in Committee of the Whole
+- 2014-05-21 — Amendment failed in Committee of the Whole
+- 2014-05-21 — Amendment failed in Committee of the Whole
+- 2014-05-21 — Amendments en bloc (A009) offered by Mr. McKeon. (consideration: CR H4718-4725; text as en bloc: CR H4718-4722)
+- 2014-05-21 — Amendments en bloc (A019) offered by Mr. McKeon. (consideration: CR H4740-4746; text as en bloc: CR H4740-4744)
+- 2014-05-21 — Amendments en bloc (A021) offered by Mr. McKeon. (consideration: CR H4747-4753; text as en bloc: CR H4747-4751)
+- 2014-05-21 — Amendments en bloc (A022) offered by Mr. McKeon. (consideration: CR H4753-4764; text as en bloc: CR H4753-4762)
+- 2014-05-21 — Amendments en bloc (A023) offered by Mr. McKeon. (consideration: CR H4764-4769; text as en bloc: CR H4764-4769)
+- 2014-05-21 — Amendments en bloc (A024) offered by Mr. McKeon. (consideration: CR H4769-4774; text as en bloc: CR H4769-4773)
+- 2014-05-21 — Amendments en bloc (A025) offered by Mr. McKeon. (consideration: CR H4774-4782; text as en bloc: CR H4774-4779)
+- 2014-05-21 — By unanimous consent, the Heck (WA) amendment was withdrawn. (consideration: CR H4733)
+- 2014-05-21 — By unanimous consent, the Westmoreland amendment was withdrawn. (consideration: CR H4726)
+- 2014-05-21 — Committee of the Whole House on the state of the Union rises leaving H.R. 4435 as unfinished business.
+- 2014-05-21 — Committee of the Whole House on the state of the Union rises leaving H.R. 4435 as unfinished business.
+- 2014-05-21 — Considered as unfinished business. (consideration: CR H4712-4714)
+- 2014-05-21 — Considered as unfinished business. (consideration: CR H4716-4782)
+- 2014-05-21 — DEBATE - Pursuant to the provisions of H. Res. 590, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer amendment No. 24.
+- 2014-05-21 — DEBATE - Pursuant to the provisions of H. Res. 590, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings (WA) amendment No. 21.
+- 2014-05-21 — DEBATE - Pursuant to the provisions of H. Res. 590, the Committee of the Whole proceeded with 10 minutes of debate on the Heck (WA) amendment No. 13.
+- 2014-05-21 — DEBATE - Pursuant to the provisions of H. Res. 590, the Committee of the Whole proceeded with 10 minutes of debate on the Jenkins amendment No. 15.
+- 2014-05-21 — DEBATE - Pursuant to the provisions of H. Res. 590, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment No. 17.
+- 2014-05-21 — DEBATE - Pursuant to the provisions of H. Res. 590, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley Part A amendment No. 1.
+- 2014-05-21 — DEBATE - Pursuant to the provisions of H. Res. 590, the Committee of the Whole proceeded with 10 minutes of debate on the Schiff amendment No. 21.
+- 2014-05-21 — DEBATE - Pursuant to the provisions of H. Res. 590, the Committee of the Whole proceeded with 10 minutes of debate on the Shimkus Part A amendment No. 6.
+- 2014-05-21 — DEBATE - Pursuant to the provisions of H. Res. 590, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (WA) Part A amendment No. 10.
+- 2014-05-21 — DEBATE - Pursuant to the provisions of H. Res. 590, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (WA) Part A amendment No. 11.
+- 2014-05-21 — DEBATE - Pursuant to the provisions of H. Res. 590, the Committee of the Whole proceeded with 10 minutes of debate on the Westmoreland Part A amendment No. 4.
+- 2014-05-21 — DEBATE - Pursuant to the provisions of H. Res. 590, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon En Bloc amendment No. 1.
+- 2014-05-21 — DEBATE - Pursuant to the provisions of H. Res. 590, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon En Bloc amendment No. 2.
+- 2014-05-21 — DEBATE - Pursuant to the provisions of H. Res. 590, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon En Bloc amendment No. 3.
+- 2014-05-21 — DEBATE - Pursuant to the provisions of H. Res. 590, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon En Bloc amendment No. 4.
+- 2014-05-21 — DEBATE - Pursuant to the provisions of H. Res. 590, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon En Bloc amendment No. 5.
+- 2014-05-21 — DEBATE - Pursuant to the provisions of H. Res. 590, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon En Bloc amendment No. 6.
+- 2014-05-21 — DEBATE - Pursuant to the provisions of H. Res. 590, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon En Bloc amendment No. 7, as modified.
+- 2014-05-21 — DISPOSITION OF AMENDMENT NO. 5 - The Chair announced that, without objection, the request for a recorded vote having been withdrawn, the Garamendi amendment No. 5, as modified, stands rejected in accordance with the previous voice vote thereon.
+- 2014-05-21 — House amendment agreed to: On agreeing to the Daines amendment (A006) Agreed to by recorded vote: 222 - 196 (Roll no. 227).(consideration: CR H4714)
+- 2014-05-21 — House amendment agreed to: On agreeing to the Hastings (WA) amendment (A020) Agreed to by voice vote.
+- 2014-05-21 — House amendment agreed to: On agreeing to the McKeon amendments (A009) Agreed to by voice vote.
+- 2014-05-21 — House amendment agreed to: On agreeing to the McKeon amendments (A019) Agreed to by voice vote.
+- 2014-05-21 — House amendment agreed to: On agreeing to the McKeon amendments (A019) Agreed to by voice vote.
+- 2014-05-21 — House amendment agreed to: On agreeing to the McKeon amendments (A021) Agreed to by voice vote.
+- 2014-05-21 — House amendment agreed to: On agreeing to the McKeon amendments (A022) Agreed to by voice vote.
+- 2014-05-21 — House amendment agreed to: On agreeing to the McKeon amendments (A023) Agreed to by voice vote.
+- 2014-05-21 — House amendment agreed to: On agreeing to the McKeon amendments (A023) Agreed to by voice vote.
+- 2014-05-21 — House amendment agreed to: On agreeing to the McKeon amendments (A024) Agreed to by voice vote.
+- 2014-05-21 — House amendment agreed to: On agreeing to the McKeon amendments (A025) as modified Agreed to by voice vote.
+- 2014-05-21 — House amendment not agreed to: On agreeing to the Blumenauer amendment (A001) Failed by recorded vote: 192 - 229 (Roll no. 225).(consideration: CR H4712-4713)
+- 2014-05-21 — House amendment not agreed to: On agreeing to the Garamendi amendment (A005) as modified Failed by voice vote.
+- 2014-05-21 — House amendment not agreed to: On agreeing to the Sanchez, Loretta amendment (A003) Failed by recorded vote: 194 - 227 (Roll no. 226).(consideration: CR H4713)
+- 2014-05-21 — House amendment offered
+- 2014-05-21 — House amendment offered
+- 2014-05-21 — House amendment offered
+- 2014-05-21 — House amendment offered
+- 2014-05-21 — House amendment offered
+- 2014-05-21 — House amendment offered
+- 2014-05-21 — House amendment offered
+- 2014-05-21 — House amendment offered
+- 2014-05-21 — House amendment offered
+- 2014-05-21 — House amendment offered
+- 2014-05-21 — House amendment offered
+- 2014-05-21 — House amendment offered
+- 2014-05-21 — House amendment offered
+- 2014-05-21 — House amendment offered
+- 2014-05-21 — House amendment offered
+- 2014-05-21 — House amendment offered
+- 2014-05-21 — House amendment offered
+- 2014-05-21 — House amendment offered
+- 2014-05-21 — House amendment offered/reported by: Amendment (A008) offered by Mr. McKinley.(consideration: CR H4716-4718; text: CR H4716)
+- 2014-05-21 — House amendment offered/reported by: Amendment (A008) offered by Mr. McKinley.(consideration: CR H4716-4718; text: CR H4716)
+- 2014-05-21 — House amendment offered/reported by: Amendment (A010) offered by Mr. Westmoreland.(consideration: CR H4725-4726; text: CR H4725)
+- 2014-05-21 — House amendment offered/reported by: Amendment (A010) offered by Mr. Westmoreland.(consideration: CR H4725-4726; text: CR H4725)
+- 2014-05-21 — House amendment offered/reported by: Amendment (A011) offered by Mr. Shimkus.(consideration: CR H4726-4728; text: CR H4726)
+- 2014-05-21 — House amendment offered/reported by: Amendment (A012) offered by Mr. Smith (WA).(consideration: CR H4728-4730; text: CR H4728)
+- 2014-05-21 — House amendment offered/reported by: Amendment (A013) offered by Mr. Smith (WA).(consideration: CR H4730-4732; text: CR H4730)
+- 2014-05-21 — House amendment offered/reported by: Amendment (A014) offered by Mr. Heck (WA).(consideration: CR H4732-4733; text: CR H4732)
+- 2014-05-21 — House amendment offered/reported by: Amendment (A015) offered by Ms. Jenkins.(consideration: CR H4733-4735; text: CR H4733)
+- 2014-05-21 — House amendment offered/reported by: Amendment (A016) offered by Mr. Lamborn.(consideration: CR H4735-4738; text: CR H4735)
+- 2014-05-21 — House amendment offered/reported by: Amendment (A017) offered by Mr. Schiff.(consideration: CR H4738-4739; text: CR H4738)
+- 2014-05-21 — House amendment offered/reported by: Amendment (A018) offered by Mr. Blumenauer.(consideration: CR H4739-4740; text: CR H4739)
+- 2014-05-21 — House amendment offered/reported by: Amendment (A020) offered by Mr. Hastings (WA).(consideration: CR H4746-4747; text: CR H4746)
+- 2014-05-21 — House amendment offered/reported by: Amendments en bloc (A009) offered by Mr. McKeon.(consideration: CR H4718-4725; text as en bloc: CR H4718-4722)
+- 2014-05-21 — House amendment offered/reported by: Amendments en bloc (A019) offered by Mr. McKeon.(consideration: CR H4740-4746; text as en bloc: CR H4740-4744)
+- 2014-05-21 — House amendment offered/reported by: Amendments en bloc (A021) offered by Mr. McKeon.(consideration: CR H4747-4753; text as en bloc: CR H4747-4751)
+- 2014-05-21 — House amendment offered/reported by: Amendments en bloc (A022) offered by Mr. McKeon.(consideration: CR H4753-4764; text as en bloc: CR H4753-4762)
+- 2014-05-21 — House amendment offered/reported by: Amendments en bloc (A023) offered by Mr. McKeon.(consideration: CR H4764-4769; text as en bloc: CR H4764-4769)
+- 2014-05-21 — House amendment offered/reported by: Amendments en bloc (A024) offered by Mr. McKeon.(consideration: CR H4769-4774; text as en bloc: CR H4769-4773)
+- 2014-05-21 — House amendment offered/reported by: Amendments en bloc (A025) offered by Mr. McKeon.(consideration: CR H4774-4782; text as en bloc: CR H4774-4779)
+- 2014-05-21 — McKeon amendment (A025) modified by unanimous consent. Modification to amendment No. 134 (consideration: CR H4779; text: CR H4779)
+- 2014-05-21 — McKeon amendment (A025) modified by unanimous consent. Modification to amendment no. 159 (consideration: CR H4780; text: CR H4780)
+- 2014-05-21 — Mr. McKeon moved that the Committee rise.
+- 2014-05-21 — Mr. McKeon moved that the committee rise.
+- 2014-05-21 — On agreeing to the Blumenauer amendment (A001) Failed by recorded vote: 192 - 229 (Roll no. 225). (consideration: CR H4712-4713)
+- 2014-05-21 — On agreeing to the Daines amendment (A006) Agreed to by recorded vote: 222 - 196 (Roll no. 227). (consideration: CR H4714)
+- 2014-05-21 — On agreeing to the Garamendi amendment (A005) as modified Failed by voice vote.
+- 2014-05-21 — On agreeing to the Hastings (WA) amendment (A020) Agreed to by voice vote.
+- 2014-05-21 — On agreeing to the McKeon amendments (A009) Agreed to by voice vote.
+- 2014-05-21 — On agreeing to the McKeon amendments (A019) Agreed to by voice vote.
+- 2014-05-21 — On agreeing to the McKeon amendments (A021) Agreed to by voice vote.
+- 2014-05-21 — On agreeing to the McKeon amendments (A022) Agreed to by voice vote.
+- 2014-05-21 — On agreeing to the McKeon amendments (A023) Agreed to by voice vote.
+- 2014-05-21 — On agreeing to the McKeon amendments (A024) Agreed to by voice vote.
+- 2014-05-21 — On agreeing to the McKeon amendments (A025) as modified Agreed to by voice vote.
+- 2014-05-21 — On agreeing to the Sanchez, Loretta amendment (A003) Failed by recorded vote: 194 - 227 (Roll no. 226). (consideration: CR H4713)
+- 2014-05-21 — On motion that the Committee rise Agreed to by voice vote.
+- 2014-05-21 — On motion that the committee rise Agreed to by voice vote.
+- 2014-05-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blumenauer amendment No. 24, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Blumenauer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jenkins amendment No. 15, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Loebsack demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lamborn amendment No. 17, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McKinley amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Waxman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schiff amendment No. 21, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Schiff demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Shimkus amendment No. 6, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Welch demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (WA) amendment No. 10, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (WA) amendment No. 11, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-21 — Roll call votes on amendments in House
+- 2014-05-21 — Roll call votes on amendments in House
+- 2014-05-21 — Roll call votes on amendments in House
+- 2014-05-21 — Rules Committee Resolution H. Res. 590 Reported to House. Rule provides further consideration of H.R. 4435. No amendment shall be in order except those printed in part A of the report. At the conclusion of consideration for amendment, the Committee shall rise and report the bill to the House with such further amendments as may have been adopted. The previous question shall be considered as ordered without intervening motion except one motion to recommit with or without instructions. The rule also provides for consideration of H.R. 3361. All points of order against consideration are waived. The bill, as amended by part B of the report
+- 2014-05-21 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2014-05-21 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2014-05-21 — WITHDRAWN DEMAND FOR RECORDED VOTE - Mr. Garamendi asked unanimous consent to withdraw his demand for a recorded vote on amendment No. 5, as modified, and printed in House Report 113-455 to the end that the amendment stand rejected pursuant to the earlier voice vote on the amendment from May 20, 2014. Agreed to without objection.
+- 2014-05-22 — Amendment agreed to Committee of the Whole
+- 2014-05-22 — Amendment agreed to Committee of the Whole
+- 2014-05-22 — Amendment agreed to Committee of the Whole
+- 2014-05-22 — Amendment agreed to Committee of the Whole
+- 2014-05-22 — Amendment failed in Committee of the Whole
+- 2014-05-22 — Amendment failed in Committee of the Whole
+- 2014-05-22 — Amendment failed in Committee of the Whole
+- 2014-05-22 — Amendment failed in Committee of the Whole
+- 2014-05-22 — Considered as unfinished business. (consideration: CR H4804-4812)
+- 2014-05-22 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Peters (CA) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a new section to the bill titled Provisions Relating to Wages, Discrimination, Outsourcing Jobs, Student Loans, and Baggage Fees.
+- 2014-05-22 — House amendment agreed to: On agreeing to the Blumenauer amendment (A018) Agreed to by recorded vote: 224 - 199 (Roll no. 238).(consideration: CR H4809)
+- 2014-05-22 — House amendment agreed to: On agreeing to the Lamborn amendment (A016) Agreed to by recorded vote: 233 - 191 (Roll no. 236).(consideration: CR H4807-4808)
+- 2014-05-22 — House amendment agreed to: On agreeing to the Lamborn amendment (A016) Agreed to by recorded vote: 233 - 191 (Roll no. 236).(consideration: CR H4807-4808)
+- 2014-05-22 — House amendment agreed to: On agreeing to the McKinley amendment (A008) Agreed to by recorded vote: 231 - 192 (Roll no. 231).(consideration: CR H4804-4805)
+- 2014-05-22 — House amendment agreed to: On agreeing to the Shimkus amendment (A011) Agreed to by recorded vote: 245 - 177 (Roll no. 232).(consideration: CR H4805)
+- 2014-05-22 — House amendment not agreed to: On agreeing to the Jenkins amendment (A015) Failed by recorded vote: 179 - 244 (Roll no. 235).(consideration: CR H4807)
+- 2014-05-22 — House amendment not agreed to: On agreeing to the Schiff amendment (A017) Failed by recorded vote: 191 - 233 (Roll no. 237).(consideration: CR H4808-4809)
+- 2014-05-22 — House amendment not agreed to: On agreeing to the Smith (WA) amendment (A012) Failed by recorded vote: 177 - 247 (Roll no. 233).(consideration: CR H4805-4806)
+- 2014-05-22 — House amendment not agreed to: On agreeing to the Smith (WA) amendment (A013) Failed by recorded vote: 191 - 230 (Roll no. 234).(consideration: CR H4806-4807)
+- 2014-05-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-05-22 — Mr. Peters (CA) moved to recommit with instructions to the Committee on Armed Services. (consideration: CR H4809-4811; text: CR H4810)
+- 2014-05-22 — On agreeing to the Blumenauer amendment (A018) Agreed to by recorded vote: 224 - 199 (Roll no. 238). (consideration: CR H4809)
+- 2014-05-22 — On agreeing to the Jenkins amendment (A015) Failed by recorded vote: 179 - 244 (Roll no. 235). (consideration: CR H4807)
+- 2014-05-22 — On agreeing to the Lamborn amendment (A016) Agreed to by recorded vote: 233 - 191 (Roll no. 236). (consideration: CR H4807-4808)
+- 2014-05-22 — On agreeing to the McKinley amendment (A008) Agreed to by recorded vote: 231 - 192 (Roll no. 231). (consideration: CR H4804-4805)
+- 2014-05-22 — On agreeing to the Schiff amendment (A017) Failed by recorded vote: 191 - 233 (Roll no. 237). (consideration: CR H4808-4809)
+- 2014-05-22 — On agreeing to the Shimkus amendment (A011) Agreed to by recorded vote: 245 - 177 (Roll no. 232). (consideration: CR H4805)
+- 2014-05-22 — On agreeing to the Smith (WA) amendment (A012) Failed by recorded vote: 177 - 247 (Roll no. 233). (consideration: CR H4805-4806)
+- 2014-05-22 — On agreeing to the Smith (WA) amendment (A013) Failed by recorded vote: 191 - 230 (Roll no. 234). (consideration: CR H4806-4807)
+- 2014-05-22 — On motion to recommit with instructions Failed by recorded vote: 194 - 227 (Roll no. 239). (consideration: CR H4811)
+- 2014-05-22 — On passage Passed by recorded vote: 325 - 98 (Roll no. 240).
+- 2014-05-22 — Passed/agreed to in House: On passage Passed by recorded vote: 325 - 98 (Roll no. 240).
+- 2014-05-22 — Roll call votes on amendments in House
+- 2014-05-22 — Roll call votes on amendments in House
+- 2014-05-22 — Roll call votes on amendments in House
+- 2014-05-22 — Roll call votes on amendments in House
+- 2014-05-22 — Roll call votes on amendments in House
+- 2014-05-22 — Roll call votes on amendments in House
+- 2014-05-22 — Roll call votes on amendments in House
+- 2014-05-22 — Roll call votes on amendments in House
+- 2014-05-22 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 4435.
+- 2014-05-22 — The House adopted the amendment as agreed to by the Committee of the Whole House on the state of the Union. (consideration: CR H4809)
+- 2014-05-22 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2014-05-22 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4435.
+- 2014-05-22 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4811)
+- 2014-05-22 — The previous question was ordered pursuant to the rule. (consideration: CR H4809)
+- 2014-05-22 — The title of the measure was amended. Agreed to without objection.
+- 2014-05-22 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on amendments which had been debated earlier and on which further proceedings had been postponed.
