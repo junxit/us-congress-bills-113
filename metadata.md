@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4486
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4486
@@ -210,3 +210,7 @@ Military Construction and Veterans Affairs, and Related Agencies Appropriations 
 - 2014-04-30 — UNFINISHED BUSINESS - The Chair announced that proceedings would resume on the adoption of amendments.
 - 2014-04-30 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2014-05-01 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2014-05-20 — Committee on Appropriations Subcommittee on Military Construction and Veterans Affairs, and Related Agencies. Approved for full committee consideration with an amendment in the nature of a substitute favorably.
+- 2014-05-22 — Committee on Appropriations. Reported by Senator Johnson SD, with an amendment in the nature of a substitute. With written report No. 113-174.
+- 2014-05-22 — Committee on Appropriations. Reported by Senator Johnson SD, with an amendment in the nature of a substitute. With written report No. 113-174.
+- 2014-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 400.
