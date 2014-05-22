@@ -1,0 +1,14 @@
+---
+legis-num: H. CON. RES. 100
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. CON. RES. 100
+
+> Authorizing the use of the rotunda of the Capitol for a ceremony to commemorate the 50th anniversary of the enactment of the Civil Rights Act of 1964.
+
+## § 1. Use of the rotunda of the Capitol for ceremony to commemorate the 50th anniversary of the enactment of the Civil Rights Act of 1964
+
+The rotunda of the United States Capitol is authorized to be used on June 24, 2014, for a ceremony to commemorate the 50th anniversary of the enactment of the Civil Rights Act of 1964 and the significant impact the Act had on the Civil Rights movement. Physical preparations for the conduct of the ceremony shall be carried out in accordance with such conditions as may be prescribed by the Architect of the Capitol.
