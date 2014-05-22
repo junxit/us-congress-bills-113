@@ -1,7 +1,7 @@
 ---
 measure: H.R. 316
 congress: 113
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 316
@@ -48,3 +48,5 @@ Collinsville Renewable Energy Production Act
 - 2013-06-27 — Committee on Energy and Natural Resources. Reported by Senator Wyden with an amendment in the nature of a substitute. With written report No. 113-69.
 - 2013-06-27 — Committee on Energy and Natural Resources. Reported by Senator Wyden with an amendment in the nature of a substitute. With written report No. 113-69.
 - 2013-06-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 123.
+- 2014-05-22 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3307-3308; text as passed Senate: CR S3308)
+- 2014-05-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3307-3308; text as passed Senate: CR S3308)
