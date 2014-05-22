@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2337
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2337
@@ -40,3 +40,7 @@ Lake Hill Administrative Site Affordable Housing Act
 - 2013-10-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6854)
 - 2013-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6854)
 - 2013-10-30 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-12-19 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2014-05-22 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-173.
+- 2014-05-22 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-173.
+- 2014-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 399.
