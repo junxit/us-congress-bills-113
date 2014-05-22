@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3361
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3361
@@ -177,6 +177,10 @@ USA FREEDOM Act
 - House — Intelligence (Permanent Select) Committee
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2014-05-22 — [House 113-2-230](votes/house-113-2-0230.md) — On Passage — **Passed** (303–121)
+
 ## Actions
 
 - 2013-10-29 — Introduced in House
@@ -195,3 +199,14 @@ USA FREEDOM Act
 - 2014-05-15 — Reported (Amended) by the Committee on Intelligence. H. Rept. 113-452, Part II.
 - 2014-05-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-452, Part I.
 - 2014-05-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-452, Part I.
+- 2014-05-21 — Rule H. Res. 590 passed House.
+- 2014-05-21 — Rules Committee Resolution H. Res. 590 Reported to House. Rule provides further consideration of H.R. 4435. No amendment shall be in order except those printed in part A of the report. At the conclusion of consideration for amendment, the Committee shall rise and report the bill to the House with such further amendments as may have been adopted. The previous question shall be considered as ordered without intervening motion except one motion to recommit with or without instructions. The rule also provides for consideration of H.R. 3361. All points of order against consideration are waived. The bill, as amended by part B of the report
+- 2014-05-22 — Considered under the provisions of rule H. Res. 590. (consideration: CR H4789-4804)
+- 2014-05-22 — DEBATE - The House proceeded with one hour of debate on H.R. 3361.
+- 2014-05-22 — House amendment offered
+- 2014-05-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-05-22 — On passage Passed by the Yeas and Nays: 303 - 121 (Roll no. 230). (text: CR H4789-4793)
+- 2014-05-22 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 303 - 121 (Roll no. 230).(text: CR H4789-4793)
+- 2014-05-22 — Rule provides further consideration of H.R. 4435. No amendment shall be in order except those printed in part A of the report. At the conclusion of consideration for amendment, the Committee shall rise and report the bill to the House with such further amendments as may have been adopted. The previous question shall be considered as ordered without intervening motion except one motion to recommit with or without instructions. The rule also provides for consideration of H.R. 3361. All points of order against consideration are waived. The bill, as amended by part B of the report
+- 2014-05-22 — The House resumed debate on H.R. 3361.
+- 2014-05-22 — The previous question was ordered pursuant to the rule. (consideration: CR H4803)
