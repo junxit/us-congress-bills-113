@@ -1,0 +1,16 @@
+---
+legis-num: H.R. 4730
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4730
+
+> To allow the return of personal property to victims of sexual assault incidents involving a member of the Armed Forces upon completion of proceedings related to the incident.
+
+## § 1. Revision to requirements relating to Department of Defense policy on retention of evidence in a sexual assault case to allow return of personal property upon completion of related proceedings
+
+Section 586 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1435; 10 U.S.C. 1561 note) is amended by adding at the end the following new subsection:
+
+> - **(f)** *Return of personal property upon completion of related proceedings* Notwithstanding subsection (c)(4)(A), personal property retained as evidence in connection with an incident of sexual assault involving a member of the Armed Forces may be returned to the rightful owner of such property after the conclusion of all legal, adverse action, and administrative proceedings related to such incident.
