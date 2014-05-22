@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1033
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -38,5 +38,7 @@ Section 7301(c) of the Omnibus Public Land Management Act of 2009 (Public Law 11
   > - **(8)** *Prohibition on lobbying*
   >   - **(A)** *In general* None of the funds provided pursuant to this section may be used for purposes of lobbying any person or entity regarding the implementation of this section or be granted, awarded, contracted, or otherwise be made available to any person, organization, or entity that participates in such lobbying.
   >   - **(B)** *Lobbying defined* For purposes of this paragraph, the term lobbying means to directly or indirectly pay for any personal service, advertisement, telegram, telephone call, letter, printed or written matter, or other device intended or designed to influence in any manner a Member of Congress, a jurisdiction, or an official of any government to favor, adopt, or oppose by vote or otherwise, any legislation, law, ratification, policy, land use plan (including zoning), or appropriation of funds before or after the introduction of any bill, resolution, or other measure proposing such legislation, law, ratification, policy, or appropriation.
+
+  > - **(8)** *Prohibition on lobbying* None of the funds provided pursuant to this section shall be used in any way, directly or indirectly, to influence congressional action on any legislation or appropriation matters pending before Congress.
 
 - **(8)** In paragraph (9) (as redesignated by paragraph (6)), by striking “2013” and inserting “2018”.

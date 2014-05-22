@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1033
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1033
@@ -64,3 +64,8 @@ American Battlefield Protection Program Amendments Act of 2013
 - 2013-04-09 — Reported by the Committee on Natural Resources. H. Rept. 113-29.
 - 2013-04-09 — Reported by the Committee on Natural Resources. H. Rept. 113-29.
 - 2013-04-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-07-31 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 113-93.
+- 2013-11-21 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2014-05-22 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment. With written report No. 113-172.
+- 2014-05-22 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment. With written report No. 113-172.
+- 2014-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 398.
