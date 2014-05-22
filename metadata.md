@@ -1,7 +1,7 @@
 ---
 measure: S. 2086
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2086
@@ -28,9 +28,11 @@ Reliable Home Heating Act
 - Sen. McCaskill, Claire [D-MO] (M001170)
 - Sen. Johnson, Tim [D-SD] (J000177)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Transportation and Infrastructure Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -42,3 +44,7 @@ Reliable Home Heating Act
 - 2014-05-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 379.
 - 2014-05-21 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3243; text as passed Senate: CR S3243)
 - 2014-05-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3243; text as passed Senate: CR S3243)
+- 2014-05-22 — Message on Senate action sent to the House.
+- 2014-05-22 — Received in the House.
+- 2014-05-22 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-05-22 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
