@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2337
 congress: 113
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2337
@@ -44,3 +44,12 @@ Lake Hill Administrative Site Affordable Housing Act
 - 2014-05-22 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-173.
 - 2014-05-22 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-173.
 - 2014-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 399.
+- 2014-07-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4355-4364; text as passed Senate: CR S4357)
+- 2014-07-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4355-4364; text as passed Senate: CR S4357)
+- 2014-07-10 — Message on Senate action sent to the House.
+- 2014-07-15 — Presented to President.
+- 2014-07-15 — Presented to President.
+- 2014-07-25 — Became Public Law No: 113-141.
+- 2014-07-25 — Became Public Law No: 113-141.
+- 2014-07-25 — Signed by President.
+- 2014-07-25 — Signed by President.
