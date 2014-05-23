@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 36
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 36
@@ -16,8 +16,15 @@ A concurrent resolution permitting the use of the rotunda of the Capitol for a c
 
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 
+## Committees (1)
+
+- House — Committee on House Administration
+
 ## Actions
 
 - 2014-05-22 — Introduced in Senate
 - 2014-05-22 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S3309; text as passed Senate: CR S3303)
 - 2014-05-22 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S3309; text as passed Senate: CR S3303)
+- 2014-05-23 — Message on Senate action sent to the House.
+- 2014-05-23 — Received in the House.
+- 2014-05-23 — Referred to the House Committee on House Administration.
