@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 36
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 36
@@ -28,3 +28,8 @@ A concurrent resolution permitting the use of the rotunda of the Capitol for a c
 - 2014-05-23 — Message on Senate action sent to the House.
 - 2014-05-23 — Received in the House.
 - 2014-05-23 — Referred to the House Committee on House Administration.
+- 2014-06-09 — Considered under suspension of the rules. (consideration: CR H5136-5137)
+- 2014-06-09 — DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 36.
+- 2014-06-09 — Mrs. Miller (MI) moved to suspend the rules and agree to the resolution.
+- 2014-06-09 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5136)
+- 2014-06-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5136)
