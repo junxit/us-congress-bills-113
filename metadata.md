@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2527
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2527
@@ -16,7 +16,7 @@ To amend title 38, United States Code, to provide veterans with counseling and t
 
 - Rep. Titus, Dina [D-NV-1] (T000468)
 
-## Cosponsors (14)
+## Cosponsors (27)
 
 - Rep. Meng, Grace [D-NY-6] (M001188)
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
@@ -32,6 +32,19 @@ To amend title 38, United States Code, to provide veterans with counseling and t
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 - Rep. Gabbard, Tulsi [D-HI-2] (G000571)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
+- Rep. Lowey, Nita M. [D-NY-17] (L000480)
+- Rep. Negrete McLeod, Gloria [D-CA-35] (N000187)
+- Rep. Barber, Ron [D-AZ-2] (B001279)
+- Rep. Takano, Mark [D-CA-41] (T000472)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Honda, Michael M. [D-CA-17] (H001034)
 
 ## Committees (1)
 
@@ -44,3 +57,9 @@ To amend title 38, United States Code, to provide veterans with counseling and t
 - 2013-06-26 — Introduced in House
 - 2013-06-26 — Referred to the House Committee on Veterans' Affairs.
 - 2013-06-26 — Referred to the Subcommittee on Health.
+- 2014-03-27 — Subcommittee Hearings Held.
+- 2014-05-28 — Considered under suspension of the rules. (consideration: CR H4861)
+- 2014-05-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2527.
+- 2014-05-28 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
+- 2014-05-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4861)
+- 2014-05-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4861)

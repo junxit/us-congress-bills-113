@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2527
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -43,4 +43,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `38 U.S.C. § 1720D` | replace | by striking “this section, the” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `38 U.S.C. § 1720D` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1720D` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
