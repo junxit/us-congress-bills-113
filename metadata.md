@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3366
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3366
@@ -33,3 +33,8 @@ Hermiston Reversionary Lands Act
 - 2014-04-04 — Placed on the Union Calendar, Calendar No. 296.
 - 2014-04-04 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-402.
 - 2014-04-04 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-402.
+- 2014-05-28 — Considered under suspension of the rules. (consideration: CR H4856-4858)
+- 2014-05-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3366.
+- 2014-05-28 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
+- 2014-05-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4856-4857)
+- 2014-05-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4856-4857)
