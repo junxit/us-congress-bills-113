@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2942
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
