@@ -1,7 +1,7 @@
 ---
 measure: H.R. 503
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 503
@@ -130,6 +130,10 @@ National Desert Storm and Desert Shield War Memorial Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2014-05-28 — [House 113-2-242](votes/house-113-2-0242.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (370–0)
+
 ## Actions
 
 - 2013-02-05 — Introduced in House
@@ -143,3 +147,10 @@ National Desert Storm and Desert Shield War Memorial Act
 - 2014-05-06 — Placed on the Union Calendar, Calendar No. 325.
 - 2014-05-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-437.
 - 2014-05-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-437.
+- 2014-05-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-05-28 — Considered as unfinished business. (consideration: CR H4867-4868)
+- 2014-05-28 — Considered under suspension of the rules. (consideration: CR H4858-4860)
+- 2014-05-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 503.
+- 2014-05-28 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
+- 2014-05-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 370 - 0 (Roll no. 242). (text: CR H4858)
+- 2014-05-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 370 - 0 (Roll no. 242).(text: CR H4858)
