@@ -2,7 +2,7 @@
 legis-num: H. RES. 599
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 599
@@ -30,7 +30,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Government of China maintains tight control of speech, religion, and assembly, and has continually received poor rankings focused on civil liberties and political rights by nongovernmental organizations;
 - Whereas the United States Commission on International Religious Freedom’s most recent annual report has found that the “Chinese government continues to perpetrate particularly severe violations of religious freedom”, with conditions “worse now than at any time in the past decade” for religious minorities, findings which again contributed to the Commission recommending that China be designated as a “country of particular concern”;
 - Whereas the United States Department of State’s most recent human rights report on China found “extrajudicial killings” occurred in China;
-- Whereas the United States Department of State’s most recent human rights report on China found that the Government continued to target “for arbitrary detention or arrest” “human rights activists, journalists … and former political prisoners and their family members”;
+- Whereas the United States Department of State’s most recent human rights report on China found that the Government continued to target “for arbitrary detention or arrest” “human rights activists, journalists * * * and former political prisoners and their family members”;
 - Whereas freedom of expression and assembly are fundamental human rights that belong to all people, and are recognized as such under the Universal Declaration of Human Rights and the International Covenant on Civil and Political Rights; and
 - Whereas a Government of China which respects the individual rights of all its people would be more likely to have productive economic, political, and security relations with its neighbors and the United States: Now, therefore, be it
 
