@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 4760
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4760
+
+> To amend title 38, United States Code, to improve the ability of veterans to receive health care at private medical facilities.
+
+## § 1. Short title
+
+This Act may be cited as the “Veterans’ Health Care Flexibility Act”.
+
+## § 2. Removal of barriers to veterans receiving care at private medical facilities
+
+Section 1703 of title 38, United States Code, is amended—
+
+- **(1)** by amending subsection (a) to read as follows:
+  > - **(a)**
+  >   - **(1)** Upon the election of a veteran enrolled in the health care system established under section 1705(a), the Secretary shall furnish to the veteran at a non-Department facility hospital care and medical services that the veteran is eligible to receive under this chapter.
+  >   - **(2)** The Secretary shall enter into contracts with non-Department facilities to furnish hospital care and medical services pursuant to paragraph (1).
+  >   - **(3)** The Secretary may not require a veteran to make more than one election under paragraph (1).
+  >   - **(4)** An election made under paragraph (1) may not be construed as affecting the ability of a veteran to receive hospital care and medical services at a medical facility of the Department.
+
+- **(2)** by striking subsection (b); and
+- **(3)** by redesignating subsections (c) and (d) as subsections (b) and (c), respectively.
