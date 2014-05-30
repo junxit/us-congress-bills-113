@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4660
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4660
@@ -20,9 +20,693 @@ Commerce, Justice, Science, and Related Agencies Appropriations Act, 2015
 
 - House — Appropriations Committee
 
+## Recorded votes (27)
+
+- 2014-05-29 — [House 113-2-243](votes/house-113-2-0243.md) — On Agreeing to the Amendment — **Failed** (129–280)
+- 2014-05-29 — [House 113-2-244](votes/house-113-2-0244.md) — On Agreeing to the Amendment — **Agreed to** (306–106)
+- 2014-05-29 — [House 113-2-245](votes/house-113-2-0245.md) — On Agreeing to the Amendment — **Agreed to** (340–71)
+- 2014-05-29 — [House 113-2-246](votes/house-113-2-0246.md) — On Agreeing to the Amendment — **Agreed to** (218–193)
+- 2014-05-29 — [House 113-2-247](votes/house-113-2-0247.md) — On Agreeing to the Amendment — **Failed** (127–282)
+- 2014-05-29 — [House 113-2-248](votes/house-113-2-0248.md) — On Agreeing to the Amendment — **Failed** (173–238)
+- 2014-05-29 — [House 113-2-249](votes/house-113-2-0249.md) — On Agreeing to the Amendment — **Agreed to** (260–145)
+- 2014-05-29 — [House 113-2-250](votes/house-113-2-0250.md) — On Agreeing to the Amendment — **Failed** (66–339)
+- 2014-05-29 — [House 113-2-251](votes/house-113-2-0251.md) — On Agreeing to the Amendment — **Failed** (196–212)
+- 2014-05-29 — [House 113-2-252](votes/house-113-2-0252.md) — On Agreeing to the Amendment — **Agreed to** (208–201)
+- 2014-05-29 — [House 113-2-253](votes/house-113-2-0253.md) — On Agreeing to the Amendment — **Failed** (116–290)
+- 2014-05-30 — [House 113-2-254](votes/house-113-2-0254.md) — On Agreeing to the Amendment — **Failed** (169–230)
+- 2014-05-30 — [House 113-2-255](votes/house-113-2-0255.md) — On Agreeing to the Amendment — **Failed** (148–253)
+- 2014-05-30 — [House 113-2-256](votes/house-113-2-0256.md) — On Agreeing to the Amendment — **Failed** (198–208)
+- 2014-05-30 — [House 113-2-257](votes/house-113-2-0257.md) — On Agreeing to the Amendment — **Agreed to** (237–170)
+- 2014-05-30 — [House 113-2-258](votes/house-113-2-0258.md) — On Agreeing to the Amendment — **Agreed to** (219–189)
+- 2014-05-30 — [House 113-2-259](votes/house-113-2-0259.md) — On Agreeing to the Amendment — **Agreed to** (219–189)
+- 2014-05-30 — [House 113-2-260](votes/house-113-2-0260.md) — On Agreeing to the Amendment — **Agreed to** (246–162)
+- 2014-05-30 — [House 113-2-261](votes/house-113-2-0261.md) — On Agreeing to the Amendment — **Failed** (185–223)
+- 2014-05-30 — [House 113-2-262](votes/house-113-2-0262.md) — On Agreeing to the Amendment — **Failed** (196–211)
+- 2014-05-30 — [House 113-2-263](votes/house-113-2-0263.md) — On Agreeing to the Amendment — **Agreed to** (225–183)
+- 2014-05-30 — [House 113-2-264](votes/house-113-2-0264.md) — On Agreeing to the Amendment — **Agreed to** (229–178)
+- 2014-05-30 — [House 113-2-265](votes/house-113-2-0265.md) — On Agreeing to the Amendment — **Agreed to** (216–190)
+- 2014-05-30 — [House 113-2-266](votes/house-113-2-0266.md) — On Agreeing to the Amendment — **Agreed to** (214–194)
+- 2014-05-30 — [House 113-2-267](votes/house-113-2-0267.md) — On Agreeing to the Amendment — **Agreed to** (226–179)
+- 2014-05-30 — [House 113-2-268](votes/house-113-2-0268.md) — On Motion to Recommit with Instructions — **Failed** (185–220)
+- 2014-05-30 — [House 113-2-269](votes/house-113-2-0269.md) — On Passage — **Passed** (321–87)
+
 ## Actions
 
 - 2014-05-15 — Introduced in House
 - 2014-05-15 — Placed on the Union Calendar, Calendar No. 331.
 - 2014-05-15 — The House Committee on Appropriations reported an original measure, H. Rept. 113-448, by Mr. Wolf.
 - 2014-05-15 — The House Committee on Appropriations reported an original measure, H. Rept. 113-448, by Mr. Wolf.
+- 2014-05-19 — Rules Committee Resolution H. Res. 585 Reported to House. All points of order against the bills are waived. General debate shall not exceed one hour. After general debate the bills shall be considered for amendment under the five-minute rule. In lieu of the amendment in the nature of a substitute recommended by the Committee of Armed Services for H.R. 4435, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-44 shall be considered as adopted and considered as an original bill for the purposes of amendment.
+- 2014-05-28 — All points of order against the bills are waived. General debate shall not exceed one hour. After general debate the bills shall be considered for amendment under the five-minute rule. In lieu of the amendment in the nature of a substitute recommended by the Committee of Armed Services for H.R. 4435, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-44 shall be considered as adopted and considered as an original bill for the purposes of amendment.
+- 2014-05-28 — Amendment (A001) offered by Mr. Lynch. (consideration: CR H4880-4881; text: CR H4880)
+- 2014-05-28 — Amendment (A002) offered by Mrs. Davis (CA). (consideration: CR H4881-4882 text: CR H4881)
+- 2014-05-28 — Amendment (A003) offered by Mr. Reichert. (consideration: CR H4882-4883; text: CR H4882)
+- 2014-05-28 — Amendment (A004) offered by Mr. Kildee. (consideration: CR H4883-4884; text: CR H4883)
+- 2014-05-28 — Amendment (A005) offered by Mr. Langevin. (consideration: CR H4884-4885; text: CR H4884)
+- 2014-05-28 — Amendment (A006) offered by Mr. Cicilline. (consideration: CR H4885; text: CR H4885)
+- 2014-05-28 — Amendment (A007) offered by Mr. Pompeo. (consideration: CR H4885-4887; text: CR H4885)
+- 2014-05-28 — Amendment (A008) offered by Mr. Gibson. (consideration: CR H4887-4888; text: CR H4888)
+- 2014-05-28 — Amendment (A009) offered by Mr. McNerney. (consideration: CR H4888-4889; text: CR H4888)
+- 2014-05-28 — Amendment (A010) offered by Mr. Bridenstine. (consideration: CR H4889-4890; text: CR H4889)
+- 2014-05-28 — Amendment (A011) offered by Mr. Nugent. (consideration: CR H4890-4891; text: CR H4890)
+- 2014-05-28 — Amendment (A012) offered by Mr. McDermott. (consideration: CR H4891; text: CR H4891)
+- 2014-05-28 — Amendment (A013) offered by Mr. Holt. (consideration: CR H4892-4895; text: CR H4892)
+- 2014-05-28 — Amendment (A014) offered by Ms. Bonamici. (consideration: CR H4895-4896; text: CR H4895)
+- 2014-05-28 — Amendment (A015) offered by Mr. Thompson (CA). (consideration: CR H4897-4898, H4964-4965; text: CR H4897)
+- 2014-05-28 — Amendment (A016) offered by Mr. Broun (GA). (consideration: CR H4898; text: CR H4898)
+- 2014-05-28 — Amendment (A017) offered by Ms. Moore. (consideration: CR H4899-4900; text: CR H4899)
+- 2014-05-28 — Amendment (A018) offered by Ms. Sinema. (consideration: CR H4900; text: CR H4900)
+- 2014-05-28 — Amendment (A019) offered by Mr. King (IA). (consideration: CR H4900-4901, H5013; text: CR H4900)
+- 2014-05-28 — Amendment (A020) offered by Ms. Brownley (CA). (consideration: CR H4901-4902; text: CR H4901)
+- 2014-05-28 — Amendment (A021) offered by Mr. McKinley. (consideration: CR H4902; text: CR H4902)
+- 2014-05-28 — Amendment (A022) offered by Ms. Lujan Grisham (NM). (consideration: CR H4902-4903; text: CR H4902)
+- 2014-05-28 — Amendment (A023) offered by Mr. Coffman. (consideration: CR H4903-7904; text: CR H4903)
+- 2014-05-28 — Amendment (A024) offered by Ms. Lee (CA). (consideration: CR H4904-4905; text: CR H4904)
+- 2014-05-28 — Amendment (A025) offered by Mr. Cohen. (consideration: CR H4905-4906; text: CR H4905)
+- 2014-05-28 — Amendment (A026) offered by Mr. Fleming. (consideration: CR H4906-4908; text: CR H4906)
+- 2014-05-28 — Amendment agreed to Committee of the Whole
+- 2014-05-28 — Amendment agreed to Committee of the Whole
+- 2014-05-28 — Amendment agreed to Committee of the Whole
+- 2014-05-28 — Amendment agreed to Committee of the Whole
+- 2014-05-28 — Amendment agreed to Committee of the Whole
+- 2014-05-28 — Amendment agreed to Committee of the Whole
+- 2014-05-28 — Amendment agreed to Committee of the Whole
+- 2014-05-28 — Amendment agreed to Committee of the Whole
+- 2014-05-28 — Amendment agreed to Committee of the Whole
+- 2014-05-28 — Amendment agreed to Committee of the Whole
+- 2014-05-28 — Amendment agreed to Committee of the Whole
+- 2014-05-28 — Amendment agreed to Committee of the Whole
+- 2014-05-28 — Amendment failed in Committee of the Whole
+- 2014-05-28 — Amendment failed in Committee of the Whole
+- 2014-05-28 — Amendment failed in Committee of the Whole
+- 2014-05-28 — Amendment failed in Committee of the Whole
+- 2014-05-28 — Amendment failed in Committee of the Whole
+- 2014-05-28 — By unanimous consent, the Bonamici amendment was withdrawn.
+- 2014-05-28 — By unanimous consent, the Cicilline amendment was withdrawn.
+- 2014-05-28 — Considered under the provisions of rule H. Res. 585. (consideration: CR H4868-4908; text of Title I as reported in House: CR H4880, H4884, H4885, H4887, H4891-4892, H4897, H4898, H4899; text of Title II as reported in House: H4899, H4904, H4905, H4906)
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Bonamici amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Bridenstine amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Broun (GA) amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Brownley (CA) amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Cicilline amendment under the five-minute rule, pending reservation of a point of order.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Coffman (CO) amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Cohen amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Davis (CA) amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Fleming amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Gibson amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Holt amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Kildee amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the King (IA) amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Langevin amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Lee (CA) amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Lujan Grisham (NM) amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Lynch amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the McDermott amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the McKinley amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the McNerney amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Moore amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Nugent amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Pompeo amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Reichert amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Sinema amendment under the five-minute rule.
+- 2014-05-28 — DEBATE - The Committee of the Whole proceeded with debate on the Thompson (CA) amendment under the five-minute rule.
+- 2014-05-28 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4660.
+- 2014-05-28 — House amendment agreed to: On agreeing to the Brownley (CA) amendment (A020) Agreed to by voice vote.
+- 2014-05-28 — House amendment agreed to: On agreeing to the Coffman amendment (A023) Agreed to by voice vote.
+- 2014-05-28 — House amendment agreed to: On agreeing to the Gibson amendment (A008) Agreed to by voice vote.
+- 2014-05-28 — House amendment agreed to: On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2014-05-28 — House amendment agreed to: On agreeing to the Lee (CA) amendment (A024) Agreed to by voice vote.
+- 2014-05-28 — House amendment agreed to: On agreeing to the Lujan Grisham (NM) amendment (A022) Agreed to by voice vote.
+- 2014-05-28 — House amendment agreed to: On agreeing to the Lynch amendment (A001) Agreed to by voice vote.
+- 2014-05-28 — House amendment agreed to: On agreeing to the McKinley amendment (A021) Agreed to by voice vote.
+- 2014-05-28 — House amendment agreed to: On agreeing to the Moore amendment (A017) Agreed to by voice vote.
+- 2014-05-28 — House amendment agreed to: On agreeing to the Nugent amendment (A011) Agreed to by voice vote.
+- 2014-05-28 — House amendment agreed to: On agreeing to the Reichert amendment (A003) Agreed to by voice vote.
+- 2014-05-28 — House amendment agreed to: On agreeing to the Sinema amendment (A018) Agreed to by voice vote.
+- 2014-05-28 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A016) Failed by voice vote.
+- 2014-05-28 — House amendment not agreed to: On agreeing to the Davis (CA) amendment (A002) Failed by voice vote.
+- 2014-05-28 — House amendment not agreed to: On agreeing to the Davis (CA) amendment (A002) Failed by voice vote.
+- 2014-05-28 — House amendment not agreed to: On agreeing to the Holt amendment (A013) Failed by voice vote.
+- 2014-05-28 — House amendment not agreed to: On agreeing to the Kildee amendment (A004) Failed by voice vote.
+- 2014-05-28 — House amendment not agreed to: On agreeing to the McDermott amendment (A012) Failed by voice vote.
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered
+- 2014-05-28 — House amendment offered/reported by: Amendment (A001) offered by Mr. Lynch.(consideration: CR H4880-4881; text: CR H4880)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A002) offered by Mrs. Davis (CA).(consideration: CR H4881-4882 text: CR H4881)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A003) offered by Mr. Reichert.(consideration: CR H4882-4883; text: CR H4882)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A004) offered by Mr. Kildee.(consideration: CR H4883-4884; text: CR H4883)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A005) offered by Mr. Langevin.(consideration: CR H4884-4885; text: CR H4884)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A006) offered by Mr. Cicilline.(consideration: CR H4885; text: CR H4885)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A007) offered by Mr. Pompeo.(consideration: CR H4885-4887; text: CR H4885)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A008) offered by Mr. Gibson.(consideration: CR H4887-4888; text: CR H4888)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A009) offered by Mr. McNerney.(consideration: CR H4888-4889; text: CR H4888)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A010) offered by Mr. Bridenstine.(consideration: CR H4889-4890; text: CR H4889)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A011) offered by Mr. Nugent.(consideration: CR H4890-4891; text: CR H4890)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A012) offered by Mr. McDermott.(consideration: CR H4891; text: CR H4891)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A013) offered by Mr. Holt.(consideration: CR H4892-4895; text: CR H4892)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A014) offered by Ms. Bonamici.(consideration: CR H4895-4896; text: CR H4895)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A015) offered by Mr. Thompson (CA).(consideration: CR H4897-4898, H4964-4965; text: CR H4897)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A016) offered by Mr. Broun (GA).(consideration: CR H4898; text: CR H4898)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A017) offered by Ms. Moore.(consideration: CR H4899-4900; text: CR H4899)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A018) offered by Ms. Sinema.(consideration: CR H4900; text: CR H4900)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A019) offered by Mr. King (IA).(consideration: CR H4900-4901, H5013; text: CR H4900)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A020) offered by Ms. Brownley (CA).(consideration: CR H4901-4902; text: CR H4901)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A020) offered by Ms. Brownley (CA).(consideration: CR H4901-4902; text: CR H4901)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A021) offered by Mr. McKinley.(consideration: CR H4902; text: CR H4902)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A022) offered by Ms. Lujan Grisham (NM).(consideration: CR H4902-4903; text: CR H4902)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A023) offered by Mr. Coffman.(consideration: CR H4903-7904; text: CR H4903)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A024) offered by Ms. Lee (CA).(consideration: CR H4904-4905; text: CR H4904)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A025) offered by Mr. Cohen.(consideration: CR H4905-4906; text: CR H4905)
+- 2014-05-28 — House amendment offered/reported by: Amendment (A026) offered by Mr. Fleming.(consideration: CR H4906-4908; text: CR H4906)
+- 2014-05-28 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 585 and Rule XVIII.
+- 2014-05-28 — On agreeing to the Broun (GA) amendment (A016) Failed by voice vote.
+- 2014-05-28 — On agreeing to the Brownley (CA) amendment (A020) Agreed to by voice vote.
+- 2014-05-28 — On agreeing to the Coffman amendment (A023) Agreed to by voice vote.
+- 2014-05-28 — On agreeing to the Davis (CA) amendment (A002) Failed by voice vote.
+- 2014-05-28 — On agreeing to the Gibson amendment (A008) Agreed to by voice vote.
+- 2014-05-28 — On agreeing to the Holt amendment (A013) Failed by voice vote.
+- 2014-05-28 — On agreeing to the Kildee amendment (A004) Failed by voice vote.
+- 2014-05-28 — On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2014-05-28 — On agreeing to the Lee (CA) amendment (A024) Agreed to by voice vote.
+- 2014-05-28 — On agreeing to the Lujan Grisham (NM) amendment (A022) Agreed to by voice vote.
+- 2014-05-28 — On agreeing to the Lynch amendment (A001) Agreed to by voice vote.
+- 2014-05-28 — On agreeing to the McDermott amendment (A012) Failed by voice vote.
+- 2014-05-28 — On agreeing to the McKinley amendment (A021) Agreed to by voice vote.
+- 2014-05-28 — On agreeing to the Moore amendment (A017) Agreed to by voice vote.
+- 2014-05-28 — On agreeing to the Nugent amendment (A011) Agreed to by voice vote.
+- 2014-05-28 — On agreeing to the Reichert amendment (A003) Agreed to by voice vote.
+- 2014-05-28 — On agreeing to the Sinema amendment (A018) Agreed to by voice vote.
+- 2014-05-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bridenstine amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Fattah demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cohen amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Cohen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA)amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. King (IA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McNerney amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Fattah demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pompeo amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rogers (KY) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Thompson (CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Wolf demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-28 — The Speaker designated the Honorable Ann Wagner to act as Chairwoman of the Committee.
+- 2014-05-29 — Amendment (A027) offered by Mr. Gosar. (consideration: CR H4927-4928; text: CR H4927-4928)
+- 2014-05-29 — Amendment (A028) offered by Mr. Cohen. (consideration: CR H4929; text: CR H4929)
+- 2014-05-29 — Amendment (A029) offered by Mr. Cohen. (consideration: CR H4929-4931, H4935; text: CR H4929)
+- 2014-05-29 — Amendment (A030) offered by Mr. Polis. (consideration: CR H4936-4939, H4965; text: CR H4936)
+- 2014-05-29 — Amendment (A031) offered by Mr. Kildee. (consideration: CR H4940-4941; text: CR H4940)
+- 2014-05-29 — Amendment (A032) offered by Mr. Gosar. (consideration: CR H4941-4942 text: CR H4941)
+- 2014-05-29 — Amendment (A033) offered by Ms. Jackson Lee. (consideration: CR H4942-4943; text: CR H4942)
+- 2014-05-29 — Amendment (A034) offered by Mr. Delaney. (consideration: CR H4943; text: CR H4943)
+- 2014-05-29 — Amendment (A035) offered by Mr. Connolly. (consideration: CR H4944; text: CR H4944)
+- 2014-05-29 — Amendment (A036) offered by Mr. Gallego. (consideration: CR H4945; text: CR H4945)
+- 2014-05-29 — Amendment (A037) offered by Mr. Gosar. (consideration: CR H4946; text: CR H4946)
+- 2014-05-29 — Amendment (A038) offered by Mr. Cicilline. (consideration: CR H4947-4948, H4966; text: CR H4947)
+- 2014-05-29 — Amendment (A039) offered by Mr. Kilmer. (consideration: CR H4948-4949; text: CR H4948)
+- 2014-05-29 — Amendment (A040) offered by Mr. Grayson. (consideration: CR H4949-4950, H5011; text: CR H4949)
+- 2014-05-29 — Amendment (A041) offered by Mr. Jeffries. (consideration: CR H4950-4951; text: CR H4950)
+- 2014-05-29 — Amendment (A042) offered by Mr. Grayson. (consideration: CR H4951-4952; text: CR H4951)
+- 2014-05-29 — Amendment (A043) offered by Mr. Broun (GA). (consideration: CR H4953-4954; text: CR H4953)
+- 2014-05-29 — Amendment (A044) offered by Ms. Kaptur. (consideration: CR H4955-4956; text: CR H4955)
+- 2014-05-29 — Amendment (A045) offered by Mr. Smith (TX). (consideration: CR H4957-4959, H4966-4967; text: CR H4957)
+- 2014-05-29 — Amendment (A046) offered by Mr. Broun (GA). (consideration: CR H4959-4960; text: CR H4959)
+- 2014-05-29 — Amendment (A047) offered by Mr. Scott, Austin. (consideration: CR H4961-4963, H4967; text: CR H4961)
+- 2014-05-29 — Amendment (A048) offered by Mr. Costa. (consideration: CR H4963-4964; text: CR H4963)
+- 2014-05-29 — Amendment (A049) offered by Mr. Moran. (consideration: CR H4970-4971; text: CR H4970)
+- 2014-05-29 — Amendment (A050) offered by Ms. Esty. (consideration: CR H4972-4974; text: CR H4972)
+- 2014-05-29 — Amendment (A051) offered by Mr. Hastings (WA). (consideration: CR H4974-4975; text: CR H4974)
+- 2014-05-29 — Amendment (A052) offered by Mr. Doyle. (consideration: CR H4975-4976; text: CR H4975)
+- 2014-05-29 — Amendment (A053) offered by Mrs. Blackburn. (consideration: CR H4976, H5006; text: CR H4976)
+- 2014-05-29 — Amendment (A054) offered by Mr. Engel. (consideration: CR H4976-4977; text: CR H4976)
+- 2014-05-29 — Amendment (A055) offered by Mrs. Blackburn. (consideration: CR H4977-4979, H5006-5007; text: CR H4977)
+- 2014-05-29 — Amendment (A056) offered by Ms. Bonamici. (consideration: CR H4979-4981, H5007-5008; text: CR H4979)
+- 2014-05-29 — Amendment (A057) offered by Mr. Walberg. (consideration: CR H4981-4982, H5005; text: CR H4981)
+- 2014-05-29 — Amendment (A058) offered by Mr. Grayson. (consideration: CR H4982; text: CR H4982)
+- 2014-05-29 — Amendment (A059) offered by Mr. Rohrabacher. (consideration: CR H4982-4985, H5008; text: CR H4982)
+- 2014-05-29 — Amendment (A060) offered by Mr. Grayson. (consideration: CR H4985-4986; text: CR H4985)
+- 2014-05-29 — Amendment (A061) offered by Mr. Holding. (consideration: CR H4986-4987, H5008-5009; text: CR H4986)
+- 2014-05-29 — Amendment (A062) offered by Mr. Flores. (consideration: CR H4987-4988; text: CR H4987)
+- 2014-05-29 — Amendment (A063) offered by Mr. Poe (TX). (consideration: CR H4988; text: CR H4988)
+- 2014-05-29 — Amendment (A064) offered by Ms. Jackson Lee. (consideration: CR H4988-4990; text: CR H4988)
+- 2014-05-29 — Amendment (A065) offered by Mr. Massie. (consideration: CR H4990-4991, H5009-5010; text: CR H4990)
+- 2014-05-29 — Amendment (A066) offered by Mr. Huffman. (consideration: CR H4991-4992; text: CR H4991)
+- 2014-05-29 — Amendment (A067) offered by Mr. Southerland. (consideration: CR H4992-4993, H5010; text: CR H4992)
+- 2014-05-29 — Amendment (A068) offered by Mr. Ellison. (consideration: CR H4993, H5010-5011; text: CR H4993)
+- 2014-05-29 — Amendment (A069) offered by Mr. Perry. (consideration: CR H4993; text: CR H4993)
+- 2014-05-29 — Amendment (A070) offered by Mr. Ellison. (consideration: CR H4993-4994; text: CR H4993)
+- 2014-05-29 — Amendment (A071) offered by Mr. Broun (GA). (consideration: CR H4994-4995; text: CR H4994)
+- 2014-05-29 — Amendment (A072) offered by Mr. Grayson. (consideration: CR H4995; text: CR H4995)
+- 2014-05-29 — Amendment (A073) offered by Mr. Salmon. (consideration: CR H4995-4996; text: CR H4995)
+- 2014-05-29 — Amendment (A074) offered by Mr. Grayson. (consideration: CR H4996-4997, H5011; text: CR H4996)
+- 2014-05-29 — Amendment (A075) offered by Mr. Gosar. (consideration: CR H4997-4998; text: CR H4997)
+- 2014-05-29 — Amendment (A076) offered by Mr. Gosar. (consideration: CR H4998; text: CR H4998)
+- 2014-05-29 — Amendment (A077) offered by Mr. Perry. (consideration: CR H4998-4999; text: CR H4998)
+- 2014-05-29 — Amendment (A078) offered by Mr. Duffy. (consideration: CR H4999, H5012; text: CR H4999)
+- 2014-05-29 — Amendment (A079) offered by Mr. Garrett. (consideration: CR H4999-5001, H5012-5013; text: CR H4999)
+- 2014-05-29 — Amendment (A080) offered by Mr. Luetkemeyer. (consideration: CR H5001-5002; text: CR H5001)
+- 2014-05-29 — Amendment (A081) offered by Mr. King (IA). (consideration: CR H5002-5003, H5013; text: CR H5002)
+- 2014-05-29 — Amendment (A082) offered by Mr. Meadows. (consideration: CR H5003, H5013-5014; text: CR H5003)
+- 2014-05-29 — Amendment (A083) offered by Mr. Hudson. (consideration: CR H5003; text: CR H5003)
+- 2014-05-29 — Amendment (A084) offered by Mr. Collins (GA). (consideration: CR H5003-5005; text: CR H5003)
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment agreed to Committee of the Whole
+- 2014-05-29 — Amendment failed in Committee of the Whole
+- 2014-05-29 — Amendment failed in Committee of the Whole
+- 2014-05-29 — Amendment failed in Committee of the Whole
+- 2014-05-29 — Amendment failed in Committee of the Whole
+- 2014-05-29 — Amendment failed in Committee of the Whole
+- 2014-05-29 — Amendment failed in Committee of the Whole
+- 2014-05-29 — Amendment failed in Committee of the Whole
+- 2014-05-29 — Amendment failed in Committee of the Whole
+- 2014-05-29 — Amendment failed in Committee of the Whole
+- 2014-05-29 — Amendment failed in Committee of the Whole
+- 2014-05-29 — By unanimous consent, the Costa amendment was withdrawn. (consideration: CR H4964)
+- 2014-05-29 — By unanimous consent, the Doyle amendment was withdrawn. (consideration: CR H4976)
+- 2014-05-29 — By unanimous consent, the Esty amendment was withdrawn. (consideration: CR H4974)
+- 2014-05-29 — By unanimous consent, the Gosar amendment was withdrawn. (consideration: CR H4998)
+- 2014-05-29 — By unanimous consent, the Grayson amendment was withdrawn. (consideration: CR H4986)
+- 2014-05-29 — By unanimous consent, the Hudson amendment was withdrawn. (consideration: CR H5003)
+- 2014-05-29 — Committee of the Whole House on the state of the Union rises leaving H.R. 4660 as unfinished business.
+- 2014-05-29 — Committee of the Whole House on the state of the Union rises leaving H.R. 4660 as unfinished business.
+- 2014-05-29 — Committee of the Whole House on the state of the Union rises leaving H.R. 4660 as unfinished business.
+- 2014-05-29 — Considered as unfinished business. (consideration: CR H4927-4955, H5016; text of Title II as reported in House: CR H4928-4929, H4940, H4942, H4943-4944, H4944-4945, H4945-4946, H4946-4947, H4950, H4951, H4952-4953; text of Title III as reported in House: CR H4953, H4955, H4956-4957, H4959, H4960-4961; text of Title IV as reported in House: CR H4961, H4963; text of Title V as reported in House: CR H4963, H4968-4969, H4969-4970, H4971-4972, H4974)
+- 2014-05-29 — Considered as unfinished business. (consideration: CR H4955-4968)
+- 2014-05-29 — Considered as unfinished business. (consideration: CR H4968-5016)
+- 2014-05-29 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Broun (GA) amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Collins (GA) amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Duffy amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Garrett amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Hudson amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Luetkemeyer amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Meadows amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Salmon amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Austin Scott (GA) amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Blackburn amendment No. 14.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Blackburn amendment No. 15.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Bonamici amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Broun (GA) amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Costa amendment, pending reservation of a point of order.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Doyle amendment, pending the reservation of a point of order.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Engel amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Esty amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Flores amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment No. 20.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment No. 21.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings (WA) amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Holding amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Huffman amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 10.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Kaptur amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Massie amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Moran amendment No. 13.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Poe (TX) amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Rohrabacher amendment No. 25.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (TX) amendment.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Southerland amendment No. 24.
+- 2014-05-29 — DEBATE - Pursuant to a previous order, the Committee of the Whole proceeded with 10 minutes of debate on the Walberg amendment.
+- 2014-05-29 — DEBATE - The Committee of the Whole proceeded with debate on the Broun (GA) amendment under the five-minute rule.
+- 2014-05-29 — DEBATE - The Committee of the Whole proceeded with debate on the Cicilline amendment under the five-minute rule.
+- 2014-05-29 — DEBATE - The Committee of the Whole proceeded with debate on the Cohen amendment under the five-minute rule.
+- 2014-05-29 — DEBATE - The Committee of the Whole proceeded with debate on the Connolly amendment under the five-minute rule.
+- 2014-05-29 — DEBATE - The Committee of the Whole proceeded with debate on the Delaney amendment under the five-minute rule.
+- 2014-05-29 — DEBATE - The Committee of the Whole proceeded with debate on the Gallego amendment under the five-minute rule.
+- 2014-05-29 — DEBATE - The Committee of the Whole proceeded with debate on the Gosar amendment under the five-minute rule.
+- 2014-05-29 — DEBATE - The Committee of the Whole proceeded with debate on the Gosar amendment under the five-minute rule.
+- 2014-05-29 — DEBATE - The Committee of the Whole proceeded with debate on the Gosar amendment under the five-minute rule.
+- 2014-05-29 — DEBATE - The Committee of the Whole proceeded with debate on the Grayson amendment No. 18, under the five-minute rule.
+- 2014-05-29 — DEBATE - The Committee of the Whole proceeded with debate on the Grayson amendment under the five-minute rule.
+- 2014-05-29 — DEBATE - The Committee of the Whole proceeded with debate on the Jackson Lee amendment No. 8 under the five-minute rule.
+- 2014-05-29 — DEBATE - The Committee of the Whole proceeded with debate on the Jeffries amendment under the five-minute rule, pending reservation of a point of order.
+- 2014-05-29 — DEBATE - The Committee of the Whole proceeded with debate on the Kildee amendment under the five-minute rule.
+- 2014-05-29 — DEBATE - The Committee of the Whole proceeded with debate on the Kilmer amendment under the five-minute rule, pending a reservation of a point of order. Subsequently, the reservation was removed.
+- 2014-05-29 — DEBATE - The Committee of the Whole proceeded with debate on the Polis amendment under the five-minute rule.
+- 2014-05-29 — DEBATE - The Committee of the Whole proceeded with debate on the Second Cohen amendment under the five-minute rule.
+- 2014-05-29 — DISPOSITION OF WALBERG AMENDMENT - The Chair announced that, without objection, the request for a recorded vote having been withdrawn, the Walberg amendment, stands affirmed in accordance with the previous voice vote thereon.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Bridenstine amendment (A010) Agreed to by recorded vote: 340 - 71 (Roll no. 245).(consideration: CR H4933-4934)
+- 2014-05-29 — House amendment agreed to: On agreeing to the Broun (GA) amendment (A071) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Cohen amendment (A028) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Collins (GA) amendment (A084) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Connolly amendment (A035) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Delaney amendment (A034) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Ellison amendment (A068) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Engel amendment (A054) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Fleming amendment (A026) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Flores amendment (A062) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Gallego amendment (A036) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Gosar amendment (A027) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Gosar amendment (A032) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Gosar amendment (A037) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Grayson amendment (A040) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Grayson amendment (A058) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Grayson amendment (A072) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Hastings (WA) amendment (A051) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Huffman amendment (A066) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A033) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A064) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Kaptur amendment (A044) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the King (IA) amendment (A019) Agreed to by recorded vote: 218 - 193 (Roll no. 246).(consideration: CR H4934)
+- 2014-05-29 — House amendment agreed to: On agreeing to the Luetkemeyer amendment (A080) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the McNerney amendment (A009) Agreed to by recorded vote: 306 - 106 (Roll no. 244).(consideration: CR H4932-4933)
+- 2014-05-29 — House amendment agreed to: On agreeing to the Perry amendment (A069) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Perry amendment (A077) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Poe (TX) amendment (A063) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Salmon amendment (A073) Agreed to by voice vote.
+- 2014-05-29 — House amendment agreed to: On agreeing to the Smith (TX) amendment (A045) Agreed to by recorded vote: 208 - 201 (Roll no. 252).
+- 2014-05-29 — House amendment agreed to: On agreeing to the Thompson (CA) amendment (A015) Agreed to by recorded vote: 260 - 145, 1 Present (Roll no. 249).(consideration: CR H4964-4965)
+- 2014-05-29 — House amendment agreed to: On agreeing to the Walberg amendment (A057) Agreed to by voice vote.
+- 2014-05-29 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A043) Failed by voice vote.
+- 2014-05-29 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A046) Failed by voice vote.
+- 2014-05-29 — House amendment not agreed to: On agreeing to the Cicilline amendment (A038) Failed by recorded vote: 196 - 212 (Roll no. 251).
+- 2014-05-29 — House amendment not agreed to: On agreeing to the Cohen amendment (A029) Failed by recorded vote: 173 - 238 (Roll no. 248).
+- 2014-05-29 — House amendment not agreed to: On agreeing to the First Cohen amendment (A025) Failed by recorded vote: 127 - 282 (Roll no. 247).(consideration: CR H4934-4935)
+- 2014-05-29 — House amendment not agreed to: On agreeing to the Kildee amendment (A031) Failed by voice vote.
+- 2014-05-29 — House amendment not agreed to: On agreeing to the Kilmer amendment (A039) Failed by voice vote.
+- 2014-05-29 — House amendment not agreed to: On agreeing to the Polis amendment (A030) Failed by recorded vote: 66 - 339 (Roll no. 250).
+- 2014-05-29 — House amendment not agreed to: On agreeing to the Pompeo amendment (A007) Failed by recorded vote: 129 - 280 (Roll no. 243).(consideration: CR H4931-4932)
+- 2014-05-29 — House amendment not agreed to: On agreeing to the Scott, Austin amendment (A047) Failed by recorded vote: 116 - 290 (Roll no. 253).
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered
+- 2014-05-29 — House amendment offered/reported by: Amendment (A027) offered by Mr. Gosar.(consideration: CR H4927-4928; text: CR H4927-4928)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A028) offered by Mr. Cohen.(consideration: CR H4929; text: CR H4929)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A029) offered by Mr. Cohen.(consideration: CR H4929-4931, H4935; text: CR H4929)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A030) offered by Mr. Polis.(consideration: CR H4936-4939, H4965; text: CR H4936)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A031) offered by Mr. Kildee.(consideration: CR H4940-4941; text: CR H4940)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A032) offered by Mr. Gosar.(consideration: CR H4941-4942 text: CR H4941)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A033) offered by Ms. Jackson Lee.(consideration: CR H4942-4943; text: CR H4942)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A034) offered by Mr. Delaney.(consideration: CR H4943; text: CR H4943)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A035) offered by Mr. Connolly.(consideration: CR H4944; text: CR H4944)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A036) offered by Mr. Gallego.(consideration: CR H4945; text: CR H4945)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A037) offered by Mr. Gosar.(consideration: CR H4946; text: CR H4946)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A038) offered by Mr. Cicilline.(consideration: CR H4947-4948, H4966; text: CR H4947)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A039) offered by Mr. Kilmer.(consideration: CR H4948-4949; text: CR H4948)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A040) offered by Mr. Grayson.(consideration: CR H4949-4950, H5011; text: CR H4949)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A041) offered by Mr. Jeffries.(consideration: CR H4950-4951; text: CR H4950)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A042) offered by Mr. Grayson.(consideration: CR H4951-4952; text: CR H4951)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A043) offered by Mr. Broun (GA).(consideration: CR H4953-4954; text: CR H4953)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A044) offered by Ms. Kaptur.(consideration: CR H4955-4956; text: CR H4955)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A045) offered by Mr. Smith (TX).(consideration: CR H4957-4959, H4966-4967; text: CR H4957)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A046) offered by Mr. Broun (GA).(consideration: CR H4959-4960; text: CR H4959)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A047) offered by Mr. Scott, Austin.(consideration: CR H4961-4963, H4967; text: CR H4961)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A048) offered by Mr. Costa.(consideration: CR H4963-4964; text: CR H4963)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A049) offered by Mr. Moran.(consideration: CR H4970-4971; text: CR H4970)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A050) offered by Ms. Esty.(consideration: CR H4972-4974; text: CR H4972)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A051) offered by Mr. Hastings (WA).(consideration: CR H4974-4975; text: CR H4974)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A052) offered by Mr. Doyle.(consideration: CR H4975-4976; text: CR H4975)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A053) offered by Mrs. Blackburn.(consideration: CR H4976, H5006; text: CR H4976)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A054) offered by Mr. Engel.(consideration: CR H4976-4977; text: CR H4976)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A055) offered by Mrs. Blackburn.(consideration: CR H4977-4979, H5006-5007; text: CR H4977)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A056) offered by Ms. Bonamici.(consideration: CR H4979-4981, H5007-5008; text: CR H4979)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A057) offered by Mr. Walberg.(consideration: CR H4981-4982, H5005; text: CR H4981)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A058) offered by Mr. Grayson.(consideration: CR H4982; text: CR H4982)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A059) offered by Mr. Rohrabacher.(consideration: CR H4982-4985, H5008; text: CR H4982)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A060) offered by Mr. Grayson.(consideration: CR H4985-4986; text: CR H4985)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A061) offered by Mr. Holding.(consideration: CR H4986-4987, H5008-5009; text: CR H4986)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A062) offered by Mr. Flores.(consideration: CR H4987-4988; text: CR H4987)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A063) offered by Mr. Poe (TX).(consideration: CR H4988; text: CR H4988)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A064) offered by Ms. Jackson Lee.(consideration: CR H4988-4990; text: CR H4988)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A065) offered by Mr. Massie.(consideration: CR H4990-4991, H5009-5010; text: CR H4990)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A066) offered by Mr. Huffman.(consideration: CR H4991-4992; text: CR H4991)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A067) offered by Mr. Southerland.(consideration: CR H4992-4993, H5010; text: CR H4992)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A068) offered by Mr. Ellison.(consideration: CR H4993, H5010-5011; text: CR H4993)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A069) offered by Mr. Perry.(consideration: CR H4993; text: CR H4993)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A070) offered by Mr. Ellison.(consideration: CR H4993-4994; text: CR H4993)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A071) offered by Mr. Broun (GA).(consideration: CR H4994-4995; text: CR H4994)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A072) offered by Mr. Grayson.(consideration: CR H4995; text: CR H4995)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A073) offered by Mr. Salmon.(consideration: CR H4995-4996; text: CR H4995)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A074) offered by Mr. Grayson.(consideration: CR H4996-4997, H5011; text: CR H4996)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A075) offered by Mr. Gosar.(consideration: CR H4997-4998; text: CR H4997)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A076) offered by Mr. Gosar.(consideration: CR H4998; text: CR H4998)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A077) offered by Mr. Perry.(consideration: CR H4998-4999; text: CR H4998)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A078) offered by Mr. Duffy.(consideration: CR H4999, H5012; text: CR H4999)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A079) offered by Mr. Garrett.(consideration: CR H4999-5001, H5012-5013; text: CR H4999)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A080) offered by Mr. Luetkemeyer.(consideration: CR H5001-5002; text: CR H5001)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A081) offered by Mr. King (IA).(consideration: CR H5002-5003, H5013; text: CR H5002)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A082) offered by Mr. Meadows.(consideration: CR H5003, H5013-5014; text: CR H5003)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A083) offered by Mr. Hudson.(consideration: CR H5003; text: CR H5003)
+- 2014-05-29 — House amendment offered/reported by: Amendment (A084) offered by Mr. Collins (GA).(consideration: CR H5003-5005; text: CR H5003)
+- 2014-05-29 — Mr. Culberson raised a point of order against the Grayson amendment (A042). Mr. Culberson stated that the provisions of the amendment violate clause 2 of rule XXI by proposing to change existing law and constitute legislation in an appropriations bill. The Chair sustained the point of order.
+- 2014-05-29 — Mr. Wolf moved that the Committee now rise.
+- 2014-05-29 — Mr. Wolf moved that the Committee rise.
+- 2014-05-29 — Mr. Wolf moved that the Committee rise.
+- 2014-05-29 — Mr. Wolf raised a point of order against the Gosar amendment (A075). Mr. Wolf stated that the provisions of the amendment violate clause 2 of rule 21 and constitute legislation in an appropriations bill. The Chair sustained the point of order.
+- 2014-05-29 — Mr. Wolf raised a point of order against the Jeffries amendment (A041). Mr. Wolf stated that the provisions of the amendment violate clause 2 of rule XXI by proposing to appropriate funds for a program not authorized. The Chair sustained the point of order.
+- 2014-05-29 — On agreeing to the Bridenstine amendment (A010) Agreed to by recorded vote: 340 - 71 (Roll no. 245). (consideration: CR H4933-4934)
+- 2014-05-29 — On agreeing to the Broun (GA) amendment (A043) Failed by voice vote.
+- 2014-05-29 — On agreeing to the Broun (GA) amendment (A046) Failed by voice vote.
+- 2014-05-29 — On agreeing to the Broun (GA) amendment (A071) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Cicilline amendment (A038) Failed by recorded vote: 196 - 212 (Roll no. 251).
+- 2014-05-29 — On agreeing to the Cohen amendment (A028) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Cohen amendment (A029) Failed by recorded vote: 173 - 238 (Roll no. 248).
+- 2014-05-29 — On agreeing to the Collins (GA) amendment (A084) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Connolly amendment (A035) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Delaney amendment (A034) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Ellison amendment (A068) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Engel amendment (A054) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the First Cohen amendment (A025) Failed by recorded vote: 127 - 282 (Roll no. 247). (consideration: CR H4934-4935)
+- 2014-05-29 — On agreeing to the Fleming amendment (A026) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Flores amendment (A062) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Gallego amendment (A036) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Gosar amendment (A027) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Gosar amendment (A032) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Gosar amendment (A037) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Grayson amendment (A040) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Grayson amendment (A058) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Grayson amendment (A072) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Hastings (WA) amendment (A051) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Huffman amendment (A066) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Jackson Lee amendment (A033) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Jackson Lee amendment (A064) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Kaptur amendment (A044) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Kildee amendment (A031) Failed by voice vote.
+- 2014-05-29 — On agreeing to the Kilmer amendment (A039) Failed by voice vote.
+- 2014-05-29 — On agreeing to the King (IA) amendment (A019) Agreed to by recorded vote: 218 - 193 (Roll no. 246). (consideration: CR H4934)
+- 2014-05-29 — On agreeing to the Luetkemeyer amendment (A080) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the McNerney amendment (A009) Agreed to by recorded vote: 306 - 106 (Roll no. 244). (consideration: CR H4932-4933)
+- 2014-05-29 — On agreeing to the Perry amendment (A069) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Perry amendment (A077) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Poe (TX) amendment (A063) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Polis amendment (A030) Failed by recorded vote: 66 - 339 (Roll no. 250).
+- 2014-05-29 — On agreeing to the Pompeo amendment (A007) Failed by recorded vote: 129 - 280 (Roll no. 243). (consideration: CR H4931-4932)
+- 2014-05-29 — On agreeing to the Salmon amendment (A073) Agreed to by voice vote.
+- 2014-05-29 — On agreeing to the Scott, Austin amendment (A047) Failed by recorded vote: 116 - 290 (Roll no. 253).
+- 2014-05-29 — On agreeing to the Smith (TX) amendment (A045) Agreed to by recorded vote: 208 - 201 (Roll no. 252).
+- 2014-05-29 — On agreeing to the Thompson (CA) amendment (A015) Agreed to by recorded vote: 260 - 145, 1 Present (Roll no. 249). (consideration: CR H4964-4965)
+- 2014-05-29 — On agreeing to the Walberg amendment (A057) Agreed to by voice vote.
+- 2014-05-29 — On motion that the Committee now rise Agreed to by voice vote.
+- 2014-05-29 — On motion that the Committee rise Agreed to by voice vote.
+- 2014-05-29 — On motion that the Committee rise Agreed to by voice vote.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Austin Scott (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Austin Scott (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mrs. Bustos demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Blackburn demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bonamici amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Bonamici demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cicilline amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Cicilline demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Duffy amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Fattah demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Ellison demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garrett amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Fattah demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grayson amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Grayson demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Holding amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Fattah demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Fattah demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Massie amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Goodlatte demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Meadows amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Fattah demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moran amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Moran demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Polis demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rohrabacher amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Rohrabacher demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Second Cohen amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Cohen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (TX) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Lipinski demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Southerland amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Goodlatte demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Walberg amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Walberg demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-05-29 — Roll call votes on amendments in House
+- 2014-05-29 — Roll call votes on amendments in House
+- 2014-05-29 — Roll call votes on amendments in House
+- 2014-05-29 — Roll call votes on amendments in House
+- 2014-05-29 — Roll call votes on amendments in House
+- 2014-05-29 — Roll call votes on amendments in House
+- 2014-05-29 — Roll call votes on amendments in House
+- 2014-05-29 — Roll call votes on amendments in House
+- 2014-05-29 — Roll call votes on amendments in House
+- 2014-05-29 — Roll call votes on amendments in House
+- 2014-05-29 — Roll call votes on amendments in House
+- 2014-05-29 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2014-05-29 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2014-05-29 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2014-05-29 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2014-05-29 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2014-05-29 — WITHDRAWN DEMAND FOR RECORDED VOTE - Mr. Walberg asked unanimous consent to withdraw his demand for a recorded vote on the Walberg amendment debated earlier to the end that the amendment stand affirmed pursuant to the earlier voice vote on the amendment. Agreed to without objection. (consideration: CR H5005)
+- 2014-05-30 — Amendment agreed to Committee of the Whole
+- 2014-05-30 — Amendment agreed to Committee of the Whole
+- 2014-05-30 — Amendment agreed to Committee of the Whole
+- 2014-05-30 — Amendment agreed to Committee of the Whole
+- 2014-05-30 — Amendment agreed to Committee of the Whole
+- 2014-05-30 — Amendment agreed to Committee of the Whole
+- 2014-05-30 — Amendment agreed to Committee of the Whole
+- 2014-05-30 — Amendment agreed to Committee of the Whole
+- 2014-05-30 — Amendment agreed to Committee of the Whole
+- 2014-05-30 — Amendment failed in Committee of the Whole
+- 2014-05-30 — Amendment failed in Committee of the Whole
+- 2014-05-30 — Amendment failed in Committee of the Whole
+- 2014-05-30 — Amendment failed in Committee of the Whole
+- 2014-05-30 — Amendment failed in Committee of the Whole
+- 2014-05-30 — DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to increase funds for various violence against women and sexual assault prevention and prosection programs and decrease funds in the National Science Foundation's agency operation and award management account.
+- 2014-05-30 — House amendment agreed to: On agreeing to the Bonamici amendment (A056) Agreed to by recorded vote: 237 - 170 (Roll no. 257).(consideration: CR H5007-5008)
+- 2014-05-30 — House amendment agreed to: On agreeing to the Duffy amendment (A078) Agreed to by recorded vote: 229 - 178 (Roll no. 264).
+- 2014-05-30 — House amendment agreed to: On agreeing to the Garrett amendment (A079) Agreed to by recorded vote: 216 - 190 (Roll no. 265).
+- 2014-05-30 — House amendment agreed to: On agreeing to the Grayson amendment (A074) Agreed to by recorded vote: 225 - 183 (Roll no. 263).
+- 2014-05-30 — House amendment agreed to: On agreeing to the Holding amendment (A061) Agreed to by recorded vote: 219 - 189 (Roll no. 259).
+- 2014-05-30 — House amendment agreed to: On agreeing to the King (IA) amendment (A081) Agreed to by recorded vote: 214 - 194 (Roll no. 266).
+- 2014-05-30 — House amendment agreed to: On agreeing to the Massie amendment (A065) Agreed to by recorded vote: 246 - 162 (Roll no. 260).
+- 2014-05-30 — House amendment agreed to: On agreeing to the Meadows amendment (A082) Agreed to by recorded vote: 226 - 179 (Roll no. 267).
+- 2014-05-30 — House amendment agreed to: On agreeing to the Rohrabacher amendment (A059) Agreed to by recorded vote: 219 - 189 (Roll no. 258).(consideration: CR H5008)
+- 2014-05-30 — House amendment not agreed to: On agreeing to the Blackburn amendment (A053) Failed by recorded vote: 148 - 253 (Roll no. 255).(consideration: CR H5006)
+- 2014-05-30 — House amendment not agreed to: On agreeing to the Blackburn amendment (A055) Failed by recorded vote: 198 - 208 (Roll no. 256).(consideration: CR H5006-5007)
+- 2014-05-30 — House amendment not agreed to: On agreeing to the Ellison amendment (A070) Failed by recorded vote: 196 - 211 (Roll no. 262).
+- 2014-05-30 — House amendment not agreed to: On agreeing to the Moran amendment (A049) Failed by recorded vote: 169 - 230 (Roll no. 254).(consideration: CR H5005-5006)
+- 2014-05-30 — House amendment not agreed to: On agreeing to the Southerland amendment (A067) Failed by recorded vote: 185 - 223 (Roll no. 261).(consideration: CR H5010)
+- 2014-05-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-05-30 — Mr. Wolf moved for the Committee of the Whole to rise and report.
+- 2014-05-30 — Ms. Moore moved to recommit with instructions to the Committee on Appropriations. (consideration: CR H5014-5016; text: H5014)
+- 2014-05-30 — On agreeing to the Blackburn amendment (A053) Failed by recorded vote: 148 - 253 (Roll no. 255). (consideration: CR H5006)
+- 2014-05-30 — On agreeing to the Blackburn amendment (A055) Failed by recorded vote: 198 - 208 (Roll no. 256). (consideration: CR H5006-5007)
+- 2014-05-30 — On agreeing to the Bonamici amendment (A056) Agreed to by recorded vote: 237 - 170 (Roll no. 257). (consideration: CR H5007-5008)
+- 2014-05-30 — On agreeing to the Duffy amendment (A078) Agreed to by recorded vote: 229 - 178 (Roll no. 264).
+- 2014-05-30 — On agreeing to the Ellison amendment (A070) Failed by recorded vote: 196 - 211 (Roll no. 262).
+- 2014-05-30 — On agreeing to the Garrett amendment (A079) Agreed to by recorded vote: 216 - 190 (Roll no. 265).
+- 2014-05-30 — On agreeing to the Grayson amendment (A074) Agreed to by recorded vote: 225 - 183 (Roll no. 263).
+- 2014-05-30 — On agreeing to the Holding amendment (A061) Agreed to by recorded vote: 219 - 189 (Roll no. 259).
+- 2014-05-30 — On agreeing to the King (IA) amendment (A081) Agreed to by recorded vote: 214 - 194 (Roll no. 266).
+- 2014-05-30 — On agreeing to the Massie amendment (A065) Agreed to by recorded vote: 246 - 162 (Roll no. 260).
+- 2014-05-30 — On agreeing to the Meadows amendment (A082) Agreed to by recorded vote: 226 - 179 (Roll no. 267).
+- 2014-05-30 — On agreeing to the Moran amendment (A049) Failed by recorded vote: 169 - 230 (Roll no. 254). (consideration: CR H5005-5006)
+- 2014-05-30 — On agreeing to the Rohrabacher amendment (A059) Agreed to by recorded vote: 219 - 189 (Roll no. 258). (consideration: CR H5008)
+- 2014-05-30 — On agreeing to the Southerland amendment (A067) Failed by recorded vote: 185 - 223 (Roll no. 261). (consideration: CR H5010)
+- 2014-05-30 — On motion to recommit with instructions Failed by recorded vote: 185 - 220, 2 Present (Roll no. 268). (consideration: CR H5015-5016)
+- 2014-05-30 — On motion to rise and report Agreed to by voice vote.
+- 2014-05-30 — On passage Passed by the Yeas and Nays: 321 - 87 (Roll no. 269).
+- 2014-05-30 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 321 - 87 (Roll no. 269).
+- 2014-05-30 — Roll call votes on amendments in House
+- 2014-05-30 — Roll call votes on amendments in House
+- 2014-05-30 — Roll call votes on amendments in House
+- 2014-05-30 — Roll call votes on amendments in House
+- 2014-05-30 — Roll call votes on amendments in House
+- 2014-05-30 — Roll call votes on amendments in House
+- 2014-05-30 — Roll call votes on amendments in House
+- 2014-05-30 — Roll call votes on amendments in House
+- 2014-05-30 — Roll call votes on amendments in House
+- 2014-05-30 — Roll call votes on amendments in House
+- 2014-05-30 — Roll call votes on amendments in House
+- 2014-05-30 — Roll call votes on amendments in House
+- 2014-05-30 — Roll call votes on amendments in House
+- 2014-05-30 — Roll call votes on amendments in House
+- 2014-05-30 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2014-05-30 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4660.
+- 2014-05-30 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5015)
+- 2014-05-30 — The previous question was ordered pursuant to the rule. (consideration: CR H5014)
