@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4261
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4261
@@ -27,9 +27,10 @@ Gulf War Health Research Reform Act of 2014
 - Rep. Yoder, Kevin [R-KS-3] (Y000063)
 - Rep. Clark, Katherine M. [D-MA-5] (C001101)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Gulf War Health Research Reform Act of 2014
 - 2014-05-28 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
 - 2014-05-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4863-4865)
 - 2014-05-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4863-4865)
+- 2014-06-02 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
