@@ -1,7 +1,7 @@
 ---
 measure: H.R. 503
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 503
@@ -154,3 +154,4 @@ National Desert Storm and Desert Shield War Memorial Act
 - 2014-05-28 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2014-05-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 370 - 0 (Roll no. 242). (text: CR H4858)
 - 2014-05-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 370 - 0 (Roll no. 242).(text: CR H4858)
+- 2014-06-02 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 403.
