@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3366
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3366
@@ -16,9 +16,10 @@ Hermiston Reversionary Lands Act
 
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Hermiston Reversionary Lands Act
 - 2014-05-28 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2014-05-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4856-4857)
 - 2014-05-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4856-4857)
+- 2014-06-02 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
