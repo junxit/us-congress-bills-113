@@ -1,7 +1,7 @@
 ---
 measure: S. 974
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 974
@@ -28,3 +28,8 @@ Las Vegas Valley Public Land and Tule Springs Fossil Beds National Monument Act 
 
 - 2013-05-16 — Introduced in Senate
 - 2013-05-16 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S3573-3579)
+- 2013-07-31 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 113-93.
+- 2013-12-19 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-06-02 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 113-178.
+- 2014-06-02 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 113-178.
+- 2014-06-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 405.
