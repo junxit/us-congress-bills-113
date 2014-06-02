@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3361
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3361
@@ -171,11 +171,12 @@ USA FREEDOM Act
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 
-## Committees (3)
+## Committees (4)
 
 - House — Financial Services Committee
 - House — Intelligence (Permanent Select) Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -210,3 +211,4 @@ USA FREEDOM Act
 - 2014-05-22 — Rule provides further consideration of H.R. 4435. No amendment shall be in order except those printed in part A of the report. At the conclusion of consideration for amendment, the Committee shall rise and report the bill to the House with such further amendments as may have been adopted. The previous question shall be considered as ordered without intervening motion except one motion to recommit with or without instructions. The rule also provides for consideration of H.R. 3361. All points of order against consideration are waived. The bill, as amended by part B of the report
 - 2014-05-22 — The House resumed debate on H.R. 3361.
 - 2014-05-22 — The previous question was ordered pursuant to the rule. (consideration: CR H4803)
+- 2014-06-02 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
