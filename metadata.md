@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4028
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4028
@@ -22,9 +22,10 @@ To amend the International Religious Freedom Act of 1998 to include the desecrat
 - Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
 - Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To amend the International Religious Freedom Act of 1998 to include the desecrat
 - 2014-05-28 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill, as amended.
 - 2014-05-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4850)
 - 2014-05-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4850)
+- 2014-06-02 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
