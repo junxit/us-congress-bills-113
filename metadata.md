@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2527
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2527
@@ -46,9 +46,10 @@ To amend title 38, United States Code, to provide veterans with counseling and t
 - Rep. Chu, Judy [D-CA-27] (C001080)
 - Rep. Honda, Michael M. [D-CA-17] (H001034)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -63,3 +64,4 @@ To amend title 38, United States Code, to provide veterans with counseling and t
 - 2014-05-28 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
 - 2014-05-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4861)
 - 2014-05-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4861)
+- 2014-06-02 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
