@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4681
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4681
@@ -16,9 +16,10 @@ Intelligence Authorization Act for Fiscal Year 2015
 
 - Rep. Rogers, Mike J. [R-MI-8] (R000572)
 
-## Committees (1)
+## Committees (2)
 
 - House — Intelligence (Permanent Select) Committee
+- Senate — Intelligence (Select) Committee
 
 ## Recorded votes (2)
 
@@ -81,3 +82,4 @@ Intelligence Authorization Act for Fiscal Year 2015
 - 2014-05-30 — The Speaker designated the Honorable Ted Poe to act as Chairman of the Committee.
 - 2014-05-30 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5055)
 - 2014-05-30 — The previous question was ordered pursuant to the rule. (consideration: CR H5053)
+- 2014-06-02 — Received in the Senate and Read twice and referred to the Select Committee on Intelligence.
