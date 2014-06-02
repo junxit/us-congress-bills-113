@@ -1,7 +1,7 @@
 ---
 measure: S. 1301
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,4 +32,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `16 U.S.C. § 1611` | insert | Section 327(b)(2) of the Department of the Interior and Related Agencies Appropriations Act, 1996 (16 U.S.C. 1611 note; Public Law 104–134) is amended by inserting after “may include” the following: “expenditures for forest planning acti… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2109b` | add-at-end | Section 13B of the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2109b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1611` | insert | Section 327(b)(2) of the Department of the Interior and Related Agencies Appropriations Act, 1996 (16 U.S.C. 1611 note; Public Law 104–134) is amended by inserting “expenditures for forest planning activities necessary for timber sales f… | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 2109b` | add-at-end | Section 13B of the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2109b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
