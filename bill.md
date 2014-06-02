@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1300
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -21,7 +21,7 @@ This Act may be cited as the “Stewardship Contracting Reauthorization and Impr
   > - **(a)** *Definitions* In this section:
   >   - **(1)** *Chief* The term Chief means the Chief of the Forest Service.
   >   - **(2)** *Director* The term Director means the Director of the Bureau of Land Management.
-  > - **(b)** *Projects* Until September 30, 2023, the Chief and the Director, via agreement or contract as appropriate, may enter into stewardship contracting projects with private persons or other public or private entities to perform services to achieve land management goals for the national forests and the public lands that meet local and rural community needs.
+  > - **(b)** *Projects* Until September 30, 2023, the The Chief and the Director, via agreement or contract as appropriate, may enter into stewardship contracting projects with private persons or other public or private entities to perform services to achieve land management goals for the national forests and the public lands that meet local and rural community needs.
   > - **(c)** *Land management goals* The land management goals of a project under subsection (b) may include—
   >   - **(1)** road and trail maintenance or obliteration to restore or maintain water quality;
   >   - **(2)** soil productivity, habitat for wildlife and fisheries, or other resource values;
@@ -53,7 +53,7 @@ This Act may be cited as the “Stewardship Contracting Reauthorization and Impr
   >         - **(II)** the extent to which the costs of contract cancellation are not included in the budget for the agreement or contract; and
   >         - **(III)** a financial risk assessment of not including budgeting for the costs of agreement or contract cancellation.
   >       - **(ii)** *Transmittal to OMB* At least 14 days before the date on which the Chief and Director enter into an agreement or contract under subsection (b), the Chief and Director shall transmit to the Director of the Office of Management and Budget a copy of the written notice submitted under clause (i).
-  >   - **(6)** *Relation to other laws* Notwithstanding subsections (d) and (g) of section 14 of the National Forest Management Act of 1976 (16 U.S.C. 472a), the Chief may enter into an agreement or contract under subsection (b).
+  >   - **(6)** *Relation to other laws* Notwithstanding subsections (d) and (g) of section 14 of the National Forest Management Act of 1976 (16 U.S.C. 472a) and section 2(a)(1) of the Act of July 31, 1947 (commonly known as the “Materials Act of 1947”) (30 U.S.C. 602(a)(1)), the Chief and the Director may enter into an agreement or contract under subsection (b).
   >   - **(7)** *Contracting officer* Notwithstanding any other provision of law, the Secretary or the Secretary of the Interior may determine the appropriate contracting officer to enter into and administer an agreement or contract under subsection (b).
   >   - **(8)** *Fire liability provisions* Not later than 90 days after the date of enactment of this section, the Chief and the Director shall issue for use in all contracts and agreements under subsection (b) fire liability provisions that are in substantially the same form as the fire liability provisions contained in—
   >     - **(A)** integrated resource timber contracts, as described in the Forest Service contract numbered 2400–13, part H, section H.4; and
@@ -86,3 +86,6 @@ This Act may be cited as the “Stewardship Contracting Reauthorization and Impr
 
 - **(b)** *Offset* To the extent necessary, the Chief and the Director shall offset any direct spending authorized under section 602 of the Healthy Forests Restoration Act of 2003 (as added by subsection (a)) using any additional amounts that may be made available to the Chief or the Director for the applicable fiscal year.
 - **(c)** *Conforming amendment* Section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 (16 U.S.C. 2104 note; Public Law 105–277) is repealed.
+- **(c)** *Conforming amendment*
+  - **(1)** *In general* Section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 (16 U.S.C. 2104 note; Public Law 105–277) is repealed.
+  - **(2)** *Effect of repeal* Notwithstanding the amendment made by paragraph (1), nothing in this Act or an amendment made by this Act invalidates or otherwise affects any stewardship contract entered into by the Chief of the Forest Service or the Director of the Bureau of Land Management that is in effect on the date of enactment of this Act.
