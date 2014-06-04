@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 451
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 451
@@ -16,10 +16,13 @@ A resolution recalling the Government of China's forcible dispersion of those pe
 
 - Sen. Barrasso, John [R-WY] (B001261)
 
-## Cosponsors (2)
+## Cosponsors (5)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
 
 ## Committees (1)
 
@@ -33,3 +36,5 @@ A resolution recalling the Government of China's forcible dispersion of those pe
 - 2014-05-20 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2014-05-20 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2014-05-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 383.
+- 2014-06-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S3430-3431)
+- 2014-06-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3430-3431)
