@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 463
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 463
@@ -28,3 +28,7 @@ A resolution honoring the life, accomplishments, and legacy of Billy Frank, Jr.,
 
 - 2014-05-22 — Introduced in Senate
 - 2014-05-22 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S3302-3303)
+- 2014-06-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2014-06-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2014-06-04 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3430)
+- 2014-06-04 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3430)
