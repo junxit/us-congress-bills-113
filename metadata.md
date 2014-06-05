@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4435
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4435
@@ -312,3 +312,4 @@ Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015
 - 2014-05-22 — The previous question was ordered pursuant to the rule. (consideration: CR H4809)
 - 2014-05-22 — The title of the measure was amended. Agreed to without objection.
 - 2014-05-22 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2014-06-05 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 425.
