@@ -1,7 +1,7 @@
 ---
 measure: S. 741
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+4 amendatory instructions. 1 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,16 @@ to guess them.
 |---|---|
 | Removed | `2012` |
 | Inserted | `2017` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `16 U.S.C. § 4406` | strike | in paragraph (4), by striking “and”; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 4406` | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 4406` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

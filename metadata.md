@@ -1,7 +1,7 @@
 ---
 measure: S. 741
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 741
@@ -16,7 +16,7 @@ North American Wetlands Conservation Extension Act of 2014
 
 - Sen. Vitter, David [R-LA] (V000127)
 
-## Cosponsors (11)
+## Cosponsors (15)
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 - Sen. Inhofe, James M. [R-OK] (I000024)
@@ -29,6 +29,10 @@ North American Wetlands Conservation Extension Act of 2014
 - Sen. Boozman, John [R-AR] (B001236)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Collins, Susan M. [R-ME] (C001035)
 
 ## Committees (1)
 
@@ -38,3 +42,7 @@ North American Wetlands Conservation Extension Act of 2014
 
 - 2013-04-16 — Introduced in Senate
 - 2013-04-16 — Read twice and referred to the Committee on Environment and Public Works.
+- 2014-02-06 — Committee on Environment and Public Works. Ordered to be reported with an amendment favorably.
+- 2014-06-05 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. With written report No. 113-187.
+- 2014-06-05 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. With written report No. 113-187.
+- 2014-06-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 417.
