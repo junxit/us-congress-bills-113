@@ -1,7 +1,7 @@
 ---
 measure: S. 898
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 898
@@ -28,3 +28,7 @@ Albuquerque, New Mexico, Federal Land Conveyance Act of 2013
 
 - 2013-05-08 — Introduced in Senate
 - 2013-05-08 — Read twice and referred to the Committee on Environment and Public Works.
+- 2014-02-06 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2014-06-05 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2014-06-05 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2014-06-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 418.
