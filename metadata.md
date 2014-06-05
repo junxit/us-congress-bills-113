@@ -1,7 +1,7 @@
 ---
 measure: S. 1044
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1044
@@ -34,3 +34,6 @@ World War II Memorial Prayer Act of 2013
 - 2014-03-31 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-141.
 - 2014-03-31 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-141.
 - 2014-03-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 339.
+- 2014-06-05 — Message on Senate action sent to the House.
+- 2014-06-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3461-3464; text as passed Senate: CR S3461-3462)
+- 2014-06-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3461-3464; text as passed Senate: CR S3461-3462)
