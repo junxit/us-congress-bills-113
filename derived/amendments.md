@@ -1,7 +1,7 @@
 ---
 measure: S. 51
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-22 amendatory instructions. 6 executed, 16 stated and not applied.
+22 amendatory instructions. 3 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,33 +51,6 @@ to guess them.
 | Removed | `paragraph (3) or (4)` |
 | Inserted | `subparagraph (C) or (D)` |
 
-### 16 U.S.C. § 3709
-
-> in the paragraph heading, by striking “funds” and inserting “amounts”;
-
-| | |
-|---|---|
-| Removed | `funds` |
-| Inserted | `amounts` |
-
-### 16 U.S.C. § 3709
-
-> by striking “shall be used” and inserting “may be used”; and
-
-| | |
-|---|---|
-| Removed | `shall be used` |
-| Inserted | `may be used` |
-
-### 16 U.S.C. § 3709
-
-> by striking “and State and local government agencies” and inserting “, State and local government agencies, and other entities”; and
-
-| | |
-|---|---|
-| Removed | `and State and local government agencies` |
-| Inserted | `, State and local government agencies, and other entities` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -98,8 +71,11 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 3703` | replace | by striking the undesignated matter at the end and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3703` | strike | by striking subsections (f) and (g); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3703` | redesignate | by redesignating subsections (h) and (i) as subsections (f) and (g), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 3709` | replace | in subsection (a), by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 3709` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 3709` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 3709` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subsection (a), by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in the paragraph heading, by striking “funds” and inserting “amounts”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “shall be used” and inserting “may be used”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “and State and local government agencies” and inserting “, State and local government agencies, and other entities”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `16 U.S.C. § 3710` | insert | Section 11 of the National Fish and Wildlife Foundation Establishment Act (16 U.S.C. 3710) is amended by inserting “exclusive” before “authority”. | the bill quotes the text inserted but describes where it goes |
