@@ -1,7 +1,7 @@
 ---
 measure: S. 1080
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -89,7 +89,7 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 1269` | insert | by inserting “study” after “conference”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1269` | replace | by striking paragraph (7) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1269` | redesignate | by redesignating subsection (f) as subsection (i); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 1105` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1269` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1269` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1269` | strike | by striking subsection (a); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1269` | redesignate | by redesignating subsections (b) through (d) as subsections (a) through (c), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

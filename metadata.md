@@ -1,7 +1,7 @@
 ---
 measure: S. 1080
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1080
@@ -30,3 +30,7 @@ Long Island Sound Restoration and Stewardship Act
 
 - 2013-05-23 — Introduced in Senate
 - 2013-05-23 — Read twice and referred to the Committee on Environment and Public Works.
+- 2014-02-06 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2014-06-05 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 113-190.
+- 2014-06-05 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 113-190.
+- 2014-06-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 421.
