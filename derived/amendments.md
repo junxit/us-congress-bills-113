@@ -1,7 +1,7 @@
 ---
 measure: S. 491
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-21 amendatory instructions. 5 executed, 16 stated and not applied.
+23 amendatory instructions. 5 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -91,6 +91,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 9604` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “The Administrator” and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting after clause (i) (as added by paragraph (1)) the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “The Administrator may provide,” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 9604` | redesignate | Section 104(k) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(k)) is amended by inserting after paragraph (10) (as redesignated by section 3(1)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9604` | insert | Section 104(k) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(k)) (as amended by section 8) is amended by inserting after paragraph (11) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | Paragraph (15) of section 104(k) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(k)) (as redesignated by section 3(1)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |

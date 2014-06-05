@@ -1,7 +1,7 @@
 ---
 legis-num: S. 491
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -47,7 +47,7 @@ Section 104(k) of the Comprehensive Environmental Response, Compensation, and Li
 
 Section 104(k)(2) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(k)(2)) is amended by adding at the end the following:
 
-> - **(C)** *Exemption for certain publicly owned brownfield sites* Notwithstanding any other provision of law, an eligible entity that is a governmental entity may receive a grant under this paragraph for property acquired by that governmental entity prior to January 11, 2002, even if the governmental entity does not qualify as a bona fide prospective purchaser (as that term is defined in section 101(40)).
+> - **(C)** *Exemption for certain publicly owned brownfield sites* Notwithstanding any other provision of law, an eligible entity that is a governmental entity may receive a grant under this paragraph for property acquired by that governmental entity prior to January 11, 2002, even if the governmental entity does not qualify as a bona fide prospective purchaser (as that term is defined in section 101(40)), so long as the eligible entity has not caused or contributed to a release or threatened release of a hazardous substance at the property.
 
 ## § 5. Increased funding for remediation grants
 
@@ -72,7 +72,7 @@ Paragraph (5) of section 104(k) of the Comprehensive Environmental Response, Com
   >     - **(II)** design and performance of a response action; or
   >     - **(III)** monitoring of a natural resource.
 
-## § 7. Small community technical assistance
+## § 7. Small community technical assistance grants
 
 Paragraph (7)(A) of section 104(k) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(k)) (as redesignated by section 3(1)) is amended—
 
@@ -81,6 +81,17 @@ Paragraph (7)(A) of section 104(k) of the Comprehensive Environmental Response, 
 
 - **(2)** by inserting after clause (i) (as added by paragraph (1)) the following:
   > - **(ii)** *Small community recipients* In carrying out the program under clause (i), the Administrator shall give priority to small communities, Indian tribes, rural areas, or low-income areas with a population of not more than 15,000 individuals, as determined by the latest available decennial census.
+
+- **(1)** by striking “The Administrator may provide,” and inserting the following:
+  > - **(i)** *Definitions* In this subparagraph:
+  >   - **(I)** *Disadvantaged area* The term disadvantaged area means an area with an annual median household income that is less than 80 percent of the State-wide annual median household income, as determined by the latest available decennial census.
+  >   - **(II)** *Small community* The term small community means a community with a population of not more than 15,000 individuals, as determined by the latest available decennial census.
+  > - **(ii)** *Establishment of program* The Administrator shall establish a program to provide grants that provide,
+
+- **(2)** by adding at the end the following:
+  > - **(iii)** *Small or disadvantaged community recipients*
+  >   - **(I)** *In general* Subject to subclause (II), in carrying out the program under clause (ii), the Administrator shall use not more than $600,000 of the amounts made available to carry out this paragraph to provide grants to States that receive amounts under section 128(a) to assist small communities, Indian tribes, rural areas, or disadvantaged areas in achieving the purposes described in clause (ii).
+  >   - **(II)** *Limitation* Each grant awarded under subclause (I) shall be not more than $7,500.
 
 ## § 8. Waterfront brownfields grants
 
