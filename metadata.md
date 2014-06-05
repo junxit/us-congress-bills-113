@@ -1,7 +1,7 @@
 ---
 measure: S. 212
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 212
@@ -28,3 +28,7 @@ A bill to approve the transfer of Yellow Creek Port properties in Iuka, Mississi
 
 - 2013-02-04 — Introduced in Senate
 - 2013-02-04 — Read twice and referred to the Committee on Environment and Public Works.
+- 2014-02-06 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2014-06-05 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 113-184.
+- 2014-06-05 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 113-184.
+- 2014-06-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 414.
