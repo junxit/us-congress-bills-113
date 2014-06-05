@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4587
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4587
@@ -60,3 +60,5 @@ Venezuelan Human Rights and Democracy Protection Act
 - 2014-05-28 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill, as amended.
 - 2014-05-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4844-4846)
 - 2014-05-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4844-4846)
+- 2014-06-02 — Received in the Senate.
+- 2014-06-05 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 410.
