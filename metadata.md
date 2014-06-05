@@ -1,7 +1,7 @@
 ---
 measure: S. 2270
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2270
@@ -52,9 +52,10 @@ Insurance Capital Standards Clarification Act of 2014
 - Sen. Scott, Tim [R-SC] (S001184)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Financial Services Committee
 
 ## Actions
 
@@ -71,3 +72,6 @@ Insurance Capital Standards Clarification Act of 2014
 - 2014-06-03 — Senate amendment agreed to: Amendment SA 3229 agreed to in Senate by Unanimous Consent.
 - 2014-06-03 — Senate amendment proposed (on the floor): Amendment SA 3229 proposed by Senator Stabenow for Senator Collins.(consideration: CR S3383-3384; text: CR S3383-3384)
 - 2014-06-03 — Senate amendment submitted
+- 2014-06-04 — Message on Senate action sent to the House.
+- 2014-06-05 — Received in the House.
+- 2014-06-05 — Referred to the House Committee on Financial Services.
