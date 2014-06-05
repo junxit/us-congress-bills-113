@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4413
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4413
@@ -31,3 +31,8 @@ Customer Protection and End User Relief Act
 - 2014-04-07 — Introduced in House
 - 2014-04-07 — Introduced in House
 - 2014-04-07 — Referred to the House Committee on Agriculture.
+- 2014-04-09 — Committee Consideration and Mark-up Session Held.
+- 2014-04-09 — Ordered to be Reported by Voice Vote.
+- 2014-06-05 — Placed on the Union Calendar, Calendar No. 348.
+- 2014-06-05 — Reported by the Committee on Agriculture. H. Rept. 113-469.
+- 2014-06-05 — Reported by the Committee on Agriculture. H. Rept. 113-469.
