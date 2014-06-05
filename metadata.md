@@ -1,7 +1,7 @@
 ---
 measure: S. 1044
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1044
@@ -25,6 +25,10 @@ World War II Memorial Prayer Act of 2013
 
 - Senate — Energy and Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2014-06-23 — [House 113-2-339](votes/house-113-2-0339.md) — On Motion to Suspend the Rules and Pass — **Passed** (370–12)
+
 ## Actions
 
 - 2013-05-23 — Introduced in Senate
@@ -37,3 +41,18 @@ World War II Memorial Prayer Act of 2013
 - 2014-06-05 — Message on Senate action sent to the House.
 - 2014-06-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3461-3464; text as passed Senate: CR S3461-3462)
 - 2014-06-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3461-3464; text as passed Senate: CR S3461-3462)
+- 2014-06-09 — Held at the desk.
+- 2014-06-09 — Received in the House.
+- 2014-06-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-06-23 — Considered as unfinished business. (consideration: CR H5610-5611)
+- 2014-06-23 — Considered under suspension of the rules. (consideration: CR H5607-5608)
+- 2014-06-23 — DEBATE - The House proceeded with forty minutes of debate on S. 1044.
+- 2014-06-23 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
+- 2014-06-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 370 - 12 (Roll no. 339). (text: CR H5607)
+- 2014-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 370 - 12 (Roll no. 339).(text: CR H5607)
+- 2014-06-25 — Presented to President.
+- 2014-06-25 — Presented to President.
+- 2014-06-30 — Became Public Law No: 113-123.
+- 2014-06-30 — Became Public Law No: 113-123.
+- 2014-06-30 — Signed by President.
+- 2014-06-30 — Signed by President.
