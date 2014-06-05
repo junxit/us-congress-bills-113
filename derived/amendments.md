@@ -1,7 +1,7 @@
 ---
 measure: S. 1254
 congress: 113
-version: Referred in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 0 executed, 15 stated and not applied.
+14 amendatory instructions. 0 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,5 +44,4 @@ complete account of the bill's effect, which it is not.
 | — | amend | The Act is amended by adding after section 606 the following: | the bill names no machine-readable US Code section |
 | — | amend | The Act, as amended by section 9 of this Act, is further amended by adding after section 607 the following: | the bill names no machine-readable US Code section |
 | — | strike | Section 603(a) is amended by striking “(hereinafter referred to as the ‘Task Force’)”. | the bill names no machine-readable US Code section |
-| — | amend | The Act, as amended by section 10 of this Act, is further amended by adding after section 608 the following: | the bill names no machine-readable US Code section |
-| — | amend | The Act, as amended by section 11 of this Act, is further amended by adding after section 609 the following: | the bill names no machine-readable US Code section |
+| — | amend | The Act is further amended by adding after section 608 the following: | the bill names no machine-readable US Code section |

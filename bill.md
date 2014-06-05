@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2013”.
+This Act may be cited as the “Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2014”.
 
 ## § 2. References to the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998
 
@@ -35,7 +35,7 @@ The Act is amended by inserting after section 603 the following:
 
 > ## § 603A. National harmful algal bloom and hypoxia program
 >
-> - **(a)** *Establishment* Not later than 1 year after the date of enactment of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2013, the Under Secretary, acting through the Task Force, shall establish and maintain a national harmful algal bloom and hypoxia program, including—
+> - **(a)** *Establishment* Not later than 1 year after the date of enactment of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2014, the Under Secretary, acting through the Task Force, shall maintain and enhance a national harmful algal bloom and hypoxia program, including—
 >   - **(1)** a statement of objectives, including understanding, detecting, predicting, controlling, mitigating, and responding to marine and freshwater harmful algal bloom and hypoxia events; and
 >   - **(2)** the comprehensive research plan and action strategy under section 603B.
 > - **(b)** *Periodic revision* The Task Force shall periodically review and revise the Program, as necessary.
@@ -51,11 +51,11 @@ The Act is amended by inserting after section 603 the following:
 > - **(e)** *Program duties* In administering the Program, the Under Secretary shall—
 >   - **(1)** promote the Program;
 >   - **(2)** prepare work and spending plans for implementing the research and activities identified under the Action Strategy;
->   - **(3)** administer merit-based, competitive grant funding—
+>   - **(3)** administer peer-reviewed, merit-based, competitive grant funding—
 >     - **(A)** to maintain and enhance baseline monitoring programs established by the Program;
 >     - **(B)** to support the projects maintained and established by the Program; and
 >     - **(C)** to address the research and management needs and priorities identified in the Action Strategy;
->   - **(4)** coordinate and work cooperatively with regional, State, tribal, and local government agencies and programs that address marine and freshwater harmful algal blooms and hypoxia;
+>   - **(4)** coordinate with and work cooperatively with regional, State, tribal, and local government agencies and programs that address marine and freshwater harmful algal blooms and hypoxia;
 >   - **(5)** coordinate with the Secretary of State to support international efforts on marine and freshwater harmful algal bloom and hypoxia information sharing, research, prediction, mitigation, control, and response activities;
 >   - **(6)** identify additional research, development, and demonstration needs and priorities relating to monitoring, prevention, control, mitigation, and response to marine and freshwater harmful algal blooms and hypoxia, including methods and technologies to protect the ecosystems affected by marine and freshwater harmful algal blooms and hypoxia;
 >   - **(7)** integrate, coordinate, and augment existing education programs to improve public understanding and awareness of the causes, impacts, and mitigation efforts for marine and freshwater harmful algal blooms and hypoxia;
@@ -68,7 +68,7 @@ The Act is amended by inserting after section 603 the following:
 > - **(f)** *National Oceanic and Atmospheric Administration activities* The Under Secretary shall—
 >   - **(1)** maintain and enhance the existing competitive programs at the National Oceanic and Atmospheric Administration relating to harmful algal blooms and hypoxia;
 >   - **(2)** carry out marine and Great Lakes harmful algal bloom and hypoxia events response activities;
->   - **(3)** establish new programs and infrastructure, as necessary, to develop and enhance critical observations, monitoring, modeling, data management, information dissemination, and operational forecasts relevant to harmful algal blooms and hypoxia events;
+>   - **(3)** develop and enhance, including with respect to infrastructure as necessary, critical observations, monitoring, modeling, data management, information dissemination, and operational forecasts relevant to harmful algal blooms and hypoxia events;
 >   - **(4)** enhance communication and coordination among Federal agencies carrying out marine and freshwater harmful algal bloom and hypoxia activities and research;
 >   - **(5)** to the greatest extent practicable, leverage existing resources and expertise available from local research universities and institutions; and
 >   - **(6)** increase the availability to appropriate public and private entities of—
@@ -89,10 +89,10 @@ The Act, as amended by section 4 of this Act, is further amended by inserting af
 
 > ## § 603B. Comprehensive Research Plan and Action Strategy
 >
-> - **(a)** *In general* Not later than 1 year after the date of enactment of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2013, the Under Secretary, through the Task Force, shall develop and submit to Congress a comprehensive research plan and action strategy to address marine and freshwater harmful algal blooms and hypoxia. The Action Strategy shall identify—
+> - **(a)** *In general* Not later than 1 year after the date of enactment of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2014, the Under Secretary, through the Task Force, shall develop and submit to Congress a comprehensive research plan and action strategy to address marine and freshwater harmful algal blooms and hypoxia. The Action Strategy shall identify—
 >   - **(1)** the specific activities to be carried out by the Program and the timeline for carrying out those activities;
 >   - **(2)** the roles and responsibilities of each Federal agency in the Task Force in carrying out the activities under paragraph (1); and
->   - **(3)** the appropriate regions and subregions requiring specific research and activities to address local, State, and regional harmful algal blooms and hypoxia.
+>   - **(3)** the appropriate regions and subregions requiring specific research and activities to address harmful algal blooms and hypoxia.
 > - **(b)** *Regional focus* The regional and subregional parts of the Action Strategy shall identify—
 >   - **(1)** regional priorities for ecological, economic, and social research on issues related to the impacts of harmful algal blooms and hypoxia;
 >   - **(2)** research, development, and demonstration activities needed to develop and advance technologies and techniques for minimizing the occurrence of harmful algal blooms and hypoxia and improving capabilities to detect, predict, monitor, control, mitigate, respond to, and remediate harmful algal blooms and hypoxia;
@@ -138,7 +138,7 @@ Section 604 is amended to read as follows:
 
 > ## § 604. Northern Gulf of Mexico hypoxia
 >
-> - **(a)** *Initial progress reports* Beginning not later than 12 months after the date of enactment of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2013, and biennially thereafter, the Administrator, through the Mississippi River/Gulf of Mexico Watershed Nutrient Task Force, shall submit a progress report to the appropriate congressional committees and the President that describes the progress made by activities directed by the Mississippi River/Gulf of Mexico Watershed Nutrient Task Force and carried out or funded by the Environmental Protection Agency and other State and Federal partners toward attainment of the goals of the Gulf Hypoxia Action Plan 2008.
+> - **(a)** *Initial progress reports* Beginning not later than 12 months after the date of enactment of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2014, and biennially thereafter, the Administrator, through the Mississippi River/Gulf of Mexico Watershed Nutrient Task Force, shall submit a progress report to the appropriate congressional committees and the President that describes the progress made by activities directed by the Mississippi River/Gulf of Mexico Watershed Nutrient Task Force and carried out or funded by the Environmental Protection Agency and other State and Federal partners toward attainment of the goals of the Gulf Hypoxia Action Plan 2008.
 > - **(b)** *Contents* Each report required under this section shall—
 >   - **(1)** assess the progress made toward nutrient load reductions, the response of the hypoxic zone and water quality throughout the Mississippi/Atchafalaya River Basin, and the economic and social effects;
 >   - **(2)** evaluate lessons learned; and
@@ -150,7 +150,7 @@ Section 605 is amended to read as follows:
 
 > ## § 605. Great Lakes hypoxia and harmful algal blooms
 >
-> - **(a)** *Integrated assessment* Not later than 18 months after the date of enactment of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2013, the Task Force, in accordance with the authority under section 603, shall complete and submit to the Congress and the President an integrated assessment that examines the causes, consequences, and approaches to reduce hypoxia and harmful algal blooms in the Great Lakes, including the status of and gaps within current research, monitoring, management, prevention, response, and control activities by—
+> - **(a)** *Integrated assessment* Not later than 18 months after the date of enactment of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2014, the Task Force, in accordance with the authority under section 603, shall complete and submit to the Congress and the President an integrated assessment that examines the causes, consequences, and approaches to reduce hypoxia and harmful algal blooms in the Great Lakes, including the status of and gaps within current research, monitoring, management, prevention, response, and control activities by—
 >   - **(1)** Federal agencies;
 >   - **(2)** State agencies;
 >   - **(3)** regional research consortia;
@@ -158,7 +158,7 @@ Section 605 is amended to read as follows:
 >   - **(5)** private industry; and
 >   - **(6)** nongovernmental organizations.
 > - **(b)** *Plan*
->   - **(1)** *In general* Not later than 2 years after the date of enactment of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2013, the Task Force shall develop and submit to the Congress a plan, based on the integrated assessment under subsection (a), for reducing, mitigating, and controlling hypoxia and harmful algal blooms in the Great Lakes.
+>   - **(1)** *In general* Not later than 2 years after the date of enactment of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2014, the Task Force shall develop and submit to the Congress a plan, based on the integrated assessment under subsection (a), for reducing, mitigating, and controlling hypoxia and harmful algal blooms in the Great Lakes.
 >   - **(2)** *Contents* The plan shall—
 >     - **(A)** address the monitoring needs identified in the integrated assessment under subsection (a);
 >     - **(B)** develop a timeline and budgetary requirements for deployment of future assets;
@@ -169,14 +169,15 @@ Section 605 is amended to read as follows:
 >       - **(i)** characterizing current and past biological conditions in ecosystems affected by hypoxia and harmful algal blooms; and
 >       - **(ii)** quantifying effects, including economic effects, at the population and community levels.
 >   - **(3)** *Requirements* In developing the plan, the Task Force shall—
->     - **(A)** consult with State and local governments and representatives from academic, agricultural, industry, and other stakeholder groups;
->     - **(B)** consult with relevant Canadian agencies;
+>     - **(A)** coordinate with State and local governments;
+>     - **(B)** consult with representatives from academic, agricultural, industry, and other stakeholder groups, including relevant Canadian agencies;
 >     - **(C)** ensure that the plan complements and does not duplicate activities conducted by other Federal or State agencies;
 >     - **(D)** identify critical research for reducing, mitigating, and controlling hypoxia events and their effects;
 >     - **(E)** evaluate cost-effective, incentive-based partnership approaches;
->     - **(F)** utilize existing research, assessments, reports, and program activities;
->     - **(G)** publish a summary of the proposed plan in the Federal Register at least 180 days prior to submitting the completed plan to Congress; and
->     - **(H)** after submitting the completed plan to Congress, provide biennial progress reports on the activities toward achieving the objectives of the plan.
+>     - **(F)** ensure that the plan is technically sound and cost effective;
+>     - **(G)** utilize existing research, assessments, reports, and program activities;
+>     - **(H)** publish a summary of the proposed plan in the Federal Register at least 180 days prior to submitting the completed plan to Congress; and
+>     - **(I)** after submitting the completed plan to Congress, provide biennial progress reports on the activities toward achieving the objectives of the plan.
 
 ## § 9. Application with other laws
 
@@ -184,7 +185,8 @@ The Act is amended by adding after section 606 the following:
 
 > ## § 607. Effect on other Federal authority
 >
-> Nothing in this title supersedes or limits the authority of any agency to carry out its responsibilities and missions under other laws.
+> - **(a)** *Authority preserved* Nothing in this title supersedes or limits the authority of any agency to carry out its responsibilities and missions under other laws.
+> - **(b)** *Regulatory authority* Nothing in this title may be construed as establishing new regulatory authority for any agency.
 
 ## § 10. Definitions; Conforming amendment
 
@@ -205,19 +207,11 @@ The Act is amended by adding after section 606 the following:
 
 - **(b)** *Conforming amendment* Section 603(a) is amended by striking “(hereinafter referred to as the ‘Task Force’)”.
 
-## § 11. Interagency financing
+## § 11. Authorization of appropriations
 
-The Act, as amended by section 10 of this Act, is further amended by adding after section 608 the following:
+The Act is further amended by adding after section 608 the following:
 
-> ## § 609. Interagency financing
->
-> The departments and agencies represented on the Task Force may participate in interagency financing and share, transfer, receive, obligate, and expend funds appropriated to any member of the Task Force for the purposes of carrying out any administrative or programmatic project or activity under this title, including support for the Program, a common infrastructure, information sharing, and system integration for harmful algal bloom and hypoxia research, monitoring, forecasting, prevention, and control. Funds may be transferred among the departments and agencies through an appropriate instrument that specifies the goods, services, or space being acquired from another Task Force member and the costs of the goods, services, and space. The amount of funds transferrable under this section for any fiscal year may not exceed 5 percent of the account from which the transfer was made.
-
-## § 12. Authorization of appropriations
-
-The Act, as amended by section 11 of this Act, is further amended by adding after section 609 the following:
-
-> ## § 610. Authorization of appropriations
+> ## § 609. Authorization of appropriations
 >
 > - **(a)** *In general* There is authorized to be appropriated to the Under Secretary to carry out sections 603A and 603B $20,500,000 for each of fiscal years 2014 through 2018.
 > - **(b)** *Extramural research activities* The Under Secretary shall ensure that a substantial portion of funds appropriated pursuant to subsection (a) that are used for research purposes are allocated to extramural research activities. For each fiscal year, the Under Secretary shall publish a list of all grant recipients and the amounts for all of the funds allocated for research purposes, specifying those allocated for extramural research activities.
