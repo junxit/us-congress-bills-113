@@ -1,7 +1,7 @@
 ---
 measure: S. 1077
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1077
@@ -33,3 +33,7 @@ Chesapeake Bay Gateways and Watertrails Network Reauthorization Act
 - 2013-05-23 — Introduced in Senate
 - 2013-05-23 — Read twice and referred to the Committee on Environment and Public Works. (text of measure as introduced: CR S3859)
 - 2013-05-23 — Sponsor introductory remarks on measure. (CR S3858-3859)
+- 2014-02-06 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2014-06-05 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 113-189.
+- 2014-06-05 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 113-189.
+- 2014-06-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 420.
