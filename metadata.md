@@ -1,7 +1,7 @@
 ---
 measure: S. 2270
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2270
@@ -75,3 +75,17 @@ Insurance Capital Standards Clarification Act of 2014
 - 2014-06-04 — Message on Senate action sent to the House.
 - 2014-06-05 — Received in the House.
 - 2014-06-05 — Referred to the House Committee on Financial Services.
+- 2014-09-16 — Committee on Banking, Housing, and Urban Affairs. Hearings held.
+- 2014-12-10 — Committee on Financial Services discharged.
+- 2014-12-10 — Committee on Financial Services discharged.
+- 2014-12-10 — Considered by unanimous consent. (consideration: CR H9019-9020)
+- 2014-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-10 — Mr. Neugebauer asked unanimous consent to discharge from committee and consider.
+- 2014-12-10 — On passage Passed without objection. (text: CR H9019-9020)
+- 2014-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9019-9020)
+- 2014-12-12 — Presented to President.
+- 2014-12-12 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-279.
+- 2014-12-18 — Became Public Law No: 113-279.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
