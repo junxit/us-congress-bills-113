@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4412
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4412
@@ -29,3 +29,11 @@ National Aeronautics and Space Administration Authorization Act of 2014
 - 2014-04-07 — Introduced in House
 - 2014-04-07 — Introduced in House
 - 2014-04-07 — Referred to the House Committee on Science, Space, and Technology.
+- 2014-04-08 — Referred to the Subcommittee on Space.
+- 2014-04-09 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2014-04-09 — Subcommittee Consideration and Mark-up Session Held.
+- 2014-04-29 — Committee Consideration and Mark-up Session Held.
+- 2014-04-29 — Ordered to be Reported (Amended) by Voice Vote.
+- 2014-06-05 — Placed on the Union Calendar, Calendar No. 349.
+- 2014-06-05 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-470.
+- 2014-06-05 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-470.
