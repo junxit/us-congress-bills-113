@@ -1,7 +1,7 @@
 ---
 measure: S. 969
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 969
@@ -25,3 +25,7 @@ A bill to amend the Neotropical Migratory Bird Conservation Act to reauthorize t
 - 2013-05-16 — Introduced in Senate
 - 2013-05-16 — Read twice and referred to the Committee on Environment and Public Works. (text of measure as introduced: CR S3572)
 - 2013-05-16 — Sponsor introductory remarks on measure. (CR S3571-3572)
+- 2014-02-06 — Committee on Environment and Public Works. Ordered to be reported with an amendment favorably.
+- 2014-06-05 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. With written report No. 113-188.
+- 2014-06-05 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. With written report No. 113-188.
+- 2014-06-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 419.
