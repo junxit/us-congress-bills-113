@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2072
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2072
@@ -42,3 +42,8 @@ Demanding Accountability for Veterans Act of 2014
 - 2013-10-16 — Placed on the Union Calendar, Calendar No. 173.
 - 2013-10-16 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-245.
 - 2013-10-16 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-245.
+- 2014-06-09 — Considered under suspension of the rules. (consideration: CR H5130-5134)
+- 2014-06-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2072.
+- 2014-06-09 — Mr. Benishek moved to suspend the rules and pass the bill, as amended.
+- 2014-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5130-5131)
+- 2014-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5130-5131)
