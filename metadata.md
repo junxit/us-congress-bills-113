@@ -1,7 +1,7 @@
 ---
 measure: S. 1254
 congress: 113
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1254
@@ -77,3 +77,13 @@ Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2014
 - 2014-06-09 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
 - 2014-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5126-5128)
 - 2014-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5126-5128)
+- 2014-06-10 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2014-06-17 — Resolving differences -- Senate actions: Senate agreed to House amendment to Senate bill by Unanimous Consent.(consideration: CR S3771; text as Senate agreed to House amendment: CR S3771)
+- 2014-06-17 — Senate agreed to House amendment to Senate bill by Unanimous Consent. (consideration: CR S3771; text as Senate agreed to House amendment: CR S3771)
+- 2014-06-18 — Message on Senate action sent to the House.
+- 2014-06-19 — Presented to President.
+- 2014-06-19 — Presented to President.
+- 2014-06-30 — Became Public Law No: 113-124.
+- 2014-06-30 — Became Public Law No: 113-124.
+- 2014-06-30 — Signed by President.
+- 2014-06-30 — Signed by President.

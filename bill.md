@@ -1,15 +1,13 @@
 ---
 legis-num: S. 1254
-congress: 113th CONGRESS
+congress: One Hundred Thirteenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1254
 
-That the bill from the Senate (S. 1254) entitled “An Act to amend the Harmful Algal Blooms and Hypoxia Research and Control Act of 1998, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To amend the Harmful Algal Blooms and Hypoxia Research and Control Act of 1998, and for other purposes.
 
 ## § 1. Short title
 
