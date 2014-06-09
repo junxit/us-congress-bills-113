@@ -1,7 +1,7 @@
 ---
 measure: S. 1254
 congress: 113
-version: Reported in House
+version: Engrossed Amendment House
 ---
 
 # S. 1254
@@ -72,3 +72,8 @@ Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2014
 - 2014-06-05 — Placed on the Union Calendar, Calendar No. 350.
 - 2014-06-05 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-471, Part I.
 - 2014-06-05 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-471, Part I.
+- 2014-06-09 — Considered under suspension of the rules. (consideration: CR H5126-5130)
+- 2014-06-09 — DEBATE - The House proceeded with forty minutes of debate on S. 1254.
+- 2014-06-09 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2014-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5126-5128)
+- 2014-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5126-5128)

@@ -1,7 +1,7 @@
 ---
 measure: S. 1254
 congress: 113
-version: Reported in House
+version: Engrossed Amendment House
 derived: true
 ---
 
