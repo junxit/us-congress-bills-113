@@ -2,7 +2,7 @@
 legis-num: H. RES. 600
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 600
@@ -16,9 +16,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas on May 14, 2014, the IEC invalidated votes from 331 polling stations and removed them from the final tabulation, based on Electoral Complaints Commission (ECC) decisions;
 - Whereas there have been widespread reports of voter and election monitor intimidation, including the killing of members of the National Democratic Institute (NDI) during an attack at the Serena Hotel in Kabul on March 20, 2014, as well as attempts to bribe members of the IEC, the ECC, and other election monitoring organizations;
 - Whereas investigations by the ECC, and its coordination with the IEC, have not been conducted in a transparent manner;
-- Whereas 17 members of the Afghanistan National Security Forces (ANSF) were killed while supporting the April 5, 2014, elections;
+- Whereas 17 members of the Afghanistan National Security Forces (ANSF) were killed in Taliban and insurgent attacks while supporting the April 5, 2014, elections;
+- Whereas the United States and Afghanistan signed the Enduring Strategic Partnership Agreement to strengthen Afghan sovereignty, stability, and prosperity, while emphasizing a shared goal to defeat al-Qaeda and its terrorist affiliates;
 - Whereas United States and coalition armed forces have greatly contributed to the stability and security of Afghanistan at a considerable personal sacrifice; and
-- Whereas the United States has contributed more than $200,000,000 toward the 2014 Afghan presidential election: Now, therefore, be it
+- Whereas the United States has contributed more than $100,000,000 toward the 2014 Afghan presidential election: Now, therefore, be it
 
 That the House of Representatives—
 
@@ -32,5 +33,5 @@ That the House of Representatives—
 - **(8)** encourages all elements of Afghan society to refrain from fomenting violence and other disturbances in voting areas;
 - **(9)** urges the ANSF to make every necessary effort to ensure the safety of voters, candidates, poll workers, and election observers;
 - **(10)** expresses its support for the full participation of Afghan civil society in the election process;
-- **(11)** recognizes that a democratically elected government that reflects the will of the Afghan people would promote the long-term prosperity, stability, and security interests of Afghanistan and its neighbors, its partners in the North Atlantic Treaty Organization International Security Assistance Force, and the United States; and
+- **(11)** recognizes that a democratically-elected government that reflects the will of the Afghan people and is committed to combating terrorism would promote the long-term stability and security interests of Afghanistan, its neighbors, and its partners in the North Atlantic Treaty Organization International Security Assistance Force, including the United States; and
 - **(12)** recognizes the sacrifices of United States and coalition armed forces that have contributed, and will continue to contribute, to the security and stability of Afghanistan.
