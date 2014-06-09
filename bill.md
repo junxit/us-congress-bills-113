@@ -1,0 +1,12 @@
+---
+legis-num: H.J. RES. 116
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.J. RES. 116
+
+> Providing for the approval of the Congress of the proposed Agreement for Cooperation Between the Government of the United States of America and the Government of the Socialist Republic of Vietnam Concerning Peaceful Uses of Nuclear Energy transmitted on May 8, 2014.
+
+That the Congress does favor the proposed agreement for cooperation transmitted to the Congress by the President on May 8, 2014.
