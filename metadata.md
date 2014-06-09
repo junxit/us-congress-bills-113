@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4228
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4228
@@ -50,3 +50,8 @@ DHS Acquisition Accountability and Efficiency Act
 - 2014-05-06 — Placed on the Union Calendar, Calendar No. 324.
 - 2014-05-06 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-436.
 - 2014-05-06 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-436.
+- 2014-06-09 — Considered under suspension of the rules. (consideration: CR H5139-5148)
+- 2014-06-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4228.
+- 2014-06-09 — Mr. Duncan (SC) moved to suspend the rules and pass the bill, as amended.
+- 2014-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5139-5145)
+- 2014-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5139-5145)
