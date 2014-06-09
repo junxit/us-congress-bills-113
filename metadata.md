@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1679
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1679
@@ -26,3 +26,9 @@ To amend the Expedited Funds Availability Act to clarify the application of that
 - 2013-04-23 — Introduced in House
 - 2013-04-23 — Referred to the House Committee on Financial Services.
 - 2013-04-23 — Sponsor introductory remarks on measure. (CR E522-523)
+- 2014-06-09 — Considered under suspension of the rules. (consideration: CR H5138-5139)
+- 2014-06-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1679.
+- 2014-06-09 — Mr. Huizenga (MI) moved to suspend the rules and pass the bill, as amended.
+- 2014-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5138)
+- 2014-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5138)
+- 2014-06-09 — The title of the measure was amended. Agreed to without objection.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1679
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,6 +32,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `12 U.S.C. § 4001` | insert | in section 602(20) (12 U.S.C. 4001(20)) by inserting “, located in the United States,” after “ATM”; | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 4001` | insert | in section 602(21) (12 U.S.C. 4001(21)) by inserting “American Samoa,” after “Puerto Rico,”; | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 4001` | insert | in section 602(23) (12 U.S.C. 4001(23)) by inserting “American Samoa,” after “Puerto Rico,”; and | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 4002` | amend | by adding at the end of section 603(d) (12 U.S.C. 4002(d)) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 4001` | insert | in section 602(21) (12 U.S.C. 4001(21)) by inserting “American Samoa, the Commonwealth of the Northern Mariana Islands,” after “Puerto Rico,”; | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 4001` | insert | in section 602(23) (12 U.S.C. 4001(23)) by inserting “American Samoa, the Commonwealth of the Northern Mariana Islands,” after “Puerto Rico,”; and | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 4002` | insert | in section 603(d)(2)(A) (12 U.S.C. 4002(d)(2)(A)), by inserting “American Samoa, the Commonwealth of the Northern Mariana Islands,” after “Puerto Rico,”. | the bill quotes the text inserted but describes where it goes |

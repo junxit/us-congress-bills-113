@@ -1,22 +1,19 @@
 ---
 legis-num: H.R. 1679
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 1679
 
-> To amend the Expedited Funds Availability Act to clarify the application of that Act to American Samoa.
+> To amend the Expedited Funds Availability Act to clarify the application of that Act to American Samoa and the Northern Mariana Islands.
 
 ## § 1. Application of the Expedited Funds Availability Act
 
-The Expedited Funds Availability Act (12 U.S.C. 4001 et seq.) is amended—
-
-- **(1)** in section 602(20) (12 U.S.C. 4001(20)) by inserting “, located in the United States,” after “ATM”;
-- **(2)** in section 602(21) (12 U.S.C. 4001(21)) by inserting “American Samoa,” after “Puerto Rico,”;
-- **(3)** in section 602(23) (12 U.S.C. 4001(23)) by inserting “American Samoa,” after “Puerto Rico,”; and
-- **(4)** by adding at the end of section 603(d) (12 U.S.C. 4002(d)) the following new paragraph:
-  > - **(3)** *Extension for certain deposits in American Samoa* Notwithstanding any other provision of law, any time period established under subsection (b), (c), or (e) shall be extended by 2 business days in the case of any deposit which is both—
-  >   - **(A)** deposited in an account at a depository institution which is located in American Samoa; and
-  >   - **(B)** deposited by a check drawn on an originating depository institution which is not located in the same State as the receiving depository institution.
+- **(a)** *In general* The Expedited Funds Availability Act (12 U.S.C. 4001 et seq.) is amended—
+  - **(1)** in section 602(20) (12 U.S.C. 4001(20)) by inserting “, located in the United States,” after “ATM”;
+  - **(2)** in section 602(21) (12 U.S.C. 4001(21)) by inserting “American Samoa, the Commonwealth of the Northern Mariana Islands,” after “Puerto Rico,”;
+  - **(3)** in section 602(23) (12 U.S.C. 4001(23)) by inserting “American Samoa, the Commonwealth of the Northern Mariana Islands,” after “Puerto Rico,”; and
+  - **(4)** in section 603(d)(2)(A) (12 U.S.C. 4002(d)(2)(A)), by inserting “American Samoa, the Commonwealth of the Northern Mariana Islands,” after “Puerto Rico,”.
+- **(b)** *Effective date* This Act shall take effect on January 1, 2016.
