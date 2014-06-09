@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4412
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 51 U.S.C. § 20302
+### 42 U.S.C. § 18313
 
 > in subsection (d), by striking “subsection (c)” and inserting “subsection (b)”; and
 
@@ -70,12 +70,12 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `51 U.S.C. § 20302` | add-at-end | Section 20302 of title 51, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `51 U.S.C. § 70504` | strike | in paragraph (3), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `51 U.S.C. § 70504` | replace | in paragraph (4), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 18312` | strike | in paragraph (3), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 18312` | replace | in paragraph (4), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `51 U.S.C. § 70504` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `51 U.S.C. § 20302` | amend | Section 201(a) of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18311(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `51 U.S.C. § 20302` | strike | by striking subsection (b); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `51 U.S.C. § 20302` | redesignate | by redesignating subsections (c) and (d) as subsections (b) and (c), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 18311` | amend | Section 201(a) of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18311(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 18313` | strike | by striking subsection (b); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 18313` | redesignate | by redesignating subsections (c) and (d) as subsections (b) and (c), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `51 U.S.C. § 70504` | amend | Section 70504 of title 51, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `51 U.S.C. § 70501` | amend | Section 70501(a) of title 51, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `51 U.S.C. § 50133` | repeal | Chapter 701 of title 51, United States Code, and the item relating to such chapter in the table of chapters for such title, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
