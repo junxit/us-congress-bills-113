@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3211
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 

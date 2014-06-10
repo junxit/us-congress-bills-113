@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3211
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3211
@@ -86,3 +86,4 @@ Mortgage Choice Act of 2013
 - 2014-06-09 — Mr. Huizenga (MI) moved to suspend the rules and pass the bill.
 - 2014-06-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5137)
 - 2014-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5137)
+- 2014-06-10 — Received in the Senate.
