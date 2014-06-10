@@ -31,8 +31,8 @@ This Act may be cited as the “Veteran Access to Care Act of 2014”.
   - **(4)** any other matters the Secretary determines appropriate.
 - **(e)** *Definitions* For purposes of this section, the terms “facilities of the Department”, “non-Department facilities”, “hospital care”, and “medical services” have the meanings given such terms in section 1701 of title 38, United States Code.
 - **(f)** *Implementation* The Secretary shall begin implementing this section on the date of the enactment of this Act.
-- **(e)** *Construction* Nothing in this section shall be construed to authorize payment for care or services not otherwise covered under chapter 17 of title 38, United States Code.
-- **(g)** *Termination* The authority of the Secretary under this section shall terminate with respect to any hospital care or medical services furnished after the end of the 2-year period beginning on the date of the enactment of this Act, except that in the case of an episode of care for which hospital care or medical services is furnished in a non-Department facility pursuant to this section before the end of such period, such termination shall not apply to such care and services furnished during the remainder of such episode of care but not to exceed a period of 60 days.
+- **(g)** *Construction* Nothing in this section shall be construed to authorize payment for care or services not otherwise covered under chapter 17 of title 38, United States Code.
+- **(h)** *Termination* The authority of the Secretary under this section shall terminate with respect to any hospital care or medical services furnished after the end of the 2-year period beginning on the date of the enactment of this Act, except that in the case of an episode of care for which hospital care or medical services is furnished in a non-Department facility pursuant to this section before the end of such period, such termination shall not apply to such care and services furnished during the remainder of such episode of care but not to exceed a period of 60 days.
 
 ## § 3. Expanded access to hospital care and medical services
 

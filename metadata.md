@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4810
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4810
@@ -16,7 +16,7 @@ Veteran Access to Care Act of 2014
 
 - Rep. Miller, Jeff [R-FL-1] (M001144)
 
-## Cosponsors (114)
+## Cosponsors (158)
 
 - Rep. McCarthy, Kevin [R-CA-23] (M001165)
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
@@ -132,13 +132,72 @@ Veteran Access to Care Act of 2014
 - Rep. Denham, Jeff [R-CA-10] (D000612)
 - Rep. Schweikert, David [R-AZ-6] (S001183)
 - Rep. Pompeo, Mike [R-KS-4] (P000602)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Duffy, Sean P. [R-WI-7] (D000614)
+- Rep. Ellmers, Renee L. [R-NC-2] (E000291)
+- Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
+- Rep. Franks, Trent [R-AZ-8] (F000448)
+- Rep. Gallego, Pete P. [D-TX-23] (G000572)
+- Rep. Gardner, Cory [R-CO-4] (G000562)
+- Rep. Garrett, Scott [R-NJ-5] (G000548)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. Labrador, Raul R. [R-ID-1] (L000573)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Long, Billy [R-MO-7] (L000576)
+- Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Richmond, Cedric L. [D-LA-2] (R000588)
+- Rep. Rooney, Thomas J. [R-FL-17] (R000583)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Sewell, Terri A. [D-AL-7] (S001185)
+- Rep. Shimkus, John [R-IL-15] (S000364)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. Capito, Shelley Moore [R-WV-2] (C001047)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
 
 ## Committees (1)
 
 - House — Veterans' Affairs Committee
+
+## Recorded votes (2)
+
+- 2014-06-10 — [House 113-2-275](votes/house-113-2-0275.md) — question not recorded (0–0)
+- 2014-06-10 — [House 113-2-287](votes/house-113-2-0287.md) — On Motion to Suspend the Rules and Pass — **Passed** (426–0)
 
 ## Actions
 
 - 2014-06-09 — Introduced in House
 - 2014-06-09 — Introduced in House
 - 2014-06-09 — Referred to the House Committee on Veterans' Affairs.
+- 2014-06-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-06-10 — Considered as unfinished business. (consideration: CR H5203, H5211-5212)
+- 2014-06-10 — Considered under suspension of the rules. (consideration: CR H5196-5200)
+- 2014-06-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4810.
+- 2014-06-10 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
+- 2014-06-10 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 426 - 0 (Roll no. 287). (text: CR H5196-5197)
+- 2014-06-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 0 - 0 (Roll no. 275).
+- 2014-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 426 - 0 (Roll no. 287).(text: CR H5196-5197)
+- 2014-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 0 - 0 (Roll no. 275).
+- 2014-06-10 — VACATING PROCEEDINGS ON ROLL CALL 275 - Mr. Rodney Davis (IL) asked unanimous consent that the proceedings on roll call vote number 275, the motion to suspend the rules on H.R. 4810, be vacated to the end that the Chair put the question de novo. Agreed to without objection.
