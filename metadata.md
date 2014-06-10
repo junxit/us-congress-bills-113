@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4412
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4412
@@ -48,3 +48,4 @@ National Aeronautics and Space Administration Authorization Act of 2014
 - 2014-06-09 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
 - 2014-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 272). (text: CR H5108-5123)
 - 2014-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 272).(text: CR H5108-5123)
+- 2014-06-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
