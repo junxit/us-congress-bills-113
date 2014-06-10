@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4228
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4228
@@ -33,9 +33,10 @@ DHS Acquisition Accountability and Efficiency Act
 - Rep. Carter, John R. [R-TX-31] (C001051)
 - Rep. Barletta, Lou [R-PA-11] (B001269)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ DHS Acquisition Accountability and Efficiency Act
 - 2014-06-09 — Mr. Duncan (SC) moved to suspend the rules and pass the bill, as amended.
 - 2014-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5139-5145)
 - 2014-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5139-5145)
+- 2014-06-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
