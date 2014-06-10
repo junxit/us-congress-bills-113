@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 608
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 608
@@ -16,7 +16,7 @@ Condemning the senseless rampage and mass shooting that took place in Isla Vista
 
 - Rep. Capps, Lois [D-CA-24] (C001036)
 
-## Cosponsors (42)
+## Cosponsors (45)
 
 - Rep. Honda, Michael M. [D-CA-17] (H001034)
 - Rep. Miller, George [D-CA-11] (M000725)
@@ -60,6 +60,9 @@ Condemning the senseless rampage and mass shooting that took place in Isla Vista
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 - Rep. Hunter, Duncan D. [R-CA-50] (H001048)
 - Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Royce, Edward R. [R-CA-39] (R000487)
 
 ## Committees (1)
 
@@ -70,3 +73,8 @@ Condemning the senseless rampage and mass shooting that took place in Isla Vista
 - 2014-05-30 — Introduced in House
 - 2014-05-30 — Introduced in House
 - 2014-05-30 — Referred to the House Committee on Oversight and Government Reform.
+- 2014-06-10 — Considered under suspension of the rules. (consideration: CR H5201-5203)
+- 2014-06-10 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 608.
+- 2014-06-10 — Mr. Issa moved to suspend the rules and agree to the resolution, as amended.
+- 2014-06-10 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H5201)
+- 2014-06-10 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H5201)
