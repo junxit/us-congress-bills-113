@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 100
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 100
@@ -30,3 +30,5 @@ Authorizing the use of the rotunda of the Capitol for a ceremony to commemorate 
 - 2014-06-09 — Mrs. Miller (MI) moved to suspend the rules and agree to the resolution.
 - 2014-06-09 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5134)
 - 2014-06-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5134)
+- 2014-06-10 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S3551)
+- 2014-06-10 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S3551)
