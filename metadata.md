@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2072
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2072
@@ -47,3 +47,4 @@ Demanding Accountability for Veterans Act of 2014
 - 2014-06-09 — Mr. Benishek moved to suspend the rules and pass the bill, as amended.
 - 2014-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5130-5131)
 - 2014-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5130-5131)
+- 2014-06-10 — Received in the Senate.
