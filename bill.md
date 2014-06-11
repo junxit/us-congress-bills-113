@@ -1,0 +1,24 @@
+---
+legis-num: S. 2462
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2462
+
+> To amend the Internal Revenue Code of 1986 to exempt certain educational institutions from the employer health insurance mandate.
+
+## § 1. Short title
+
+This Act may be cited as the “Safeguarding Classrooms Hurt by ObamaCare’s Obligatory Levies”.
+
+## § 2. Certain educational institutions exempt from employer health insurance mandate
+
+- **(a)** *In general* Section 4980H(c)(2) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:
+  > - **(F)** *Exception for certain educational institutions* The term applicable large employer shall not include—
+  >   - **(i)** any elementary school or secondary school (as such terms are defined in section 9101 of the Elementary and Secondary Education Act of 1965),
+  >   - **(ii)** any local educational agency or State educational agency (as such terms are defined in section 9101 of such Act), and
+  >   - **(iii)** any institution of higher education (as such term is defined in section 102 of the Higher Education Act of 1965).
+
+- **(b)** *Effective date* The amendment made by this section shall apply to months beginning after December 31, 2013.
