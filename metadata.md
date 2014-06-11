@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3230
 congress: 113
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3230
@@ -25,10 +25,12 @@ Veterans Access, Choice, and Accountability Act of 2014
 
 - House — Appropriations Committee
 
-## Recorded votes (2)
+## Recorded votes (4)
 
 - 2013-10-03 — [House 113-1-515](votes/house-113-1-0515.md) — Table Appeal of the Ruling of the Chair — **Passed** (228–194)
 - 2013-10-03 — [House 113-1-516](votes/house-113-1-0516.md) — On Passage — **Passed** (265–160)
+- 2014-06-11 — [Senate 113-2-186](votes/senate-113-2-0186.md) — On the Motion — **Motion Agreed to** (75–19)
+- 2014-06-11 — [Senate 113-2-187](votes/senate-113-2-0187.md) — On Passage of the Bill — **Bill Passed** (93–3)
 
 ## Actions
 
@@ -52,3 +54,19 @@ Veterans Access, Choice, and Accountability Act of 2014
 - 2013-10-03 — The resolution provides for consideration of H.J. Res. 70, H.J. Res. 71, H.J. Res. 72, H.J. Res. 73, and H.R. 3230. The resolution provides for 30 minutes of debate on each measure and provides for one motion to recommit each measure. The resolution also provides that it shall be in order at any time through the calendar day of October 6, 2013, for the Speaker to entertain motions that the House suspend the rules.
 - 2013-10-04 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2013-10-05 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 206.
+- 2014-06-11 — Amendment SA 3237 agreed to in Senate by Unanimous Consent.
+- 2014-06-11 — Amendment SA 3237 proposed by Senator Tester. (consideration: CR S3593; text: CR S3593) To amend the title.
+- 2014-06-11 — Measure laid before Senate by unanimous consent. (consideration: CR S3564-3593)
+- 2014-06-11 — Message on Senate action sent to the House.
+- 2014-06-11 — Motion to waive all applicable budgetary discipline with respect to the measure agreed to in Senate by Yea-Nay Vote. 75 - 19. Record Vote Number: 186.
+- 2014-06-11 — Passed Senate in lieu of S. 2450 with an amendment and an amendment to the Title by Yea-Nay. 93 - 3. Record Vote Number: 187. (text: CR S3565-3575)
+- 2014-06-11 — Passed/agreed to in Senate: Passed Senate in lieu of S. 2450 with an amendment and an amendment to the Title by Yea-Nay. 93 - 3. Record Vote Number: 187.(text: CR S3565-3575)
+- 2014-06-11 — Point of order against the measure raised in Senate.
+- 2014-06-11 — See also S. 2450.
+- 2014-06-11 — Senate amendment agreed to: Amendment SA 3237 agreed to in Senate by Unanimous Consent.
+- 2014-06-11 — Senate amendment agreed to: Amendment SA 3237 agreed to in Senate by Unanimous Consent.
+- 2014-06-11 — Senate amendment proposed (on the floor): Amendment SA 3237 proposed by Senator Tester.(consideration: CR S3593; text: CR S3593)
+- 2014-06-11 — Senate amendment submitted
+- 2014-06-11 — Senate amendment submitted
+- 2014-06-11 — Senate amendment submitted
+- 2014-06-11 — Senate struck all after the Enacting Clause and substituted the language of S. 2450.
