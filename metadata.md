@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4810
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4810
@@ -177,9 +177,10 @@ Veteran Access to Care Act of 2014
 - Rep. Capito, Shelley Moore [R-WV-2] (C001047)
 - Rep. Kingston, Jack [R-GA-1] (K000220)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (2)
 
@@ -201,3 +202,4 @@ Veteran Access to Care Act of 2014
 - 2014-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 426 - 0 (Roll no. 287).(text: CR H5196-5197)
 - 2014-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 0 - 0 (Roll no. 275).
 - 2014-06-10 — VACATING PROCEEDINGS ON ROLL CALL 275 - Mr. Rodney Davis (IL) asked unanimous consent that the proceedings on roll call vote number 275, the motion to suspend the rules on H.R. 4810, be vacated to the end that the Chair put the question de novo. Agreed to without objection.
+- 2014-06-11 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
