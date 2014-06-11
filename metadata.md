@@ -1,7 +1,7 @@
 ---
 measure: S. 1681
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1681
@@ -42,3 +42,17 @@ Intelligence Authorization Act for Fiscal Year 2014
 - 2014-06-11 — Senate amendment proposed (on the floor): Amendment SA 3238 proposed by Senator Reid for Senator Feinstein.(consideration: CR S3620)
 - 2014-06-11 — Senate amendment submitted
 - 2014-06-11 — Senate amendment submitted
+- 2014-06-12 — Held at the desk.
+- 2014-06-12 — Message on Senate action sent to the House.
+- 2014-06-12 — Received in the House.
+- 2014-06-24 — Considered under suspension of the rules. (consideration: CR H5700-5712)
+- 2014-06-24 — DEBATE - The House proceeded with forty minutes of debate on S. 1681.
+- 2014-06-24 — Mr. Rogers (MI) moved to suspend the rules and pass the bill.
+- 2014-06-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5700-5710)
+- 2014-06-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5700-5710)
+- 2014-06-26 — Presented to President.
+- 2014-06-26 — Presented to President.
+- 2014-07-07 — Became Public Law No: 113-126.
+- 2014-07-07 — Became Public Law No: 113-126.
+- 2014-07-07 — Signed by President.
+- 2014-07-07 — Signed by President.
