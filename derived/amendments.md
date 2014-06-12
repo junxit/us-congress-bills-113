@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4453
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `26 U.S.C. § 1374` | amend | Paragraph (7) of section 1374(d) of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1374` | amend | Paragraph (7) of section 1374(d) of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1367` | strike | Section 1367(a)(2) of the Internal Revenue Code of 1986 is amended by striking the last sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
