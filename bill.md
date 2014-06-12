@@ -23,7 +23,7 @@ This Act may be cited as the “America’s Small Business Tax Relief Act of 201
   - **(1)** by striking “may not be revoked” and all that follows through “and before 2014”, and
   - **(2)** by striking “irrevocable” in the heading thereof.
 - **(d)** *Air conditioning and heating units* Paragraph (1) of section 179(d) of such Code is amended by striking “and shall not include air conditioning or heating units”.
-- **(e)** *Qualified real property* Section 179(f) of such Code is amended—
+- **(e)** *Qualified real property* Subsection (f) of section 179 of such Code is amended—
   - **(1)** by striking “beginning in 2010, 2011, 2012, or 2013” in paragraph (1), and
   - **(2)** by striking paragraphs (3) and (4).
 - **(f)** *Inflation adjustment* Subsection (b) of section 179 of such Code is amended by adding at the end the following new paragraph:
@@ -34,3 +34,8 @@ This Act may be cited as the “America’s Small Business Tax Relief Act of 201
   >   - **(B)** *Rounding* The amount of any increase under subparagraph (A) shall be rounded to the nearest multiple of $10,000.
 
 - **(g)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2013.
+
+## § 3. Budgetary effects
+
+- **(a)** *Statutory Pay-As-You-Go Scorecards* The budgetary effects of this Act shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010.
+- **(b)** *Senate PAYGO Scorecards* The budgetary effects of this Act shall not be entered on any PAYGO scorecard maintained for purposes of section 201 of S. Con. Res. 21 (110th Congress).

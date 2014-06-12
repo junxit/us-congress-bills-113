@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4457
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4457
@@ -40,6 +40,11 @@ America's Small Business Tax Relief Act of 2014
 
 - House — Ways and Means Committee
 
+## Recorded votes (2)
+
+- 2014-06-12 — [House 113-2-308](votes/house-113-2-0308.md) — On Motion to Recommit with Instructions — **Failed** (180–232)
+- 2014-06-12 — [House 113-2-309](votes/house-113-2-0309.md) — On Passage — **Passed** (272–144)
+
 ## Actions
 
 - 2014-04-10 — Introduced in House
@@ -50,3 +55,16 @@ America's Small Business Tax Relief Act of 2014
 - 2014-05-02 — Placed on the Union Calendar, Calendar No. 320.
 - 2014-05-02 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-432.
 - 2014-05-02 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-432.
+- 2014-06-10 — Rules Committee Resolution H. Res. 616 Reported to House. Rule provides for one hour of general debate on the bills. H.R. 4800 shall be considred for amendment under a modified open rule. H.R. 4457 and H.R. 4453 shall be considred for amendment under a closed rule.
+- 2014-06-12 — Considered under the provisions of rule H. Res. 616. (consideration: CR H5330-5340)
+- 2014-06-12 — DEBATE - The House continued with debate on H.R. 4457.
+- 2014-06-12 — DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions, pending the reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to extend small business expensing for two years. The point of order was subsequently withdrawn.
+- 2014-06-12 — DEBATE - The House proceeded with one hour of debate on H.R. 4457.
+- 2014-06-12 — House amendment offered
+- 2014-06-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-06-12 — Mr. Neal moved to recommit with instructions to the Committee on Ways and Means. (consideration: CR H5338-5340; text: CR H5338)
+- 2014-06-12 — On motion to recommit with instructions Failed by the Yeas and Nays: 180 - 232 (Roll no. 308).
+- 2014-06-12 — On passage Passed by the Yeas and Nays: 272 - 144 (Roll no. 309). (text: CR H5330)
+- 2014-06-12 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 272 - 144 (Roll no. 309).(text: CR H5330)
+- 2014-06-12 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5339)
+- 2014-06-12 — The previous question was ordered pursuant to the rule. (consideration: CR H5338)
