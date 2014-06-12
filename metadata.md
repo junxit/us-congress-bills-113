@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4745
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4745
@@ -587,3 +587,4 @@ Transportation, Housing and Urban Development, and Related Agencies Appropriatio
 - 2014-06-10 — The previous question was ordered pursuant to the rule.
 - 2014-06-10 — UNFINISHED BUSINESS - The Chair announced that, pursuant to clause 6 of Rule XVIII, the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2014-06-10 — UNFINISHED BUSINESS - The Chair announced that, pursuant to clause 6 of Rule XVIII, the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2014-06-12 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 430.
