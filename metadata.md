@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3998
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3998
@@ -36,3 +36,9 @@ Albuquerque, New Mexico, Federal Land Conveyance Act of 2014
 - 2014-04-09 — Placed on the Union Calendar, Calendar No. 300.
 - 2014-04-09 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-408.
 - 2014-04-09 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-408.
+- 2014-06-17 — Considered under suspension of the rules. (consideration: CR H5380-5381)
+- 2014-06-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3998.
+- 2014-06-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-06-17 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
+- 2014-06-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5380)
+- 2014-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5380)
