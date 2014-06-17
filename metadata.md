@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2112
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2112
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 787 Sta
 
 - Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
 
-## Cosponsors (18)
+## Cosponsors (26)
 
 - Rep. Higgins, Brian [D-NY-26] (H001038)
 - Rep. King, Peter T. [R-NY-2] (K000210)
@@ -36,6 +36,14 @@ To designate the facility of the United States Postal Service located at 787 Sta
 - Rep. Gibson, Christopher P. [R-NY-19] (G000564)
 - Rep. Slaughter, Louise McIntosh [D-NY-25] (S000480)
 - Rep. Israel, Steve [D-NY-3] (I000057)
+- Rep. Serrano, Jose E. [D-NY-15] (S000248)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Lowey, Nita M. [D-NY-17] (L000480)
+- Rep. Reed, Tom [R-NY-23] (R000585)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Nadler, Jerrold [D-NY-10] (N000002)
+- Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
 
 ## Committees (1)
 
@@ -46,3 +54,11 @@ To designate the facility of the United States Postal Service located at 787 Sta
 - 2013-05-22 — Introduced in House
 - 2013-05-22 — Introduced in House
 - 2013-05-22 — Referred to the House Committee on Oversight and Government Reform.
+- 2014-05-21 — Committee Consideration and Mark-up Session Held.
+- 2014-05-21 — Ordered to be Reported by Unanimous Consent.
+- 2014-06-17 — Considered under suspension of the rules. (consideration: CR H5376-5377)
+- 2014-06-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2112.
+- 2014-06-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-06-17 — Mr. Meadows moved to suspend the rules and pass the bill.
+- 2014-06-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5377)
+- 2014-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5377)
