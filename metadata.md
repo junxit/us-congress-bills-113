@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1671
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1671
@@ -75,8 +75,21 @@ To designate the facility of the United States Postal Service located at 6937 Vi
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2014-06-17 — [House 113-2-314](votes/house-113-2-0314.md) — On Motion to Suspend the Rules and Pass — **Passed** (398–0)
+
 ## Actions
 
 - 2013-04-23 — Introduced in House
 - 2013-04-23 — Introduced in House
 - 2013-04-23 — Referred to the House Committee on Oversight and Government Reform.
+- 2014-05-21 — Committee Consideration and Mark-up Session Held.
+- 2014-05-21 — Ordered to be Reported by Unanimous Consent.
+- 2014-06-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-06-17 — Considered as unfinished business. (consideration: CR H5390)
+- 2014-06-17 — Considered under suspension of the rules. (consideration: CR H5377-5378)
+- 2014-06-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1671.
+- 2014-06-17 — Mr. Meadows moved to suspend the rules and pass the bill.
+- 2014-06-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays (2/3 required): 398 - 0 (Roll No. 314). (text: CR H5377)
+- 2014-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays (2/3 required): 398 - 0 (Roll No. 314).(text: CR H5377)
