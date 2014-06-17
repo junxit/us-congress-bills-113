@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4453
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4453
@@ -55,3 +55,5 @@ S Corporation Permanent Tax Relief Act of 2014
 - 2014-06-12 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 263 - 155 (Roll no. 311).(text: CR H5324)
 - 2014-06-12 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5339)
 - 2014-06-12 — The previous question was ordered pursuant to the rule. (consideration: CR H5329)
+- 2014-06-16 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-06-17 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 433.
