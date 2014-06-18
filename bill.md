@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 4893
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4893
+
+> To amend title II of the Social Security Act to provide for the non-application of the waiting period for disability insurance benefits in cases of terminally ill beneficiaries, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Jeremy Sanchez Social Security Disability Insurance Fairness Act”.
+
+## § 2. Non-application of waiting period for disability insurance benefits in cases of terminally ill beneficiaries
+
+Section 223(a) of the Social Security Act (42 U.S.C. 423(a)) is amended by adding at the end the following:
+
+> - **(3)**
+>   - **(A)** In the case of any application for disability insurance benefits filed by an individual who is determined to be under a disability, paragraph (1) shall be applied without regard to the waiting period referred to in such paragraph if—
+>     - **(i)** the individual is terminally ill, or
+>     - **(ii)** the Commissioner of Social Security determines that the application of the waiting period would work an undue hardship on such individual (as determined on the basis of criteria established by the Commissioner).
+>   - **(B)** For the purposes of this paragraph, an individual is considered to be terminally ill if the individual has a medical prognosis that the individual’s life expectancy is 12 months or less.
+
+## § 3. Effective date
+
+The amendment made by section 2 shall apply with respect to applications for monthly insurance benefits filed on or after the date of the enactment of this Act.
