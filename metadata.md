@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1391
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1391
@@ -33,9 +33,10 @@ To designate the facility of the United States Postal Service located at 25 Sout
 - Rep. Renacci, James B. [R-OH-16] (R000586)
 - Rep. Joyce, David P. [R-OH-14] (J000295)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ To designate the facility of the United States Postal Service located at 25 Sout
 - 2014-06-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5373)
 - 2014-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5373)
 - 2014-06-17 — The title of the measure was amended. Agreed to without objection.
+- 2014-06-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
