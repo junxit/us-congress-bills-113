@@ -1,7 +1,7 @@
 ---
 measure: H.R. 43
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 43
@@ -27,9 +27,10 @@ To designate the facility of the United States Postal Service located at 14 Red 
 - Rep. Walz, Timothy J. [D-MN-1] (W000799)
 - Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To designate the facility of the United States Postal Service located at 14 Red 
 - 2014-06-17 — Mr. Meadows moved to suspend the rules and pass the bill.
 - 2014-06-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5372)
 - 2014-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5372)
+- 2014-06-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
