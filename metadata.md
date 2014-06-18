@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1865
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1865
@@ -16,9 +16,10 @@ To designate the facility of the United States Postal Service located at 35 Park
 
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -33,3 +34,4 @@ To designate the facility of the United States Postal Service located at 35 Park
 - 2014-06-17 — Mr. Meadows moved to suspend the rules and pass the bill.
 - 2014-06-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5376)
 - 2014-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5376)
+- 2014-06-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
