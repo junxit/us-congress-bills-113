@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3230
 congress: 113
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 3230
@@ -25,12 +25,13 @@ Veterans Access, Choice, and Accountability Act of 2014
 
 - House — Appropriations Committee
 
-## Recorded votes (4)
+## Recorded votes (5)
 
 - 2013-10-03 — [House 113-1-515](votes/house-113-1-0515.md) — Table Appeal of the Ruling of the Chair — **Passed** (228–194)
 - 2013-10-03 — [House 113-1-516](votes/house-113-1-0516.md) — On Passage — **Passed** (265–160)
 - 2014-06-11 — [Senate 113-2-186](votes/senate-113-2-0186.md) — On the Motion — **Motion Agreed to** (75–19)
 - 2014-06-11 — [Senate 113-2-187](votes/senate-113-2-0187.md) — On Passage of the Bill — **Bill Passed** (93–3)
+- 2014-06-18 — [House 113-2-316](votes/house-113-2-0316.md) — On Motion to Instruct Conferees — **Failed** (198–220)
 
 ## Actions
 
@@ -70,3 +71,16 @@ Veterans Access, Choice, and Accountability Act of 2014
 - 2014-06-11 — Senate amendment submitted
 - 2014-06-11 — Senate amendment submitted
 - 2014-06-11 — Senate struck all after the Enacting Clause and substituted the language of S. 2450.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H.Res. 628, the House proceeded with 1 hour of debate on the Miller (FL) motion that the House concur in the Senate amendment to the title of H.R. 3230 and concur in the Senate amendment to the text of H.R. 3230 with the amendment printed in House Report 113-475.
+- 2014-06-18 — DEBATE - The House proceeded with 1 hour of debate on the Sinema motion to instruct conferees on H.R. 3230. The instructions contained in the motion seek to require the managers on the part of the House to recede from the House amendment to the Senate amendment to the text and concur in the Senate amendment.
+- 2014-06-18 — Mr. Miller (FL) moved that the House concur in the Senate amendment to the title of H.R. 3230 and concur in the Senate amendment to the text of H.R. 3230 with the amendment printed in House Report 113-475. (consideration: CR H5413-5429)
+- 2014-06-18 — Mr. Miller (FL) moved that the House insist upon its amendment to the Senate amendment to the text and request a conference. (consideration: CR H5425)
+- 2014-06-18 — Ms. Sinema moved that the House instruct conferees.
+- 2014-06-18 — On motion that the House insist upon its amendment to the Senate amendment to the text and request a conference Agreed to by voice vote.
+- 2014-06-18 — On motion that the House instruct conferees Failed by the Yeas and Nays: 198 - 220 (Roll no. 316). (consideration: CR H5429)
+- 2014-06-18 — On motion to concur in the Senate amendment to the title of H.R. 3230 and concur in the Senate amendment to the text of H.R. 3230 with the amendment printed in House Report 113-475. Agreed to by voice vote. (text as House agreed to Senate amendment with amendment: CR H5423-5424)
+- 2014-06-18 — Resolving differences -- House actions: On motion to concur in the Senate amendment to the title of H.R. 3230 and concur in the Senate amendment to the text of H.R. 3230 with the amendment printed in House Report 113-475. Agreed to by voice vote.(text as House agreed to Senate amendment with amendment: CR H5423-5424)
+- 2014-06-18 — Senate disagreed to House amendment to Senate amendment, agreed to request for conference, and appointed conferees. Sanders; Rockefeller; Murray; Brown; Tester; Begich; Blumenthal; Hirono; Burr; Isakson; Johanns; McCain; Coburn; Rubio. (consideration: CR S3805)
+- 2014-06-18 — The Speaker appointed conferees for consideration of the House amendment and the Senate amendment, and modifications committed to conference: Miller (FL), Lamborn, Roe (TN), Flores, Benishek, Coffman, Wenstrup, Walorski, Michaud, Brown (FL), Takano, Brownley (CA), Kirkpatrick, and Walz. (consideration: CR H5429)
+- 2014-06-18 — The previous question was ordered pursuant to the rule. (consideration: CR H5425)
+- 2014-06-18 — The previous question was ordered without objection. (consideration: CR H5429)
