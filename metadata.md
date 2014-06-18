@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 628
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 628
@@ -20,6 +20,10 @@ Providing for consideration of the bill (H.R. 4870) making appropriations for th
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2014-06-18 — [House 113-2-315](votes/house-113-2-0315.md) — On Agreeing to the Resolution — **Passed** (244–163)
+
 ## Actions
 
 - 2014-06-17 — After general debate on H.R. 4870, it shall be considered for amendment under the five-minute rule. It shall also be in order to consider the Senate amendments to H.R. 3230.
@@ -27,3 +31,9 @@ Providing for consideration of the bill (H.R. 4870) making appropriations for th
 - 2014-06-17 — Placed on the House Calendar, Calendar No. 112.
 - 2014-06-17 — The House Committee on Rules reported an original measure, H. Rept. 113-475, by Mr. Nugent.
 - 2014-06-17 — The House Committee on Rules reported an original measure, H. Rept. 113-475, by Mr. Nugent.
+- 2014-06-18 — Considered as privileged matter. (consideration: CR H5407-5413)
+- 2014-06-18 — DEBATE - The House proceeded with one hour of debate on H. Res. 628.
+- 2014-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-06-18 — On agreeing to the resolution Agreed to by the Yeas and Nays: 244 - 163 (Roll no. 315). (text: CR H5407)
+- 2014-06-18 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 244 - 163 (Roll no. 315).(text: CR H5407)
+- 2014-06-18 — The previous question was ordered without objection. (consideration: CR H5412)
