@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1216
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1216
@@ -45,3 +45,14 @@ To designate the Department of Veterans Affairs Vet Center in Prescott, Arizona,
 - 2014-06-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5385-5386)
 - 2014-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5385-5386)
 - 2014-06-18 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2014-07-09 — Passed Senate without amendment by Unanimous Consent.
+- 2014-07-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-07-09 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S4364)
+- 2014-07-09 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S4364)
+- 2014-07-10 — Message on Senate action sent to the House.
+- 2014-07-15 — Presented to President.
+- 2014-07-15 — Presented to President.
+- 2014-07-25 — Became Public Law No: 113-138.
+- 2014-07-25 — Became Public Law No: 113-138.
+- 2014-07-25 — Signed by President.
+- 2014-07-25 — Signed by President.
