@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3682
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3682
@@ -26,9 +26,10 @@ To designate the community based outpatient clinic of the Department of Veterans
 - Rep. Bachmann, Michele [R-MN-6] (B001256)
 - Rep. Nolan, Richard M. [D-MN-8] (N000127)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To designate the community based outpatient clinic of the Department of Veterans
 - 2014-06-17 — Mr. Lamborn moved to suspend the rules and pass the bill.
 - 2014-06-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5387)
 - 2014-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5387)
+- 2014-06-18 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
