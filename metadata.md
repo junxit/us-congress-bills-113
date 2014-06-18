@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1671
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1671
@@ -71,9 +71,10 @@ To designate the facility of the United States Postal Service located at 6937 Vi
 - Rep. Waters, Maxine [D-CA-43] (W000187)
 - Rep. Waxman, Henry A. [D-CA-33] (W000215)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -93,3 +94,4 @@ To designate the facility of the United States Postal Service located at 6937 Vi
 - 2014-06-17 — Mr. Meadows moved to suspend the rules and pass the bill.
 - 2014-06-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays (2/3 required): 398 - 0 (Roll No. 314). (text: CR H5377)
 - 2014-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays (2/3 required): 398 - 0 (Roll No. 314).(text: CR H5377)
+- 2014-06-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
