@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3682
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3682
@@ -44,3 +44,14 @@ To designate the community based outpatient clinic of the Department of Veterans
 - 2014-06-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5387)
 - 2014-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5387)
 - 2014-06-18 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2014-12-03 — Passed Senate without amendment by Unanimous Consent.
+- 2014-12-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-12-03 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S6305)
+- 2014-12-03 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S6305)
+- 2014-12-04 — Message on Senate action sent to the House.
+- 2014-12-08 — Presented to President.
+- 2014-12-08 — Presented to President.
+- 2014-12-16 — Became Public Law No: 113-217.
+- 2014-12-16 — Became Public Law No: 113-217.
+- 2014-12-16 — Signed by President.
+- 2014-12-16 — Signed by President.
