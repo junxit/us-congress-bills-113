@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3375
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3375
@@ -25,9 +25,10 @@ To designate the community-based outpatient clinic of the Department of Veterans
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ To designate the community-based outpatient clinic of the Department of Veterans
 - 2014-06-17 — Mr. Lamborn moved to suspend the rules and pass the bill.
 - 2014-06-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 313). (text: CR H5381)
 - 2014-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 313).(text: CR H5381)
+- 2014-06-18 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
