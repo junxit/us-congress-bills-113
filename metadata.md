@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4360
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4360
@@ -47,3 +47,12 @@ To designate the facility of the United States Forest Service for the Grandfathe
 - 2014-06-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5384)
 - 2014-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5384)
 - 2014-06-18 — Received in the Senate, read twice.
+- 2014-07-31 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 8/1/2014 S5312)
+- 2014-07-31 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 8/1/2014 S5312)
+- 2014-08-01 — Message on Senate action sent to the House.
+- 2014-08-04 — Presented to President.
+- 2014-08-04 — Presented to President.
+- 2014-08-08 — Became Public Law No: 113-155.
+- 2014-08-08 — Became Public Law No: 113-155.
+- 2014-08-08 — Signed by President.
+- 2014-08-08 — Signed by President.
