@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1458
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1458
@@ -30,9 +30,10 @@ To designate the facility of the United States Postal Service located at 1 Walte
 - Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ To designate the facility of the United States Postal Service located at 1 Walte
 - 2014-06-17 — Mr. Meadows moved to suspend the rules and pass the bill.
 - 2014-06-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5378)
 - 2014-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5378)
+- 2014-06-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
