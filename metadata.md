@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3472
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3472
@@ -45,9 +45,10 @@ To designate the facility of the United States Postal Service located at 13127 B
 - Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
 - Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ To designate the facility of the United States Postal Service located at 13127 B
 - 2014-06-17 — Mr. Meadows moved to suspend the rules and pass the bill.
 - 2014-06-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5375)
 - 2014-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5375)
+- 2014-06-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
