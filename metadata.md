@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1216
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1216
@@ -27,9 +27,10 @@ To designate the Department of Veterans Affairs Vet Center in Prescott, Arizona,
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 - Rep. Pastor, Ed [D-AZ-7] (P000099)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To designate the Department of Veterans Affairs Vet Center in Prescott, Arizona,
 - 2014-06-17 — Mr. Lamborn moved to suspend the rules and pass the bill.
 - 2014-06-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5385-5386)
 - 2014-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5385-5386)
+- 2014-06-18 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
