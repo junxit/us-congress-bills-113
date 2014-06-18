@@ -1,0 +1,15 @@
+---
+legis-num: S. 2493
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2493
+
+> To designate the facility of the United States Postal Service located at 14 Red River Avenue North in Cold Spring, Minnesota, as the “Officer Tommy Decker Memorial Post Office”.
+
+## § 1. Officer Tommy Decker Memorial Post Office
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 14 Red River Avenue North in Cold Spring, Minnesota, shall be known and designated as the “Officer Tommy Decker Memorial Post Office”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Officer Tommy Decker Memorial Post Office”.
