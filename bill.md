@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3301
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,36 +15,30 @@ This Act may be cited as the “North American Energy Infrastructure Act”.
 
 ## § 2. Finding
 
-Congress finds that the United States should establish a more uniform, transparent, and modern process for the construction, connection, operation, and maintenance of oil and natural gas pipelines and electric transmission facilities for the import and export of oil, natural gas, and electricity to and from Canada and Mexico, in pursuit of a more secure and efficient North American energy market.
+Congress finds that the United States should establish a more uniform, transparent, and modern process for the construction, connection, operation, and maintenance of oil and natural gas pipelines and electric transmission facilities for the import and export of oil and natural gas and the transmission of electricity to and from Canada and Mexico, in pursuit of a more secure and efficient North American energy market.
 
 ## § 3. Authorization of certain energy infrastructure projects at the national boundary of the United States
 
-- **(a)** *Authorization* Except as provided in subsections (d) and (e), no person may construct, connect, operate, or maintain an oil or natural gas pipeline or electric transmission facility at the national boundary of the United States for the import or export of oil, natural gas, or electricity to or from Canada or Mexico without obtaining approval of the construction, connection, operation, or maintenance under this section.
-- **(b)** *Approval*
-  - **(1)** *Requirement* Not later than 120 days after receiving a request for approval of construction, connection, operation, or maintenance under this section, the relevant official identified under paragraph (2), in consultation with appropriate Federal agencies, shall approve the request unless the relevant official finds that the construction, connection, operation, or maintenance is not in the national security interests of the United States.
+- **(a)** *Authorization* Except as provided in subsection (c) and section 7, no person may construct, connect, operate, or maintain a cross-border segment of an oil pipeline or electric transmission facility for the import or export of oil or the transmission of electricity to or from Canada or Mexico without obtaining a certificate of crossing for the construction, connection, operation, or maintenance of the cross-border segment under this section.
+- **(b)** *Certificate of crossing*
+  - **(1)** *Requirement* Not later than 120 days after final action is taken under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to a cross-border segment for which a request is received under this section, the relevant official identified under paragraph (2), in consultation with appropriate Federal agencies, shall issue a certificate of crossing for the cross-border segment unless the relevant official finds that the construction, connection, operation, or maintenance of the cross-border segment is not in the public interest of the United States.
   - **(2)** *Relevant official* The relevant official referred to in paragraph (1) is—
-    - **(A)** the Secretary of Commerce with respect to oil pipelines;
-    - **(B)** the Federal Energy Regulatory Commission with respect to natural gas pipelines; and
-    - **(C)** the Secretary of Energy with respect to electric transmission facilities.
-  - **(3)** *Approval not major Federal action* An approval of construction, connection, operation, or maintenance under paragraph (1) shall not be construed to constitute a major Federal action for purposes of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
-  - **(4)** *Additional requirement for electric transmission facilities* In the case of a request for approval of the construction, connection, operation, or maintenance of an electric transmission facility, the Secretary of Energy shall require, as a condition of approval of the request under paragraph (1), that the electric transmission facility be constructed, connected, operated, or maintained consistent with all applicable policies and standards of—
+    - **(A)** the Secretary of State with respect to oil pipelines; and
+    - **(B)** the Secretary of Energy with respect to electric transmission facilities.
+  - **(3)** *Additional requirement for electric transmission facilities* In the case of a request for a certificate of crossing for the construction, connection, operation, or maintenance of a cross-border segment of an electric transmission facility, the Secretary of Energy shall require, as a condition of issuing the certificate of crossing for the request under paragraph (1), that the cross-border segment of the electric transmission facility be constructed, connected, operated, or maintained consistent with all applicable policies and standards of—
     - **(A)** the Electric Reliability Organization and the applicable regional entity; and
-    - **(B)** any Regional Transmission Organization or Independent System Operator with operational or functional control over the electric transmission facility.
-- **(c)** *No other approval required* No Presidential permit (or similar permit) required under Executive Order 13337 (3 U.S.C. 301 note), Executive Order 11423 (3 U.S.C. 301 note), section 301 of title 3, United States Code, Executive Order 12038, Executive Order 10485, or any other Executive Order shall be necessary for construction, connection, operation, or maintenance to which this section applies.
-- **(d)** *Exclusions* This section shall not apply to any construction, connection, operation, or maintenance of an oil or natural gas pipeline or electric transmission facility at the national boundary of the United States for the import or export of oil, natural gas, or electricity to or from Canada or Mexico—
-  - **(1)** if the pipeline or facility is operating at such national boundary for such import or export as of the date of enactment of this Act;
-  - **(2)** if a permit described in subsection (c) for such construction, connection, operation, or maintenance has been issued;
-  - **(3)** if approval of such construction, connection, operation, or maintenance has previously been obtained under this section; or
-  - **(4)** if an application for a permit described in subsection (c) for such construction, connection, operation, or maintenance is pending on the date of enactment of this Act, until the earlier of—
+    - **(B)** any Regional Transmission Organization or Independent System Operator with operational or functional control over the cross-border segment of the electric transmission facility.
+- **(c)** *Exclusions* This section shall not apply to any construction, connection, operation, or maintenance of a cross-border segment of an oil pipeline or electric transmission facility for the import or export of oil or the transmission of electricity to or from Canada or Mexico—
+  - **(1)** if the cross-border segment is operating for such import, export, or transmission as of the date of enactment of this Act;
+  - **(2)** if a permit described in section 6 for such construction, connection, operation, or maintenance has been issued;
+  - **(3)** if a certificate of crossing for such construction, connection, operation, or maintenance has previously been issued under this section; or
+  - **(4)** if an application for a permit described in section 6 for such construction, connection, operation, or maintenance is pending on the date of enactment of this Act, until the earlier of—
     - **(A)** the date on which such application is denied; or
     - **(B)** July 1, 2016.
-- **(e)** *Modifications to existing projects* No approval under this section, or permit described in subsection (c), shall be required for modifications to construction, connection, operation, or maintenance described in paragraph (1), (2), or (3) of subsection (d), including reversal of flow direction, change in ownership, volume expansion, downstream or upstream interconnection, or adjustments to maintain flow (such as a reduction or increase in the number of pump or compressor stations).
-- **(f)** *Effect of other laws* Nothing in this section shall affect the application of any other Federal statute to a project for which approval of construction, connection, operation, or maintenance is sought under this section.
-- **(g)** *Definitions* In this section—
-  - **(1)** the term natural gas has the meaning given that term in section 2 of the Natural Gas Act (15 U.S.C. 717a);
-  - **(2)** the term oil means petroleum or a petroleum product;
-  - **(3)** the terms Electric Reliability Organization and regional entity have the meanings given those terms in section 215 of the Federal Power Act (16 U.S.C. 824o); and
-  - **(4)** the terms Independent System Operator and Regional Transmission Organization have the meanings given those terms in section 3 of the Federal Power Act (16 U.S.C. 796).
+- **(d)** *Effect of other laws*
+  - **(1)** *Application to projects* Nothing in this section or section 7 shall affect the application of any other Federal statute to a project for which a certificate of crossing for the construction, connection, operation, or maintenance of a cross-border segment is sought under this section.
+  - **(2)** *Natural Gas Act* Nothing in this section or section 7 shall affect the requirement to obtain approval or authorization under sections 3 and 7 of the Natural Gas Act for the siting, construction, or operation of any facility to import or export natural gas.
+  - **(3)** *Energy Policy and Conservation Act* Nothing in this section or section 7 shall affect the authority of the President under section 103(a) of the Energy Policy and Conservation Act.
 
 ## § 4. Importation or exportation of natural gas to Canada and Mexico
 
@@ -57,9 +51,32 @@ Section 3(c) of the Natural Gas Act (15 U.S.C. 717b(c)) is amended by adding at 
   - **(1)** *State regulations* Section 202(f) of the Federal Power Act (16 U.S.C. 824a(f)) is amended by striking “insofar as such State regulation does not conflict with the exercise of the Commission's powers under or relating to subsection 202(e)”.
   - **(2)** *Seasonal diversity electricity exchange* Section 602(b) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 824a–4(b)) is amended by striking “the Commission has conducted hearings and made the findings required under section 202(e) of the Federal Power Act” and all that follows through the period at the end and inserting “the Secretary has conducted hearings and finds that the proposed transmission facilities would not impair the sufficiency of electric supply within the United States or would not impede or tend to impede the coordination in the public interest of facilities subject to the jurisdiction of the Secretary.”.
 
-## § 6. Effective date; rulemaking deadlines
+## § 6. No Presidential permit required
 
-- **(a)** *Effective date* Sections 3, 4, and 5, and the amendments made by such sections, shall take effect on July 1, 2015.
+No Presidential permit (or similar permit) required under Executive Order 13337 (3 U.S.C. 301 note), Executive Order 11423 (3 U.S.C. 301 note), section 301 of title 3, United States Code, Executive Order 12038, Executive Order 10485, or any other Executive Order shall be necessary for the construction, connection, operation, or maintenance of an oil or natural gas pipeline or electric transmission facility, or any cross-border segment thereof.
+
+## § 7. Modifications to existing projects
+
+No certificate of crossing under section 3, or permit described in section 6, shall be required for a modification to the construction, connection, operation, or maintenance of an oil or natural gas pipeline or electric transmission facility—
+
+- **(1)** that is operating for the import or export of oil or natural gas or the transmission of electricity to or from Canada or Mexico as of the date of enactment of the Act;
+- **(2)** for which a permit described in section 6 for such construction, connection, operation, or maintenance has been issued; or
+- **(3)** for which a certificate of crossing for the cross-border segment of the pipeline or facility has previously been issued under section 3.
+
+## § 8. Effective date; rulemaking deadlines
+
+- **(a)** *Effective date* Sections 3 through 7, and the amendments made by such sections, shall take effect on July 1, 2015.
 - **(b)** *Rulemaking deadlines* Each relevant official described in section 3(b)(2) shall—
   - **(1)** not later than 180 days after the date of enactment of this Act, publish in the Federal Register notice of a proposed rulemaking to carry out the applicable requirements of section 3; and
   - **(2)** not later than 1 year after the date of enactment of this Act, publish in the Federal Register a final rule to carry out the applicable requirements of section 3.
+
+## § 9. Definitions
+
+In this Act—
+
+- **(1)** the term cross-border segment means the portion of an oil or natural gas pipeline or electric transmission facility that is located at the national boundary of the United States with either Canada or Mexico;
+- **(2)** the term modification includes a reversal of flow direction, change in ownership, volume expansion, downstream or upstream interconnection, or adjustment to maintain flow (such as a reduction or increase in the number of pump or compressor stations);
+- **(3)** the term natural gas has the meaning given that term in section 2 of the Natural Gas Act (15 U.S.C. 717a);
+- **(4)** the term oil means petroleum or a petroleum product;
+- **(5)** the terms Electric Reliability Organization and regional entity have the meanings given those terms in section 215 of the Federal Power Act (16 U.S.C. 824o); and
+- **(6)** the terms Independent System Operator and Regional Transmission Organization have the meanings given those terms in section 3 of the Federal Power Act (16 U.S.C. 796).
