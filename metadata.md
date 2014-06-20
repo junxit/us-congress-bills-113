@@ -1,7 +1,7 @@
 ---
 measure: S. 1603
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1603
@@ -20,9 +20,10 @@ Gun Lake Trust Land Reaffirmation Act
 
 - Sen. Levin, Carl [D-MI] (L000261)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -37,3 +38,6 @@ Gun Lake Trust Land Reaffirmation Act
 - 2014-06-17 — By Senator Tester from Committee on Indian Affairs filed written report. Report No. 113-194.
 - 2014-06-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3884; text as passed Senate: CR S3884)
 - 2014-06-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3884; text as passed Senate: CR S3884)
+- 2014-06-20 — Message on Senate action sent to the House.
+- 2014-06-20 — Received in the House.
+- 2014-06-20 — Referred to the House Committee on Natural Resources.
