@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4870
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4870
@@ -20,9 +20,653 @@ Department of Defense Appropriations Act, 2015
 
 - House — Appropriations Committee
 
+## Recorded votes (21)
+
+- 2014-06-19 — [House 113-2-318](votes/house-113-2-0318.md) — On Agreeing to the Amendment — **Failed** (130–292)
+- 2014-06-19 — [House 113-2-319](votes/house-113-2-0319.md) — On Agreeing to the Amendment — **Failed** (179–242)
+- 2014-06-19 — [House 113-2-320](votes/house-113-2-0320.md) — On Agreeing to the Amendment — **Failed** (187–233)
+- 2014-06-19 — [House 113-2-321](votes/house-113-2-0321.md) — On Agreeing to the Amendment — **Agreed to** (238–179)
+- 2014-06-19 — [House 113-2-322](votes/house-113-2-0322.md) — On Agreeing to the Amendment — **Agreed to** (300–114)
+- 2014-06-19 — [House 113-2-323](votes/house-113-2-0323.md) — On Agreeing to the Amendment — **Agreed to** (230–184)
+- 2014-06-19 — [House 113-2-324](votes/house-113-2-0324.md) — On Agreeing to the Amendment — **Failed** (163–249)
+- 2014-06-19 — [House 113-2-325](votes/house-113-2-0325.md) — On Agreeing to the Amendment — **Failed** (165–250)
+- 2014-06-19 — [House 113-2-326](votes/house-113-2-0326.md) — On Agreeing to the Amendment — **Failed** (182–231)
+- 2014-06-19 — [House 113-2-327](votes/house-113-2-0327.md) — On Agreeing to the Amendment — **Agreed to** (293–123)
+- 2014-06-19 — [House 113-2-328](votes/house-113-2-0328.md) — On Agreeing to the Amendment — **Failed** (167–244)
+- 2014-06-19 — [House 113-2-329](votes/house-113-2-0329.md) — On Agreeing to the Amendment — **Failed** (62–355)
+- 2014-06-19 — [House 113-2-330](votes/house-113-2-0330.md) — On Agreeing to the Amendment — **Failed** (157–260)
+- 2014-06-19 — [House 113-2-331](votes/house-113-2-0331.md) — On Agreeing to the Amendment — **Agreed to** (212–204)
+- 2014-06-20 — [House 113-2-332](votes/house-113-2-0332.md) — On Agreeing to the Amendment — **Failed** (153–260)
+- 2014-06-20 — [House 113-2-333](votes/house-113-2-0333.md) — On Agreeing to the Amendment — **Failed** (92–320)
+- 2014-06-20 — [House 113-2-334](votes/house-113-2-0334.md) — On Agreeing to the Amendment — **Failed** (205–208)
+- 2014-06-20 — [House 113-2-335](votes/house-113-2-0335.md) — On Agreeing to the Amendment — **Agreed to** (280–133)
+- 2014-06-20 — [House 113-2-336](votes/house-113-2-0336.md) — On Agreeing to the Amendment — **Failed** (163–248)
+- 2014-06-20 — [House 113-2-337](votes/house-113-2-0337.md) — On Motion to Recommit with Instructions — **Failed** (190–220)
+- 2014-06-20 — [House 113-2-338](votes/house-113-2-0338.md) — On Passage — **Passed** (340–73)
+
 ## Actions
 
 - 2014-06-13 — Introduced in House
 - 2014-06-13 — Placed on the Union Calendar, Calendar No. 351.
 - 2014-06-13 — The House Committee on Appropriations reported an original measure, H. Rept. 113-473, by Mr. Frelinghuysen.
 - 2014-06-13 — The House Committee on Appropriations reported an original measure, H. Rept. 113-473, by Mr. Frelinghuysen.
+- 2014-06-17 — Rules Committee Resolution H. Res. 628 Reported to House. Rule provides for consideration of Senate amendments to H.R. 3230 to H.R. 4870. After general debate on H.R. 4870, it shall be considered for amendment under the five-minute rule. It shall also be in order to consider the Senate amendments to H.R. 3230.
+- 2014-06-18 — Amendment (A001) offered by Mr. Gohmert. (consideration: CR H5445; text: CR H5445)
+- 2014-06-18 — Amendment (A002) offered by Mr. Gohmert. (consideration: CR H5445-5446; text: CR H5445)
+- 2014-06-18 — Amendment (A003) offered by Ms. Lee (CA). (consideration: CR H5446-5447; text: CR H5446)
+- 2014-06-18 — Amendment (A004) offered by Mr. Lamborn. (consideration: CR H5447-5448; text: CR 5446)
+- 2014-06-18 — Amendment (A005) offered by Ms. Jackson Lee. (consideration: CR H5448-5450; text: CR H5448)
+- 2014-06-18 — Amendment (A006) offered by Mr. Lamborn. (consideration: CR H5450; text: CR H5450)
+- 2014-06-18 — Amendment (A007) offered by Mr. Jeffries. (consideration: CR H5450; text: CR H5451)
+- 2014-06-18 — Amendment (A008) offered by Mr. McKinley. (consideration: CR H5450-5451; text: CR H5451)
+- 2014-06-18 — Amendment (A009) offered by Mr. McGovern. (consideration: CR H5451-5452; text: CR H5451)
+- 2014-06-18 — Amendment (A010) offered by Mr. Benishek. (consideration: CR H5452; text: CR H5452)
+- 2014-06-18 — Amendment (A011) offered by Mr. Kildee. (consideration: CR H5452-5453; text: CR H5452)
+- 2014-06-18 — Amendment (A012) offered by Mr. Gohmert. (consideration: CR H5453-5454; text: CR H5453)
+- 2014-06-18 — Amendment (A013) offered by Mr. Ellison. (consideration: CR H5454-5455; text: CR H5454)
+- 2014-06-18 — Amendment (A014) offered by Mr. Runyan. (consideration: CR H5455; text: CR H5455)
+- 2014-06-18 — Amendment (A015) offered by Mr. Delaney. (consideration: CR H5455-5456; text: CR H5455)
+- 2014-06-18 — Amendment (A016) offered by Mr. Lowenthal. (consideration: CR H5456; text: CR H5456)
+- 2014-06-18 — Amendment (A017) offered by Mr. Grayson. (consideration: CR H5456-5457; text: CR H5456)
+- 2014-06-18 — Amendment (A018) offered by Mr. Murphy (PA). (consideration: CR H5457-5458; text: CR H5457)
+- 2014-06-18 — Amendment (A019) offered by Mr. Blumenauer. (consideration: CR H5458-5459; text: CR H5458)
+- 2014-06-18 — Amendment (A020) offered by Mr. Kildee. (consideration: CR H5459-5460; text: CR H5459)
+- 2014-06-18 — Amendment (A021) offered by Ms. Jackson Lee. (consideration: CR H5461-5462; text: CR H5461)
+- 2014-06-18 — Amendment (A022) offered by Mr. Garamendi. (consideration: CR H5462-5463; text: CR H5462)
+- 2014-06-18 — Amendment (A023) offered by Mr. Coffman. (consideration: CR H5463; text: CR H5463)
+- 2014-06-18 — Amendment (A024) offered by Mr. Nugent. (consideration: CR H5463-5464; text: CR H5463)
+- 2014-06-18 — Amendment (A025) offered by Mr. Grayson. (consideration: CR H5464-5465; text: CR H5464)
+- 2014-06-18 — Amendment (A026) offered by Mr. Holt. (consideration: CR H5465; text: CR H5465)
+- 2014-06-18 — Amendment (A027) offered by Mr. Langevin. (consideration: CR H5465-5466; text: CR H5465)
+- 2014-06-18 — Amendment (A028) offered by Mr. Holt. (consideration: CR H5466-5467; text: CR H5466)
+- 2014-06-18 — Amendment (A029) offered by Mr. Daines. (consideration: CR H5477; text: CR H5477)
+- 2014-06-18 — Amendment (A030) offered by Mr. Nadler. (consideration: CR H5477-5478; text: CR H5477)
+- 2014-06-18 — Amendment (A031) offered by Mr. Garamendi. (consideration: CR H5481-5482; text: CR H5481)
+- 2014-06-18 — Amendment (A032) offered by Mr. Cole. (consideration: CR H5482-5483; text: CR H5482)
+- 2014-06-18 — Amendment (A033) offered by Mr. Grayson. (consideration: CR H5483; text: CR H5483)
+- 2014-06-18 — Amendment (A034) offered by Mr. Grayson. (consideration: CR H5483-5484; text: CR H5483)
+- 2014-06-18 — Amendment (A035) offered by Mrs. Walorski. (consideration: CR H5484-5485; text: CR H5484)
+- 2014-06-18 — Amendment (A036) offered by Mr. Nolan. (consideration: CR H5485; text: CR H5485)
+- 2014-06-18 — Amendment (A037) offered by Mrs. Miller (MI). (consideration: CR H5485-5486; text: CR H5485)
+- 2014-06-18 — Amendment (A038) offered by Mr. Grayson. (consideration: CR H5486-5487; text: CR H5486)
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment agreed to Committee of the Whole
+- 2014-06-18 — Amendment failed in Committee of the Whole
+- 2014-06-18 — Amendment failed in Committee of the Whole
+- 2014-06-18 — Amendment failed in Committee of the Whole
+- 2014-06-18 — By unanimous consent, the Cole amendment was withdrawn. (consideration: CR H5483)
+- 2014-06-18 — By unanimous consent, the Garamendi amendment was withdrawn. (consideration: CR H5463)
+- 2014-06-18 — By unanimous consent, the Kildee amendment was withdrawn. (consideration: CR H5453)
+- 2014-06-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 4870 as unfinished business.
+- 2014-06-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 4870 as unfinished business.
+- 2014-06-18 — Considered as unfinished business. (consideration: CR H5454-5487)
+- 2014-06-18 — Considered under the provisions of rule H. Res. 628. (consideration: CR H5429-5492; text of Title I as reported in House: CR H5444-5445, H5446; text of Title II as reported in House: CR H5446, H5456-5457, H5458, H5459; text of Title III as reported in House: CR H5459, H5460-5461, H5462; text of Title IV as reported in House: CR H5462, H5464; text of Title V as reported in House: CR H5464; text of Title VI as reported in House: CR H5464-5465, H5466; text of Title VII as reported in House: CR H5466; text of Title VIII as  reported in House: CR H5467-5477, H5478-5479; text of Title IX as reported in House: CR H5479-5480; text of Title X as reported in House: CR H5480)
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 268, the Committee of the Whole proceeded with 10 minutes of debate on the Miller (MI) amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 268, the Committee of the Whole proceeded with 10 minutes of debate on the Nolan amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Benishek amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer amendment No. 4.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Coffman amendment No. 5.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Cole amendment, pending reservation of a point of order.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Daines amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Delaney amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment, pending reservation of a point of order.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment, pending the reservation of a point of order.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Gohmert amendment, pending reservation of a point of order.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Gohmert amendment, pending reservation of a point of order.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Gohmert amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment, pending reservation of a point of order.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment, pending reservation of a point of order.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Holt amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Holt amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment, pending the reservation of a point of order. The point of order was subsequently withdrawn.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Jeffries amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Kildee amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Kildee amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Kildee amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Lowenthal amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the McGovern amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy (PA) amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Nadler amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Runyan amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Walorski amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H.Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment.
+- 2014-06-18 — DEBATE - Pursuant to the provisions of H.Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Lee (CA) amendment, pending the reservation of a point of order. The point of order was subsequently withdrawn.
+- 2014-06-18 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4870.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Benishek amendment (A010) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Daines amendment (A029) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Delaney amendment (A015) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Ellison amendment (A013) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Grayson amendment (A017) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Grayson amendment (A025) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Grayson amendment (A033) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Holt amendment (A026) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Holt amendment (A028) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A005) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A021) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Jeffries amendment (A007) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Lamborn amendment (A006) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Lee (CA) amendment (A003) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Lowenthal amendment (A016) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the McGovern amendment (A009) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the McKinley amendment (A008) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Murphy (PA) amendment (A018) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Nolan amendment (A036) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Nugent amendment (A024) Agreed to by voice vote.
+- 2014-06-18 — House amendment agreed to: On agreeing to the Runyan amendment (A014) Agreed to by voice vote.
+- 2014-06-18 — House amendment not agreed to: On agreeing to the Coffman amendment (A023) Failed by voice vote.
+- 2014-06-18 — House amendment not agreed to: On agreeing to the Kildee amendment (A020) Failed by voice vote.
+- 2014-06-18 — House amendment not agreed to: On agreeing to the Lamborn amendment (A004) Failed by voice vote.
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered
+- 2014-06-18 — House amendment offered/reported by: Amendment (A001) offered by Mr. Gohmert.(consideration: CR H5445; text: CR H5445)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A002) offered by Mr. Gohmert.(consideration: CR H5445-5446; text: CR H5445)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A003) offered by Ms. Lee (CA).(consideration: CR H5446-5447; text: CR H5446)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A004) offered by Mr. Lamborn.(consideration: CR H5447-5448; text: CR 5446)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A005) offered by Ms. Jackson Lee.(consideration: CR H5448-5450; text: CR H5448)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A006) offered by Mr. Lamborn.(consideration: CR H5450; text: CR H5450)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A007) offered by Mr. Jeffries.(consideration: CR H5450; text: CR H5451)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A008) offered by Mr. McKinley.(consideration: CR H5450-5451; text: CR H5451)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A009) offered by Mr. McGovern.(consideration: CR H5451-5452; text: CR H5451)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A010) offered by Mr. Benishek.(consideration: CR H5452; text: CR H5452)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A011) offered by Mr. Kildee.(consideration: CR H5452-5453; text: CR H5452)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A012) offered by Mr. Gohmert.(consideration: CR H5453-5454; text: CR H5453)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A013) offered by Mr. Ellison.(consideration: CR H5454-5455; text: CR H5454)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A014) offered by Mr. Runyan.(consideration: CR H5455; text: CR H5455)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A015) offered by Mr. Delaney.(consideration: CR H5455-5456; text: CR H5455)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A016) offered by Mr. Lowenthal.(consideration: CR H5456; text: CR H5456)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A017) offered by Mr. Grayson.(consideration: CR H5456-5457; text: CR H5456)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A018) offered by Mr. Murphy (PA).(consideration: CR H5457-5458; text: CR H5457)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A019) offered by Mr. Blumenauer.(consideration: CR H5458-5459; text: CR H5458)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A020) offered by Mr. Kildee.(consideration: CR H5459-5460; text: CR H5459)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A021) offered by Ms. Jackson Lee.(consideration: CR H5461-5462; text: CR H5461)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A022) offered by Mr. Garamendi.(consideration: CR H5462-5463; text: CR H5462)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A023) offered by Mr. Coffman.(consideration: CR H5463; text: CR H5463)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A024) offered by Mr. Nugent.(consideration: CR H5463-5464; text: CR H5463)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A025) offered by Mr. Grayson.(consideration: CR H5464-5465; text: CR H5464)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A026) offered by Mr. Holt.(consideration: CR H5465; text: CR H5465)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A027) offered by Mr. Langevin.(consideration: CR H5465-5466; text: CR H5465)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A028) offered by Mr. Holt.(consideration: CR H5466-5467; text: CR H5466)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A029) offered by Mr. Daines.(consideration: CR H5477; text: CR H5477)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A030) offered by Mr. Nadler.(consideration: CR H5477-5478; text: CR H5477)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A031) offered by Mr. Garamendi.(consideration: CR H5481-5482; text: CR H5481)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A032) offered by Mr. Cole.(consideration: CR H5482-5483; text: CR H5482)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A033) offered by Mr. Grayson.(consideration: CR H5483; text: CR H5483)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A034) offered by Mr. Grayson.(consideration: CR H5483-5484; text: CR H5483)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A035) offered by Mrs. Walorski.(consideration: CR H5484-5485; text: CR H5484)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A036) offered by Mr. Nolan.(consideration: CR H5485; text: CR H5485)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A037) offered by Mrs. Miller (MI).(consideration: CR H5485-5486; text: CR H5485)
+- 2014-06-18 — House amendment offered/reported by: Amendment (A038) offered by Mr. Grayson.(consideration: CR H5486-5487; text: CR H5486)
+- 2014-06-18 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 628 and Rule XVIII.
+- 2014-06-18 — Mr. Frelinghuysen moved that the Committee rise.
+- 2014-06-18 — Mr. Frelinghuysen moved that the committee rise.
+- 2014-06-18 — Mr. Frelinghuysen raised a point of order against the Garamendi amendment (A031). Mr. Frelinghuysen stated that the provisions of the Garamendi amendment sought to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order.
+- 2014-06-18 — Mr. Frelinghuysen raised a point of order against the Gohmert amendment (A001). Mr. Frelinghuysen stated that the provisions of the amendment provide for a net increase in budget outlays of the bill. The Chair sustained the point of order.
+- 2014-06-18 — Mr. Frelinghuysen raised a point of order against the Gohmert amendment (A002). Mr. Frelinghuysen stated that the provisions of the amendment provide for a net increase in budget outlays of the bill. The Chair sustained the point of order.
+- 2014-06-18 — Mr. Frelinghuysen raised a point of order against the Grayson amendment (A034). Mr. Frelinghuysen stated that the provisions of the Grayson amendment sought to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order.
+- 2014-06-18 — Mr. Frelinghuysen raised a point of order against the Grayson amendment (A038). Mr. Frelinghuysen stated that the provisions of the Grayson amendment sought to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order.
+- 2014-06-18 — On agreeing to the Benishek amendment (A010) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the Coffman amendment (A023) Failed by voice vote.
+- 2014-06-18 — On agreeing to the Daines amendment (A029) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the Delaney amendment (A015) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the Ellison amendment (A013) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the Grayson amendment (A017) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the Grayson amendment (A025) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the Grayson amendment (A033) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the Holt amendment (A026) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the Holt amendment (A028) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the Jackson Lee amendment (A005) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the Jackson Lee amendment (A021) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the Jeffries amendment (A007) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the Kildee amendment (A020) Failed by voice vote.
+- 2014-06-18 — On agreeing to the Lamborn amendment (A004) Failed by voice vote.
+- 2014-06-18 — On agreeing to the Lamborn amendment (A006) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the Lee (CA) amendment (A003) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the Lowenthal amendment (A016) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the McGovern amendment (A009) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the McKinley amendment (A008) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the Murphy (PA) amendment (A018) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the Nolan amendment (A036) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the Nugent amendment (A024) Agreed to by voice vote.
+- 2014-06-18 — On agreeing to the Runyan amendment (A014) Agreed to by voice vote.
+- 2014-06-18 — On motion that the Committee rise Agreed to by voice vote.
+- 2014-06-18 — On motion that the committee rise Agreed to by voice vote.
+- 2014-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blumenauer amendment, the Chair put the question on agreeing to the amendment, and by voice vote, announced the noes had prevailed. Mr. Blumenauer demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2014-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gohmert amendment, the Chair put the question on agreeing to the amendment, and by voice vote, announced the noes had prevailed. Mr. Gohmert demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2014-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Miller (MI) amendment, the Chair put the question on agreeing to the amendment, and by voice vote, announced the ayes had prevailed. Mrs. Miller (MI) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2014-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Nadler amendment, the Chair put the question on agreeing to the amendment, and by voice vote, announced the noes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2014-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Walorski amendment, the Chair put the question on agreeing to the amendment, and by voice vote, announced the ayes had prevailed. Mr. Visclosky demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2014-06-18 — Rule H. Res. 628 passed House.
+- 2014-06-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2014-06-18 — The Speaker designated the Honorable Chris Collins to act as Chairman of the Committee.
+- 2014-06-19 — Amendment (A039) offered by Mr. Cotton. (consideration: CR H5517-5520, H5549-5550; text: CR H5517)
+- 2014-06-19 — Amendment (A040) offered by Mr. Runyan. (consideration: CR H5520-5521; text: CR H5520)
+- 2014-06-19 — Amendment (A041) offered by Mr. Moran. (consideration: CR H5521-5522, H5550; text: CR H5521)
+- 2014-06-19 — Amendment (A042) offered by Ms. Lee (CA). (consideration: CR H5522-5523, H5551-5552; text: CR H5522)
+- 2014-06-19 — Amendment (A043) offered by Mr. Walberg. (consideration: CR H5523-5524; text: CR H5523)
+- 2014-06-19 — Amendment (A044) offered by Ms. DeLauro. (consideration: CR H5524-5525; text: CR H5524)
+- 2014-06-19 — Amendment (A045) offered by Mr. Fleming. (consideration: CR H5525-5526; text: CR H5525)
+- 2014-06-19 — Amendment (A046) offered by Ms. Lee (CA). (consideration: CR H5526-5527; text: CR H5526)
+- 2014-06-19 — Amendment (A047) offered by Mr. Flores. (consideration: CR H5527-5528; text: CR H5527)
+- 2014-06-19 — Amendment (A048) offered by Mr. Conyers. (consideration: CR H5528; text: CR H5528)
+- 2014-06-19 — Amendment (A049) offered by Mr. McKinley. (consideration: CR H5528-5529; text: CR H5528)
+- 2014-06-19 — Amendment (A050) offered by Ms. Hanabusa. (consideration: CR H5529; text: CR H5529)
+- 2014-06-19 — Amendment (A051) offered by Mr. Fortenberry. (consideration: CR H5529-5531, H5552-5553; text: CR H5529)
+- 2014-06-19 — Amendment (A052) offered by Mr. Grayson. (consideration: CR H5531-5532, H5553-5554; text: CR H5531)
+- 2014-06-19 — Amendment (A053) offered by Mr. Nugent. (consideration: CR H5532-5533; text: CR H5532)
+- 2014-06-19 — Amendment (A054) offered by Ms. Speier. (consideration: CR H5533; text: CR H5533)
+- 2014-06-19 — Amendment (A055) offered by Mr. Gosar. (consideration: CR H5533-5534; text: CR H5533)
+- 2014-06-19 — Amendment (A056) offered by Ms. Lee (CA). (consideration: CR H5534-5535, H5554; text: CR H5534)
+- 2014-06-19 — Amendment (A057) offered by Mr. Rogers (AL). (consideration: CR H5535; text: CR H5535)
+- 2014-06-19 — Amendment (A058) offered by Mr. Murphy (FL). (consideration: CR H5535-5536; text: CR H5535-5536)
+- 2014-06-19 — Amendment (A059) offered by Mr. Gosar. (consideration: CR H5536-5537; text: CR H5536)
+- 2014-06-19 — Amendment (A060) offered by Mr. Ellison. (consideration: CR H5554-5555, H5537; text: CR H5537)
+- 2014-06-19 — Amendment (A061) offered by Mr. Forbes. (consideration: CR H5537-5538; text: CR H5537)
+- 2014-06-19 — Amendment (A062) offered by Ms. Lee (CA). (consideration: CR H5538-5539; text: CR H5538)
+- 2014-06-19 — Amendment (A063) offered by Mr. McClintock. (consideration: CR H5539-5540; text: CR H5539)
+- 2014-06-19 — Amendment (A064) offered by Mr. Grayson. (consideration: CR H5540-5541; text: CR H5540)
+- 2014-06-19 — Amendment (A065) offered by Mr. Wittman. (consideration: CR H5541-5542; text: CR H5541)
+- 2014-06-19 — Amendment (A066) offered by Ms. Jackson Lee. (consideration: CR H5542-5543; text: CR H5542)
+- 2014-06-19 — Amendment (A067) offered by Mr. King (IA). (consideration: CR H5543; text: CR H5543)
+- 2014-06-19 — Amendment (A068) offered by Mr. Grayson. (consideration: CR H5543-5544; text: CR H5543)
+- 2014-06-19 — Amendment (A069) offered by Mr. Massie. (consideration: CR H5544-5547, H5552; text: CR H5544)
+- 2014-06-19 — Amendment (A070) offered by Mr. Barrow (GA). (consideration: CR H5547; text: CR H5547)
+- 2014-06-19 — Amendment (A071) offered by Mr. Conaway. (consideration: CR H5547-5548; text: CR H5547)
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment agreed to Committee of the Whole
+- 2014-06-19 — Amendment failed in Committee of the Whole
+- 2014-06-19 — Amendment failed in Committee of the Whole
+- 2014-06-19 — Amendment failed in Committee of the Whole
+- 2014-06-19 — Amendment failed in Committee of the Whole
+- 2014-06-19 — Amendment failed in Committee of the Whole
+- 2014-06-19 — Amendment failed in Committee of the Whole
+- 2014-06-19 — Amendment failed in Committee of the Whole
+- 2014-06-19 — Amendment failed in Committee of the Whole
+- 2014-06-19 — Amendment failed in Committee of the Whole
+- 2014-06-19 — Amendment failed in Committee of the Whole
+- 2014-06-19 — Committee of the Whole House on the state of the Union rises leaving H.R. 4870 as unfinished business.
+- 2014-06-19 — Considered as unfinished business. (consideration: CR H5514-5555)
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Barrow amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Conaway amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Conyers amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Cotton amendment No. 2.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the DeLauro amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Fleming amendment No. 14.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Flores amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Forbes amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Fortenberry amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Hanabusa amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Lee (CA) amendment No. 33.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Lee (CA) amendment No. 34.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Lee amendment No. 31, pending reservation of a point of order. The point of order was subsequently withdrawn.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Lee amendment No. 32.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Massie amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Moran amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy (FL) amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Nugent amendment No. 27.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Rogers (AL) amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Runyan amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Speier amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Walberg amendment.
+- 2014-06-19 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Wittman amendment.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Barrow (GA) amendment (A070) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Conaway amendment (A071) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Conyers amendment (A048) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Cotton amendment (A039) Agreed to by recorded vote: 230 - 184 (Roll no. 323).
+- 2014-06-19 — House amendment agreed to: On agreeing to the DeLauro amendment (A044) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Ellison amendment (A060) Agreed to by recorded vote: 212 - 204 (Roll no. 331).
+- 2014-06-19 — House amendment agreed to: On agreeing to the Fleming amendment (A045) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Flores amendment (A047) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Forbes amendment (A061) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Gosar amendment (A055) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Gosar amendment (A059) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Grayson amendment (A064) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Hanabusa amendment (A050) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A066) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the King (IA) amendment (A067) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Massie amendment (A069) Agreed to by recorded vote: 293 - 123, 1 Present (Roll no. 327).
+- 2014-06-19 — House amendment agreed to: On agreeing to the McClintock amendment (A063) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the McKinley amendment (A049) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Miller (MI) amendment (A037) Agreed to by recorded vote: 300 - 114 (Roll no. 322).(consideration: CR H5548-5549)
+- 2014-06-19 — House amendment agreed to: On agreeing to the Murphy (FL) amendment (A058) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Nugent amendment (A053) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A057) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Runyan amendment (A040) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Speier amendment (A054) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Walberg amendment (A043) Agreed to by voice vote.
+- 2014-06-19 — House amendment agreed to: On agreeing to the Walorski amendment (A035) Agreed to by recorded vote: 238 - 179 (Roll no. 321).(consideration: CR H5516-5517)
+- 2014-06-19 — House amendment agreed to: On agreeing to the Wittman amendment (A065) Agreed to by voice vote.
+- 2014-06-19 — House amendment not agreed to: On agreeing to the Blumenauer amendment (A019) Failed by recorded vote: 179 - 242 (Roll no. 319).(consideration: CR H5515)
+- 2014-06-19 — House amendment not agreed to: On agreeing to the Blumenauer amendment (A019) Failed by recorded vote: 179 - 242 (Roll no. 319).(consideration: CR H5515)
+- 2014-06-19 — House amendment not agreed to: On agreeing to the Fortenberry amendment (A051) Failed by recorded vote: 167 - 244 (Roll no. 328).
+- 2014-06-19 — House amendment not agreed to: On agreeing to the Gohmert amendment (A012) Failed by recorded vote: 130 - 292 (Roll no. 318).(consideration: CR H5514-5515)
+- 2014-06-19 — House amendment not agreed to: On agreeing to the Grayson amendment (A052) Failed by recorded vote: 62 - 355 (Roll no. 329).
+- 2014-06-19 — House amendment not agreed to: On agreeing to the Grayson amendment (A068) Failed by voice vote.
+- 2014-06-19 — House amendment not agreed to: On agreeing to the Lee (CA) amendment (A042) Failed by recorded vote: 165 - 250 (Roll no. 325).
+- 2014-06-19 — House amendment not agreed to: On agreeing to the Lee (CA) amendment (A046) Failed by recorded vote: 182 - 231 (Roll no. 326).
+- 2014-06-19 — House amendment not agreed to: On agreeing to the Lee (CA) amendment (A056) Failed by recorded vote: 157 - 260 (Roll no. 330).
+- 2014-06-19 — House amendment not agreed to: On agreeing to the Moran amendment (A041) Failed by recorded vote: 163 - 249 (Roll no. 324).
+- 2014-06-19 — House amendment not agreed to: On agreeing to the Nadler amendment (A030) Failed by recorded vote: 187 - 233 (Roll no. 320).(consideration: CR H5515-5516)
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered
+- 2014-06-19 — House amendment offered/reported by: Amendment (A039) offered by Mr. Cotton.(consideration: CR H5517-5520, H5549-5550; text: CR H5517)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A040) offered by Mr. Runyan.(consideration: CR H5520-5521; text: CR H5520)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A041) offered by Mr. Moran.(consideration: CR H5521-5522, H5550; text: CR H5521)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A041) offered by Mr. Moran.(consideration: CR H5521-5522, H5550; text: CR H5521)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A042) offered by Ms. Lee (CA).(consideration: CR H5522-5523, H5551-5552; text: CR H5522)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A043) offered by Mr. Walberg.(consideration: CR H5523-5524; text: CR H5523)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A044) offered by Ms. DeLauro.(consideration: CR H5524-5525; text: CR H5524)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A045) offered by Mr. Fleming.(consideration: CR H5525-5526; text: CR H5525)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A046) offered by Ms. Lee (CA).(consideration: CR H5526-5527; text: CR H5526)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A047) offered by Mr. Flores.(consideration: CR H5527-5528; text: CR H5527)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A048) offered by Mr. Conyers.(consideration: CR H5528; text: CR H5528)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A049) offered by Mr. McKinley.(consideration: CR H5528-5529; text: CR H5528)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A050) offered by Ms. Hanabusa.(consideration: CR H5529; text: CR H5529)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A051) offered by Mr. Fortenberry.(consideration: CR H5529-5531, H5552-5553; text: CR H5529)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A052) offered by Mr. Grayson.(consideration: CR H5531-5532, H5553-5554; text: CR H5531)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A053) offered by Mr. Nugent.(consideration: CR H5532-5533; text: CR H5532)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A054) offered by Ms. Speier.(consideration: CR H5533; text: CR H5533)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A055) offered by Mr. Gosar.(consideration: CR H5533-5534; text: CR H5533)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A056) offered by Ms. Lee (CA).(consideration: CR H5534-5535, H5554; text: CR H5534)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A057) offered by Mr. Rogers (AL).(consideration: CR H5535; text: CR H5535)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A058) offered by Mr. Murphy (FL).(consideration: CR H5535-5536; text: CR H5535-5536)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A059) offered by Mr. Gosar.(consideration: CR H5536-5537; text: CR H5536)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A060) offered by Mr. Ellison.(consideration: CR H5554-5555, H5537; text: CR H5537)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A061) offered by Mr. Forbes.(consideration: CR H5537-5538; text: CR H5537)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A062) offered by Ms. Lee (CA).(consideration: CR H5538-5539; text: CR H5538)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A063) offered by Mr. McClintock.(consideration: CR H5539-5540; text: CR H5539)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A064) offered by Mr. Grayson.(consideration: CR H5540-5541; text: CR H5540)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A065) offered by Mr. Wittman.(consideration: CR H5541-5542; text: CR H5541)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A066) offered by Ms. Jackson Lee.(consideration: CR H5542-5543; text: CR H5542)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A067) offered by Mr. King (IA).(consideration: CR H5543; text: CR H5543)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A068) offered by Mr. Grayson.(consideration: CR H5543-5544; text: CR H5543)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A069) offered by Mr. Massie.(consideration: CR H5544-5547, H5552; text: CR H5544)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A070) offered by Mr. Barrow (GA).(consideration: CR H5547; text: CR H5547)
+- 2014-06-19 — House amendment offered/reported by: Amendment (A071) offered by Mr. Conaway.(consideration: CR H5547-5548; text: CR H5547)
+- 2014-06-19 — Mr. Frelinghuysen moved that the committee rise.
+- 2014-06-19 — On agreeing to the Barrow (GA) amendment (A070) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the Blumenauer amendment (A019) Failed by recorded vote: 179 - 242 (Roll no. 319). (consideration: CR H5515)
+- 2014-06-19 — On agreeing to the Conaway amendment (A071) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the Conyers amendment (A048) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the Cotton amendment (A039) Agreed to by recorded vote: 230 - 184 (Roll no. 323).
+- 2014-06-19 — On agreeing to the DeLauro amendment (A044) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the Ellison amendment (A060) Agreed to by recorded vote: 212 - 204 (Roll no. 331).
+- 2014-06-19 — On agreeing to the Fleming amendment (A045) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the Flores amendment (A047) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the Forbes amendment (A061) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the Fortenberry amendment (A051) Failed by recorded vote: 167 - 244 (Roll no. 328).
+- 2014-06-19 — On agreeing to the Gohmert amendment (A012) Failed by recorded vote: 130 - 292 (Roll no. 318). (consideration: CR H5514-5515)
+- 2014-06-19 — On agreeing to the Gosar amendment (A055) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the Gosar amendment (A059) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the Grayson amendment (A052) Failed by recorded vote: 62 - 355 (Roll no. 329).
+- 2014-06-19 — On agreeing to the Grayson amendment (A064) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the Grayson amendment (A068) Failed by voice vote.
+- 2014-06-19 — On agreeing to the Hanabusa amendment (A050) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the Jackson Lee amendment (A066) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the King (IA) amendment (A067) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the Lee (CA) amendment (A042) Failed by recorded vote: 165 - 250 (Roll no. 325).
+- 2014-06-19 — On agreeing to the Lee (CA) amendment (A046) Failed by recorded vote: 182 - 231 (Roll no. 326).
+- 2014-06-19 — On agreeing to the Lee (CA) amendment (A056) Failed by recorded vote: 157 - 260 (Roll no. 330).
+- 2014-06-19 — On agreeing to the Massie amendment (A069) Agreed to by recorded vote: 293 - 123, 1 Present (Roll no. 327).
+- 2014-06-19 — On agreeing to the McClintock amendment (A063) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the McKinley amendment (A049) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the Miller (MI) amendment (A037) Agreed to by recorded vote: 300 - 114 (Roll no. 322). (consideration: CR H5548-5549)
+- 2014-06-19 — On agreeing to the Moran amendment (A041) Failed by recorded vote: 163 - 249 (Roll no. 324).
+- 2014-06-19 — On agreeing to the Murphy (FL) amendment (A058) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the Nadler amendment (A030) Failed by recorded vote: 187 - 233 (Roll no. 320). (consideration: CR H5515-5516)
+- 2014-06-19 — On agreeing to the Nugent amendment (A053) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the Rogers (AL) amendment (A057) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the Runyan amendment (A040) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the Speier amendment (A054) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the Walberg amendment (A043) Agreed to by voice vote.
+- 2014-06-19 — On agreeing to the Walorski amendment (A035) Agreed to by recorded vote: 238 - 179 (Roll no. 321). (consideration: CR H5516-5517)
+- 2014-06-19 — On agreeing to the Wittman amendment (A065) Agreed to by voice vote.
+- 2014-06-19 — On motion that the committee rise Agreed to by voice vote.
+- 2014-06-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cotton amendment, the Chair put the question on agreeing to the amendment, and by voice vote, announced the ayes had prevailed. Mr. Visclosky demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2014-06-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Ellison demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2014-06-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Fortenberry amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Fortenberry demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2014-06-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grayson amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Grayson demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2014-06-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee (CA) amendment No. 33, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Lee (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2014-06-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee (CA) amendment No. 34, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Lee (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2014-06-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee amendment No. 32, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2014-06-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee amendment, the Chair put the question on agreeing to the amendment, and by voice vote, announced the noes had prevailed. Ms. Lee demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2014-06-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Massie amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Lofgren demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2014-06-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moran amendment, the Chair put the question on agreeing to the amendment, and by voice vote, announced the noes had prevailed. Mr. Visclosky demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2014-06-19 — Roll call votes on amendments in House
+- 2014-06-19 — Roll call votes on amendments in House
+- 2014-06-19 — Roll call votes on amendments in House
+- 2014-06-19 — Roll call votes on amendments in House
+- 2014-06-19 — Roll call votes on amendments in House
+- 2014-06-19 — Roll call votes on amendments in House
+- 2014-06-19 — Roll call votes on amendments in House
+- 2014-06-19 — Roll call votes on amendments in House
+- 2014-06-19 — Roll call votes on amendments in House
+- 2014-06-19 — Roll call votes on amendments in House
+- 2014-06-19 — Roll call votes on amendments in House
+- 2014-06-19 — Roll call votes on amendments in House
+- 2014-06-19 — Roll call votes on amendments in House
+- 2014-06-19 — Roll call votes on amendments in House
+- 2014-06-19 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2014-06-19 — UNFINISHED BUSINESS - The Chair announced that, pursuant to clause 6 of Rule XVIII, the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2014-06-20 — Amendment (A072) offered by Mr. Rohrabacher. (consideration: CR H5564-5565, H5572; text: CR H5564)
+- 2014-06-20 — Amendment (A073) offered by Mr. Stockman. (consideration: CR H5565; text: CR H5565)
+- 2014-06-20 — Amendment (A074) offered by Mr. Stockman. (consideration: CR H5565; text: CR H5565)
+- 2014-06-20 — Amendment (A075) offered by Mr. Stockman. (consideration: CR H5565-5566; text: CR H5565-5566)
+- 2014-06-20 — Amendment (A076) offered by Mr. Gosar. (consideration: CR H5566-5567, H5572-5573; text: CR H5566)
+- 2014-06-20 — Amendment (A077) offered by Mr. Kildee. (consideration: CR H5567; text: CR H5567)
+- 2014-06-20 — Amendment (A078) offered by Mr. Gosar. (consideration: CR H5568-5569, H5573-5574; text: CR H5568)
+- 2014-06-20 — Amendment (A079) offered by Mr. Franks (AZ). (consideration: CR H5569-5570, H5574; text: CR H5569)
+- 2014-06-20 — Amendment (A080) offered by Mr. Huizenga (MI). (consideration: CR H5570-5571; text: CR H5570)
+- 2014-06-20 — Amendment agreed to Committee of the Whole
+- 2014-06-20 — Amendment agreed to Committee of the Whole
+- 2014-06-20 — Amendment agreed to Committee of the Whole
+- 2014-06-20 — Amendment failed in Committee of the Whole
+- 2014-06-20 — Amendment failed in Committee of the Whole
+- 2014-06-20 — Amendment failed in Committee of the Whole
+- 2014-06-20 — Amendment failed in Committee of the Whole
+- 2014-06-20 — Committee of the Whole House on the state of the Union rises leaving H.R. 4870 as unfinished business.
+- 2014-06-20 — Considered as unfinished business. (consideration: CR H5563-5571)
+- 2014-06-20 — Considered as unfinished business. (consideration: CR H5571-5577)
+- 2014-06-20 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the First Gosar amendment.
+- 2014-06-20 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Franks (AZ) amendment.
+- 2014-06-20 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Huizenga amendment.
+- 2014-06-20 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Kildee amendment No. 40.
+- 2014-06-20 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Rohrabacher amendment.
+- 2014-06-20 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Second Gosar amendment.
+- 2014-06-20 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Stockman amendment, pending reservation of a point of order.
+- 2014-06-20 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Stockman amendment, pending reservation of a point of order.
+- 2014-06-20 — DEBATE - Pursuant to the provisions of H. Res. 628, the Committee of the Whole proceeded with 10 minutes of debate on the Stockman amendment, pending reservation of a point of order.
+- 2014-06-20 — DEBATE - The House proceeded with 10 minutes of debate on the Bustos motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to increase the Operations and Maintenance, Defense-Wide account by a total of $5 million (intended for sexual assault prevention); increase the Defense Health Program by a total of $10 million ($5 million intended to help alleviate the backlog at the department of Veterans Affairs by improving the electronic health records processing system and $5 million intended for treatment for Post-Traumatic Stress Disorder (PTSD) and traumatic brain injuries); and decrease the Research, Development, Test and Evaluation account by $15 million.
+- 2014-06-20 — House amendment agreed to: On agreeing to the Gosar amendment (A078) Agreed to by recorded vote: 280 - 133 (Roll no. 335).
+- 2014-06-20 — House amendment agreed to: On agreeing to the Huizenga (MI) amendment (A080) Agreed to by voice vote.
+- 2014-06-20 — House amendment agreed to: On agreeing to the Kildee amendment (A077) Agreed to by voice vote.
+- 2014-06-20 — House amendment not agreed to: On agreeing to the Franks (AZ) amendment (A079) Failed by recorded vote: 163 - 248 (Roll no. 336).
+- 2014-06-20 — House amendment not agreed to: On agreeing to the Gosar amendment (A076) Failed by recorded vote: 205 - 208 (Roll no. 334).
+- 2014-06-20 — House amendment not agreed to: On agreeing to the Lee (CA) amendment (A062) Failed by recorded vote: 153 - 260 (Roll no. 332).(consideration: CR H5571-5572)
+- 2014-06-20 — House amendment not agreed to: On agreeing to the Rohrabacher amendment (A072) Failed by recorded vote: 92 - 320 (Roll no. 333).
+- 2014-06-20 — House amendment offered
+- 2014-06-20 — House amendment offered
+- 2014-06-20 — House amendment offered
+- 2014-06-20 — House amendment offered
+- 2014-06-20 — House amendment offered
+- 2014-06-20 — House amendment offered
+- 2014-06-20 — House amendment offered
+- 2014-06-20 — House amendment offered
+- 2014-06-20 — House amendment offered
+- 2014-06-20 — House amendment offered/reported by: Amendment (A072) offered by Mr. Rohrabacher.(consideration: CR H5564-5565, H5572; text: CR H5564)
+- 2014-06-20 — House amendment offered/reported by: Amendment (A073) offered by Mr. Stockman.(consideration: CR H5565; text: CR H5565)
+- 2014-06-20 — House amendment offered/reported by: Amendment (A074) offered by Mr. Stockman.(consideration: CR H5565; text: CR H5565)
+- 2014-06-20 — House amendment offered/reported by: Amendment (A075) offered by Mr. Stockman.(consideration: CR H5565-5566; text: CR H5565-5566)
+- 2014-06-20 — House amendment offered/reported by: Amendment (A076) offered by Mr. Gosar.(consideration: CR H5566-5567, H5572-5573; text: CR H5566)
+- 2014-06-20 — House amendment offered/reported by: Amendment (A077) offered by Mr. Kildee.(consideration: CR H5567; text: CR H5567)
+- 2014-06-20 — House amendment offered/reported by: Amendment (A078) offered by Mr. Gosar.(consideration: CR H5568-5569, H5573-5574; text: CR H5568)
+- 2014-06-20 — House amendment offered/reported by: Amendment (A079) offered by Mr. Franks (AZ).(consideration: CR H5569-5570, H5574; text: CR H5569)
+- 2014-06-20 — House amendment offered/reported by: Amendment (A080) offered by Mr. Huizenga (MI).(consideration: CR H5570-5571; text: CR H5570)
+- 2014-06-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-06-20 — Mr. Frelinghuysen moved for the Committee of the Whole to rise and report.
+- 2014-06-20 — Mr. Frelinghuysen moved to rise.
+- 2014-06-20 — Mr. Frelinghuysen raised a point of order against the Stockman amendment (A073). Mr. Frelinghuysen stated that the provisions of the Stockman amendment sought to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order.
+- 2014-06-20 — Mr. Frelinghuysen raised a point of order against the Stockman amendment (A074). Mr. Frelinghuysen stated that the provisions of the Stockman amendment sought to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order.
+- 2014-06-20 — Mr. Frelinghuysen raised a point of order against the Stockman amendment (A075). Mr. Frelinghuysen stated that the provisions of the Stockman amendment sought to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order.
+- 2014-06-20 — Mrs. Bustos moved to recommit with instructions to the Committee on Appropriations. (consideration: CR H5575; text: CR H5575)
+- 2014-06-20 — On agreeing to the Franks (AZ) amendment (A079) Failed by recorded vote: 163 - 248 (Roll no. 336).
+- 2014-06-20 — On agreeing to the Gosar amendment (A076) Failed by recorded vote: 205 - 208 (Roll no. 334).
+- 2014-06-20 — On agreeing to the Gosar amendment (A078) Agreed to by recorded vote: 280 - 133 (Roll no. 335).
+- 2014-06-20 — On agreeing to the Huizenga (MI) amendment (A080) Agreed to by voice vote.
+- 2014-06-20 — On agreeing to the Kildee amendment (A077) Agreed to by voice vote.
+- 2014-06-20 — On agreeing to the Lee (CA) amendment (A062) Failed by recorded vote: 153 - 260 (Roll no. 332). (consideration: CR H5571-5572)
+- 2014-06-20 — On agreeing to the Rohrabacher amendment (A072) Failed by recorded vote: 92 - 320 (Roll no. 333).
+- 2014-06-20 — On motion to recommit with instructions Failed by recorded vote: 190 - 220 (Roll no. 337). (consideration: CR H5575-5576)
+- 2014-06-20 — On motion to rise Agreed to by voice vote.
+- 2014-06-20 — On motion to rise and report Agreed to by voice vote.
+- 2014-06-20 — On passage Passed by the Yeas and Nays: 340 - 73 (Roll no. 338).
+- 2014-06-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Franks (AZ) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Franks (AZ) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2014-06-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Visclosky demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2014-06-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Gosar demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2014-06-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rohrabacher amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Rohrabacher demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2014-06-20 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 340 - 73 (Roll no. 338).
+- 2014-06-20 — Roll call votes on amendments in House
+- 2014-06-20 — Roll call votes on amendments in House
+- 2014-06-20 — Roll call votes on amendments in House
+- 2014-06-20 — Roll call votes on amendments in House
+- 2014-06-20 — Roll call votes on amendments in House
+- 2014-06-20 — Roll call votes on amendments in House
+- 2014-06-20 — The House adopted the amendment as agreed to by the Committee of the Whole House on the state of the Union.
+- 2014-06-20 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2014-06-20 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2014-06-20 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4870.
+- 2014-06-20 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5575)
+- 2014-06-20 — The previous question was ordered pursuant to the rule. (consideration: CR H5575)
