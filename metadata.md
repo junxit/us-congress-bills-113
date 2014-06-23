@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4002
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4002
@@ -38,3 +38,8 @@ To revoke the charter of incorporation of the Miami Tribe of Oklahoma at the req
 - 2014-04-28 — Placed on the Union Calendar, Calendar No. 310.
 - 2014-04-28 — Reported by the Committee on Natural Resources. H. Rept. 113-420.
 - 2014-04-28 — Reported by the Committee on Natural Resources. H. Rept. 113-420.
+- 2014-06-23 — Considered under suspension of the rules. (consideration: CR H5608-5609)
+- 2014-06-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4002.
+- 2014-06-23 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
+- 2014-06-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5608)
+- 2014-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5608)
