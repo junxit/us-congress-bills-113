@@ -20,9 +20,10 @@ National Aeronautics and Space Administration Authorization Act of 2014
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,10 @@ National Aeronautics and Space Administration Authorization Act of 2014
 - 2014-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 272). (text: CR H5108-5123)
 - 2014-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 272).(text: CR H5108-5123)
 - 2014-06-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2014-06-17 — House requested return of papers pursuant to H.Res. 627
+- 2014-06-19 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S3884)
+- 2014-06-19 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S3884)
+- 2014-06-19 — Senate returned papers to House by Unanimous Consent.
+- 2014-06-20 — Message on Senate action sent to the House.
+- 2014-06-20 — Mr. Palazzo asked unanimous consent that the Clerk be authorized to engross the bill, H.R. 4412, in the form placed at the desk. Agreed to without objection. (consideration: CR H5577-5591; text as passed House: CR H5577-5591)
+- 2014-06-23 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
