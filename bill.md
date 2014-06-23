@@ -19,21 +19,30 @@ Section 108(a) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note)
 
 ## § 3. Federal share
 
-Section 103(e)(1)(A) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by inserting “and beginning in the calendar year that follows the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2014 shall decrease by 1 percent per calendar year until equal to 80 percent” after “85 percent”.
+Section 103(e)(1)(A) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by inserting “and beginning in the calendar year that follows the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2014on January 1, 2016, shall decrease by 1 percent1 percentage point per calendar year until equal to 80 percent” after “85 percent”.
 
 ## § 4. Recoupment of Federal share of compensation under the program
 
 Section 103(e) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended—
 
-- **(1)** in paragraph (6), in the matter preceding subparagraph (A), by striking “shall be” and all that follows through subparagraph (E) and inserting “shall be $27,500,000,000 and beginning in the calendar year that follows the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2014 shall increase by $2,000,000,000 per calendar year until equal to $37,500,000,000.”; and
+- **(1)** in paragraph (6), in the matter preceding subparagraph (A), by striking “shall be” and all that follows through subparagraph (E) and inserting “shall be $27,500,000,000 and beginning in the calendar year that follows the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2014 shall increase by $2,000,000,000 per calendar year until equal to $37,500,000,000.”; and “shall be the lesser of—
+  > - **(A)** $27,500,000,000, as such amount is adjusted pursuant to this paragraph; and
+  > - **(B)** the aggregate amount, for all insurers, of insured losses during such calendar year,
+
 - **(2)** in paragraph (7)—
   - **(A)** in subparagraph (A)—
-    - **(i)** in the matter preceding clause (i), by striking “for each of the periods referred to in subparagraphs (A) through (E) of paragraph 6”; and
+    - **(i)** in the matter preceding clause (i), by striking “for each of the periods referred to in subparagraphs (A) through (E) of paragraph 6(6)”; and
     - **(ii)** in clause (i), by striking “for such period”;
   - **(B)** in subparagraph (B)—
     - **(i)** by striking “for any period referred to in any of subparagraphs (A) through (E) of paragraph (6)”; and
     - **(ii)** by striking “for such period”;
+  - **(B)** by striking subparagraph (B) and inserting the following:
+    > - **(B)** [Reserved.]
+
   - **(C)** in subparagraph (C), by striking “occurring during any of the periods referred to in any of subparagraphs (A) through (E) of paragraph (6)”; and
+  - **(C)** in subparagraph (C)—
+    - **(i)** by striking “occurring during any of the periods referred to in any of subparagraphs (A) through (E) of paragraph (6), terrorism loss risk-spreading premiums in an amount equal to 133 percent” and inserting “, terrorism loss risk-spreading premiums in an amount equal to 135.5 percent”; and
+    - **(ii)** by inserting “as calculated under subparagraph (A)” after “mandatory recoupment amount”; and
   - **(D)** in subparagraph (E)(i)—
     - **(i)** in subclause (I)—
       - **(I)** by striking “2010” and inserting “2017”; and
@@ -51,7 +60,15 @@ Section 103(e) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note)
 The Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended—
 
 - **(1)** in section 102—
-  - **(A)** in paragraph (7)—
+  - **(A)** in paragraph (3)—
+    - **(i)** by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively;
+    - **(ii)** in the matter preceding clause (i) (as so redesignated), by striking “An entity has” and inserting the following:
+      > - **(A)** *In general* An entity has
+
+    - **(iii)** by adding at the end the following new subparagraph:
+      > - **(B)** *Rule of construction* An entity, including any affiliate thereof, does not have “control” over another entity, if, as of the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2014, the entity is acting as an attorney-in-fact, as defined by the Secretary, for the other entity and such other entity is a reciprocal insurer, provided that the entity is not, for reasons other than the attorney-in-fact relationship, defined as having “control” under subparagraph (A).
+
+  - **(AB)** in paragraph (7)—
     - **(i)** by striking subparagraphs (A) through (F) and inserting the following:
       > - **(A)** the value of an insurer's direct earned premiums during the immediately preceding calendar year, multiplied by 20 percent; and
 
@@ -59,8 +76,8 @@ The Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended—
     - **(iii)** in subparagraph (B), as so redesignated by clause (ii)—
       - **(I)** by striking “notwithstanding subparagraphs (A) through (F), for the Transition Period or any Program Year” and inserting “notwithstanding subparagraph (A), for any calendar year”; and
       - **(II)** by striking “Period or Program Year” and inserting “calendar year”;
-  - **(B)** by striking paragraph (11); and
-  - **(C)** by redesignating paragraphs (12) through (16) as paragraphs (11) through (15), respectively; and
+  - **(BC)** by striking paragraph (11); and
+  - **(CD)** by redesignating paragraphs (12) through (16) as paragraphs (11) through (15), respectively; and
 - **(2)** in section 103—
   - **(A)** in subsection (c), by striking “Program Year” and inserting “calendar year”;
   - **(B)** in subsection (e)—
@@ -76,3 +93,36 @@ The Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended—
     - **(i)** by striking “the Transition Period or a Program Year” each place that term appears and inserting “the calendar year”;
     - **(ii)** by striking “such period” and inserting “the calendar year”; and
     - **(iii)** by striking “that period” and inserting “the calendar year”.
+
+## § 6. Improving the certification process
+
+- **(a)** *Definitions* As used in this section—
+  - **(1)** the term “act of terrorism” has the same meaning as in section 102(1) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note);
+  - **(2)** the term “certification process” means the process by which the Secretary determines whether to certify an act as an act of terrorism under section 102(1) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note); and
+  - **(3)** the term “Secretary” means the Secretary of the Treasury.
+- **(b)** *Study* Not later than 9 months after the date of enactment of this Act, the Secretary shall conduct and complete a study on the certification process.
+- **(c)** *Required content* The study required under subsection (a) shall include an examination and analysis of—
+  - **(1)** the establishment of a reasonable timeline by which the Secretary must make an accurate determination on whether to certify an act as an act of terrorism;
+  - **(2)** the impact that the length of any timeline proposed to be established under paragraph (1) may have on the insurance industry, policyholders, consumers, and taxpayers as a whole;
+  - **(3)** the factors the Secretary would evaluate and monitor during the certification process, including the ability of the Secretary to obtain the required information regarding the amount of projected and incurred losses resulting from an act which the Secretary would need in determining whether to certify the act as an act of terrorism;
+  - **(4)** the appropriateness, efficiency, and effectiveness of the consultation process required under section 102(1)(A) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) and any recommendations on changes to the consultation process; and
+  - **(5)** the ability of the Secretary to provide guidance and updates to the public regarding any act that may reasonably be certified as an act of terrorism.
+- **(d)** *Report* Upon completion of the study required under subsection (a), the Secretary shall submit a report on the results of such study to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+- **(e)** *Rulemaking* Section 102(1) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended—
+  - **(1)** by redesignating subparagraph (D) as subparagraph (E); and
+  - **(2)** by inserting after subparagraph (C) the following:
+    > - **(D)** *Timing of certification* Not later than 9 months after the report required under section 6 of the Terrorism Risk Insurance Program Reauthorization Act of 2014 is submitted to the appropriate committees of Congress, the Secretary shall issue final rules governing the certification process, including any timeline applicable to any certification by the Secretary on whether an act is an act of terrorism under this paragraph.
+
+## § 7. GAO study on upfront premiums
+
+- **(a)** *Study* Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall complete a study on the viability and effects of the Federal Government assessing and collecting upfront premiums on insurers that participate in the Terrorism Insurance Program established under the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) (hereafter in this section referred to as the “Program”).
+- **(b)** *Required content* The study required under subsection (a) shall examine, but shall not be limited to, the following issues:
+  - **(1)** How the Federal Government could determine the price of such upfront premiums on insurers that participate in the Program.
+  - **(2)** How the Federal Government could collect and manage such upfront premiums.
+  - **(3)** How the Federal Government could ensure that such upfront premiums are not spent for purposes other than claims through the Program.
+  - **(4)** How the assessment and collection of such upfront premiums could affect take-up rates for terrorism risk coverage in different regions and industries and how it could impact small businesses and consumers in both metropolitan and non-metropolitan areas.
+  - **(5)** The effect of collecting such upfront premiums on insurers both large and small.
+  - **(6)** The effect of collecting such upfront premiums on the private market for terrorism risk reinsurance.
+  - **(7)** The size of any Federal Government subsidy insurers may receive through their participation in the Program, taking into account the Program’s current post-event recoupment structure.
+- **(c)** *Report* Upon completion of the study required under subsection (a), the Comptroller General shall submit a report on the results of such study to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+- **(d)** *Public availability* The study and report required under this section shall be made available to the public in electronic form and shall be published on the website of the Government Accountability Office.
