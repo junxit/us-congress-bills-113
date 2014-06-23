@@ -1,7 +1,7 @@
 ---
 measure: H.R. 412
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 412
@@ -33,3 +33,8 @@ Nashua River Wild and Scenic River Study Act
 - 2013-07-22 — Placed on the Union Calendar, Calendar No. 120.
 - 2013-07-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-166.
 - 2013-07-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-166.
+- 2014-06-23 — Considered under suspension of the rules. (consideration: CR H5609-5610)
+- 2014-06-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 412.
+- 2014-06-23 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
+- 2014-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5609)
+- 2014-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5609)
