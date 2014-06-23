@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4795
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4795
@@ -16,7 +16,7 @@ Promoting New Manufacturing Act
 
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 
-## Cosponsors (11)
+## Cosponsors (13)
 
 - Rep. Kinzinger, Adam [R-IL-16] (K000378)
 - Rep. McKinley, David B. [R-WV-1] (M001180)
@@ -29,6 +29,8 @@ Promoting New Manufacturing Act
 - Rep. Pitts, Joseph R. [R-PA-16] (P000373)
 - Rep. Pompeo, Mike [R-KS-4] (P000602)
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
 
 ## Committees (1)
 
@@ -39,3 +41,10 @@ Promoting New Manufacturing Act
 - 2014-05-30 — Introduced in House
 - 2014-05-30 — Introduced in House
 - 2014-05-30 — Referred to the House Committee on Energy and Commerce.
+- 2014-06-06 — Referred to the Subcommittee on Energy and Power.
+- 2014-06-09 — Committee Consideration and Mark-up Session Held.
+- 2014-06-10 — Committee Consideration and Mark-up Session Held.
+- 2014-06-10 — Ordered to be Reported by the Yeas and Nays: 30 - 19.
+- 2014-06-23 — Placed on the Union Calendar, Calendar No. 363.
+- 2014-06-23 — Reported by the Committee on Energy and Commerce. H. Rept. 113-488.
+- 2014-06-23 — Reported by the Committee on Energy and Commerce. H. Rept. 113-488.
