@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4631
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-28 amendatory instructions. 16 executed, 12 stated and not applied.
+52 amendatory instructions. 23 executed, 29 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 42 U.S.C. § 280i
 
-> in subsection (b)(1), by striking “establishment of regional centers of excellence” and inserting “establishment or support of regional centers of excellence”;
+> by striking “establishment of regional centers of excellence” and inserting “establishment or support of regional centers of excellence”; and
 
 | | |
 |---|---|
@@ -53,7 +53,16 @@ to guess them.
 
 ### 42 U.S.C. § 280i-1
 
-> Section 399CC(g) of the Public Health Service Act (42 U.S.C. 280i–1), as redesignated, is amended by striking “2014” and inserting “2019”.
+> in subsection (f), by striking “grants or contracts” and all that follows through “for individuals with” and inserting “grants or contracts, which may include grants or contracts to research centers or networks, to determine the evidence-based practices for interventions to improve the physical and behavioral health of individuals with”; and
+
+| | |
+|---|---|
+| Removed | `grants or contracts” and all that follows through “for individuals with` |
+| Inserted | `grants or contracts, which may include grants or contracts to research centers or networks, to determine the evidence-based practices for interventions to improve the physical and behavioral health of individuals with` |
+
+### 42 U.S.C. § 280i-1
+
+> in subsection (g), by striking “2014” and inserting “2019”.
 
 | | |
 |---|---|
@@ -62,7 +71,61 @@ to guess them.
 
 ### 42 U.S.C. § 280i-2
 
-> Section 399DD(f) of the Public Health Service Act (42 U.S.C. 280i–2), as redesignated, is amended by striking “2014” and inserting “2019”.
+> by striking “intervention” and inserting “interventions, including school and community-based interventions”;
+
+| | |
+|---|---|
+| Removed | `intervention` |
+| Inserted | `interventions, including school and community-based interventions` |
+
+### 42 U.S.C. § 280i-2
+
+> in the paragraph heading, by striking “Additional” and inserting “Non-Federal”;
+
+| | |
+|---|---|
+| Removed | `Additional` |
+| Inserted | `Non-Federal` |
+
+### 42 U.S.C. § 280i-2
+
+> in the matter preceding subparagraph (A), by striking “Not fewer than 6 members of the Committee, or 1/3 of the total membership of the Committee, whichever is greater” and inserting “Not more than ½, but not fewer than 1/3, of the total membership of the Committee”;
+
+| | |
+|---|---|
+| Removed | `Not fewer than 6 members of the Committee, or 1/3 of the total membership of the Committee, whichever is greater` |
+| Inserted | `Not more than ½, but not fewer than 1/3, of the total membership of the Committee` |
+
+### 42 U.S.C. § 280i-2
+
+> in subparagraph (A), by striking “one such member shall be an individual” and inserting “two such members shall be individuals”;
+
+| | |
+|---|---|
+| Removed | `one such member shall be an individual` |
+| Inserted | `two such members shall be individuals` |
+
+### 42 U.S.C. § 280i-2
+
+> in subparagraph (B), by striking “one such member shall be a parent or legal guardian” and inserting “two such members shall be parents or legal guardians”; and
+
+| | |
+|---|---|
+| Removed | `one such member shall be a parent or legal guardian` |
+| Inserted | `two such members shall be parents or legal guardians` |
+
+### 42 U.S.C. § 280i-2
+
+> in subparagraph (C), by striking “one such member shall be a representative” and inserting “two such members shall be representatives”; and
+
+| | |
+|---|---|
+| Removed | `one such member shall be a representative` |
+| Inserted | `two such members shall be representatives` |
+
+### 42 U.S.C. § 280i-2
+
+> in subsection (f), by striking “2014” and inserting “2019”.
 
 | | |
 |---|---|
@@ -71,61 +134,79 @@ to guess them.
 
 ### 42 U.S.C. § 280i-3
 
-> in subsection (a), by striking “Combating Autism Reauthorization Act of 2011” and inserting “Combating Autism Reauthorization Act of 2014”; and
+> in the section heading, by striking “Report” and inserting “Reports”;
 
 | | |
 |---|---|
-| Removed | `Combating Autism Reauthorization Act of 2011` |
-| Inserted | `Combating Autism Reauthorization Act of 2014` |
+| Removed | `Report` |
+| Inserted | `Reports` |
 
 ### 42 U.S.C. § 280i-3
 
-> in paragraph (1), by striking “provisions of the Combating Autism Act of 2006” and inserting “provisions of this part, section 404H, and section 409C”;
+> by striking “2 years after the date of enactment of the Combating Autism Reauthorization Act of 2011” and inserting “4 years after the date of enactment of the Autism CARES Act of 2014”;
 
 | | |
 |---|---|
-| Removed | `provisions of the Combating Autism Act of 2006` |
-| Inserted | `provisions of this part, section 404H, and section 409C` |
+| Removed | `2 years after the date of enactment of the Combating Autism Reauthorization Act of 2011` |
+| Inserted | `4 years after the date of enactment of the Autism CARES Act of 2014` |
 
 ### 42 U.S.C. § 280i-3
 
-> in paragraph (2), by striking “provisions of Combating Autism Act of 2006” and inserting “provisions of this part, section 404H, and section 409C”;
-
-| | |
-|---|---|
-| Removed | `provisions of Combating Autism Act of 2006` |
-| Inserted | `provisions of this part, section 404H, and section 409C` |
-
-### 42 U.S.C. § 280i-3
-
-> in paragraph (3), by striking “Combating Autism Act of 2006” and inserting “Combating Autism Reauthorization Act of 2011”;
+> in subparagraph (A), (as so redesignated), by striking “Combating Autism Act of 2006” and inserting “Autism CARES Act of 2014”;
 
 | | |
 |---|---|
 | Removed | `Combating Autism Act of 2006` |
-| Inserted | `Combating Autism Reauthorization Act of 2011` |
+| Inserted | `Autism CARES Act of 2014` |
 
 ### 42 U.S.C. § 280i-3
 
-> in paragraphs (4) and (5), by striking “over the 6-year period beginning on” each place it appears and inserting “since”;
+> in subparagraph (B) (as so redesignated), by striking “particular provisions of Combating Autism Act of 2006” and inserting “amendments made by the Autism CARES Act of 2014”;
 
 | | |
 |---|---|
-| Removed | `over the 6-year period beginning on` |
-| Inserted | `since` |
+| Removed | `particular provisions of Combating Autism Act of 2006` |
+| Inserted | `amendments made by the Autism CARES Act of 2014` |
 
-### 42 U.S.C. § 280i-4
+### 42 U.S.C. § 280i-3
 
-> by striking “399AA” and inserting “399BB”; and
+> in subparagraph (D) (as so redesignated), by striking “6-year period beginning on the date of enactment of the Combating Autism Act of 2006” and inserting “4-year period beginning on the date of enactment of the Autism CARES Act of 2014 and, as appropriate, how this age varies across populations subgroups”;
 
 | | |
 |---|---|
-| Removed | `399AA` |
-| Inserted | `399BB` |
+| Removed | `6-year period beginning on the date of enactment of the Combating Autism Act of 2006` |
+| Inserted | `4-year period beginning on the date of enactment of the Autism CARES Act of 2014 and, as appropriate, how this age varies across populations subgroups` |
+
+### 42 U.S.C. § 280i-3
+
+> in subparagraph (E) (as so redesignated), by striking “6-year period beginning on the date of enactment of the Combating Autism Act of 2006” and inserting “4-year period beginning on the date of enactment of the Autism CARES Act of 2014 and, as appropriate, how this age varies across populations subgroups”;
+
+| | |
+|---|---|
+| Removed | `6-year period beginning on the date of enactment of the Combating Autism Act of 2006` |
+| Inserted | `4-year period beginning on the date of enactment of the Autism CARES Act of 2014 and, as appropriate, how this age varies across populations subgroups` |
+
+### 42 U.S.C. § 280i-3
+
+> by striking “including by various subtypes,” and inserting “including by severity level as practicable,”; and
+
+| | |
+|---|---|
+| Removed | `including by various subtypes,` |
+| Inserted | `including by severity level as practicable,` |
+
+### 42 U.S.C. § 280i-3
+
+> by striking “child may” and inserting “child or other factors, such as demographic characteristics, may”; and
+
+| | |
+|---|---|
+| Removed | `child may` |
+| Inserted | `child or other factors, such as demographic characteristics, may` |
 
 ### 42 U.S.C. § 280i-4
 
-> by striking “fiscal years 2012 through 2014” and inserting “fiscal years 2015 through 2019”;
+> in subsection (a), by striking “fiscal years 2012 through 2014” and inserting “fiscal years 2015 through 2019”;
 
 | | |
 |---|---|
@@ -134,16 +215,7 @@ to guess them.
 
 ### 42 U.S.C. § 280i-4
 
-> by striking “399BB” and inserting “399CC”; and
-
-| | |
-|---|---|
-| Removed | `399BB` |
-| Inserted | `399CC` |
-
-### 42 U.S.C. § 280i-4
-
-> by striking “fiscal years 2011 through 2014” and inserting “fiscal years 2015 through 2019”; and
+> in subsection (b), by striking “fiscal years 2011 through 2014” and inserting “fiscal years 2015 through 2019”; and
 
 | | |
 |---|---|
@@ -152,16 +224,7 @@ to guess them.
 
 ### 42 U.S.C. § 280i-4
 
-> by striking “399CC” and inserting “399DD”; and
-
-| | |
-|---|---|
-| Removed | `399CC` |
-| Inserted | `399DD` |
-
-### 42 U.S.C. § 280i-4
-
-> by striking “$161,000,000 for each of fiscal years 2011 through 2014” and inserting “$190,000,000 for each of fiscal years 2015 through 2019”.
+> in subsection (c), by striking “$161,000,000 for each of fiscal years 2011 through 2014” and inserting “$190,000,000 for each of fiscal years 2015 through 2019”.
 
 | | |
 |---|---|
@@ -177,15 +240,32 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 280i` | redesignate | by redesignating sections 399AA through 399EE as sections 399BB through 399FF, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 280i` | redesignate | by inserting before section 399BB, as redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 280i` | insert | in subsection (a), by inserting “for children and adults” after “reporting of State epidemiological data”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 280i-2` | strike | in subparagraph (D), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 280i-2` | redesignate | by redesignating subparagraph (E) as subparagraph (I); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 280i-2` | insert | by inserting after subparagraph (D) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 280i-2` | strike | in paragraph (5), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 280i-2` | redesignate | by redesignating paragraph (6) as paragraph (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 280i-2` | insert | by inserting after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 280i-3` | strike | in paragraph (8), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 280i-3` | replace | in paragraph (9), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 280i-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i` | insert | in subsection (a)(1), by inserting “for children and adults” after “reporting of State epidemiological data”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 280i` | insert | by inserting “for children and adults” before the period at the end; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 280i-1` | insert | in subsection (b)(1), by inserting “culturally competent” after “provide”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 280i-1` | insert | in subsection (c)(2)(A)(ii), by inserting “(which may include respite care for caregivers of individuals with an autism spectrum disorder)” after “services and supports”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 280i-1` | insert | in subsection (e)(1)(B)(v), by inserting before the semicolon the following: “, which may include collaborating with research centers or networks to provide training for providers of respite care (as defined in section 2901)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-2` | strike | by striking “and annually update”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 280i-2` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-2` | redesignate | by redesignating paragraph (1) as paragraph (2), and inserting before such redesignated paragraph the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-2` | strike | in paragraph (3), by striking “recommendations to the Director of NIH”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 280i-2` | insert | in paragraph (4), by inserting before the semicolon the following: “, and the process by which public feedback can be better integrated into such decisions”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-2` | replace | by striking paragraphs (5) and (6) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-2` | replace | by striking the paragraph designation, the heading, and the matter preceding subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-2` | insert | by inserting “, such as the Administration for Community Living, Administration for Children and Families, the Centers for Medicare & Medicaid Services, the Food and Drug Administration, and the Health Resources and Services Administrati… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 280i-2` | add-at-end | by adding at the end “and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-2` | insert | by inserting “and the Department of Defense” after “Department of Education”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 280i-2` | replace | by striking at the end “; and” and inserting a period; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-2` | strike | by striking subparagraph (E); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-2` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-2` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-2` | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-3` | redesignate | in subsection (b), by redesignating paragraphs (1) through (9) as subparagraphs (A) through (I), respectively, and realigning the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-3` | redesignate | by redesignating subsections (a) and (b) as paragraphs (1) and (2), respectively, and realigning the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-3` | insert | by inserting after the section heading the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-3` | insert | by inserting “and the Secretary of Defense” after “the Secretary of Education”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 280i-3` | insert | by inserting “, and make publicly available, including through posting on the Internet Web site of the Department of Health and Human Services,” after “Representatives”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 280i-3` | redesignate | by striking subparagraph (C) (as so redesignated), and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-3` | redesignate | in subparagraph (F) (as so redesignated), by inserting “and, as appropriate, on how such average time varies across populations subgroups” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 280i-3` | redesignate | by striking subparagraph (I) (as so redesignated), and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1414` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
