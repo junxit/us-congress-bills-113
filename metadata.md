@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4092
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4092
@@ -81,3 +81,8 @@ Streamlining Energy Efficiency for Schools Act of 2014
 - 2014-06-19 — Placed on the Union Calendar, Calendar No. 355.
 - 2014-06-19 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-479.
 - 2014-06-19 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-479.
+- 2014-06-23 — Considered under suspension of the rules. (consideration: CR H5604-5605)
+- 2014-06-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4092.
+- 2014-06-23 — Mr. Kinzinger (IL) moved to suspend the rules and pass the bill, as amended.
+- 2014-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5604)
+- 2014-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5604)
