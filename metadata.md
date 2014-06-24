@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4002
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4002
@@ -21,9 +21,10 @@ To revoke the charter of incorporation of the Miami Tribe of Oklahoma at the req
 - Rep. Cole, Tom [R-OK-4] (C001053)
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To revoke the charter of incorporation of the Miami Tribe of Oklahoma at the req
 - 2014-06-23 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
 - 2014-06-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5608)
 - 2014-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5608)
+- 2014-06-24 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
