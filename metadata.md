@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2388
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2388
@@ -43,3 +43,7 @@ To take certain Federal lands located in El Dorado County, California, into trus
 - 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7420)
 - 2013-12-03 — The title of the measure was amended. Agreed to without objection.
 - 2013-12-09 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2014-05-21 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2014-06-24 — Committee on Indian Affairs. Reported by Senator Tester without amendment. With written report No. 113-197.
+- 2014-06-24 — Committee on Indian Affairs. Reported by Senator Tester without amendment. With written report No. 113-197.
+- 2014-06-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 439.
