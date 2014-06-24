@@ -19,7 +19,7 @@ Section 1232(a) of the Public Health Service Act (42 U.S.C. 300d–32(a)) is ame
 
 ## § 3. Improvements and clarifications to certain trauma care programs
 
-- **(a)** *Allocation of funds for competitive grants for regionalized systems for emergency care response* Section 1232(c) of the Public Health Service Act (42 U.S.C. 300d–31(c)) is amended—
+- **(a)** *Allocation of funds for competitive grants for regionalized systems for emergency care response* Section 1232(c) of the Public Health Service Act (42 U.S.C. 300d–32(c)) is amended—
   - **(1)** in paragraph (1), by striking “and” at the end;
   - **(2)** in paragraph (2), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following new paragraph:
@@ -27,7 +27,10 @@ Section 1232(a) of the Public Health Service Act (42 U.S.C. 300d–32(a)) is ame
 
 - **(b)** *Clarifications under trauma systems formula grants requirements relating to the American Burn Association* Section 1213 of the Public Health Service Act (42 U.S.C. 300d–13) is amended—
   - **(1)** in subsection (a)(3), by inserting “and (for a fiscal year after fiscal year 2014) contains national standards and requirements of the American Burn Association for the designation of verified burn centers,” after “such entity,”;
-  - **(2)** in subsection (b)(3)(A), by striking “and the American Academy of Pediatrics,” and inserting “the American Academy of Pediatrics, and (for a fiscal year after fiscal year 2014) the American Burn Association”; and
+  - **(2)** in subsection (b)(3)(A), by striking “and the American Academy of Pediatrics,” and inserting “the American Academy of Pediatrics, and (for a fiscal year after fiscal year 2014) the American Burn Association,”; and
   - **(3)** in subsection (c)(1)—
     - **(A)** in the matter preceding subparagraph (A), by inserting “and not later than 1 year after the date of the enactment of the Trauma Systems and Regionalization of Emergency Care Reauthorization Act” after “Act of 2007”; and
     - **(B)** in subparagraph (A), by striking “and the American Academy of Pediatrics” and inserting “the American Academy of Pediatrics, and (with respect to the update pursuant to the Trauma Systems and Regionalization of Emergency Care Reauthorization Act) the American Burn Association”.
+- **(c)** *Conforming amendments* Part B of title XII of the Public Health Service Act is amended—
+  - **(1)** in section 1218(c)(2) (42 U.S.C. 300d–18(c)(2)), in the matter preceding subparagraph (A), by striking “1232(b)(3)” and inserting “section 1232(b)”; and
+  - **(2)** in section 1222 (42 U.S.C. 300d–22), by striking “October 1, 2008” and inserting “October 1, 2016”.
