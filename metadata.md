@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4801
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4801
@@ -20,9 +20,10 @@ To require the Secretary of Energy to prepare a report on the impact of thermal 
 
 - Rep. McNerney, Jerry [D-CA-9] (M001166)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To require the Secretary of Energy to prepare a report on the impact of thermal 
 - 2014-06-23 — Placed on the Union Calendar, Calendar No. 364.
 - 2014-06-23 — Reported by the Committee on Energy and Commerce. H. Rept. 113-489.
 - 2014-06-23 — Reported by the Committee on Energy and Commerce. H. Rept. 113-489.
+- 2014-06-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
