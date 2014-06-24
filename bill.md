@@ -1,0 +1,18 @@
+---
+legis-num: S. 2517
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2517
+
+> To prohibit bonuses to senior-level IRS executives until all Congressional requests for documents, including electronic communications, related to the investigation of IRS targeting of taxpayers are complete.
+
+## § 1. Short title
+
+This Act may be cited as the “Holding the IRS Leadership Accountable Act”.
+
+## § 2. Prohibition on bonuses until IRS complies with Congressional document requests
+
+The Commissioner of Internal Revenue shall not provide any performance award (including bonuses, step increases, and leave time) to senior-level executives of the Internal Revenue Service until such time as the Treasury Inspector General for Tax Administration certifies that the Internal Revenue Service has provided all documents, including all electronic communications, requested by the relevant congressional committees in due course of their investigation into the targeting of certain taxpayers who applied for designation as an organization described in section 501(c)(4) of the Internal Revenue Code of 1986.
