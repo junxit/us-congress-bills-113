@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4092
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 6371a` | add-at-end | Section 392 of the Energy Policy and Conservation Act (42 U.S.C. 6371a) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6371a` | amend | Section 392 of the Energy Policy and Conservation Act (42 U.S.C. 6371a) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4092
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4092
@@ -65,9 +65,10 @@ Streamlining Energy Efficiency for Schools Act of 2014
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rep. Hastings, Alcee L. [D-FL-20] (H000324)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -86,3 +87,4 @@ Streamlining Energy Efficiency for Schools Act of 2014
 - 2014-06-23 — Mr. Kinzinger (IL) moved to suspend the rules and pass the bill, as amended.
 - 2014-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5604)
 - 2014-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5604)
+- 2014-06-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
