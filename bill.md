@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1098
 congress: 113th CONGRESS
-session: 2nd Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Traumatic Brain Injury Reauthorization Act of 2013”.
+This Act may be cited as the “Traumatic Brain Injury Reauthorization Act of 2014”.
 
 ## § 2. CDC programs for prevention and surveillance of traumatic brain injury
 
@@ -22,14 +22,14 @@ This Act may be cited as the “Traumatic Brain Injury Reauthorization Act of 20
     >   - **(1)** *Initial report* Not later than
 
   - **(2)** by adding at the end the following:
-    > - **(2)** *Subsequent report* Not later than 24 months after the date of enactment of the Traumatic Brain Injury Reauthorization Act of 2013, the Secretary, acting through the Director of the Centers for Disease Control and Prevention and the Director of the National Institutes of Health and in consultation with the Secretary of Defense and the Secretary of Veterans Affairs, shall submit to the relevant committees of Congress a report that—
+    > - **(2)** *Subsequent report* Not later than 24 months after the date of enactment of the Traumatic Brain Injury Reauthorization Act of 2014, the Secretary, acting through the Director of the Centers for Disease Control and Prevention and the Director of the National Institutes of Health and in consultation with the Secretary of Defense and the Secretary of Veterans Affairs, shall submit to the relevant committees of Congress a report that—
     >   - **(A)** identifies which recommendations in the report under paragraph (1) have been adopted and which recommendations in such report have not been adopted; and
     >   - **(B)** includes a description of planned activities to address each recommendation in such report that has not been adopted.
 
 - **(c)** *Funding* Section 394A of the Public Health Service Act (42 U.S.C. 280b–3) is amended—
   - **(1)** by striking “and” after “1994,”;
   - **(2)** by striking the second period at the end; and
-  - **(3)** by adding at the end the following: “Of the amounts made available to carry out this part for each of fiscal years 2014 through 2018, there is authorized to be appropriated $6,100,000 to carry out sections 393B and 393C.”.
+  - **(3)** by adding at the end the following: “Of the amounts made available to carry out this part for each of fiscal years 2015 through 2019, there is authorized to be appropriated $6,100,000 to carry out sections 393B and 393C.”.
 
 ## § 3. State grants for projects regarding traumatic brain injury
 
@@ -39,7 +39,7 @@ Section 1252 of the Public Health Service Act (42 U.S.C. 300d–52) is amended�
 - **(2)** in paragraphs (1)(A)(i) and (3)(E) of subsection (f), by striking “brain injury” and inserting “traumatic brain injury”;
 - **(3)** in subsection (h), by striking the comma after “under this section” and inserting a comma before “including”; and
 - **(4)** by amending subsection (j) to read as follows:
-  > - **(j)** *Authorization of appropriations* For carrying out this section and section 1253, there is authorized to be appropriated $9,760,000 for each of fiscal years 2014 through 2018.
+  > - **(j)** *Authorization of appropriations* For carrying out this section and section 1253, there is authorized to be appropriated $9,760,000 for each of fiscal years 2015 through 2019.
 
 ## § 4. State grants for protection and advocacy services
 
@@ -53,7 +53,7 @@ Section 1253 of the Public Health Service Act (42 U.S.C. 300d–53) is amended�
     > - **(1)** *Reports by systems* Each protection and advocacy system
 
   - **(C)** by adding at the end the following:
-    > - **(2)** *Report by Secretary* Not later than 1 year after the date of enactment of the Traumatic Brain Injury Reauthorization Act of 2013, the Secretary shall prepare and submit to the appropriate committees of Congress a report describing the services and activities carried out under this section during the period for which the report is being prepared.
+    > - **(2)** *Report by Secretary* Not later than 1 year after the date of enactment of the Traumatic Brain Injury Reauthorization Act of 2014, the Secretary shall prepare and submit to the appropriate committees of Congress a report describing the services and activities carried out under this section during the period for which the report is being prepared.
 
 - **(4)** in subsection (i)—
   - **(A)** by striking “Administrator of the Health Resources and Services Administration” and inserting “Secretary”; and

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1098
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -91,7 +91,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 280b-1d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280b-3` | strike | by striking “and” after “1994,”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 280b-3` | strike | by striking the second period at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 280b-3` | add-at-end | by adding at the end the following: “Of the amounts made available to carry out this part for each of fiscal years 2014 through 2018, there is authorized to be appropriated $6,100,000 to carry out sections 393B and 393C.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280b-3` | add-at-end | by adding at the end the following: “Of the amounts made available to carry out this part for each of fiscal years 2015 through 2019, there is authorized to be appropriated $6,100,000 to carry out sections 393B and 393C.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300d-52` | strike | in subsection (a), by striking “, acting through the Administrator of the Health Resources and Services Administration,”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 300d-52` | replace | in subsection (h), by striking the comma after “under this section” and inserting a comma before “including”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300d-52` | amend | by amending subsection (j) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

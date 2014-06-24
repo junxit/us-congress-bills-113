@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1098
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1098
@@ -56,3 +56,8 @@ Traumatic Brain Injury Reauthorization Act of 2014
 - 2014-05-20 — Placed on the Union Calendar, Calendar No. 337.
 - 2014-05-20 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-456.
 - 2014-05-20 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-456.
+- 2014-06-24 — Considered under suspension of the rules. (consideration: CR H5699-5700)
+- 2014-06-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1098.
+- 2014-06-24 — Mr. Pitts moved to suspend the rules and pass the bill, as amended.
+- 2014-06-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5699)
+- 2014-06-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5699)
