@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4413
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-64 amendatory instructions. 22 executed, 42 stated and not applied.
+75 amendatory instructions. 23 executed, 52 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -186,6 +186,15 @@ to guess them.
 | Removed | `shall, to the maximum extent practicable,` |
 | Inserted | `shall` |
 
+### 15 U.S.C. § 78o-10
+
+> in clause (ii), by striking “shall, to the maximum extent practicable,” and inserting “shall”; and
+
+| | |
+|---|---|
+| Removed | `shall, to the maximum extent practicable,` |
+| Inserted | `shall` |
+
 ### 7 U.S.C. § 6a
 
 > by striking “may” and inserting “shall”; and
@@ -234,13 +243,14 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 21` | add-at-end | Section 17 of the Commodity Exchange Act (7 U.S.C. 21) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 21` | add-at-end | Section 17 of the Commodity Exchange Act (7 U.S.C. 21), as amended by section 102 of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 21` | add-at-end | Section 17 of the Commodity Exchange Act (7 U.S.C. 21), as amended by sections 102 and 103 of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 6d` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B) and by moving the margins of such subparagraphs two ems to the right; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 6d` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 6d` | insert | by inserting “(1)” before “It shall be unlawful”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 6d` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 24` | strike | by striking “and” at the end of paragraph (4); | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 24` | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 24` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 19` | replace | Section 15(a) of the Commodity Exchange Act (7 U.S.C. 19(a)) is amended by striking paragraphs (1) and (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 19` | replace | by striking paragraphs (1) and (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 19` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2` | insert | Section 2(a)(6)(C) of the Commodity Exchange Act (7 U.S.C. 2(a)(6)(C)) is amended by inserting “, and the heads of the units shall serve at the pleasure of the Commission, report directly to the Commission, and perform such functions and… | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 2` | add-at-end | Section 2(a) of the Commodity Exchange Act (7 U.S.C. 2(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2` | replace | by striking “(12) The” and inserting the following: | the bill quotes the text struck but describes what replaces it |
@@ -252,10 +262,14 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 2` | add-at-end | Section 2(a)(12) of the Commodity Exchange Act (7 U.S.C. 2(a)(12)), as amended by sections 206 and 208(a) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2` | add-at-end | Section 2(a)(12) of the Commodity Exchange Act (7 U.S.C. 2(a)(12)), as amended by sections 206, 208(a), and 210 of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1` | add-at-end | The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 12` | add-at-end | Section 8 of the Commodity Exchange Act (7 U.S.C. 12) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 6s` | add-at-end | Section 4s(e) of the Commodity Exchange Act (7 U.S.C. 6s(e)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78o-10` | add-at-end | Section 15F(e) of the Securities Exchange Act of 1934 (15 U.S.C. 78o–10(e)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2` | amend | Section 2(h)(7)(D)(i) of the Commodity Exchange Act (7 U.S.C. 2(h)(7)(D)(i)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78c-3` | amend | Section 3C(g)(4)(A) of the Securities Exchange Act of 1934 (15 U.S.C. 78c–3(g)(4)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 7a-1` | amend | Section 5b(k)(5) of the Commodity Exchange Act (7 U.S.C. 7a–1(k)(5)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 24a` | amend | Section 21(d) of such Act (7 U.S.C. 24a(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78m` | amend | Section 13(n)(5)(H) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(n)(5)(H)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | add-at-end | Section 1a(49) of the Commodity Exchange Act (7 U.S.C. 1a(49)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 6s` | add-at-end | Section 4s(h)(2) of the Commodity Exchange Act (7 U.S.C. 6s(h)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | strike | by striking “and” at the end of subclause (XXI); | the bill quotes the text struck but describes what replaces it |
@@ -263,13 +277,18 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 1a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | add-at-end | Section 1a of such Act (7 U.S.C. 1a) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2` | amend | Section 2(h)(7)(C)(iii) of the Commodity Exchange Act (7 U.S.C. 2(h)(7)(C)(iii)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 1a` | redesignate | Section 1a of such Act (7 U.S.C. 1a) is amended by redesignating paragraphs (8) through (51) as paragraphs (9) through (52), respectively, and by inserting after paragraph (6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1a` | redesignate | Section 1a of such Act (7 U.S.C. 1a), as amended by section 343(b) of this Act, is amended by redesignating paragraphs (8) through (52) as paragraphs (9) through (53), respectively, and by inserting after paragraph (6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2` | redesignate | by redesignating subparagraphs (D) through (G) as subparagraphs (E) through (H), respectively, and inserting after subparagraph (C) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1` | insert | The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by inserting after section 4t the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | amend | Section 1a(47)(B)(ii) of the Commodity Exchange Act (7 U.S.C. 1a(47)(B)(ii)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | replace | by striking all that precedes “shall exempt” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | amend | by adding after and below the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 6s` | insert | in paragraph (2)(B), by inserting “, in consultation with the prudential regulators and the Securities and Exchange Commission,” before “shall”; and | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 6s` | replace | in paragraph (2)(B), by striking “shall” and inserting the following: “and the Securities and Exchange Commission, in consultation with the prudential regulators, shall jointly”; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 6s` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78o-10` | replace | in paragraph (2)(B), by striking “shall” and inserting the following: “and the Commodity Futures Trading Commission, in consultation with the prudential regulators, shall jointly”; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 78o-10` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 6a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 6` | insert | Section 4(c)(1)(A) of the Commodity Exchange Act (7 U.S.C. 6(c)(1)(A)) is amended by inserting “or except as necessary to effectuate section 361 of the Customer Protection and End User Relief Act,” after “to grant exemptions,”. | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 78mm` | insert | Section 36(c) of the Securities Exchange Act of 1934 (15 U.S.C. 78mm(c)) is amended by inserting “or except as necessary to effectuate the purposes of the Customer Protection and End-User Relief Act,” after “to grant exemptions,”. | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 6` | insert | Section 4(c)(1)(A) of the Commodity Exchange Act (7 U.S.C. 6(c)(1)(A)) is amended by inserting “or except as necessary to effectuate the purposes of the Customer Protection and End-User Relief Act,” after “to grant exemptions,”. | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 1a` | add-at-end | Section 1a(11) of the Commodity Exchange Act (7 U.S.C. 1a(11)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1a` | add-at-end | Section 1a(12) of such Act (7 U.S.C. 1a(12)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
