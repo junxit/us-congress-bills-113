@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4631
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4631
@@ -121,3 +121,8 @@ Autism CARES Act of 2014
 - 2014-06-23 — Placed on the Union Calendar, Calendar No. 365.
 - 2014-06-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-490.
 - 2014-06-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-490.
+- 2014-06-24 — Considered under suspension of the rules. (consideration: CR H5688-5693)
+- 2014-06-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4631.
+- 2014-06-24 — Mr. Pitts moved to suspend the rules and pass the bill, as amended.
+- 2014-06-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5688-5690)
+- 2014-06-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5688-5690)

@@ -51,14 +51,14 @@ Section 399CC of the Public Health Service Act (42 U.S.C. 280i–2) is amended�
     - **(ii)** by striking “intervention” and inserting “interventions, including school and community-based interventions”;
   - **(B)** by striking paragraph (2);
   - **(C)** by redesignating paragraph (1) as paragraph (2), and inserting before such redesignated paragraph the following:
-    > - **(1)** monitor autism spectrum disorder research, and to the extent practicable services and support activities, across all Federal departments and agencies, including coordination of Federal activities with respect to autism spectrum disorder;
+    > - **(1)** monitor autism spectrum disorder research, and to the extent practicable services and support activities, across all relevant Federal departments and agencies, including coordination of Federal activities with respect to autism spectrum disorder;
 
   - **(D)** in paragraph (3), by striking “recommendations to the Director of NIH”;
   - **(E)** in paragraph (4), by inserting before the semicolon the following: “, and the process by which public feedback can be better integrated into such decisions”; and
   - **(F)** by striking paragraphs (5) and (6) and inserting the following:
-    > - **(5)** develop a strategic plan for the conduct of, and support for, autism spectrum disorder research and services and supports for individuals with an autism spectrum disorder and the families of such individuals, which shall include—
+    > - **(5)** develop a strategic plan for the conduct of, and support for, autism spectrum disorder research, including as practicable for services and supports, for individuals with an autism spectrum disorder and the families of such individuals, which shall include—
     >   - **(A)** proposed budgetary requirements; and
-    >   - **(B)** recommendations to ensure that autism spectrum disorder research, services, and support activities of the Department of Health and Human Services and of other Federal departments and agencies are not unnecessarily duplicative; and
+    >   - **(B)** recommendations to ensure that autism spectrum disorder research, and services and support activities to the extent practicable, of the Department of Health and Human Services and of other Federal departments and agencies are not unnecessarily duplicative; and
     > - **(6)** submit to Congress and the President—
     >   - **(A)** an annual update on the summary of advances described in paragraph (2); and
     >   - **(B)** an annual update to the strategic plan described in paragraph (5), including any progress made in achieving the goals outlined in such strategic plan.
@@ -77,14 +77,14 @@ Section 399CC of the Public Health Service Act (42 U.S.C. 280i–2) is amended�
     - **(iv)** by striking subparagraph (E);
   - **(B)** in paragraph (2)—
     - **(i)** in the paragraph heading, by striking “Additional” and inserting “Non-Federal”;
-    - **(ii)** in the matter preceding subparagraph (A), by striking “Not fewer than 6 members of the Committee, or 1/3 of the total membership of the Committee, whichever is greater” and inserting “Not more than ½, but not fewer than 1/3, of the total membership of the Committee”;
+    - **(ii)** in the matter preceding subparagraph (A), by striking “Not fewer than 6 members of the Committee, or 1/3 of the total membership of the Committee, whichever is greater” and inserting “Not more than 1/2, but not fewer than 1/3, of the total membership of the Committee”;
     - **(iii)** in subparagraph (A), by striking “one such member shall be an individual” and inserting “two such members shall be individuals”;
     - **(iv)** in subparagraph (B), by striking “one such member shall be a parent or legal guardian” and inserting “two such members shall be parents or legal guardians”; and
     - **(v)** in subparagraph (C), by striking “one such member shall be a representative” and inserting “two such members shall be representatives”; and
   - **(C)** by adding at the end the following:
     > - **(3)** *Period of appointment; vacancies*
     >   - **(A)** *Period of appointment for Non-Federal members* Non-Federal members shall serve for a term of 4 years, and may be reappointed for one or more additional 4-year terms.
-    >   - **(B)** *Vacancies* A vacancy on the Committee shall be filled in the manner in which the original appointment was made and shall not affect the power or duties of the Committee. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member’s term until a successor has been appointed.
+    >   - **(B)** *Vacancies* A vacancy on the Committee shall be filled in the manner in which the original appointment was made and shall not affect the powers or duties of the Committee. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member’s term until a successor has been appointed.
 
 - **(3)** in subsection (d)—
   - **(A)** by striking paragraph (2); and
@@ -111,9 +111,9 @@ Section 399DD of the Public Health Service Act (42 U.S.C. 280i–3) is amended�
   - **(C)** by striking subparagraph (C) (as so redesignated), and inserting the following:
     > - **(C)** information on the incidence and prevalence of autism spectrum disorder, including available information on the prevalence of autism spectrum disorder among children and adults, and identification of any changes over time with respect to the incidence and prevalence of autism spectrum disorder;
 
-  - **(D)** in subparagraph (D) (as so redesignated), by striking “6-year period beginning on the date of enactment of the Combating Autism Act of 2006” and inserting “4-year period beginning on the date of enactment of the Autism CARES Act of 2014 and, as appropriate, how this age varies across populations subgroups”;
-  - **(E)** in subparagraph (E) (as so redesignated), by striking “6-year period beginning on the date of enactment of the Combating Autism Act of 2006” and inserting “4-year period beginning on the date of enactment of the Autism CARES Act of 2014 and, as appropriate, how this age varies across populations subgroups”;
-  - **(F)** in subparagraph (F) (as so redesignated), by inserting “and, as appropriate, on how such average time varies across populations subgroups” before the semicolon at the end;
+  - **(D)** in subparagraph (D) (as so redesignated), by striking “6-year period beginning on the date of enactment of the Combating Autism Act of 2006” and inserting “4-year period beginning on the date of enactment of the Autism CARES Act of 2014 and, as appropriate, how this age varies across population subgroups”;
+  - **(E)** in subparagraph (E) (as so redesignated), by striking “6-year period beginning on the date of enactment of the Combating Autism Act of 2006” and inserting “4-year period beginning on the date of enactment of the Autism CARES Act of 2014 and, as appropriate, how this age varies across population subgroups”;
+  - **(F)** in subparagraph (F) (as so redesignated), by inserting “and, as appropriate, on how such average time varies across population subgroups” before the semicolon at the end;
   - **(G)** in subparagraph (G) (as so redesignated)—
     - **(i)** by striking “including by various subtypes,” and inserting “including by severity level as practicable,”; and
     - **(ii)** by striking “child may” and inserting “child or other factors, such as demographic characteristics, may”; and
@@ -122,7 +122,7 @@ Section 399DD of the Public Health Service Act (42 U.S.C. 280i–3) is amended�
 
 - **(7)** by adding at the end the following new subsection:
   > - **(b)** *Report on young adults and transitioning youth*
-  >   - **(1)** *In general* Not later than 2 years after the date of enactment of the Autism CARES Act of 2014, the Secretary, in coordination with the Secretary of Education and in collaboration with the Secretary of Transportation, the Secretary of Labor, the Secretary of Housing and Urban Development, and the Attorney General, shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report concerning young adults with autism spectrum disorder and the challenges related to the transition from existing school-based services to those services available during adulthood.
+  >   - **(1)** *In general* Not later than 2 years after the date of enactment of the Autism CARES Act of 2014, the Secretary of Health and Human Services, in coordination with the Secretary of Education and in collaboration with the Secretary of Transportation, the Secretary of Labor, the Secretary of Housing and Urban Development, and the Attorney General, shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report concerning young adults with autism spectrum disorder and the challenges related to the transition from existing school-based services to those services available during adulthood.
   >   - **(2)** *Contents* The report submitted under paragraph (1) shall contain—
   >     - **(A)** demographic characteristics of youth transitioning from school-based to community-based supports;
   >     - **(B)** an overview of policies and programs relevant to young adults with autism spectrum disorder relating to post-secondary school transitional services, including an identification of existing Federal laws, regulations, policies, research, and programs;

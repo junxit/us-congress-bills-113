@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4631
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -89,12 +89,12 @@ to guess them.
 
 ### 42 U.S.C. § 280i-2
 
-> in the matter preceding subparagraph (A), by striking “Not fewer than 6 members of the Committee, or 1/3 of the total membership of the Committee, whichever is greater” and inserting “Not more than ½, but not fewer than 1/3, of the total membership of the Committee”;
+> in the matter preceding subparagraph (A), by striking “Not fewer than 6 members of the Committee, or 1/3 of the total membership of the Committee, whichever is greater” and inserting “Not more than 1/2, but not fewer than 1/3, of the total membership of the Committee”;
 
 | | |
 |---|---|
 | Removed | `Not fewer than 6 members of the Committee, or 1/3 of the total membership of the Committee, whichever is greater` |
-| Inserted | `Not more than ½, but not fewer than 1/3, of the total membership of the Committee` |
+| Inserted | `Not more than 1/2, but not fewer than 1/3, of the total membership of the Committee` |
 
 ### 42 U.S.C. § 280i-2
 
@@ -170,21 +170,21 @@ to guess them.
 
 ### 42 U.S.C. § 280i-3
 
-> in subparagraph (D) (as so redesignated), by striking “6-year period beginning on the date of enactment of the Combating Autism Act of 2006” and inserting “4-year period beginning on the date of enactment of the Autism CARES Act of 2014 and, as appropriate, how this age varies across populations subgroups”;
+> in subparagraph (D) (as so redesignated), by striking “6-year period beginning on the date of enactment of the Combating Autism Act of 2006” and inserting “4-year period beginning on the date of enactment of the Autism CARES Act of 2014 and, as appropriate, how this age varies across population subgroups”;
 
 | | |
 |---|---|
 | Removed | `6-year period beginning on the date of enactment of the Combating Autism Act of 2006` |
-| Inserted | `4-year period beginning on the date of enactment of the Autism CARES Act of 2014 and, as appropriate, how this age varies across populations subgroups` |
+| Inserted | `4-year period beginning on the date of enactment of the Autism CARES Act of 2014 and, as appropriate, how this age varies across population subgroups` |
 
 ### 42 U.S.C. § 280i-3
 
-> in subparagraph (E) (as so redesignated), by striking “6-year period beginning on the date of enactment of the Combating Autism Act of 2006” and inserting “4-year period beginning on the date of enactment of the Autism CARES Act of 2014 and, as appropriate, how this age varies across populations subgroups”;
+> in subparagraph (E) (as so redesignated), by striking “6-year period beginning on the date of enactment of the Combating Autism Act of 2006” and inserting “4-year period beginning on the date of enactment of the Autism CARES Act of 2014 and, as appropriate, how this age varies across population subgroups”;
 
 | | |
 |---|---|
 | Removed | `6-year period beginning on the date of enactment of the Combating Autism Act of 2006` |
-| Inserted | `4-year period beginning on the date of enactment of the Autism CARES Act of 2014 and, as appropriate, how this age varies across populations subgroups` |
+| Inserted | `4-year period beginning on the date of enactment of the Autism CARES Act of 2014 and, as appropriate, how this age varies across population subgroups` |
 
 ### 42 U.S.C. § 280i-3
 
@@ -266,6 +266,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 280i-3` | insert | by inserting “and the Secretary of Defense” after “the Secretary of Education”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 280i-3` | insert | by inserting “, and make publicly available, including through posting on the Internet Web site of the Department of Health and Human Services,” after “Representatives”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 280i-3` | redesignate | by striking subparagraph (C) (as so redesignated), and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 280i-3` | redesignate | in subparagraph (F) (as so redesignated), by inserting “and, as appropriate, on how such average time varies across populations subgroups” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 280i-3` | redesignate | in subparagraph (F) (as so redesignated), by inserting “and, as appropriate, on how such average time varies across population subgroups” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 280i-3` | redesignate | by striking subparagraph (I) (as so redesignated), and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1414` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
