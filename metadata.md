@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1281
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1281
@@ -157,3 +157,8 @@ Newborn Screening Saves Lives Reauthorization Act of 2014
 - 2014-06-19 — Placed on the Union Calendar, Calendar No. 354.
 - 2014-06-19 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-478.
 - 2014-06-19 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-478.
+- 2014-06-24 — Considered under suspension of the rules. (consideration: CR H5696-5699)
+- 2014-06-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1281.
+- 2014-06-24 — Mr. Pitts moved to suspend the rules and pass the bill, as amended.
+- 2014-06-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5696-5697)
+- 2014-06-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5696-5697)
