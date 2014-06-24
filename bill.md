@@ -53,7 +53,7 @@ Section 3(c) of the Natural Gas Act (15 U.S.C. 717b(c)) is amended by adding at 
 
 ## § 6. No Presidential permit required
 
-No Presidential permit (or similar permit) required under Executive Order 13337 (3 U.S.C. 301 note), Executive Order 11423 (3 U.S.C. 301 note), section 301 of title 3, United States Code, Executive Order 12038, Executive Order 10485, or any other Executive Order shall be necessary for the construction, connection, operation, or maintenance of an oil or natural gas pipeline or electric transmission facility, or any cross-border segment thereof.
+No Presidential permit (or similar permit) required under Executive Order No. 13337 (3 U.S.C. 301 note), Executive Order No. 11423 (3 U.S.C. 301 note), section 301 of title 3, United States Code, Executive Order No. 12038, Executive Order No. 10485, or any other Executive order shall be necessary for the construction, connection, operation, or maintenance of an oil or natural gas pipeline or electric transmission facility, or any cross-border segment thereof.
 
 ## § 7. Modifications to existing projects
 
