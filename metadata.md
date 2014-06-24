@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3548
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3548
@@ -48,3 +48,8 @@ Improving Trauma Care Act of 2014
 - 2014-05-20 — Placed on the Union Calendar, Calendar No. 339.
 - 2014-05-20 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-458.
 - 2014-05-20 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-458.
+- 2014-06-24 — Considered under suspension of the rules. (consideration: CR H5695-5696)
+- 2014-06-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3548.
+- 2014-06-24 — Mr. Pitts moved to suspend the rules and pass the bill, as amended.
+- 2014-06-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5695)
+- 2014-06-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5695)
