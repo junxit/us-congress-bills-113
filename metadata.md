@@ -1,7 +1,7 @@
 ---
 measure: H.R. 412
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 412
@@ -16,9 +16,10 @@ Nashua River Wild and Scenic River Study Act
 
 - Rep. Tsongas, Niki [D-MA-3] (T000465)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Nashua River Wild and Scenic River Study Act
 - 2014-06-23 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2014-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5609)
 - 2014-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5609)
+- 2014-06-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
