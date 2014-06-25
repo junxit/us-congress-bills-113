@@ -27,6 +27,24 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the Government of the Russian Federation has engaged in an unprecedented campaign to silence the independent press and undermine freedom of expression, including its recent efforts to destabilize Ukraine;
 - Whereas freedom of the press is a key component of democratic governance, the activism of civil society, and socioeconomic development; and
 - Whereas freedom of the press enhances public accountability, transparency, and participation: Now, therefore, be it
+- Whereas Article 19 of the United Nations Universal Declaration of Human Rights, adopted at Paris December 10, 1948, states that “everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive, and impart information and ideas through any media and regardless of frontiers”;
+- Whereas, in 1993, the United Nations General Assembly proclaimed May 3 of each year as “World Press Freedom Day” to celebrate the fundamental principles of freedom of the press, to evaluate freedom of the press around the world, to defend the media from attacks on its independence, and to pay tribute to journalists who have lost their lives in the exercise of their profession;
+- Whereas, on December 18, 2013, the United Nations General Assembly adopted a resolution (A/RES/68/163) on the safety of journalists and the issue of impunity, which unequivocally condemns all attacks and violence against journalists and media workers, including torture, extrajudicial killings, enforced disappearances, arbitrary detention, and intimidation and harassment in both conflict and non-conflict situations;
+- Whereas 2014 is the 21st anniversary of World Press Freedom Day, which focuses on the theme “Media Freedom for a Better Future: Shaping the Post-2015 Development Agenda”;
+- Whereas the Daniel Pearl Freedom of the Press Act of 2009 (22 U.S.C. 2151 note; Public Law 111–166), which was passed by unanimous consent in the Senate and signed into law by President Barack Obama in 2010, expanded the examination of freedom of the press around the world in the annual human rights report of the Department of State;
+- Whereas, according to Reporters Without Borders, 71 journalists and 39 citizen journalists were killed in 2013 in connection with their collection and dissemination of news and information;
+- Whereas, according to the Committee to Protect Journalists, the 3 deadliest countries for journalists on assignment in 2013 were Syria, Iraq, and Egypt, and in Syria, the deadliest country for such journalists, an unprecedented number of journalists were abducted;
+- Whereas, according to the Committee to Protect Journalists, 617 journalists have been murdered since 1992 without the perpetrators of such crimes facing punishment;
+- Whereas, according to the Committee to Protect Journalists, the 5 countries with the highest number of unpunished journalist murders between 2004 to 2013 are Iraq, Somalia, the Philippines, Sri Lanka, and Syria;
+- Whereas, according to Reporters Without Borders, 826 journalists and 127 citizen journalists were arrested in 2013;
+- Whereas, according to the Committee to Protect Journalists, 211 journalists worldwide were in prison on December 1, 2013;
+- Whereas, according to Reporters Without Borders, the 5 countries with the highest number of journalists in prison are Syria, China, Eritrea, Turkey, and Iran;
+- Whereas, according to Reporters Without Borders, the Government of Syria and extremist rebel militias have intentionally targeted professional and citizen journalists, causing dramatic repercussions for the freedom of the press throughout the region;
+- Whereas the Government of the Russian Federation has engaged in an unprecedented campaign to silence the independent press and undermine freedom of expression, including its recent efforts to destabilize Ukraine;
+- Whereas Reporters Without Borders has expressed concern that journalists in Cuba have suffered physical attacks, arbitrary detention, and death threats, and have been prevented access to information;
+- Whereas Freedom House has cited a deteriorating environment for internet freedom around the world and has ranked Iran, Cuba, China, Syria, and Ethiopia as having the worst obstacles to access, limits on content, and violations of user rights among the countries and territories rated by Freedom House as “Not Free”;
+- Whereas freedom of the press is a key component of democratic governance, the activism of civil society, and socioeconomic development; and
+- Whereas freedom of the press enhances public accountability, transparency, and participation: Now, therefore, be it
 
 That the Senate—
 

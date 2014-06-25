@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 447
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 447
@@ -16,9 +16,10 @@ A resolution recognizing the threats to freedom of the press and expression arou
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ A resolution recognizing the threats to freedom of the press and expression arou
 
 - 2014-05-15 — Introduced in Senate
 - 2014-05-15 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S3078)
+- 2014-06-24 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2014-06-25 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2014-06-25 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2014-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 440.
