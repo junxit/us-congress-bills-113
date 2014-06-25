@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3548
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3548
@@ -55,3 +55,14 @@ Improving Trauma Care Act of 2014
 - 2014-06-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5695)
 - 2014-06-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5695)
 - 2014-06-25 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2014-07-31 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 8/1/2014 S5312)
+- 2014-07-31 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 8/1/2014 S5312)
+- 2014-07-31 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2014-07-31 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2014-08-01 — Message on Senate action sent to the House.
+- 2014-08-04 — Presented to President.
+- 2014-08-04 — Presented to President.
+- 2014-08-08 — Became Public Law No: 113-152.
+- 2014-08-08 — Became Public Law No: 113-152.
+- 2014-08-08 — Signed by President.
+- 2014-08-08 — Signed by President.
