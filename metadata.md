@@ -1,7 +1,7 @@
 ---
 measure: H.R. 803
 congress: 113
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 803
@@ -16,7 +16,7 @@ Workforce Innovation and Opportunity Act
 
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 
-## Cosponsors (23)
+## Cosponsors (52)
 
 - Rep. Kline, John [R-MN-2] (K000363)
 - Rep. Roe, David P. [R-TN-1] (R000582)
@@ -41,6 +41,35 @@ Workforce Innovation and Opportunity Act
 - Rep. Griffin, Tim [R-AR-2] (G000567)
 - Rep. Flores, Bill [R-TX-17] (F000461)
 - Rep. Kelly, Mike [R-PA-3] (K000376)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (7)
 
@@ -52,11 +81,14 @@ Workforce Innovation and Opportunity Act
 - House — Education and the Workforce Committee
 - Senate — Health, Education, Labor, and Pensions Committee
 
-## Recorded votes (3)
+## Recorded votes (6)
 
 - 2013-03-15 — [House 113-1-73](votes/house-113-1-0073.md) — On Agreeing to the Amendment — **Failed** (192–227)
 - 2013-03-15 — [House 113-1-74](votes/house-113-1-0074.md) — On Motion to Recommit with Instructions — **Failed** (184–233)
 - 2013-03-15 — [House 113-1-75](votes/house-113-1-0075.md) — On Passage — **Passed** (215–202)
+- 2014-06-25 — [Senate 113-2-212](votes/senate-113-2-0212.md) — On the Amendment — **Amendment Rejected** (33–63)
+- 2014-06-25 — [Senate 113-2-213](votes/senate-113-2-0213.md) — On the Amendment — **Amendment Rejected** (40–58)
+- 2014-06-25 — [Senate 113-2-214](votes/senate-113-2-0214.md) — On Passage of the Bill — **Bill Passed** (95–3)
 
 ## Actions
 
@@ -146,3 +178,38 @@ Workforce Innovation and Opportunity Act
 - 2013-03-15 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1528)
 - 2013-03-15 — The previous question was ordered pursuant to the rule. (consideration: CR H1527)
 - 2013-03-18 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2014-06-25 — Amendment SA 3378 agreed to in Senate by Unanimous Consent.
+- 2014-06-25 — Amendment SA 3378 proposed by Senator Murray. (consideration: CR S3964-3972, S3982) In the nature of a substitute.
+- 2014-06-25 — Amendment SA 3379 not agreed to in Senate by Yea-Nay Vote. 33 - 63. Record Vote Number: 212.
+- 2014-06-25 — Amendment SA 3379 proposed by Senator Flake to Amendment SA 3378. (consideration: CR S3975-3979, S3982; text: CR S3975) To make the appointment and certification of a new local board permissible instead of required.
+- 2014-06-25 — Amendment SA 3380 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 213.
+- 2014-06-25 — Amendment SA 3380 proposed by Senator Lee to Amendment SA 3378. (consideration: CR S3979-3982, S3982; text: CR S3979) To require that evaluation reports are due every fourth year, to establish a reservation of funds in a fiscal year in which a report is due, and to establish a reduction in funds if a report is not submitted.
+- 2014-06-25 — Amendment SA 3381 agreed to in Senate by Voice Vote.
+- 2014-06-25 — Amendment SA 3381 proposed by Senator Harkin for Senator Murray to Amendment SA 3378. (consideration: CR S3972-3975, S3982; text: CR S3972-3973) To improve the bill.
+- 2014-06-25 — Amendment SA 3382 agreed to in Senate by Unanimous Consent.
+- 2014-06-25 — Amendment SA 3382 proposed by Senator Murray. (consideration: CR S3991; text: CR S3991) To amend the title.
+- 2014-06-25 — Measure laid before Senate by unanimous consent. (consideration: CR S3964-3991)
+- 2014-06-25 — Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 95 - 3. Record Vote Number: 214.
+- 2014-06-25 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 95 - 3. Record Vote Number: 214.
+- 2014-06-25 — Roll call votes on amendments in Senate: Amendment SA 3379 not agreed to in Senate by Yea-Nay Vote. 33 - 63. Record Vote Number: 212.
+- 2014-06-25 — Roll call votes on amendments in Senate: Amendment SA 3380 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 213.
+- 2014-06-25 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2014-06-25 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2014-06-25 — Senate amendment agreed to: Amendment SA 3378 agreed to in Senate by Unanimous Consent.
+- 2014-06-25 — Senate amendment agreed to: Amendment SA 3381 agreed to in Senate by Voice Vote.
+- 2014-06-25 — Senate amendment agreed to: Amendment SA 3382 agreed to in Senate by Unanimous Consent.
+- 2014-06-25 — Senate amendment not agreed to: Amendment SA 3379 not agreed to in Senate by Yea-Nay Vote. 33 - 63. Record Vote Number: 212.
+- 2014-06-25 — Senate amendment not agreed to: Amendment SA 3380 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 213.
+- 2014-06-25 — Senate amendment proposed (on the floor): Amendment SA 3378 proposed by Senator Murray.(consideration: CR S3964-3972, S3982)
+- 2014-06-25 — Senate amendment proposed (on the floor): Amendment SA 3379 proposed by Senator Flake to Amendment SA 3378.(consideration: CR S3975-3979, S3982; text: CR S3975)
+- 2014-06-25 — Senate amendment proposed (on the floor): Amendment SA 3380 proposed by Senator Lee to Amendment SA 3378.(consideration: CR S3979-3982, S3982; text: CR S3979)
+- 2014-06-25 — Senate amendment proposed (on the floor): Amendment SA 3381 proposed by Senator Harkin for Senator Murray to Amendment SA 3378.(consideration: CR S3972-3975, S3982; text: CR S3972-3973)
+- 2014-06-25 — Senate amendment proposed (on the floor): Amendment SA 3382 proposed by Senator Murray.(consideration: CR S3991; text: CR S3991)
+- 2014-06-25 — Senate amendment submitted
+- 2014-06-25 — Senate amendment submitted
+- 2014-06-25 — Senate amendment submitted
+- 2014-06-25 — Senate amendment submitted
+- 2014-06-25 — Senate amendment submitted
+- 2014-06-25 — Senate amendment submitted
+- 2014-06-25 — Senate amendment submitted
+- 2014-06-25 — Senate amendment submitted
