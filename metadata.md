@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4413
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4413
@@ -22,9 +22,10 @@ Customer Protection and End User Relief Act
 - Rep. Conaway, K. Michael [R-TX-11] (C001062)
 - Rep. Scott, David [D-GA-13] (S001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (7)
 
@@ -141,3 +142,4 @@ Customer Protection and End User Relief Act
 - 2014-06-24 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5664-5665)
 - 2014-06-24 — The previous question was ordered pursuant to the rule. (consideration: CR H5663)
 - 2014-06-24 — UNFINISHED BUSINESS - The Chair announced that, pursuant to clause 6 of Rule XVIII, the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2014-06-25 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.

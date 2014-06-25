@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4413
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -264,7 +264,7 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 1` | add-at-end | The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 12` | add-at-end | Section 8 of the Commodity Exchange Act (7 U.S.C. 12) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 6s` | add-at-end | Section 4s(e) of the Commodity Exchange Act (7 U.S.C. 6s(e)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 78o-10` | add-at-end | Section 15F(e) of the Securities Exchange Act of 1934 (15 U.S.C. 78o–10(e)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78o-10` | amend | Section 15F(e) of the Securities Exchange Act of 1934 (15 U.S.C. 78o–10(e)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2` | amend | Section 2(h)(7)(D)(i) of the Commodity Exchange Act (7 U.S.C. 2(h)(7)(D)(i)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78c-3` | amend | Section 3C(g)(4)(A) of the Securities Exchange Act of 1934 (15 U.S.C. 78c–3(g)(4)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 7a-1` | amend | Section 5b(k)(5) of the Commodity Exchange Act (7 U.S.C. 7a–1(k)(5)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
