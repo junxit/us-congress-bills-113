@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4080
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4080
@@ -51,9 +51,10 @@ Trauma Systems and Regionalization of Emergency Care Reauthorization Act
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 - Rep. Dent, Charles W. [R-PA-15] (D000604)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -73,3 +74,4 @@ Trauma Systems and Regionalization of Emergency Care Reauthorization Act
 - 2014-06-24 — Mr. Pitts moved to suspend the rules and pass the bill, as amended.
 - 2014-06-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5693-5694)
 - 2014-06-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5693-5694)
+- 2014-06-25 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
