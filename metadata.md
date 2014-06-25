@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4870
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4870
@@ -16,9 +16,10 @@ Department of Defense Appropriations Act, 2015
 
 - Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (21)
 
@@ -670,3 +671,4 @@ Department of Defense Appropriations Act, 2015
 - 2014-06-20 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4870.
 - 2014-06-20 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5575)
 - 2014-06-20 — The previous question was ordered pursuant to the rule. (consideration: CR H5575)
+- 2014-06-25 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
