@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1281
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1281
@@ -162,3 +162,4 @@ Newborn Screening Saves Lives Reauthorization Act of 2014
 - 2014-06-24 — Mr. Pitts moved to suspend the rules and pass the bill, as amended.
 - 2014-06-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5696-5697)
 - 2014-06-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5696-5697)
+- 2014-06-25 — Received in the Senate, read twice.

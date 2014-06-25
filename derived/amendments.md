@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1281
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -226,4 +226,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 300b-15` | redesignate | by redesignating subparagraph (C) as subparagraph (E); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-15` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-15` | strike | in subsection (c), by striking “of the National Institutes of Health Reform Act of 2006”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 300b-1` | add-at-end | Part A of title XI of the Public Health Service Act (42 U.S.C. 300b–1 et seq.) is amended by adding at the end, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-1` | amend | Part A of title XI of the Public Health Service Act (42 U.S.C. 300b–1 et seq.) is amended by adding at the end, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
