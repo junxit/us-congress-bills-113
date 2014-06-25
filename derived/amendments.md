@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 1 executed, 3 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 15 U.S.C. § 717b
-
-> by striking “a nation with which there is in effect a free trade agreement requiring national treatment for trade in natural gas” and inserting “a World Trade Organization member nation”; and
-
-| | |
-|---|---|
-| Removed | `a nation with which there is in effect a free trade agreement requiring national treatment for trade in natural gas` |
-| Inserted | `a World Trade Organization member nation` |
 
 ## Stated, not applied
 
@@ -42,6 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 717b` | insert | by inserting “(1)” before “For purposes”; | the bill quotes the text inserted but describes where it goes |
-| `19 U.S.C. § 3501` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 717b` | add-at-end | Section 3 of the Natural Gas Act (15 U.S.C. 717b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

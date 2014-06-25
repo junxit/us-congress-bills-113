@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6
@@ -85,6 +85,12 @@ Domestic Prosperity and Global Freedom Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (3)
+
+- 2014-06-25 — [House 113-2-357](votes/house-113-2-0357.md) — On Agreeing to the Amendment — **Failed** (196–221)
+- 2014-06-25 — [House 113-2-358](votes/house-113-2-0358.md) — On Motion to Recommit with Instructions — **Failed** (192–225)
+- 2014-06-25 — [House 113-2-359](votes/house-113-2-0359.md) — On Passage — **Passed** (266–150)
+
 ## Actions
 
 - 2014-03-06 — Introduced in House
@@ -101,3 +107,61 @@ Domestic Prosperity and Global Freedom Act
 - 2014-06-19 — Placed on the Union Calendar, Calendar No. 353.
 - 2014-06-19 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-477.
 - 2014-06-19 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-477.
+- 2014-06-23 — Rules Committee Resolution H. Res. 636 Reported to House. For H.R. 6, one hour of general debate and amendments are confined to those printed in part A of the report accompanying this resolution. For H.R. 3301, one hour of general debate and amendments are confined to those printed in part B of the report accompanying this resolution.
+- 2014-06-24 — Committee of the Whole House on the state of the Union rises leaving H.R. 6 as unfinished business.
+- 2014-06-24 — Considered under the provisions of rule H. Res. 636. (consideration: CR H5676-5683)
+- 2014-06-24 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 6.
+- 2014-06-24 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 636 and Rule XVIII.
+- 2014-06-24 — Mr. Gardner moved that the Committee rise.
+- 2014-06-24 — On motion that the Committee rise Agreed to by voice vote.
+- 2014-06-24 — The Speaker designated the Honorable Andy Harris to act as Chairman of the Committee.
+- 2014-06-24 — The resolution provides for consideration of H.R. 6 and H.R. 3301. For H.R. 6, one hour of general debate and amendments are confined to those printed in part A of the report accompanying the resolution. For H.R. 3301, one hour of general debate and amendments are confined to those printed in part B of the report accompanying the resolution.
+- 2014-06-25 — Amendment (A001) offered by Mr. Gardner. (consideration: CR H5741-5743; text: CR H5741-5742)
+- 2014-06-25 — Amendment (A002) offered by Mr. Holt. (consideration: CR H5743-5745; text: CR H5743)
+- 2014-06-25 — Amendment (A003) offered by Mr. DeFazio. (consideration: CR H5745-5746, H5749; text: CR H5745)
+- 2014-06-25 — Amendment agreed to Committee of the Whole
+- 2014-06-25 — Amendment agreed to Committee of the Whole
+- 2014-06-25 — Amendment failed in Committee of the Whole
+- 2014-06-25 — Amendment failed in Committee of the Whole
+- 2014-06-25 — Amendment failed in Committee of the Whole
+- 2014-06-25 — Amendment failed in Committee of the Whole
+- 2014-06-25 — Committee of the Whole House on the state of the Union rises leaving H.R. 6 as unfinished business.
+- 2014-06-25 — Considered as unfinished business. (consideration: CR H5741-5742)
+- 2014-06-25 — Considered as unfinished business. (consideration: CR H5749-5752)
+- 2014-06-25 — DEBATE - Pursuant to the provisions of H. Res. 636, the Committee of the Whole proceeded with 10 minutes of debate on the DeFazio part A amendment No. 3.
+- 2014-06-25 — DEBATE - Pursuant to the provisions of H. Res. 636, the Committee of the Whole proceeded with 10 minutes of debate on the Gardner part A amendment No. 1.
+- 2014-06-25 — DEBATE - Pursuant to the provisions of H. Res. 636, the Committee of the Whole proceeded with 10 minutes of debate on the Holt part A amendment No. 2.
+- 2014-06-25 — DEBATE - The House proceeded with 10 minutes of debate on the Garamendi motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to direct the Secretary of Energy to deny applications to export natural gas if: (1) it would increase the price of natural gas, electricity, or home heating for Seniors on fixed incomes or (2) the natural gas would be exported to any nation that is a state sponsor of terrorism or to any nation or corporation that steals U.S. military technology or intellectual property through cyber-attacks. The motion also requires the Department of Energy to direct the applicant to ensure that U.S.-flagged ships and shipping containers are used to export liquefied natural gas.
+- 2014-06-25 — House amendment agreed to: On agreeing to the Gardner amendment (A001) Agreed to by voice vote.
+- 2014-06-25 — House amendment agreed to: On agreeing to the Gardner amendment (A001) Agreed to by voice vote.
+- 2014-06-25 — House amendment not agreed to: On agreeing to the DeFazio amendment (A003) Failed by recorded vote: 196 - 221 (Roll no. 357).
+- 2014-06-25 — House amendment not agreed to: On agreeing to the Holt amendment (A002) Failed by voice vote.
+- 2014-06-25 — House amendment offered
+- 2014-06-25 — House amendment offered
+- 2014-06-25 — House amendment offered
+- 2014-06-25 — House amendment offered
+- 2014-06-25 — House amendment offered
+- 2014-06-25 — House amendment offered/reported by: Amendment (A001) offered by Mr. Gardner.(consideration: CR H5741-5743; text: CR H5741-5742)
+- 2014-06-25 — House amendment offered/reported by: Amendment (A001) offered by Mr. Gardner.(consideration: CR H5741-5743; text: CR H5741-5742)
+- 2014-06-25 — House amendment offered/reported by: Amendment (A002) offered by Mr. Holt.(consideration: CR H5743-5745; text: CR H5743)
+- 2014-06-25 — House amendment offered/reported by: Amendment (A003) offered by Mr. DeFazio.(consideration: CR H5745-5746, H5749; text: CR H5745)
+- 2014-06-25 — House amendment offered/reported by: Amendment (A003) offered by Mr. DeFazio.(consideration: CR H5745-5746, H5749; text: CR H5745)
+- 2014-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-06-25 — Mr. Garamendi moved to recommit with instructions to the Committee on Energy and Commerce. (consideration: CR H5750-5751; text: CR H5750)
+- 2014-06-25 — Mr. Gardner moved that the Committee rise.
+- 2014-06-25 — On agreeing to the DeFazio amendment (A003) Failed by recorded vote: 196 - 221 (Roll no. 357).
+- 2014-06-25 — On agreeing to the Gardner amendment (A001) Agreed to by voice vote.
+- 2014-06-25 — On agreeing to the Holt amendment (A002) Failed by voice vote.
+- 2014-06-25 — On motion that the Committee rise Agreed to by voice vote.
+- 2014-06-25 — On motion to recommit with instructions Failed by recorded vote: 192 - 225 (Roll no. 358).
+- 2014-06-25 — On passage Passed by the Yeas and Nays: 266 - 150 (Roll no. 359).
+- 2014-06-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeFazio part A amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. DeFazio demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-06-25 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 266 - 150 (Roll no. 359).
+- 2014-06-25 — Roll call votes on amendments in House
+- 2014-06-25 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H5741)
+- 2014-06-25 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2014-06-25 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2014-06-25 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 6.
+- 2014-06-25 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5770)
+- 2014-06-25 — The previous question was ordered pursuant to the rule. (consideration: CR H5749)
+- 2014-06-25 — UNFINISHED BUSINESS - The Chair announced that, pursuant to clause 6 of Rule XVIII, the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.

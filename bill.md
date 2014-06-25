@@ -13,15 +13,24 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Domestic Prosperity and Global Freedom Act”.
 
-## § 2. Amendments
+## § 2. Action on applications
 
-Section 3(c) of the Natural Gas Act (15 U.S.C. 717b(c)) is amended—
+- **(a)** *Decision deadline* For proposals that must also obtain authorization from the Federal Energy Regulatory Commission or the United States Maritime Administration to site, construct, expand, or operate LNG export facilities, the Department of Energy shall issue a final decision on any application for the authorization to export natural gas under section 3 of the Natural Gas Act (15 U.S.C. 717b) not later than 30 days after the later of—
+  - **(1)** the conclusion of the review to site, construct, expand, or operate the LNG facilities required by the National Environmental Policy Act of 1969 (42 U.S. C. 4321 et seq.); or
+  - **(2)** the date of enactment of this Act.
+- **(b)** *Conclusion of review* For purposes of subsection (a), review required by the National Environmental Policy Act of 1969 shall be considered concluded—
+  - **(1)** for a project requiring an Environmental Impact Statement, 30 days after publication of a Final Environmental Impact Statement;
+  - **(2)** for a project for which an Environmental Assessment has been prepared, 30 days after publication by the Department of Energy of a Finding of No Significant Impact; and
+  - **(3)** upon a determination by the lead agency that an application is eligible for a categorical exclusion pursuant National Environmental Policy Act of 1969 implementing regulations.
+- **(c)** *Judicial action*
+  - **(1)** The United States Court of Appeals for the circuit in which the export facility will be located pursuant to an application described in subsection (a) shall have original and exclusive jurisdiction over any civil action for the review of—
+    - **(A)** an order issued by the Department of Energy with respect to such application; or
+    - **(B)** the Department of Energy’s failure to issue a final decision on such application.
+  - **(2)** If the Court in a civil action described in paragraph (1) finds that the Department of Energy has failed to issue a final decision on the application as required under subsection (a), the Court shall order the Department of Energy to issue such final decision not later than 30 days after the Court’s order.
+  - **(3)** The Court shall set any civil action brought under this subsection for expedited consideration and shall set the matter on the docket as soon as practical after the filing date of the initial pleading.
 
-- **(1)** by inserting “(1)” before “For purposes”;
-- **(2)** by striking “a nation with which there is in effect a free trade agreement requiring national treatment for trade in natural gas” and inserting “a World Trade Organization member nation”; and
-- **(3)** by adding at the end the following:
-  > - **(2)** For purposes of this subsection, the term “World Trade Organization member nation” means a country described in section 2(10) of the Uruguay Round Agreements Act (19 U.S.C. 3501(10)).
+## § 3. Public disclosure of export destinations
 
-## § 3. Pending applications
+Section 3 of the Natural Gas Act (15 U.S.C. 717b) is amended by adding at the end the following:
 
-Any application for authorization to export natural gas under section 3 of the Natural Gas Act (15 U.S.C. 717b) for which a notice has been published in the Federal Register before March 6, 2014, shall be granted without modification or delay.
+> - **(g)** *Public Disclosure of LNG Export Destinations* As a condition for approval of any authorization to export LNG, the Secretary of Energy shall require the applicant to publicly disclose the specific destination or destinations of any such authorized LNG exports.
