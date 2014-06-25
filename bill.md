@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 803
-congress: 113th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 803
 
-That the bill from the House of Representatives (H.R. 803) entitled “An Act to reform and strengthen the workforce investment system of the Nation to put Americans back to work and make the United States more competitive in the 21st century. ”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Workforce Investment Act of 1998 to strengthen the United States workforce development system through innovation in, and alignment and improvement of, employment, training, and education programs in the United States, and to promote individual and national economic growth, and for other purposes.
 
 ## § 1. Short title; table of contents
 

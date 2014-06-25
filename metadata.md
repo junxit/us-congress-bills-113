@@ -1,7 +1,7 @@
 ---
 measure: H.R. 803
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 803
@@ -81,7 +81,7 @@ Workforce Innovation and Opportunity Act
 - House — Education and the Workforce Committee
 - Senate — Health, Education, Labor, and Pensions Committee
 
-## Recorded votes (6)
+## Recorded votes (7)
 
 - 2013-03-15 — [House 113-1-73](votes/house-113-1-0073.md) — On Agreeing to the Amendment — **Failed** (192–227)
 - 2013-03-15 — [House 113-1-74](votes/house-113-1-0074.md) — On Motion to Recommit with Instructions — **Failed** (184–233)
@@ -89,6 +89,7 @@ Workforce Innovation and Opportunity Act
 - 2014-06-25 — [Senate 113-2-212](votes/senate-113-2-0212.md) — On the Amendment — **Amendment Rejected** (33–63)
 - 2014-06-25 — [Senate 113-2-213](votes/senate-113-2-0213.md) — On the Amendment — **Amendment Rejected** (40–58)
 - 2014-06-25 — [Senate 113-2-214](votes/senate-113-2-0214.md) — On Passage of the Bill — **Bill Passed** (95–3)
+- 2014-07-09 — [House 113-2-378](votes/house-113-2-0378.md) — On Motion to Suspend the Rules and Concur in the Senate Amendments — **Passed** (415–6)
 
 ## Actions
 
@@ -213,3 +214,17 @@ Workforce Innovation and Opportunity Act
 - 2014-06-25 — Senate amendment submitted
 - 2014-06-25 — Senate amendment submitted
 - 2014-06-25 — Senate amendment submitted
+- 2014-06-26 — Message on Senate action sent to the House.
+- 2014-07-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2014-07-09 — Considered as unfinished business. (consideration: CR H6009-6010)
+- 2014-07-09 — DEBATE - The House proceeded with forty minutes of debate on agreeing to the Senate amendments to H.R. 803.
+- 2014-07-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-09 — Mr. Kline moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H5887-5971)
+- 2014-07-09 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 415 - 6 (Roll no. 378). (text as House agreed to Senate amendment: CR H5887-5962)
+- 2014-07-09 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 415 - 6 (Roll no. 378).(text as House agreed to Senate amendment: CR H5887-5962)
+- 2014-07-15 — Presented to President.
+- 2014-07-15 — Presented to President.
+- 2014-07-22 — Became Public Law No: 113-128.
+- 2014-07-22 — Became Public Law No: 113-128.
+- 2014-07-22 — Signed by President.
+- 2014-07-22 — Signed by President.
