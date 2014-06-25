@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3548
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3548
@@ -31,9 +31,10 @@ Improving Trauma Care Act of 2014
 - Rep. Jenkins, Lynn [R-KS-2] (J000290)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Improving Trauma Care Act of 2014
 - 2014-06-24 — Mr. Pitts moved to suspend the rules and pass the bill, as amended.
 - 2014-06-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5695)
 - 2014-06-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5695)
+- 2014-06-25 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
