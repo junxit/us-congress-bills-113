@@ -26,11 +26,10 @@ Section 51312 of title 46, United States Code, is amended to read as follows:
 >     - **(B)** 3 members of the House of Representatives appointed by the chairman, in consultation with the ranking member, of the Committee on Armed Services of the House of Representatives;
 >     - **(C)** 1 Senator appointed by the Vice President, who shall be a member of the Committee on Appropriations of the Senate;
 >     - **(D)** 2 members of the House of Representatives appointed by the Speaker of the House of Representatives, in consultation with the Minority Leader, at least 1 of whom shall be a member of the Committee on Appropriations of the House of Representatives;
->     - **(E)** the Commander of the United States Transportation Command;
->     - **(F)** the Commander of the Military Sealift Command;
->     - **(G)** the Assistant Commandant for Prevention Policy of the United States Coast Guard;
->     - **(H)** 4 individuals appointed by the President; and
->     - **(I)** as ex officio members—
+>     - **(E)** the Commander of the Military Sealift Command;
+>     - **(F)** the Assistant Commandant for Prevention Policy of the United States Coast Guard;
+>     - **(G)** 4 individuals appointed by the President; and
+>     - **(H)** as ex officio members—
 >       - **(i)** the chairman of the Committee on Commerce, Science, and Transportation of the Senate;
 >       - **(ii)** the chairman of the Committee on Armed Services of the House of Representatives;
 >       - **(iii)** the chairman of the Advisory Board to the Academy established under section 51313; and
@@ -48,9 +47,8 @@ Section 51312 of title 46, United States Code, is amended to read as follows:
 >       - **(i)** an individual who has been appointed by the President and confirmed by the Senate;
 >       - **(ii)** a member of the Senior Executive Service; or
 >       - **(iii)** an officer of flag-rank who is employed by—
->         - **(I)** the United States Coast Guard;
->         - **(II)** the United States Transportation Command; or
->         - **(III)** the Military Sealift Command.
+>         - **(I)** the United States Coast Guard; or
+>         - **(II)** the Military Sealift Command.
 >     - **(C)** *Participation* A substitute member of the Board designated under subparagraph (A)—
 >       - **(i)** shall be permitted to fully participate in the proceedings and activities of the Board;
 >       - **(ii)** shall report back to the member on the Board’s activities not later than 15 days following the substitute member’s participation in such activities; and

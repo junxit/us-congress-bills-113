@@ -1,7 +1,7 @@
 ---
 measure: S. 2076
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
