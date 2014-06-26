@@ -1,7 +1,7 @@
 ---
 measure: S. 1448
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1448
@@ -16,9 +16,10 @@ Spokane Tribe of Indians of the Spokane Reservation Equitable Compensation Act
 
 - Sen. Cantwell, Maria [D-WA] (C000127)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Begich, Mark [D-AK] (B001265)
 
 ## Committees (1)
 
@@ -28,3 +29,8 @@ Spokane Tribe of Indians of the Spokane Reservation Equitable Compensation Act
 
 - 2013-08-01 — Introduced in Senate
 - 2013-08-01 — Read twice and referred to the Committee on Indian Affairs.
+- 2013-09-10 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 113-143.
+- 2014-01-29 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-06-26 — Committee on Indian Affairs. Reported by Senator Tester with an amendment in the nature of a substitute. With written report No. 113-202.
+- 2014-06-26 — Committee on Indian Affairs. Reported by Senator Tester with an amendment in the nature of a substitute. With written report No. 113-202.
+- 2014-06-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 448.
