@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4899
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -60,7 +60,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `43 U.S.C. § 1344` | add-at-end | Section 18(a) of the Outer Continental Shelf Lands Act (43 U.S.C. 1344(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1344` | amend | Section 18(a) of the Outer Continental Shelf Lands Act (43 U.S.C. 1344(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1344` | amend | Section 18(b) of the Outer Continental Shelf Lands Act (43 U.S.C. 1344(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1344` | strike | Section 18(d)(3) of the Outer Continental Shelf Lands Act (43 U.S.C. 1344(d)(3)) is amended by striking “or after eighteen months following the date of enactment of this section, whichever first occurs,”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 4332` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -70,12 +70,12 @@ complete account of the bill's effect, which it is not.
 | `5 U.S.C. § 5314` | insert | Section 5314 of title 5, United States Code, is amended by inserting after the item relating to “Under Secretaries of the Treasury (3).” the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 5315` | replace | Section 5315 of title 5, United States Code, is amended by striking “Assistant Secretaries of the Interior (6).” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 5316` | replace | Section 5316 of title 5, United States Code, is amended by striking “Director, Bureau of Mines, Department of the Interior.” and inserting the following new items: | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 1348` | add-at-end | Section 22 of the Outer Continental Shelf Lands Act (43 U.S.C. 1348) is amended by adding at the end of the section the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1348` | amend | Section 22 of the Outer Continental Shelf Lands Act (43 U.S.C. 1348) is amended by adding at the end of the section the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1331` | insert | in paragraph (a), by inserting after “control” the following: “or lying within the United States exclusive economic zone and the Continental Shelf adjacent to any territory of the United States”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1331` | strike | in paragraph (p), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 1331` | replace | in paragraph (q), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `43 U.S.C. § 1331` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1340` | add-at-end | Section 11 of the Outer Continental Shelf lands Act (43 U.S.C. 1340) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1340` | amend | Section 11 of the Outer Continental Shelf lands Act (43 U.S.C. 1340) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 226` | amend | Section 17(p)(2) of the Mineral Leasing Act (30 U.S.C. 226(p)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 226` | add-at-end | Section 17(p) of the Mineral Leasing Act (30 U.S.C. 226(p)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 226` | add-at-end | Section 17(a) of the Mineral Leasing Act (30 U.S.C. 226(a)) is amended by inserting “(1)” before “All lands”, and by adding at the end the following: | the bill quotes the text inserted but describes where it goes |
