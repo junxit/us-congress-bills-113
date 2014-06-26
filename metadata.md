@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6
@@ -165,3 +165,4 @@ Domestic Prosperity and Global Freedom Act
 - 2014-06-25 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5770)
 - 2014-06-25 — The previous question was ordered pursuant to the rule. (consideration: CR H5749)
 - 2014-06-25 — UNFINISHED BUSINESS - The Chair announced that, pursuant to clause 6 of Rule XVIII, the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2014-06-26 — Received in the Senate.
