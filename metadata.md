@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3212
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3212
@@ -75,3 +75,7 @@ Sean and David Goldman International Child Abduction Prevention and Return Act o
 - 2013-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 635).(text: CR H7642-7646)
 - 2013-12-12 — Received in the Senate.
 - 2013-12-17 — Read twice and referred to the Committee on Foreign Relations.
+- 2014-06-24 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2014-06-26 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. With written report No. 113-204.
+- 2014-06-26 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. With written report No. 113-204.
+- 2014-06-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 450.
