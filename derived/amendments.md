@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4719
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,6 +32,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `26 U.S.C. § 170` | strike | Section 170(e)(3)(C) of the Internal Revenue Code of 1986 is amended by striking clause (iv). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 170` | redesignate | Section 170(e)(3)(C) of such Code, as amended by subsection (a), is amended by striking clause (ii), by redesignating clause (iii) as clause (iv), and by inserting after clause (i) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 170` | amend | Section 170(e)(3)(C) of such Code, as amended by subsections (a) and (b), is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 170` | redesignate | Section 170(e)(3)(C) of such Code, as amended by subsection (a), is amended by striking clause (ii), by redesignating clause (iii) as clause (iv), and by inserting after clause (i) the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 170` | add-at-end | Section 170(e)(3)(C) of such Code, as amended by subsections (a) and (b), is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 170` | add-at-end | Section 170(e)(3)(C) of such Code, as amended by subsections (a), (b), and (c), is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
