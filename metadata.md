@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2807
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2807
@@ -16,7 +16,7 @@ Conservation Easement Incentive Act of 2014
 
 - Rep. Gerlach, Jim [R-PA-6] (G000549)
 
-## Cosponsors (134)
+## Cosponsors (221)
 
 - Rep. Thompson, Mike [D-CA-5] (T000460)
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
@@ -152,6 +152,93 @@ Conservation Easement Incentive Act of 2014
 - Rep. Womack, Steve [R-AR-3] (W000809)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Owens, William L. [D-NY-21] (O000169)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Reed, Tom [R-NY-23] (R000585)
+- Rep. Sanford, Mark [R-SC-1] (S000051)
+- Rep. Bustos, Cheri [D-IL-17] (B001286)
+- Rep. Doggett, Lloyd [D-TX-35] (D000399)
+- Rep. Hastings, Alcee L. [D-FL-20] (H000324)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Young, Todd [R-IN-9] (Y000064)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. O'Rourke, Beto [D-TX-16] (O000170)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Daines, Steve [R-MT-At Large] (D000618)
+- Rep. Benishek, Dan [R-MI-1] (B001271)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. Nolan, Richard M. [D-MN-8] (N000127)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Rep. Cotton, Tom [R-AR-4] (C001095)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Paulsen, Erik [R-MN-3] (P000594)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Heck, Denny [D-WA-10] (H001064)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Byrne, Bradley [R-AL-1] (B001289)
+- Rep. Marino, Tom [R-PA-10] (M001179)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. Latham, Tom [R-IA-3] (L000111)
+- Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
+- Rep. Delaney, John K. [D-MD-6] (D000620)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Miller, George [D-CA-11] (M000725)
+- Rep. Gibbs, Bob [R-OH-7] (G000563)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Boustany, Charles W., Jr. [R-LA-3] (B001255)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Renacci, James B. [R-OH-16] (R000586)
+- Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. Nunes, Devin [R-CA-22] (N000181)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Price, Tom [R-GA-6] (P000591)
+- Rep. Palazzo, Steven M. [R-MS-4] (P000601)
+- Rep. Farr, Sam [D-CA-20] (F000030)
+- Rep. Maffei, Daniel B. [D-NY-24] (M001171)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Rogers, Mike J. [R-MI-8] (R000572)
+- Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Clark, Katherine M. [D-MA-5] (C001101)
+- Rep. Lujan Grisham, Michelle [D-NM-1] (L000580)
 
 ## Committees (1)
 
@@ -162,3 +249,8 @@ Conservation Easement Incentive Act of 2014
 - 2013-07-24 — Introduced in House
 - 2013-07-24 — Introduced in House
 - 2013-07-24 — Referred to the House Committee on Ways and Means.
+- 2014-05-29 — Committee Consideration and Mark-up Session Held.
+- 2014-05-29 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 23 - 14.
+- 2014-06-26 — Placed on the Union Calendar, Calendar No. 367.
+- 2014-06-26 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-494.
+- 2014-06-26 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-494.
