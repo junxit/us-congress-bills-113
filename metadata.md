@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3301
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3301
@@ -129,3 +129,5 @@ North American Energy Infrastructure Act
 - 2014-06-24 — The previous question was ordered pursuant to the rule. (consideration: CR H5686)
 - 2014-06-24 — The resolution provides for consideration of H.R. 6 and H.R. 3301. For H.R. 6, one hour of general debate and amendments are confined to those printed in part A of the report accompanying the resolution. For H.R. 3301, one hour of general debate and amendments are confined to those printed in part B of the report accompanying the resolution.
 - 2014-06-24 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier, and on which further proceedings had been postponed.
+- 2014-06-25 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-06-26 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 442.
