@@ -16,7 +16,7 @@ This Act may be cited as the “Victims of Child Abuse Act Reauthorization Act o
 ## § 2. Improving investigation and prosecution of child abuse cases
 
 - **(a)** *Reauthorization* Section 214B of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13004) is amended—
-  - **(1)** in subsection (a), by striking “$15,000,000 for each of fiscal years 2004 and 2005” and inserting “$17,500,000 for each of fiscal years 2014, 2015, 2016, 2017, and 2018”; and
+  - **(1)** in subsection (a), by striking “fiscal years 2004 and 2005” and inserting “fiscal years 2014, 2015, 2016, 2017, and 2018”; and
   - **(2)** in subsection (b), by striking “fiscal years 2004 and 2005” and inserting “fiscal years 2014, 2015, 2016, 2017, and 2018”.
 - **(b)** *Accountability* Subtitle A of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13001 et seq.) is amended by adding at the end the following:
   > ## § 214C. Accountability
@@ -39,3 +39,13 @@ This Act may be cited as the “Victims of Child Abuse Act Reauthorization Act o
   >   - **(A)** *Limitation* No amounts authorized to be appropriated to the Department of Justice under this subtitle may be used by the Administrator, or by any individual or organization awarded discretionary funds through a cooperative agreement under this Act, to host or support any expenditure for conferences that uses more than $20,000 in Department funds, unless the Deputy Attorney General or such Assistant Attorney Generals, Directors, or principal deputies as the Deputy Attorney General may designate, including the Administrator, provides prior written authorization through an award process or subsequent application that the funds may be expended to host a conference.
   >   - **(B)** *Written approval* Written approval under subparagraph (A) shall include a written estimate of all costs associated with the conference, including the cost of all food and beverages, audiovisual equipment, honoraria for speakers, and any entertainment.
   >   - **(C)** *Report* The Deputy Attorney General shall submit an annual report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives on all approved conference expenditures referenced in this paragraph.
+
+## § 3. Crime victims fund
+
+Section 1402(d)(3) of the Victims of Crime Act of 1984 (42 U.S.C. 10601(d)(3)) is amended—
+
+- **(1)** by inserting “(A)” before “Of the sums”; and
+- **(2)** by striking “available for the United States Attorneys Offices” and all that follows and inserting the following: ‘‘available only for—
+  > - **(i)** the United States Attorneys Offices and the Federal Bureau of Investigation to provide and improve services for the benefit of crime victims in the Federal criminal justice system (as described in 3771 of title 18, United States Code, and section 503 of the Victims’ Rights and Restitution Act of 1990 (42 U.S.C. 10607)) through victim coordinators, victims’ specialists, and advocates, including for the administrative support of victim coordinators and advocates providing such services; and
+  > - **(ii)** a Victim Notification System.
+  > - **(B)** Amounts made available under subparagraph (A) may not be used for any purpose that is not specified in clause (i) or (ii) of subparagraph (A).

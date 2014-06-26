@@ -1,7 +1,7 @@
 ---
 measure: S. 1799
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1799
@@ -16,7 +16,7 @@ Victims of Child Abuse Act Reauthorization Act of 2013
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Cosponsors (24)
+## Cosponsors (29)
 
 - Sen. Blunt, Roy [R-MO] (B000575)
 - Sen. Sessions, Jeff [R-AL] (S001141)
@@ -42,6 +42,11 @@ Victims of Child Abuse Act Reauthorization Act of 2013
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
 
 ## Committees (1)
 
@@ -55,3 +60,11 @@ Victims of Child Abuse Act Reauthorization Act of 2013
 - 2014-06-12 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2014-06-12 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2014-06-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 431.
+- 2014-06-26 — Amendment SA 3443 agreed to in Senate by Unanimous Consent.
+- 2014-06-26 — Amendment SA 3443 proposed by Senator Reid for Senator Coons. (consideration: CR S4189-4190; text: CR S4189-4190) In the nature of a substitute.
+- 2014-06-26 — Measure laid before Senate by unanimous consent. (consideration: CR S4189-4190)
+- 2014-06-26 — Passed Senate with an amendment by Unanimous Consent. (text: CR S4189-4190)
+- 2014-06-26 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S4189-4190)
+- 2014-06-26 — Senate amendment agreed to: Amendment SA 3443 agreed to in Senate by Unanimous Consent.
+- 2014-06-26 — Senate amendment proposed (on the floor): Amendment SA 3443 proposed by Senator Reid for Senator Coons.(consideration: CR S4189-4190; text: CR S4189-4190)
+- 2014-06-26 — Senate amendment submitted
