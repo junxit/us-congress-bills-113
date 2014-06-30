@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2569
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -34,26 +34,21 @@ Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by
   - **(1)** *In general* In order to provide for the long-term protection, preservation, and enhancement of the river segments designated by paragraph (208) of section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)), the Secretary of the Interior may enter into cooperative agreements pursuant to sections 10(e) and 11(b)(1) (16 U.S.C. 1281(e), 1282(b)(1)) of the Wild and Scenic Rivers Act with—
     - **(A)** the State of Vermont;
     - **(B)** the municipalities of Berkshire, Enosburg Falls, Enosburgh, Montgomery, North Troy, Richford, Troy, and Westfield; and
-    - **(C)** appropriate local, regional, statewide, or multi-state planning, environmental, or recreational organizations.
+    - **(C)** appropriate local, regional, statewide, or multi-state planning or recreational organizations consistent with the management plan.
   - **(2)** *Consistency* Each cooperative agreement entered into under this section shall be consistent with the management plan and may include provisions for financial or other assistance from the United States.
 - **(d)** *Effect on existing Hydroelectric Facilities*
   - **(1)** *In general* The designation of the river segments by paragraph (208) of section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)), does not—
-    - **(A)** preclude the Federal Energy Regulatory Commission from licensing, relicensing, or otherwise authorizing the operation or continued operation of the Troy Hydroelectric, North Troy, or Enosburg Falls hydroelectric project under the terms of licenses or exemptions in effect on the date of enactment of this Act; or
-    - **(B)** limit modernization, upgrade, or other changes to the projects described in paragraph (1) subject to written determination by the Secretary of the Interior that the changes are consistent with the purposes of the designation.
+    - **(A)** preclude, prohibit, or restrict the Federal Energy Regulatory Commission from licensing, relicensing, or otherwise authorizing the operation or continued operation of the Troy Hydroelectric, North Troy, or Enosburg Falls hydroelectric project under the terms of licenses or exemptions in effect on the date of enactment of this Act; or
+    - **(B)** limit modernization, upgrade, or other changes to the projects described in paragraph (1).
   - **(2)** *Hydropower proceedings* Resource protection, mitigation, or enhancement measures required by Federal Energy Regulatory Commission hydropower proceedings—
     - **(A)** shall not be considered to be project works for purposes of this Act; and
-    - **(B)** may be located within the river segments designated by paragraph (208) of section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)), subject to a written determination by the Secretary that the measures are consistent with the purposes of the designation.
+    - **(B)** may be located within the river segments designated by paragraph (208) of section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)).
 - **(e)** *Land management*
   - **(1)** *Zoning ordinances* For the purpose of the segments designated in paragraph (208) of section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)), the zoning ordinances adopted by the towns of Berkshire, Enosburg Falls, Enosburgh, Montgomery, North Troy, Richford, Troy, and Westfield in the State of Vermont, including provisions for conservation of floodplains, wetlands, and watercourses associated with the segments, shall be considered to satisfy the standards and requirements of section 6(c) of the Wild and Scenic Rivers Act (16 U.S.C. 1277(c)).
   - **(2)** *Acquisitions of land* The authority of the Secretary to acquire land for the purposes of the segments designated in paragraph (208) of section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) shall be—
-    - **(A)** limited to acquisition by donation or acquisition with the consent of the owner of the land; and
+    - **(A)** limited to acquisition by donation or exchange; and
     - **(B)** subject to the additional criteria set forth in the management plan.
+  - **(3)** *No condemnation* The Secretary of the Interior may not acquire by condemnation any land or interest in land within the boundaries of the river segments designated by paragraph (208) of section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)).
+  - **(4)** *Written consent of owner required* No private property or non-Federal public property shall be included within the boundaries of the river segments designated by paragraph (208) of section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) without the written consent of the owner of that property.
 - **(f)** *Relation to national park system* Notwithstanding section 10(c) of the Wild and Scenic Rivers Act (16 U.S.C. 1281(c)), the Missisquoi and Trout Rivers shall not be administered as part of the National Park System or be subject to regulations that govern the National Park System.
-- **(g)** *Designation of Additional Segment*
-  - **(1)** *Definition of Additional Segment* In this subsection, the term additional segment means the 3.8-mile segment of the Missisquoi River extending from the confluence of the Burgess Branch and East Branch of the Missisquoi River in Lowell to the Lowell/Westfield town line.
-  - **(2)** *Findings* Congress finds that the additional segment is eligible and suitable for designation as a recreational river if the Secretary of the Interior determines that there is adequate local support for the designation in accordance with paragraph (4).
-  - **(3)** *Designation and administration* If the Secretary of the Interior determines that there is adequate local support for the designation of the additional segment in accordance with paragraph (4)—
-    - **(A)** the Secretary shall publish in the Federal Register notice of the designation of the additional segment;
-    - **(B)** the additional segment shall be designated as a recreational river in accordance with the Wild and Scenic Rivers Act (16 U.S.C. 1271 et seq.); and
-    - **(C)** the Secretary shall administer the additional segment as a recreational river.
-  - **(4)** *Determination of local support* The Secretary of the Interior shall determine that there is adequate local support for the designation of the additional segment as a recreational river if the legal voters of the town of Lowell, Vermont, express by a majority vote a desire for the designation.
+- **(g)** *No buffer zone created* Nothing in this Act or the Upper Missisquoi and Trout Rivers Management Plan shall be construed to create buffer zones outside the designated river segment boundaries designated by paragraph (208) of section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)). That activities or uses can be seen, heard, or detected from areas within the designated river segments shall not preclude, limit, control, regulate or determine the conduct of management of activities or uses outside those designated river segments.
