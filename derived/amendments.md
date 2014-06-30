@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2208
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+3 amendatory instructions. 1 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,9 +26,21 @@ to guess them.
 
 ### 16 U.S.C. § 4406
 
-> Section 7(c) of the North American Wetlands Conservation Act (16 U.S.C. 4406(c)) is amended by striking “2012” and inserting “2017”.
+> Section 7(c) of the North American Wetlands Conservation Act (16 U.S.C. 4406(c)) is amended by striking “not to exceed—” and all that follows through paragraph (5) and inserting “not to exceed $35,000,000 for each of fiscal years 2015 through 2018.”.
 
 | | |
 |---|---|
-| Removed | `2012` |
-| Inserted | `2017` |
+| Removed | `not to exceed—` |
+| Inserted | `not to exceed $35,000,000 for each of fiscal years 2015 through 2018.` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `16 U.S.C. § 4405` | add-at-end | Section 6 of the North American Wetlands Conservation Act (16 U.S.C. 4405) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 4409` | amend | Section 10(2) of the North American Wetlands Conservation Act (16 U.S.C. 4409(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
