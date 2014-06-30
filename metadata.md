@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3802
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3802
@@ -16,7 +16,7 @@ To extend the legislative authority of the Adams Memorial Foundation to establis
 
 - Rep. Lynch, Stephen F. [D-MA-8] (L000562)
 
-## Cosponsors (8)
+## Cosponsors (9)
 
 - Rep. Keating, William R. [D-MA-9] (K000375)
 - Rep. Neal, Richard E. [D-MA-1] (N000015)
@@ -26,6 +26,7 @@ To extend the legislative authority of the Adams Memorial Foundation to establis
 - Rep. Tsongas, Niki [D-MA-3] (T000465)
 - Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
 - Rep. Clark, Katherine M. [D-MA-5] (C001101)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
 
 ## Committees (1)
 
@@ -36,3 +37,11 @@ To extend the legislative authority of the Adams Memorial Foundation to establis
 - 2013-12-19 — Introduced in House
 - 2013-12-19 — Introduced in House
 - 2013-12-19 — Referred to the House Committee on Natural Resources.
+- 2013-12-27 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2014-02-26 — Subcommittee Hearings Held.
+- 2014-04-09 — Committee Consideration and Mark-up Session Held.
+- 2014-04-09 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2014-04-09 — Subcommittee on Public Lands and Environmental Regulation Discharged.
+- 2014-06-30 — Placed on the Union Calendar, Calendar No. 377.
+- 2014-06-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-504.
+- 2014-06-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-504.
