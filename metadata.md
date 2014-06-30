@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4193
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4193
@@ -16,13 +16,14 @@ Smart Savings Act
 
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 - Rep. Woodall, Rob [R-GA-7] (W000810)
 - Rep. Lynch, Stephen F. [D-MA-8] (L000562)
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
 ## Committees (1)
 
@@ -33,3 +34,8 @@ Smart Savings Act
 - 2014-03-11 — Introduced in House
 - 2014-03-11 — Introduced in House
 - 2014-03-11 — Referred to the House Committee on Oversight and Government Reform.
+- 2014-03-12 — Committee Consideration and Mark-up Session Held.
+- 2014-03-12 — Ordered to be Reported by Voice Vote.
+- 2014-06-30 — Placed on the Union Calendar, Calendar No. 379.
+- 2014-06-30 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-507.
+- 2014-06-30 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-507.
