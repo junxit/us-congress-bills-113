@@ -32,7 +32,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >       - **(I)** property is originally placed in service by the lessor of such property,
   >       - **(II)** such property is sold by such lessor or any subsequent purchaser within 3 months after the date such property was originally placed in service (or, in the case of multiple units of property subject to the same lease, within 3 months after the date the final unit is placed in service, so long as the period between the time the first unit is placed in service and the time the last unit is placed in service does not exceed 12 months), and
   >       - **(III)** the user of such property after the last sale during such 3-month period remains the same as when such property was originally placed in service,
-  >   - **(D)** *Coordination with section 280F* For purposes of section 280F:
+  >   - **(D)** *Coordination with section 280F* For purposes of section 280F—
   >     - **(i)** *Automobiles* In the case of a passenger automobile (as defined in section 280F(d)(5)) which is qualified property, the Secretary shall increase the limitation under section 280F(a)(1)(A)(i) by $8,000.
   >     - **(ii)** *Listed property* The deduction allowable under paragraph (1) shall be taken into account in computing any recapture amount under section 280F(b)(2).
   >     - **(iii)** *Inflation adjustment* In the case of any taxable year beginning in a calendar year after 2014, the $8,000 amount in clause (i) shall be increased by an amount equal to—
@@ -40,7 +40,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >       - **(II)** the automobile price inflation adjustment determined under section 280F(d)(7)(B)(i) for the calendar year in which such taxable year begins by substituting “2013” for “1987” in subclause (II) thereof.
   >   - **(E)** *Deduction allowed in computing minimum tax* For purposes of determining alternative minimum taxable income under section 55, the deduction under section 167 for qualified property shall be determined without regard to any adjustment under section 56.
 
-- **(b)** *Expansion of election To accelerate AMT credits in lieu of bonus depreciation* Section 168(k)(4) of such Code is amended to read as follows:
+- **(b)** *Expansion of election to accelerate amt credits in lieu of bonus depreciation* Section 168(k)(4) of such Code is amended to read as follows:
   > - **(4)** *Election to accelerate amt credits in lieu of bonus depreciation*
   >   - **(A)** *In general* If a corporation elects to have this paragraph apply for any taxable year—
   >     - **(i)** paragraphs (1)(A), (2)(D)(i), and (5)(A)(i) shall not apply for such taxable year,
@@ -52,7 +52,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >       - **(II)** the aggregate amount of depreciation which would be allowed under this section for qualified property placed in service by the taxpayer during such taxable year if paragraph (1) did not apply to any such property.
   >     - **(ii)** *Limitation* The bonus depreciation amount for any taxable year shall not exceed the lesser of—
   >       - **(I)** 50 percent of the minimum tax credit under section 53(b) for the first taxable year ending after December 31, 2013, or
-  >       - **(II)** the minimum tax credit under section 53(b) for such taxable year determined by taking into account only the adjusted minimum tax for taxable years ending before January 1, 2014 (determined by treating credits as allowed on a first-in, first-out basis).
+  >       - **(II)** the minimum tax credit under section 53(b) for such taxable year determined by taking into account only the adjusted net minimum tax for taxable years ending before January 1, 2014 (determined by treating credits as allowed on a first-in, first-out basis).
   >     - **(iii)** *Aggregation rule* All corporations which are treated as a single employer under section 52(a) shall be treated—
   >       - **(I)** as 1 taxpayer for purposes of this paragraph, and
   >       - **(II)** as having elected the application of this paragraph if any such corporation so elects.
@@ -88,7 +88,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(5)** Section 460(c)(6)(B) of such Code is amended by striking “which—” and all that follows and inserting “which has a recovery period of 7 years or less.”.
   - **(6)** Section 168(k) of such Code is amended by striking “acquired after December 31, 2007, and before January 1, 2014” in the heading thereof.
 - **(e)** *Effective dates*
-  - **(1)** *In general* Except as otherwise provided in this subsection, the amendments made by this subsection shall apply to property placed in service after December 31, 2013.
+  - **(1)** *In general* Except as otherwise provided in this subsection, the amendments made by this section shall apply to property placed in service after December 31, 2013.
   - **(2)** *Expansion of election to accelerate amt credits in lieu of bonus depreciation*
     - **(A)** *In general* The amendment made by subsection (b) (other than so much of such amendment as relates to section 168(k)(4)(D)(iii) of such Code, as added by such amendment) shall apply to taxable years ending after December 31, 2013.
     - **(B)** *Transitional rule* In the case of a taxable year beginning before January 1, 2014, and ending after December 31, 2013, the bonus depreciation amount determined under section 168(k)(4) of such Code for such year shall be the sum of—

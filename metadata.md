@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4718
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4718
@@ -16,7 +16,7 @@ To amend the Internal Revenue Code of 1986 to modify and make permanent bonus de
 
 - Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
 
-## Cosponsors (18)
+## Cosponsors (26)
 
 - Rep. Schock, Aaron [R-IL-18] (S001179)
 - Rep. Young, Todd [R-IN-9] (Y000064)
@@ -36,6 +36,14 @@ To amend the Internal Revenue Code of 1986 to modify and make permanent bonus de
 - Rep. Reichert, David G. [R-WA-8] (R000578)
 - Rep. Huizenga, Bill [R-MI-2] (H001058)
 - Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Price, Tom [R-GA-6] (P000591)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Gardner, Cory [R-CO-4] (G000562)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Denham, Jeff [R-CA-10] (D000612)
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
+- Rep. Peters, Gary C. [D-MI-14] (P000595)
 
 ## Committees (1)
 
@@ -46,3 +54,8 @@ To amend the Internal Revenue Code of 1986 to modify and make permanent bonus de
 - 2014-05-22 — Introduced in House
 - 2014-05-22 — Introduced in House
 - 2014-05-22 — Referred to the House Committee on Ways and Means.
+- 2014-05-29 — Committee Consideration and Mark-up Session Held.
+- 2014-05-29 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 23 - 11.
+- 2014-07-03 — Placed on the Union Calendar, Calendar No. 381.
+- 2014-07-03 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-509.
+- 2014-07-03 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-509.
