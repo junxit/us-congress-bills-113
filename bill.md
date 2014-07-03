@@ -49,3 +49,10 @@ In this Act:
     - **(B)** early retirement benefits;
     - **(C)** law enforcement availability pay; and
     - **(D)** weapons, vehicles, and communications devices.
+
+## § 6. Investigation of Federal Air Marshal Service use of Federal firearms license
+
+Not later than 90 days after the date of the enactment of this Act, or as soon as practicable, the Assistant Secretary shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
+
+- **(1)** any materials in the possession or control of the Department of Homeland Security associated with the Office of Inspection’s review of the use of a Federal firearms license by Federal Air Marshal Service officials to obtain discounted or free firearms for personal use; and
+- **(2)** information on specific actions that will be taken to prevent Federal Air Marshal Service officials from using a Federal firearms license, or exploiting, in any way, the Service’s relationships with private vendors to obtain discounted or free firearms for personal use.
