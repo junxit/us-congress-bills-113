@@ -1,7 +1,7 @@
 ---
 measure: S. 2076
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2076
@@ -22,9 +22,10 @@ U.S. Merchant Marine Academy Board of Visitors Enhancement Act
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Armed Services Committee
 
 ## Actions
 
@@ -42,3 +43,6 @@ U.S. Merchant Marine Academy Board of Visitors Enhancement Act
 - 2014-06-26 — Senate amendment agreed to: Amendment SA 3442 agreed to in Senate by Unanimous Consent.
 - 2014-06-26 — Senate amendment proposed (on the floor): Amendment SA 3442 proposed by Senator Reid for Senator Boozman.(consideration: CR S4188; text: CR S4188)
 - 2014-06-26 — Senate amendment submitted
+- 2014-06-30 — Message on Senate action sent to the House.
+- 2014-07-03 — Received in the House.
+- 2014-07-03 — Referred to the House Committee on Armed Services.
