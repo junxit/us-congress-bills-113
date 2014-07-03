@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3488
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3488
@@ -16,7 +16,7 @@ Preclearance Authorization Act of 2014
 
 - Rep. Meehan, Patrick [R-PA-7] (M001181)
 
-## Cosponsors (61)
+## Cosponsors (154)
 
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
@@ -79,6 +79,99 @@ Preclearance Authorization Act of 2014
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Radel, Trey [R-FL-19] (R000596)
 - Rep. Graves, Tom [R-GA-14] (G000560)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Turner, Michael R. [R-OH-10] (T000463)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Esty, Elizabeth H. [D-CT-5] (E000293)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
+- Rep. Hahn, Janice [D-CA-44] (H001063)
+- Rep. Dingell, John D. [D-MI-12] (D000355)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Speier, Jackie [D-CA-14] (S001175)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Cook, Paul [R-CA-8] (C001094)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Griffin, Tim [R-AR-2] (G000567)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Enyart, William L. [D-IL-12] (E000292)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Paulsen, Erik [R-MN-3] (P000594)
+- Rep. Coffman, Mike [R-CO-6] (C001077)
+- Rep. Hanna, Richard L. [R-NY-22] (H001051)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Matheson, Jim [D-UT-4] (M001142)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Yoder, Kevin [R-KS-3] (Y000063)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Honda, Michael M. [D-CA-17] (H001034)
+- Rep. Webster, Daniel [R-FL-10] (W000806)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Rothfus, Keith J. [R-PA-12] (R000598)
+- Rep. Kirkpatrick, Ann [D-AZ-1] (K000368)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Doggett, Lloyd [D-TX-35] (D000399)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Bustos, Cheri [D-IL-17] (B001286)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. Pompeo, Mike [R-KS-4] (P000602)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Slaughter, Louise McIntosh [D-NY-25] (S000480)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
+- Rep. Murphy, Patrick [D-FL-18] (M001191)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Israel, Steve [D-NY-3] (I000057)
+- Rep. Massie, Thomas [R-KY-4] (M001184)
+- Rep. Hastings, Doc [R-WA-4] (H000329)
+- Rep. Bentivolio, Kerry L. [R-MI-11] (B001280)
+- Rep. Huffman, Jared [D-CA-2] (H001068)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Hastings, Alcee L. [D-FL-20] (H000324)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Capuano, Michael E. [D-MA-7] (C001037)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Grayson, Alan [D-FL-9] (G000556)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Palazzo, Steven M. [R-MS-4] (P000601)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Garcia, Joe [D-FL-26] (G000573)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Cartwright, Matt [D-PA-17] (C001090)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Edwards, Donna F. [D-MD-4] (E000290)
 
 ## Committees (2)
 
@@ -91,3 +184,13 @@ Preclearance Authorization Act of 2014
 - 2013-11-14 — Introduced in House
 - 2013-11-14 — Referred to the Committee on Homeland Security, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-11-14 — Referred to the Committee on Homeland Security, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-11-20 — Referred to the Subcommittee on Border and Maritime Security.
+- 2014-05-20 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2014-05-20 — Subcommittee Consideration and Mark-up Session Held.
+- 2014-06-11 — Committee Consideration and Mark-up Session Held.
+- 2014-06-11 — Ordered to be Reported (Amended) by Voice Vote.
+- 2014-07-03 — Committee on Ways and Means discharged.
+- 2014-07-03 — Committee on Ways and Means discharged.
+- 2014-07-03 — Placed on the Union Calendar, Calendar No. 383.
+- 2014-07-03 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-511, Part I.
+- 2014-07-03 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-511, Part I.
