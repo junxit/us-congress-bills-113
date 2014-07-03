@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Airport Security Enhancement Act of 2014”.
+This Act may be cited as the “Gerardo Hernandez Airport Security Act of 2014”.
 
 ## § 2. Definitions
 
@@ -52,3 +52,8 @@ Not later than 90 days after the enactment of this Act, the Assistant Secretary 
 ## § 7. No additional authorization of appropriations
 
 No additional funds are authorized to be appropriated to carry out this Act, and this Act shall be carried out using amounts otherwise available for such purpose.
+
+## § 8. Interoperability review
+
+- **(a)** *In general* Not later than 90 days after the date of enactment of this Act, the Assistant Secretary shall, in consultation with the Assistant Secretary of the Office of Cybersecurity and Communications, conduct a review of the interoperable communications capabilities of the law enforcement, fire, and medical personnel responsible for responding to a security incident, including active shooter events, acts of terrorism, and incidents that target passenger-screening checkpoints, at all airports in the United States at which the Administration performs, or oversees the implementation and performance of, security measures.
+- **(b)** *Report* Not later than 30 days after the completion of the review, the Assistant Secretary shall report the findings of the review to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
