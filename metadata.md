@@ -1,7 +1,7 @@
 ---
 measure: S. 1799
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1799
@@ -48,9 +48,11 @@ Victims of Child Abuse Act Reauthorization Act of 2013
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Judiciary Committee
+- House — Education and the Workforce Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -68,3 +70,7 @@ Victims of Child Abuse Act Reauthorization Act of 2013
 - 2014-06-26 — Senate amendment agreed to: Amendment SA 3443 agreed to in Senate by Unanimous Consent.
 - 2014-06-26 — Senate amendment proposed (on the floor): Amendment SA 3443 proposed by Senator Reid for Senator Coons.(consideration: CR S4189-4190; text: CR S4189-4190)
 - 2014-06-26 — Senate amendment submitted
+- 2014-06-30 — Message on Senate action sent to the House.
+- 2014-07-03 — Received in the House.
+- 2014-07-03 — Referred to the Committee on the Judiciary, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-07-03 — Referred to the Committee on the Judiciary, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
