@@ -1,7 +1,7 @@
 ---
 measure: S. 1799
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1799
@@ -74,3 +74,15 @@ Victims of Child Abuse Act Reauthorization Act of 2013
 - 2014-07-03 — Received in the House.
 - 2014-07-03 — Referred to the Committee on the Judiciary, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2014-07-03 — Referred to the Committee on the Judiciary, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-07-28 — Considered under suspension of the rules. (consideration: CR H6875-6877)
+- 2014-07-28 — DEBATE - The House proceeded with forty minutes of debate on S. 1799.
+- 2014-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-28 — Mr. Franks (AZ) moved to suspend the rules and pass the bill.
+- 2014-07-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6875-6876)
+- 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6875-6876)
+- 2014-07-31 — Presented to President.
+- 2014-07-31 — Presented to President.
+- 2014-08-08 — Became Public Law No: 113-163.
+- 2014-08-08 — Became Public Law No: 113-163.
+- 2014-08-08 — Signed by President.
+- 2014-08-08 — Signed by President.
