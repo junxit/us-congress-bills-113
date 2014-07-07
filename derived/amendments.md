@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 470
 congress: 113
-version: Placed on Calendar Senate
+version: Agreed to Senate
 derived: true
 ---
 
