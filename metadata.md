@@ -1,7 +1,7 @@
 ---
 measure: S. 2028
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2028
@@ -28,3 +28,7 @@ Sport Fish Restoration and Recreational Boating Safety Act of 2014
 
 - 2014-02-12 — Introduced in Senate
 - 2014-02-12 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2014-04-09 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2014-07-07 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. With written report No. 113-205.
+- 2014-07-07 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. With written report No. 113-205.
+- 2014-07-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 452.
