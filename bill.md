@@ -1,0 +1,30 @@
+---
+legis-num: S. RES. 496
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 496
+
+> Relative to the death of the Honorable Alan John Dixon, former United States Senator for the State of Illinois.
+
+## Preamble
+
+- Whereas Alan John Dixon was born in Belleville, St. Clair County, Illinois on July 7, 1927, served in the United States Navy Air Corps in 1945, graduated from the University of Illinois in 1949, graduated Washington University School of Law located in St. Louis, Missouri in 1949, passed the Illinois bar in 1949, and then commenced practice in Belleville;
+- Whereas Senator Dixon married his wife, Joan Louise “Jody” Fox, in 1954;
+- Whereas Senator Dixon is survived by his wife, Joan; 2 daughters, Stephanie Yearian of Waterloo, Illinois, and Elizabeth Megaw of Fairfax, Virginia; 1 son, Jeffrey Dixon of Chicago, Illinois; 8 grandchildren; and 6 great-grandchildren;
+- Whereas Senator Dixon was elected Belleville, Illinois, Police Magistrate in 1949;
+- Whereas Senator Dixon served in the Illinois House of Representatives from 1951–1963, in the Illinois Senate from 1963–1971, and as Minority Whip of the Illinois Senate from 1964–1971;
+- Whereas Senator Dixon served as Illinois Treasurer from 1971–1977 and Illinois Secretary of State from 1977–1981;
+- Whereas Senator Dixon was first elected to the United States Senate in 1980 and served until 1993;
+- Whereas Senator Dixon continued to serve his country as chair of the Defense Base Closure and Realignment Commission from 1994–1995;
+- Whereas Senator Dixon served the State of Illinois for 42 years;
+- Whereas Senator Dixon was the first statewide Democrat in Illinois to make full disclosure of his net financial worth and began the tradition in Washington of bipartisan Illinois Congressional lunches; and
+- Whereas his impeccable honesty, willingness to reach across the aisle and across Illinois, and leadership in the State earned him the nickname “Al the Pal”: Now, therefore, be it
+
+That—
+
+- **(1)** the Senate has heard with profound sorrow and deep regret the announcement of the death of the Honorable Alan John Dixon, former member of the United States Senate;
+- **(2)** the Secretary of the Senate communicate these resolutions to the House of Representatives and transmit an enrolled copy thereof to the family of the deceased; and
+- **(3)** when the Senate adjourns today, it stand adjourned as a further mark of respect to the memory of the Alan John Dixon.
