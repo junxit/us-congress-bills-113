@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1528
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1528
@@ -226,3 +226,8 @@ Veterinary Medicine Mobility Act of 2014
 - 2014-05-20 — Placed on the Union Calendar, Calendar No. 338.
 - 2014-05-20 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-457, Part I.
 - 2014-05-20 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-457, Part I.
+- 2014-07-08 — Considered under suspension of the rules. (consideration: CR H5834-5836)
+- 2014-07-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1528.
+- 2014-07-08 — Mr. Pitts moved to suspend the rules and pass the bill, as amended.
+- 2014-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5834)
+- 2014-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5834)
