@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4289
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4289
@@ -25,6 +25,10 @@ Department of Homeland Security Interoperable Communications Act
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2014-07-08 — [House 113-2-370](votes/house-113-2-0370.md) — On Motion to Suspend the Rules and Pass — **Passed** (393–0)
+
 ## Actions
 
 - 2014-03-24 — Introduced in House
@@ -38,3 +42,10 @@ Department of Homeland Security Interoperable Communications Act
 - 2014-06-19 — Placed on the Union Calendar, Calendar No. 360.
 - 2014-06-19 — Reported by the Committee on Homeland Security. H. Rept. 113-484.
 - 2014-06-19 — Reported by the Committee on Homeland Security. H. Rept. 113-484.
+- 2014-07-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-07-08 — Considered as unfinished business. (consideration: CR H5861)
+- 2014-07-08 — Considered under suspension of the rules. (consideration: CR H5856-5859)
+- 2014-07-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4289.
+- 2014-07-08 — Mrs. Brooks (IN) moved to suspend the rules and pass the bill.
+- 2014-07-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 370). (text: CR H5857)
+- 2014-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 370).(text: CR H5857)
