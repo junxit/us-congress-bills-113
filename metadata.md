@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4263
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4263
@@ -27,6 +27,10 @@ Social Media Working Group Act of 2014
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2014-07-08 — [House 113-2-369](votes/house-113-2-0369.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (375–19)
+
 ## Actions
 
 - 2014-03-14 — Introduced in House
@@ -40,3 +44,10 @@ Social Media Working Group Act of 2014
 - 2014-06-19 — Placed on the Union Calendar, Calendar No. 356.
 - 2014-06-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-480.
 - 2014-06-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-480.
+- 2014-07-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-07-08 — Considered as unfinished business. (consideration: CR H5860-5861)
+- 2014-07-08 — Considered under suspension of the rules. (consideration: CR H5854-5856)
+- 2014-07-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4263.
+- 2014-07-08 — Mrs. Brooks (IN) moved to suspend the rules and pass the bill, as amended.
+- 2014-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 19 (Roll no. 369). (text: CR H5854-5855)
+- 2014-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 19 (Roll no. 369).(text: CR H5854-5855)
