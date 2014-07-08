@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4007
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4007
@@ -51,3 +51,8 @@ Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014
 - 2014-06-23 — Placed on the Union Calendar, Calendar No. 366.
 - 2014-06-23 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-491, Part I.
 - 2014-06-23 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-491, Part I.
+- 2014-07-08 — Considered under suspension of the rules. (consideration: CR H5845-5854)
+- 2014-07-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4007.
+- 2014-07-08 — Mr. Meehan moved to suspend the rules and pass the bill, as amended.
+- 2014-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5845-5847)
+- 2014-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5845-5847)
