@@ -16,8 +16,9 @@ This Act may be cited as the “United States Commission on International Religi
 ## § 2. Establishment and composition
 
 - **(a)** *In general* Subsection (a) of section 201 of the International Religious Freedom Act of 1998 (22 U.S.C. 6431) is amended by inserting before the period at the end the following: “, which shall be an independent Federal Government advisory body”.
-- **(b)** *Membership* Subsection (b)(3) of section 201 of the International Religious Freedom Act of 1998 (22 U.S.C. 6431) is amended by striking “The appointments required by paragraph (1) shall be made not later than 120 days after the date of the enactment of this Act.” and inserting the following: “The President and Members of Congress are encouraged to appoint members of the Commission within 90 days of a vacancy on the Commission.”.
-- **(c)** *Vacancies* Subsection (g) of section 201 of the International Religious Freedom Act of 1998 (22 U.S.C. 6431) is amended by striking the second sentence.
+- **(b)** *Selection* Subparagraph (A) of section 201(b)(2) of the International Religious Freedom Act of 1998 (22 U.S.C. 6431(b)(2) is amended by inserting at the end the following new sentence: “The Commission as a whole shall also have expertise on the variety of faiths practiced around the world.”.
+- **(c)** *Membership* Subsection (b)(3) of section 201 of the International Religious Freedom Act of 1998 (22 U.S.C. 6431) is amended by striking “The appointments required by paragraph (1) shall be made not later than 120 days after the date of the enactment of this Act.” and inserting the following: “An appointment required by subparagraph (B) of paragraph (1) should be made within 90 days of a vacancy on the Commission.”.
+- **(d)** *Vacancies* Subsection (g) of section 201 of the International Religious Freedom Act of 1998 (22 U.S.C. 6431) is amended by striking the second sentence.
 
 ## § 3. Training for Foreign Service officers
 
@@ -35,17 +36,17 @@ Subsection (a) of section 708 of the Foreign Service Act of 1980 (22 U.S.C. 4028
 - **(a)** *In general* Subsection (a) of section 204 of the International Religious Freedom Act of 1998 (22 U.S.C. 6432b) is amended in the second sentence, by inserting “voting” after “nine”.
 - **(b)** *Compensation* Subsection (b) of section 204 of the International Religious Freedom Act of 1998 (22 U.S.C. 6432b) is amended by inserting “voting members of the” after “The”.
 - **(c)** *Security clearances* Subsection (e) of section 204 of the International Religious Freedom Act of 1998 (22 U.S.C. 6432b) is amended by adding at the end the following new sentence: “The Department of State is encouraged to allow Commissioners and Commission staff with the appropriate security clearance access to classified information, in order to fulfill the duties and responsibilities of their positions.”.
+- **(d)** *Application of antidiscrimination laws* Subsection (g) of section 204 of the International Religious Freedom Act of 1998 (22 U.S.C. 6432b) is amended by inserting “, including discrimination on the basis of religion” after “employment discrimination”.
 
-## § 5. Authorization of appropriations
-
-Subsection (a) of section 207 of the International Religious Freedom Act of 1998 (22 U.S.C. 6435) is amended by striking “2014” and inserting “2019”.
-
-## § 6. Standards of conduct and disclosure
+## § 5. Standards of conduct and disclosure
 
 Paragraph (2) of section 208(d)(2) of the International Religious Freedom Act of 1998 (22 U.S.C. 6435a(d)(2)) is amended by adding at the end the following new subparagraph:
 
-> - **(H)** Intern, fellowship, and volunteer programs that are primarily of educational benefit to the intern, fellow, or volunteer. Sponsoring private parties may provide compensation and benefits to interns, fellows, and volunteers, provided that no conflict of interest arises.
+> - **(H)** Intern, fellowship, and volunteer programs that are primarily of educational benefit to the intern, fellow, or volunteer. Sponsoring private parties may provide compensation and benefits to interns, fellows, and volunteers, provided that no conflict of interest arises. The number, duration, and funding source of any such internship, fellowship, or volunteer programs shall be described in the annual financial report required by subsection (e).
 
-## § 7. Termination
+## § 6. Extension and termination of authority
 
-Section 209 of the International Religious Freedom Act of 1998 (22 U.S.C. 6436) is amended by striking “September 30, 2014” and inserting “September 30, 2019”.
+The International Religious Freedom Act of 1998 is amended—
+
+- **(1)** in subsection (a) of section 207 (22 U.S.C. 6435), by striking “2014” and inserting “2019”; and
+- **(2)** in section 209 (22 U.S.C. 6436), by striking “September 30, 2014” and inserting “September 30, 2019”.
