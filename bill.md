@@ -2,32 +2,31 @@
 legis-num: H. RES. 588
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 588
 
-> Concerning the suspension of exit permit issuance by the Government of the Democratic Republic of Congo for adopted Congolese children seeking to depart the country with their adoptive parents.
+> Concerning the suspension of exit permit issuance by the Government of the Democratic Republic of the Congo for adopted Congolese children seeking to depart the country with their adoptive parents.
 
 ## Preamble
 
-- Whereas according to UNICEF, over 4,000,000 orphans are estimated to be living in the Democratic Republic of Congo;
-- Whereas cyclical and violent conflict has plagued the Democratic Republic of Congo since the mid-1990s;
-- Whereas the United States has made significant financial investments in the Democratic Republic of Congo, providing an estimated $274,000,000 bilateral aid to the Democratic Republic of Congo in fiscal year 2013 and an additional $165,000,000 in emergency humanitarian assistance;
-- Whereas the policy of the Administration toward the Democratic Republic of Congo is “focused on helping the country become a nation that … provides for the basic needs of its citizens”;
-- Whereas the United Nations, the Hague Conference on Private International Law, and other international organizations have recognized a child's right to a family as a basic human right worthy of protection;
-- Whereas adoption, both domestic and international, is an important child protection tool and an integral part of child welfare best practices around the world, along with family reunification and prevention of abandonment;
-- Whereas, on September 27, 2013, the Congolese Ministry of Interior and Security, General Direction of Migration, informed the United States Embassy in Kinshasa that effective September 25, 2013, they had suspended issuance of exit permits to adopted Congolese children seeking to depart the country with their adoptive parents;
-- Whereas there are United States families with finalized adoptions in the Democratic Republic of the Congo and the necessary legal paperwork and visas ready to travel home with these children but are currently unable to do so; and
-- Whereas, on December 19, 2013, the Congolese Minister of Justice, Minister of Interior and Security, and the General Direction of Migration confirmed to members of the United States Department of State that the current suspension on the issuance of exit permits continues: Now, therefore, be it
+- Whereas according to UNICEF, over 4,000,000 orphans are estimated to be living in the Democratic Republic of the Congo;
+- Whereas the United States has made significant financial investments in the Democratic Republic of the Congo, providing an estimated $758,102,000 in development, humanitarian, and security assistance, including peacekeeping activities, in fiscal year 2013;
+- Whereas cyclical and violent conflict has plagued the Democratic Republic of the Congo since the mid-1990s;
+- Whereas, according to the United States Department of State, the policy of the Administration toward the Democratic Republic of the Congo is “focused on helping the country become a nation that * * * provides for the basic needs of its citizens”;
+- Whereas the United Nations has recognized a child's right to a family as a basic human right worthy of protection;
+- Whereas adoption, both domestic and international, is widely recognized as an important child protection tool and an integral part of child welfare best practices around the world, along with family reunification and prevention of abandonment;
+- Whereas, on September 27, 2013, the Congolese Ministry of Interior and Security, General Direction of Migration, informed the United States Embassy in Kinshasa that effective September 25, 2013, they had suspended issuance of exit permits to adopted Congolese children seeking to depart the country with their adoptive parents, affecting hundreds of children;
+- Whereas there are American families with finalized adoptions in the Democratic Republic of the Congo and the necessary legal paperwork and visas ready to travel home with these children but are currently unable to do so; and
+- Whereas on December 19, 2013, the Congolese Minister of Justice, Minister of Interior and Security, and the General Direction of Migration confirmed to members of the United States Department of State that the current suspension on the issuance of exit permits continues: Now, therefore, be it
 
 That the House of Representatives—
 
 - **(1)** affirms that all children deserve a safe, loving, and permanent family;
 - **(2)** recognizes the importance of ensuring that international adoptions of all children are conducted in an ethical and transparent manner;
-- **(3)** expresses concern over the impact on children and families caused by the current suspension of exit permit issuance within the Democratic Republic of Congo;
+- **(3)** expresses concern over the increasing number of new adoption cases that have been opened and the impact on children and families of the Democratic Republic of the Congo’s suspension of exit permits; and
 - **(4)** respectfully requests that the Congolese Government—
-  - **(A)** resume processing adoption cases and issuing exit permits via the Ministry of Gender and Family’s Interministerial Adoption Committee;
-  - **(B)** prioritize the processing of intercountry adoptions which were initiated before the suspension; and
-  - **(C)** expedite the processing of those adoptions which involve medically fragile children; and
-- **(5)** encourages continued dialogue and cooperation between the United States Department of State and the Democratic Republic of the Congo's Ministry of Foreign Affairs to improve the intercountry adoption process and ensure the welfare of all children adopted from the Democratic Republic of Congo.
+  - **(A)** resume issuing exit permits for all children that have been adopted, and continue processing adoptions that are already underway;
+  - **(B)** expedite the processing of those adoptions which involve medically fragile children; and
+  - **(C)** encourages continued dialogue and cooperation between the United States Department of State and the Democratic Republic of the Congo's Ministry of Foreign Affairs to improve the intercountry adoption process and ensure the welfare of all children adopted from the Democratic Republic of the Congo.
