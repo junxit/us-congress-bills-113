@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3488
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3488
@@ -194,3 +194,8 @@ Preclearance Authorization Act of 2014
 - 2014-07-03 — Placed on the Union Calendar, Calendar No. 383.
 - 2014-07-03 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-511, Part I.
 - 2014-07-03 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-511, Part I.
+- 2014-07-08 — Considered under suspension of the rules. (consideration: CR H5842-5845)
+- 2014-07-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3488.
+- 2014-07-08 — Mr. Meehan moved to suspend the rules and pass the bill, as amended.
+- 2014-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5842-5843)
+- 2014-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5842-5843)
