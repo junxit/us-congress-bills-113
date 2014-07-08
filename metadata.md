@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 447
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 447
@@ -33,3 +33,5 @@ A resolution recognizing the threats to freedom of the press and expression arou
 - 2014-06-25 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2014-06-25 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2014-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 440.
+- 2014-07-08 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S4284-4285; text as passed Senate: CR S4284-4285)
+- 2014-07-08 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S4284-4285; text as passed Senate: CR S4284-4285)
