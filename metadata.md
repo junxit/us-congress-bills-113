@@ -1,7 +1,7 @@
 ---
 measure: S. 354
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 354
@@ -33,3 +33,5 @@ Oregon Caves Revitalization Act of 2013
 - 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-29.
 - 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-29.
 - 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 60.
+- 2014-07-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4355-4364; text of measure as reported in Senate: CR S4359; text as passed Senate: CR S4361-4362)
+- 2014-07-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4355-4364; text of measure as reported in Senate: CR S4359; text as passed Senate: CR S4361-4362)
