@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 5043
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5043
+
+> To amend the Trafficking Victims Protection Act of 2000 to direct the Secretary of State to submit reports to Congress on child protection compacts.
+
+## § 1. Short title
+
+This Act may be cited as—
+
+- **(1)** the “Partnering to Abolish Child Trafficking Act”; or
+- **(2)** the “PACT Act”.
+
+## § 2. Reports on child protection compacts
+
+Section 105A(d) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7103a(d)) is amended by adding at the end the following:
+
+> - **(7)** *Reports* The Secretary of State, acting through the Director established pursuant to section 105(e)(1) of this Act, shall submit an annual report to Congress, which shall include information regarding—
+>   - **(A)** child protection compacts under this subsection;
+>   - **(B)** countries with which the United States may enter into a child protection compact under this subsection; and
+>   - **(C)** assistance provided under this subsection.
