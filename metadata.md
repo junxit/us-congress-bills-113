@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1528
 congress: 113
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1528
@@ -232,3 +232,12 @@ Veterinary Medicine Mobility Act of 2014
 - 2014-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5834)
 - 2014-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5834)
 - 2014-07-09 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 458.
+- 2014-07-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4567-4568)
+- 2014-07-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4567-4568)
+- 2014-07-17 — Message on Senate action sent to the House.
+- 2014-07-23 — Presented to President.
+- 2014-07-23 — Presented to President.
+- 2014-08-01 — Became Public Law No: 113-143.
+- 2014-08-01 — Became Public Law No: 113-143.
+- 2014-08-01 — Signed by President.
+- 2014-08-01 — Signed by President.
