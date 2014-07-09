@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4263
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4263
@@ -23,9 +23,10 @@ Social Media Working Group Act of 2014
 - Rep. Swalwell, Eric [D-CA-15] (S001193)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Social Media Working Group Act of 2014
 - 2014-07-08 — Mrs. Brooks (IN) moved to suspend the rules and pass the bill, as amended.
 - 2014-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 19 (Roll no. 369). (text: CR H5854-5855)
 - 2014-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 19 (Roll no. 369).(text: CR H5854-5855)
+- 2014-07-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
