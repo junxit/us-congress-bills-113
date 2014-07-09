@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3488
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3488
@@ -173,10 +173,11 @@ Preclearance Authorization Act of 2014
 - Rep. Bonamici, Suzanne [D-OR-1] (B001278)
 - Rep. Edwards, Donna F. [D-MD-4] (E000290)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -199,3 +200,4 @@ Preclearance Authorization Act of 2014
 - 2014-07-08 — Mr. Meehan moved to suspend the rules and pass the bill, as amended.
 - 2014-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5842-5843)
 - 2014-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5842-5843)
+- 2014-07-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
