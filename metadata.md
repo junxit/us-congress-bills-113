@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4007
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4007
@@ -28,10 +28,11 @@ Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014
 - Rep. Perry, Scott [R-PA-4] (P000605)
 - Rep. Vela, Filemon [D-TX-34] (V000132)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014
 - 2014-07-08 — Mr. Meehan moved to suspend the rules and pass the bill, as amended.
 - 2014-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5845-5847)
 - 2014-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5845-5847)
+- 2014-07-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
