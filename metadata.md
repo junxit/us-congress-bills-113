@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1813
 congress: 113
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1813
@@ -62,3 +62,12 @@ To redesignate the facility of the United States Postal Service located at 162 N
 - 2014-07-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.
 - 2014-07-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.
 - 2014-07-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 457.
+- 2014-07-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR H4436)
+- 2014-07-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR H4436)
+- 2014-07-14 — Message on Senate action sent to the House.
+- 2014-07-15 — Presented to President.
+- 2014-07-15 — Presented to President.
+- 2014-07-25 — Became Public Law No: 113-140.
+- 2014-07-25 — Became Public Law No: 113-140.
+- 2014-07-25 — Signed by President.
+- 2014-07-25 — Signed by President.
