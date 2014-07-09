@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1528
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1528
@@ -231,3 +231,4 @@ Veterinary Medicine Mobility Act of 2014
 - 2014-07-08 — Mr. Pitts moved to suspend the rules and pass the bill, as amended.
 - 2014-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5834)
 - 2014-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5834)
+- 2014-07-09 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 458.
