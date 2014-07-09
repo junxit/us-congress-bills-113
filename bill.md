@@ -1,7 +1,7 @@
 ---
 legis-num: S. 311
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -30,10 +30,9 @@ In this Act:
   - **(1)** include cost estimates for the potential acquisition, development, operation, and maintenance of the study area; and
   - **(2)** identify alternatives for the management, administration, and protection of the study area.
 
-## § 4. Donations
+## § 4. Agreement; Donations
 
-The Secretary may accept the donation of funds to carry out this Act.
+The study described in section 3 shall not be conducted until the date on which—
 
-## § 5. Authorization of appropriation
-
-There are authorized to be appropriated such sums as are necessary to carry out this Act.
+- **(1)** the Secretary enters into an agreement with a State, unit of local government, or other entity to conduct the study using non-Federal funds; or
+- **(2)** the Secretary receives a donation of an amount of non-Federal funds sufficient to pay the cost of conducting the study.

@@ -1,7 +1,7 @@
 ---
 measure: S. 311
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 311
@@ -29,3 +29,12 @@ Lower Mississippi River Area Study Act
 - 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden with an amendment. With written report No. 113-26.
 - 2013-04-22 — Committee on Energy and Natural Resources. Reported by Senator Wyden with an amendment. With written report No. 113-26.
 - 2013-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 57.
+- 2014-07-09 — Amendment SA 3528 agreed to in Senate by Unanimous Consent.
+- 2014-07-09 — Amendment SA 3528 proposed by Senator Reid for Senator Coburn. To modify the section relating to donations.
+- 2014-07-09 — Measure laid before Senate by unanimous consent. (consideration: CR S4355-4364)
+- 2014-07-09 — Passed Senate with amendments by Unanimous Consent. (text: CR S4363)
+- 2014-07-09 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(text: CR S4363)
+- 2014-07-09 — Senate amendment agreed to: Amendment SA 3528 agreed to in Senate by Unanimous Consent.
+- 2014-07-09 — Senate amendment proposed (on the floor): Amendment SA 3528 proposed by Senator Reid for Senator Coburn.
+- 2014-07-09 — Senate amendment submitted
+- 2014-07-09 — The committee reported amendment was agreed to by Unanimous Consent. (text of measure as reported in Senate: CR S4358-4359)
