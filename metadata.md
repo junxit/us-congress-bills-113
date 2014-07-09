@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4653
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4653
@@ -60,9 +60,10 @@ United States Commission on International Religious Freedom Reauthorization Act 
 - Rep. Chu, Judy [D-CA-27] (C001080)
 - Rep. Pittenger, Robert [R-NC-9] (P000606)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -79,3 +80,4 @@ United States Commission on International Religious Freedom Reauthorization Act 
 - 2014-07-08 — Mr. Smith (NJ) moved to suspend the rules and pass the bill, as amended.
 - 2014-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5836)
 - 2014-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5836)
+- 2014-07-09 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
