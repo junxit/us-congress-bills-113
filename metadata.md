@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1376
 congress: 113
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1376
@@ -52,3 +52,12 @@ To designate the facility of the United States Postal Service located at 369 Mar
 - 2014-07-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.
 - 2014-07-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.
 - 2014-07-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 456.
+- 2014-07-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4436)
+- 2014-07-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4436)
+- 2014-07-14 — Message on Senate action sent to the House.
+- 2014-07-15 — Presented to President.
+- 2014-07-15 — Presented to President.
+- 2014-07-25 — Became Public Law No: 113-139.
+- 2014-07-25 — Became Public Law No: 113-139.
+- 2014-07-25 — Signed by President.
+- 2014-07-25 — Signed by President.
