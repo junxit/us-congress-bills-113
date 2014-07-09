@@ -1,7 +1,7 @@
 ---
 legis-num: S. 609
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -17,7 +17,7 @@ This Act may be cited as the “San Juan County Federal Land Conveyance Act”.
 
 In this Act:
 
-- **(1)** *Federal land* The term Federal land means the approximately 19 acres of Federal landFederal surface estate generally depicted as “Lands Authorized for Conveyance” on the map.
+- **(1)** *Federal land* The term Federal land means the approximately 19 acres of Federal surface estate generally depicted as “Lands Authorized for Conveyance” on the map.
 - **(2)** *Landowner* The term landowner means the plaintiffs in the case styled Blancett v. United States Department of the Interior, et al., No. 10–cv–00254–JAP–KBM, United States District Court for the District of New Mexico.
 - **(3)** *Map* The term map means the map entitled “San Juan County Land Conveyance” and dated June 20, 2012.
 - **(4)** *Secretary* The term Secretary means the Secretary of the Interior.

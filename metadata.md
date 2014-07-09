@@ -1,7 +1,7 @@
 ---
 measure: S. 609
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 609
@@ -33,3 +33,5 @@ San Juan County Federal Land Conveyance Act
 - 2013-06-27 — Committee on Energy and Natural Resources. Reported by Senator Wyden with amendments. With written report No. 113-66.
 - 2013-06-27 — Committee on Energy and Natural Resources. Reported by Senator Wyden with amendments. With written report No. 113-66.
 - 2013-06-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 120.
+- 2014-07-09 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S4355-4364; text of measure as reported in Senate: CR S4360-4361; text as passed Senate: CR S4364)
+- 2014-07-09 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S4355-4364; text of measure as reported in Senate: CR S4360-4361; text as passed Senate: CR S4364)
