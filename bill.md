@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 5062
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5062
+
+> To amend the Consumer Financial Protection Act of 2010 to specify that privilege is maintained when information is shared by certain nondepository covered persons with Federal and State financial regulators, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Examination and Supervisory Privilege Parity Act of 2014”.
+
+## § 2. Privilege of information shared by certain nondepository covered persons
+
+Section 1024(b)(3) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5514(b)(3)) is amended—
+
+- **(1)** by striking “regulators and the State bank regulatory authorities” and inserting “regulators, the State bank regulatory authorities, and the State agencies that licence, supervise, or examine the offering of consumer financial products or services”; and
+- **(2)** by adding at the end the following: “The sharing of information with such regulators, authorities, and agencies shall not be construed as waiving, destroying, or otherwise affecting any privilege such person may claim with respect to such information under Federal or State law as to any person or entity other than such Bureau, agency, supervisor, or authority.”.
