@@ -1,7 +1,7 @@
 ---
 measure: S. 1104
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1104
@@ -34,3 +34,5 @@ Assessing Progress in Haiti Act of 2014
 - 2014-06-26 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. With written report No. 113-201.
 - 2014-06-26 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. With written report No. 113-201.
 - 2014-06-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 447.
+- 2014-07-10 — Passed Senate with an amendment by Voice Vote. (consideration: CR S4434-4435; text as passed Senate: CR S4434-4435)
+- 2014-07-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S4434-4435; text as passed Senate: CR S4434-4435)
