@@ -1,7 +1,7 @@
 ---
 legis-num: S. 653
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Near East and South Central Asia Religious Freedom Act of 2013”.
+This Act may be cited as the “Near East and South Central Asia Religious Freedom Act of 2014”.
 
 ## § 2. Special envoy To promote religious freedom of religious minorities in the Near East and South Central Asia
 
@@ -40,6 +40,10 @@ Subject to the direction of the President and the Secretary of State, the Specia
 
 The Special Envoy shall consult with domestic and international nongovernmental organizations and multilateral organizations and institutions, as the Special Envoy considers appropriate to fulfill the purposes of this Act.
 
-## § 6. Funding
+## § 6. Sunset
 
-Of the amounts appropriated or otherwise made available to the Secretary of State for Diplomatic and Consular Programs for fiscal years 2013 through 2017, the Secretary of State is authorized to provide to the Special Envoy $1,000,000 for each such fiscal year for the hiring of staff, the conduct of investigations, and necessary travel to carry out the provisions of this Act.
+This Act shall cease to be effective beginning on October 1, 2019.
+
+## § 7. Funding
+
+Of the amounts appropriated or otherwise made available to the Secretary of State for Diplomatic and Consular Programs for fiscal years 2015 through 2019, the Secretary of State is authorized to provide to the Special Envoy $1,000,000 for each such fiscal year for the hiring of staff, the conduct of investigations, and necessary travel to carry out the provisions of this Act.
