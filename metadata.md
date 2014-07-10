@@ -1,7 +1,7 @@
 ---
 measure: S. 311
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 311
@@ -16,9 +16,10 @@ Lower Mississippi River Area Study Act
 
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -38,3 +39,6 @@ Lower Mississippi River Area Study Act
 - 2014-07-09 — Senate amendment proposed (on the floor): Amendment SA 3528 proposed by Senator Reid for Senator Coburn.
 - 2014-07-09 — Senate amendment submitted
 - 2014-07-09 — The committee reported amendment was agreed to by Unanimous Consent. (text of measure as reported in Senate: CR S4358-4359)
+- 2014-07-10 — Message on Senate action sent to the House.
+- 2014-07-10 — Received in the House.
+- 2014-07-10 — Referred to the House Committee on Natural Resources.
