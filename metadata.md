@@ -1,7 +1,7 @@
 ---
 measure: S. 476
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 476
@@ -20,9 +20,10 @@ A bill to amend the Chesapeake and Ohio Canal Development Act to extend to the C
 
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,6 @@ A bill to amend the Chesapeake and Ohio Canal Development Act to extend to the C
 - 2013-06-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 118.
 - 2014-07-09 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4355-4364; text of measure as reported in Senate: CR S4360; text as passed Senate: CR S4363-4364)
 - 2014-07-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S4355-4364; text of measure as reported in Senate: CR S4360; text as passed Senate: CR S4363-4364)
+- 2014-07-10 — Message on Senate action sent to the House.
+- 2014-07-10 — Received in the House.
+- 2014-07-10 — Referred to the House Committee on Natural Resources.
