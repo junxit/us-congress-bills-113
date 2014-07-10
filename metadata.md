@@ -1,7 +1,7 @@
 ---
 measure: S. 653
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 653
@@ -61,3 +61,17 @@ Near East and South Central Asia Religious Freedom Act of 2014
 - 2014-07-10 — Senate amendment agreed to: Amendment SA 3556 agreed to in Senate by Unanimous Consent.
 - 2014-07-10 — Senate amendment proposed (on the floor): Amendment SA 3556 proposed by Senator Reid for Senator Blunt.(consideration: CR S4435; text: CR S4435)
 - 2014-07-10 — Senate amendment submitted
+- 2014-07-14 — Held at the desk.
+- 2014-07-14 — Message on Senate action sent to the House.
+- 2014-07-14 — Received in the House.
+- 2014-07-25 — Considered by unanimous consent. (consideration: CR H6837-6838)
+- 2014-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-25 — Mr. Smith (NJ) asked unanimous consent to take from the Speaker's table and consider.
+- 2014-07-25 — On passage Passed without objection. (text: CR H6837-6838)
+- 2014-07-25 — Passed/agreed to in House: On passage Passed without objection.(text: CR H6837-6838)
+- 2014-07-29 — Presented to President.
+- 2014-07-29 — Presented to President.
+- 2014-08-08 — Became Public Law No: 113-161.
+- 2014-08-08 — Became Public Law No: 113-161.
+- 2014-08-08 — Signed by President.
+- 2014-08-08 — Signed by President.
