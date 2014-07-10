@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4923
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4923
@@ -20,9 +20,655 @@ Energy and Water Development and Related Agencies Appropriations Act, 2015
 
 - House — Appropriations Committee
 
+## Recorded votes (29)
+
+- 2014-07-09 — [House 113-2-371](votes/house-113-2-0371.md) — On Agreeing to the Amendment — **Failed** (132–284)
+- 2014-07-09 — [House 113-2-372](votes/house-113-2-0372.md) — On Agreeing to the Amendment — **Agreed to** (281–137)
+- 2014-07-09 — [House 113-2-373](votes/house-113-2-0373.md) — On Agreeing to the Amendment — **Failed** (104–316)
+- 2014-07-09 — [House 113-2-374](votes/house-113-2-0374.md) — On Agreeing to the Amendment — **Failed** (112–309)
+- 2014-07-09 — [House 113-2-375](votes/house-113-2-0375.md) — On Agreeing to the Amendment — **Failed** (172–245)
+- 2014-07-09 — [House 113-2-376](votes/house-113-2-0376.md) — On Agreeing to the Amendment — **Failed** (110–310)
+- 2014-07-09 — [House 113-2-377](votes/house-113-2-0377.md) — On Agreeing to the Amendment — **Failed** (97–321)
+- 2014-07-10 — [House 113-2-379](votes/house-113-2-0379.md) — On Agreeing to the Amendment — **Failed** (129–290)
+- 2014-07-10 — [House 113-2-380](votes/house-113-2-0380.md) — On Agreeing to the Amendment — **Agreed to** (221–199)
+- 2014-07-10 — [House 113-2-381](votes/house-113-2-0381.md) — On Agreeing to the Amendment — **Failed** (184–235)
+- 2014-07-10 — [House 113-2-382](votes/house-113-2-0382.md) — On Agreeing to the Amendment — **Failed** (75–344)
+- 2014-07-10 — [House 113-2-383](votes/house-113-2-0383.md) — On Agreeing to the Amendment — **Agreed to** (216–205)
+- 2014-07-10 — [House 113-2-384](votes/house-113-2-0384.md) — On Agreeing to the Amendment — **Failed** (181–239)
+- 2014-07-10 — [House 113-2-385](votes/house-113-2-0385.md) — On Agreeing to the Amendment — **Failed** (176–243)
+- 2014-07-10 — [House 113-2-386](votes/house-113-2-0386.md) — On Agreeing to the Amendment — **Failed** (96–326)
+- 2014-07-10 — [House 113-2-387](votes/house-113-2-0387.md) — On Agreeing to the Amendment — **Agreed to** (221–200)
+- 2014-07-10 — [House 113-2-388](votes/house-113-2-0388.md) — On Agreeing to the Amendment — **Failed** (181–239)
+- 2014-07-10 — [House 113-2-389](votes/house-113-2-0389.md) — On Agreeing to the Amendment — **Agreed to** (227–191)
+- 2014-07-10 — [House 113-2-390](votes/house-113-2-0390.md) — On Agreeing to the Amendment — **Agreed to** (232–187)
+- 2014-07-10 — [House 113-2-393](votes/house-113-2-0393.md) — On Agreeing to the Amendment — **Agreed to** (226–193)
+- 2014-07-10 — [House 113-2-394](votes/house-113-2-0394.md) — On Agreeing to the Amendment — **Agreed to** (239–182)
+- 2014-07-10 — [House 113-2-395](votes/house-113-2-0395.md) — On Agreeing to the Amendment — **Failed** (140–282)
+- 2014-07-10 — [House 113-2-396](votes/house-113-2-0396.md) — On Agreeing to the Amendment — **Agreed to** (218–204)
+- 2014-07-10 — [House 113-2-397](votes/house-113-2-0397.md) — On Agreeing to the Amendment — **Agreed to** (229–188)
+- 2014-07-10 — [House 113-2-398](votes/house-113-2-0398.md) — On Agreeing to the Amendment — **Failed** (150–271)
+- 2014-07-10 — [House 113-2-399](votes/house-113-2-0399.md) — On Agreeing to the Amendment — **Agreed to** (226–194)
+- 2014-07-10 — [House 113-2-400](votes/house-113-2-0400.md) — On Agreeing to the Amendment — **Failed** (131–289)
+- 2014-07-10 — [House 113-2-401](votes/house-113-2-0401.md) — On Motion to Recommit with Instructions — **Failed** (188–231)
+- 2014-07-10 — [House 113-2-402](votes/house-113-2-0402.md) — On Passage — **Passed** (253–170)
+
 ## Actions
 
 - 2014-06-20 — Introduced in House
 - 2014-06-20 — Placed on the Union Calendar, Calendar No. 362.
 - 2014-06-20 — The House Committee on Appropriations reported an original measure, H. Rept. 113-486, by Mr. Simpson.
 - 2014-06-20 — The House Committee on Appropriations reported an original measure, H. Rept. 113-486, by Mr. Simpson.
+- 2014-06-24 — Rules Committee Resolution H. Res. 641 Reported to House. For H.R. 4899, the rule makes in order only those further amendments printed in the report. For H.R. 4293, the rule rule provides that the bill shall be considered for amendment under the five-minute rule. All amendments shall be debatable for 10 minutes equally divided and controlled by the proponent and an opponent and shall not be subject to amendment.
+- 2014-06-25 — Rule H. Res. 641 passed House.
+- 2014-07-09 — Amendment (A001) offered by Mrs. Walorski. (consideration: CR H5983-5984; text: CR H5983)
+- 2014-07-09 — Amendment (A002) offered by Mr. Murphy (FL). (consideration: CR H5984-5985; text: CR H5984)
+- 2014-07-09 — Amendment (A003) offered by Mr. Cassidy. (consideration: CR H5985; text: CR H5985)
+- 2014-07-09 — Amendment (A004) offered by Mr. Lujan, Ben Ray (NM). (consideration: CR H5985-5986; text: CR H5985)
+- 2014-07-09 — Amendment (A005) offered by Mr. Cicilline. (consideration: CR H5986-5987; text: CR H5986)
+- 2014-07-09 — Amendment (A006) offered by Mr. McAllister. (consideration: CR H5987-5988, H6004-6005; text: CR H5987)
+- 2014-07-09 — Amendment (A007) offered by Mr. Crawford. (consideration: CR H5988; text: CR H5988)
+- 2014-07-09 — Amendment (A008) offered by Ms. Hahn. (consideration: CR H5988-5991, H6005; text: CR H5988)
+- 2014-07-09 — Amendment (A009) offered by Mr. Cassidy. (consideration: CR H5991; text: CR H5991)
+- 2014-07-09 — Amendment (A010) offered by Mr. Lankford. (consideration: CR H5991; text: CR H5991)
+- 2014-07-09 — Amendment (A011) offered by Mr. Gosar. (consideration: CR H5992-5993, H6006; text: CR H5992)
+- 2014-07-09 — Amendment (A012) offered by Mr. Bilirakis. (consideration: CR H5993; text: CR H5993)
+- 2014-07-09 — Amendment (A013) offered by Mr. Ruiz. (consideration: CR H5994-5995; text: CR H5994)
+- 2014-07-09 — Amendment (A014) offered by Mr. Gardner. (consideration: CR H5995; text: Cr H5995)
+- 2014-07-09 — Amendment (A015) offered by Mrs. Noem. (consideration: CR H5995-5996; text: CR H5995)
+- 2014-07-09 — Amendment (A016) offered by Ms. Castor (FL). (cosideration: CR H5997-5998; text: CR H5997)
+- 2014-07-09 — Amendment (A017) offered by Mr. Wenstrup. (consideration: CR H5998-5999, H6006-6007; text: CR H5998)
+- 2014-07-09 — Amendment (A018) offered by Mr. Swalwell (CA). (consideration: CR H5999-6000, H6007; text: CR H5999)
+- 2014-07-09 — Amendment (A019) offered by Mr. Byrne. (consideration: CR H6000-6002, H6007-6008; text: CR H6000)
+- 2014-07-09 — Amendment (A020) offered by Mr. Cohen. (consideration: CR H6002-6003; text: CR H6002)
+- 2014-07-09 — Amendment (A021) offered by Mr. McClintock. (consideration: CR H6003-6004, H6008-6009; text: CR H6003)
+- 2014-07-09 — Amendment (A022) offered by Mr. McClintock. (consideration: CR H6010-6011; text: CR H6010)
+- 2014-07-09 — Amendment (A023) offered by Mr. Perry. (consideration: CR H6011-6012; text: H6011)
+- 2014-07-09 — Amendment (A024) offered by Ms. Bonamici. (consideration: CR H6012-6013; text: CR H6012)
+- 2014-07-09 — Amendment (A025) offered by Mr. McNerney. (consideration: CR H6013; text: CR H6013)
+- 2014-07-09 — Amendment (A026) offered by Ms. Speier. (consideration: CR H6014-6015; text: CR H6014)
+- 2014-07-09 — Amendment (A027) offered by Ms. Kaptur. (consideration: CR H6015-6016; text: CR H6015)
+- 2014-07-09 — Amendment (A028) offered by Mr. Reed. (consideration: CR H6016-6017; text: CR H6016)
+- 2014-07-09 — Amendment (A029) offered by Mr. Foster. (consideration: CR H6017-6018; text: CR H6017)
+- 2014-07-09 — Amendment (A030) offered by Mr. Foster. (consideration: CR H6018-6019; text: CR H6018)
+- 2014-07-09 — Amendment (A031) offered by Ms. Titus. (consideration: CR H6019-6020; text: CR H6019)
+- 2014-07-09 — Amendment (A032) offered by Mr. Schiff. (consideration: CR H6020-6021; text: CR H6020)
+- 2014-07-09 — Amendment (A033) offered by Ms. Kaptur. (consideration: CR H6021-6023; text: CR H6022)
+- 2014-07-09 — Amendment (A034) offered by Mr. Quigley. (consideration: CR H6023-6024; text: CR H6023)
+- 2014-07-09 — Amendment (A035) offered by Mr. Fortenberry. (consideration: CR H6024-6025; text: CR H6024)
+- 2014-07-09 — Amendment (A036) offered by Mr. Lankford. (consideration: CR H6027; text: CR H6027)
+- 2014-07-09 — Amendment (A037) offered by Mr. Chabot. (consideration: CR H6028-6030; text: CR H6029)
+- 2014-07-09 — Amendment (A038) offered by Mr. Fattah. (consideration: CR H6030; text: CR H6030)
+- 2014-07-09 — Amendment (A039) offered by Ms. Titus. (consideration: CR H6031-6032; text: CR H6031)
+- 2014-07-09 — Amendment agreed to Committee of the Whole
+- 2014-07-09 — Amendment agreed to Committee of the Whole
+- 2014-07-09 — Amendment agreed to Committee of the Whole
+- 2014-07-09 — Amendment agreed to Committee of the Whole
+- 2014-07-09 — Amendment agreed to Committee of the Whole
+- 2014-07-09 — Amendment agreed to Committee of the Whole
+- 2014-07-09 — Amendment agreed to Committee of the Whole
+- 2014-07-09 — Amendment agreed to Committee of the Whole
+- 2014-07-09 — Amendment agreed to Committee of the Whole
+- 2014-07-09 — Amendment agreed to Committee of the Whole
+- 2014-07-09 — Amendment agreed to Committee of the Whole
+- 2014-07-09 — Amendment agreed to Committee of the Whole
+- 2014-07-09 — Amendment agreed to Committee of the Whole
+- 2014-07-09 — Amendment failed in Committee of the Whole
+- 2014-07-09 — Amendment failed in Committee of the Whole
+- 2014-07-09 — Amendment failed in Committee of the Whole
+- 2014-07-09 — Amendment failed in Committee of the Whole
+- 2014-07-09 — Amendment failed in Committee of the Whole
+- 2014-07-09 — Amendment failed in Committee of the Whole
+- 2014-07-09 — Amendment failed in Committee of the Whole
+- 2014-07-09 — Amendment failed in Committee of the Whole
+- 2014-07-09 — By unanimous consent, the Bilirakis amendment was withdrawn. (consideration: CR H5993)
+- 2014-07-09 — By unanimous consent, the Cicilline amendment was withdrawn. (consideration: CR H5987)
+- 2014-07-09 — By unanimous consent, the Cohen amendment was withdrawn. (consideration: CR H6003)
+- 2014-07-09 — By unanimous consent, the Crawford amendment was withdrawn. (consideration: CR H5988)
+- 2014-07-09 — By unanimous consent, the Fattah amendment was withdrawn. (consideration; CR H6030)
+- 2014-07-09 — By unanimous consent, the Fortenberry amendment was withdrawn. (consideration: CR H6025)
+- 2014-07-09 — By unanimous consent, the Foster amendment was withdrawn. (consideration: CR H6018)
+- 2014-07-09 — By unanimous consent, the Lujan, Ben Ray (NM) amendment was withdrawn. (consideration: CR H5986)
+- 2014-07-09 — By unanimous consent, the Perry amendment was withdrawn. (consideration: CR H6012)
+- 2014-07-09 — Committee of the Whole House on the state of the Union rises leaving H.R. 4923 as unfinished business.
+- 2014-07-09 — Committee of the Whole House on the state of the Union rises leaving H.R. 4923 as unfinished business.
+- 2014-07-09 — Considered as unfinished business. (consideration: CR H6010-6032)
+- 2014-07-09 — Considered under the provisions of rule H. Res. 641. (consideration: CR H5971-5985, H5985-6010; text of Title I as reported in House: CR H5984, H5987, H5988, H5992, H5993, H5993-5994; text of Title II as reported in House: CR H5994, H5996-5997; text of Title III as reported in House: CR H5997, H6013,, H6014, H6015, H6016, H6017, H6019, H6020, H6021, H6023, H6024, H6025-6027, H6027-6028; text of Title IV as report in House: CR H6028, H6030, H6030-6031; text of Title V as reported in House: CR H6031, H6032)
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Ben Ray Lujan amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Bilirakis amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Bonamici amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Byrne amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Cassidy amendment No. 4.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Cassidy amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Castor amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Chabot amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Cicilline amendment, pending reservation of a point of order.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Cohen amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Crawford amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Fattah amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Fortenberry amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Foster amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Foster amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Gardner amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Hahn amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Kaptur amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Kaptur amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Lankford amendment, pending reservation of a point of order.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the McAllister amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock amendment
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the McNerney amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy (FL) amendment No. 8.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Noem amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Quigley amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Reed amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Ruiz amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Schiff amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Speier amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Swalwell amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Titus amendment No. 14.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Titus amendment No. 15.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Walorski amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Wenstrup amendment.
+- 2014-07-09 — DEBATE - Pursuant to the provsions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Lankford amendment.
+- 2014-07-09 — For H.R. 4899, the rule makes in order only those further amendments printed in the report. For H.R. 4293, the rule rule provides that the bill shall be considered for amendment under the five-minute rule. All amendments shall be debatable for 10 minutes equally divided and controlled by the proponent and an opponent and shall not be subject to amendment.
+- 2014-07-09 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4923.
+- 2014-07-09 — House amendment agreed to: On agreeing to the Cassidy amendment (A003) Agreed to by voice vote.
+- 2014-07-09 — House amendment agreed to: On agreeing to the Cassidy amendment (A009) Agreed to by voice vote.
+- 2014-07-09 — House amendment agreed to: On agreeing to the Foster amendment (A030) Agreed to by voice vote.
+- 2014-07-09 — House amendment agreed to: On agreeing to the Gardner amendment (A014) Agreed to by voice vote.
+- 2014-07-09 — House amendment agreed to: On agreeing to the Hahn amendment (A008) Agreed to by recorded vote: 281 - 137 (Roll no. 372).
+- 2014-07-09 — House amendment agreed to: On agreeing to the Kaptur amendment (A027) Agreed to by voice vote.
+- 2014-07-09 — House amendment agreed to: On agreeing to the Kaptur amendment (A033) Agreed to by voice vote.
+- 2014-07-09 — House amendment agreed to: On agreeing to the Lankford amendment (A010) Agreed to by voice vote.
+- 2014-07-09 — House amendment agreed to: On agreeing to the Murphy (FL) amendment (A002) Agreed to by voice vote.
+- 2014-07-09 — House amendment agreed to: On agreeing to the Noem amendment (A015) Agreed to by voice vote.
+- 2014-07-09 — House amendment agreed to: On agreeing to the Reed amendment (A028) Agreed to by voice vote.
+- 2014-07-09 — House amendment agreed to: On agreeing to the Ruiz amendment (A013) Agreed to by voice vote.
+- 2014-07-09 — House amendment agreed to: On agreeing to the Walorski amendment (A001) Agreed to by voice vote.
+- 2014-07-09 — House amendment not agreed to: On agreeing to the Byrne amendment (A019) Failed by recorded vote: 110 - 310 (Roll no. 376).
+- 2014-07-09 — House amendment not agreed to: On agreeing to the Castor (FL) amendment (A016) Failed by voice vote.
+- 2014-07-09 — House amendment not agreed to: On agreeing to the Gosar amendment (A011) Failed by recorded vote: 104 - 316 (Roll no. 373).
+- 2014-07-09 — House amendment not agreed to: On agreeing to the McAllister amendment (A006) Failed by recorded vote: 132 - 284 (Roll no. 371).
+- 2014-07-09 — House amendment not agreed to: On agreeing to the McClintock amendment (A021) Failed by recorded vote: 97 - 321 (Roll no. 377).
+- 2014-07-09 — House amendment not agreed to: On agreeing to the McNerney amendment (A025) Failed by voice vote.
+- 2014-07-09 — House amendment not agreed to: On agreeing to the Swalwell (CA) amendment (A018) Failed by recorded vote: 172 - 245 (Roll no. 375).
+- 2014-07-09 — House amendment not agreed to: On agreeing to the Wenstrup amendment (A017) Failed by recorded vote: 112 - 309 (Roll no. 374).
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered
+- 2014-07-09 — House amendment offered/reported by: Amendment (A001) offered by Mrs. Walorski.(consideration: CR H5983-5984; text: CR H5983)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A002) offered by Mr. Murphy (FL).(consideration: CR H5984-5985; text: CR H5984)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A002) offered by Mr. Murphy (FL).(consideration: CR H5984-5985; text: CR H5984)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A003) offered by Mr. Cassidy.(consideration: CR H5985; text: CR H5985)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A004) offered by Mr. Lujan, Ben Ray (NM).(consideration: CR H5985-5986; text: CR H5985)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A005) offered by Mr. Cicilline.(consideration: CR H5986-5987; text: CR H5986)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A006) offered by Mr. McAllister.(consideration: CR H5987-5988, H6004-6005; text: CR H5987)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A007) offered by Mr. Crawford.(consideration: CR H5988; text: CR H5988)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A008) offered by Ms. Hahn.(consideration: CR H5988-5991, H6005; text: CR H5988)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A009) offered by Mr. Cassidy.(consideration: CR H5991; text: CR H5991)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A010) offered by Mr. Lankford.(consideration: CR H5991; text: CR H5991)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A011) offered by Mr. Gosar.(consideration: CR H5992-5993, H6006; text: CR H5992)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A012) offered by Mr. Bilirakis.(consideration: CR H5993; text: CR H5993)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A013) offered by Mr. Ruiz.(consideration: CR H5994-5995; text: CR H5994)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A014) offered by Mr. Gardner.(consideration: CR H5995; text: Cr H5995)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A015) offered by Mrs. Noem.(consideration: CR H5995-5996; text: CR H5995)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A016) offered by Ms. Castor (FL).(cosideration: CR H5997-5998; text: CR H5997)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A016) offered by Ms. Castor (FL).(cosideration: CR H5997-5998; text: CR H5997)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A017) offered by Mr. Wenstrup.(consideration: CR H5998-5999, H6006-6007; text: CR H5998)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A018) offered by Mr. Swalwell (CA).(consideration: CR H5999-6000, H6007; text: CR H5999)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A019) offered by Mr. Byrne.(consideration: CR H6000-6002, H6007-6008; text: CR H6000)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A020) offered by Mr. Cohen.(consideration: CR H6002-6003; text: CR H6002)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A021) offered by Mr. McClintock.(consideration: CR H6003-6004, H6008-6009; text: CR H6003)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A022) offered by Mr. McClintock.(consideration: CR H6010-6011; text: CR H6010)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A023) offered by Mr. Perry.(consideration: CR H6011-6012; text: H6011)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A024) offered by Ms. Bonamici.(consideration: CR H6012-6013; text: CR H6012)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A025) offered by Mr. McNerney.(consideration: CR H6013; text: CR H6013)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A026) offered by Ms. Speier.(consideration: CR H6014-6015; text: CR H6014)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A027) offered by Ms. Kaptur.(consideration: CR H6015-6016; text: CR H6015)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A028) offered by Mr. Reed.(consideration: CR H6016-6017; text: CR H6016)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A029) offered by Mr. Foster.(consideration: CR H6017-6018; text: CR H6017)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A030) offered by Mr. Foster.(consideration: CR H6018-6019; text: CR H6018)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A031) offered by Ms. Titus.(consideration: CR H6019-6020; text: CR H6019)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A032) offered by Mr. Schiff.(consideration: CR H6020-6021; text: CR H6020)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A033) offered by Ms. Kaptur.(consideration: CR H6021-6023; text: CR H6022)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A034) offered by Mr. Quigley.(consideration: CR H6023-6024; text: CR H6023)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A035) offered by Mr. Fortenberry.(consideration: CR H6024-6025; text: CR H6024)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A036) offered by Mr. Lankford.(consideration: CR H6027; text: CR H6027)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A037) offered by Mr. Chabot.(consideration: CR H6028-6030; text: CR H6029)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A038) offered by Mr. Fattah.(consideration: CR H6030; text: CR H6030)
+- 2014-07-09 — House amendment offered/reported by: Amendment (A039) offered by Ms. Titus.(consideration: CR H6031-6032; text: CR H6031)
+- 2014-07-09 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 641 and Rule XVIII.
+- 2014-07-09 — Mr. Graves (GA) moved that the Committee rise.
+- 2014-07-09 — Mr. Simpson moved to rise.
+- 2014-07-09 — Mr. Simpson raised a point of order against the Lankford amendment (A036). Mr. Simpson stated that the provisions of the amendment changes existing law and constitutes legislation in an appropriations bill. The Chair sustained the point of order.
+- 2014-07-09 — On agreeing to the Byrne amendment (A019) Failed by recorded vote: 110 - 310 (Roll no. 376).
+- 2014-07-09 — On agreeing to the Cassidy amendment (A003) Agreed to by voice vote.
+- 2014-07-09 — On agreeing to the Cassidy amendment (A009) Agreed to by voice vote.
+- 2014-07-09 — On agreeing to the Castor (FL) amendment (A016) Failed by voice vote.
+- 2014-07-09 — On agreeing to the Foster amendment (A030) Agreed to by voice vote.
+- 2014-07-09 — On agreeing to the Gardner amendment (A014) Agreed to by voice vote.
+- 2014-07-09 — On agreeing to the Gosar amendment (A011) Failed by recorded vote: 104 - 316 (Roll no. 373).
+- 2014-07-09 — On agreeing to the Hahn amendment (A008) Agreed to by recorded vote: 281 - 137 (Roll no. 372).
+- 2014-07-09 — On agreeing to the Kaptur amendment (A027) Agreed to by voice vote.
+- 2014-07-09 — On agreeing to the Kaptur amendment (A033) Agreed to by voice vote.
+- 2014-07-09 — On agreeing to the Lankford amendment (A010) Agreed to by voice vote.
+- 2014-07-09 — On agreeing to the McAllister amendment (A006) Failed by recorded vote: 132 - 284 (Roll no. 371).
+- 2014-07-09 — On agreeing to the McClintock amendment (A021) Failed by recorded vote: 97 - 321 (Roll no. 377).
+- 2014-07-09 — On agreeing to the McNerney amendment (A025) Failed by voice vote.
+- 2014-07-09 — On agreeing to the Murphy (FL) amendment (A002) Agreed to by voice vote.
+- 2014-07-09 — On agreeing to the Noem amendment (A015) Agreed to by voice vote.
+- 2014-07-09 — On agreeing to the Reed amendment (A028) Agreed to by voice vote.
+- 2014-07-09 — On agreeing to the Ruiz amendment (A013) Agreed to by voice vote.
+- 2014-07-09 — On agreeing to the Swalwell (CA) amendment (A018) Failed by recorded vote: 172 - 245 (Roll no. 375).
+- 2014-07-09 — On agreeing to the Walorski amendment (A001) Agreed to by voice vote.
+- 2014-07-09 — On agreeing to the Wenstrup amendment (A017) Failed by recorded vote: 112 - 309 (Roll no. 374).
+- 2014-07-09 — On motion that the Committee rise Agreed to by voice vote.
+- 2014-07-09 — On motion to rise Agreed to by voice vote.
+- 2014-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bonamici amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Bonamici demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Byrne amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Byrne demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Chabot amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Chabot demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Simpson demanded a recorded vote and the Chair postponed further proceedings on the question of the adoption of the amendment until a time to be announced.
+- 2014-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hahn amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Simpson demanded a recorded vote and the Chair postponed further proceedings on the question of the adoption of the amendment until a time to be announced.
+- 2014-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McAllister amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. McAllister demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. McClintock demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. McClintock demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Quigley amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Quigley demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schiff amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Schiff demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Speier amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Speier demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Swalwell amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Swalwell demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Titus amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Titus demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Titus amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Titus demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Wenstrup amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Wenstrup demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-09 — RESUMED SITTING - The Committee of the Whole resumed its sitting.
+- 2014-07-09 — RISING INFORMALLY - The Committee of the Whole rose informally to receive a message from the President.
+- 2014-07-09 — Roll call votes on amendments in House
+- 2014-07-09 — Roll call votes on amendments in House
+- 2014-07-09 — Roll call votes on amendments in House
+- 2014-07-09 — Roll call votes on amendments in House
+- 2014-07-09 — Roll call votes on amendments in House
+- 2014-07-09 — Roll call votes on amendments in House
+- 2014-07-09 — Roll call votes on amendments in House
+- 2014-07-09 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2014-07-09 — The Speaker designated the Honorable Diane Black to act as Chairwoman of the Committee.
+- 2014-07-10 — Amendment (A040) offered by Mrs. Lummis. (consideration: CR H6049-6050; text: CR H6049)
+- 2014-07-10 — Amendment (A041) offered by Ms. DeLauro. (consideration: CR H6050-6051, H6062; text: CR H6050)
+- 2014-07-10 — Amendment (A042) offered by Mr. King (IA). (consideration: CR H6051-6052, H6062-6063; text: CR H6051)
+- 2014-07-10 — Amendment (A043) offered by Ms. Speier. (consideration: CR H6052-6053; text: CR H6052)
+- 2014-07-10 — Amendment (A044) offered by Mr. Lankford. (consideration: CR H6053-6054, H6063-6064; text: CR H6053)
+- 2014-07-10 — Amendment (A045) offered by Mr. Cassidy. (consideration: CR H6054-6056, H6064; text: CR H6054)
+- 2014-07-10 — Amendment (A046) offered by Mr. McNerney. (consideration: CR H6056; text: CR H6056)
+- 2014-07-10 — Amendment (A047) offered by Mr. Barton. (consideration: CR H6066-6068; text: CR H6066)
+- 2014-07-10 — Amendment (A048) offered by Mr. Engel. (consideration: CR H6068; text: CR H6068)
+- 2014-07-10 — Amendment (A049) offered by Mr. Burgess. (consideration: CR H6068-6069, H6093-6094; text: CR H6068)
+- 2014-07-10 — Amendment (A050) offered by Mr. Ellison. (consideration: CR H6069-6070; text: CR H6069)
+- 2014-07-10 — Amendment (A051) offered by Mr. Burgess. (consideration: CR H6070; text: CR H6070)
+- 2014-07-10 — Amendment (A052) offered by Mr. Grayson. (consideration: CR H6070-6071; text: CR H6070-6071)
+- 2014-07-10 — Amendment (A053) offered by Mr. LaMalfa. (consideration: CR H6071-6072, H6094; text: CR H6071)
+- 2014-07-10 — Amendment (A054) offered by Mr. Garamendi. (consideration: CR H6072-6073; text: CR H6072)
+- 2014-07-10 — Amendment (A055) offered by Mr. LaMalfa. (consideration: CR H6073-6075; text: CR H6073)
+- 2014-07-10 — Amendment (A056) offered by Mr. Huffman. (consideration: CR H6075; text: CR H6075)
+- 2014-07-10 — Amendment (A057) offered by Mr. Luetkemeyer. (consideration: CR H6075-6076; text: CR H6075)
+- 2014-07-10 — Amendment (A058) offered by Mr. Garamendi. (consideration: CR H6076-6077; text: CR H6076)
+- 2014-07-10 — Amendment (A059) offered by Mr. Luetkemeyer. (consideration: CR H6077; text: CR H6077)
+- 2014-07-10 — Amendment (A060) offered by Mr. Garamendi. (consideration: CR H6077-6078; text: CR H6077)
+- 2014-07-10 — Amendment (A061) offered by Mr. Stockman. (consideration: CR H6078-6079, H6094-6095; text: CR H6078)
+- 2014-07-10 — Amendment (A062) offered by Mr. Stockman. (consideration: CR H6079-6080, H6095-6096; text: CR H6079)
+- 2014-07-10 — Amendment (A063) offered by Mr. Yoho. (consideration: CR H6080; text: CR H6080)
+- 2014-07-10 — Amendment (A064) offered by Mr. Maloney, Sean. (consideration: CR H6080-6081; text: CR H6080)
+- 2014-07-10 — Amendment (A065) offered by Mr. Scalise. (consideration: CR H6081-6082; text: CR H6081)
+- 2014-07-10 — Amendment (A066) offered by Mr. Yoho. (consideration: CR H6082-6083; text: CR H6082)
+- 2014-07-10 — Amendment (A067) offered by Mr. Fleming. (consideration: CR H6083-6084; text: CR H6083)
+- 2014-07-10 — Amendment (A068) offered by Mr. Walberg. (consideration: CR H6084; text: CR H6084)
+- 2014-07-10 — Amendment (A069) offered by Mr. McKinley. (consideration: CR H6084-5085, H6096; text: CR H6084)
+- 2014-07-10 — Amendment (A070) offered by Mr. McKinley. (consideration: CR H6085; text: CR H6085)
+- 2014-07-10 — Amendment (A071) offered by Mr. Weber (TX). (consideration: CR H6085-6086; text: CR H6085)
+- 2014-07-10 — Amendment (A072) offered by Mrs. Blackburn. (consideration: CR H6086-6087, H6096-6097; text: CR H6086)
+- 2014-07-10 — Amendment (A073) offered by Mr. Byrne. (consideration: CR H6087-6088; text: CR H6087)
+- 2014-07-10 — Amendment (A074) offered by Mr. Gosar. (consideration: CR H6088-6089, H6097-6098; text: CR H6088)
+- 2014-07-10 — Amendment (A075) offered by Mr. Gosar. (consideration: CR H6089-6090; text: CR H6089)
+- 2014-07-10 — Amendment (A076) offered by Mr. Kelly (PA). (consideration: CR H6090-6091; text: CR H6090)
+- 2014-07-10 — Amendment (A077) offered by Mr. Hudson. (consideration: CR H6091; text: CR H6091)
+- 2014-07-10 — Amendment (A078) offered by Mr. Hudson. (consideration: CR H6091-6093, H6098; text: CR H6091)
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment agreed to Committee of the Whole
+- 2014-07-10 — Amendment failed in Committee of the Whole
+- 2014-07-10 — Amendment failed in Committee of the Whole
+- 2014-07-10 — Amendment failed in Committee of the Whole
+- 2014-07-10 — Amendment failed in Committee of the Whole
+- 2014-07-10 — Amendment failed in Committee of the Whole
+- 2014-07-10 — Amendment failed in Committee of the Whole
+- 2014-07-10 — Amendment failed in Committee of the Whole
+- 2014-07-10 — Amendment failed in Committee of the Whole
+- 2014-07-10 — Amendment failed in Committee of the Whole
+- 2014-07-10 — Amendment failed in Committee of the Whole
+- 2014-07-10 — Amendment failed in Committee of the Whole
+- 2014-07-10 — Amendment failed in Committee of the Whole
+- 2014-07-10 — By unanimous consent, the Barton amendment was withdrawn. (consideration: CR H6068)
+- 2014-07-10 — By unanimous consent, the McNerney amendment was withdrawn. (consideration: CR H6056)
+- 2014-07-10 — Committee of the Whole House on the state of the Union rises leaving H.R. 4923 as unfinished business.
+- 2014-07-10 — Committee of the Whole House on the state of the Union rises leaving H.R. 4923 as unfinished business.
+- 2014-07-10 — Considered as unfinished business. (consideration: CR H6049-6065)
+- 2014-07-10 — Considered as unfinished business. (consideration: CR H6066-6093)
+- 2014-07-10 — Considered as unfinished business. (consideration: CR H6093-6100)
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Barton amendment, pending reservation of a point of order.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Blackburn amendment No. 22.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Burgess amendment, pending the reservation of a point of order.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Burgess amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Byrne amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Cassidy amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the DeLauro amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment No. 7.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Engel amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Fleming amendment No. 9.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment, pending the reservation of a point of order.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment, pending the reservation of a point of order.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment, pending the reservation of a point of order.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment No. 11.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Hudson amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Hudson amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Huffman amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Kelly (PA) amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the King of Iowa amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment, pending the reservation of a point of order.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Lankford amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Luetkemeyer amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Luetkemeyer amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Lummis amendment No. 16 pending a reservation of a point of order. Subsequently, the reservation was removed.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the McNerney amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Scalise amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Sean Maloney (NY) amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Speier amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Walberg amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Weber amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Yoho amendment, pending reservation of a point of order.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Yoho amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the first Stockman amendment.
+- 2014-07-10 — DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the second Stockman amendment.
+- 2014-07-10 — DEBATE - The House proceeded with 10 minutes of debate on the Enyart motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with amendments to increase the Corps of Engineers Construction account by a total of $10 million (intended to create jobs for water restoration projects, flood control, and the development of navigation and ports); increase the Department of Energy's Energy Efficiency and Renewable Energy account by $10 million (intended to create green jobs); and decrease the Department of Energy's Departmental Administration account by $20 million.
+- 2014-07-10 — House amendment agreed to: On agreeing to the Bonamici amendment (A024) Agreed to by recorded vote: 221 - 199 (Roll no. 380).(consideration: CR H6057-6058)
+- 2014-07-10 — House amendment agreed to: On agreeing to the Burgess amendment (A049) Agreed to by recorded vote: 226 - 193 (Roll no. 393).
+- 2014-07-10 — House amendment agreed to: On agreeing to the Byrne amendment (A073) Agreed to by voice vote.
+- 2014-07-10 — House amendment agreed to: On agreeing to the Cassidy amendment (A045) Agreed to by recorded vote: 232 - 187 (Roll no. 390).
+- 2014-07-10 — House amendment agreed to: On agreeing to the DeLauro amendment (A041) Agreed to by recorded vote: 221 - 200 (Roll no. 387).
+- 2014-07-10 — House amendment agreed to: On agreeing to the Ellison amendment (A050) Agreed to by voice vote.
+- 2014-07-10 — House amendment agreed to: On agreeing to the Engel amendment (A048) Agreed to by voice vote.
+- 2014-07-10 — House amendment agreed to: On agreeing to the Fleming amendment (A067) Agreed to by voice vote.
+- 2014-07-10 — House amendment agreed to: On agreeing to the Gosar amendment (A074) Agreed to by recorded vote: 226 - 194 (Roll no. 399).
+- 2014-07-10 — House amendment agreed to: On agreeing to the Gosar amendment (A075) Agreed to by voice vote.
+- 2014-07-10 — House amendment agreed to: On agreeing to the Grayson amendment (A052) Agreed to by voice vote.
+- 2014-07-10 — House amendment agreed to: On agreeing to the Kelly (PA) amendment (A076) Agreed to by voice vote.
+- 2014-07-10 — House amendment agreed to: On agreeing to the LaMalfa amendment (A053) Agreed to by recorded vote: 239 - 182 (Roll no. 394).
+- 2014-07-10 — House amendment agreed to: On agreeing to the LaMalfa amendment (A053) Agreed to by recorded vote: 239 - 182 (Roll no. 394).
+- 2014-07-10 — House amendment agreed to: On agreeing to the Lankford amendment (A044) Agreed to by recorded vote: 227 - 191 (Roll no. 389).
+- 2014-07-10 — House amendment agreed to: On agreeing to the Luetkemeyer amendment (A057) Agreed to by voice vote.
+- 2014-07-10 — House amendment agreed to: On agreeing to the Luetkemeyer amendment (A059) Agreed to by voice vote.
+- 2014-07-10 — House amendment agreed to: On agreeing to the Lummis amendment (A040) Agreed to by voice vote.
+- 2014-07-10 — House amendment agreed to: On agreeing to the Maloney, Sean amendment (A064) Agreed to by voice vote.
+- 2014-07-10 — House amendment agreed to: On agreeing to the McKinley amendment (A069) Agreed to by recorded vote: 229 - 188 (Roll no. 397).
+- 2014-07-10 — House amendment agreed to: On agreeing to the McKinley amendment (A070) Agreed to by voice vote.
+- 2014-07-10 — House amendment agreed to: On agreeing to the Scalise amendment (A065) Agreed to by voice vote.
+- 2014-07-10 — House amendment agreed to: On agreeing to the Scalise amendment (A065) Agreed to by voice vote.
+- 2014-07-10 — House amendment agreed to: On agreeing to the Schiff amendment (A032) Agreed to by recorded vote: 216 - 205 (Roll no. 383).(consideration: CR H6059-6060)
+- 2014-07-10 — House amendment agreed to: On agreeing to the Speier amendment (A043) Agreed to by voice vote.
+- 2014-07-10 — House amendment agreed to: On agreeing to the Stockman amendment (A062) Agreed to by recorded vote: 218 - 204 (Roll no. 396).
+- 2014-07-10 — House amendment agreed to: On agreeing to the Walberg amendment (A068) Agreed to by voice vote.
+- 2014-07-10 — House amendment agreed to: On agreeing to the Weber (TX) amendment (A071) Agreed to by voice vote.
+- 2014-07-10 — House amendment agreed to: On agreeing to the Yoho amendment (A066) Agreed to by voice vote.
+- 2014-07-10 — House amendment not agreed to: On agreeing to the Blackburn amendment (A072) Failed by recorded vote: 150 - 271 (Roll no. 398).
+- 2014-07-10 — House amendment not agreed to: On agreeing to the Chabot amendment (A037) Failed by recorded vote: 176 - 243 (Roll no. 385).(consideration: CR H6061)
+- 2014-07-10 — House amendment not agreed to: On agreeing to the Hudson amendment (A077) Failed by voice vote.
+- 2014-07-10 — House amendment not agreed to: On agreeing to the Hudson amendment (A078) Failed by recorded vote: 131 - 289 (Roll no. 400).
+- 2014-07-10 — House amendment not agreed to: On agreeing to the Huffman amendment (A056) Failed by voice vote.
+- 2014-07-10 — House amendment not agreed to: On agreeing to the King (IA) amendment (A042) Failed by recorded vote: 181 - 239 (Roll no. 388).
+- 2014-07-10 — House amendment not agreed to: On agreeing to the McClintock amendment (A022) Failed by recorded vote: 129 - 290 (Roll no. 379).(consideration: CR H6057)
+- 2014-07-10 — House amendment not agreed to: On agreeing to the Quigley amendment (A034) Failed by recorded vote: 181 - 239 (Roll no. 384).(consideration: CR H6060-6061)
+- 2014-07-10 — House amendment not agreed to: On agreeing to the Speier amendment (A026) Failed by recorded vote: 184 - 235 (Roll no. 381).(consideration: CR H6058-6059)
+- 2014-07-10 — House amendment not agreed to: On agreeing to the Stockman amendment (A061) Failed by recorded vote: 140 - 282 (Roll no. 395).
+- 2014-07-10 — House amendment not agreed to: On agreeing to the Stockman amendment (A061) Failed by recorded vote: 140 - 282 (Roll no. 395).
+- 2014-07-10 — House amendment not agreed to: On agreeing to the Titus amendment (A031) Failed by recorded vote: 75 - 344 (Roll no. 382).(consideration: CR H6059)
+- 2014-07-10 — House amendment not agreed to: On agreeing to the Titus amendment (A039) Failed by recorded vote: 96 - 326 (Roll no. 386).(consideration: CR H6061-6062)
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered
+- 2014-07-10 — House amendment offered/reported by: Amendment (A040) offered by Mrs. Lummis.(consideration: CR H6049-6050; text: CR H6049)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A041) offered by Ms. DeLauro.(consideration: CR H6050-6051, H6062; text: CR H6050)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A042) offered by Mr. King (IA).(consideration: CR H6051-6052, H6062-6063; text: CR H6051)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A043) offered by Ms. Speier.(consideration: CR H6052-6053; text: CR H6052)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A044) offered by Mr. Lankford.(consideration: CR H6053-6054, H6063-6064; text: CR H6053)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A045) offered by Mr. Cassidy.(consideration: CR H6054-6056, H6064; text: CR H6054)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A046) offered by Mr. McNerney.(consideration: CR H6056; text: CR H6056)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A047) offered by Mr. Barton.(consideration: CR H6066-6068; text: CR H6066)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A048) offered by Mr. Engel.(consideration: CR H6068; text: CR H6068)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A049) offered by Mr. Burgess.(consideration: CR H6068-6069, H6093-6094; text: CR H6068)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A050) offered by Mr. Ellison.(consideration: CR H6069-6070; text: CR H6069)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A051) offered by Mr. Burgess.(consideration: CR H6070; text: CR H6070)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A052) offered by Mr. Grayson.(consideration: CR H6070-6071; text: CR H6070-6071)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A053) offered by Mr. LaMalfa.(consideration: CR H6071-6072, H6094; text: CR H6071)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A054) offered by Mr. Garamendi.(consideration: CR H6072-6073; text: CR H6072)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A055) offered by Mr. LaMalfa.(consideration: CR H6073-6075; text: CR H6073)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A056) offered by Mr. Huffman.(consideration: CR H6075; text: CR H6075)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A057) offered by Mr. Luetkemeyer.(consideration: CR H6075-6076; text: CR H6075)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A058) offered by Mr. Garamendi.(consideration: CR H6076-6077; text: CR H6076)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A059) offered by Mr. Luetkemeyer.(consideration: CR H6077; text: CR H6077)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A060) offered by Mr. Garamendi.(consideration: CR H6077-6078; text: CR H6077)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A061) offered by Mr. Stockman.(consideration: CR H6078-6079, H6094-6095; text: CR H6078)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A062) offered by Mr. Stockman.(consideration: CR H6079-6080, H6095-6096; text: CR H6079)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A063) offered by Mr. Yoho.(consideration: CR H6080; text: CR H6080)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A064) offered by Mr. Maloney, Sean.(consideration: CR H6080-6081; text: CR H6080)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A065) offered by Mr. Scalise.(consideration: CR H6081-6082; text: CR H6081)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A066) offered by Mr. Yoho.(consideration: CR H6082-6083; text: CR H6082)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A067) offered by Mr. Fleming.(consideration: CR H6083-6084; text: CR H6083)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A068) offered by Mr. Walberg.(consideration: CR H6084; text: CR H6084)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A069) offered by Mr. McKinley.(consideration: CR H6084-5085, H6096; text: CR H6084)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A070) offered by Mr. McKinley.(consideration: CR H6085; text: CR H6085)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A071) offered by Mr. Weber (TX).(consideration: CR H6085-6086; text: CR H6085)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A072) offered by Mrs. Blackburn.(consideration: CR H6086-6087, H6096-6097; text: CR H6086)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A073) offered by Mr. Byrne.(consideration: CR H6087-6088; text: CR H6087)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A074) offered by Mr. Gosar.(consideration: CR H6088-6089, H6097-6098; text: CR H6088)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A075) offered by Mr. Gosar.(consideration: CR H6089-6090; text: CR H6089)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A076) offered by Mr. Kelly (PA).(consideration: CR H6090-6091; text: CR H6090)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A077) offered by Mr. Hudson.(consideration: CR H6091; text: CR H6091)
+- 2014-07-10 — House amendment offered/reported by: Amendment (A078) offered by Mr. Hudson.(consideration: CR H6091-6093, H6098; text: CR H6091)
+- 2014-07-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-10 — Mr. Enyart moved to recommit with instructions to the Committee on Appropriations. (consideration: CR H6098-6100; text: CR H6098-6099)
+- 2014-07-10 — Mr. Simpson moved for the Committee of the Whole to rise and report.
+- 2014-07-10 — Mr. Simpson moved that the Committee rise.
+- 2014-07-10 — Mr. Simpson moved to rise.
+- 2014-07-10 — Mr. Simpson raised a point of order against the Burgess amendment (A051). Mr. Simpson stated that the provisions of the amendment seek to change existing law and constitute legislation in an appropriations bill. The Chair sustained the point of order.
+- 2014-07-10 — Mr. Simpson raised a point of order against the Garamendi amendment (A054). Mr. Simpson stated that the provisions of the amendment seek to change existing law and constitute legislation in an appropriations bill. The Chair sustained the point of order.
+- 2014-07-10 — Mr. Simpson raised a point of order against the Garamendi amendment (A058). Mr. Simpson stated that the provisions of the amendment seek to change existing law and constitute legislation in an appropriations bill. The Chair sustained the point of order.
+- 2014-07-10 — Mr. Simpson raised a point of order against the Garamendi amendment (A060). Mr. Simpson stated that the provisions of the amendment seek to change existing law and constitute legislation in an appropriations bill. The Chair sustained the point of order.
+- 2014-07-10 — Mr. Simpson raised a point of order against the Yoho amendment (A063). Mr. Simpson stated that the provisions of the Yoho amendment seek to change existing law and constitute legislation in an appropriations bill. The Chair sustained the point of order.
+- 2014-07-10 — Ms. Kaptur raised a point of order against the LaMalfa amendment (A055). Ms. Kaptur stated that the provisions of the amendment seek to change existing law and constitute legislation in an appropriations bill. The Chair sustained the point of order.
+- 2014-07-10 — On agreeing to the Blackburn amendment (A072) Failed by recorded vote: 150 - 271 (Roll no. 398).
+- 2014-07-10 — On agreeing to the Bonamici amendment (A024) Agreed to by recorded vote: 221 - 199 (Roll no. 380). (consideration: CR H6057-6058)
+- 2014-07-10 — On agreeing to the Burgess amendment (A049) Agreed to by recorded vote: 226 - 193 (Roll no. 393).
+- 2014-07-10 — On agreeing to the Byrne amendment (A073) Agreed to by voice vote.
+- 2014-07-10 — On agreeing to the Cassidy amendment (A045) Agreed to by recorded vote: 232 - 187 (Roll no. 390).
+- 2014-07-10 — On agreeing to the Chabot amendment (A037) Failed by recorded vote: 176 - 243 (Roll no. 385). (consideration: CR H6061)
+- 2014-07-10 — On agreeing to the DeLauro amendment (A041) Agreed to by recorded vote: 221 - 200 (Roll no. 387).
+- 2014-07-10 — On agreeing to the Ellison amendment (A050) Agreed to by voice vote.
+- 2014-07-10 — On agreeing to the Engel amendment (A048) Agreed to by voice vote.
+- 2014-07-10 — On agreeing to the Fleming amendment (A067) Agreed to by voice vote.
+- 2014-07-10 — On agreeing to the Gosar amendment (A074) Agreed to by recorded vote: 226 - 194 (Roll no. 399).
+- 2014-07-10 — On agreeing to the Gosar amendment (A075) Agreed to by voice vote.
+- 2014-07-10 — On agreeing to the Grayson amendment (A052) Agreed to by voice vote.
+- 2014-07-10 — On agreeing to the Hudson amendment (A077) Failed by voice vote.
+- 2014-07-10 — On agreeing to the Hudson amendment (A078) Failed by recorded vote: 131 - 289 (Roll no. 400).
+- 2014-07-10 — On agreeing to the Huffman amendment (A056) Failed by voice vote.
+- 2014-07-10 — On agreeing to the Kelly (PA) amendment (A076) Agreed to by voice vote.
+- 2014-07-10 — On agreeing to the King (IA) amendment (A042) Failed by recorded vote: 181 - 239 (Roll no. 388).
+- 2014-07-10 — On agreeing to the LaMalfa amendment (A053) Agreed to by recorded vote: 239 - 182 (Roll no. 394).
+- 2014-07-10 — On agreeing to the Lankford amendment (A044) Agreed to by recorded vote: 227 - 191 (Roll no. 389).
+- 2014-07-10 — On agreeing to the Luetkemeyer amendment (A057) Agreed to by voice vote.
+- 2014-07-10 — On agreeing to the Luetkemeyer amendment (A059) Agreed to by voice vote.
+- 2014-07-10 — On agreeing to the Lummis amendment (A040) Agreed to by voice vote.
+- 2014-07-10 — On agreeing to the Maloney, Sean amendment (A064) Agreed to by voice vote.
+- 2014-07-10 — On agreeing to the McClintock amendment (A022) Failed by recorded vote: 129 - 290 (Roll no. 379). (consideration: CR H6057)
+- 2014-07-10 — On agreeing to the McKinley amendment (A069) Agreed to by recorded vote: 229 - 188 (Roll no. 397).
+- 2014-07-10 — On agreeing to the McKinley amendment (A070) Agreed to by voice vote.
+- 2014-07-10 — On agreeing to the Quigley amendment (A034) Failed by recorded vote: 181 - 239 (Roll no. 384). (consideration: CR H6060-6061)
+- 2014-07-10 — On agreeing to the Scalise amendment (A065) Agreed to by voice vote.
+- 2014-07-10 — On agreeing to the Schiff amendment (A032) Agreed to by recorded vote: 216 - 205 (Roll no. 383). (consideration: CR H6059-6060)
+- 2014-07-10 — On agreeing to the Speier amendment (A026) Failed by recorded vote: 184 - 235 (Roll no. 381). (consideration: CR H6058-6059)
+- 2014-07-10 — On agreeing to the Speier amendment (A043) Agreed to by voice vote.
+- 2014-07-10 — On agreeing to the Stockman amendment (A061) Failed by recorded vote: 140 - 282 (Roll no. 395).
+- 2014-07-10 — On agreeing to the Stockman amendment (A062) Agreed to by recorded vote: 218 - 204 (Roll no. 396).
+- 2014-07-10 — On agreeing to the Titus amendment (A031) Failed by recorded vote: 75 - 344 (Roll no. 382). (consideration: CR H6059)
+- 2014-07-10 — On agreeing to the Titus amendment (A039) Failed by recorded vote: 96 - 326 (Roll no. 386). (consideration: CR H6061-6062)
+- 2014-07-10 — On agreeing to the Walberg amendment (A068) Agreed to by voice vote.
+- 2014-07-10 — On agreeing to the Weber (TX) amendment (A071) Agreed to by voice vote.
+- 2014-07-10 — On agreeing to the Yoho amendment (A066) Agreed to by voice vote.
+- 2014-07-10 — On motion that the Committee rise Agreed to by voice vote.
+- 2014-07-10 — On motion to recommit with instructions Failed by recorded vote: 188 - 231 (Roll no. 401).
+- 2014-07-10 — On motion to rise Agreed to by voice vote.
+- 2014-07-10 — On motion to rise and report Agreed to by voice vote.
+- 2014-07-10 — On passage Passed by the Yeas and Nays: 253 - 170 (Roll no. 402).
+- 2014-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn amendment No. 22, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Blackburn demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Burgess amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Waxman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cassidy amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Cassidy demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeLauro amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. DeLauro demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Pingree demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hudson amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Hudson demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King(IA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Kaptur demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the LaMalfa amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Moran demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lankford amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Kaptur demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McKinley amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Kaptur demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Stockman amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Stockman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the first Stockman amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Stockman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2014-07-10 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 253 - 170 (Roll no. 402).
+- 2014-07-10 — Pursuant to the rule, the previous question was ordered.
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — Roll call votes on amendments in House
+- 2014-07-10 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2014-07-10 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2014-07-10 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2014-07-10 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2014-07-10 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4923.
+- 2014-07-10 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6099-6100)
+- 2014-07-10 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2014-07-10 — UNFINISHED BUSINESS - The Chair announced that, pursuant to clause 6 of Rule XVIII, the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
