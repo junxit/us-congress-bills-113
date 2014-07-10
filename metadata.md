@@ -1,7 +1,7 @@
 ---
 measure: S. 363
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 363
@@ -24,9 +24,10 @@ Geothermal Production Expansion Act of 2013
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Merkley, Jeff [D-OR] (M001176)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,6 @@ Geothermal Production Expansion Act of 2013
 - 2013-07-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 129.
 - 2014-07-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4355-4364; text of measure as reported in Senate: CR S4359-4360; text as passed Senate: CR S4362)
 - 2014-07-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4355-4364; text of measure as reported in Senate: CR S4359-4360; text as passed Senate: CR S4362)
+- 2014-07-10 — Message on Senate action sent to the House.
+- 2014-07-10 — Received in the House.
+- 2014-07-10 — Referred to the House Committee on Natural Resources.

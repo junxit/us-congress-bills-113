@@ -1,7 +1,7 @@
 ---
 measure: S. 363
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `30 U.S.C. § 1003` | add-at-end | Section 4(b) of the Geothermal Steam Act of 1970 (30 U.S.C. 1003(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 1003` | amend | Section 4(b) of the Geothermal Steam Act of 1970 (30 U.S.C. 1003(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
