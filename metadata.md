@@ -1,0 +1,23 @@
+---
+measure: S. 2579
+congress: 113
+version: Placed on Calendar Senate
+---
+
+# S. 2579
+
+A bill to require the Secretary of State to offer rewards totaling up to $5,000,000 for information on the kidnapping and murder of Naftali Fraenkel, a dual United States-Israeli citizen, that began on June 12, 2014.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Cruz, Ted [R-TX] (C001098)
+
+## Actions
+
+- 2014-07-09 — Introduced in Senate
+- 2014-07-09 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-07-10 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 460.
