@@ -1,7 +1,7 @@
 ---
 measure: S. 1104
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1104
@@ -36,3 +36,17 @@ Assessing Progress in Haiti Act of 2014
 - 2014-06-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 447.
 - 2014-07-10 — Passed Senate with an amendment by Voice Vote. (consideration: CR S4434-4435; text as passed Senate: CR S4434-4435)
 - 2014-07-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S4434-4435; text as passed Senate: CR S4434-4435)
+- 2014-07-14 — Held at the desk.
+- 2014-07-14 — Message on Senate action sent to the House.
+- 2014-07-14 — Received in the House.
+- 2014-07-25 — Considered by unanimous consent. (consideration: CR H6838-6839)
+- 2014-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-25 — Mr. Smith (NJ) asked unanimous consent to take from the Speaker's table and consider.
+- 2014-07-25 — On passage Passed without objection. (text: CR H6837-6838)
+- 2014-07-25 — Passed/agreed to in House: On passage Passed without objection.(text: CR H6837-6838)
+- 2014-07-29 — Presented to President.
+- 2014-07-29 — Presented to President.
+- 2014-08-08 — Became Public Law No: 113-162.
+- 2014-08-08 — Became Public Law No: 113-162.
+- 2014-08-08 — Signed by President.
+- 2014-08-08 — Signed by President.
