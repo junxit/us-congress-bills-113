@@ -1,7 +1,7 @@
 ---
 measure: S. 247
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
