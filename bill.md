@@ -41,7 +41,7 @@ In the case of a party to a joint sales agreement (as defined in Note 2(k) to se
 ## § 5. Deletion or repositioning of stations during certain periods
 
 - **(a)** *In general* Section 614(b)(9) of the Communications Act of 1934 (47 U.S.C. 534(b)(9)) is amended by striking the second sentence.
-- **(b)** *Revision of rules* Not later than 90 days after the date of the enactment of this Act, the Commission shall revise section 76.1601 of its rules (47 C.F.R. 76.1601) and any note to such section by removing the prohibition against deletion or repositioning of a local commercial television station during a period in which major television ratings services measure the size of audiences of local television stations.
+- **(b)** *Revision of rules* Not later than 90 days after the date of the enactment of this Act, the Commission shall revise section 76.1601 of its rules (47 CFR 76.1601) and any note to such section by removing the prohibition against deletion or repositioning of a local commercial television station during a period in which major television ratings services measure the size of audiences of local television stations.
 
 ## § 6. Repeal of integration ban
 
@@ -67,7 +67,14 @@ In the case of a party to a joint sales agreement (as defined in Note 2(k) to se
   - **(1)** the terms “local market” and “satellite carrier” have the meaning given such terms in section 339(d) of the Communications Act of 1934 (47 U.S.C. 339(d)); and
   - **(2)** the term “television broadcast station” has the meaning given such term in section 325(b)(7) of the Communications Act of 1934 (47 U.S.C. 325(b)(7)).
 
-## § 9. Definitions
+## § 9. Report on designated market areas
+
+Not later than 18 months after the date of the enactment of this Act, the Commission shall submit to the appropriate congressional committees a report containing an analysis of—
+
+- **(1)** the extent to which consumers in each local market (as defined in section 122(j) of title 17, United States Code) have access to broadcast programming from television broadcast stations (as defined in section 325(b)(7) of the Communications Act of 1934 (47 U.S.C. 325(b)(7))) located outside their local market, including through carriage by cable operators and satellite carriers of signals that are significantly viewed (within the meaning of section 340 of such Act (47 U.S.C. 340)); and
+- **(2)** whether there are technologically and economically feasible alternatives to the use of designated market areas (as defined in section 122(j) of title 17, United States Code) to define markets that would provide consumers with more programming options and the potential impact such alternatives could have on localism and on broadcast television locally, regionally, and nationally.
+
+## § 10. Definitions
 
 In this Act:
 
