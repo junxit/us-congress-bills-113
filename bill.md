@@ -2,7 +2,7 @@
 legis-num: H. RES. 657
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 657
@@ -17,7 +17,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas since Israel’s withdrawal from Gaza in 2005, Hamas and other terrorist groups have fired thousands of rockets at Israel;
 - Whereas since June 2014, Hamas has fired nearly 300 rockets at Israel;
 - Whereas Hamas’s weapons arsenal includes approximately 12,000 rockets that vary in range;
-- Whereas innocent Israeli civilians are indiscriminately targeted by Hamas rocket attacks; and
+- Whereas Iran has long provided material support to Hamas and Palestinian Islamic Jihad, including assistance that has enabled these terrorist organizations to produce longer-range rockets capable of striking Tel Aviv and Jerusalem;
+- Whereas innocent Israeli civilians are indiscriminately targeted by Hamas rocket attacks;
+- Whereas the United States and Israel have cooperated on missile defense projects, including Iron Dome, David’s Sling, and the Arrow Anti-Missile System, projects designed to thwart a diverse range of threats, including short-range missiles and rockets fired by non-state actors, such as Hamas;
+- Whereas the United States has provided $235,000,000 in fiscal year 2014 for Iron Dome research, development, and production;
+- Whereas, during the most recent rocket attacks from Gaza, Iron Dome has successfully intercepted dozens of rockets that were launched against Israeli population centers; and
 - Whereas 5 million Israelis are currently living under the threat of rocket attacks from Gaza: Now, therefore, be it
 
 That the House of Representatives—
