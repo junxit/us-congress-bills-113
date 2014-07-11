@@ -99,3 +99,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
         - **(I)** by taking into account only property placed in service after December 31, 2013, and
         - **(II)** by multiplying the limitation under section 168(k)(4)(B)(ii) of such Code (as amended by this section) by a fraction the numerator of which is the number of days in the taxable year after December 31, 2013, and the denominator of which is the number of days in the taxable year.
   - **(3)** *Special rules for certain trees and vines* The amendment made by subsection (c)(2) shall apply to trees and vines planted or grafted after December 31, 2013.
+
+## § 2. Budgetary effects
+
+- **(a)** *Statutory Pay-As-You-Go Scorecards* The budgetary effects of this Act shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010.
+- **(b)** *Senate PAYGO Scorecards* The budgetary effects of this Act shall not be entered on any PAYGO scorecard maintained for purposes of section 201 of S. Con. Res. 21 (110th Congress).
