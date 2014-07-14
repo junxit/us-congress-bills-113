@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2223
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2223
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 220 Elm
 
 - Rep. Benishek, Dan [R-MI-1] (B001271)
 
-## Cosponsors (9)
+## Cosponsors (13)
 
 - Rep. Conyers, John, Jr. [D-MI-13] (C000714)
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
@@ -27,6 +27,10 @@ To designate the facility of the United States Postal Service located at 220 Elm
 - Rep. Amash, Justin [R-MI-3] (A000367)
 - Rep. Walberg, Tim [R-MI-7] (W000798)
 - Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Bentivolio, Kerry L. [R-MI-11] (B001280)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Rogers, Mike J. [R-MI-8] (R000572)
+- Rep. Peters, Gary C. [D-MI-14] (P000595)
 
 ## Committees (1)
 
@@ -37,3 +41,11 @@ To designate the facility of the United States Postal Service located at 220 Elm
 - 2013-06-03 — Introduced in House
 - 2013-06-03 — Introduced in House
 - 2013-06-03 — Referred to the House Committee on Oversight and Government Reform.
+- 2014-05-21 — Committee Consideration and Mark-up Session Held.
+- 2014-05-21 — Ordered to be Reported by Unanimous Consent.
+- 2014-07-14 — Considered under suspension of the rules. (consideration:  CR H6154-6155)
+- 2014-07-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2223.
+- 2014-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-14 — Mr. Gosar moved to suspend the rules and pass the bill.
+- 2014-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6154)
+- 2014-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6154)
