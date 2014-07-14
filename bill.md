@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 5094
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5094
+
+> To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to recoup certain bonuses or awards paid to employees of the Department of Veterans Affairs.
+
+## § 1. Authority to recoup bonuses or awards paid to employees of Department of Veterans Affairs
+
+- **(a)** *In general* Chapter 7 of title 38, United States Code, is amended by adding at the end the following new section:
+  > ## § 712. Recoupment of bonuses or awards paid to employees of Department.
+  >
+  > Notwithstanding any other provision of law, the Secretary may issue an order directing an employee of the Department to repay the amount of any award or bonus paid to the employee under title 5, including under chapters 45 or 53 of such title, or this title if—
+  >
+  > - **(1)** the Secretary determines such repayment appropriate pursuant to regulations prescribed by the Secretary to carry out this section; and
+  > - **(2)** the employee is afforded notice and an opportunity for a hearing.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding at the end the following new item:
