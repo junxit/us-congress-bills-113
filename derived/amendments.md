@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5031
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -49,4 +49,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1862n-1a` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n-1a` | redesignate | by redesignating subsections (g) through (i) as subsections (h) through (j), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n-1a` | insert | by inserting after subsection (f) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1862n-1a` | insert | Section 10(i)(5) of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–1(i)(5)) is amended by inserting “computer science,” after “means a science,”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1862n-1` | insert | Section 10(i)(5) of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–1(i)(5)) is amended by inserting “computer science,” after “means a science,”. | the bill quotes the text inserted but describes where it goes |
