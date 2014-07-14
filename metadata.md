@@ -1,7 +1,7 @@
 ---
 measure: S. 2354
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2354
@@ -24,3 +24,7 @@ DHS Cybersecurity Workforce Recruitment and Retention Act of 2014
 
 - 2014-05-20 — Introduced in Senate
 - 2014-05-20 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2014-05-21 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2014-07-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment. With written report No. 113-207.
+- 2014-07-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment. With written report No. 113-207.
+- 2014-07-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 463.

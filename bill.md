@@ -70,3 +70,44 @@ This Act may be cited as the “DHS Cybersecurity Workforce Recruitment and Rete
     > - **(iii)** any position established as a qualified position in the excepted service by the Secretary of Homeland Security under section 226 of the Homeland Security Act of 2002;
 
 - **(c)** *Table of contents amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by inserting after the item relating to section 225 the following:
+
+## § 3. Homeland security cybersecurity workforce assessment
+
+- **(a)** *Short title* This section may be cited as the “Homeland Security Cybersecurity Workforce Assessment Act”.
+- **(b)** *Definitions* In this section:
+  - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
+    - **(A)** the Committee on Homeland Security and Governmental Affairs of the Senate;
+    - **(B)** the Committee on Homeland Security of the House of Representatives; and
+    - **(C)** the Committee on House Administration of the House of Representatives.
+  - **(2)** *Cybersecurity work category; data element code; specialty area* The terms Cybersecurity Work Category, Data Element Code, and Specialty Area have the meanings given such terms in the Office of Personnel Management’s Guide to Data Standards.
+  - **(3)** *Department* The term Department means the Department of Homeland Security.
+  - **(4)** *Director* The term Director means the Director of the Office of Personnel Management.
+  - **(5)** *Secretary* The term Secretary means the Secretary of Homeland Security.
+- **(c)** *National Cybersecurity Workforce Measurement Initiative*
+  - **(1)** *In general* The Secretary shall—
+    - **(A)** identify all cybersecurity workforce positions within the Department;
+    - **(B)** determine the primary Cybersecurity Work Category and Specialty Area of such positions; and
+    - **(C)** assign the corresponding Data Element Code, as set forth in the Office of Personnel Management’s Guide to Data Standards which is aligned with the National Initiative for Cybersecurity Education’s National Cybersecurity Workforce Framework report, in accordance with paragraph (2).
+  - **(2)** *Employment codes*
+    - **(A)** *Procedures* Not later than 90 days after the date of the enactment of this Act, the Secretary shall establish procedures—
+      - **(i)** to identify open positions that include cybersecurity functions (as defined in the OPM Guide to Data Standards); and
+      - **(ii)** to assign the appropriate employment code to each such position, using agreed standards and definitions.
+    - **(B)** *Code assignments* Not later than 9 months after the date of the enactment of this Act, the Secretary shall assign the appropriate employment code to—
+      - **(i)** each employee within the Department who carries out cybersecurity functions; and
+      - **(ii)** each open position within the Department that have been identified as having cybersecurity functions.
+  - **(3)** *Progress report* Not later than 1 year after the date of the enactment of this Act, the Director shall submit a progress report on the implementation of this subsection to the appropriate congressional committees.
+- **(d)** *Identification of cybersecurity specialty areas of critical need*
+  - **(1)** *In general* Beginning not later than 1 year after the date on which the employment codes are assigned to employees pursuant to subsection (c)(2)(B), and annually through 2021, the Secretary, in consultation with the Director, shall—
+    - **(A)** identify Cybersecurity Work Categories and Specialty Areas of critical need in the Department’s cybersecurity workforce; and
+    - **(B)** submit a report to the Director that—
+      - **(i)** describes the Cybersecurity Work Categories and Specialty Areas identified under subparagraph (A); and
+      - **(ii)** substantiates the critical need designations.
+  - **(2)** *Guidance* The Director shall provide the Secretary with timely guidance for identifying Cybersecurity Work Categories and Specialty Areas of critical need, including—
+    - **(A)** current Cybersecurity Work Categories and Specialty Areas with acute skill shortages; and
+    - **(B)** Cybersecurity Work Categories and Specialty Areas with emerging skill shortages.
+  - **(3)** *Cybersecurity critical needs report* Not later than 18 months after the date of the enactment of this Act, the Secretary, in consultation with the Director, shall—
+    - **(A)** identify Specialty Areas of critical need for cybersecurity workforce across the Department; and
+    - **(B)** submit a progress report on the implementation of this subsection to the appropriate congressional committees.
+- **(e)** *Government Accountability Office status reports* The Comptroller General of the United States shall—
+  - **(1)** analyze and monitor the implementation of subsections (c) and (d); and
+  - **(2)** not later than 3 years after the date of the enactment of this Act, submit a report to the appropriate congressional committees that describes the status of such implementation.
