@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4416
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4416
@@ -36,3 +36,11 @@ To redesignate the facility of the United States Postal Service located at 161 L
 - 2014-04-07 — Introduced in House
 - 2014-04-07 — Introduced in House
 - 2014-04-07 — Referred to the House Committee on Oversight and Government Reform.
+- 2014-05-21 — Committee Consideration and Mark-up Session Held.
+- 2014-05-21 — Ordered to be Reported by Unanimous Consent.
+- 2014-07-14 — Considered under suspension of the rules. (consideration:  CR H6159-6160)
+- 2014-07-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4416.
+- 2014-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-14 — Mr. Gosar moved to suspend the rules and pass the bill.
+- 2014-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6159)
+- 2014-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6159)
