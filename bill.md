@@ -23,10 +23,21 @@ This Act may be cited as the “Smart Savings Act”.
 - **(b)** *Acknowledgment of risk* Section 8439(d) of title 5, United States Code, is amended—
   - **(1)** by inserting “(1)” before “Each employee”; and
   - **(2)** by adding at the end the following new paragraph:
-    > - **(2)** Prior to enrollment in the Thrift Savings Plan, an individual covered by section 8438(c)(2)(A) shall sign the risk acknowledgment described under paragraph (1).
+    > - **(2)** Prior to enrollment in the Thrift Savings Fund, or as soon as practicable thereafter, an individual who is automatically enrolled pursuant to section 8432(b)(2) shall receive the risk acknowledgment information described under paragraph (1).
 
 - **(c)** *Technical and conforming amendment* Section 8472(g)(2) of title 5, United States Code, is amended by striking “required by section 8438 of this title to be invested in securities of the Government” and inserting “under section 8438(c)(2)(B)”.
 - **(d)** *Guidance* Not later than 9 months after the date of enactment of this Act, the Executive Director (as that term is defined under section 8401(13) of title 5, United States Code) shall develop and issue guidance implementing the requirements of this Act.
 - **(e)** *Effective date and application* The amendments made by subsections (a) and (b) shall—
   - **(1)** take effect on the date that the Executive Director issues guidance under subsection (d); and
   - **(2)** apply to individuals enrolled in the Thrift Savings Plan on or after such date.
+
+## § 3. Clarification of fiduciary protections
+
+Section 8477(e)(1)(C)(ii) of title 5, United States Code, is amended—
+
+- **(1)** in subclause (II)—
+  - **(A)** by inserting “or beneficiary” after “participant”; and
+  - **(B)** by inserting “or option” after “fund”; and
+- **(2)** in subclause (III)—
+  - **(A)** by inserting “or beneficiary” after “participant”; and
+  - **(B)** by inserting “or beneficiaries’ ” after “participants’”.

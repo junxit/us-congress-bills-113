@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4193
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4193
@@ -39,3 +39,8 @@ Smart Savings Act
 - 2014-06-30 — Placed on the Union Calendar, Calendar No. 379.
 - 2014-06-30 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-507.
 - 2014-06-30 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-507.
+- 2014-07-14 — Considered under suspension of the rules. (consideration:  CR H6162-6164)
+- 2014-07-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4193.
+- 2014-07-14 — Mr. Gosar moved to suspend the rules and pass the bill, as amended.
+- 2014-07-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6162)
+- 2014-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6162)
