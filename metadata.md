@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1786
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1786
@@ -42,3 +42,9 @@ National Windstorm Impact Reduction Act Reauthorization of 2014
 - 2014-03-13 — Placed on the Union Calendar, Calendar No. 282.
 - 2014-03-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-380, Part I.
 - 2014-03-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-380, Part I.
+- 2014-07-14 — Considered under suspension of the rules. (consideration:  CR H6144-6147)
+- 2014-07-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1786.
+- 2014-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-14 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2014-07-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6144-6145)
+- 2014-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6144-6145)

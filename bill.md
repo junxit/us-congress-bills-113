@@ -89,7 +89,7 @@ Section 205 of the National Windstorm Impact Reduction Act of 2004 (42 U.S.C. 15
 >   - **(4)** any revisions to the Program which may be necessary.
 > - **(c)** *Compensation* The members of the Advisory Committee established under this section shall serve without compensation.
 > - **(d)** *Reports* At least every 2 years, the Advisory Committee shall report to the Director on the assessments carried out under subsection (b) and its recommendations for ways to improve the Program.
-> - **(e)** *Charter* Notwithstanding section 14(b)(2) of the Federal Advisory Committee Act (5 U.S.C. App), the Advisory Committee shall not be required to file a charter subsequent to its initial charter, filed under section 9(c) of such Act, before the termination date specified in subsection (f) of this section.
+> - **(e)** *Charter* Notwithstanding section 14(b)(2) of the Federal Advisory Committee Act (5 U.S.C. App.), the Advisory Committee shall not be required to file a charter subsequent to its initial charter, filed under section 9(c) of such Act, before the termination date specified in subsection (f) of this section.
 > - **(f)** *Termination* The Advisory Committee shall terminate on September 30, 2016.
 > - **(g)** *Conflict of interest* An Advisory Committee member shall recuse himself from any Advisory Committee activity in which he has an actual pecuniary interest.
 
