@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4197
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4197
@@ -34,3 +34,17 @@ All Circuit Review Extension Act
 - 2014-03-11 — Introduced in House
 - 2014-03-11 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2014-03-11 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-03-12 — Committee Consideration and Mark-up Session Held.
+- 2014-03-12 — Ordered to be Reported by Voice Vote.
+- 2014-04-16 — Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.
+- 2014-07-14 — Committee on the Judiciary discharged.
+- 2014-07-14 — Committee on the Judiciary discharged.
+- 2014-07-14 — Considered under suspension of the rules. (consideration:  CR H6161-6162)
+- 2014-07-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4197.
+- 2014-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-14 — Mr. Gosar moved to suspend the rules and pass the bill.
+- 2014-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6161)
+- 2014-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6161)
+- 2014-07-14 — Placed on the Union Calendar, Calendar No. 390.
+- 2014-07-14 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-519, Part I.
+- 2014-07-14 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-519, Part I.
