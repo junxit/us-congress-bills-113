@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5029
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5029
@@ -27,9 +27,10 @@ International Science and Technology Cooperation Act of 2014
 - Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
 - Rep. Swalwell, Eric [D-CA-15] (S001193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ International Science and Technology Cooperation Act of 2014
 - 2014-07-14 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
 - 2014-07-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 346 - 41 (Roll no. 406). (text: CR H6149)
 - 2014-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 346 - 41 (Roll no. 406).(text: CR H6149)
+- 2014-07-15 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
