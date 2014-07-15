@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5056
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5056
@@ -32,9 +32,10 @@ Research and Development Efficiency Act
 - Rep. Young, Todd [R-IN-9] (Y000064)
 - Rep. Walorski, Jackie [R-IN-2] (W000813)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Research and Development Efficiency Act
 - 2014-07-14 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
 - 2014-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6147-6148)
 - 2014-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6147-6148)
+- 2014-07-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
