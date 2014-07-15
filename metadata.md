@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4718
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4718
@@ -79,3 +79,5 @@ To amend the Internal Revenue Code of 1986 to modify and make permanent bonus de
 - 2014-07-11 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6120)
 - 2014-07-11 — The previous question was ordered pursuant to the rule. (consideration: CR H6119)
 - 2014-07-11 — The resolution provides for the consideration of H.R. 5016 and H.R. 4718. The resolution provides for one hour of debate for each bill. Amendments may be offered to H.R. 5016, however no amendments are in order for H.R. 4718 except for the amendment in the nature of a substitute recommended by the Committee on Ways and Means and modified by the amendment printed in House Report 113-517. One motion to recommit is allowed for each bill.
+- 2014-07-14 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-07-15 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 465.
