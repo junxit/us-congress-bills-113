@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4416
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4416
@@ -27,9 +27,10 @@ To redesignate the facility of the United States Postal Service located at 161 L
 - Rep. Franks, Trent [R-AZ-8] (F000448)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To redesignate the facility of the United States Postal Service located at 161 L
 - 2014-07-14 — Mr. Gosar moved to suspend the rules and pass the bill.
 - 2014-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6159)
 - 2014-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6159)
+- 2014-07-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
