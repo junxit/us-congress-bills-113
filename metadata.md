@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4193
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4193
@@ -45,3 +45,12 @@ Smart Savings Act
 - 2014-07-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6162)
 - 2014-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6162)
 - 2014-07-15 — Received in the Senate, read twice.
+- 2014-12-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6580)
+- 2014-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6580)
+- 2014-12-11 — Message on Senate action sent to the House.
+- 2014-12-12 — Presented to President.
+- 2014-12-12 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-255.
+- 2014-12-18 — Became Public Law No: 113-255.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.

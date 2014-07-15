@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4193
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
