@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3086
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3086
@@ -263,3 +263,9 @@ Permanent Internet Tax Freedom Act
 - 2014-07-03 — Placed on the Union Calendar, Calendar No. 382.
 - 2014-07-03 — Reported by the Committee on Judiciary. H. Rept. 113-510.
 - 2014-07-03 — Reported by the Committee on Judiciary. H. Rept. 113-510.
+- 2014-07-15 — Considered under suspension of the rules. (consideration: CR H6228-6234)
+- 2014-07-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3086.
+- 2014-07-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-15 — Mr. Goodlatte moved to suspend the rules and pass the bill.
+- 2014-07-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6228)
+- 2014-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6228)
