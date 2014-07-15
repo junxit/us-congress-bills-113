@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4197
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4197
@@ -23,10 +23,11 @@ All Circuit Review Extension Act
 - Rep. Farenthold, Blake [R-TX-27] (F000460)
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ All Circuit Review Extension Act
 - 2014-07-14 — Placed on the Union Calendar, Calendar No. 390.
 - 2014-07-14 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-519, Part I.
 - 2014-07-14 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-519, Part I.
+- 2014-07-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
