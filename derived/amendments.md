@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5021
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-106 amendatory instructions. 32 executed, 74 stated and not applied.
+107 amendatory instructions. 34 executed, 73 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -303,7 +303,7 @@ to guess them.
 | Removed | `the first day of the plan year` |
 | Inserted | `the valuation date for the plan year` |
 
-### 26 U.S.C. § 430
+### 29 U.S.C. § 1083
 
 > Clause (i) of section 303(h)(2)(B) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1083(h)(2)(B)(i)) is amended by striking “the first day of the plan year” and inserting “the valuation date for the plan year”.
 
@@ -311,6 +311,24 @@ to guess them.
 |---|---|
 | Removed | `the first day of the plan year` |
 | Inserted | `the valuation date for the plan year` |
+
+### 19 U.S.C. § 58c
+
+> in subparagraph (A), by striking “September 30, 2023” and inserting “September 30, 2024”; and
+
+| | |
+|---|---|
+| Removed | `September 30, 2023` |
+| Inserted | `September 30, 2024` |
+
+### 19 U.S.C. § 58c
+
+> in subparagraph (B)(i), by striking “September 30, 2023” and inserting “September 30, 2024”.
+
+| | |
+|---|---|
+| Removed | `September 30, 2023` |
+| Inserted | `September 30, 2024` |
 
 ## Stated, not applied
 
@@ -331,7 +349,7 @@ complete account of the bill's effect, which it is not.
 | `23 U.S.C. § 104` | insert | in paragraph (2) in the matter preceding subparagraph (A) by inserting “or, for the period beginning on October 1, 2014, and ending May 31, 2015, that is equal to 243/365 of such unobligated balance” after “unobligated balance of amounts”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | insert | by inserting “or period” after “the fiscal year” each place it appears; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | insert | in the matter preceding subparagraph (A) by inserting “and for the period beginning on October 1, 2014, and ending on May 31, 2015” after “2014”; and | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 104` | insert | in each of subparagraphs (A) and (B) by inserting “or period” after “the fiscal year”; and | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 104` | insert | by inserting “or period” after “the fiscal year” each place it appears; and | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 402` | strike | in subparagraph (A) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `23 U.S.C. § 402` | replace | in subparagraph (B) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 402` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -347,7 +365,8 @@ complete account of the bill's effect, which it is not.
 | `23 U.S.C. § 402` | strike | in subparagraph (A) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `23 U.S.C. § 402` | replace | in subparagraph (B) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 402` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `23 U.S.C. § 402` | insert | Section 2009(a) of SAFETEA–LU (23 U.S.C. 402 note) is amended by inserting “and in the period beginning on October 1, 2014, and ending on May 31, 2015,” after “fiscal years 2013 and 2014” each place it appears. | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 402` | insert | in the first sentence by inserting “and in the period beginning on October 1, 2014, and ending on May 31, 2015” after “fiscal years 2013 and 2014”; and | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 402` | insert | in the second sentence by inserting “and in the period beginning on October 1, 2014, and ending on May 31, 2015,” after “fiscal years 2013 and 2014”. | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 402` | strike | in subparagraph (A) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `23 U.S.C. § 402` | replace | in subparagraph (B) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 402` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -384,7 +403,7 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 5128` | strike | in paragraph (1) by striking “and ” at the end; | the bill quotes the text struck but describes what replaces it |
 | `49 U.S.C. § 5128` | replace | in paragraph (2) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 5128` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 5128` | redesignate | by redesignating paragraphs (1) through (5) as subparagraphs (A) through (E), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 5128` | redesignate | by redesignating paragraphs (1) through (5) as subparagraphs (A) through (E), respectively, and by adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 5128` | replace | by striking “From the” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `49 U.S.C. § 5128` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 5128` | insert | Section 5128(c) of title 49, United States Code, is amended by inserting “and $2,663,014 for the period beginning on October 1, 2014, and ending on May 31, 2015,” after “2014”. | the bill quotes the text inserted but describes where it goes |
@@ -393,5 +412,3 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 430` | amend | The table in subclause (II) of section 430(h)(2)(C)(iv) of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1083` | amend | The table in subclause (II) of section 303(h)(2)(C)(iv) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1083(h)(2)(C)(iv)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1021` | insert | in clause (i) by inserting “and the Highway and Transportation Funding Act of 2014” after “MAP–21” both places it appears, and | the bill quotes the text inserted but describes where it goes |
-| — | replace | in subparagraph (A), by striking “September 30, 2023” and inserting “September 30, 2024”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B)(i), by striking “September 30, 2023” and inserting “September 30, 2024”. | the bill names no machine-readable US Code section |
