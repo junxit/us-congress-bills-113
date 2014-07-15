@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5031
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5031
@@ -28,9 +28,10 @@ STEM Education Act of 2014
 - Rep. Collins, Chris [R-NY-27] (C001092)
 - Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ STEM Education Act of 2014
 - 2014-07-14 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
 - 2014-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6141)
 - 2014-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6141)
+- 2014-07-15 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
