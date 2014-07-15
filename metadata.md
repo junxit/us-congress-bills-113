@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1192
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1192
@@ -20,9 +20,10 @@ To redesignate Mammoth Peak in Yosemite National Park as "Mount Jessie Benton Fr
 
 - Rep. Hahn, Janice [D-CA-44] (H001063)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To redesignate Mammoth Peak in Yosemite National Park as "Mount Jessie Benton Fr
 - 2014-07-14 — Mr. McClintock moved to suspend the rules and pass the bill.
 - 2014-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6166)
 - 2014-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6166)
+- 2014-07-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
