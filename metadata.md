@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4185
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4185
@@ -37,3 +37,4 @@ District of Columbia Courts, Public Defender Service, and Court Services and Off
 - 2014-07-14 — Mr. Gosar moved to suspend the rules and pass the bill.
 - 2014-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6150-6151)
 - 2014-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6150-6151)
+- 2014-07-15 — Received in the Senate.
