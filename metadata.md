@@ -1,7 +1,7 @@
 ---
 measure: S. 517
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 517
@@ -44,3 +44,19 @@ Unlocking Consumer Choice and Wireless Competition Act
 - 2014-07-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 461.
 - 2014-07-15 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4510-4511; text as passed Senate: CR S4510-4511)
 - 2014-07-15 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S4510-4511; text as passed Senate: CR S4510-4511)
+- 2014-07-16 — Held at the desk.
+- 2014-07-16 — Message on Senate action sent to the House.
+- 2014-07-16 — Received in the House.
+- 2014-07-17 — By Senator Leahy from Committee on the Judiciary filed written report. Report No. 113-212.
+- 2014-07-17 — By Senator Leahy from Committee on the Judiciary filed written report. Report No. 113-212.
+- 2014-07-25 — Considered by unanimous consent. (consideration: CR H6835-6836)
+- 2014-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-25 — Mr. Chaffetz asked unanimous consent to take from the Speaker's table and consider.
+- 2014-07-25 — On passage Passed by voice vote. (text: CR H6835-6836)
+- 2014-07-25 — Passed/agreed to in House: On passage Passed by voice vote.(text: CR H6835-6836)
+- 2014-07-28 — Presented to President.
+- 2014-07-28 — Presented to President.
+- 2014-08-01 — Became Public Law No: 113-144.
+- 2014-08-01 — Became Public Law No: 113-144.
+- 2014-08-01 — Signed by President.
+- 2014-08-01 — Signed by President.
