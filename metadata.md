@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2223
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2223
@@ -32,9 +32,10 @@ To designate the facility of the United States Postal Service located at 220 Elm
 - Rep. Rogers, Mike J. [R-MI-8] (R000572)
 - Rep. Peters, Gary C. [D-MI-14] (P000595)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ To designate the facility of the United States Postal Service located at 220 Elm
 - 2014-07-14 — Mr. Gosar moved to suspend the rules and pass the bill.
 - 2014-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6154)
 - 2014-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6154)
+- 2014-07-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
