@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1865
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -36,7 +36,7 @@ Congress finds that—
 Section 2 of the Migratory Bird Hunting and Conservation Stamp Act (16 U.S.C. 718b) is amended by striking subsection (b) and inserting the following:
 
 > - **(b)** *Cost of stamps*
->   - **(1)** *In general* For the 5-calendar-year period beginning with calendar year 2014, and for each 5-calendar-year period thereafter, the Secretary, in consultation with the Migratory Bird Conservation Commission, shall establish the amount to be collected under paragraph (2) for each stamp sold under this section, provided that the amount shall not exceed $25 for the initial 5-calendar-year period and not exceed $30 for the subsequent 5-calendar-year period.
+>   - **(1)** *In general* For the 5-calendar-year period beginning with calendar year 2014, and for each 5-calendar-year period thereafter, the Secretary, in consultation with the Migratory Bird Conservation Commission, shall establish the amount to be collected under paragraph (2) for each stamp sold under this section, provided that the amount shall not exceed $25 for the initial 5-calendar-year period and not exceed $30 for theany subsequent 5-calendar-year period.
 >   - **(2)** *Collection of amounts* The United States Postal Service, the Department of the Interior, or any other agent approved by the Department of the Interior, shall collect the amount established under paragraph (1) for each stamp sold under this section for a hunting year if the Secretary determines, at any time before February 1 of the calendar year during which the hunting year begins, that all amounts described in paragraph (3) have been obligated for expenditure.
 >   - **(3)** *Amounts* The amounts described in this paragraph are amounts in the Migratory Bird Conservation Fund available for obligation and attributable to—
 >     - **(A)** amounts appropriated pursuant to this Act for the fiscal year ending in the immediately preceding calendar year; and
