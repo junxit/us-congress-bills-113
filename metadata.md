@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2291
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2291
@@ -60,9 +60,10 @@ To designate the facility of the United States Postal Service located at 450 Lex
 - Rep. Deutch, Theodore E. [D-FL-21] (D000610)
 - Rep. Ruiz, Raul [D-CA-36] (R000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -78,3 +79,4 @@ To designate the facility of the United States Postal Service located at 450 Lex
 - 2014-07-14 — Mr. Gosar moved to suspend the rules and pass the bill.
 - 2014-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6160)
 - 2014-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6160)
+- 2014-07-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
