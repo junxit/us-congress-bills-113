@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1786
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1786
@@ -20,10 +20,11 @@ National Windstorm Impact Reduction Act Reauthorization of 2014
 
 - Rep. Granger, Kay [R-TX-12] (G000377)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ National Windstorm Impact Reduction Act Reauthorization of 2014
 - 2014-07-14 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
 - 2014-07-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6144-6145)
 - 2014-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6144-6145)
+- 2014-07-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
