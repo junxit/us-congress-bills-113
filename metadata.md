@@ -1,7 +1,7 @@
 ---
 measure: S. 517
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 517
@@ -42,3 +42,5 @@ Unlocking Consumer Choice and Wireless Competition Act
 - 2014-07-10 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2014-07-10 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2014-07-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 461.
+- 2014-07-15 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4510-4511; text as passed Senate: CR S4510-4511)
+- 2014-07-15 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S4510-4511; text as passed Senate: CR S4510-4511)
