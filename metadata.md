@@ -1,7 +1,7 @@
 ---
 measure: H.R. 306
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 306
@@ -33,3 +33,7 @@ For the relief of Corina de Chalup Turcinovic.
 - 2014-05-13 — Placed on the Private Calendar, Calendar No. 1.
 - 2014-05-13 — Reported by the Committee on Judiciary. H. Rept. 113-445.
 - 2014-05-13 — Reported by the Committee on Judiciary. H. Rept. 113-445.
+- 2014-07-15 — Considered from the Private Calendar.
+- 2014-07-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-15 — On passage Passed without objection.
+- 2014-07-15 — Passed/agreed to in House: On passage Passed without objection.
