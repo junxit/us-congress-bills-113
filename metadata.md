@@ -1,7 +1,7 @@
 ---
 measure: H.R. 606
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 606
@@ -45,9 +45,10 @@ To designate the facility of the United States Postal Service located at 815 Cou
 - Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
 - Rep. McCarthy, Carolyn [D-NY-4] (M000309)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ To designate the facility of the United States Postal Service located at 815 Cou
 - 2014-07-14 — Mr. Gosar moved to suspend the rules and pass the bill.
 - 2014-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6153)
 - 2014-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6153)
+- 2014-07-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
