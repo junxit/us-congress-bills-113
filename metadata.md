@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4193
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4193
@@ -44,3 +44,4 @@ Smart Savings Act
 - 2014-07-14 — Mr. Gosar moved to suspend the rules and pass the bill, as amended.
 - 2014-07-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6162)
 - 2014-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6162)
+- 2014-07-15 — Received in the Senate, read twice.
