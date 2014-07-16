@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4871
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-45 amendatory instructions. 13 executed, 32 stated and not applied.
+45 amendatory instructions. 11 executed, 34 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,11 +53,11 @@ to guess them.
 
 ### 15 U.S.C. § 6701
 
-> by striking “terrorism if—” and all that follows through “(I) the act” and inserting “terrorism if the act”;
+> by striking “terrorism if—” and all that follows through “(i) the act” and inserting “terrorism if the act”;
 
 | | |
 |---|---|
-| Removed | `terrorism if—” and all that follows through “(I) the act` |
+| Removed | `terrorism if—” and all that follows through “(i) the act` |
 | Inserted | `terrorism if the act` |
 
 ### 15 U.S.C. § 6701
@@ -116,30 +116,12 @@ to guess them.
 
 ### 15 U.S.C. § 6701
 
-> in paragraph (7)(D)(i), as so redesignated by paragraph (1)(B) of this subsection, by striking “subparagraph (C)” and inserting “subparagraph (B)”; and
+> Section 103(e) (15 U.S.C. 6701 note) is amended in paragraph (7)(D)(i), as so redesignated by paragraph (1)(C) of this subsection, by striking “subparagraph (C)” and inserting “subparagraph (B)”.
 
 | | |
 |---|---|
 | Removed | `subparagraph (C)` |
 | Inserted | `subparagraph (B)` |
-
-### 15 U.S.C. § 6701
-
-> in subparagraph (C), by striking “paragraph (7)(D)” and inserting “paragraph (7)(C)”; and
-
-| | |
-|---|---|
-| Removed | `paragraph (7)(D)` |
-| Inserted | `paragraph (7)(C)` |
-
-### 15 U.S.C. § 6701
-
-> in subparagraph (D)(ii), by striking “paragraph (7)(E)” and inserting “paragraph (7)(D)”.
-
-| | |
-|---|---|
-| Removed | `paragraph (7)(E)` |
-| Inserted | `paragraph (7)(D)` |
 
 ## Stated, not applied
 
@@ -155,7 +137,7 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 6701` | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (E) and (G), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | insert | by inserting after subparagraph (B) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | redesignate | by inserting before subparagraph (G), as so redesignated by paragraph (3) of this subsection, the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 6701` | insert | in paragraph (1), by inserting after subparagraph (C), as added by section 4(a)(4) of this Act, the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 6701` | insert | in paragraph (1), by inserting after subparagraph (C), as added by section 103(a)(4) of this Act, the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | redesignate | by redesignating paragraphs (9) through (16) as paragraphs (10) through (17), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | insert | by inserting after paragraph (8) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | replace | by striking “an insurer during the Transition period” and inserting the following: | the bill quotes the text struck but describes what replaces it |
@@ -182,3 +164,5 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 6701` | redesignate | in the matter preceding clause (i) (as so redesignated), by striking “An entity has” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 6701` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | add-at-end | Section 108 (15 U.S.C. 6701 note) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 6751` | amend | Subtitle C of title III of the Gramm-Leach-Bliley Act (15 U.S.C. 6751 et seq.) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 6751` | replace | The table of contents for the Gramm-Leach-Bliley Act is amended by striking the items relating to subtitle C of title III and inserting the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
