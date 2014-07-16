@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3212
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3212
@@ -81,3 +81,14 @@ Sean and David Goldman International Child Abduction Prevention and Return Act o
 - 2014-06-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 450.
 - 2014-07-16 — Passed Senate with an amendment by Voice Vote. (consideration: CR S4563-4567; text as passed Senate: CR S4563-4567)
 - 2014-07-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S4563-4567; text as passed Senate: CR S4563-4567)
+- 2014-07-17 — Message on Senate action sent to the House.
+- 2014-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-25 — Mr. Smith (NJ) asked unanimous consent to take from the Speaker's table and agree to the Senate amendment. (consideration: CR H6839-6843)
+- 2014-07-25 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H6839-6843)
+- 2014-07-25 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H6839-6843)
+- 2014-07-29 — Presented to President.
+- 2014-07-29 — Presented to President.
+- 2014-08-08 — Became Public Law No: 113-150.
+- 2014-08-08 — Became Public Law No: 113-150.
+- 2014-08-08 — Signed by President.
+- 2014-08-08 — Signed by President.

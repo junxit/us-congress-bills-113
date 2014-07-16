@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3212
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 

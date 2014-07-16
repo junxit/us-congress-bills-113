@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 3212
-congress: 113th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 3212
 
-That the bill from the House of Representatives (H.R. 3212) entitled “An Act to ensure compliance with the 1980 Hague Convention on the Civil Aspects of International Child Abduction by countries with which the United States enjoys reciprocal obligations, to establish procedures for the prompt return of children abducted to other countries, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To ensure compliance with the 1980 Hague Convention on the Civil Aspects of International Child Abduction by countries with which the United States enjoys reciprocal obligations, to establish procedures for the prompt return of children abducted to other countries, and for other purposes.
 
 ## § 1. Short title and table of contents
 
