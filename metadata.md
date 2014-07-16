@@ -1,7 +1,7 @@
 ---
 measure: H.R. 306
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 306
@@ -16,9 +16,10 @@ For the relief of Corina de Chalup Turcinovic.
 
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ For the relief of Corina de Chalup Turcinovic.
 - 2014-07-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2014-07-15 — On passage Passed without objection.
 - 2014-07-15 — Passed/agreed to in House: On passage Passed without objection.
+- 2014-07-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
