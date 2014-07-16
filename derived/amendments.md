@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5016
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -116,12 +116,12 @@ to guess them.
 
 ### 15 U.S.C. § 8305
 
-> by striking “or savings and loan holding company” and inserting “savings and loan holding company, or foreign banking organization (as such term is defined under Regulation K of the Board of Governors of the Federal Reserve System (12 C.F.R. 211.21(o)))”;
+> by striking “or savings and loan holding company” and inserting “savings and loan holding company, or foreign banking organization (as such term is defined under Regulation K of the Board of Governors of the Federal Reserve System (12 CFR 211.21(o)))”;
 
 | | |
 |---|---|
 | Removed | `or savings and loan holding company` |
-| Inserted | `savings and loan holding company, or foreign banking organization (as such term is defined under Regulation K of the Board of Governors of the Federal Reserve System (12 C.F.R. 211.21(o)))` |
+| Inserted | `savings and loan holding company, or foreign banking organization (as such term is defined under Regulation K of the Board of Governors of the Federal Reserve System (12 CFR 211.21(o)))` |
 
 ### 15 U.S.C. § 8305
 
