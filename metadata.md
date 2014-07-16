@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 500
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 500
@@ -16,12 +16,13 @@ A resolution expressing the sense of the Senate with respect to enhanced relatio
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. McCain, John [R-AZ] (M000303)
 - Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
 ## Committees (1)
 
@@ -31,3 +32,7 @@ A resolution expressing the sense of the Senate with respect to enhanced relatio
 
 - 2014-07-10 — Introduced in Senate
 - 2014-07-10 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S4417-4418)
+- 2014-07-16 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2014-07-16 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2014-07-16 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2014-07-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 470.
