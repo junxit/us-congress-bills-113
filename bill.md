@@ -2,90 +2,117 @@
 legis-num: H.R. 3212
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 3212
 
-> To ensure compliance with the 1980 Hague Convention on the Civil Aspects of International Child Abduction by countries with which the United States enjoys reciprocal obligations, to establish procedures for the prompt return of children abducted to other countries, and for other purposes.
+That the bill from the House of Representatives (H.R. 3212) entitled “An Act to ensure compliance with the 1980 Hague Convention on the Civil Aspects of International Child Abduction by countries with which the United States enjoys reciprocal obligations, to establish procedures for the prompt return of children abducted to other countries, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title and table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Sean and David Goldman International Child Abduction Prevention and Return Act of 2013”.
+- **(a)** *Short title* This Act may be cited as the “Sean and David Goldman International Child Abduction Prevention and Return Act of 2014”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Findings; sense of Congress; purposes
 
 - **(a)** *Findings* Congress finds the following:
-  - **(1)** Sean Goldman, a United States citizen and resident of New Jersey, was abducted from the United States in 2004 and separated from his father, David Goldman, who spent nearly six years battling for the return of his son from Brazil before Sean was finally returned to Mr. Goldman’s custody on December 24, 2009.
-  - **(2)** The Department of State’s Office of Children’s Issues, which serves as the Central Authority of the United States for the purposes of the 1980 Hague Convention on the Civil Aspects of International Child Abduction, has received thousands of requests since 2007 for assistance in the return to the United States of children who have been abducted by a parent or other legal guardian to another country. For a variety of reasons reflecting the significant obstacles to the recovery of abducted children, as well as the legal and factual complexity involving such cases, not all cases are reported to the Central Authority of the United States.
-  - **(3)** More than one thousand outgoing international child abductions are reported to the Central Authority of the United States every year.
-  - **(4)** Only about half of the children abducted from the United States to countries with which the United States enjoys reciprocal obligations under the Hague Abduction Convention are returned to the United States.
-  - **(5)** The United States and Convention countries have expressed their desire, through the Hague Abduction Convention, “to protect children internationally from the harmful effects of their wrongful removal or retention and to establish procedures to ensure their prompt return to the State of their habitual residence, as well as to secure protection for rights of access.”.
-  - **(6)** Compliance by the United States and Convention countries depends on the actions of their designated central authorities, the performance of their judiciaries as reflected in the legal process and decisions rendered to enforce or effectuate the Hague Abduction Convention, and the ability and willingness of their law enforcement to insure the swift enforcement of orders rendered pursuant to the Hague Abduction Convention.
-  - **(7)** According to data compiled by the Central Authority of the United States, approximately 40 percent of abduction cases and access cases involve children taken from the United States to countries with which the United States does not have Hague Abduction Convention obligations or other agreements relating to the resolution of abduction cases and access cases.
-  - **(8)** According to the Department of State’s April 2010 Report on Compliance with the Hague Convention on the Civil Aspects of International Child Abduction, “parental child abduction jeopardizes the child and has substantial long-term consequences for both the child and the left-behind parent.”.
-  - **(9)** Abducted children are at risk of serious emotional and psychological problems and have been found to experience anxiety, eating problems, nightmares, mood swings, sleep disturbances, aggressive behavior, resentment, guilt and fearfulness, and as adults may struggle with identity issues, personal relationships, and parenting.
-  - **(10)** Left-behind parents may encounter substantial psychological and emotional problems, and few have the extraordinary financial resources necessary to pursue individual civil or criminal remedies in both the United States and a foreign country, even where available, or to engage in repeated foreign travel to attempt to procure the return of their children by evoking diplomatic and humanitarian remedies.
-  - **(11)** Left-behind parents who are military parents may be unable to leave their military duties to pursue multinational litigation or take leave to attend multiple court proceedings, and foreign authorities may not schedule proceedings to accommodate such duties.
-- **(b)** *Sense of Congress* It is the sense of Congress that the United States should set a strong example for Convention countries in the timely location and return of abducted children in the United States whose habitual residence is not the United States.
-- **(c)** *Purposes* The purposes of this Act are to—
-  - **(1)** protect children whose habitual residence is the United States from the harmful effects of abduction and to assist left-behind parents to have access to their abducted child in a safe and predictable manner, wherever the child is located, while an abduction case is pending;
-  - **(2)** provide left-behind parents, including military parents, their advocates, and judges the information they need to enhance the resolution of abduction cases and access cases through established legal procedures, risk assessment tools, and the practical means for overcoming obstacles to recovering an abducted child;
-  - **(3)** establish measured, effective, and predictable actions to be undertaken by the President on behalf of abducted children whose habitual residence is the United States at the time of the abduction;
-  - **(4)** promote an international consensus that it is in the interest of children to have any issues related to their care and custody determined in the country of their habitual residence;
-  - **(5)** provide the necessary training for officials of the United States Armed Forces and the Department of Defense to establish policies and provide services to military parents that address the unique circumstances of abductions and violations of rights of access that may occur with regard to military dependent children; and
-  - **(6)** encourage the effective implementation of international mechanisms, particularly those established pursuant to the Hague Abduction Convention, to achieve reciprocity in the resolution of abductions and to protect children from the harmful effects of an abduction.
+  - **(1)** Sean Goldman, a United States citizen and resident of New Jersey, was abducted from the United States in 2004 and separated from his father, David Goldman, who spent nearly 6 years battling for the return of his son from Brazil before Sean was finally returned to Mr. Goldman’s custody on December 24, 2009.
+  - **(2)** The Department of State’s Office of Children’s Issues, which serves as the Central Authority of the United States for the purposes of the 1980 Hague Convention on the Civil Aspects of International Child Abduction (referred to in this Act as the “Hague Abduction Convention”), has received thousands of requests since 2007 for assistance in the return to the United States of children who have been wrongfully abducted by a parent or other legal guardian to another country.
+  - **(3)** For a variety of reasons reflecting the significant obstacles to the recovery of abducted children, as well as the legal and factual complexity involving such cases, not all cases are reported to the Central Authority of the United States.
+  - **(4)** More than 1,000 outgoing international child abductions are reported every year to the Central Authority of the United States, which depends solely on proactive reporting of abduction cases.
+  - **(5)** Only about one-half of the children abducted from the United States to countries with which the United States enjoys reciprocal obligations under the Hague Abduction Convention are returned to the United States.
+  - **(6)** The United States and other Convention countries have expressed their desire, through the Hague Abduction Convention, “to protect children internationally from the harmful effects of their wrongful removal or retention and to establish procedures to ensure their prompt return to the State of their habitual residence, as well as to secure protection for rights of access.”
+  - **(7)** Compliance by the United States and other Convention countries depends on the actions of their designated central authorities, the performance of their judicial systems as reflected in the legal process and decisions rendered to enforce or effectuate the Hague Abduction Convention, and the ability and willingness of their law enforcement authorities to ensure the swift enforcement of orders rendered pursuant to the Hague Abduction Convention.
+  - **(8)** According to data from the Department of State, approximately 40 percent of abduction cases involve children taken from the United States to countries with which the United States does not have reciprocal obligations under the Hague Abduction Convention or other arrangements relating to the resolution of abduction cases.
+  - **(9)** According to the Department of State’s April 2010 Report on Compliance with the Hague Convention on the Civil Aspects of International Child Abduction, “parental child abduction jeopardizes the child and has substantial long-term consequences for both the child and the left-behind parent.”
+  - **(10)** Few left-behind parents have the extraordinary financial resources necessary—
+    - **(A)** to pursue individual civil or criminal remedies in both the United States and a foreign country, even if such remedies are available; or
+    - **(B)** to engage in repeated foreign travel to attempt to obtain the return of their children through diplomatic or other channels.
+  - **(11)** Military parents often face additional complications in resolving abduction cases because of the challenges presented by their military obligations.
+  - **(12)** In addition to using the Hague Abduction Convention to achieve the return of abducted children, the United States has an array of Federal, State, and local law enforcement, criminal justice, and judicial tools at its disposal to prevent international abductions.
+  - **(13)** Federal agencies tasked with preventing international abductions have indicated that the most effective way to stop international child abductions is while they are in progress, rather than after the child has been removed to a foreign destination.
+  - **(14)** Parental awareness of abductions in progress, rapid response by relevant law enforcement, and effective coordination among Federal, State, local, and international stakeholders are critical in preventing such abductions.
+  - **(15)** A more robust application of domestic tools, in cooperation with international law enforcement entities and appropriate application of the Hague Abduction Convention could—
+    - **(A)** discourage some parents from attempting abductions;
+    - **(B)** block attempted abductions at ports of exit; and
+    - **(C)** help achieve the return of more abducted children.
+- **(b)** *Sense of Congress* It is the sense of Congress that the United States should set a strong example for other Convention countries in the timely location and prompt resolution of cases involving children abducted abroad and brought to the United States.
+- **(c)** *Purposes* The purposes of this Act are—
+  - **(1)** to protect children whose habitual residence is the United States from wrongful abduction;
+  - **(2)** to assist left-behind parents in quickly resolving cases and maintaining safe and predictable contact with their child while an abduction case is pending;
+  - **(3)** to protect the custodial rights of parents, including military parents, by providing the parents, the judicial system, and law enforcement authorities with the information they need to prevent unlawful abduction before it occurs;
+  - **(4)** to enhance the prompt resolution of abduction and access cases;
+  - **(5)** to detail an appropriate set of actions to be undertaken by the Secretary of State to address persistent problems in the resolution of abduction cases;
+  - **(6)** to establish a program to prevent wrongful abductions; and
+  - **(7)** to increase interagency coordination in preventing international child abduction by convening a working group composed of presidentially appointed and Senate confirmed officials from the Department of State, the Department of Homeland Security, and the Department of Justice.
 
 ## § 3. Definitions
 
 In this Act:
 
-- **(1)** *Abducted child* The term abducted child means a child who is the victim of an abduction.
-- **(2)** *Abduction* The term abduction means—
-  - **(A)** the alleged wrongful removal of a child from the child’s country of habitual residence;
-  - **(B)** the alleged wrongful retention of a child outside the child’s country of habitual residence; or
-  - **(C)** the alleged wrongful removal or retention of a military dependent child from the exercise of rights of custody of a military parent.
-- **(3)** *Abduction case* The term abduction case means a case involving an application filed with the Central Authority of the United States by a left-behind parent for the resolution of an abduction.
-- **(4)** *Access case* The term access case means a case involving an application filed with the Central Authority of the United States by a left-behind parent for the establishment of rights of access.
+- **(1)** *Abducted child* The term abducted child means a child who is the victim of international child abduction.
+- **(2)** *Abduction* The term abduction means the alleged wrongful removal of a child from the child’s country of habitual residence, or the wrongful retention of a child outside such country, in violation of a left-behind parent’s custodial rights, including the rights of a military parent.
+- **(3)** *Abduction case* The term abduction case means a case that—
+  - **(A)** has been reported to the Central Authority of the United States by a left-behind parent for the resolution of an abduction; and
+  - **(B)** meets the criteria for an international child abduction under the Hague Abduction Convention, regardless of whether the country at issue is a Convention country.
+- **(4)** *Access case* The term access case means a case involving an application filed with the Central Authority of the United States by a parent seeking rights of access.
 - **(5)** *Annual report* The term Annual Report means the Annual Report on International Child Abduction required under section 101.
 - **(6)** *Application* The term application means—
   - **(A)** in the case of a Convention country, the application required pursuant to article 8 of the Hague Abduction Convention;
-  - **(B)** in the case of an MOU country, the formal document required pursuant to the provisions of the applicable MOU to request the return of an abducted child or to request rights of access, as applicable; and
-  - **(C)** in the case of a nonparty country, the formal request by the Central Authority of the United States to the Central Authority of such country requesting the return of an abducted child or for rights of access to an abducted child.
-- **(7)** *Appropriate congressional committees* The term appropriate congressional committees means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
-- **(8)** *Central authority* The term Central Authority means—
+  - **(B)** in the case of a bilateral procedures country, the formal document required, pursuant to the provisions of the applicable arrangement, to request the return of an abducted child or to request rights of access, as applicable; and
+  - **(C)** in the case of a non-Convention country, the formal request by the Central Authority of the United States to the Central Authority of such country requesting the return of an abducted child or for rights of contact with an abducted child.
+- **(7)** *Appropriate congressional committees* The term appropriate congressional committees means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+- **(8)** *Bilateral procedures* The term bilateral procedures means any procedures established by, or pursuant to, a bilateral arrangement, including a Memorandum of Understanding between the United States and another country, to resolve abduction and access cases, including procedures to address interim contact matters.
+- **(9)** *Bilateral procedures country* The term bilateral procedures country means a country with which the United States has entered into bilateral procedures, including Memoranda of Understanding, with respect to child abductions.
+- **(10)** *Central authority* The term Central Authority means—
   - **(A)** in the case of a Convention country, the meaning given such term in article 6 of the Hague Abduction Convention;
-  - **(B)** in the case of an MOU country, the official entity designated by the government of the MOU country within the applicable MOU pursuant to section 103(b)(1) to discharge the duties imposed on the entity in such MOU; and
-  - **(C)** in the case of a nonparty country, the foreign ministry of such country.
-- **(9)** *Child* The term child means an individual who has not attained the age of 16.
-- **(10)** *Convention country* The term Convention country means a country other than the United States that has ratified, acceded, or succeeded to the Hague Abduction Convention and with respect to which the United States has entered into a reciprocal agreement pursuant to the Hague Abduction Convention.
-- **(11)** *Hague abduction convention* The term Hague Abduction Convention means the Convention on the Civil Aspects of International Child Abduction, done at The Hague on October 25, 1980.
-- **(12)** *Left-behind parent* The term left-behind parent means an individual or entity, either individually or jointly, who alleges that an abduction has occurred that is in breach of rights of custody—
-  - **(A)** attributed to such individual or entity, as applicable; and
-  - **(B)** exercised at the time of the abduction or that would have been exercised but for the abduction.
-- **(13)** *Legal residence* The term legal residence means the congressional district and State in which an individual either is residing, or if an individual is residing temporarily outside the United States, the congressional district and State to which the individual intends to return.
-- **(14)** *Military dependent child* The term military dependent child means a child whose habitual residence is the United States according to United States law even though the child is residing outside the United States with a military parent.
-- **(15)** *Military parent* The term military parent means an individual who has rights of custody over a child and who is serving outside the United States as a member of the United States Armed Forces.
-- **(16)** *MOU* The term MOU means a memorandum of understanding between the United States and a country that is not a Convention country to resolve abduction cases and access cases.
-- **(17)** *MOU country* The term MOU country means a country with respect to which the United States has entered into an MOU.
-- **(18)** *Nonparty country* The term nonparty country means a country that is neither a Convention country nor an MOU country.
-- **(19)** *Pattern of noncooperation*
-  - **(A)** *In general* The term pattern of noncooperation means the persistent failure—
-    - **(i)** of a Convention country to implement and abide by the provisions of the Hague Abduction Convention; and
-    - **(ii)** of an MOU country to implement and abide by the provisions of the applicable MOU.
-  - **(B)** *Criteria* Such persistent failure may be evidenced by one or more of the following criteria:
-    - **(i)** The existence of 10 or more unresolved abduction cases.
-    - **(ii)** The failure of the Central Authority of the country to fulfill its responsibilities pursuant to the Hague Abduction Convention or the MOU, as applicable.
-    - **(iii)** The failure of the judicial or administrative branch, as applicable, of the national government of the country to implement and comply with the provisions of the Hague Abduction Convention or the MOU, as applicable.
-    - **(iv)** The failure of law enforcement to locate abducted children or to enforce return orders or determinations of rights of access rendered by the judicial or administrative authorities of the national government of the country in abduction cases or access cases.
-- **(20)** *Rights of access* The term rights of access means the rights of contact between a child and a left-behind parent provided as a provisional measure while an abduction case is pending, by operation of law or by reason of judicial or administrative determination or by agreement having legal effect, under the law of the country in which the child is located.
-- **(21)** *Rights of custody* The term rights of custody means rights of care and custody of an abducted child, including the right to determine the place of residence of an abducted child—
-  - **(A)** attributed to an individual or entity, either individually or jointly, and
-  - **(B)** arising by operation of law or by reason of a judicial or administrative decision, or by reason of an agreement having legal effect,
-- **(22)** *Unresolved abduction case*
-  - **(A)** *In general* Subject to subparagraph (B), the term unresolved abduction case means an abduction case that remains unresolved for a period that exceeds 180 days after the date on which the completed application for return of the child is submitted for determination to the judicial or administrative authority, as applicable, in the country in which the child is located.
+  - **(B)** in the case of a bilateral procedures country, the official entity designated by the government of the bilateral procedures country within the applicable memorandum of understanding pursuant to section 103(b)(1) to discharge the duties imposed on the entity; and
+  - **(C)** in the case of a non-Convention country, the foreign ministry or other appropriate authority of such country.
+- **(11)** *Child* The term child means an individual who has not attained 16 years of age.
+- **(12)** *Convention country* The term Convention country means a country for which the Hague Abduction Convention has entered into force with respect to the United States.
+- **(13)** *Hague abduction convention* The term Hague Abduction Convention means the Convention on the Civil Aspects of International Child Abduction, done at The Hague October 25, 1980.
+- **(14)** *Interim contact* The term interim contact means the ability of a left-behind parent to communicate with or visit an abducted child during the pendency of an abduction case.
+- **(15)** *Left-behind parent* The term left-behind parent means an individual or legal custodian who alleges that an abduction has occurred that is in breach of rights of custody attributed to such individual.
+- **(16)** *Non-convention country* The term non-Convention country means a country in which the Hague Abduction Convention has not entered into force with respect to the United States.
+- **(17)** *Overseas military dependent child* The term overseas military dependent child means a child whose habitual residence is the United States according to United States law even though the child is residing outside the United States with a military parent.
+- **(18)** *Overseas military parent* The term overseas military parent means an individual who—
+  - **(A)** has custodial rights with respect to a child; and
+  - **(B)** is serving outside the United States as a member of the United States Armed Forces.
+- **(19)** *Pattern of noncompliance*
+  - **(A)** *In general* The term pattern of noncompliance means the persistent failure—
+    - **(i)** of a Convention country to implement and abide by provisions of the Hague Abduction Convention;
+    - **(ii)** of a non-Convention country to abide by bilateral procedures that have been established between the United States and such country; or
+    - **(iii)** of a non-Convention country to work with the Central Authority of the United States to resolve abduction cases.
+  - **(B)** *Persistent failure* Persistent failure under subparagraph (A) may be evidenced in a given country by the presence of 1 or more of the following criteria:
+    - **(i)** Thirty percent or more of the total abduction cases in such country are unresolved abduction cases.
+    - **(ii)** The Central Authority regularly fails to fulfill its responsibilities pursuant to—
+      - **(I)** the Hague Abduction Convention; or
+      - **(II)** any bilateral procedures between the United States and such country.
+    - **(iii)** The judicial or administrative branch, as applicable, of the national government of a Convention country or a bilateral procedures country fails to regularly implement and comply with the provisions of the Hague Abduction Convention or bilateral procedures, as applicable.
+    - **(iv)** Law enforcement authorities regularly fail to enforce return orders or determinations of rights of access rendered by the judicial or administrative authorities of the government of the country in abduction cases.
+- **(20)** *Rights of access* The term rights of access means the establishment of rights of contact between a child and a parent seeking access in Convention countries—
+  - **(A)** by operation of law;
+  - **(B)** through a judicial or administrative determination; or
+  - **(C)** through a legally enforceable arrangement between the parties.
+- **(21)** *Rights of custody* The term rights of custody means rights of care and custody of a child, including the right to determine the place of residence of a child, under the laws of the country in which the child is a habitual resident—
+  - **(A)** attributed to an individual or legal custodian; and
+  - **(B)** arising—
+    - **(i)** by operation of law; or
+    - **(ii)** through a judicial or administrative decision; or
+    - **(iii)** through a legally enforceable arrangement between the parties.
+- **(22)** *Rights of interim contact* The term rights of interim contact means the rights of contact between a child and a left-behind parent, which has been provided as a provisional measure while an abduction case is pending, under the laws of the country in which the child is located—
+  - **(A)** by operation of law; or
+  - **(B)** through a judicial or administrative determination; or
+  - **(C)** through a legally enforceable arrangement between the parties.
+- **(23)** *Unresolved abduction case*
+  - **(A)** *In general* Subject to subparagraph (B), the term unresolved abduction case means an abduction case that remains unresolved for a period that exceeds 12 months after the date on which the completed application for return of the child is submitted for determination to the judicial or administrative authority, as applicable, in the country in which the child is located.
   - **(B)** *Resolution of case* An abduction case shall be considered to be resolved if—
-    - **(i)** the child is returned to the country of habitual residence, pursuant to the Hague Abduction Convention or MOU, if applicable;
-    - **(ii)** the judicial or administrative branch, as applicable, of the national government of the country in which the child is located has implemented and is complying with the provisions of the Hague Abduction Convention or the MOU, as applicable, and a final determination is made by such judicial or administrative branch that the child will not be returned to the country of habitual residence; or
-    - **(iii)** the child attains the age of 16.
+    - **(i)** the child is returned to the country of habitual residence, pursuant to the Hague Abduction Convention or other appropriate bilateral procedures, if applicable;
+    - **(ii)** the judicial or administrative branch, as applicable, of the government of the country in which the child is located has implemented, and is complying with, the provisions of the Hague Abduction Convention or other bilateral procedures, as applicable;
+    - **(iii)** the left-behind parent reaches a voluntary arrangement with the other parent;
+    - **(iv)** the left-behind parent submits a written withdrawal of the application or the request for assistance to the Department of State;
+    - **(v)** the left-behind parent cannot be located for 1 year despite the documented efforts of the Department of State to locate the parent; or
+    - **(vi)** the child or left-behind parent is deceased.
