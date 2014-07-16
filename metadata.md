@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 498
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 498
@@ -16,7 +16,7 @@ A resolution expressing the sense of the Senate regarding United States support 
 
 - Sen. Graham, Lindsey [R-SC] (G000359)
 
-## Cosponsors (41)
+## Cosponsors (72)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
@@ -59,6 +59,37 @@ A resolution expressing the sense of the Senate regarding United States support 
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Lee, Mike [R-UT] (L000577)
 - Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
 
 ## Committees (1)
 
@@ -68,3 +99,7 @@ A resolution expressing the sense of the Senate regarding United States support 
 
 - 2014-07-10 — Introduced in Senate
 - 2014-07-10 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S4417)
+- 2014-07-16 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2014-07-16 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2014-07-16 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2014-07-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 469.
