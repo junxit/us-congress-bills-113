@@ -1,0 +1,19 @@
+---
+legis-num: S. 2614
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2614
+
+> To amend certain provisions of the FAA Modernization and Reform Act of 2012.
+
+## § 1. Rollover of amounts received in airline carrier bankruptcy
+
+- **(a)** *Extension of time To file claim for refund* Section 1106(a)(3) of the FAA Modernization and Reform Act of 2012 (26 U.S.C. 408 note) is amended by striking “2013” and inserting “2015”.
+- **(b)** *Definitions and special rules* Section 1106(c) of such Act is amended—
+  - **(1)** in paragraph (1)(A)(i), by inserting “or filed on November 29, 2011,” after “2007,”; and
+  - **(2)** in paragraph (2)(B)—
+    - **(A)** by striking “terminated or” and inserting “terminated,”; and
+    - **(B)** by inserting “, or was frozen effective November 1, 2012” after “Pension Protection Act of 2006”.
