@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3086
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3086
@@ -269,3 +269,4 @@ Permanent Internet Tax Freedom Act
 - 2014-07-15 — Mr. Goodlatte moved to suspend the rules and pass the bill.
 - 2014-07-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6228)
 - 2014-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6228)
+- 2014-07-16 — Received in the Senate.

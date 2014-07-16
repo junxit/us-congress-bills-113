@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3086
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
