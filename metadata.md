@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5021
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5021
@@ -66,3 +66,4 @@ Highway and Transportation Funding Act of 2014
 - 2014-07-15 — Rule provides for consideration of H.R. 5021 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2014-07-15 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6260)
 - 2014-07-15 — The previous question was ordered pursuant to the rule. (consideration: CR H6258)
+- 2014-07-16 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 468.
