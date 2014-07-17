@@ -17,4 +17,4 @@ This Act may be cited as the “21st Century Endangered Species Transparency Act
 
 Section 4(b) of the Endangered Species Act (16 U.S.C. 1533(b)) is amended by adding at the end the following:
 
-> - **(9)** The Secretary shall make publicly available on the Internet the best scientific and commercial data available that are the basis for each regulation, including each proposed regulation, promulgated under subsection (a)(1).
+> - **(9)** The Secretary shall make publicly available on the Internet the best scientific and commercial data available that are the basis for each regulation, including each proposed regulation, promulgated under subsection (a)(1), except that, at the request of a Governor or legislature of a State, the Secretary shall not make available under this paragraph information regarding which the State has determined public disclosure is prohibited by a law of that State relating to the protection of personal information.
