@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4508
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4508
@@ -25,3 +25,11 @@ To amend the East Bench Irrigation District Water Contract Extension Act to perm
 - 2014-04-29 — Introduced in House
 - 2014-04-29 — Introduced in House
 - 2014-04-29 — Referred to the House Committee on Natural Resources.
+- 2014-05-02 — Referred to the Subcommittee on Water and Power.
+- 2014-06-10 — Subcommittee Hearings Held.
+- 2014-06-19 — Committee Consideration and Mark-up Session Held.
+- 2014-06-19 — Ordered to be Reported by Unanimous Consent.
+- 2014-06-19 — Subcommittee on Water and Power Discharged.
+- 2014-07-17 — Placed on the Union Calendar, Calendar No. 400.
+- 2014-07-17 — Reported by the Committee on Natural Resources. H. Rept. 113-534.
+- 2014-07-17 — Reported by the Committee on Natural Resources. H. Rept. 113-534.
