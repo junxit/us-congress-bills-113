@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3202
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3202
@@ -30,3 +30,12 @@ Essential Transportation Worker Identification Credential Assessment Act
 - 2013-09-27 — Introduced in House
 - 2013-09-27 — Introduced in House
 - 2013-09-27 — Referred to the House Committee on Homeland Security.
+- 2013-10-07 — Referred to the Subcommittee on Border and Maritime Security.
+- 2013-10-07 — Referred to the Subcommittee on Transportation Security.
+- 2014-05-20 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2014-05-20 — Subcommittee Consideration and Mark-up Session Held.
+- 2014-06-11 — Committee Consideration and Mark-up Session Held.
+- 2014-06-11 — Ordered to be Reported (Amended) by Voice Vote.
+- 2014-07-17 — Placed on the Union Calendar, Calendar No. 394.
+- 2014-07-17 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-528.
+- 2014-07-17 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-528.

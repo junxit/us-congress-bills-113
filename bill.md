@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3202
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,19 +15,20 @@ This Act may be cited as the “Essential Transportation Worker Identification C
 
 ## § 2. Comprehensive security assessment of the transportation security card program
 
-- **(a)** *In general* Not later than one year after the date of enactment of this Act, the Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Comptroller General of the United States a comprehensive assessment of the effectiveness of the transportation security card program under section 70105 of title 46, United States Code, at enhancing security or reducing security risks for facilities and vessels regulated pursuant to section 102 of Public Law 107–295, as conducted by an independent not-for-profit laboratory with appropriate expertise.
+- **(a)** *In general* Not later than one year after the date of enactment of this Act, the Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Comptroller General of the United States a comprehensive assessment of the effectiveness of the transportation security card program under section 70105 of title 46, United States Code, at enhancing security and reducing security risks for facilities and vessels regulated pursuant to section 102 of Public Law 107–295. Such assessment shall be conducted by a national laboratory that, to the extent practicable, is within the Department of Homeland Security laboratory network with expertise in maritime security or by a maritime security university-based center within the Department of Homeland Security centers of excellence network.
 - **(b)** *Contents* The comprehensive assessment shall include—
-  - **(1)** an evaluation of the extent to which the program, as implemented, addresses known security risks in the maritime environment;
-  - **(2)** an evaluation of the extent to which internal control deficiencies identified by the Comptroller General have been addressed; and
-  - **(3)** a cost-benefit analysis of the program, as implemented, and a consideration of alternate biometric technologies that provide the same or greater security effectiveness, including—
-    - **(A)** technologies and programs, including the biometric entry and exit system required by section 7208 of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1365b);
-    - **(B)** technologies and programs operated by United States port facilities and vessels, particularly for purposes of access control to critical infrastructure;
-    - **(C)** international technologies and programs that are operational, particularly for purposes of access control to critical infrastructure; and
-    - **(D)** new and emerging technologies.
-- **(c)** *Corrective action plan; program reforms* Not later than 60 days after the Secretary submits the assessment under subsection (a), the Secretary shall issue a corrective action plan based on such assessment that responds to the findings of the cost-benefit analysis under subsection (b)(2) and enhances security or reduces security risk for facilities and vessels referred to in subsection (a). The plan may include programmatic reforms, revisions to regulations, or proposals for legislation.
+  - **(1)** an evaluation of the extent to which the program, as implemented, addresses known or likely security risks in the maritime environment;
+  - **(2)** an evaluation of the extent to which deficiencies identified by the Comptroller General have been addressed; and
+  - **(3)** a cost-benefit analysis of the program, as implemented.
+- **(c)** *Corrective action plan; program reforms* Not later than 60 days after the Secretary submits the assessment under subsection (a), the Secretary shall submit a corrective action plan to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate that responds to the assessment under subsection (b). The corrective action plan shall include an implementation plan with benchmarks, may include programmatic reforms, revisions to regulations, or proposals for legislation, and shall be considered in any rule making by the Department relating to the transportation security card program.
 - **(d)** *Comptroller General review* Not later than 120 days after the Secretary issues the corrective action plan under subsection (c), the Comptroller General shall—
-  - **(1)** review the extent to which the submissions implement recommendations issued by the Comptroller General; and
-  - **(2)** inform the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate as to the responsiveness of the submission.
-- **(e)** *Transportation security card reader rule* The Secretary of Homeland Security may not issue a final rule requiring the use of transportation security card readers until—
-  - **(1)** the Comptroller General informs the Committees on Homeland Security of the House of Representatives and Commerce, Science and Transportation of the Senate that the submission under subsection (a) is substantially responsive to the recommendations of the Comptroller General; and
-  - **(2)** the Secretary issues an updated list of transportation security card readers that are compatible with active transportation security cards.
+  - **(1)** review the extent to which such plan implements—
+    - **(A)** recommendations issued by the national laboratory or maritime security university-based center, as applicable, in the assessment submitted under subsection (a); and
+    - **(B)** recommendations issued by the Comptroller General before the enactment of this Act; and
+  - **(2)** inform the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate as to the responsiveness of such plan to such recommendations.
+- **(e)** *Transportation security card reader rule*
+  - **(1)** *In general* The Secretary of Homeland Security may not issue a final rule requiring the use of transportation security card readers until—
+    - **(A)** the Comptroller General informs the Committees on Homeland Security of the House of Representatives and Commerce, Science and Transportation of the Senate that the submission under subsection (a) is responsive to the recommendations of the Comptroller General; and
+    - **(B)** the Secretary issues an updated list of transportation security card readers that are compatible with active transportation security cards.
+  - **(2)** *Limitation on application* Paragraph (1) shall not apply with respect to any final rule issued pursuant to the notice of proposed rulemaking on Transportation Worker Identification Credential (TWIC)-Reader Requirements published by the Coast Guard on March 22, 2013 (78 Fed. Reg. 17781)
+- **(f)** *Comptroller General oversight* Not less than 18 months after the date of the issuance of the corrective action plan under subsection (c), and every six months thereafter during the 3-year period following the date of the issuance of the first report under this subsection, the Comptroller General shall report to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate regarding implementation of the corrective action plan.
