@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 5151
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5151
+
+> To amend the Higher Education Act of 1965 to require certain information be included in loan disclosure statements prior to disbursement, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Student Loan Transparency for Success Act”.
+
+## § 2. Information required in loan disclosure statements
+
+Section 455(p) of the Higher Education Act of 1965 (20 U.S.C. 1087e(p)) is amended by striking “shall prescribe,” and all that follows and inserting the following:
+
+> shall prescribe—
+> - **(1)** comply with each of the requirements under section 433 that apply to a lender with respect to a loan under part B; and
+> - **(2)** include in the disclosure for a loan required under subsection (a) of section 433—
+>   - **(A)** the total aggregate amount borrowed by the borrower under loans under this part;
+>   - **(B)** the estimated number of payments and total amount to be paid by the borrower to repay such loan based on a standard repayment plan; and
+>   - **(C)** based on the most recent data available from the American Community Survey available from the Department of Commerce, the estimated average income and percentage of employment in the State of domicile of the borrower for persons with—
+>     - **(i)** a high school diploma or equivalent;
+>     - **(ii)** some post-secondary education without completion of a degree or certificate;
+>     - **(iii)** a bachelor’s degree; and
+>     - **(iv)** a post-baccalaureate degree.
