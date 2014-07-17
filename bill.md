@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 5134
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5134
+
+> To extend the National Advisory Committee on Institutional Quality and Integrity and the Advisory Committee on Student Financial Assistance for one year.
+
+## § 1. Extension of National Advisory Committee on Institutional Quality and Integrity
+
+Section 114(f) of the Higher Education Act of 1965 (20 U.S.C. 1011c(f)) is amended by striking “2014” and inserting “2015”.
+
+## § 2. Extension of Advisory Committee on Student Financial Assistance
+
+Section 491(k) of the Higher Education Act of 1965 (20 U.S.C. 1098(k)) is amended by striking “2014” and inserting “2015”.
