@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4870
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4870
@@ -672,3 +672,7 @@ Department of Defense Appropriations Act, 2015
 - 2014-06-20 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5575)
 - 2014-06-20 — The previous question was ordered pursuant to the rule. (consideration: CR H5575)
 - 2014-06-25 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2014-07-17 — Committee on Appropriations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-07-17 — Committee on Appropriations. Reported by Senator Durbin with an amendment in the nature of a substitute. With written report No. 113-211.
+- 2014-07-17 — Committee on Appropriations. Reported by Senator Durbin with an amendment in the nature of a substitute. With written report No. 113-211.
+- 2014-07-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 472.
