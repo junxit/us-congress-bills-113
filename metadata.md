@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 488
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 488
@@ -39,3 +39,7 @@ A resolution designating July 26, 2014, as "National Day of the American Cowboy"
 - 2014-06-26 — Introduced in Senate
 - 2014-06-26 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4164)
 - 2014-06-26 — Sponsor introductory remarks on measure. (CR S4164-4165)
+- 2014-07-17 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2014-07-17 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2014-07-17 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4626)
+- 2014-07-17 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4626)
