@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 645
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 645
@@ -25,3 +25,8 @@ Requesting that the President of the United States transmit to the House of Repr
 - 2014-06-25 — Introduced in House
 - 2014-06-25 — Introduced in House
 - 2014-06-25 — Referred to the House Committee on Ways and Means.
+- 2014-07-10 — Committee Consideration and Mark-up Session Held.
+- 2014-07-10 — Ordered to be Reported by Voice Vote.
+- 2014-07-17 — Placed on the House Calendar, Calendar No. 121.
+- 2014-07-17 — Reported adversely by the Committee on Ways and Means. H. Rept. 113-524.
+- 2014-07-17 — Reported adversely by the Committee on Ways and Means. H. Rept. 113-524.
