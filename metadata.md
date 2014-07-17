@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 498
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 498
@@ -16,7 +16,7 @@ A resolution expressing the sense of the Senate regarding United States support 
 
 - Sen. Graham, Lindsey [R-SC] (G000359)
 
-## Cosponsors (72)
+## Cosponsors (78)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
@@ -90,6 +90,12 @@ A resolution expressing the sense of the Senate regarding United States support 
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Merkley, Jeff [D-OR] (M001176)
 
 ## Committees (1)
 
@@ -103,3 +109,5 @@ A resolution expressing the sense of the Senate regarding United States support 
 - 2014-07-16 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2014-07-16 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2014-07-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 469.
+- 2014-07-17 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4626)
+- 2014-07-17 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4626)
