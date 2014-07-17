@@ -44,13 +44,13 @@ This Act may be cited as the “Strengthening Transparency in Higher Education A
     >       - **(ii)** as graduate students, if applicable.
     >     - **(D)** The student-faculty ratio.
     >     - **(E)** The percentage of degree-seeking or certificate-seeking undergraduate students enrolled at the institution who obtain a degree or certificate within—
-    >       - **(i)** the normal time for completion of, or graduation from, the program in which the student is enrolled;
+    >       - **(i)** 100 percent of the normal time for completion of, or graduation from, the program in which the student is enrolled;
     >       - **(ii)** 150 percent of the normal time for completion of, or graduation from, the program in which the student is enrolled; and
     >       - **(iii)** 200 percent of the normal time for completion of, or graduation from, the program in which the student is enrolled.
     >     - **(F)** The average net price per year for undergraduate students and a link to the net price calculator for such institution.
     >     - **(G)** The average Federal student loan debt incurred by an undergraduate student who has obtained a certificate or degree from the institution and who borrowed Federal student loans in the course of obtaining such certificate or degree.
-    >     - **(H)** The cohort default rate (as defined in section 435(m)) for such institution.
-    >     - **(I)** A link to national and regional data from the Bureau of Labor Statistics on starting salaries in all major occupations.
+    >     - **(H)** A link to national and regional data from the Bureau of Labor Statistics on starting salaries in all major occupations.
+    >     - **(I)** A link to the webpage of the institution containing campus safety data with respect to such institution.
     >   - **(2)** *Additional information* The Secretary shall publish on Internet webpages that are linked to through the College Dashboard website for the most recent academic year for which satisfactory data is available the following information with respect to each institution of higher education that participates in a program under title IV:
     >     - **(A)** *Enrollment*
     >       - **(i)** The percentages of male and female undergraduate students enrolled at the institution.
@@ -61,13 +61,18 @@ This Act may be cited as the “Strengthening Transparency in Higher Education A
     >         - **(I)** the percentage of such students who are from the State in which the institution is located;
     >         - **(II)** the percentage of such students who are from other States; and
     >         - **(III)** the percentage of such students who are international students.
-    >       - **(iv)** The percentages of students enrolled at the institution, disaggregated by race and ethnic background.
-    >       - **(v)** The percentage of undergraduate students enrolled at the institution who are formally registered with the office of disability services of the institution (or the equivalent office) as students with disabilities, except that if such percentage is three percent or less, the institution shall report “three percent or less”.
-    >       - **(vi)** The percentage of students enrolled at the institution who are veterans (as defined in section 480).
+    >       - **(iv)** The percentages of students enrolled at the institution, disaggregated by—
+    >         - **(I)** race and ethnic background;
+    >         - **(II)** classification as a student with a disability;
+    >         - **(III)** recipients of a Federal Pell Grant;
+    >         - **(IV)** recipients of veterans’ education benefits (as defined in section 480); and
+    >         - **(V)** recipients of a Federal student loan.
     >     - **(B)** *Completion* The information required under paragraph (1)(E), disaggregated by—
     >       - **(i)** recipients of a Federal Pell Grant;
-    >       - **(ii)** recipients of a loan made under part D (other than a Federal Direct Unsubsidized Stafford Loan) who did not receive a Federal Pell Grant; and
-    >       - **(iii)** persons who did not receive a Federal Pell Grant or a loan made under part D (other than a Federal Direct Unsubsidized Stafford Loan).
+    >       - **(ii)** recipients of a loan made under part D (other than a Federal Direct Unsubsidized Stafford Loan) who did not receive a Federal Pell Grant;
+    >       - **(iii)** persons who did not receive a Federal Pell Grant or a loan made under part D (other than a Federal Direct Unsubsidized Stafford Loan);
+    >       - **(iv)** race and ethnic background; and
+    >       - **(v)** classification as a student with a disability.
     >     - **(C)** *Costs*
     >       - **(i)** The cost of attendance for full-time undergraduate students enrolled in the institution who live on campus.
     >       - **(ii)** The cost of attendance for full-time undergraduate students enrolled in the institution who live off campus.
@@ -83,11 +88,12 @@ This Act may be cited as the “Strengthening Transparency in Higher Education A
     >         - **(IV)** $75,001 to $110,000.
     >         - **(V)** Over $110,000.
     >     - **(D)** *Financial aid*
-    >       - **(i)** The average annual amount of a Federal Pell Grant awarded to an undergraduate student enrolled at such institution who receives a Federal Pell Grant.
-    >       - **(ii)** The average annual amount of Federal student loans provided through such institution to an undergraduate borrower enrolled at such institution.
-    >       - **(iii)** The average annual grant amount (including Federal, State, and institutional aid) awarded to an undergraduate student enrolled at the institution who receives financial aid.
-    >       - **(iv)** The percentage of undergraduate students enrolled at the institution receiving Federal, State, and institutional grants, student loans, and any other type of student financial assistance known by the institution, provided publicly or through the institution, such as Federal work-study funds.
-    >       - **(v)** The percentage of students enrolled at the institution receiving Federal Pell Grants.
+    >       - **(i)** The average annual grant amount (including Federal, State, and institutional aid) awarded to an undergraduate student enrolled at the institution who receives financial aid.
+    >       - **(ii)** The percentage of undergraduate students enrolled at the institution receiving Federal, State, and institutional grants, student loans, and any other type of student financial assistance known by the institution, provided publicly or through the institution, such as Federal work-study funds.
+    >       - **(iii)** The cohort default rate (as defined in section 435(m)) for such institution.
+    >     - **(E)** *Faculty information*
+    >       - **(i)** The ratio of the number of course sections taught by part-time instructors to the number of course sections taught by full-time faculty, disaggregated by course sections intended primarily for undergraduate students and course sections intended primarily for graduate students.
+    >       - **(ii)** The mean and median years of employment for part-time instructors.
     >   - **(3)** *Other data matters*
     >     - **(A)** *Completion data* The Commissioner of Education Statistics shall ensure that the information required under paragraph (1)(E) includes information with respect to all students at an institution, including students other than first-time, full-time students, in a manner that the Commissioner considers appropriate.
     >     - **(B)** *Adjustment of income categories* The Secretary may annually adjust the range of each of the income categories described in paragraph (2)(C)(vi) to account for a change in the Consumer Price Index for All Urban Consumers as determined by the Bureau of Labor Statistics if the Secretary determines an adjustment is necessary.
@@ -95,15 +101,51 @@ This Act may be cited as the “Strengthening Transparency in Higher Education A
     >   - **(5)** *Updates*
     >     - **(A)** *Data* The Secretary shall update the College Dashboard website not less than annually.
     >     - **(B)** *Technology and format* The Secretary shall regularly assess the format and technology of the College Dashboard website and make any changes or updates that the Secretary considers appropriate.
-    >   - **(6)** *Consumer testing* In developing and maintaining the College Dashboard website, the Secretary shall conduct consumer testing with appropriate persons, including current and prospective college students, family members of such students, institutions of higher education, and experts, to ensure that the College Dashboard website is usable and easily understandable.
+    >   - **(6)** *Consumer testing*
+    >     - **(A)** *In general* In developing and maintaining the College Dashboard website, the Secretary, in consultation with appropriate departments and agencies of the Federal Government, shall conduct consumer testing with appropriate persons, including current and prospective college students, family members of such students, institutions of higher education, and experts, to ensure that the College Dashboard website is usable and easily understandable and provides useful and relevant information to students and families.
+    >     - **(B)** *Recommendations for changes* The Secretary shall submit to the authorizing committees any recommendations that the Secretary considers appropriate for changing the information required to be provided on the College Dashboard website under paragraphs (1) and (2) based on the results of the consumer testing conducted under subparagraph (A).
     >   - **(7)** *Provision of appropriate links to prospective students after submission of FAFSA* The Secretary shall provide to each student that submits a Free Application for Federal Student Aid described in section 483 a link to the webpage of the College Dashboard website that contains the information required under paragraph (1) for each institution of higher education such student includes on such Application.
     >   - **(8)** *Interagency coordination* The Secretary, in consultation with each appropriate head of a department or agency of the Federal Government, shall ensure to the greatest extent practicable that any information related to higher education that is published by such department or agency is consistent with the information published on the College Dashboard website.
     >   - **(9)** *References to College Navigator website* Any reference in this Act to the College Navigator website shall be considered a reference to the College Dashboard website.
 
 - **(b)** *Conforming amendments* The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by subsection (a) of this section, is further amended—
-  - **(1)** in section 131(h) (20 U.S.C. 1015(h)), by striking “College Navigator” and inserting “College Dashboard”; and
+  - **(1)** in section 131(h)(1) (20 U.S.C. 1015(h)(1)), by striking “College Navigator” and inserting “College Dashboard”; and
   - **(2)** in section 132(a) (20 U.S.C. 1015a(a)), by striking paragraph (1) and inserting the following new paragraph:
     > - **(1)** *College Dashboard website* The term “College Dashboard website” means the College Dashboard website required under subsection (d).
 
 - **(c)** *Development* The Secretary of Education shall develop and publish the College Dashboard website required under section 132 of the Higher Education Act of 1965 (20 U.S.C. 1015a), as amended by subsections (a) and (b) of this section, not later than one year after the date of the enactment of this Act.
 - **(d)** *College Navigator website maintenance* The Secretary shall maintain the College Navigator website required under section 132 of the Higher Education Act of 1965 (20 U.S.C. 1015a), as in effect the day before the date of the enactment of this Act, in the manner required under the Higher Education Act of 1965, as in effect on such day, until the College Dashboard website referred to in subsection (c) is complete and publicly available on the Internet.
+
+## § 3. Net price calculators
+
+Subsection (c) of section 132 of the Higher Education Act of 1965 (20 U.S.C. 1015a), as redesignated by section 2(a)(4) of this Act, is amended—
+
+- **(1)** by redesignating paragraph (4) as paragraph (6); and
+- **(2)** by inserting after paragraph (3) the following new paragraphs:
+  > - **(4)** *Minimum requirements for net price calculators* Not later than 1 year after the date of the enactment of the Strengthening Transparency in Higher Education Act, a net price calculator for an institution of higher education shall meet the following requirements:
+  >   - **(A)** The link for the calculator shall—
+  >     - **(i)** be clearly labeled as a net price calculator and prominently, clearly, and conspicuously posted in locations on the website of such institution where information on costs and aid is provided and any other location that the institution considers appropriate; and
+  >     - **(ii)** match in size and font to the other prominent links on the webpage where the link for the calculator is displayed.
+  >   - **(B)** The webpage displaying the results for the calculator shall specify at least the following information:
+  >     - **(i)** The net price (as calculated under subsection (a)(2)) for such institution, which shall be the most visually prominent figure on the results screen.
+  >     - **(ii)** Cost of attendance, including—
+  >       - **(I)** tuition and fees;
+  >       - **(II)** average annual cost of room and board for the institution for a full-time undergraduate student enrolled in the institution;
+  >       - **(III)** average annual cost of books and supplies for a full-time undergraduate student enrolled in the institution; and
+  >       - **(IV)** estimated cost of other expenses (including personal expenses and transportation) for a full-time undergraduate student enrolled in the institution.
+  >     - **(iii)** Estimated total need-based grant aid and merit-based grant aid from Federal, State, and institutional sources that may be available to a full-time undergraduate student.
+  >     - **(iv)** Percentage of the full-time undergraduate students enrolled in the institution that received any type of grant aid described in clause (iii).
+  >     - **(v)** The disclaimer described in paragraph (6).
+  >     - **(vi)** In the case of a calculator that—
+  >       - **(I)** includes questions to estimate the eligibility of a student or prospective student for veterans’ education benefits (as defined in section 480) or educational benefits for active duty service members, such benefits are displayed on the results screen in a manner that clearly distinguishes such benefits from the grant aid described in clause (iii); or
+  >       - **(II)** does not include questions to estimate eligibility for the benefits described in subclause (I), the results screen indicates that certain students (or prospective students) may qualify for such benefits and includes a link to information about such benefits.
+  >   - **(C)** The institution shall populate the calculator with data from not later than 2 academic years prior to the most recent academic year.
+  > - **(5)** *Prohibition on use of data collected by the net price calculator* A net price calculator for an institution of higher education shall—
+  >   - **(A)** clearly indicate which questions are required to be completed for an estimate of the net price from the calculator;
+  >   - **(B)** in the case of a calculator that requests contact information from users, clearly mark such requests as optional and provide for an estimate of the net price from the calculator without requiring users to enter such information; and
+  >   - **(C)** prohibit any personally identifiable information provided by users from being sold or made available to third parties.
+
+## § 4. Funding
+
+- **(a)** *Use of existing funds* Of the amount authorized to be appropriated to the Department of Education to maintain the College Navigator website, $1,000,000 shall be available to carry out this Act and the amendments made by this Act.
+- **(b)** *No additional funds authorized* No funds are authorized by this Act to be appropriated to carry out this Act or the amendments made by this Act.

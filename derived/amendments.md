@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4983
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 1 executed, 9 stated and not applied.
+12 amendatory instructions. 1 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 20 U.S.C. § 1015
 
-> in section 131(h) (20 U.S.C. 1015(h)), by striking “College Navigator” and inserting “College Dashboard”; and
+> in section 131(h)(1) (20 U.S.C. 1015(h)(1)), by striking “College Navigator” and inserting “College Dashboard”; and
 
 | | |
 |---|---|
@@ -51,3 +51,5 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1015a` | redesignate | by redesignating subsections (h), (i), and (k) as subsections (c), (d), and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1015a` | redesignate | by striking subsection (d) (as so redesignated) and inserting the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1015a` | replace | in section 132(a) (20 U.S.C. 1015a(a)), by striking paragraph (1) and inserting the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1015a` | redesignate | by redesignating paragraph (4) as paragraph (6); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1015a` | insert | by inserting after paragraph (3) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
