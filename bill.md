@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3136
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,75 +11,105 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Advancing Competency-Based Education Demonstration Project Act of 2013”.
+This Act may be cited as the “Advancing Competency-Based Education Demonstration Project Act of 2014”.
 
-## § 2. Distance education demonstration programs
+## § 2. Competency-based education demonstration projects
 
-Part G of title IV of the Higher Education Act of 1965 (20 U.S.C. 1088 et seq.) is amended by inserting after section 486A the following:
+- **(a)** *Projects* Part G of title IV of the Higher Education Act of 1965 (20 U.S.C. 1088 et seq.) is amended by inserting after section 486A the following:
+  > ## § 486B. Competency-based education demonstration projects
+  >
+  > - **(a)** *Demonstration projects authorized* The Secretary shall select, in accordance with subsection (c), eligible entities to voluntarily carry out competency-based education demonstration projects and receive waivers described in subsection (d) to carry out such projects.
+  > - **(b)** *Application*
+  >   - **(1)** *In general* Each eligible entity desiring to carry out a demonstration project under this section shall submit an application to the Secretary, at such time and in such manner as the Secretary may require.
+  >   - **(2)** *Amendments* An eligible entity may submit to the Secretary amendments to the eligible entity’s application under paragraph (1), at such time and in such manner as the Secretary may require, which the Secretary shall approve or deny within 15 days of receipt.
+  >   - **(3)** *Contents* Each application shall include—
+  >     - **(A)** a description of the competency-based education to be offered by the eligible entity under the demonstration project;
+  >     - **(B)** a description of the proposed academic delivery, business, and financial models for the demonstration project, including explanations of how competency-based education offered under the demonstration project would—
+  >       - **(i)** result in the achievement of competencies;
+  >       - **(ii)** differ from standard credit hour approaches, in whole or in part; and
+  >       - **(iii)** result in lower costs or shortened time to degree, certificate, or credential completion;
+  >     - **(C)** a description of how the competency-based education offered under the demonstration project will progress a student toward completion of a degree, certificate, or credential;
+  >     - **(D)** a description of how the eligible entity will articulate the transcript from the competency-based education demonstration project to another program within an institution of higher education that is part of the eligible entity or to another institution of higher education;
+  >     - **(E)** a description of the statutory and regulatory requirements described in subsection (d) for which the eligible entity is seeking a waiver, and why such waiver is necessary to carry out the demonstration project;
+  >     - **(F)** a description of how the eligible entity will develop and evaluate the competencies and assessments of student knowledge (which may include prior-learning assessments) administered as part of the demonstration project, including how such competencies and assessments are aligned with workforce needs;
+  >     - **(G)** a description of the proposal for determining a student’s Federal student aid eligibility under this title for participating in the demonstration project, the award and distribution of such aid, and safeguards to ensure that students are making satisfactory progress that warrants disbursement of such aid;
+  >     - **(H)** a description of the students to whom competency-based education will be offered, including an assurance that the demonstration project will enroll a minimum of 50 and a maximum of 3,000 students;
+  >     - **(I)** an assurance that students participating in the demonstration project will not be eligible for more Federal assistance under this title than such students would have been eligible for under a traditional program; and
+  >     - **(J)** an assurance the eligible entity will identify and disseminate best practices with respect to the demonstration project to other eligible entities carrying out a demonstration project under this section.
+  > - **(c)** *Selection*
+  >   - **(1)** *In general* Not later than 6 months after the date of enactment of this section, the Secretary shall select not more than 20 eligible entities to carry out a competency-based education demonstration project under this section.
+  >   - **(2)** *Considerations* In selecting eligible entities under paragraph (1), the Secretary shall—
+  >     - **(A)** prioritize projects which show promise in reducing the time or cost required to complete a degree, certificate, or credential;
+  >     - **(B)** consider the number and quality of applications received;
+  >     - **(C)** consider an eligible entity’s—
+  >       - **(i)** ability to successfully execute the demonstration project as described in the eligible entity’s application under subsection (b);
+  >       - **(ii)** commitment and ability to effectively finance the demonstration project;
+  >       - **(iii)** ability to provide administrative capability and the expertise to evaluate student progress based on measures other than credit hours or clock hours; and
+  >       - **(iv)** commitment to work with the Secretary to evaluate the demonstration project and the impact of the demonstration project;
+  >     - **(D)** ensure the selection of a diverse group of eligible entities with respect to size, mission, and geographic distribution of the eligible entities;
+  >     - **(E)** not limit the types of programs of study or courses of study approved for participation in a demonstration project; and
+  >     - **(F)** not select an eligible entity that has had, for 1 of the preceding 2 fiscal years—
+  >       - **(i)** a cohort default rate (defined in section 435(m)) that is 30 percent or greater; and
+  >       - **(ii)** a borrowing rate of loans under this title of more than 50 percent of the students enrolled at institutions of higher education of the eligible entity.
+  > - **(d)** *Waivers* The Secretary may waive for any eligible entity selected to carry out a demonstration project under this section any requirements of the following provisions of law (including any regulations promulgated under such provisions) or regulations and for which the eligible entity has provided a reason for waiving under subsection (b)(3)(E):
+  >   - **(1)** Subparagraphs (A) and (B) of section 102(a)(3).
+  >   - **(2)** Subsections (a) and (b) of section 481, as such subsections relate to requirements for a minimum number of weeks of instruction.
+  >   - **(3)** Section 484(l)(1).
+  >   - **(4)** Section 668.32(a)(1)(iii) of title 34, Code of Federal Regulations.
+  >   - **(5)** Any of the requirements under provisions in title I, part F of this title, or this part, that inhibit the operation of competency-based education, including requirements with respect to—
+  >     - **(A)** documenting attendance;
+  >     - **(B)** weekly academic activity;
+  >     - **(C)** minimum weeks of instructional time;
+  >     - **(D)** requirements for credit hour or clock hour equivalencies;
+  >     - **(E)** requirements for substantive interaction with faculty; and
+  >     - **(F)** definitions of the terms “academic year”, “full-time student”, “term” (including “standard term”, “non-term”, and “non-standard term”), “satisfactory academic progress”, “educational activity”, “project of study”, and “payment period”.
+  > - **(e)** *Notification* Not later than 6 months after the date of enactment of this section, the Secretary shall make available to the authorizing committees and the public a list of eligible entities selected to carry out a demonstration project under this section, which shall include for each such eligible entity—
+  >   - **(1)** the specific statutory and regulatory requirements being waived under subsection (d); and
+  >   - **(2)** a description of the competency-based education programs of study or courses of study to be offered under the project.
+  > - **(f)** *Information and evaluation*
+  >   - **(1)** *Information*
+  >     - **(A)** *In general* Each eligible entity that carries out a demonstration project under this section shall provide to the Director of the Institution of Education Sciences with respect to the students participating in the competency-based education project carried out by the eligible entity the following information:
+  >       - **(i)** The average number of credit hours the students earned prior to enrollment in the demonstration project, if applicable.
+  >       - **(ii)** The number and percentage of students participating in the demonstration project that are also enrolled in programs of study or courses of study offered in credit hours or clock hours, disaggregated by student status as a first-year, second-year, third-year, fourth-year, or other student.
+  >       - **(iii)** The average period of time between the enrollment of a student in the demonstration project and the first assessment of student knowledge of such student.
+  >       - **(iv)** The average time to 25 percent, 50 percent, 75 percent, and 100 percent of the completion of a degree, certificate, or credential by a student who participated in the demonstration project.
+  >       - **(v)** The percentage of assessments of student knowledge that students passed on the first attempt, during the period of the participation in the demonstration project by the students.
+  >       - **(vi)** The percentage of assessments of student knowledge that students passed on the second attempt and the average period of time between the first and second attempts by students, during the period of the participation in the demonstration project by the students.
+  >       - **(vii)** The average number of competencies a student acquired while participating in the demonstration project and the period of time during which the student acquired such competencies.
+  >       - **(viii)** Such other information as the Director may reasonably require.
+  >     - **(B)** *Disaggregation* Each eligible entity shall provide the information required under subparagraph (A) disaggregated by age, race, gender, disability status, and status as a recipient of a Federal Pell Grant, provided that the disaggregation of the information does not identify any individual student participating in the demonstration project.
+  >   - **(2)** *Evaluation* The Director of the Institute of Education Sciences, in consultation with the Secretary, shall annually evaluate each demonstration project under this section. Each evaluation shall include—
+  >     - **(A)** the extent to which the eligible entity has met the goals set forth in its application to the Secretary;
+  >     - **(B)** the number and types of students participating in the competency-based education offered under the project, including the progress of participating students toward completion of a degree, certificate, or credential, and the extent to which participation and retention in such project increased;
+  >     - **(C)** whether the project led to reduced cost or time to completion of a degree, certificate, or credential, and the amount of cost or time reduced for such completion;
+  >     - **(D)** obstacles related to student financial assistance for competency-based education;
+  >     - **(E)** the extent to which statutory or regulatory requirements not waived under subsection (d) present difficulties for students or institutions of higher education;
+  >     - **(F)** degree, certificate, or credential completion rates;
+  >     - **(G)** retention rates;
+  >     - **(H)** total cost and net cost to the student of the competency-based education offered under the project;
+  >     - **(I)** a description of the assessments of student knowledge and the corresponding competencies; and
+  >     - **(J)** outcomes of the assessments of student knowledge.
+  >   - **(3)** *Annual report* The Director of the Institute of Education Sciences shall annually provide to the authorizing committees a report on—
+  >     - **(A)** the evaluations of the demonstration projects required under paragraph (2);
+  >     - **(B)** the number and types of students receiving assistance under this title for competency-based education under such projects;
+  >     - **(C)** the retention and completion rates of students participating in such projects;
+  >     - **(D)** any proposed statutory or regulatory changes designed to support and enhance the expansion of competency-based education, which may be independent of or combined with traditional credit hour or clock hour projects;
+  >     - **(E)** the most effective means of delivering competency-based education through demonstration projects; and
+  >     - **(F)** the appropriate level and distribution methodology of Federal assistance under this title for students enrolled in competency-based education.
+  > - **(g)** *Oversight* In carrying out this section, the Secretary shall, on a continuing basis—
+  >   - **(1)** assure compliance of eligible entities with the requirements of this title (other than the provisions of law and regulations that are waived under subsection (d));
+  >   - **(2)** provide technical assistance;
+  >   - **(3)** monitor fluctuations in the student population enrolled in the eligible entities carrying out the demonstration projects under this section; and
+  >   - **(4)** consult with appropriate accrediting agencies or associations and appropriate State regulatory authorities for additional ways of improving the delivery of competency-based education.
+  > - **(h)** *Definitions* For the purpose of this section:
+  >   - **(1)** *Competency-based education* The term “competency-based education” means an educational process or program that measures knowledge, skills, and experience through assessments of such knowledge, skills, or experience in place of or in addition to the use of credit hours or clock hours.
+  >   - **(2)** *Eligible entity* The term “eligible entity” means—
+  >     - **(A)** an institution of higher education;
+  >     - **(B)** a system of institutions of higher education; or
+  >     - **(C)** a consortium of institutions of higher education.
+  >   - **(3)** *Institution of higher education* The term “institution of higher education” has the meaning given the term in section 102, except that such term does not include institutions described in section 102(a)(1)(C).
 
-> ## § 486B. Competency-based education demonstration programs
->
-> - **(a)** *Purpose* It is the purpose of this section—
->   - **(1)** to allow demonstration programs that are monitored by the Secretary to explore ways of delivering education and disbursing student financial aid that are based on learning rather than time;
->   - **(2)** to potentially lower cost and reduce the time to degree in the attainment of higher education degrees through competency-based programs; and
->   - **(3)** to help determine—
->     - **(A)** the specific statutory and regulatory requirements which should be altered to provide greater access to competency-based education, which may be independent of or combined with traditional credit hour or clock hour programs;
->     - **(B)** the most effective means of delivering competency-based education via degree programs; and
->     - **(C)** the appropriate level and distribution methodology of Federal assistance for students enrolled in competency-based education.
->   - **(4)** *Definition* For the purpose of this section, the term “competency-based education” means an educational process that—
->     - **(A)** is characterized by the measurement of learning as opposed to the measurement of instructional and learning time;
->     - **(B)** uses direct assessment of student learning, or recognizes the direct assessment by others of student learning, in place of or in addition to using credit hours or clock hours; and
->     - **(C)** includes direct measures of learning, including projects, papers, examinations, presentations, performances, and portfolios.
-> - **(b)** *Demonstration programs authorized*
->   - **(1)** *In general* In accordance with the provisions of subsection (d), the Secretary is directed to select institutions of higher education, systems of such institutions, or consortia of such institutions for voluntary participation in a Competency-Based Education Demonstration Program that provides participating institutions with the ability to offer competency-based education that do not meet all or a portion of the requirements of the sections or regulations described in paragraph (2).
->   - **(2)** *Waivers* The Secretary is authorized to waive for any institution of higher education, system, or consortium participating in a Competency-Based Education Demonstration Program, the requirements of sections 481(a) and 481(b) as such sections relate to requirements for a minimum number of weeks of instruction, sections 102(a)(3)(A), 102(a)(3)(B), and 484(l)(1), section 668.32(a)(1)(iii) of title 34, Code of Federal Regulations, as it relates to courses leading to teacher certification, or one or more of the regulations prescribed under this part or part F which inhibit the operation of competency-based education. In addition to the waivers described above, for institutions that propose a rational and defensible plan for competency-based education and for the waivers being sought, the Secretary may waive any of the requirements under sections (and corresponding regulations) in title I, part F of this title, and this part, that inhibit the operation of competency-based education, including requirements that relate to—
->     - **(A)** documenting attendance;
->     - **(B)** weekly academic activity;
->     - **(C)** minimum weeks of instructional time;
->     - **(D)** requirements for credit hour/clock hour equivalencies;
->     - **(E)** requirements for substantive interaction with faculty; and
->     - **(F)** definitions of the terms “academic year”, “full-time student”, “term” (including “standard term”, “non-term”, and “non-standard term”), “satisfactory academic progress” (SAP), “educational activity”, “program of study”, and “payment period”.
->   - **(3)** *Eligible applicants*
->     - **(A)** *Eligible institutions* Except as provided in subparagraph (B), to be eligible to participate in the demonstration program authorized under this section an institution shall be—
->       - **(i)** an institution of higher education that is eligible to participate in programs under this title; or
->       - **(ii)** an institution that has been approved to offer direct assessment programs under section 481(b)(4).
->     - **(B)** *Prohibition* An institution of higher education described in section 102(a)(1)(C) shall not be eligible to participate in the demonstration program authorized under this section.
-> - **(c)** *Application*
->   - **(1)** *In general* Each institution, system of institutions, or consortium of institutions desiring to participate in a demonstration program under this section shall submit an application to the Secretary.
->   - **(2)** *Contents* Each application shall include—
->     - **(A)** a description of the competency-based education to be offered;
->     - **(B)** a brief description of the proposed academic delivery, business, and financial models, including brief explanations of how this approach would result in the achievement of competencies and how it would differ from standard credit hour approaches;
->     - **(C)** a description of the statutory and regulatory requirements described in subsection (b)(2) for which a waiver is sought and the reasons for which each such waiver is sought;
->     - **(D)** a description of the proposal for determining a student’s Federal student aid eligibility, the award and distribution of aid, and safeguards to ensure that students are making satisfactory progress that warrants disbursement of such aid;
->     - **(E)** a description of the students to whom competency-based education will be offered, including an assurance that the institution, system, or consortium will include a minimum of 100 and a maximum of 3,000 eligible students as part of the program;
->     - **(F)** a description of the goals the institution, system, or consortium hopes to achieve through the use of competency-based education;
->     - **(G)** a description of how the institution, system, or consortium plans to maintain program integrity;
->     - **(H)** an assurance that the institution, system, or consortium will offer full cooperation with the ongoing evaluations of the demonstration program provided for in this section and will not require the expenditure of additional Federal funding to implement the project; and
->     - **(I)** such other information as the Secretary may require.
-> - **(d)** *Selection*
->   - **(1)** *In general* Not later than 6 months after the date of enactment of this section, the Secretary shall select for participation in the Competency-Based Education Demonstration Program not more than 20 institutions, systems of institutions, or consortia of institutions.
->   - **(2)** *Considerations* In selecting institutions, systems, or consortia to participate in the demonstration program, the Secretary shall—
->     - **(A)** consider the number and quality of applications received;
->     - **(B)** consider an institution’s, system’s, or consortium’s—
->       - **(i)** demonstrated ability to successfully execute the program as described;
->       - **(ii)** commitment and ability to effectively finance a demonstration site as proposed; and
->       - **(iii)** demonstrated administrative capability and the expertise to evaluate learning based on measures other than credit hours or clock hours; and
->     - **(C)** ensure the participation of a diverse group of institutions (including institutions within systems and consortia of institutions) with respect to size, mission, and geographic distribution of the institutions.
-> - **(e)** *Notification* Not later than 6 months after the date of enactment of this section, the Secretary shall make available to the authorizing committees and the public a list of institutions, systems, and consortia selected to participate in the demonstration program authorized by this section. Such list shall include, for each such institution, system, or consortium, the specific statutory and regulatory requirements being waived and a description of the competency-based education courses to be offered.
-> - **(f)** *Evaluations and reports*
->   - **(1)** *Evaluation* The Secretary shall annually evaluate each of the demonstration programs authorized under this section. Such evaluations shall review—
->     - **(A)** the extent to which the institution, system, or consortium has met the goals set forth in its application to the Secretary, including the measures of program quality assurance;
->     - **(B)** the number and types of students participating in the programs offered, including the progress of participating students toward recognized degrees and the extent to which participation and retention in such programs increased;
->     - **(C)** obstacles related to student financial assistance for competency-based education; and
->     - **(D)** the extent to which statutory or regulatory requirements not waived under the demonstration program present difficulties for students or institutions.
->   - **(2)** *Annual report* The Secretary shall annually provide to the authorizing committees a report on—
->     - **(A)** the evaluations of the demonstration programs required under paragraph (1);
->     - **(B)** the number and types of students receiving assistance under this title for competency-based education programs;
->     - **(C)** the retention and completion rates of students participating in such programs; and
->     - **(D)** any proposed statutory changes designed to support and enhance the expansion of competency-based education.
-> - **(g)** *Oversight* In conducting the demonstration program authorized under this section, the Secretary shall, on a continuing basis—
->   - **(1)** assure compliance of institutions, systems, and consortia with the requirements of this title (other than the sections and regulations that are waived under subsection (b)(2));
->   - **(2)** provide technical assistance;
->   - **(3)** monitor fluctuations in the student population enrolled in the participating institutions, systems, and consortia; and
->   - **(4)** consult with appropriate accrediting agencies or associations and appropriate State regulatory authorities.
-> - **(h)** *Additional funds not authorized* No additional funds are authorized to be appropriated for any fiscal year to carry out this section.
+- **(b)** *Rule of construction* Nothing in this Act or the amendments made by this Act shall be construed to alter the authority of the Secretary of Education to establish experimental sites under any other provision of law.
+- **(c)** *Funding*
+  - **(1)** *Use of existing funds* Of the amount authorized to be appropriated for salaries and expenses of the Department of Education, $1,000,000 shall be available to carry out this Act and the amendments made by this Act.
+  - **(2)** *No additional funds authorized* No funds are authorized to be appropriated by this Act to carry out this Act or the amendments made by this Act.
