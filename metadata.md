@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4317
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4317
@@ -16,7 +16,7 @@ State, Tribal, and Local Species Transparency and Recovery Act
 
 - Rep. Neugebauer, Randy [R-TX-19] (N000182)
 
-## Cosponsors (12)
+## Cosponsors (29)
 
 - Rep. Hastings, Doc [R-WA-4] (H000329)
 - Rep. Lummis, Cynthia M. [R-WY-At Large] (L000571)
@@ -30,6 +30,23 @@ State, Tribal, and Local Species Transparency and Recovery Act
 - Rep. Southerland, Steve II [R-FL-2] (S001186)
 - Rep. Thompson, Glenn [R-PA-5] (T000467)
 - Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Thornberry, Mac [R-TX-13] (T000238)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Cotton, Tom [R-AR-4] (C001095)
+- Rep. Cramer, Kevin [R-ND-At Large] (C001096)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Pompeo, Mike [R-KS-4] (P000602)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Huelskamp, Tim [R-KS-1] (H001057)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Smith, Jason [R-MO-8] (S001195)
+- Rep. Franks, Trent [R-AZ-8] (F000448)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
 
 ## Committees (1)
 
@@ -40,3 +57,9 @@ State, Tribal, and Local Species Transparency and Recovery Act
 - 2014-03-27 — Introduced in House
 - 2014-03-27 — Introduced in House
 - 2014-03-27 — Referred to the House Committee on Natural Resources.
+- 2014-04-08 — Committee Hearings Held.
+- 2014-04-30 — Committee Consideration and Mark-up Session Held.
+- 2014-04-30 — Ordered to be Reported by the Yeas and Nays: 26 - 16.
+- 2014-07-17 — Placed on the Union Calendar, Calendar No. 405.
+- 2014-07-17 — Reported by the Committee on Natural Resources. H. Rept. 113-539.
+- 2014-07-17 — Reported by the Committee on Natural Resources. H. Rept. 113-539.
