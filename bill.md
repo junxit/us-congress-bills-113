@@ -15,122 +15,122 @@ This Act may be cited as the “Empowering Students Through Enhanced Financial C
 
 ## § 2. Annual counseling
 
-Section 485(l) of the Higher Education Act of 1965 (20 U.S.C. 1092(l)) is amended—
+Section 485(l) of the Higher Education Act of 1965 (20 U.S.C. 1092(l)) is amended to read as follows:
 
-- **(1)** in the subsection heading, by striking “Entrance” and inserting “Annual”;
-- **(2)** in paragraph (1)—
-  - **(A)** in the paragraph heading, by striking “disbursement” and inserting “acceptance”;
-  - **(B)** in subparagraph (A)—
-    - **(i)** in the matter preceding clause (i)—
-      - **(I)** by striking “at or prior to” and inserting “prior to or in conjunction with”; and
-      - **(II)** by striking “a disbursement to a first-time borrower of a loan made, insured, or guaranteed under part B (other than a loan made pursuant to section 428C or a loan made on behalf of a student pursuant to section 428B) or” and inserting “acceptance (in a manner described in subparagraph (A), (B), or (C) of paragraph (4)) by a borrower of a loan”; and
-    - **(ii)** in clause (ii)—
-      - **(I)** in the matter preceding subclause (I)—
-        - **(aa)** by striking “may” and inserting “shall”; and
-        - **(bb)** by inserting “, for each award year for which the borrower receives a loan made under part D” after “provided”;
-      - **(II)** in subclause (I), by striking “an entrance counseling session conduction in person” and inserting “a counseling session conducted in person”;
-      - **(III)** by striking subclause (II);
-      - **(IV)** by redesignating subclause (III) as subclause (II);
-      - **(V)** in subclause (II), as so redesignated, by striking the period at the end and inserting “; or”; and
-      - **(VI)** by adding at the end the following:
-        > - **(III)** through the use of the online counseling tool described in subsection (o)(1)(B).
-
-  - **(C)** in subparagraph (B)—
-    - **(i)** by striking “The Secretary” and inserting “In the case of institutions not using the online counseling tool described in subsection (o)(1)(B), the Secretary”;
-    - **(ii)** by striking “encourage institutions” and inserting “require such institutions”;
-    - **(iii)** by inserting “, during an annual counseling session that is in-person or online,” after “the use”; and
-    - **(iv)** by striking “B or”;
-- **(3)** in paragraph (2)—
-  - **(A)** by redesignating subparagraphs (C) through (G) and subparagraphs (H) through (K), as subparagraphs (H) through (L), respectively, and subparagraphs (N) through (Q), respectively; and
-  - **(B)** by inserting after subparagraph (B), the following:
-    > - **(C)** An explanation that the borrower is not required to accept the full amount of the loan offered to the borrower.
-    > - **(D)** An explanation that the borrower should consider accepting any grant, scholarship, or State or Federal work-study jobs for which the borrower is eligible prior to accepting Federal student loans.
-    > - **(E)** A recommendation to the borrower to exhaust the borrower’s Federal student loan options prior to taking out private loans and a warning that private loans may not offer the same benefits and repayment options as Federal student loans.
-    > - **(F)** An explanation of the approved educational expenses for which the borrower may use a loan made under part D.
-    > - **(G)** Information on the annual and aggregate loan limits for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans.
-
-  - **(C)** in subparagraph (I), as so redesignated—
-    - **(i)** by striking “a loan made under section 428B or 428H,”; and
-    - **(ii)** by striking “, or a” and inserting “or a”;
-  - **(D)** in subparagraph (L), as so redesignated—
-    - **(i)** in the matter preceding clause (i), by striking “Sample” and inserting “For a first-time borrower, sample”;
-    - **(ii)** in clause (i)(I), by striking “loans under section 428 or 428H” and inserting “Federal Direct Stafford Loans or Federal Direct Unsubsidized Stafford Loans”; and
-    - **(iii)** in clause (i)(II), by striking “loans under section 428, 428B, or 428H” and inserting “Federal Direct PLUS Loans or Federal Direct Unsubsidized Stafford Loans”;
-  - **(E)** by inserting after subparagraph (L), as so redesignated and amended, the following:
-    > - **(M)** For a borrower with an outstanding balance of principal or interest due on a loan made under this title—
-    >   - **(i)** a statement of the amount of such outstanding balance;
-    >   - **(ii)** based on such outstanding balance, the anticipated monthly payment amount under each repayment plan that may be available to the borrower; and
-    >   - **(iii)** based on such outstanding balance plus the anticipated outstanding balance on the loan for which the student is receiving counseling under this subsection and on any other Federal student loans that the borrower may accept during the borrower’s course of study for which the borrower enrolled at the institution, an estimate of the projected monthly payment amount under each such repayment plan.
-
-  - **(F)** in subparagraph (Q), as so redesignated—
-    - **(i)** by striking “name of and”; and
-    - **(ii)** by striking “individual” and inserting “institution’s financial aid office or other appropriate office at the institution”; and
-- **(4)** by adding at the end the following:
-  > - **(3)** *Annual loan acceptance* Prior to making the first disbursement of a loan made under part D (other than a Federal Direct Consolidation Loan or a Federal Direct PLUS loan made on behalf of a student) to a borrower for an award year, an eligible institution, shall, as part of carrying out the counseling requirements of this subsection for the loan, ensure that the borrower accepts the loan for such award year by—
-  >   - **(A)** signing the master promissory note for the loan;
-  >   - **(B)** signing and returning to the institution a separate written statement that affirmatively states that the borrower accepts the loan; or
-  >   - **(C)** electronically signing an electronic version of the statement described in subparagraph (B).
+> - **(l)** *Annual financial aid counseling*
+>   - **(1)** *Annual disclosure required*
+>     - **(A)** *In general* Each eligible institution shall ensure that each individual who receives a Federal Pell Grant or a loan made under part D (other than a Federal Direct Consolidation Loan) receives comprehensive information on the terms and conditions of such Federal Pell Grant or loan and the responsibilities the individual has with respect to such Federal Pell Grant or loan. Such information shall be provided, for each award year for which the individual receives such Federal Pell Grant or loan, in a simple and understandable manner—
+>       - **(i)** during a counseling session conducted in person;
+>       - **(ii)** online, with the borrower acknowledging receipt of the information; or
+>       - **(iii)** through the use of the online counseling tool described in subsection (n)(1)(B).
+>     - **(B)** *Use of interactive programs* In the case of institutions not using the online counseling tool described in subsection (n)(1)(B), the Secretary shall require such institutions to carry out the requirements of subparagraph (A) through the use of interactive programs, during an annual counseling session that is in-person or online, that test the individual’s understanding of the terms and conditions of the Federal Pell Grant or loan awarded to the student, using simple and understandable language and clear formatting.
+>   - **(2)** *All individuals* The information to be provided under paragraph (1)(A) to each individual receiving counseling under this subsection shall include the following:
+>     - **(A)** An explanation of how the student may budget for typical educational expenses and a sample budget based on the cost of attendance for the institution.
+>     - **(B)** An explanation that an individual has a right to annually request a disclosure of information collected by a consumer reporting agency pursuant to section 612(a) of the Fair Credit Reporting Act (15 U.S.C. 1681j(a)).
+>   - **(3)** *Students receiving Federal Pell Grants* The information to be provided under paragraph (1)(A) to each student receiving a Federal Pell Grant shall include the following:
+>     - **(A)** An explanation of the terms and conditions of the Federal Pell Grant.
+>     - **(B)** An explanation of approved educational expenses for which the student may use the Federal Pell Grant.
+>     - **(C)** An explanation of why the student may have to repay the Federal Pell Grant.
+>     - **(D)** An explanation of the maximum number of semesters or equivalent for which the student may be eligible to receive a Federal Pell Grant, and a statement of the amount of time remaining for which the student may be eligible to receive a Federal Pell Grant.
+>     - **(E)** An explanation of how the student may seek additional financial assistance from the institution’s financial aid office due to a change in the student’s financial circumstances, and the contact information for such office.
+>   - **(4)** *Borrowers receiving loans made under part D (other than Parent PLUS Loans)* The information to be provided under paragraph (1)(A) to a borrower of a loan made under part D (other than a Federal Direct PLUS Loan made on behalf of a dependent student) shall include the following:
+>     - **(A)** To the extent practicable, the effect of accepting the loan to be disbursed on the eligibility of the borrower for other forms of student financial assistance.
+>     - **(B)** An explanation of the use of the master promissory note.
+>     - **(C)** An explanation that the borrower is not required to accept the full amount of the loan offered to the borrower.
+>     - **(D)** An explanation that the borrower should consider accepting any grant, scholarship, or State or Federal work-study jobs for which the borrower is eligible prior to accepting Federal student loans.
+>     - **(E)** A recommendation to the borrower to exhaust the borrower’s Federal student loan options prior to taking out private loans, an explanation that Federal student loans typically offer better terms and conditions than private loans, and an explanation that if a borrower decides to take out a private education loan—
+>       - **(i)** the borrower has the ability to select a private educational lender of the borrower’s choice;
+>       - **(ii)** the proposed private education loan may impact the borrower’s potential eligibility for other financial assistance, including Federal financial assistance under this title; and
+>       - **(iii)** the borrower has a right—
+>         - **(I)** to accept the terms of the private education loan within 30 calendar days following the date on which the application for such loan is approved and the borrower receives the required disclosure documents, pursuant to section 128(e)(6) of the Truth in Lending Act; and
+>         - **(II)** to cancel such loan within 3 business days of the date on which the loan is consummated, pursuant to section 128(e)(7) of such Act.
+>     - **(F)** An explanation of the approved educational expenses for which the borrower may use a loan made under part D.
+>     - **(G)** Information on the annual and aggregate loan limits for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans.
+>     - **(H)** Information on how interest accrues and is capitalized during periods when the interest is not paid by either the borrower or the Secretary.
+>     - **(I)** In the case of a Federal Direct PLUS Loan or a Federal Direct Unsubsidized Stafford Loan, the option of the borrower to pay the interest while the borrower is in school.
+>     - **(J)** The definition of half-time enrollment at the institution, during regular terms and summer school, if applicable, and the consequences of not maintaining at least half-time enrollment.
+>     - **(K)** An explanation of the importance of contacting the appropriate offices at the institution of higher education if the borrower withdraws prior to completing the borrower's program of study so that the institution can provide exit counseling, including information regarding the borrower's repayment options and loan consolidation.
+>     - **(L)** For a first-time borrower, the anticipated monthly payment amount under, at minimum, a standard repayment plan and, using the regionally available data from the Bureau of Labor Statistics of the average starting salary for the occupation the borrower intends to be employed, an income-based repayment plan under section 493C, and based on—
+>       - **(i)** a range of levels of indebtedness of—
+>         - **(I)** borrowers of Federal Direct Stafford Loans or Federal Direct Unsubsidized Stafford Loans; and
+>         - **(II)** as appropriate, graduate borrowers of Federal Direct PLUS Loans or Federal Direct Unsubsidized Stafford Loans; or
+>       - **(ii)** the average cumulative indebtedness at graduation for students who borrowed loans made under part D and who are in the same program of study as the borrower.
+>     - **(M)** For a borrower with an outstanding balance of principal or interest due on a loan made under this title—
+>       - **(i)** a current statement of the amount of such outstanding balance and interest accrued;
+>       - **(ii)** based on such outstanding balance, the anticipated monthly payment amount under, at minimum, the standard repayment plan and, using regionally available data from the Bureau of Labor Statistics of the average starting salary for the occupation the borrower intends to be employed, an income-based repayment plan under section 493C; and
+>       - **(iii)** an estimate of the projected monthly payment amount under each repayment plan described in clause (ii), based on—
+>         - **(I)** the outstanding balance described in clause (i);
+>         - **(II)** the anticipated outstanding balance on the loan for which the student is receiving counseling under this subsection; and
+>         - **(III)** a projection for any other loans made under part D that the borrower is reasonably expected to accept during the borrower’s program of study based on at least the expected increase in the cost of attendance of such program.
+>     - **(N)** The obligation of the borrower to repay the full amount of the loan, regardless of whether the borrower completes or does not complete the program in which the borrower is enrolled within the regular time for program completion.
+>     - **(O)** The likely consequences of default on the loan, including adverse credit reports, delinquent debt collection procedures under Federal law, and litigation, and a notice of the institution’s most recent cohort default rate (defined in section 435(m)), an explanation of the cohort default rate, and the most recent national average cohort default rate for the category of institution described in section 435(m)(4) to which the institution belongs.
+>     - **(P)** Information on the National Student Loan Data System and how the borrower can access the borrower's records.
+>     - **(Q)** The contact information for the institution’s financial aid office or other appropriate office at the institution the borrower may contact if the borrower has any questions about the borrower's rights and responsibilities or the terms and conditions of the loan.
+>   - **(5)** *Borrowers receiving Parent PLUS Loans for dependent students* The information to be provided under paragraph (1)(A) to a borrower of a Federal Direct PLUS Loan made on behalf of a dependent student shall include the following:
+>     - **(A)** The information described in subparagraphs (A) through (C) and (N) through (Q) of paragraph (4).
+>     - **(B)** The option of the borrower to pay the interest on the loan while the loan is in deferment.
+>     - **(C)** For a first-time borrower of such loan, sample monthly repayment amounts under the standard repayment plan based on—
+>       - **(i)** a range of levels of indebtedness of borrowers of Federal Direct PLUS Loans made on behalf of a dependent student; or
+>       - **(ii)** the average cumulative indebtedness of other borrowers of Federal Direct PLUS Loans made on behalf of dependent students who are in the same program of study as the student on whose behalf the borrower borrowed the loan.
+>     - **(D)** For a borrower with an outstanding balance of principal or interest due on such loan—
+>       - **(i)** a statement of the amount of such outstanding balance;
+>       - **(ii)** based on such outstanding balance, the anticipated monthly payment amount under the standard repayment plan; and
+>       - **(iii)** an estimate of the projected monthly payment amount under the standard repayment plan, based on—
+>         - **(I)** the outstanding balance described in clause (i);
+>         - **(II)** the anticipated outstanding balance on the loan for which the borrower is receiving counseling under this subsection; and
+>         - **(III)** a projection for any other Federal Direct PLUS Loan made on behalf of the dependent student that the borrower is reasonably expected to accept during the program of study of such student based on at least the expected increase in the cost of attendance of such program.
+>     - **(E)** Debt management strategies that are designed to facilitate the repayment of such indebtedness.
+>     - **(F)** An explanation that the borrower has the options to prepay each loan, pay each loan on a shorter schedule, and change repayment plans.
+>     - **(G)** For each Federal Direct PLUS Loan made on behalf of a dependent student for which the borrower is receiving counseling under this subsection, the contact information for the loan servicer of the loan and a link to such servicer’s Website.
+>   - **(6)** *Annual loan acceptance* Prior to making the first disbursement of a loan made under part D (other than a Federal Direct Consolidation Loan) to a borrower for an award year, an eligible institution, shall, as part of carrying out the counseling requirements of this subsection for the loan, ensure that the borrower accepts the loan for such award year by—
+>     - **(A)** signing the master promissory note for the loan;
+>     - **(B)** signing and returning to the institution a separate written statement that affirmatively states that the borrower accepts the loan; or
+>     - **(C)** electronically signing an electronic version of the statement described in subparagraph (B).
 
 ## § 3. Exit Counseling
 
 Section 485(b) of the Higher Education Act of 1965 (20 U.S.C. 1092(b)) is amended—
 
 - **(1)** in paragraph (1)(A)—
-  - **(A)** in the matter preceding clause (i)—
-    - **(i)** by striking “through financial aid offices or otherwise” and inserting “through the use of an interactive program, during an exit counseling session that is in-person or online, or through the use of the online counseling tool described in subsection (o)(1)(A)”;
-    - **(ii)** by redesignating clauses (i) through (ix) as clauses (iv) through (xii), respectively;
-    - **(iii)** by inserting before clause (iv), as so redesignated, the following:
-      > - **(i)** a summary of the outstanding balance of principal and interest due on the loans made to the borrower under part B, D, or E;
-      > - **(ii)** an explanation of the grace period preceding repayment and the expected date that the borrower will enter repayment;
-      > - **(iii)** an explanation that the borrower has the option to pay any interest that has accrued while the borrower was in school or that may accrue during the grace period preceding repayment or during an authorized period of deferment or forbearance, prior to the capitalization of the interest;
+  - **(A)** in the matter preceding clause (i), by striking “through financial aid offices or otherwise” and inserting “through the use of an interactive program, during an exit counseling session that is in-person or online, or through the use of the online counseling tool described in subsection (n)(1)(A)”;
+  - **(B)** by redesignating clauses (i) through (ix) as clauses (iv) through (xii), respectively;
+  - **(C)** by inserting before clause (iv), as so redesignated, the following:
+    > - **(i)** a summary of the outstanding balance of principal and interest due on the loans made to the borrower under part B, D, or E;
+    > - **(ii)** an explanation of the grace period preceding repayment and the expected date that the borrower will enter repayment;
+    > - **(iii)** an explanation that the borrower has the option to pay any interest that has accrued while the borrower was in school or that may accrue during the grace period preceding repayment or during an authorized period of deferment or forbearance, prior to the capitalization of the interest;
 
-    - **(iv)** in clause (iv), as so redesignated, by striking “sample information showing the average” and inserting “information, based on the borrower’s outstanding balance described in clause (i), showing the borrower’s”;
-    - **(v)** in clause (x), as so redesignated, by striking “consolidation loan under section 428C or a”; and
-    - **(vi)** by adding at the end the following:
-      > - **(xiii)** for each of the borrower’s loans made under part B, D, or E for which the borrower is receiving counseling under this subsection, the contact information for the loan servicer of the loan and a link to such servicer’s Website.
+  - **(D)** in clause (iv), as so redesignated—
+    - **(i)** by striking “sample information showing the average” and inserting “information, based on the borrower’s outstanding balance described in clause (i), showing the borrower’s”; and
+    - **(ii)** by striking “of each plan” and inserting “of at least the standard repayment plan and the income-based repayment plan under section 493C”;
+  - **(E)** in clause (x), as so redesignated, by striking “consolidation loan under section 428C or a”;
+  - **(F)** in clauses (xi) and (xii), as so redesignated, by striking “and” at the end; and
+  - **(G)** by adding at the end the following:
+    > - **(xiii)** for each of the borrower’s loans made under part B, D, or E for which the borrower is receiving counseling under this subsection, the contact information for the loan servicer of the loan and a link to such servicer’s Website; and
+    > - **(xiv)** an explanation that an individual has a right to annually request a disclosure of information collected by a consumer reporting agency pursuant to section 612(a) of the Fair Credit Reporting Act (15 U.S.C. 1681j(a)).
 
 - **(2)** in paragraph (1)(B)—
   - **(A)** by inserting “online or” before “in writing”; and
-  - **(B)** by adding before the period at the end the following: “, except that in the case of an institution using the online counseling tool described in subsection (o)(1)(A), the Secretary shall attempt to provide such information to the student in the manner described in subsection (o)(3)(C)”; and
-- **(3)** in paragraph (2)(C), by inserting “, such as the online counseling tool described in subsection (o)(1)(A),” after “electronic means”.
+  - **(B)** by adding before the period at the end the following: “, except that in the case of an institution using the online counseling tool described in subsection (n)(1)(A), the Secretary shall attempt to provide such information to the student in the manner described in subsection (n)(3)(C)”; and
+- **(3)** in paragraph (2)(C), by inserting “, such as the online counseling tool described in subsection (n)(1)(A),” after “electronic means”.
 
-## § 4. Annual counseling for Federal Pell Grant recipients
-
-Section 485 of the Higher Education Act of 1965 (20 U.S.C. 1092) is amended by adding at the end the following:
-
-> - **(n)** *Annual counseling for Federal Pell Grant recipients*
->   - **(1)** *Disclosure required prior to disbursement of Federal Pell Grant*
->     - **(A)** *In general* Each eligible institution shall, prior to the first payment of a Federal Pell Grant to a student for an award year, ensure that the student receives comprehensive information on the terms and conditions of the Federal Pell Grant in accordance with paragraph (2). Such information—
->       - **(i)** shall be provided in a simple and understandable manner; and
->       - **(ii)** shall be provided, for each award year for which the student receives a Federal Pell Grant—
->         - **(I)** during a counseling session conducted in person;
->         - **(II)** online, with the student acknowledging receipt of the information; or
->         - **(III)** through the use of the online counseling tool described in subsection (o)(1)(C).
->     - **(B)** *Use of interactive programs; joint counseling permitted* In the case of institutions not using the online counseling tool described in subsection (o)(1)(C)—
->       - **(i)** the Secretary shall require such institutions to carry out the requirements of subparagraph (A) through the use, during an annual counseling session that is in-person or online, of interactive programs that test the student’s understanding of the terms and conditions of the Federal Pell Grant paid to the student, using simple and understandable language and clear formatting; and
->       - **(ii)** an annual counseling session described in subclause (I) or (II) of subparagraph (A)(ii) for a student may be conducted in conjunction with an annual counseling session described in subclause (I) or (II) of subsection (l)(1)(A)(ii) for such student.
->   - **(2)** *Information to be provided* The information to be provided to the student under paragraph (1)(A) shall include the following:
->     - **(A)** An explanation of a Federal Pell Grant.
->     - **(B)** An explanation of approved educational expenses for which the student may use a Federal Pell Grant.
->     - **(C)** An explanation of why a student may have to repay the Federal Pell Grant.
->     - **(D)** An explanation of the maximum number of semesters or equivalent for which the student may be eligible to receive a Federal Pell Grant, and a statement of the amount of time remaining for which the student may be eligible to receive a Federal Pell Grant.
->     - **(E)** An explanation of how the student may budget for typical educational expenses and a sample budget based on the cost of attendance for the institution.
->     - **(F)** An explanation of how the student may seek additional financial assistance from the institution’s financial aid office due to a change in the student’s financial circumstances, and the contact information for such office.
-
-## § 5. Online counseling tools
+## § 4. Online counseling tools
 
 Section 485 of the Higher Education Act of 1965 (20 U.S.C. 1092) is further amended by adding at the end the following:
 
-> - **(o)** *Online counseling tools*
+> - **(n)** *Online counseling tools*
 >   - **(1)** *In general* Beginning not later than 1 year after the date of enactment of the Empowering Students Through Enhanced Financial Counseling Act, the Secretary shall maintain—
->     - **(A)** an online counseling tool that provides the exit counseling required under subsection (b) and meets the applicable requirements of this subsection;
->     - **(B)** an online counseling tool that provides the annual counseling required under subsection (l) and meets the applicable requirements of this subsection; and
->     - **(C)** an online counseling tool that provides the Federal Pell Grant counseling required under subsection (n) and meets the applicable requirements of this subsection.
->   - **(2)** *Requirements of tools* In maintaining the online counseling tools described in paragraph (1), the Secretary shall ensure—
->     - **(A)** in the case of the online counseling tools described in subparagraphs (A) and (B) of paragraph (1), each such tool is consumer tested to ensure that the tool is effective in helping students understand their rights and obligations with respect to borrowing a loan made under part D;
->     - **(B)** in the case of the online tool described in paragraph (1)(C), the tool is consumer tested to ensure that such tool is effective in helping students understand their rights and obligations with respect to receiving a Federal Pell Grant; and
->     - **(C)** each such tool is understandable to students and freely available to all eligible institutions.
+>     - **(A)** an online counseling tool that provides the exit counseling required under subsection (b) and meets the applicable requirements of this subsection; and
+>     - **(B)** an online counseling tool that provides the annual counseling required under subsection (l) and meets the applicable requirements of this subsection.
+>   - **(2)** *Requirements of tools* In maintaining the online counseling tools described in paragraph (1), the Secretary shall ensure that each such tool is—
+>     - **(A)** consumer tested, in consultation with other relevant Federal agencies, to ensure that the tool is effective in helping individuals understand their rights and obligations with respect to borrowing a loan made under part D or receiving a Federal Pell Grant;
+>     - **(B)** understandable to students receiving Federal Pell Grants and borrowers of loans made under part D; and
+>     - **(C)** freely available to all eligible institutions.
 >   - **(3)** *Record of counseling completion* The Secretary shall—
->     - **(A)** use each online counseling tool described in paragraph (1) to keep a record of which students have received counseling using the tool, and notify the applicable institutions of the students’ completion of such counseling;
->     - **(B)** in the case of a student who receives annual counseling using the tool described in paragraph (1)(B), notify the student by when the student should accept, in a manner described in section 485(l)(3), the loan for which the student has received such counseling; and
->     - **(C)** in the case of a student described in subsection (b)(1)(B) at an institution that uses the online counseling tool described in paragraph (1)(A) of this subsection, the Secretary shall attempt to provide the information described in subsection (b)(1)(A) to the student through such tool.
+>     - **(A)** use each online counseling tool described in paragraph (1) to keep a record of which individuals have received counseling using the tool, and notify the applicable institutions of the individual’s completion of such counseling;
+>     - **(B)** in the case of a borrower who receives annual counseling for a loan made under part D using the tool described in paragraph (1)(B), notify the borrower by when the borrower should accept, in a manner described in section 485(l)(6), the loan for which the borrower has received such counseling; and
+>     - **(C)** in the case of a borrower described in subsection (b)(1)(B) at an institution that uses the online counseling tool described in paragraph (1)(A) of this subsection, the Secretary shall attempt to provide the information described in subsection (b)(1)(A) to the borrower through such tool.
+
+## § 5. Availability of funds
+
+- **(a)** *Use of existing funds* Of the amount authorized to be appropriated for maintaining the Department of Education’s Financial Awareness Counseling Tool, $2,000,000 shall be available to carry out this Act and the amendments made by this Act.
+- **(b)** *No additional funds authorized* No funds are authorized to be appropriated by this Act to carry out this Act or the amendments made by this Act.
