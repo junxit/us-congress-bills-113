@@ -19,27 +19,23 @@ Section 108(a) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note)
 
 ## § 3. Federal share
 
-Section 103(e)(1)(A) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by inserting “and beginning in the calendar year that follows the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2014on January 1, 2016, shall decrease by 1 percent1 percentage point per calendar year until equal to 80 percent” after “85 percent”.
+Section 103(e)(1)(A) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by inserting “and beginning on January 1, 2016, shall decrease by 1 percentage point per calendar year until equal to 80 percent” after “85 percent”.
 
 ## § 4. Recoupment of Federal share of compensation under the program
 
 Section 103(e) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended—
 
-- **(1)** in paragraph (6), in the matter preceding subparagraph (A), by striking “shall be” and all that follows through subparagraph (E) and inserting “shall be $27,500,000,000 and beginning in the calendar year that follows the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2014 shall increase by $2,000,000,000 per calendar year until equal to $37,500,000,000.”; and “shall be the lesser of—
+- **(1)** in paragraph (6), in the matter preceding subparagraph (A), by striking “shall be” and all that follows through subparagraph (E) and inserting “shall be the lesser of—
   > - **(A)** $27,500,000,000, as such amount is adjusted pursuant to this paragraph; and
   > - **(B)** the aggregate amount, for all insurers, of insured losses during such calendar year,
 
 - **(2)** in paragraph (7)—
   - **(A)** in subparagraph (A)—
-    - **(i)** in the matter preceding clause (i), by striking “for each of the periods referred to in subparagraphs (A) through (E) of paragraph 6(6)”; and
+    - **(i)** in the matter preceding clause (i), by striking “for each of the periods referred to in subparagraphs (A) through (E) of paragraph (6)”; and
     - **(ii)** in clause (i), by striking “for such period”;
-  - **(B)** in subparagraph (B)—
-    - **(i)** by striking “for any period referred to in any of subparagraphs (A) through (E) of paragraph (6)”; and
-    - **(ii)** by striking “for such period”;
   - **(B)** by striking subparagraph (B) and inserting the following:
     > - **(B)** [Reserved.]
 
-  - **(C)** in subparagraph (C), by striking “occurring during any of the periods referred to in any of subparagraphs (A) through (E) of paragraph (6)”; and
   - **(C)** in subparagraph (C)—
     - **(i)** by striking “occurring during any of the periods referred to in any of subparagraphs (A) through (E) of paragraph (6), terrorism loss risk-spreading premiums in an amount equal to 133 percent” and inserting “, terrorism loss risk-spreading premiums in an amount equal to 135.5 percent”; and
     - **(ii)** by inserting “as calculated under subparagraph (A)” after “mandatory recoupment amount”; and
@@ -68,7 +64,7 @@ The Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended—
     - **(iii)** by adding at the end the following new subparagraph:
       > - **(B)** *Rule of construction* An entity, including any affiliate thereof, does not have “control” over another entity, if, as of the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2014, the entity is acting as an attorney-in-fact, as defined by the Secretary, for the other entity and such other entity is a reciprocal insurer, provided that the entity is not, for reasons other than the attorney-in-fact relationship, defined as having “control” under subparagraph (A).
 
-  - **(AB)** in paragraph (7)—
+  - **(B)** in paragraph (7)—
     - **(i)** by striking subparagraphs (A) through (F) and inserting the following:
       > - **(A)** the value of an insurer's direct earned premiums during the immediately preceding calendar year, multiplied by 20 percent; and
 
@@ -76,8 +72,8 @@ The Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended—
     - **(iii)** in subparagraph (B), as so redesignated by clause (ii)—
       - **(I)** by striking “notwithstanding subparagraphs (A) through (F), for the Transition Period or any Program Year” and inserting “notwithstanding subparagraph (A), for any calendar year”; and
       - **(II)** by striking “Period or Program Year” and inserting “calendar year”;
-  - **(BC)** by striking paragraph (11); and
-  - **(CD)** by redesignating paragraphs (12) through (16) as paragraphs (11) through (15), respectively; and
+  - **(C)** by striking paragraph (11); and
+  - **(D)** by redesignating paragraphs (12) through (16) as paragraphs (11) through (15), respectively; and
 - **(2)** in section 103—
   - **(A)** in subsection (c), by striking “Program Year” and inserting “calendar year”;
   - **(B)** in subsection (e)—
@@ -126,3 +122,19 @@ The Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended—
   - **(7)** The size of any Federal Government subsidy insurers may receive through their participation in the Program, taking into account the Program’s current post-event recoupment structure.
 - **(c)** *Report* Upon completion of the study required under subsection (a), the Comptroller General shall submit a report on the results of such study to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
 - **(d)** *Public availability* The study and report required under this section shall be made available to the public in electronic form and shall be published on the website of the Government Accountability Office.
+
+## § 8. Membership of Board of Governors of the Federal Reserve System
+
+- **(a)** *In general* The first undesignated paragraph of section 10 of the Federal Reserve Act (12 U.S.C. 241) is amended by inserting after the second sentence the following: “In selecting members of the Board, the President shall appoint at least 1 member with demonstrated primary experience working in or supervising community banks having less than $10,000,000,000 in total assets.”.
+- **(b)** *Effective date* The amendment made by this section shall take effect on the date of enactment of this Act and apply to appointments made on and after that effective date, excluding any nomination pending in the Senate on that date.
+
+## § 9. Advisory Committee on Risk-Sharing Mechanisms
+
+- **(a)** *Finding; rule of construction*
+  - **(1)** *Finding* Congress finds that it is desirable to encourage the growth of nongovernmental, private market reinsurance capacity for protection against losses arising from acts of terrorism.
+  - **(2)** *Rule of construction* Nothing in this Act, any amendment made by this Act, or the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) shall prohibit insurers from developing risk-sharing mechanisms to voluntarily reinsure terrorism losses between and among themselves.
+- **(b)** *Advisory Committee on Risk-Sharing Mechanisms*
+  - **(1)** *Establishment* The Secretary of the Treasury shall establish and appoint an advisory committee to be known as the “Advisory Committee on Risk-Sharing Mechanisms” (referred to in this subsection as the “Advisory Committee”).
+  - **(2)** *Duties* The Advisory Committee shall provide advice, recommendations, and encouragement with respect to the creation and development of the nongovernmental risk-sharing mechanisms described under subsection (a).
+  - **(3)** *Membership* The Advisory Committee shall be composed of 9 members who are directors, officers, or other employees of insurers, reinsurers, or capital market participants that are participating or that desire to participate in the nongovernmental risk-sharing mechanisms described under subsection (a), and who are representative of the affected sectors of the insurance industry, including commercial property insurance, commercial casualty insurance, reinsurance, and alternative risk transfer industries.
+- **(c)** *Effective date* The provisions of this section shall take effect on January 1, 2015.
