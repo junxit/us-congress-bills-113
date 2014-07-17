@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5016
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5016
@@ -16,9 +16,10 @@ Financial Services and General Government Appropriations Act, 2015
 
 - Rep. Crenshaw, Ander [R-FL-4] (C001045)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (17)
 
@@ -460,3 +461,4 @@ Financial Services and General Government Appropriations Act, 2015
 - 2014-07-16 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5016.
 - 2014-07-16 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2014-07-16 — WITHDRAWN DEMAND FOR RECORDED VOTE - Mr. Serrano asked unanimous consent to withdraw his demand for a recorded vote on the Meehan amendment No. 2 debated earlier to the end that the amendment stand affirmed pursuant to the earlier voice vote on the amendment. Agreed to without objection.
+- 2014-07-17 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
