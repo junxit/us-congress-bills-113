@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3393
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3393
@@ -29,3 +29,8 @@ Student and Family Tax Simplification Act
 - 2013-10-30 — Introduced in House
 - 2013-10-30 — Introduced in House
 - 2013-10-30 — Referred to the House Committee on Ways and Means.
+- 2014-06-25 — Committee Consideration and Mark-up Session Held.
+- 2014-06-25 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 22 - 13.
+- 2014-07-17 — Placed on the Union Calendar, Calendar No. 392.
+- 2014-07-17 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-526.
+- 2014-07-17 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-526.
