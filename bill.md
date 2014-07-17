@@ -31,7 +31,7 @@ This Act may be cited as the “Endangered Species Recovery Transparency Act”.
   > - **(c)** *Requirement To provide information* The head of each covered agency shall provide to the Secretary in a timely manner all information requested by the Secretary to comply with the requirements of this section.
   > - **(d)** *Limitation on disclosure* Notwithstanding any other provision of this section, this section shall not affect any restriction in a consent decree or settlement agreement on the disclosure of information that is not described in subsection (b).
   > - **(e)** *Definitions*
-  >   - **(1)** *Covered agency* The term “covered agency” means any agency of the Department of the Interior, the Forest Service, or the National Marine Fisheries Service.
+  >   - **(1)** *Covered agency* The term “covered agency” means any agency of the Department of the Interior, the Forest Service, the National Marine Fisheries Service, the Bonneville Power Administration, the Western Area Power Administration, the Southwestern Power Administration, or the Southeastern Power Administration.
   >   - **(2)** *Covered suit* The term “covered suit” means any civil action containing a claim against the Federal Government, in which the claim arises under this Act and is based on the action of a covered agency.
 
 - **(b)** *Clerical amendment* The table of contents in the first section of such Act is amended by striking the item relating to such section and inserting the following:
