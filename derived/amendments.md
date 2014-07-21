@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4028
 congress: 113
-version: Reported to Senate
+version: Enrolled Bill
 derived: true
 ---
 
