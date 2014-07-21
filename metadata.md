@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4028
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4028
@@ -41,3 +41,7 @@ To amend the International Religious Freedom Act of 1998 to include the desecrat
 - 2014-05-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4850)
 - 2014-05-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4850)
 - 2014-06-02 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2014-07-16 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2014-07-21 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. With written report No. 113-214.
+- 2014-07-21 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. With written report No. 113-214.
+- 2014-07-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 475.
