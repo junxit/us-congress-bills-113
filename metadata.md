@@ -1,7 +1,7 @@
 ---
 measure: S. 2577
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2577
@@ -16,6 +16,11 @@ A bill to require the Secretary of State to offer rewards totaling up to $5,000,
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 
+## Cosponsors (2)
+
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+
 ## Committees (1)
 
 - Senate — Foreign Relations Committee
@@ -24,3 +29,7 @@ A bill to require the Secretary of State to offer rewards totaling up to $5,000,
 
 - 2014-07-09 — Introduced in Senate
 - 2014-07-09 — Read twice and referred to the Committee on Foreign Relations.
+- 2014-07-16 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2014-07-21 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. With written report No. 113-213.
+- 2014-07-21 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. With written report No. 113-213.
+- 2014-07-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 474.
