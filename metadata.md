@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4572
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4572
@@ -37,3 +37,10 @@ STELA Reauthorization Act of 2014
 - 2014-07-11 — Placed on the Union Calendar, Calendar No. 389.
 - 2014-07-11 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-518.
 - 2014-07-11 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-518.
+- 2014-07-22 — Considered under suspension of the rules. (consideration: CR H6588-6592)
+- 2014-07-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4572.
+- 2014-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-22 — Mr. Walden moved to suspend the rules and pass the bill, as amended.
+- 2014-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6588-6589)
+- 2014-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6588-6589)
+- 2014-07-22 — The title of the measure was amended. Agreed to without objection.
