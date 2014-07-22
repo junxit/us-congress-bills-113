@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4562
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4562
@@ -33,3 +33,9 @@ To authorize early repayment of obligations to the Bureau of Reclamation within 
 - 2014-07-17 — Placed on the Union Calendar, Calendar No. 402.
 - 2014-07-17 — Reported by the Committee on Natural Resources. H. Rept. 113-536.
 - 2014-07-17 — Reported by the Committee on Natural Resources. H. Rept. 113-536.
+- 2014-07-22 — Considered under suspension of the rules. (consideration: CR H6612-6613)
+- 2014-07-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4562.
+- 2014-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-22 — Mr. Daines moved to suspend the rules and pass the bill.
+- 2014-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6612)
+- 2014-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6612)
