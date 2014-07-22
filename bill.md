@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 5166
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5166
+
+> To direct the National Counsel on Disability to conduct a review of certain standards under the Americans with Disabilities Act of 1990.
+
+## § 1. Short title
+
+This Act may be cited as the “Travel and Tourism For All Act”.
+
+## § 2. Review and report by National Counsel on Disability
+
+The National Counsel on Disability established under section 400 of the Rehabilitation Act of 1973 (29 U.S.C. 780) shall—
+
+- **(1)** review the implementation of—
+  - **(A)** the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) with respect to the travel, tourism, and hospitality industries; and
+  - **(B)** the 2010 ADA standards for public accommodations and commercial facilities under subpart D of part 36 of title 28, Code of Federal Regulations, and appendices B and D of part 1191 of title 36, Code of Federal Regulations; and
+- **(2)** not later than 2 years after the date of enactment of this Act, submit to Congress a report on—
+  - **(A)** the review conducted under paragraph (1); and
+  - **(B)** recommendations for improvement in the implementation of the Act and regulations described in paragraph (1).
