@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4812
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4812
@@ -39,3 +39,9 @@ Honor Flight Act
 - 2014-07-03 — Placed on the Union Calendar, Calendar No. 388.
 - 2014-07-03 — Reported by the Committee on Homeland Security. H. Rept. 113-516.
 - 2014-07-03 — Reported by the Committee on Homeland Security. H. Rept. 113-516.
+- 2014-07-22 — Considered under suspension of the rules. (consideration: CR H6609-6612)
+- 2014-07-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4812.
+- 2014-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-22 — Mr. Hudson moved to suspend the rules and pass the bill, as amended.
+- 2014-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6610)
+- 2014-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6610)
