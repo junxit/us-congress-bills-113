@@ -29,11 +29,11 @@ In this Act:
 
 - **(1)** *Administration* The term Administration means the Transportation Security Administration.
 - **(2)** *Assistant secretary* The term Assistant Secretary means the Assistant Secretary of Homeland Security (Transportation Security) of the Department of Homeland Security.
-- **(3)** *Inspector general* The term Inspector General means the Inspector General of the Department of Homeland Security
+- **(3)** *Inspector general* The term Inspector General means the Inspector General of the Department of Homeland Security.
 
 ## § 4. Inspector general review
 
-- **(a)** *Review* Not later than 60 days after the date of the enactment of this Act, the Inspector General shall analyze the data and methods that the Assistant Secretary uses to identify employees of the Administration who meet the requirements of sections 8331(20), 8401(17) and 5545a of title 5, United States Code, and provide the relevant findings to the Assistant Secretary, including a finding on whether the data and methods are adequate and valid.
+- **(a)** *Review* Not later than 60 days after the date of the enactment of this Act, the Inspector General shall analyze the data and methods that the Assistant Secretary uses to identify employees of the Administration who meet the requirements of sections 8331(20), 8401(17), and 5545a of title 5, United States Code, and provide the relevant findings to the Assistant Secretary, including a finding on whether the data and methods are adequate and valid.
 - **(b)** *Prohibition on hiring* If the Inspector General finds that such data and methods are inadequate or invalid, the Administration may not hire any new employee to work in the Office of Inspection of the Administration until—
   - **(1)** the Assistant Secretary makes a certification described in section 5 to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate; and
   - **(2)** the Inspector General submits to such Committees a finding, not later than 30 days after the Assistant Secretary makes such certification, that the Assistant Secretary utilized adequate and valid data and methods to make such certification.

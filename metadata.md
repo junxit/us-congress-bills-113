@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4803
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4803
@@ -37,3 +37,9 @@ TSA Office of Inspection Accountability Act of 2014
 - 2014-07-03 — Placed on the Union Calendar, Calendar No. 385.
 - 2014-07-03 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-513.
 - 2014-07-03 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-513.
+- 2014-07-22 — Considered under suspension of the rules. (consideration: CR H6604-6606)
+- 2014-07-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4803.
+- 2014-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-22 — Mr. Sanford moved to suspend the rules and pass the bill, as amended.
+- 2014-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6604-6605)
+- 2014-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6604-6605)
