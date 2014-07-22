@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3802
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3802
@@ -45,3 +45,9 @@ To extend the legislative authority of the Adams Memorial Foundation to establis
 - 2014-06-30 — Placed on the Union Calendar, Calendar No. 377.
 - 2014-06-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-504.
 - 2014-06-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-504.
+- 2014-07-22 — Considered under suspension of the rules. (consideration: CR H6619-6620)
+- 2014-07-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3802.
+- 2014-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-22 — Mr. Daines moved to suspend the rules and pass the bill, as amended.
+- 2014-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6619)
+- 2014-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6619)
