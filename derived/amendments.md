@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4450
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 7 executed, 7 stated and not applied.
+16 amendatory instructions. 8 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,12 +44,12 @@ to guess them.
 
 ### 22 U.S.C. § 2131
 
-> in subparagraph (B)(ii), by striking “80 percent” and inserting “75 percent”; and
+> in subparagraph (B)(ii), by striking “80 percent” and inserting “70 percent”; and
 
 | | |
 |---|---|
 | Removed | `80 percent` |
-| Inserted | `75 percent` |
+| Inserted | `70 percent` |
 
 ### 22 U.S.C. § 2131
 
@@ -87,6 +87,15 @@ to guess them.
 | Removed | `September 30, 2015` |
 | Inserted | `September 30, 2020` |
 
+### 22 U.S.C. § 2131
+
+> in paragraph (2) of subsection (c), by striking “$5,000,000” and inserting “$500,000”; and
+
+| | |
+|---|---|
+| Removed | `$5,000,000` |
+| Inserted | `$500,000` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -101,5 +110,6 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 2131` | redesignate | by redesignating subparagraph (G) as subparagraph (I); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2131` | insert | by inserting after subparagraph (F) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2131` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2131` | redesignate | by redesignating subsections (e), (f), (g), and (h) as subsections (h), (e), (i), and (j), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2131` | redesignate | by redesignating subsections (e), (f), (g), and (h) as subsections (h), (e), (i), and (j), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2131` | redesignate | by inserting after subsection (e), as redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2131` | redesignate | The Travel Promotion Act of 2009 (22 U.S.C. 2131), as amended by this Act, is further amended by striking subsection (e) (as redesignated by section 6(1) of this Act). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

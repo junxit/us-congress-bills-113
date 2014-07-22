@@ -39,9 +39,13 @@ Subsection (c)(3) of the Travel Promotion Act of 2009 (22 U.S.C. 2131(c)(3)) is 
 
 Subsection (d)(3) of the Travel Promotion Act of 2009 (22 U.S.C. 2131(d)(3)) is amended—
 
-- **(1)** in subparagraph (B)(ii), by striking “80 percent” and inserting “75 percent”; and
+- **(1)** in subparagraph (B)(ii), by striking “80 percent” and inserting “70 percent”; and
 - **(2)** by adding at the end the following:
-  > - **(E)** *Biannual review of procedures to determine fair market value of goods and services* The Corporation and the Secretary of Commerce (or their designees) shall meet on a biannual basis to review the procedures to determine the fair market value of goods and services received from non-Federal sources by the Corporation under subparagraph (B).
+  > - **(E)** *Maintenance of an in-kind contributions policy* The Corporation shall maintain an in-kind contributions policy.
+  > - **(F)** *Formalized procedures for in-kind contributions policy* Not later than 90 days after the date of enactment of the Travel Promotion, Enhancement, and Modernization Act of 2014, the Secretary of Commerce, in coordination with the Corporation, shall establish formal, publicly available procedures specifying time frames and conditions for—
+  >   - **(i)** making and agreeing to revisions of the Corporation’s in-kind contributions policy; and
+  >   - **(ii)** addressing and resolving disagreements between the Corporation and its partners, including the Secretary of Commerce, regarding the in-kind contributions policy.
+  > - **(G)** *Biannual review of procedures to determine fair market value of goods and services* The Corporation and the Secretary of Commerce (or their designees) shall meet on a biannual basis to review the procedures to determine the fair market value of goods and services received from non-Federal sources by the Corporation under subparagraph (B).
 
 ## § 5. Extension of Travel Promotion Act of 2009
 
@@ -56,13 +60,22 @@ Subsection (d)(3) of the Travel Promotion Act of 2009 (22 U.S.C. 2131(d)(3)) is 
 
 The Travel Promotion Act of 2009 (22 U.S.C. 2131), as amended by this Act, is further amended—
 
-- **(1)** by redesignating subsections (e), (f), (g), and (h) as subsections (h), (e), (i), and (j), respectively; and
-- **(2)** by inserting after subsection (e), as redesignated, the following:
+- **(1)** by redesignating subsections (e), (f), (g), and (h) as subsections (h), (e), (i), and (j), respectively;
+- **(2)** by moving subsection (e) (as so redesignated) so that it follows subsection (d);
+- **(3)** in paragraph (2) of subsection (c), by striking “$5,000,000” and inserting “$500,000”; and
+- **(4)** by inserting after subsection (e), as redesignated, the following:
   > - **(f)** *Accountability*
-  >   - **(1)** *Performance plans and measures* Not later than 90 days after the date of the enactment of the Travel Promotion, Enhancement, and Modernization Act of 2014, the Corporation shall establish performance metrics—
-  >     - **(A)** to measure the impact of marketing efforts by the Corporation; and
-  >     - **(B)** to demonstrate any cost or benefit to the economy of the United States.
+  >   - **(1)** *Performance plans and measures* Not later than 90 days after the date of the enactment of the Travel Promotion, Enhancement, and Modernization Act of 2014, the Corporation shall—
+  >     - **(A)** establish performance metrics including, time frames, evaluation methodologies, and data sources for measuring—
+  >       - **(i)** the effectiveness of marketing efforts by the Corporation, including its progress in achieving the long-term goals of increased traveler visits to and spending in the United States;
+  >       - **(ii)** whether increases in visitation and spending have occurred in response to external influences, such as economic conditions or exchange rates, rather than in response to the efforts of the Corporation; and
+  >       - **(iii)** any cost or benefit to the economy of the United States; and
+  >     - **(B)** conduct periodic program evaluations in response to the data resulting from measurements under subparagraph (A).
   >   - **(2)** *GAO accountability* Not later than 60 days after the date on which the Corporation receives a report from the Government Accountability Office with recommendations for the Corporation, the Corporation shall submit a report to Congress that describes the actions taken by the Corporation in response to the recommendations in such report.
   > - **(g)** *Procurement requirements* The Corporation shall—
   >   - **(1)** establish a competitive procurement process; and
   >   - **(2)** certify in its annual report to Congress under subsection (c)(3) that any contracts entered into were in compliance with the established competitive procurement process.
+
+## § 7. Repeal of assessment authority
+
+The Travel Promotion Act of 2009 (22 U.S.C. 2131), as amended by this Act, is further amended by striking subsection (e) (as redesignated by section 6(1) of this Act).
