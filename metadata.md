@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 105
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.J.Res. 105
@@ -16,7 +16,7 @@ Conferring honorary citizenship of the United States on Bernardo de Gálvez y Ma
 
 - Rep. Miller, Jeff [R-FL-1] (M001144)
 
-## Cosponsors (26)
+## Cosponsors (30)
 
 - Rep. Southerland, Steve II [R-FL-2] (S001186)
 - Rep. Yoho, Ted S. [R-FL-3] (Y000065)
@@ -44,6 +44,10 @@ Conferring honorary citizenship of the United States on Bernardo de Gálvez y Ma
 - Rep. Garcia, Joe [D-FL-26] (G000573)
 - Rep. Ros-Lehtinen, Ileana [R-FL-27] (R000435)
 - Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Byrne, Bradley [R-AL-1] (B001289)
+- Rep. Vela, Filemon [D-TX-34] (V000132)
+- Rep. Boustany, Charles W., Jr. [R-LA-3] (B001255)
 
 ## Committees (1)
 
@@ -54,3 +58,9 @@ Conferring honorary citizenship of the United States on Bernardo de Gálvez y Ma
 - 2014-01-09 — Introduced in House
 - 2014-01-09 — Introduced in House
 - 2014-01-09 — Referred to the House Committee on the Judiciary.
+- 2014-03-20 — Referred to the Subcommittee on Immigration and Border Security.
+- 2014-07-10 — Committee Consideration and Mark-up Session Held.
+- 2014-07-10 — Ordered to be Reported by Voice Vote.
+- 2014-07-22 — Placed on the House Calendar, Calendar No. 126.
+- 2014-07-22 — Reported by the Committee on Judiciary. H. Rept. 113-548.
+- 2014-07-22 — Reported by the Committee on Judiciary. H. Rept. 113-548.
