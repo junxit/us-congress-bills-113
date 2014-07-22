@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4450
 congress: 113
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -89,7 +89,7 @@ to guess them.
 
 ### 22 U.S.C. § 2131
 
-> in paragraph (2) of subsection (c), by striking “$5,000,000” and inserting “$500,000”; and
+> in paragraph (2) of subsection (c), by striking “$5,000,000” and inserting “$500,000”;
 
 | | |
 |---|---|
@@ -110,6 +110,6 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 2131` | redesignate | by redesignating subparagraph (G) as subparagraph (I); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2131` | insert | by inserting after subparagraph (F) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2131` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2131` | redesignate | by redesignating subsections (e), (f), (g), and (h) as subsections (h), (e), (i), and (j), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2131` | redesignate | by redesignating subsections (e), (f), (g), and (h) as subsections (h), (e), (i), and (j), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2131` | redesignate | by inserting after subsection (e), as redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2131` | redesignate | The Travel Promotion Act of 2009 (22 U.S.C. 2131), as amended by this Act, is further amended by striking subsection (e) (as redesignated by section 6(1) of this Act). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
