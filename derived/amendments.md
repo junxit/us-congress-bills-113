@@ -1,7 +1,7 @@
 ---
 measure: S. 675
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `10 U.S.C. § 2302` | repeal | Effective 30 days after the date of the enactment of this Act, section 841 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1510; 10 U.S.C. 2302 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1189` | repeal | Effective 30 days after the date of the enactment of this Act, section 841 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1510; 10 U.S.C. 2302 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 2313` | repeal | Effective 270 days after the date of the enactment of this Act, section 841 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1513; 10 U.S.C. 2313 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 2302` | repeal | Effective 270 days after the date of the enactment of this Act, section 831 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 810; 10 U.S.C. 2302 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 2302` | repeal | Effective 270 days after the date of the enactment of this Act, section 842 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1510; 10 U.S.C. 2302 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

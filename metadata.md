@@ -1,7 +1,7 @@
 ---
 measure: S. 675
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 675
@@ -16,9 +16,17 @@ Never Contract With the Enemy Act
 
 - Sen. Ayotte, Kelly [R-NH] (A000368)
 
-## Cosponsors (1)
+## Cosponsors (9)
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Vitter, David [R-LA] (V000127)
 
 ## Committees (1)
 
@@ -28,3 +36,7 @@ Never Contract With the Enemy Act
 
 - 2013-04-09 — Introduced in Senate
 - 2013-04-09 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2014-05-21 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-07-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. With written report No. 113-216.
+- 2014-07-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. With written report No. 113-216.
+- 2014-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 485.
