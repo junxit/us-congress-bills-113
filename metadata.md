@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4803
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4803
@@ -21,9 +21,10 @@ TSA Office of Inspection Accountability Act of 2014
 - Rep. Hudson, Richard [R-NC-8] (H001067)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ TSA Office of Inspection Accountability Act of 2014
 - 2014-07-22 — Mr. Sanford moved to suspend the rules and pass the bill, as amended.
 - 2014-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6604-6605)
 - 2014-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6604-6605)
+- 2014-07-23 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
