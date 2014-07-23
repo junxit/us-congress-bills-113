@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5134
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5134
@@ -29,3 +29,8 @@ To extend the National Advisory Committee on Institutional Quality and Integrity
 - 2014-07-17 — Introduced in House
 - 2014-07-17 — Introduced in House
 - 2014-07-17 — Referred to the House Committee on Education and the Workforce.
+- 2014-07-23 — Considered under suspension of the rules. (consideration: CR H6683-6684)
+- 2014-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5134.
+- 2014-07-23 — Ms. Foxx moved to suspend the rules and pass the bill.
+- 2014-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6683)
+- 2014-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6683)
