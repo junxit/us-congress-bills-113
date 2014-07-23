@@ -1,7 +1,7 @@
 ---
 measure: S. 531
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 531
@@ -28,3 +28,7 @@ Promoting Physical Activity for Americans Act
 
 - 2013-03-12 — Introduced in Senate
 - 2013-03-12 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2014-07-23 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-07-23 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2014-07-23 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2014-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 479.
