@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4719
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -53,7 +53,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `26 U.S.C. § 170` | strike | Section 170(e)(3)(C) of the Internal Revenue Code of 1986 is amended by striking clause (iv). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 170` | redesignate | Section 170(e)(3)(C) of such Code, as amended by subsection (a), is amended by striking clause (ii), by redesignating clause (iii) as clause (iv), and by inserting after clause (i) the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 170` | add-at-end | Section 170(e)(3)(C) of such Code, as amended by subsections (a) and (b), is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 170` | amend | Section 170(e)(3)(C) of such Code, as amended by subsections (a) and (b), is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 170` | add-at-end | Section 170(e)(3)(C) of such Code, as amended by subsections (a), (b), and (c), is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 408` | strike | Section 408(d)(8) of the Internal Revenue Code of 1986 is amended by striking subparagraph (F). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 170` | strike | Subparagraph (E) of section 170(b)(1) of the Internal Revenue Code of 1986 is amended by striking clause (vi). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4719
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4719
@@ -61,3 +61,5 @@ America Gives More Act of 2014
 - 2014-07-17 — Rule provides for consideration of H.R. 4719 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The rule provides that the amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-51 shall be considered as adopted and the bill, as amended, shall be considered as read.
 - 2014-07-17 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6377)
 - 2014-07-17 — The previous question was ordered pursuant to the rule. (consideration: CR H6375)
+- 2014-07-22 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-07-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 477.
