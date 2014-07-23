@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1233
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -257,8 +257,8 @@ complete account of the bill's effect, which it is not.
 | `44 U.S.C. § 2203` | redesignate | by redesignating subsection (f) as subsection (g); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 2203` | insert | by inserting after subsection (e) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 2204` | add-at-end | Section 2204 of title 44, United States Code, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 105` | add-at-end | Chapter 22 of title 44, United States Code, as amended by subsection (a)(1), is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 105` | add-at-end | The table of sections at the beginning of chapter 22 of title 44, United States Code, as amended by subsection (a)(3), is further amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 105` | amend | Chapter 22 of title 44, United States Code, as amended by subsection (a)(1), is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 105` | amend | The table of sections at the beginning of chapter 22 of title 44, United States Code, as amended by subsection (a)(3), is further amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 2107` | amend | Section 2107 of title 44, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 2111` | amend | Section 2111 of title 44, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 2114` | amend | Section 2114 of title 44, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

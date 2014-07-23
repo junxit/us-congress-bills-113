@@ -39,7 +39,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
     > - **(c)**
     >   - **(1)** If a claim of constitutionally based privilege against disclosure of a Presidential record (or reasonably segregable part of a record) is asserted under subsection (b) by a former President, the Archivist shall consult with the incumbent President, as soon as practicable during the period specified in paragraph (2)(A), to determine whether the incumbent President will uphold the claim asserted by the former President.
     >   - **(2)**
-    >     - **(A)** Not later than the end of the 30-day period beginning on the date of which the Archivist receives notification from a former President of the assertion of a claim of constitutionally based privilege against disclosure, the Archivist shall provide notice to the former President and the public of the decision of the incumbent President under paragraph (1) regarding the claim.
+    >     - **(A)** Not later than the end of the 30-day period beginning on the date ofon which the Archivist receives notification from a former President of the assertion of a claim of constitutionally based privilege against disclosure, the Archivist shall provide notice to the former President and the public of the decision of the incumbent President under paragraph (1) regarding the claim.
     >     - **(B)** If the incumbent President upholds the claim of privilege asserted by the former President, the Archivist shall not make the Presidential record (or reasonably segregable part of a record) subject to the claim publicly available unless—
     >       - **(i)** the incumbent President withdraws the decision upholding the claim of privilege asserted by the former President; or
     >       - **(ii)** the Archivist is otherwise directed by a final court order that is not subject to appeal.
@@ -83,10 +83,18 @@ chamber: IN THE SENATE OF THE UNITED STATES
     > - **(a)** *In general* An officer or employee of an executive agency may not create or send a Presidential record using a non-official electronic messaging account unless such officer or employee—
     >   - **(1)** copies an official electronic messaging account of the officer or employee in the original creation or transmission of the Presidential record; or
     >   - **(2)** forwards a complete copy of the Presidential record to an official electronic messaging account of the officer or employee within five days after the original creation or transmission of the Presidential record.
-    > - **(b)** *Adverse actions* The intentional violation of subsection (a) (including any rules, regulations, or other implementing guidelines), as determined by the appropriate supervisor, shall be a basis for disciplinary action in accordance with subchapter I, II, or V of chapter 75 of title 5, as the case may be.
+    > - **(a)** *In general* The President, the Vice President, or a covered employee may not create or send a Presidential or Vice Presidential record using a non-official electronic message account unless the President, Vice President, or covered employee—
+    >   - **(1)** copies an official electronic messaging account of the President, Vice President, or covered employee in the original creation or transmission of the Presidential record or Vice Presidential record; or
+    >   - **(2)** forwards a complete copy of the Presidential or Vice Presidential record to an official electronic messaging account of the President, Vice President, or covered employee not later than 20 days after the original creation or transmission of the Presidential or Vice Presidential record.
+    > - **(b)** *Adverse actions* The intentional violation of subsection (a) by a covered employee (including any rules, regulations, or other implementing guidelines), as determined by the appropriate supervisor, shall be a basis for disciplinary action in accordance with subchapter I, II, or V of chapter 75 of title 5, as the case may be.
     > - **(c)** *Definitions* In this section:
-    >   - **(1)** *Electronic messages* The term “electronic messages” means electronic mail and other electronic messaging systems that are used for purposes of communicating between individuals.
-    >   - **(2)** *Electronic messaging account* The term “electronic messaging account” means any account that sends electronic messages.
+    >   - **(1)** *Covered employee* The term covered employee means—
+    >     - **(A)** the immediate staff of the President;
+    >     - **(B)** the immediate staff of the Vice President;
+    >     - **(C)** a unit or individual of the Executive Office of the President whose function is to advise and assist the President; and
+    >     - **(D)** a unit or individual of the Office of the Vice President whose function is to advise and assist the Vice President.
+    >   - **(1)(2)** *Electronic messages* The term “electronic messages” means electronic mail and other electronic messaging systems that are used for purposes of communicating between individuals.
+    >   - **(2)(3)** *Electronic messaging account* The term “electronic messaging account” means any account that sends electronic messages.
     >   - **(3)** *Executive agency* The term “executive agency” has the meaning given that term in section 105 of title 5.
 
   - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 22 of title 44, United States Code, as amended by subsection (a)(3), is further amended by adding at the end the following new item:
@@ -287,7 +295,7 @@ Title 44, United States Code, is amended—
   >
   > - **(a)** *In general* An officer or employee of an executive agency may not create or send a record using a non-official electronic messaging account unless such officer or employee—
   >   - **(1)** copies an official electronic messaging account of the officer or employee in the original creation or transmission of the record; or
-  >   - **(2)** forwards a complete copy of the record to an official electronic messaging account of the officer or employee within five days after the original creation or transmission of the record.
+  >   - **(2)** forwards a complete copy of the record to an official electronic messaging account of the officer or employee within five days not later than 20 days after the original creation or transmission of the record.
   > - **(b)** *Adverse Actions* The intentional violation of subsection (a) (including any rules, regulations, or other implementing guidelines), as determined by the appropriate supervisor, shall be a basis for disciplinary action in accordance with subchapter I, II, or V of chapter 75 of title 5, as the case may be.
   > - **(c)** *Definitions* In this section:
   >   - **(1)** *Electronic messages* The term “electronic messages” means electronic mail and other electronic messaging systems that are used for purposes of communicating between individuals.
