@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4980
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -342,7 +342,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 679` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 671` | replace | by striking the period at the end of paragraph (34) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `28 U.S.C. § 534` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 675` | amend | Section 475 (42 U.S.C. 675), as amended by section 101(b) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 675` | add-at-end | Section 475 (42 U.S.C. 675), as amended by section 101(b) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 671` | insert | by inserting “, and that the preparation shall include knowledge and skills relating to the reasonable and prudent parent standard for the participation of the child in age or developmentally-appropriate activities, including knowledge a… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 671` | amend | Section 471(a)(10) (42 U.S.C. 671(a)(10)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 677` | strike | by striking “and” at the end of paragraph (6); | the bill quotes the text struck but describes what replaces it |
@@ -400,9 +400,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 653` | insert | Section 453(c)(1) (42 U.S.C. 653(c)(1)) is amended by inserting “or Indian tribe or tribal organization (as defined in subsections (e) and (l) of section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b)),”… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1315` | redesignate | by redesignating paragraphs (1) through (3) as subparagraphs (A) through (C), respectively, and realigning the left margin of subparagraph (C) so as to align with subparagraphs (A) and (B) (as so redesignated); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1315` | insert | by inserting “(1)” after “(b)”; and | the bill quotes the text inserted but describes where it goes |
-| `45 U.S.C. § 309` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1315` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 653` | insert | Section 453(f) (42 U.S.C. 653(f)) is amended by inserting “and tribal” after “State” each place it appears. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 652` | amend | Section 452 (42 U.S.C. 652), as amended by section 301(a)(1) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 652` | add-at-end | Section 452 (42 U.S.C. 652), as amended by section 301(a)(1) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 654a` | strike | by striking “, to the maximum extent feasible,”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 654a` | strike | by striking “and” at the end of clause (i); | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 654a` | amend | by adding “and” at the end of clause (ii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
