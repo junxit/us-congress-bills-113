@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 501
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 501
@@ -28,3 +28,7 @@ A resolution commemorating the 20th anniversary of the Wright Museum of WWII His
 
 - 2014-07-14 — Introduced in Senate
 - 2014-07-14 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4458)
+- 2014-07-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2014-07-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2014-07-23 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4846)
+- 2014-07-23 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4846)
