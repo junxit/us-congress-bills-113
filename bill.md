@@ -19,7 +19,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the longer a child with growth failure goes undiagnosed, the greater the potential for damage and higher costs of care;
 - Whereas early detection and a diagnosis of growth failure are crucial to ensure a healthy future for a child with growth failure;
 - Whereas raising public awareness of, and educating the public about, growth failure is a vital public service;
-- Whereas providing resources for identification of growth failure will allow for early detection; and
+- Whereas support for identification of growth failure will allow for early detection; and
 - Whereas the MAGIC Foundation for children's growth has designated the third week of September as “Growth Awareness Week”: Now, therefore, be it
 
 That the Senate—
