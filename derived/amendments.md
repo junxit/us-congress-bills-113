@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5120
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `Under Secretary for Science` |
 | Inserted | `Under Secretary for Science and Energy` |
 
-### 42 U.S.C. § 7381a
+### 42 U.S.C. § 7132
 
 > Section 3164(b)(1) of the Department of Energy Science Education Enhancement Act (42 U.S.C. 7381a(b)(1)) is amended by striking “Under Secretary for Science” and inserting “Under Secretary for Science and Energy”.
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `Under Secretary for Science` |
 | Inserted | `Under Secretary for Science and Energy` |
 
-### 42 U.S.C. § 17231
+### 42 U.S.C. § 7132
 
 > Section 641(h)(2) of the United States Energy Storage Competitiveness Act of 2007 (42 U.S.C. 17231(h)(2)) is amended by striking “Under Secretary for Science” and inserting “Under Secretary for Science and Energy”.
 

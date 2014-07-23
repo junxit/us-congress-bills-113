@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5120
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5120
@@ -29,9 +29,10 @@ Department of Energy Laboratory Modernization and Technology Transfer Act of 201
 - Rep. Veasey, Marc A. [D-TX-33] (V000131)
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Department of Energy Laboratory Modernization and Technology Transfer Act of 201
 - 2014-07-22 — Mr. Hultgren moved to suspend the rules and pass the bill, as amended.
 - 2014-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6601-6603)
 - 2014-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6601-6603)
+- 2014-07-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
