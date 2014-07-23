@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2430
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2430
@@ -44,9 +44,10 @@ Hinchliffe Stadium Heritage Act
 - Rep. Turner, Michael R. [R-OH-10] (T000463)
 - Rep. Horsford, Steven [D-NV-4] (H001066)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -67,3 +68,4 @@ Hinchliffe Stadium Heritage Act
 - 2014-07-22 — Mr. Daines moved to suspend the rules and pass the bill, as amended.
 - 2014-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6615-6616)
 - 2014-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6615-6616)
+- 2014-07-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
