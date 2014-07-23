@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3696
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3696
@@ -35,3 +35,16 @@ National Cybersecurity and Critical Infrastructure Protection Act of 2014
 - 2013-12-11 — Referred to the Committee on Homeland Security, and in addition to the Committees on Science, Space, and Technology, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-12-11 — Referred to the Committee on Homeland Security, and in addition to the Committees on Science, Space, and Technology, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-12-11 — Referred to the Committee on Homeland Security, and in addition to the Committees on Science, Space, and Technology, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-01-07 — Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.
+- 2014-01-08 — Referred to the Subcommittee on Research and Technology.
+- 2014-01-15 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2014-01-15 — Subcommittee Consideration and Mark-up Session Held.
+- 2014-02-05 — Committee Consideration and Mark-up Session Held.
+- 2014-02-05 — Ordered to be Reported (Amended) by Voice Vote.
+- 2014-07-23 — Committee on Oversight and Government discharged.
+- 2014-07-23 — Committee on Oversight and Government discharged.
+- 2014-07-23 — Committee on Science, Space, and Technology discharged.
+- 2014-07-23 — Committee on Science, Space, and Technology discharged.
+- 2014-07-23 — Placed on the Union Calendar, Calendar No. 411.
+- 2014-07-23 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-550, Part I.
+- 2014-07-23 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-550, Part I.
