@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5035
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5035
@@ -21,9 +21,10 @@ NIST Reauthorization Act of 2014
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Collins, Chris [R-NY-27] (C001092)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ NIST Reauthorization Act of 2014
 - 2014-07-22 — Mr. Bucshon moved to suspend the rules and pass the bill.
 - 2014-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6597-6599)
 - 2014-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6597-6599)
+- 2014-07-23 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
