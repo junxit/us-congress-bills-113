@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4802
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4802
@@ -22,9 +22,10 @@ Gerardo Hernandez Airport Security Act of 2014
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Gerardo Hernandez Airport Security Act of 2014
 - 2014-07-22 — Mr. Hudson moved to suspend the rules and pass the bill, as amended.
 - 2014-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6607)
 - 2014-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6607)
+- 2014-07-23 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
