@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5135
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5135
@@ -16,7 +16,7 @@ Human Trafficking Prevention, Intervention, and Recovery Act of 2014
 
 - Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
 
-## Cosponsors (29)
+## Cosponsors (37)
 
 - Rep. Paulsen, Erik [R-MN-3] (P000594)
 - Rep. Cramer, Kevin [R-ND-At Large] (C001096)
@@ -47,6 +47,14 @@ Human Trafficking Prevention, Intervention, and Recovery Act of 2014
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 - Rep. Reed, Tom [R-NY-23] (R000585)
 - Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Rigell, E. Scott [R-VA-2] (R000589)
+- Rep. Gibson, Christopher P. [R-NY-19] (G000564)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Olson, Pete [R-TX-22] (O000168)
 
 ## Committees (2)
 
@@ -59,3 +67,10 @@ Human Trafficking Prevention, Intervention, and Recovery Act of 2014
 - 2014-07-17 — Introduced in House
 - 2014-07-17 — Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2014-07-17 — Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-07-18 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2014-07-23 — Considered under suspension of the rules. (consideration: CR H6724-6727)
+- 2014-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5135.
+- 2014-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-23 — Mr. Goodlatte moved to suspend the rules and pass the bill.
+- 2014-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6724-6725)
+- 2014-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6724-6725)
