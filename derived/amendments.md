@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5076
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -44,4 +44,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `22 U.S.C. § 7102` | insert | in subparagraph (A) by inserting “, severe forms of trafficking in persons (as defined in section 103(9) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(9))), and sex trafficking (as defined in section 103(10) of such A… | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 7102` | insert | in subparagraph (B) by inserting “, severe forms of trafficking in persons (as defined in section 103(9) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(9))), and sex trafficking (as defined in section 103(10) of such A… | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 7102` | insert | in subparagraph (C) by inserting “, including such youth who are victims of trafficking (as defined in section 103(15) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(15)))” before the semicolon at the end, and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 7102` | insert | in subparagraph (C) by inserting “, including such youth who are victims of trafficking (as defined in section 103(15) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(15)))” before the semicolon at the end; and | the bill quotes the text inserted but describes where it goes |
