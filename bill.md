@@ -47,46 +47,52 @@ This Act may be cited as the “Strengthening Transparency in Higher Education A
     >       - **(i)** 100 percent of the normal time for completion of, or graduation from, the program in which the student is enrolled;
     >       - **(ii)** 150 percent of the normal time for completion of, or graduation from, the program in which the student is enrolled; and
     >       - **(iii)** 200 percent of the normal time for completion of, or graduation from, the program in which the student is enrolled.
-    >     - **(F)** The average net price per year for undergraduate students and a link to the net price calculator for such institution.
-    >     - **(G)** The average Federal student loan debt incurred by an undergraduate student who has obtained a certificate or degree from the institution and who borrowed Federal student loans in the course of obtaining such certificate or degree.
-    >     - **(H)** A link to national and regional data from the Bureau of Labor Statistics on starting salaries in all major occupations.
-    >     - **(I)** A link to the webpage of the institution containing campus safety data with respect to such institution.
+    >     - **(F)** The average net price per year for undergraduate students receiving Federal student financial aid under title IV based on an income category selected by the user from a list containing the following income categories:
+    >       - **(i)** $0 to $30,000.
+    >       - **(ii)** $30,001 to $48,000.
+    >       - **(iii)** $48,001 to $75,000.
+    >       - **(iv)** $75,001 to $110,000.
+    >       - **(v)** $110, 001 to $150,000.
+    >       - **(vi)** Over $150,000.
+    >     - **(G)** A link to the net price calculator for such institution.
+    >     - **(H)** The percentage of undergraduate students who obtained a certificate or degree from the institution who borrowed Federal student loans and the average Federal student loan debt incurred by an undergraduate student who obtained a certificate or degree from the institution and borrowed Federal student loans in the course of obtaining such certificate or degree.
+    >     - **(I)** A link to national and regional data from the Bureau of Labor Statistics on starting salaries in all major occupations.
+    >     - **(J)** A link to the webpage of the institution containing campus safety data with respect to such institution.
     >   - **(2)** *Additional information* The Secretary shall publish on Internet webpages that are linked to through the College Dashboard website for the most recent academic year for which satisfactory data is available the following information with respect to each institution of higher education that participates in a program under title IV:
     >     - **(A)** *Enrollment*
     >       - **(i)** The percentages of male and female undergraduate students enrolled at the institution.
     >       - **(ii)** The percentages of undergraduate students enrolled at the institution—
     >         - **(I)** full-time; and
     >         - **(II)** less than full-time.
-    >       - **(iii)** Of the undergraduate students enrolled at the institution—
+    >       - **(iii)** In the case of an institution other than an institution that provides all courses and programs through distance education, of the undergraduate students enrolled at the institution—
     >         - **(I)** the percentage of such students who are from the State in which the institution is located;
     >         - **(II)** the percentage of such students who are from other States; and
     >         - **(III)** the percentage of such students who are international students.
-    >       - **(iv)** The percentages of students enrolled at the institution, disaggregated by—
+    >       - **(iv)** The percentages of undergraduate students enrolled at the institution, disaggregated by—
     >         - **(I)** race and ethnic background;
     >         - **(II)** classification as a student with a disability;
     >         - **(III)** recipients of a Federal Pell Grant;
-    >         - **(IV)** recipients of veterans’ education benefits (as defined in section 480); and
+    >         - **(IV)** recipients of assistance under a tuition assistance program conducted by the Department of Defense under section 1784a or 2007 of title 10, United States Code, or other authorities available to the Department of Defense or veterans’ education benefits (as defined in section 480); and
     >         - **(V)** recipients of a Federal student loan.
     >     - **(B)** *Completion* The information required under paragraph (1)(E), disaggregated by—
     >       - **(i)** recipients of a Federal Pell Grant;
     >       - **(ii)** recipients of a loan made under part D (other than a Federal Direct Unsubsidized Stafford Loan) who did not receive a Federal Pell Grant;
     >       - **(iii)** persons who did not receive a Federal Pell Grant or a loan made under part D (other than a Federal Direct Unsubsidized Stafford Loan);
-    >       - **(iv)** race and ethnic background; and
-    >       - **(v)** classification as a student with a disability.
+    >       - **(iv)** race and ethnic background;
+    >       - **(v)** classification as a student with a disability; and
+    >       - **(vi)** recipients of assistance under a tuition assistance program conducted by the Department of Defense under section 1784a or 2007 of title 10, United States Code, or other authorities available to the Department of Defense or veterans’ education benefits (as defined in section 480).
     >     - **(C)** *Costs*
     >       - **(i)** The cost of attendance for full-time undergraduate students enrolled in the institution who live on campus.
     >       - **(ii)** The cost of attendance for full-time undergraduate students enrolled in the institution who live off campus.
     >       - **(iii)** The cost of tuition and fees for full-time undergraduate students enrolled in the institution.
     >       - **(iv)** The cost of tuition and fees per credit hour or credit hour equivalency for undergraduate students enrolled in the institution less than full time.
-    >       - **(v)** In the case of a public institution of higher education and notwithstanding subsection (b)(1), the costs described in clauses (i) and (ii) for—
+    >       - **(v)** In the case of a public institution of higher education (other than an institution described in clause (vi)) and notwithstanding subsection (b)(1), the costs described in clauses (i) and (ii) for—
     >         - **(I)** full-time students enrolled in the institution who are residents of the State in which the institution is located; and
     >         - **(II)** full-time students enrolled in the institution who are not residents of such State.
-    >       - **(vi)** The net price for students receiving Federal student financial aid under title IV, disaggregated by the following income categories for such students:
-    >         - **(I)** $0 to $30,000.
-    >         - **(II)** $30,001 to $48,000.
-    >         - **(III)** $48,001 to $75,000.
-    >         - **(IV)** $75,001 to $110,000.
-    >         - **(V)** Over $110,000.
+    >       - **(vi)** In the case of a public institution of higher education that offers different tuition rates for students who are residents of a geographic subdivision smaller than a State and students not located in such geographic subdivision and notwithstanding subsection (b)(1), the costs described in clauses (i) and (ii) for—
+    >         - **(I)** full-time students enrolled at the institution who are residents of such geographic subdivision;
+    >         - **(II)** full-time students enrolled at the institution who are residents of the State in which the institution is located but not residents of such geographic subdivision; and
+    >         - **(III)** full-time students enrolled at the institution who are not residents of such State.
     >     - **(D)** *Financial aid*
     >       - **(i)** The average annual grant amount (including Federal, State, and institutional aid) awarded to an undergraduate student enrolled at the institution who receives financial aid.
     >       - **(ii)** The percentage of undergraduate students enrolled at the institution receiving Federal, State, and institutional grants, student loans, and any other type of student financial assistance known by the institution, provided publicly or through the institution, such as Federal work-study funds.
@@ -95,8 +101,8 @@ This Act may be cited as the “Strengthening Transparency in Higher Education A
     >       - **(i)** The ratio of the number of course sections taught by part-time instructors to the number of course sections taught by full-time faculty, disaggregated by course sections intended primarily for undergraduate students and course sections intended primarily for graduate students.
     >       - **(ii)** The mean and median years of employment for part-time instructors.
     >   - **(3)** *Other data matters*
-    >     - **(A)** *Completion data* The Commissioner of Education Statistics shall ensure that the information required under paragraph (1)(E) includes information with respect to all students at an institution, including students other than first-time, full-time students, in a manner that the Commissioner considers appropriate.
-    >     - **(B)** *Adjustment of income categories* The Secretary may annually adjust the range of each of the income categories described in paragraph (2)(C)(vi) to account for a change in the Consumer Price Index for All Urban Consumers as determined by the Bureau of Labor Statistics if the Secretary determines an adjustment is necessary.
+    >     - **(A)** *Completion data* The Commissioner of Education Statistics shall ensure that the information required under paragraph (1)(E) includes information with respect to all students at an institution, including students other than first-time, full-time students and students who transfer to another institution, in a manner that the Commissioner considers appropriate.
+    >     - **(B)** *Adjustment of income categories* The Secretary may annually adjust the range of each of the income categories described in paragraph (1)(F) to account for a change in the Consumer Price Index for All Urban Consumers as determined by the Bureau of Labor Statistics if the Secretary determines an adjustment is necessary.
     >   - **(4)** *Institutional comparison* The Secretary shall include on the College Dashboard website a method for users to easily compare the information required under paragraphs (1) and (2) between institutions.
     >   - **(5)** *Updates*
     >     - **(A)** *Data* The Secretary shall update the College Dashboard website not less than annually.
@@ -109,7 +115,7 @@ This Act may be cited as the “Strengthening Transparency in Higher Education A
     >   - **(9)** *References to College Navigator website* Any reference in this Act to the College Navigator website shall be considered a reference to the College Dashboard website.
 
 - **(b)** *Conforming amendments* The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by subsection (a) of this section, is further amended—
-  - **(1)** in section 131(h)(1) (20 U.S.C. 1015(h)(1)), by striking “College Navigator” and inserting “College Dashboard”; and
+  - **(1)** in section 131(h) (20 U.S.C. 1015(h)), by striking “College Navigator” and inserting “College Dashboard”; and
   - **(2)** in section 132(a) (20 U.S.C. 1015a(a)), by striking paragraph (1) and inserting the following new paragraph:
     > - **(1)** *College Dashboard website* The term “College Dashboard website” means the College Dashboard website required under subsection (d).
 
@@ -139,7 +145,7 @@ Subsection (c) of section 132 of the Higher Education Act of 1965 (20 U.S.C. 101
   >     - **(vi)** In the case of a calculator that—
   >       - **(I)** includes questions to estimate the eligibility of a student or prospective student for veterans’ education benefits (as defined in section 480) or educational benefits for active duty service members, such benefits are displayed on the results screen in a manner that clearly distinguishes such benefits from the grant aid described in clause (iii); or
   >       - **(II)** does not include questions to estimate eligibility for the benefits described in subclause (I), the results screen indicates that certain students (or prospective students) may qualify for such benefits and includes a link to information about such benefits.
-  >   - **(C)** The institution shall populate the calculator with data from not later than 2 academic years prior to the most recent academic year.
+  >   - **(C)** The institution shall populate the calculator with data from an academic year that is not more than 2 academic years prior to the most recent academic year.
   > - **(5)** *Prohibition on use of data collected by the net price calculator* A net price calculator for an institution of higher education shall—
   >   - **(A)** clearly indicate which questions are required to be completed for an estimate of the net price from the calculator;
   >   - **(B)** in the case of a calculator that requests contact information from users, clearly mark such requests as optional and provide for an estimate of the net price from the calculator without requiring users to enter such information; and

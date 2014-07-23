@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4983
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4983
@@ -50,3 +50,9 @@ Strengthening Transparency in Higher Education Act
 - 2014-07-17 — Placed on the Union Calendar, Calendar No. 396.
 - 2014-07-17 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-530.
 - 2014-07-17 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-530.
+- 2014-07-23 — Considered under suspension of the rules. (consideration: CR H6679-6683)
+- 2014-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4983.
+- 2014-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-23 — Ms. Foxx moved to suspend the rules and pass the bill, as amended.
+- 2014-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6680-6681)
+- 2014-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6680-6681)
