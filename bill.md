@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2283
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,7 +18,7 @@ This Act may be cited as the “Human Trafficking Prioritization Act”.
 Congress finds the following:
 
 - **(1)** The International Labor Organization estimates that nearly 21,000,000 people are subjected to modern slavery around the world at any given time and that the majority of the enslaved are women and girls.
-- **(2)** Congress authorized the creation of a Department of State Office to Monitor and Combat Trafficking in Persons in the Trafficking Victims Protection Act of 2000 (Public Law 106–386) in order to directly assist the Secretary of State in his or her effort to coordinate a United States Government interagency response to domestic and international trafficking in persons.
+- **(2)** Congress authorized the creation of a Department of State Office to Monitor and Combat Trafficking in Persons in the Trafficking Victims Protection Act of 2000 (division A of Public Law 106–386) in order to directly assist the Secretary of State in his or her effort to coordinate a United States Government interagency response to domestic and international trafficking in persons.
 - **(3)** The Office to Monitor and Combat Trafficking in Persons monitors trafficking worldwide and produces the online and printed versions of the annual Trafficking in Persons Report, which is Congress’ primary resource for human trafficking reporting, analysis, and recommendations on the United States and 186 countries around the world.
 - **(4)** The annual Trafficking in Persons Report contains tier rankings of each country on which it reports, and these tier rankings have become an essential diplomatic tool for promoting protection for victims, prevention of trafficking, and prosecution of perpetrators.
 - **(5)** Some countries have openly stated, and many others have confided, that dramatic improvements in the country’s human trafficking record were directly related to avoidance of a low tier ranking in the annual Trafficking in Persons Report.
@@ -31,31 +31,42 @@ Congress finds the following:
 
 ## § 3. Sense of Congress
 
-It is the Sense of Congress that—
+It is the sense of Congress that—
 
 - **(1)** the Office to Monitor and Combat Trafficking of the Department of State will be more effective in carrying out duties mandated by Congress in the Trafficking Victims Protection Act of 2000 if the Office status is changed to that of a Bureau within the Department hierarchy;
-- **(2)** the Office to Monitor and Combat Trafficking will be more effective in carrying out duties mandated by Congress in the Trafficking Victims Protection Act of 2000 if the Office is headed by an Assistant Secretary with direct access to the Secretary of State, rather than an Ambassador-at-Large; and
-- **(3)** the change in status from Office to Monitor and Combat Trafficking with an Ambassador-at-Large to a Bureau led by an Assistant Secretary can be accomplished without increasing the number of personnel or the budget of the current Office.
+- **(2)** the change in status from Office to Monitor and Combat Trafficking to a Bureau can be accomplished without increasing the number of personnel or the budget of the current Office;
+- **(3)** a Bureau to Monitor and Combat Trafficking would be more effective in carrying out duties mandated by Congress in the Trafficking Victims Protection Act of 2000 if the Bureau were headed by an Assistant Secretary with direct access to the Secretary of State, rather than an Ambassador-at-Large; and
+- **(4)** the Secretary of State should review the current use of the 24 Assistant Secretary positions authorized by section 1(c)(1) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a(c)(1)) and make appropriate revisions, consolidations, and eliminations, to ensure that those positions reflect the highest Departmental needs and foreign policy priorities of the United States, including efforts to combat trafficking in persons.
 
-## § 4. Office to Combat Trafficking in Persons
+## § 4. Bureau to Combat Trafficking in Persons
 
 - **(a)** *In general* Section 105(e) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7103(e)) is amended—
   - **(1)** in the heading, by striking “Office to Monitor and Combat Trafficking” and inserting “Bureau to Combat Trafficking in Persons”;
   - **(2)** in paragraph (1)—
     - **(A)** in the first sentence, by striking “Office to Monitor and Combat Trafficking” and inserting “Bureau to Combat Trafficking in Persons”;
-    - **(B)** in the second sentence,—
-      - **(i)** by striking “Office” and inserting “Bureau”;
-      - **(ii)** by striking “Director” and inserting “Assistant Secretary of State”; and
-      - **(iii)** by striking “, with the rank of Ambassador-at-Large”; and
-    - **(C)** in the third sentence, by striking “Director” and inserting “Assistant Secretary of State”;
-    - **(D)** in the fourth sentence, by striking “Director” and inserting “Assistant Secretary of State”;
-    - **(E)** in the fifth sentence, by striking “Director” and inserting “Assistant Secretary of State”; and
-    - **(F)** in the sixth sentence, by striking “Office” and inserting “Bureau”; and
-  - **(3)** in paragraph (2)—
-    - **(A)** in subparagraph (A), by striking “Office to Monitor and Combat Trafficking” and inserting “Bureau to Combat Trafficking in Persons”; and
-    - **(B)** in subparagraph (B), by striking “Director” and inserting “Assistant Secretary of State”.
-- **(b)** *Conforming amendments*
-  - **(1)** *In general* Any reference in the Trafficking Victims Protection Act of 2000 or in any other Act to—
-    - **(A)** the Office to Monitor and Combat Trafficking shall be deemed to be a reference to the Bureau to Combat Trafficking in Persons; and
-    - **(B)** the Director or Ambassador-at-Large of the Office to Monitor and Combat Trafficking in Persons shall be deemed to be a reference to the Assistant Secretary directing the Bureau to Combat Trafficking in Persons.
-  - **(2)** *State Department Basic Authorities Act of 1956* Section 1(c)(1) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a(c)(1)) is amended, in the first sentence, by striking “24” and inserting “25”.
+    - **(B)** in the second sentence, by striking “Office” and inserting “Bureau”; and
+    - **(C)** in the sixth sentence, by striking “Office” and inserting “Bureau”; and
+  - **(3)** in subparagraph (A) of paragraph (2), by striking “Office to Monitor and Combat Trafficking” and inserting “Bureau to Combat Trafficking in Persons”.
+- **(b)** *Reference* Any reference in the Trafficking Victims Protection Act of 2000 or in any other Act to the Office to Monitor and Combat Trafficking shall be deemed to be a reference to the Bureau to Combat Trafficking in Persons.
+
+## § 5. Report regarding designation of Assistant Secretary of State to Combat Trafficking in Persons
+
+Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report detailing—
+
+- **(1)** for each current Assistant Secretary of State position—
+  - **(A)** the title of that Assistant Secretary of State;
+  - **(B)** how long that particular Assistant Secretary designation has been in existence; and
+  - **(C)** whether that particular Assistant Secretary designation was legislatively mandated or authorized and, if so, the relevant statutory citation for such mandate or authorization; and
+- **(2)** whether the Secretary intends to designate one of the Assistant Secretary of State positions authorized by section 1(c)(1) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a(c)(1)) as the Assistant Secretary of State to Combat Trafficking in Persons, and the reasons for that decision.
+
+## § 6. Countries on special watch list for 4 consecutive years that are downgraded and reinstated on special watch list
+
+Section 110(b)(2) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107(b)(2)) is amended by adding at the end the following:
+
+> - **(F)** *Countries on special watch list for 4 consecutive years that are downgraded and reinstated on special watch list* Notwithstanding subparagraphs (D) and (E), a country that—
+>   - **(i)** was included on the special watch list described in subparagraph (A) for 4 consecutive years after the date of the enactment of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008; and
+>   - **(ii)** was subsequently included on the list of countries described in paragraph (1)(C),
+
+## § 7. Cost limitation
+
+No additional funds are authorized to be appropriated for “Diplomatic and Consular Programs” to carry out the provisions of this Act.

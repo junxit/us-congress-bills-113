@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2283
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 11 executed, 1 stated and not applied.
+6 amendatory instructions. 5 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,48 +44,12 @@ to guess them.
 
 ### 22 U.S.C. § 7103
 
-> by striking “Office” and inserting “Bureau”;
+> in the second sentence, by striking “Office” and inserting “Bureau”; and
 
 | | |
 |---|---|
 | Removed | `Office` |
 | Inserted | `Bureau` |
-
-### 22 U.S.C. § 7103
-
-> by striking “Director” and inserting “Assistant Secretary of State”; and
-
-| | |
-|---|---|
-| Removed | `Director` |
-| Inserted | `Assistant Secretary of State` |
-
-### 22 U.S.C. § 7103
-
-> in the third sentence, by striking “Director” and inserting “Assistant Secretary of State”;
-
-| | |
-|---|---|
-| Removed | `Director` |
-| Inserted | `Assistant Secretary of State` |
-
-### 22 U.S.C. § 7103
-
-> in the fourth sentence, by striking “Director” and inserting “Assistant Secretary of State”;
-
-| | |
-|---|---|
-| Removed | `Director` |
-| Inserted | `Assistant Secretary of State` |
-
-### 22 U.S.C. § 7103
-
-> in the fifth sentence, by striking “Director” and inserting “Assistant Secretary of State”; and
-
-| | |
-|---|---|
-| Removed | `Director` |
-| Inserted | `Assistant Secretary of State` |
 
 ### 22 U.S.C. § 7103
 
@@ -98,30 +62,12 @@ to guess them.
 
 ### 22 U.S.C. § 7103
 
-> in subparagraph (A), by striking “Office to Monitor and Combat Trafficking” and inserting “Bureau to Combat Trafficking in Persons”; and
+> in subparagraph (A) of paragraph (2), by striking “Office to Monitor and Combat Trafficking” and inserting “Bureau to Combat Trafficking in Persons”.
 
 | | |
 |---|---|
 | Removed | `Office to Monitor and Combat Trafficking` |
 | Inserted | `Bureau to Combat Trafficking in Persons` |
-
-### 22 U.S.C. § 7103
-
-> in subparagraph (B), by striking “Director” and inserting “Assistant Secretary of State”.
-
-| | |
-|---|---|
-| Removed | `Director` |
-| Inserted | `Assistant Secretary of State` |
-
-### 22 U.S.C. § 2651a
-
-> Section 1(c)(1) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a(c)(1)) is amended, in the first sentence, by striking “24” and inserting “25”.
-
-| | |
-|---|---|
-| Removed | `24` |
-| Inserted | `25` |
 
 ## Stated, not applied
 
@@ -132,4 +78,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 7103` | strike | by striking “, with the rank of Ambassador-at-Large”; and | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 7107` | add-at-end | Section 110(b)(2) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107(b)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
