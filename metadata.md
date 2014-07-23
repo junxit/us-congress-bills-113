@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3716
 congress: 113
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3716
@@ -44,3 +44,12 @@ Pyramid Lake Paiute Tribe - Fish Springs Ranch Settlement Act
 - 2014-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6613-6615)
 - 2014-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6613-6615)
 - 2014-07-23 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 484.
+- 2014-09-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5862)
+- 2014-09-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5862)
+- 2014-09-19 — Message on Senate action sent to the House.
+- 2014-09-23 — Presented to President.
+- 2014-09-23 — Presented to President.
+- 2014-09-26 — Became Public Law No: 113-169.
+- 2014-09-26 — Became Public Law No: 113-169.
+- 2014-09-26 — Signed by President.
+- 2014-09-26 — Signed by President.
