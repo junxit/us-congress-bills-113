@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4411
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4411
@@ -340,10 +340,11 @@ Hezbollah International Financing Prevention Act of 2014
 - Rep. Hastings, Alcee L. [D-FL-20] (H000324)
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Foreign Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -370,3 +371,4 @@ Hezbollah International Financing Prevention Act of 2014
 - 2014-07-22 — Placed on the Union Calendar, Calendar No. 409.
 - 2014-07-22 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 113-543, Part I.
 - 2014-07-22 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 113-543, Part I.
+- 2014-07-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
