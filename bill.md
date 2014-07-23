@@ -21,8 +21,16 @@ This Act may be cited as the “Advancing Competency-Based Education Demonstrati
   > - **(a)** *Demonstration projects authorized* The Secretary shall select, in accordance with subsection (c), eligible entities to voluntarily carry out competency-based education demonstration projects and receive waivers described in subsection (d) to carry out such projects.
   > - **(b)** *Application*
   >   - **(1)** *In general* Each eligible entity desiring to carry out a demonstration project under this section shall submit an application to the Secretary, at such time and in such manner as the Secretary may require.
-  >   - **(2)** *Amendments* An eligible entity may submit to the Secretary amendments to the eligible entity’s application under paragraph (1), at such time and in such manner as the Secretary may require, which the Secretary shall approve or deny within 15 days of receipt.
-  >   - **(3)** *Contents* Each application shall include—
+  >   - **(2)** *Outreach* The Secretary shall, prior to any deadline to submit applications under paragraph (1), conduct outreach to historically Black colleges and universities, Hispanic-serving institutions, Native American-serving, nontribal institutions, institutions serving students with special needs, and institutions located in rural areas to provide those institutions with information on the opportunity to apply to carry out a demonstration project under this section.
+  >   - **(3)** *Amendments*
+  >     - **(A)** *In General* An eligible entity that has been selected to carry out a demonstration project under this section may submit to the Secretary amendments to the eligible entity’s approved application under paragraph (1), at such time and in such manner as the Secretary may require, which the Secretary shall approve or deny within 15 days of receipt.
+  >     - **(B)** *Expanding enrollment* Notwithstanding the assurance required with respect to maximum enrollment under paragraph (3)(H)—
+  >       - **(i)** an eligible entity whose demonstration project has been evaluated under subsection (f)(2) not less than twice may submit to the Secretary an amendment to the eligible entity’s application under paragraph (1) to increase enrollment in the project to more than 3,000 students, but not more than 5,000 students, and which shall specify—
+  >         - **(I)** the proposed maximum enrollment or annual enrollment growth for the project;
+  >         - **(II)** how the eligible entity will successfully carry out the project with such maximum enrollment or enrollment growth; and
+  >         - **(III)** any other amendments to the eligible entity’s application under paragraph (1) that are related to such maximum enrollment or enrollment growth; and
+  >       - **(ii)** the Secretary shall determine whether to approve or deny an amendment submitted under clause (i) for a demonstration project based on the project’s evaluations under subsection (f)(2).
+  >   - **(4)** *Contents* Each application shall include—
   >     - **(A)** a description of the competency-based education to be offered by the eligible entity under the demonstration project;
   >     - **(B)** a description of the proposed academic delivery, business, and financial models for the demonstration project, including explanations of how competency-based education offered under the demonstration project would—
   >       - **(i)** result in the achievement of competencies;
@@ -34,10 +42,11 @@ This Act may be cited as the “Advancing Competency-Based Education Demonstrati
   >     - **(F)** a description of how the eligible entity will develop and evaluate the competencies and assessments of student knowledge (which may include prior-learning assessments) administered as part of the demonstration project, including how such competencies and assessments are aligned with workforce needs;
   >     - **(G)** a description of the proposal for determining a student’s Federal student aid eligibility under this title for participating in the demonstration project, the award and distribution of such aid, and safeguards to ensure that students are making satisfactory progress that warrants disbursement of such aid;
   >     - **(H)** a description of the students to whom competency-based education will be offered, including an assurance that the demonstration project will enroll a minimum of 50 and a maximum of 3,000 students;
-  >     - **(I)** an assurance that students participating in the demonstration project will not be eligible for more Federal assistance under this title than such students would have been eligible for under a traditional program; and
-  >     - **(J)** an assurance the eligible entity will identify and disseminate best practices with respect to the demonstration project to other eligible entities carrying out a demonstration project under this section.
+  >     - **(I)** an assurance that students participating in the demonstration project will not be eligible for more Federal assistance under this title than such students would have been eligible for under a traditional program;
+  >     - **(J)** an assurance the eligible entity will identify and disseminate best practices with respect to the demonstration project to other eligible entities carrying out a demonstration project under this section; and
+  >     - **(K)** A description of the population of students served by the eligible entity that are veterans or members of the Armed Forces and how such eligible entity will, when appropriate, incorporate the specific needs of such population when carrying out the demonstration project.
   > - **(c)** *Selection*
-  >   - **(1)** *In general* Not later than 6 months after the date of enactment of this section, the Secretary shall select not more than 20 eligible entities to carry out a competency-based education demonstration project under this section.
+  >   - **(1)** *In general* Not later than 6 months after the date of enactment of this section, the Secretary shall select not more than 30 eligible entities to carry out a competency-based education demonstration project under this section.
   >   - **(2)** *Considerations* In selecting eligible entities under paragraph (1), the Secretary shall—
   >     - **(A)** prioritize projects which show promise in reducing the time or cost required to complete a degree, certificate, or credential;
   >     - **(B)** consider the number and quality of applications received;
@@ -68,7 +77,7 @@ This Act may be cited as the “Advancing Competency-Based Education Demonstrati
   >   - **(2)** a description of the competency-based education programs of study or courses of study to be offered under the project.
   > - **(f)** *Information and evaluation*
   >   - **(1)** *Information*
-  >     - **(A)** *In general* Each eligible entity that carries out a demonstration project under this section shall provide to the Director of the Institution of Education Sciences with respect to the students participating in the competency-based education project carried out by the eligible entity the following information:
+  >     - **(A)** *In general* Each eligible entity that carries out a demonstration project under this section shall provide to the Director of the Institute of Education Sciences with respect to the students participating in the competency-based education project carried out by the eligible entity the following information:
   >       - **(i)** The average number of credit hours the students earned prior to enrollment in the demonstration project, if applicable.
   >       - **(ii)** The number and percentage of students participating in the demonstration project that are also enrolled in programs of study or courses of study offered in credit hours or clock hours, disaggregated by student status as a first-year, second-year, third-year, fourth-year, or other student.
   >       - **(iii)** The average period of time between the enrollment of a student in the demonstration project and the first assessment of student knowledge of such student.
@@ -77,7 +86,10 @@ This Act may be cited as the “Advancing Competency-Based Education Demonstrati
   >       - **(vi)** The percentage of assessments of student knowledge that students passed on the second attempt and the average period of time between the first and second attempts by students, during the period of the participation in the demonstration project by the students.
   >       - **(vii)** The average number of competencies a student acquired while participating in the demonstration project and the period of time during which the student acquired such competencies.
   >       - **(viii)** Such other information as the Director may reasonably require.
-  >     - **(B)** *Disaggregation* Each eligible entity shall provide the information required under subparagraph (A) disaggregated by age, race, gender, disability status, and status as a recipient of a Federal Pell Grant, provided that the disaggregation of the information does not identify any individual student participating in the demonstration project.
+  >     - **(B)** *Employment data*
+  >       - **(i)** *In general* Each eligible entity that carries out a demonstration project under this section may provide to the Director of the Institute of Education Sciences with respect to the students participating in the competency-based education project carried out by the eligible entity the number and percentage of students completing a competency-based education program or course of study offered by such eligible entity who find employment in a field related to the program or course of study of such students.
+  >       - **(ii)** *Technical assistance* The Director of the Institute of Education Sciences shall, at the request of an eligible entity, provide technical assistance to such eligible entity to assist such eligible entity in collecting and reporting accurate information relating to the employment of students participating in a competency-based education project carried out by such eligible entity.
+  >     - **(C)** *Disaggregation* Each eligible entity shall provide the information required under subparagraph (A) disaggregated by age, race, gender, disability status, and status as a recipient of a Federal Pell Grant, provided that the disaggregation of the information does not identify any individual student participating in the demonstration project.
   >   - **(2)** *Evaluation* The Director of the Institute of Education Sciences, in consultation with the Secretary, shall annually evaluate each demonstration project under this section. Each evaluation shall include—
   >     - **(A)** the extent to which the eligible entity has met the goals set forth in its application to the Secretary;
   >     - **(B)** the number and types of students participating in the competency-based education offered under the project, including the progress of participating students toward completion of a degree, certificate, or credential, and the extent to which participation and retention in such project increased;
@@ -99,17 +111,50 @@ This Act may be cited as the “Advancing Competency-Based Education Demonstrati
   > - **(g)** *Oversight* In carrying out this section, the Secretary shall, on a continuing basis—
   >   - **(1)** assure compliance of eligible entities with the requirements of this title (other than the provisions of law and regulations that are waived under subsection (d));
   >   - **(2)** provide technical assistance;
-  >   - **(3)** monitor fluctuations in the student population enrolled in the eligible entities carrying out the demonstration projects under this section; and
-  >   - **(4)** consult with appropriate accrediting agencies or associations and appropriate State regulatory authorities for additional ways of improving the delivery of competency-based education.
-  > - **(h)** *Definitions* For the purpose of this section:
+  >   - **(3)** monitor fluctuations in the student population enrolled in the eligible entities carrying out the demonstration projects under this section;
+  >   - **(4)** consult with appropriate accrediting agencies or associations and appropriate State regulatory authorities for additional ways of improving the delivery of competency-based education; and
+  >   - **(5)** collect and disseminate to eligible entities carrying out a demonstration project under this section, best practices with respect to demonstration projects under this section.
+  > - **(h)** *Disclosure of authorization to sell student data* An eligible entity carrying out a demonstration project under this section shall ensure that each institution of higher education of the eligible entity provides to each student, or the parents of each minor student, enrolled in the institution of higher education—
+  >   - **(1)** a disclosure letter, which describes the personally identifiable information of the student that may be sold by a person with whom the institution of higher education has an agreement to provide software applications for students; and
+  >   - **(2)** an option to opt-out of such personally identifiable information from being sold.
+  > - **(i)** *Definitions* For the purpose of this section:
   >   - **(1)** *Competency-based education* The term “competency-based education” means an educational process or program that measures knowledge, skills, and experience through assessments of such knowledge, skills, or experience in place of or in addition to the use of credit hours or clock hours.
   >   - **(2)** *Eligible entity* The term “eligible entity” means—
-  >     - **(A)** an institution of higher education;
+  >     - **(A)** an institution of higher education including an institution of higher education that offers a dual-enrollment program under which a secondary school student is able simultaneously to earn credit toward a secondary school diploma and a postsecondary degree, certificate, or credential;
   >     - **(B)** a system of institutions of higher education; or
   >     - **(C)** a consortium of institutions of higher education.
   >   - **(3)** *Institution of higher education* The term “institution of higher education” has the meaning given the term in section 102, except that such term does not include institutions described in section 102(a)(1)(C).
 
 - **(b)** *Rule of construction* Nothing in this Act or the amendments made by this Act shall be construed to alter the authority of the Secretary of Education to establish experimental sites under any other provision of law.
-- **(c)** *Funding*
+- **(c)** *Report* The Secretary of Education shall report to Congress, every 10 years, on the needs of limited English proficient students using the Free Application for Federal Student Aid.
+- **(d)** *Funding*
   - **(1)** *Use of existing funds* Of the amount authorized to be appropriated for salaries and expenses of the Department of Education, $1,000,000 shall be available to carry out this Act and the amendments made by this Act.
   - **(2)** *No additional funds authorized* No funds are authorized to be appropriated by this Act to carry out this Act or the amendments made by this Act.
+
+## § 3. Higher Education Regulatory Reform Task Force
+
+- **(a)** *Task Force established* Not later than 2 months after the date of enactment of this Act, the Secretary of Education shall establish the Higher Education Regulatory Reform Task Force.
+- **(b)** *Membership* The Higher Education Regulatory Reform Task Force shall include—
+  - **(1)** the Secretary of Education or the Secretary’s designee;
+  - **(2)** a representative of the Advisory Committee on Student Financial Assistance established under section 491 of the Higher Education Act of 1965 (20 U.S.C. 1098); and
+  - **(3)** representatives from the higher education community, including—
+    - **(A)** institutions of higher education, with equal representation of public and private nonprofit institutions, and two-year and four-year institutions, and with not less than 25 percent of such representative institutions carrying out distance education programs; and
+    - **(B)** nonprofit organizations representing institutions of higher education.
+- **(c)** *Activities*
+  - **(1)** *Report required* Not later than 6 months after the date of enactment of this Act, the Secretary of Education shall submit to Congress and make available on a publicly available website a report (in this section referred to as the Higher Education Regulatory Reform Report) prepared by the Higher Education Regulatory Reform Task Force on Department of Education regulatory requirements for institutions of higher education described in paragraph (2).
+  - **(2)** *Contents of report* The Higher Education Regulatory Reform Report shall contain the following with respect to Department of Education regulatory requirements for institutions of higher education:
+    - **(A)** A list of rules that are determined to be outmoded, duplicative, ineffective, or excessively burdensome.
+    - **(B)** For each rule listed in accordance with subparagraph (A) and that is in effect at the time of the review under subparagraph (A), an analysis of whether the costs outweigh the benefits for such rule.
+    - **(C)** Recommendations to consolidate, modify, simplify, or repeal such rules to make such rules more effective or less burdensome.
+    - **(D)** A description of the justification for and impact of the recommendations described in subparagraph (C), as appropriate and available, including supporting data for such justifications and the financial impact of such recommendations on institutions of higher education of varying sizes and types.
+    - **(E)** Recommendations on the establishment of a permanent entity to review new Department of Education regulatory requirements affecting institutions of higher education.
+  - **(3)** *Notice and comment* At least 30 days before submission of the Higher Education Regulatory Reform Report required under paragraph (1), the Secretary of Education shall publish the report in the Federal Register for public notice and comment. The Higher Education Regulatory Reform Task Force may modify the report in response to any comments received before submission of the report to Congress.
+- **(d)** *Definition of institution of higher education* For the purposes of this section, the term institution of higher education has the meaning given such term in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002), except that such term does not include institutions described in subsection (a)(1)(C) of such section 102.
+
+## § 4. Study on use of individual income tax returns as primary application for federal student aid
+
+Section 483 of the Higher Education Act of 1965 (20 U.S.C. 1090) is amended by adding at the end the following new subsection:
+
+> - **(i)** *Study on use of individual income tax returns as primary application for federal student aid*
+>   - **(4)** *Study* The Secretary of Education, in consultation with the Commissioner of Internal Revenue, shall conduct a study on the feasibility and advantages and disadvantages of using individual income tax returns as the primary form of application for student aid under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.).
+>   - **(5)** *Report* Not later than one year after the date of the enactment of this subsection, the Secretary, in consultation with the Commissioner, shall submit to Congress a report containing the results of the study conducted under subsection (a).
