@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4812
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4812
@@ -47,3 +47,14 @@ Honor Flight Act
 - 2014-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6610)
 - 2014-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6610)
 - 2014-07-23 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2014-12-04 — Passed Senate without amendment by Unanimous Consent.
+- 2014-12-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-12-04 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S6354)
+- 2014-12-04 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S6354)
+- 2014-12-08 — Message on Senate action sent to the House.
+- 2014-12-09 — Presented to President.
+- 2014-12-09 — Presented to President.
+- 2014-12-16 — Became Public Law No: 113-221.
+- 2014-12-16 — Became Public Law No: 113-221.
+- 2014-12-16 — Signed by President.
+- 2014-12-16 — Signed by President.
