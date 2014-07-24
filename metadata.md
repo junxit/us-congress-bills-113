@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3136
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3136
@@ -29,9 +29,10 @@ Advancing Competency-Based Education Demonstration Project Act of 2014
 - Rep. Miller, George [D-CA-11] (M000725)
 - Rep. Kline, John [R-MN-2] (K000363)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (3)
 
@@ -157,3 +158,4 @@ Advancing Competency-Based Education Demonstration Project Act of 2014
 - 2014-07-23 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6701)
 - 2014-07-23 — The previous question was ordered pursuant to the rule. (consideration: CR H6700)
 - 2014-07-23 — The resolution provides a structured rule for H.R. 3136 and H.R. 4984. Both bills are debatable for one hour. The resolution provides for certain amendments to be in order. One motion to recommit with or without instructions is allowed for each bill.
+- 2014-07-24 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
