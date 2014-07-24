@@ -21,24 +21,30 @@ Section 485(l) of the Higher Education Act of 1965 (20 U.S.C. 1092(l)) is amende
 >   - **(1)** *Annual disclosure required*
 >     - **(A)** *In general* Each eligible institution shall ensure that each individual who receives a Federal Pell Grant or a loan made under part D (other than a Federal Direct Consolidation Loan) receives comprehensive information on the terms and conditions of such Federal Pell Grant or loan and the responsibilities the individual has with respect to such Federal Pell Grant or loan. Such information shall be provided, for each award year for which the individual receives such Federal Pell Grant or loan, in a simple and understandable manner—
 >       - **(i)** during a counseling session conducted in person;
->       - **(ii)** online, with the borrower acknowledging receipt of the information; or
+>       - **(ii)** online, with the individual acknowledging receipt of the information; or
 >       - **(iii)** through the use of the online counseling tool described in subsection (n)(1)(B).
 >     - **(B)** *Use of interactive programs* In the case of institutions not using the online counseling tool described in subsection (n)(1)(B), the Secretary shall require such institutions to carry out the requirements of subparagraph (A) through the use of interactive programs, during an annual counseling session that is in-person or online, that test the individual’s understanding of the terms and conditions of the Federal Pell Grant or loan awarded to the student, using simple and understandable language and clear formatting.
 >   - **(2)** *All individuals* The information to be provided under paragraph (1)(A) to each individual receiving counseling under this subsection shall include the following:
 >     - **(A)** An explanation of how the student may budget for typical educational expenses and a sample budget based on the cost of attendance for the institution.
 >     - **(B)** An explanation that an individual has a right to annually request a disclosure of information collected by a consumer reporting agency pursuant to section 612(a) of the Fair Credit Reporting Act (15 U.S.C. 1681j(a)).
+>     - **(C)** Based on the most recent data available from the American Community Survey available from the Department of Commerce, the estimated average income and percentage of employment in the State of domicile of the borrower for persons with—
+>       - **(i)** a high school diploma or equivalent;
+>       - **(ii)** some post-secondary education without completion of a degree or certificate; and
+>       - **(iii)** a bachelor’s degree.
+>     - **(D)** An introduction to the financial management resources provided by the Financial Literacy and Education Commission.
 >   - **(3)** *Students receiving Federal Pell Grants* The information to be provided under paragraph (1)(A) to each student receiving a Federal Pell Grant shall include the following:
 >     - **(A)** An explanation of the terms and conditions of the Federal Pell Grant.
 >     - **(B)** An explanation of approved educational expenses for which the student may use the Federal Pell Grant.
 >     - **(C)** An explanation of why the student may have to repay the Federal Pell Grant.
 >     - **(D)** An explanation of the maximum number of semesters or equivalent for which the student may be eligible to receive a Federal Pell Grant, and a statement of the amount of time remaining for which the student may be eligible to receive a Federal Pell Grant.
->     - **(E)** An explanation of how the student may seek additional financial assistance from the institution’s financial aid office due to a change in the student’s financial circumstances, and the contact information for such office.
+>     - **(E)** An explanation that if the student transfers to another institution not all of the student’s courses may be acceptable in transfer toward meeting specific degree or program requirements at such institution, but the amount of time remaining for which a student may be eligible to receive a Federal Pell Grant, as provided under subparagraph (D), will not change.
+>     - **(F)** An explanation of how the student may seek additional financial assistance from the institution’s financial aid office due to a change in the student’s financial circumstances, and the contact information for such office.
 >   - **(4)** *Borrowers receiving loans made under part D (other than Parent PLUS Loans)* The information to be provided under paragraph (1)(A) to a borrower of a loan made under part D (other than a Federal Direct PLUS Loan made on behalf of a dependent student) shall include the following:
 >     - **(A)** To the extent practicable, the effect of accepting the loan to be disbursed on the eligibility of the borrower for other forms of student financial assistance.
 >     - **(B)** An explanation of the use of the master promissory note.
 >     - **(C)** An explanation that the borrower is not required to accept the full amount of the loan offered to the borrower.
 >     - **(D)** An explanation that the borrower should consider accepting any grant, scholarship, or State or Federal work-study jobs for which the borrower is eligible prior to accepting Federal student loans.
->     - **(E)** A recommendation to the borrower to exhaust the borrower’s Federal student loan options prior to taking out private loans, an explanation that Federal student loans typically offer better terms and conditions than private loans, and an explanation that if a borrower decides to take out a private education loan—
+>     - **(E)** A recommendation to the borrower to exhaust the borrower’s Federal student loan options prior to taking out private loans, an explanation that Federal student loans typically offer better terms and conditions than private loans, an explanation of treatment of loans made under part D and private education loans in bankruptcy, and an explanation that if a borrower decides to take out a private education loan—
 >       - **(i)** the borrower has the ability to select a private educational lender of the borrower’s choice;
 >       - **(ii)** the proposed private education loan may impact the borrower’s potential eligibility for other financial assistance, including Federal financial assistance under this title; and
 >       - **(iii)** the borrower has a right—
@@ -50,11 +56,12 @@ Section 485(l) of the Higher Education Act of 1965 (20 U.S.C. 1092(l)) is amende
 >     - **(I)** In the case of a Federal Direct PLUS Loan or a Federal Direct Unsubsidized Stafford Loan, the option of the borrower to pay the interest while the borrower is in school.
 >     - **(J)** The definition of half-time enrollment at the institution, during regular terms and summer school, if applicable, and the consequences of not maintaining at least half-time enrollment.
 >     - **(K)** An explanation of the importance of contacting the appropriate offices at the institution of higher education if the borrower withdraws prior to completing the borrower's program of study so that the institution can provide exit counseling, including information regarding the borrower's repayment options and loan consolidation.
->     - **(L)** For a first-time borrower, the anticipated monthly payment amount under, at minimum, a standard repayment plan and, using the regionally available data from the Bureau of Labor Statistics of the average starting salary for the occupation the borrower intends to be employed, an income-based repayment plan under section 493C, and based on—
->       - **(i)** a range of levels of indebtedness of—
->         - **(I)** borrowers of Federal Direct Stafford Loans or Federal Direct Unsubsidized Stafford Loans; and
->         - **(II)** as appropriate, graduate borrowers of Federal Direct PLUS Loans or Federal Direct Unsubsidized Stafford Loans; or
->       - **(ii)** the average cumulative indebtedness at graduation for students who borrowed loans made under part D and who are in the same program of study as the borrower.
+>     - **(L)** For a first-time borrower—
+>       - **(i)** a statement of the anticipated balance on the loan for which the borrower is receiving counseling under this subsection;
+>       - **(ii)** based on such anticipated balance, the anticipated monthly payment amount under, at minimum—
+>         - **(I)** the standard repayment plan; and
+>         - **(II)** an income-based repayment plan under section 493C, as determined using regionally available data from the Bureau of Labor Statistics of the average starting salary for the occupation in which the borrower has an interest in or intends to be employed; and
+>       - **(iii)** an estimate of the projected monthly payment amount under each repayment plan described in clause (ii), based on the average cumulative indebtedness at graduation for borrowers of loans made under part D who are in the same program of study as the borrower.
 >     - **(M)** For a borrower with an outstanding balance of principal or interest due on a loan made under this title—
 >       - **(i)** a current statement of the amount of such outstanding balance and interest accrued;
 >       - **(ii)** based on such outstanding balance, the anticipated monthly payment amount under, at minimum, the standard repayment plan and, using regionally available data from the Bureau of Labor Statistics of the average starting salary for the occupation the borrower intends to be employed, an income-based repayment plan under section 493C; and
@@ -63,15 +70,16 @@ Section 485(l) of the Higher Education Act of 1965 (20 U.S.C. 1092(l)) is amende
 >         - **(II)** the anticipated outstanding balance on the loan for which the student is receiving counseling under this subsection; and
 >         - **(III)** a projection for any other loans made under part D that the borrower is reasonably expected to accept during the borrower’s program of study based on at least the expected increase in the cost of attendance of such program.
 >     - **(N)** The obligation of the borrower to repay the full amount of the loan, regardless of whether the borrower completes or does not complete the program in which the borrower is enrolled within the regular time for program completion.
->     - **(O)** The likely consequences of default on the loan, including adverse credit reports, delinquent debt collection procedures under Federal law, and litigation, and a notice of the institution’s most recent cohort default rate (defined in section 435(m)), an explanation of the cohort default rate, and the most recent national average cohort default rate for the category of institution described in section 435(m)(4) to which the institution belongs.
+>     - **(O)** The likely consequences of default on the loan, including adverse credit reports, delinquent debt collection procedures under Federal law, and litigation, and a notice of the institution’s most recent cohort default rate (defined in section 435(m)), an explanation of the cohort default rate, the most recent national average cohort default rate, and the most recent national average cohort default rate for the category of institution described in section 435(m)(4) to which the institution belongs.
 >     - **(P)** Information on the National Student Loan Data System and how the borrower can access the borrower's records.
 >     - **(Q)** The contact information for the institution’s financial aid office or other appropriate office at the institution the borrower may contact if the borrower has any questions about the borrower's rights and responsibilities or the terms and conditions of the loan.
 >   - **(5)** *Borrowers receiving Parent PLUS Loans for dependent students* The information to be provided under paragraph (1)(A) to a borrower of a Federal Direct PLUS Loan made on behalf of a dependent student shall include the following:
 >     - **(A)** The information described in subparagraphs (A) through (C) and (N) through (Q) of paragraph (4).
 >     - **(B)** The option of the borrower to pay the interest on the loan while the loan is in deferment.
->     - **(C)** For a first-time borrower of such loan, sample monthly repayment amounts under the standard repayment plan based on—
->       - **(i)** a range of levels of indebtedness of borrowers of Federal Direct PLUS Loans made on behalf of a dependent student; or
->       - **(ii)** the average cumulative indebtedness of other borrowers of Federal Direct PLUS Loans made on behalf of dependent students who are in the same program of study as the student on whose behalf the borrower borrowed the loan.
+>     - **(C)** For a first-time borrower of such loan—
+>       - **(i)** a statement of the anticipated balance on the loan for which the borrower is receiving counseling under this subsection;
+>       - **(ii)** based on such anticipated balance, the anticipated monthly payment amount under the standard repayment plan; and
+>       - **(iii)** an estimate of the projected monthly payment amount under the standard repayment plan, based on the average cumulative indebtedness of other borrowers of Federal Direct PLUS Loans made on behalf of dependent students who are in the same program of study as the student on whose behalf the borrower borrowed the loan.
 >     - **(D)** For a borrower with an outstanding balance of principal or interest due on such loan—
 >       - **(i)** a statement of the amount of such outstanding balance;
 >       - **(ii)** based on such outstanding balance, the anticipated monthly payment amount under the standard repayment plan; and
@@ -82,7 +90,7 @@ Section 485(l) of the Higher Education Act of 1965 (20 U.S.C. 1092(l)) is amende
 >     - **(E)** Debt management strategies that are designed to facilitate the repayment of such indebtedness.
 >     - **(F)** An explanation that the borrower has the options to prepay each loan, pay each loan on a shorter schedule, and change repayment plans.
 >     - **(G)** For each Federal Direct PLUS Loan made on behalf of a dependent student for which the borrower is receiving counseling under this subsection, the contact information for the loan servicer of the loan and a link to such servicer’s Website.
->   - **(6)** *Annual loan acceptance* Prior to making the first disbursement of a loan made under part D (other than a Federal Direct Consolidation Loan) to a borrower for an award year, an eligible institution, shall, as part of carrying out the counseling requirements of this subsection for the loan, ensure that the borrower accepts the loan for such award year by—
+>   - **(6)** *Annual loan acceptance* Prior to making the first disbursement of a loan made under part D (other than a Federal Direct Consolidation Loan) to a borrower for an award year, an eligible institution, shall, as part of carrying out the counseling requirements of this subsection for the loan, ensure that after receiving the applicable counseling under paragraphs (2), (4), and (5) for the loan the borrower accepts the loan for such award year by—
 >     - **(A)** signing the master promissory note for the loan;
 >     - **(B)** signing and returning to the institution a separate written statement that affirmatively states that the borrower accepts the loan; or
 >     - **(C)** electronically signing an electronic version of the statement described in subparagraph (B).
@@ -102,9 +110,12 @@ Section 485(b) of the Higher Education Act of 1965 (20 U.S.C. 1092(b)) is amende
   - **(D)** in clause (iv), as so redesignated—
     - **(i)** by striking “sample information showing the average” and inserting “information, based on the borrower’s outstanding balance described in clause (i), showing the borrower’s”; and
     - **(ii)** by striking “of each plan” and inserting “of at least the standard repayment plan and the income-based repayment plan under section 493C”;
-  - **(E)** in clause (x), as so redesignated, by striking “consolidation loan under section 428C or a”;
-  - **(F)** in clauses (xi) and (xii), as so redesignated, by striking “and” at the end; and
-  - **(G)** by adding at the end the following:
+  - **(E)** in clause (ix), as so redesignated—
+    - **(i)** by inserting “decreased credit score,” after “credit reports,”; and
+    - **(ii)** by inserting “reduced ability to rent or purchase a home or car, potential difficulty in securing employment,” after “Federal law,”;
+  - **(F)** in clause (x), as so redesignated, by striking “consolidation loan under section 428C or a”;
+  - **(G)** in clauses (xi) and (xii), as so redesignated, by striking “and” at the end; and
+  - **(H)** by adding at the end the following:
     > - **(xiii)** for each of the borrower’s loans made under part B, D, or E for which the borrower is receiving counseling under this subsection, the contact information for the loan servicer of the loan and a link to such servicer’s Website; and
     > - **(xiv)** an explanation that an individual has a right to annually request a disclosure of information collected by a consumer reporting agency pursuant to section 612(a) of the Fair Credit Reporting Act (15 U.S.C. 1681j(a)).
 
@@ -130,7 +141,23 @@ Section 485 of the Higher Education Act of 1965 (20 U.S.C. 1092) is further amen
 >     - **(B)** in the case of a borrower who receives annual counseling for a loan made under part D using the tool described in paragraph (1)(B), notify the borrower by when the borrower should accept, in a manner described in section 485(l)(6), the loan for which the borrower has received such counseling; and
 >     - **(C)** in the case of a borrower described in subsection (b)(1)(B) at an institution that uses the online counseling tool described in paragraph (1)(A) of this subsection, the Secretary shall attempt to provide the information described in subsection (b)(1)(A) to the borrower through such tool.
 
-## § 5. Availability of funds
+## § 5. Longitudinal study on the effectiveness of student loan counseling
+
+- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Secretary of Education, acting through the Director of the Institute of Education Sciences, shall begin conducting a rigorous, longitudinal study of the impact and effectiveness of the student loan counseling—
+  - **(1)** provided under subsections (b), (l), and (n) of section 485 of the Higher Education Act of 1965 (20 U.S.C. 1092), as amended by this Act; and
+  - **(2)** provided through such other means as the Secretary of Education may determine.
+- **(b)** *Contents*
+  - **(1)** *Borrower information* The longitudinal study carried out under subsection (a) shall include borrower information, in the aggregate and disaggregated by race, ethnicity, gender, income, and status as an individual with a disability, on—
+    - **(A)** student persistence;
+    - **(B)** degree attainment;
+    - **(C)** program completion;
+    - **(D)** successful entry into student loan repayment;
+    - **(E)** cumulative borrowing levels; and
+    - **(F)** such other factors as the Secretary of Education may determine.
+  - **(2)** *Exception* The disaggregation under paragraph (1) shall not be required in a case in which the number of borrowers in a category is insufficient to yield statistically reliable information or the results would reveal personally identifiable information about an individual borrower.
+- **(c)** *Interim Reports* Not later than 18 months after the commencement of the study under subsection (a), and annually thereafter, the Secretary of Education shall evaluate the progress of the study and report any short-term findings to the appropriate committees of Congress.
+
+## § 6. Availability of funds
 
 - **(a)** *Use of existing funds* Of the amount authorized to be appropriated for maintaining the Department of Education’s Financial Awareness Counseling Tool, $2,000,000 shall be available to carry out this Act and the amendments made by this Act.
 - **(b)** *No additional funds authorized* No funds are authorized to be appropriated by this Act to carry out this Act or the amendments made by this Act.

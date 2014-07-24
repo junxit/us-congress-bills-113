@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4984
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 3 executed, 10 stated and not applied.
+15 amendatory instructions. 3 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -63,6 +63,8 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1092` | amend | Section 485(l) of the Higher Education Act of 1965 (20 U.S.C. 1092(l)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681j` | redesignate | by redesignating clauses (i) through (ix) as clauses (iv) through (xii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681j` | redesignate | by inserting before clause (iv), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681j` | insert | by inserting “decreased credit score,” after “credit reports,”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 1681j` | insert | by inserting “reduced ability to rent or purchase a home or car, potential difficulty in securing employment,” after “Federal law,”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 1681j` | redesignate | in clause (x), as so redesignated, by striking “consolidation loan under section 428C or a”; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 1681j` | redesignate | in clauses (xi) and (xii), as so redesignated, by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 1681j` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
