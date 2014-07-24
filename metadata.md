@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5134
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5134
@@ -20,9 +20,10 @@ To extend the National Advisory Committee on Institutional Quality and Integrity
 
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -34,3 +35,4 @@ To extend the National Advisory Committee on Institutional Quality and Integrity
 - 2014-07-23 — Ms. Foxx moved to suspend the rules and pass the bill.
 - 2014-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6683)
 - 2014-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6683)
+- 2014-07-24 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
