@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4980
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4980
@@ -63,3 +63,12 @@ Preventing Sex Trafficking and Strengthening Families Act
 - 2014-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6711-6720)
 - 2014-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6711-6720)
 - 2014-07-24 — Received in the Senate, read twice.
+- 2014-09-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5877)
+- 2014-09-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5877)
+- 2014-09-19 — Message on Senate action sent to the House.
+- 2014-09-26 — Presented to President.
+- 2014-09-26 — Presented to President.
+- 2014-09-29 — Became Public Law No: 113-183.
+- 2014-09-29 — Became Public Law No: 113-183.
+- 2014-09-29 — Signed by President.
+- 2014-09-29 — Signed by President.
