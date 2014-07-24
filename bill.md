@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 669
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,44 +13,71 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Sudden Unexpected Death Data Enhancement and Awareness Act”.
 
-## § 2. Amendment to the Public Health Service Act
+## § 2. Stillbirth and sudden deaths in the young
 
-Title III of the Public Health Service Act (42 U.S.C. 241 et seq.) is amended by adding at the end the following:
+The Public Health Service Act is amended by inserting after section 317L of such Act (42 U.S.C. 247b–13) the following:
 
-## § 3. Enhancing public health activities related to stillbirth
-
-Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is amended by adding at the end the following:
-
-> ## § 399V–6. Enhancing public health activities related to stillbirth
+> ## § 317L–1. Stillbirth and sudden deaths in the young
 >
-> - **(a)** *Grants* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall award grants to eligible States and metropolitan areas to enhance and expand surveillance efforts to collect thorough and complete epidemiologic information on stillbirths, including through the utilization of the infrastructure of existing surveillance systems (including vital statistics systems).
-> - **(b)** *Eligibility* To be eligible to receive a grant under subsection (a), an entity shall—
->   - **(1)** be a State or a major metropolitan area (as defined by the Secretary); and
->   - **(2)** submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including—
->     - **(A)** an assurance that the applicant will implement the standardized surveillance protocol developed under subsection (c); and
->     - **(B)** a description of the infrastructure of existing surveillance systems in the State or major metropolitan area, as applicable.
-> - **(c)** *Surveillance protocol* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall—
->   - **(1)** provide for the continued development and dissemination of a standard protocol for stillbirth data collection and surveillance, in consultation with representatives of health and advocacy organizations, State and local governments, and other interested entities determined appropriate by the Secretary;
->   - **(2)** monitor trends and identify potential risk factors for further study using existing sources of surveillance data and expanded sources of data from targeted surveillance efforts, and methods for the evaluation of stillbirth prevention efforts; and
->   - **(3)** develop and evaluate methods to link existing data to provide more complete information for research into the causes and conditions associated with stillbirth.
-> - **(d)** *Postmortem evaluation and Data Collection* The Secretary, acting through the Director of the Centers for Disease Control and Prevention and in consultation with physicians, nurses, pathologists, geneticists, parents, and other groups determined necessary by the Director, shall develop guidelines for increasing the performance and data collection of postmortem stillbirth evaluation, including conducting and reimbursing autopsies, placental histopathology, and cytogenetic testing. The guidelines should take into account cultural competency issues related to postmortem stillbirth evaluation.
-> - **(e)** *Public health programmatic activities related to stillbirth* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall—
->   - **(1)** develop behavioral surveys for women experiencing stillbirth, using existing State-based infrastructure for pregnancy-related information gathering; and
->   - **(2)** increase the technical assistance provided to States, Indian tribes, territories, and local communities to enhance capacity for improved investigation of medical and social factors surrounding stillbirth events.
-> - **(f)** *Public education and prevention programs* The Secretary, acting through the Director of the Centers for Disease Control and Prevention and in consultation with health care providers, public health organizations, maternal and child health programs, parents, and other groups deemed necessary by the Director, shall directly or through grants, cooperative agreements, or contracts to eligible entities, develop and conduct evidence-based public education and prevention programs aimed at reducing the occurrence of stillbirth overall and addressing the racial and ethnic disparities in its occurrence, including—
->   - **(1)** public education programs, services, and demonstrations which are designed to increase general awareness of stillbirths; and
->   - **(2)** the development of tools for the education of health professionals and women concerning the known risk factors for stillbirth, promotion of fetal movement awareness, and the importance of early and regular prenatal care to monitor the health and development of the fetus up to and during delivery.
-> - **(g)** *Task force* The Secretary, in consultation with the Director of the National Institutes of Health, the Director of the Centers for Disease Control and Prevention, and health care providers, researchers, parents, and other groups deemed necessary by the Directors, shall establish a task force to develop a national research plan to determine the causes of, and how to prevent, stillbirth.
-> - **(h)** *Grants for support services*
->   - **(1)** *In general* The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall award grants to national organizations, State and local health departments, and community-based organizations, for the provisions of support services to families who have experienced stillbirth.
->   - **(2)** *Application* To be eligible to receive a grant under subsection (a), an entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
->   - **(3)** *Use of funds* Amounts received under a grant awarded under subsection (a) may be used to provide grief counseling, education, home visits, 24-hour hotlines, and support groups for families who have experienced stillbirth.
->   - **(4)** *Preference* In awarding grants under subsection (a), the Secretary shall give preference to applicants that are community-based organizations that have a proven history of providing effective direct support services and interventions related to stillbirths and can demonstrate experience through collaborations and partnerships for delivering services throughout a State or region.
-> - **(i)** *Definitions* In this section:
->   - **(1)** The term State has the meaning given to such term in section 2, except that such term includes tribes and tribal organizations (as such terms are defined in section 4 of the Indian Self-Determination and Education Assistance Act).
->   - **(2)** The term stillbirth means a spontaneous, not induced, pregnancy loss 20 weeks or later after gestation, or if the age of the fetus is not known, then a fetus weighing 350 grams or more.
-> - **(j)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section, $3,000,000 for each of fiscal years 2014 through 2018.
-
-## § 4. Report to Congress
-
-Not later than 2 years after the date of enactment of this Act, the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention and in consultation with the Director of the National Institutes of Health and the Administrator of the Health Resources and Services Administration, shall submit to Congress a report describing the progress made in implementing this Act (and the amendments made by this Act).
+> - **(a)** *Stillbirth activities* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall continue to carry out activities of the Centers relating to stillbirth, including the following:
+>   - **(1)** *Surveillance*
+>     - **(A)** *In general* The Secretary shall provide for surveillance efforts to collect thorough, complete, and high-quality epidemiologic information on stillbirths, including through the utilization of existing surveillance systems (including the National Vital Statistics System (NVSS) and other appropriately equipped birth defects surveillance programs).
+>     - **(B)** *Standard protocol for surveillance* The Secretary, in consultation with qualified individuals and organizations determined appropriate by the Secretary, to include representatives of health and advocacy organizations, State and local governments, public health officials, and health researchers, shall—
+>       - **(i)** provide for the continued development and dissemination of a standard protocol for stillbirth data collection and surveillance; and
+>       - **(ii)** not less than every 5 years, review and, as appropriate, update such protocol.
+>   - **(2)** *Postmortem data collection and evaluation* The Secretary, in consultation with qualified individuals and organizations determined appropriate by the Secretary, to include representatives of health professional organizations, shall—
+>     - **(A)** upon the enactment of this section, and not less than every 5 years thereafter, review existing guidelines for increasing and improving the quality and completeness of postmortem stillbirth evaluation and related data collection, including conducting and reimbursing autopsies, placental histopathology, and cytogenetic testing; and
+>     - **(B)** develop strategies for implementing such guidelines and addressing any barriers to implementation of such guidelines.
+> - **(b)** *Sudden unexpected infant death activities* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall continue to carry out activities of the Centers relating to sudden unexpected infant death (SUID), including the following:
+>   - **(1)** *Surveillance*
+>     - **(A)** *In general* The Secretary shall provide for surveillance efforts to gather sociodemographic, death scene investigation, clinical history, and autopsy information on SUID cases through the review of existing records on SUID, including through the utilization of existing surveillance systems (including the national child death review case reporting system and SUID case registries).
+>     - **(B)** *Standard protocol for surveillance* The Secretary, in consultation with qualified individuals and organizations determined appropriate by the Secretary, to include representatives of health and advocacy organizations, State and local governments, and public health officials, shall—
+>       - **(i)** provide for the continued development and dissemination of a standard protocol for SUID data reporting and surveillance; and
+>       - **(ii)** not less than every 5 years, review and, as appropriate, update such protocol.
+>     - **(C)** *Goals for enhancing surveillance* In carrying out activities under this subsection, the Secretary shall seek to accomplish the following goals:
+>       - **(i)** Collecting thorough, complete, and high-quality death scene investigation data, clinical history, and autopsy findings.
+>       - **(ii)** Collecting standardized information about the environmental and medical circumstances of death (including the sleep environment and quality of the death scene investigation).
+>       - **(iii)** Supporting multidisciplinary infant death reviews, such as those performed by child death review committees, to collect and review the information and classify and characterize SUID using a standardized classification system.
+>       - **(iv)** Facilitating the sharing of information to improve the public reporting of surveillance and vital statistics describing the epidemiology of SUID.
+>   - **(2)** *Standard protocol for death scene investigation*
+>     - **(A)** *In General* The Secretary, in consultation with forensic pathologists, medical examiners, coroners, medicolegal death scene investigators, law enforcement personnel, emergency medical technicians and paramedics, public health agencies, and other individuals and organizations determined appropriate by the Secretary, shall—
+>       - **(i)** provide for the continued dissemination of a standard death scene investigation protocol; and
+>       - **(ii)** not less than every 5 years, review and, as appropriate, update such protocol.
+>     - **(B)** *Content of Death Scene Protocol* The protocol disseminated under subparagraph (A) shall include information on—
+>       - **(i)** the current and past medical history of the infant;
+>       - **(ii)** family medical history;
+>       - **(iii)** the circumstances surrounding the death, including any suspicious circumstances;
+>       - **(iv)** the sleep position and sleep environment of the infant; and
+>       - **(v)** any accidental or environmental factors associated with death.
+>   - **(3)** *Guidelines for a standard autopsy protocol* The Secretary, in consultation with the Attorney General of the United States, forensic pathologists, medical examiners, coroners, pediatric pathologists, pediatric cardiologists, pediatric neuropathologists, geneticists, infectious disease specialists, and other individuals and organizations determined appropriate by the Secretary, shall—
+>     - **(A)** develop guidelines for a standard autopsy protocol for SUID; and
+>     - **(C)** not less than every 5 years, review and, as appropriate, update such guidelines.
+>   - **(4)** *Training* The Secretary, in consultation with the Attorney General of the United States, may—
+>     - **(A)** conduct or support—
+>       - **(i)** training activities for medical examiners, coroners, medicolegal death scene investigators, law enforcement personnel, and emergency medical technicians or paramedics concerning death scene investigations for SUID, including the use of standard death scene investigation protocols disseminated under paragraph (2); and
+>       - **(ii)** training activities for medical examiners, coroners, and forensic pathologists concerning standard autopsy protocols for SUID developed under paragraph (3); and
+>     - **(B)** make recommendations to health professional organizations regarding the integration of protocols disseminated or developed under this subsection, and training conducted or supported under this paragraph, into existing training and continuing education programs.
+> - **(c)** *Sudden unexplained death in childhood activities* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall continue to carry out activities of the Centers relating to sudden unexpected death in childhood (SUDC), including the following:
+>   - **(1)** *Surveillance* The Secretary, in consultation with the Director of the National Institutes of Health, shall provide for surveillance efforts to gather sociodemographic, death scene investigation, clinical history, and autopsy information on SUDC cases through the review of existing records on SUDC, including through the utilization of existing surveillance systems (including the Sudden Death in the Young Registry).
+>   - **(2)** *Guidelines for a standard autopsy protocol* The Secretary, in consultation with the Attorney General of the United States, forensic pathologists, medical examiners, coroners, pediatric pathologists, pediatric cardiologists, pediatric neuropathologists, geneticists, infectious disease specialists, and other individuals and organizations determined appropriate by the Secretary, may—
+>     - **(A)** develop guidelines for a standard autopsy protocol for SUDC; and
+>     - **(B)** not less than every 5 years, review and, as appropriate, update such guidelines.
+>   - **(3)** *Review of applicability of programs and activities* Not later than 18 months after the date of enactment of this section, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, and in consultation with the Director of the National Institutes of Health, shall complete an evaluation of the possibility of carrying out or intensifying, with respect to SUDC, the types of programs and activities that are authorized to be carried out under subsection (b) with respect to SUID.
+> - **(d)** *Report to Congress* Not later than 2 years after the date of enactment of this Act, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall submit to the Congress a report on the implementation of this section. Such report shall include—
+>   - **(1)** the results of the evaluation under subsection (c)(3); and
+>   - **(2)** a description of any activities that—
+>     - **(A)** are being carried out by the Centers for Disease Control and Prevention in consultation with the National Institutes of Health relating to stillbirth, SUID, or SUDC; and
+>     - **(B)** are in addition to the activities being carried out pursuant to this section.
+> - **(e)** *Definitions* In this section:
+>   - **(1)** The term “stillbirth” means a spontaneous fetal death that—
+>     - **(A)** occurs at 20 or more weeks gestation; or
+>     - **(B)** if the age of the fetus is not known, involves a fetus weighing 350 grams or more.
+>   - **(2)** The terms “sudden unexpected infant death” and “SUID” mean the death of an infant less than 1 year of age—
+>     - **(A)** which occurs suddenly and unexpectedly; and
+>     - **(B)** whose cause—
+>       - **(i)** is not immediately obvious prior to investigation; and
+>       - **(ii)** is either explained upon investigation or remains unexplained.
+>   - **(3)** The terms “sudden unexplained death in childhood” and “SUDC” mean the sudden death of a child 1 year of age or older which remains unexplained after a thorough case investigation that includes—
+>     - **(A)** a review of the clinical history and circumstances of death; and
+>     - **(B)** performance of a complete autopsy with appropriate ancillary testing.
+> - **(f)** *Funding* This section shall not be construed to increase the amount of appropriations that are authorized to be appropriated for any fiscal year.
