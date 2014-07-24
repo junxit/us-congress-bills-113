@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4980
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4980
@@ -62,3 +62,4 @@ Preventing Sex Trafficking and Strengthening Families Act
 - 2014-07-23 — Mr. Camp moved to suspend the rules and pass the bill.
 - 2014-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6711-6720)
 - 2014-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6711-6720)
+- 2014-07-24 — Received in the Senate, read twice.
