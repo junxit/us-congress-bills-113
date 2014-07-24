@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5134
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5134
@@ -36,3 +36,14 @@ To extend the National Advisory Committee on Institutional Quality and Integrity
 - 2014-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6683)
 - 2014-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6683)
 - 2014-07-24 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2014-09-15 — Passed Senate without amendment by Unanimous Consent.
+- 2014-09-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-09-15 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S5592)
+- 2014-09-15 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S5592)
+- 2014-09-16 — Message on Senate action sent to the House.
+- 2014-09-17 — Presented to President.
+- 2014-09-17 — Presented to President.
+- 2014-09-26 — Became Public Law No: 113-174.
+- 2014-09-26 — Became Public Law No: 113-174.
+- 2014-09-26 — Signed by President.
+- 2014-09-26 — Signed by President.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5134
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
