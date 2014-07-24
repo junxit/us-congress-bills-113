@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. RES. 462
 
-> Recognizing the Khmer and Lao/Hmong Freedom Fighters of Cambodia and Laos for supporting and defending the United States Armed Forces during the conflict in Southeast Asia and for their continued support and defense of the United States.
+> Recognizing the Khmer and Lao/Hmong Freedom Fighters of Cambodia and Laos for supporting and defending the United States Armed Forces during the conflict in Southeast Asia.
 
 ## Preamble
 
@@ -17,8 +17,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the Khmer and Lao/Hmong Freedom Fighters captured and destroyed enemy supplies and prevented enemy forces from using the supplies to kill members of the United States Armed Forces;
 - Whereas the Khmer and Lao/Hmong Freedom Fighters gathered and provided to the United States Armed Forces intelligence about enemy troop positions, movement, and strength;
 - Whereas the Khmer and Lao/Hmong Freedom Fighters provided food, shelter, and support to the United States Armed Forces;
-- Whereas the Khmer and Lao/Hmong Freedom Fighters facilitated the evacuation of the United States Embassy in Phnom Penh on April 12, 1975, by continuing to fight Khmer Rouge forces as the forces advanced upon the capital;
-- Whereas, in 2014, the Khmer and Lao/Hmong Freedom Fighters are still subject to intimidation, ridicule, discrimination, and death if identified in Cambodia or Laos;
+- Whereas the Khmer National Armed Forces of Cambodia facilitated the evacuation of the United States Embassy in Phnom Penh on April 12, 1975, by continuing to fight Khmer Rouge forces as the forces advanced upon the capital;
 - Whereas veterans of the Khmer Mobile Guerrilla Forces, the Lao/Hmong Special Guerrilla Units, and the Khmer Republic Armed Forces defended human rights, freedom of speech, freedom of religion, and freedom of representation and association; and
 - Whereas the Khmer and Lao/Hmong Freedom Fighters have not yet received official recognition from the United States Government for their heroic efforts and support: Now, therefore, be it
 
