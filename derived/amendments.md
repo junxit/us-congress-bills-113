@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3846
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-31 amendatory instructions. 11 executed, 20 stated and not applied.
+32 amendatory instructions. 9 executed, 23 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -78,27 +78,9 @@ to guess them.
 | Removed | `United States Customs Service` |
 | Inserted | `United States Customs and Border Protection` |
 
-### 6 U.S.C. § 213
-
-> in section 413 (6 U.S.C. 213), by striking “United States Customs Service” and inserting “United States Customs and Border Protection”;
-
-| | |
-|---|---|
-| Removed | `United States Customs Service` |
-| Inserted | `United States Customs and Border Protection` |
-
 ### 6 U.S.C. § 214
 
 > in section 414 (6 U.S.C. 214), by striking “United States Customs Service” and inserting “United States Customs and Border Protection”; and
-
-| | |
-|---|---|
-| Removed | `United States Customs Service` |
-| Inserted | `United States Customs and Border Protection` |
-
-### 6 U.S.C. § 215
-
-> in section 415 (6 U.S.C. 215), by striking “United States Customs Service” each place it appears and inserting “United States Customs and Border Protection”;
 
 | | |
 |---|---|
@@ -116,7 +98,7 @@ to guess them.
 
 ### 6 U.S.C. § 251
 
-> by striking “Under Secretary for Border and Transportation Security” and inserting “Secretary”;
+> by striking “Under Secretary for Border and Transportation Security” and inserting “Secretary”; and
 
 | | |
 |---|---|
@@ -134,21 +116,24 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `6 U.S.C. § 211` | amend | Section 411 of the Homeland Security Act of 2002 (6 U.S.C. 211) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | replace | The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by striking the item relating to section 411 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | repeal | Sections 416 and 418 of the Homeland Security Act of 2002 (6 U.S.C. 216 and 218), and the items relating to such sections in the table of contents in section 1(b) of such Act, are repealed. | the bill names no machine-readable US Code section |
+| `6 U.S.C. § 216` | repeal | Sections 416, 418, and 443 of the Homeland Security Act of 2002 (6 U.S.C. 216, 218, and 253), and the items relating to such sections in the table of contents in section 1(b) of such Act, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 202` | replace | by striking the title heading and inserting “Border, Maritime, and Transportation Security”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 202` | replace | by striking the subtitle heading and inserting “Border, Maritime, and Transportation Security Responsibilities and Functions”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 202` | strike | by striking “, acting through the Under Secretary for Border and Transportation Security,”; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 212` | replace | by striking the subtitle heading and inserting “United States Customs and Border Protection”; | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 213` | strike | in section 413 (6 U.S.C. 213), by striking “available to the United States Customs Service or”; | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 215` | insert | in paragraph (7), by inserting before the colon the following: “, and of United States Customs and Border Protection on the day before the effective date of the United States Customs and Border Protection Authorization Act”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 215` | insert | in paragraph (8), by inserting before the colon the following: “, and of United States Customs and Border Protection on the day before the effective date of the United States Customs and Border Protection Authorization Act”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 234` | replace | by striking section 424 (6 U.S.C. 234) and inserting the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 238` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 238` | strike | in subsection (b), by striking the second sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 251` | replace | by striking the section heading and inserting “Transfer of functions”; and | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 253` | amend | in section 443 (6 U.S.C. 253), by amending the section to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 254` | amend | in section 444 (6 U.S.C. 254), by amending the section to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 251` | replace | by striking the section heading and inserting “Transfer of functions.”; and | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 254` | amend | by amending section 444 (6 U.S.C. 254) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 201` | repeal | Section 401 of the Homeland Security Act of 2002 (6 U.S.C. 201) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | replace | by striking the item relating to title IV and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | replace | by striking the item relating to subtitle A of title IV and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | strike | by striking the item relating to section 401; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 101` | amend | by amending the item relating to section 402 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | replace | by striking the item relating to subtitle B of title IV and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | replace | by striking the item relating to section 441 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | replace | by striking the item relating to section 442 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
