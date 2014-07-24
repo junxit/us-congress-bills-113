@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4449
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4449
@@ -31,9 +31,10 @@ Human Trafficking Prevention Act
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 - Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Human Trafficking Prevention Act
 - 2014-07-23 — Mr. Meadows moved to suspend the rules and pass the bill.
 - 2014-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6733)
 - 2014-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6733)
+- 2014-07-24 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
