@@ -1,7 +1,7 @@
 ---
 measure: S. 1353
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1353
@@ -29,3 +29,8 @@ Cybersecurity Enhancement Act of 2014
 - 2013-07-24 — Introduced in Senate
 - 2013-07-24 — Read twice and referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S5909-5912)
 - 2013-07-24 — Sponsor introductory remarks on measure. (CR S5909)
+- 2013-07-25 — Committee on Commerce, Science, and Transportation. Hearings held.
+- 2013-07-30 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-07-24 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. Without written report.
+- 2014-07-24 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. Without written report.
+- 2014-07-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 490.
