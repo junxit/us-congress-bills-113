@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5111
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 42 U.S.C. § 5773
 
-> Section 404(b)(1)(P)(iii) of the Missing Children’s Assistance Act (42 U.S.C. 5773(b)(1)(P)(iii)) is amended by striking “child prostitution” and inserting “child sex trafficking”.
+> Section 404(b)(1)(P)(iii) of the Missing Children’s Assistance Act (42 U.S.C. 5773(b)(1)(P)(iii)) is amended by striking “child prostitution” and inserting “child sex trafficking, including child prostitution”.
 
 | | |
 |---|---|
 | Removed | `child prostitution` |
-| Inserted | `child sex trafficking` |
+| Inserted | `child sex trafficking, including child prostitution` |
