@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4983
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4983
@@ -35,9 +35,10 @@ Strengthening Transparency in Higher Education Act
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 - Rep. Miller, George [D-CA-11] (M000725)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Strengthening Transparency in Higher Education Act
 - 2014-07-23 — Ms. Foxx moved to suspend the rules and pass the bill, as amended.
 - 2014-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6680-6681)
 - 2014-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6680-6681)
+- 2014-07-24 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
