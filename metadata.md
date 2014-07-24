@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2283
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2283
@@ -130,9 +130,10 @@ Human Trafficking Prioritization Act
 - Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
 - Rep. Walorski, Jackie [R-IN-2] (W000813)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -147,3 +148,4 @@ Human Trafficking Prioritization Act
 - 2014-07-23 — Mr. Smith (NJ) moved to suspend the rules and pass the bill, as amended.
 - 2014-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6730)
 - 2014-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6730)
+- 2014-07-24 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
