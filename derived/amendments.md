@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4290
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 42 U.S.C. § 300w-9
 
-> Section 1910(d) of the Public Health Service Act (42 U.S.C. 300w–9(d)) is amended by striking “fiscal year 2014” and inserting “each of fiscal years 2014 through 2019”.
+> Section 1910(d) of the Public Health Service Act (42 U.S.C. 300w–9(d)) is amended by striking “fiscal year 2014” and inserting “each of fiscal years 2015 through 2019”.
 
 | | |
 |---|---|
 | Removed | `fiscal year 2014` |
-| Inserted | `each of fiscal years 2014 through 2019` |
+| Inserted | `each of fiscal years 2015 through 2019` |
