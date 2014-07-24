@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5135
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5135
@@ -56,10 +56,11 @@ Human Trafficking Prevention, Intervention, and Recovery Act of 2014
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 - Rep. Olson, Pete [R-TX-22] (O000168)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -74,3 +75,4 @@ Human Trafficking Prevention, Intervention, and Recovery Act of 2014
 - 2014-07-23 — Mr. Goodlatte moved to suspend the rules and pass the bill.
 - 2014-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6724-6725)
 - 2014-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6724-6725)
+- 2014-07-24 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
