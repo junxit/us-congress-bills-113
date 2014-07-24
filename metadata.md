@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 40
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.J.Res. 40
@@ -37,3 +37,16 @@ A joint resolution providing for the appointment of Michael Lynton as a citizen 
 - 2014-07-24 — Message on Senate action sent to the House.
 - 2014-07-24 — Received in the House.
 - 2014-07-24 — Referred to the House Committee on House Administration.
+- 2014-09-18 — Committee on House Administration discharged.
+- 2014-09-18 — Committee on House Administration discharged.
+- 2014-09-18 — Considered by unanimous consent. (consideration: CR H7860)
+- 2014-09-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-18 — Mr. Harper asked unanimous consent to discharge from committee and consider.
+- 2014-09-18 — On passage Passed without objection. (text: CR H7860)
+- 2014-09-18 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7860)
+- 2014-09-29 — Became Public Law No: 113-184.
+- 2014-09-29 — Became Public Law No: 113-184.
+- 2014-09-29 — Presented to President.
+- 2014-09-29 — Presented to President.
+- 2014-09-29 — Signed by President.
+- 2014-09-29 — Signed by President.
