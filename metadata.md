@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5116
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5116
@@ -28,10 +28,11 @@ Human Trafficking Detection Act of 2014
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 - Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
 
-## Committees (2)
+## Committees (3)
 
 - House — Homeland Security Committee
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Human Trafficking Detection Act of 2014
 - 2014-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6727)
 - 2014-07-23 — Referred to the Subcommittee on Border and Maritime Security.
 - 2014-07-23 — Referred to the Subcommittee on Transportation Security.
+- 2014-07-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
