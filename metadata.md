@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5076
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5076
@@ -31,9 +31,10 @@ Enhancing Services for Runaway and Homeless Victims of Youth Trafficking Act of 
 - Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Enhancing Services for Runaway and Homeless Victims of Youth Trafficking Act of 
 - 2014-07-23 — Mr. Heck (NV) moved to suspend the rules and pass the bill.
 - 2014-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6703)
 - 2014-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6703)
+- 2014-07-24 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
