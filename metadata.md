@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 103
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 103
@@ -32,3 +32,8 @@ Authorizing the use of the Capitol Grounds for the District of Columbia Special 
 - 2014-07-23 — Placed on the House Calendar, Calendar No. 127.
 - 2014-07-23 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-549.
 - 2014-07-23 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-549.
+- 2014-07-25 — Considered by unanimous consent. (consideration: CR H6844)
+- 2014-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-25 — Mr. Barletta asked unanimous consent to take from the Speaker's table and consider.
+- 2014-07-25 — On agreeing to the resolution Agreed to without objection. (text: CR H6844)
+- 2014-07-25 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H6844)
