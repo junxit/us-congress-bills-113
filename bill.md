@@ -7,11 +7,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H. CON. RES. 105
 
-> Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces, other than Armed Forces required to protect United States diplomatic facilities and personnel, from Iraq.
+> Prohibiting the President from deploying or maintaining United States Armed Forces in a sustained combat role in Iraq without specific, subsequent statutory authorization.
 
-## § 1. Removal of United States Armed Forces from Iraq
+## § 1. Prohibition regarding United States Armed Forces in Iraq
 
-Pursuant to section 5(c) of the War Powers Resolution (50 U.S.C. 1544(c)), Congress directs the President to remove United States Armed Forces, other than Armed Forces required to protect United States diplomatic facilities and personnel, from Iraq—
+The President shall not deploy or maintain United States Armed Forces in a sustained combat role in Iraq without specific statutory authorization for such use enacted after the date of the adoption of this concurrent resolution.
 
-- **(1)** by no later than the end of the period of 30 days beginning on the day on which this concurrent resolution is adopted; or
-- **(2)** if the President determines that it is not safe to remove such United States Armed Forces before the end of that period, by no later than December 31, 2014, or such earlier date as the President determines that the Armed Forces can safely be removed.
+## § 2. Rule of construction
+
+Nothing in this concurrent resolution supersedes the requirements of the War Powers Resolution (50 U.S.C. 1541 et seq.).
