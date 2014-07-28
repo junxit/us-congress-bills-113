@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 103
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 103
@@ -37,3 +37,4 @@ Authorizing the use of the Capitol Grounds for the District of Columbia Special 
 - 2014-07-25 — Mr. Barletta asked unanimous consent to take from the Speaker's table and consider.
 - 2014-07-25 — On agreeing to the resolution Agreed to without objection. (text: CR H6844)
 - 2014-07-25 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H6844)
+- 2014-07-28 — Received in the Senate.
