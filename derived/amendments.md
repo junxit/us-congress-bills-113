@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1771
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,42 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+7 amendatory instructions. 3 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 18 U.S.C. § 983
+
+> by striking “or the International Emergency Economic Powers Act” and inserting “, the International Emergency Economic Powers Act”; and
+
+| | |
+|---|---|
+| Removed | `or the International Emergency Economic Powers Act` |
+| Inserted | `, the International Emergency Economic Powers Act` |
+
+### 18 U.S.C. § 1956
+
+> by striking “or section 92 of the Atomic Energy Act of 1954” and inserting “section 92 of the Atomic Energy Act of 1954”; and
+
+| | |
+|---|---|
+| Removed | `or section 92 of the Atomic Energy Act of 1954` |
+| Inserted | `section 92 of the Atomic Energy Act of 1954` |
+
+### 22 U.S.C. § 8412
+
+> Section 102(a) of the Enhanced Partnership with Pakistan Act of 2009 (Public Law 111–73; 22 U.S.C. 8412(a)) is amended by striking “$1,500,000,000” and inserting “$1,490,000,000”.
+
+| | |
+|---|---|
+| Removed | `$1,500,000,000` |
+| Inserted | `$1,490,000,000` |
 
 ## Stated, not applied
 
@@ -31,12 +60,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `18 U.S.C. § 981` | strike | in paragraph (6), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `18 U.S.C. § 981` | replace | in paragraph (7), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 981` | insert | by inserting after paragraph (7) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2780` | add-at-end | Section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405), as continued in effect under the International Emergency Economic Powers Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 981` | add-at-end | Section 981(a)(1) of title 18, United States Code, is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 983` | add-at-end | by adding at the end before the semicolon the following: “, or the North Korea Sanctions Enforcement Act of 2014”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1956` | add-at-end | by adding at the end the following: “, or section 104(a) of the North Korea Sanctions Enforcement Act of 2014”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7814` | insert | Section 104 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7814) is amended by inserting after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1701` | add-at-end | Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 80a-13` | strike | in subparagraph (A), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 80a-13` | replace | in subparagraph (B), by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 80a-13` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
