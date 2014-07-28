@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5081
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5081
@@ -61,9 +61,10 @@ Strengthening Child Welfare Response to Trafficking Act of 2014
 - Rep. Coble, Howard [R-NC-6] (C000556)
 - Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -81,3 +82,4 @@ Strengthening Child Welfare Response to Trafficking Act of 2014
 - 2014-07-25 — Considered as unfinished business. (consideration: CR H6834-6835)
 - 2014-07-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 454). (text: CR 7/23/2014 CR H6704-6705)
 - 2014-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 454).(text: CR 7/23/2014 CR H6704-6705)
+- 2014-07-28 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
