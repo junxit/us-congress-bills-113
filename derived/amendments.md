@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4490
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -71,7 +71,7 @@ to guess them.
 
 ### 22 U.S.C. § 1472
 
-> in paragraph (4)(A), by striking “Broadcasting Board of Governors” and inserting “United States International Communications Agency”; and
+> in paragraph (4)(A), by striking “Broadcasting Board of Governors” and inserting “United States International Communications Agency”;
 
 | | |
 |---|---|

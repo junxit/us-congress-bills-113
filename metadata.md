@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4490
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4490
@@ -48,3 +48,9 @@ United States International Communications Reform Act of 2014
 - 2014-07-18 — Placed on the Union Calendar, Calendar No. 407.
 - 2014-07-18 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 113-541.
 - 2014-07-18 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 113-541.
+- 2014-07-28 — Considered under suspension of the rules. (consideration: CR H6886-6895)
+- 2014-07-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4490.
+- 2014-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-28 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
+- 2014-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6886-6893)
+- 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6886-6893)
