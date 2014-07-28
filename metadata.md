@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3696
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3696
@@ -48,3 +48,9 @@ National Cybersecurity and Critical Infrastructure Protection Act of 2014
 - 2014-07-23 — Placed on the Union Calendar, Calendar No. 411.
 - 2014-07-23 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-550, Part I.
 - 2014-07-23 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-550, Part I.
+- 2014-07-28 — Considered under suspension of the rules. (consideration: CR H6908-6922)
+- 2014-07-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3696.
+- 2014-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-28 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
+- 2014-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6909-6915)
+- 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6909-6915)
