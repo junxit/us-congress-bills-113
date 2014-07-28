@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4984
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4984
@@ -36,9 +36,10 @@ Empowering Students Through Enhanced Financial Counseling Act
 - Rep. King, Peter T. [R-NY-2] (K000210)
 - Rep. Miller, George [D-CA-11] (M000725)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (3)
 
@@ -132,3 +133,4 @@ Empowering Students Through Enhanced Financial Counseling Act
 - 2014-07-24 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6777)
 - 2014-07-24 — The previous question was ordered pursuant to the rule. (consideration: CR H6776)
 - 2014-07-24 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the adoption of the Kilmer amendment No. 2, which was debated earlier and on which further proceedings had been postponed.
+- 2014-07-28 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
