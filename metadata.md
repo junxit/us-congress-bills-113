@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4919
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4919
@@ -42,3 +42,11 @@ To designate the facility of the United States Postal Service located at 715 Sha
 - 2014-06-19 — Introduced in House
 - 2014-06-19 — Introduced in House
 - 2014-06-19 — Referred to the House Committee on Oversight and Government Reform.
+- 2014-07-24 — Committee Consideration and Mark-up Session Held.
+- 2014-07-24 — Ordered to be Reported by Unanimous Consent.
+- 2014-07-28 — Considered under suspension of the rules. (consideration: CR H6936-6937)
+- 2014-07-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4919.
+- 2014-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-28 — Mr. Bentivolio moved to suspend the rules and pass the bill.
+- 2014-07-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6936)
+- 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6936)
