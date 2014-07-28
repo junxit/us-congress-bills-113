@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4156
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4156
@@ -85,3 +85,9 @@ Transparent Airfares Act of 2014
 - 2014-07-24 — Placed on the Union Calendar, Calendar No. 414.
 - 2014-07-24 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-554.
 - 2014-07-24 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-554.
+- 2014-07-28 — Considered under suspension of the rules. (consideration: CR H6866-6868)
+- 2014-07-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4156.
+- 2014-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-28 — Mr. Shuster moved to suspend the rules and pass the bill.
+- 2014-07-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6866)
+- 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6866)
