@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 594
 
-> To reauthorize and extend the Paul D. Wellstone Muscular Dystrophy Community Assistance, Research, and Education Amendments of 2008.
+> To amend the Public Health Service Act relating to Federal research on muscular dystrophy, and for other purposes.
 
 ## § 1. Short title
 
