@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Critical Infrastructure Research and Development Advancement Act of 2013” or the “CIRDA Act of 2013”.
+This Act may be cited as the “Critical Infrastructure Research and Development Advancement Act of 2014” or the “CIRDA Act of 2014”.
 
 ## § 2. Definitions
 
@@ -48,7 +48,7 @@ Section 2 of the Homeland Security Act of 2002 (6 U.S.C. 101) is amended by rede
     >
     > ## § 319. Report on public-private research and development consortiums
     >
-    > - **(a)** *In general* Not later than 180 days after the enactment of the Critical Infrastructure Research and Development Advancement Act of 2013, the Secretary, acting through the Under Secretary for Science and Technology, shall transmit to Congress a report on the Department’s utilization of public-private research and development consortiums for accelerating technology development for critical infrastructure protection. Once every 2 years after the initial report is transmitted to Congress under this section, the Secretary shall transmit to Congress an update of the report. The report shall focus on those aspects of critical infrastructure protection that are predominately operated by the private sector and that would most benefit from rapid security technology advancement.
+    > - **(a)** *In general* Not later than 180 days after the enactment of the Critical Infrastructure Research and Development Advancement Act of 2014, the Secretary, acting through the Under Secretary for Science and Technology, shall transmit to Congress a report on the Department’s utilization of public-private research and development consortiums for accelerating technology development for critical infrastructure protection. Once every 2 years after the initial report is transmitted to Congress under this section, the Secretary shall transmit to Congress an update of the report. The report shall focus on those aspects of critical infrastructure protection that are predominately operated by the private sector and that would most benefit from rapid security technology advancement.
     > - **(b)** *Contents of Report* The report shall include—
     >   - **(1)** a summary of the progress and accomplishments of on-going consortiums for critical infrastructure security technologies;
     >   - **(2)** in consultation with the Sector Coordinating Councils and, to the extent practicable, in consultation with subject-matter experts on critical infrastructure protection from universities, colleges, including historically black colleges and universities, Hispanic-serving institutions, and tribal colleges and universities, national laboratories, and private industry, a prioritized list of technology development focus areas that would most benefit from a public-private research and development consortium; and
