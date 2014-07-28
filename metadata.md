@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4838
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4838
@@ -16,7 +16,7 @@ To redesignate the railroad station located at 2955 Market Street in Philadelphi
 
 - Rep. Fattah, Chaka [D-PA-2] (F000043)
 
-## Cosponsors (17)
+## Cosponsors (21)
 
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 - Rep. Kelly, Mike [R-PA-3] (K000376)
@@ -35,6 +35,10 @@ To redesignate the railroad station located at 2955 Market Street in Philadelphi
 - Rep. Pitts, Joseph R. [R-PA-16] (P000373)
 - Rep. Cartwright, Matt [D-PA-17] (C001090)
 - Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Brown, Corrine [D-FL-5] (B000911)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Edwards, Donna F. [D-MD-4] (E000290)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 
 ## Committees (1)
 
@@ -45,3 +49,10 @@ To redesignate the railroad station located at 2955 Market Street in Philadelphi
 - 2014-06-11 — Introduced in House
 - 2014-06-11 — Introduced in House
 - 2014-06-11 — Referred to the House Committee on Transportation and Infrastructure.
+- 2014-06-12 — Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.
+- 2014-07-28 — Considered under suspension of the rules. (consideration: CR H6868-6870)
+- 2014-07-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4838.
+- 2014-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-28 — Mr. Shuster moved to suspend the rules and pass the bill.
+- 2014-07-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6868)
+- 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6868)
