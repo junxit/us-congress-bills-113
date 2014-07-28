@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1771
 congress: 113
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 3 executed, 4 stated and not applied.
+6 amendatory instructions. 2 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,15 +41,6 @@ to guess them.
 |---|---|
 | Removed | `or section 92 of the Atomic Energy Act of 1954` |
 | Inserted | `section 92 of the Atomic Energy Act of 1954` |
-
-### 22 U.S.C. § 8412
-
-> Section 102(a) of the Enhanced Partnership with Pakistan Act of 2009 (Public Law 111–73; 22 U.S.C. 8412(a)) is amended by striking “$1,500,000,000” and inserting “$1,490,000,000”.
-
-| | |
-|---|---|
-| Removed | `$1,500,000,000` |
-| Inserted | `$1,490,000,000` |
 
 ## Stated, not applied
 
