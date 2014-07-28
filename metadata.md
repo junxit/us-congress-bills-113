@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 105
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 105
@@ -28,9 +28,10 @@ Prohibiting the President from deploying or maintaining United States Armed Forc
 - Rep. Schrader, Kurt [D-OR-5] (S001180)
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ Prohibiting the President from deploying or maintaining United States Armed Forc
 - 2014-07-25 — Passed/agreed to in House: On agreeing to the resolution, as amended Agreed to by the Yeas and Nays: 370 - 40 (Roll no. 452).(text: CR H6819)
 - 2014-07-25 — The previous question was ordered pursuant to a previous  order of the House. (CR H6825)
 - 2014-07-25 — The title of the measure was amended. Agreed to without objection.
+- 2014-07-28 — Received in the Senate and referred to the Committee on Foreign Relations.
