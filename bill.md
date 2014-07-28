@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3635
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,40 +11,56 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Safe and Secure Federal Websites Act of 2013”.
+This Act may be cited as the “Safe and Secure Federal Websites Act of 2014”.
 
 ## § 2. Ensuring functionality and security of new Federal websites that collect personally identifiable information
 
 - **(a)** *Certification requirement*
-  - **(1)** *In general* Except as otherwise provided under this subsection, an agency may not deploy or make available to the public a new Federal PII website until the date on which a certification under subsection (b)(2) is submitted to Congress that the website is fully functional and secure.
-  - **(2)** *Transition* In the case of a new Federal PII website that is operational on the date of the enactment of this Act, paragraph (1) shall not apply until the end of the 30-day period beginning on such date of enactment. If the certification under subsection (b)(2) for such website has not been submitted to Congress before the end of such period, the head of the responsible agency shall render the website inaccessible to the public until such certification is submitted to Congress.
-  - **(3)** *Exception for beta website with explicit permission* Paragraph (1) shall not apply to a website (or portion thereof) that is designed for testing and development purposes, if the following conditions are met:
+  - **(1)** *In general* Except as otherwise provided under this subsection, an agency may not deploy or make available to the public a new Federal PII website until the date on which the chief information officer of the agency submits a certification to Congress that the website is fully functional and secure.
+  - **(2)** *Transition* In the case of a new Federal PII website that is operational on the date of the enactment of this Act, paragraph (1) shall not apply until the end of the 90-day period beginning on such date of enactment. If the certification required under paragraph (1) for such website has not been submitted to Congress before the end of such period, the head of the responsible agency shall render the website inaccessible to the public until such certification is submitted to Congress.
+  - **(3)** *Exception for beta website with explicit permission* Paragraph (1) shall not apply to a website (or portion thereof) that is in a development or testing phase, if the following conditions are met:
     - **(A)** A member of the public may access PII-related portions of the website only after executing an agreement that acknowledges the risks involved.
     - **(B)** No agency compelled, enjoined, or otherwise provided incentives for such a member to access the website for such purposes.
   - **(4)** *Construction* Nothing in this section shall be construed as applying to a website that is operated entirely by an entity (such as a State or locality) that is independent of the Federal Government, regardless of the receipt of funding in support of such website from the Federal Government.
-- **(b)** *Process for study and certification of functionality and security of new Federal PII websites*
-  - **(1)** *GAO study and report*
-    - **(A)** *Study*
-      - **(i)** *Current websites* Not later than 30 days after the date of the enactment of this Act, the Comptroller General of the United States shall conduct a study of each new Federal PII website that is operational as of such date of enactment to determine whether such website is fully functional and secure.
-      - **(ii)** *Future websites* Not later than 30 days after the date on which an advance notification is received under paragraph (3) for a new Federal PII website that is not operational as of such date of enactment, the Comptroller General shall conduct a study of such website to determine whether such website is fully functional and secure.
-    - **(B)** *Report to appropriate congressional committees* Upon the completion of a study of a website under subparagraph (A) or (C), the Comptroller General shall submit to the appropriate committees of Congress and the Chief Information Officer for the responsible agency a report on the results of the study. Such report shall include a determination of whether the website is fully functional and secure.
-    - **(C)** *Followup studies and report* If, based on the results of the most recent study under subparagraph (A) or this subparagraph, the Comptroller General determines that the website is not fully functional or not secure, the Comptroller General shall conduct an additional study (and submit a report described in subparagraph (B) on the results of such study) until the Comptroller General determines that the website is determined to be fully functional and secure.
-  - **(2)** *Certification by CIO of responsible agency* Upon the submission of a report under paragraph (1) that determines that a website operated by a responsible agency is fully functional and secure, the Chief Information Officer for such agency shall submit to Congress a certification of the results of such report and a certification as to whether the website is fully functional and secure.
-  - **(3)** *Advance notification for operation of future websites* Each agency that intends to operate a new Federal PII website on or after the date of the enactment of this Act shall notify the Comptroller General of such intention and provide to the Comptroller General, in advance of the website becoming operational, such information as the Comptroller General may require to conduct a study and perform an evaluation under this subsection.
-- **(c)** *Definitions* In this section:
+- **(b)** *Definitions* In this section:
   - **(1)** *Agency* The term agency has the meaning given that term under section 551 of title 5, United States Code.
-  - **(2)** *Fully functional* The term fully functional means, with respect to a new Federal PII website, that the website can fully support the activities for which it is designed or intended with regard to the eliciting, collection, or storage of personally identifiable information, including handling a volume of queries relating to such information commensurate with the purpose for which the website is designed.
-  - **(3)** *New Federal PII website* The term new Federal PII website means a website that—
+  - **(2)** *Fully functional* The term fully functional means, with respect to a new Federal PII website, that the website can fully support the activities for which it is designed or intended with regard to the eliciting, collection, storage, or maintenance of personally identifiable information, including handling a volume of queries relating to such information commensurate with the purpose for which the website is designed.
+  - **(3)** *New Federal personally identifiable information website (New Federal PII website)* The terms new Federal personally identifiable information website and new Federal PII website mean a website that—
     - **(A)** is operated by (or under a contract with) an agency;
-    - **(B)** elicits, collects, or stores personally identifiable information of individuals and is accessible to the public; and
-    - **(C)** is first made accessible to the public and collects or stores personally identifiable information of individuals, on or after July 1, 2013.
-  - **(4)** *Operational* The term operational means, with respect to a website, that such website elicits, collects, or stores personally identifiable information of members of the public and is accessible to the public.
-  - **(5)** *Personally identifiable information (PII)* The terms personally identifiable information and PII mean any information that can be associated with one individual through a social security account number, taxpayer identification number, state identification number or other identifer, but does not include information (such as name, mailing or email address, telephone number, or similar contact information) necessary to contact an individual.
+    - **(B)** elicits, collects, stores, or maintains personally identifiable information of individuals and is accessible to the public; and
+    - **(C)** is first made accessible to the public and collects or stores personally identifiable information of individuals, on or after October 1, 2012.
+  - **(4)** *Operational* The term operational means, with respect to a website, that such website elicits, collects, stores, or maintains personally identifiable information of members of the public and is accessible to the public.
+  - **(5)** *Personally identifiable information (PII)* The terms personally identifiable information and PII mean any information about an individual elicited, collected, stored, or maintained by an agency, including—
+    - **(A)** any information that can be used to distinguish or trace the identity of an individual, such as a name, a social security number, a date and place of birth, a mother’s maiden name, or biometric records; and
+    - **(B)** any other information that is linked or linkable to an individual, such as medical, educational, financial, and employment information.
   - **(6)** *Responsible agency* The term responsible agency means, with respect to a new Federal PII website, the agency that is responsible for the operation (whether directly or through contracts with other entities) of the website.
   - **(7)** *Secure* The term secure means, with respect to a new Federal PII website, that the following requirements are met:
-    - **(A)** The website has security features that meet a standard acceptable for banking purposes and the responsible agency has a named overall security leader with a comprehensive, top-down view of the security posture for the website who has supervised a complete end-to-end security test.
-    - **(B)** The website ensures that personally identifiable information elicited, collected, or stored in connection with the website is captured at the latest possible step in a user input sequence.
-    - **(C)** The responsible agency for the website has taken reasonable efforts to minimize domain name confusion, including through additional domain registrations and a program to educate consumers how to spot fraudulent websites.
+    - **(A)** The website is in compliance with subchapter III of chapter 35 of title 44, United States Code.
+    - **(B)** The website ensures that personally identifiable information elicited, collected, stored, or maintained in connection with the website is captured at the latest possible step in a user input sequence.
+    - **(C)** The responsible agency for the website has taken reasonable efforts to minimize domain name confusion, including through additional domain registrations.
     - **(D)** The responsible agency requires all personnel who have access to personally identifiable information in connection with the website to have completed a Standard Form 85P and signed a non-disclosure agreement with respect to personally identifiable information, and the agency takes proper precautions to ensure only trustworthy persons may access such information.
-    - **(E)** The responsible agency maintains (either directly or through contract) ample personnel to respond in a timely manner to issues relating to the proper functioning and security of the website, and to monitor on an ongoing basis existing and emerging security threats to the website.
+    - **(E)** The responsible agency maintains (either directly or through contract) sufficient personnel to respond in a timely manner to issues relating to the proper functioning and security of the website, and to monitor on an ongoing basis existing and emerging security threats to the website.
   - **(8)** *State* The term State means each State of the United States, the District of Columbia, each territory or possession of the United States, and each federally recognized Indian tribe.
+
+## § 3. Privacy breach requirements
+
+- **(a)** *Information security amendment* Subchapter III of chapter 35 of title 44, United States Code, is amended by adding at the end the following:
+  > ## § 3550. Privacy breach requirements
+  >
+  > - **(a)** *Policies and Procedures* The Director of the Office of Management and Budget shall establish and oversee policies and procedures for agencies to follow in the event of a breach of information security involving the disclosure of personally identifiable information, including requirements for—
+  >   - **(1)** not later than 72 hours after the agency discovers such a breach, or discovers evidence that reasonably indicates such a breach has occurred, notice to the individuals whose personally identifiable information could be compromised as a result of such breach;
+  >   - **(2)** timely reporting to a Federal cybersecurity center, as designated by the Director of the Office of Management and Budget; and
+  >   - **(3)** any additional actions that the Director finds necessary and appropriate, including data breach analysis, fraud resolution services, identity theft insurance, and credit protection or monitoring services.
+  > - **(b)** *Required Agency Action* The head of each agency shall ensure that actions taken in response to a breach of information security involving the disclosure of personally identifiable information under the authority or control of the agency comply with policies and procedures established by the Director of the Office of Management and Budget under subsection (a).
+  > - **(c)** *Report* Not later than March 1 of each year, the Director of the Office of Management and Budget shall report to Congress on agency compliance with the policies and procedures established under subsection (a).
+  > - **(d)** *Federal cybersecurity center defined* The term Federal cybersecurity center means any of the following:
+  >   - **(1)** The Department of Defense Cyber Crime Center.
+  >   - **(2)** The Intelligence Community Incident Response Center.
+  >   - **(3)** The United States Cyber Command Joint Operations Center.
+  >   - **(4)** The National Cyber Investigative Joint Task Force.
+  >   - **(5)** Central Security Service Threat Operations Center of the National Security Agency.
+  >   - **(6)** The United States Computer Emergency Readiness Team.
+  >   - **(7)** Any successor to a center, team, or task force described in paragraphs (1) through (6).
+  >   - **(8)** Any center that the Director of the Office of Management and Budget determines is appropriate to carry out the requirements of this section.
+
+- **(b)** *Technical and Conforming Amendment* The table of sections for subchapter III of chapter 35 of title 44, United States Code, is amended by adding at the end the following:
