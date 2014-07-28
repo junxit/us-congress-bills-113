@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3107
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,43 +9,59 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To require the Secretary of Homeland Security to establish cybersecurity occupation classifications, assess the cybersecurity workforce, develop a strategy to address identified gaps in the cybersecurity workforce, and for other purposes.
 
-## § 1. Short title
+## § 1. Homeland security cybersecurity workforce
 
-This Act may be cited as the “Homeland Security Cybersecurity Boots-on-the-Ground Act”.
+- **(a)** *In general* Subtitle C of title II of the Homeland Security Act of 2002 (6 U.S.C. 141 et seq.) is amended by adding at the end the following new section:
+  > ## § 226. Cybersecurity occupation categories, workforce assessment, and strategy
+  >
+  > - **(a)** *Short title* This section may be cited as the “Homeland Security Cybersecurity Boots-on-the-Ground Act”.
+  > - **(b)** *Cybersecurity occupation categories*
+  >   - **(1)** *In general* Not later than 90 days after the date of the enactment of this section, the Secretary shall develop and issue comprehensive occupation categories for individuals performing activities in furtherance of the cybersecurity mission of the Department.
+  >   - **(2)** *Applicability* The Secretary shall ensure that the comprehensive occupation categories issued under paragraph (1) are used throughout the Department and are made available to other Federal agencies.
+  > - **(c)** *Cybersecurity workforce assessment*
+  >   - **(1)** *In general* Not later than 180 days after the date of the enactment of this section and annually thereafter, the Secretary shall assess the readiness and capacity of the workforce of the Department to meet its cybersecurity mission.
+  >   - **(2)** *Contents* The assessment required under paragraph (1) shall, at a minimum, include the following:
+  >     - **(A)** Information where cybersecurity positions are located within the Department, specified in accordance with the cybersecurity occupation categories issued under subsection (b).
+  >     - **(B)** Information on which cybersecurity positions are—
+  >       - **(i)** performed by—
+  >         - **(I)** permanent full time departmental employees, together with demographic information about such employees’ race, ethnicity, gender, disability status, and veterans status;
+  >         - **(II)** individuals employed by independent contractors; and
+  >         - **(III)** individuals employed by other Federal agencies, including the National Security Agency; and
+  >       - **(ii)** vacant.
+  >     - **(C)** The number of individuals hired by the Department pursuant to the authority granted to the Secretary in 2009 to permit the Secretary to fill 1,000 cybersecurity positions across the Department over a three year period, and information on what challenges, if any, were encountered with respect to the implementation of such authority.
+  >     - **(D)** Information on vacancies within the Department’s cybersecurity supervisory workforce, from first line supervisory positions through senior departmental cybersecurity positions.
+  >     - **(E)** Information on the percentage of individuals within each cybersecurity occupation category who received essential training to perform their jobs, and in cases in which such training is not received, information on what challenges, if any, were encountered with respect to the provision of such training.
+  >     - **(F)** Information on recruiting costs incurred with respect to efforts to fill cybersecurity positions across the Department in a manner that allows for tracking of overall recruiting and identifying areas for better coordination and leveraging of resources within the Department.
+  > - **(d)** *Workforce strategy*
+  >   - **(1)** *In general* Not later than 180 days after the date of the enactment of this section, the Secretary shall develop, maintain, and, as necessary, update, a comprehensive workforce strategy that enhances the readiness, capacity, training, recruitment, and retention of the cybersecurity workforce of the Department.
+  >   - **(2)** *Contents* The comprehensive workforce strategy developed under paragraph (1) shall include—
+  >     - **(A)** a multiphased recruitment plan, including relating to experienced professionals, members of disadvantaged or underserved communities, the unemployed, and veterans;
+  >     - **(B)** a 5-year implementation plan;
+  >     - **(C)** a 10-year projection of the Department’s cybersecurity workforce needs; and
+  >     - **(D)** obstacles impeding the hiring and development of a cybersecurity workforce at the Department.
+  > - **(e)** *Information security training* Not later than 270 days after the date of the enactment of this section, the Secretary shall establish and maintain a process to verify on an ongoing basis that individuals employed by independent contractors who serve in cybersecurity positions at the Department receive initial and recurrent information security training comprised of general security awareness training necessary to perform their job functions, and role-based security training that is commensurate with assigned responsibilities. The Secretary shall maintain documentation to ensure that training provided to an individual under this subsection meets or exceeds requirements for such individual’s job function.
+  > - **(f)** *Updates* The Secretary shall submit to the appropriate congressional committees annual updates regarding the cybersecurity workforce assessment required under subsection (c), information on the progress of carrying out the comprehensive workforce strategy developed under subsection (d), and information on the status of the implementation of the information security training required under subsection (e).
+  > - **(g)** *GAO study* The Secretary shall provide the Comptroller General of the United States with information on the cybersecurity workforce assessment required under subsection (c) and progress on carrying out the comprehensive workforce strategy developed under subsection (d). The Comptroller General shall submit to the Secretary and the appropriate congressional committees a study on such assessment and strategy.
+  > - **(h)** *Cybersecurity Fellowship Program* Not later than 120 days after the date of the enactment of this section, the Secretary shall submit to the appropriate congressional committees a report on the feasibility of establishing a Cybersecurity Fellowship Program to offer a tuition payment plan for undergraduate and doctoral candidates who agree to work for the Department for an agreed-upon period of time.
 
-## § 2. Cybersecurity occupation classifications, workforce assessment, and strategy
+- **(b)** *Clerical amendment* The table of contents in section 1(b) of such Act is amended by adding after the item relating to section 225 the following new item:
 
-- **(a)** *Cybersecurity occupation classifications*
-  - **(1)** *In general* Not later than 90 days after the date of the enactment of this Act, the Secretary of Homeland Security shall develop and issue comprehensive occupation classifications for individuals performing activities in furtherance of the cybersecurity mission of the Department of Homeland Security.
-  - **(2)** *Applicability* The Secretary of Homeland Security shall ensure that the comprehensive occupation classifications issued under paragraph (1) are used throughout the Department of Homeland Security and are made available to other Federal agencies.
-- **(b)** *Cybersecurity workforce assessment*
-  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security, acting through the Chief Human Capital Officer and Chief Information Officer of the Department of Homeland Security, shall assess the readiness and capacity of the Department to meet its cybersecurity mission.
-  - **(2)** *Contents* The assessment required under paragraph (1) shall, at a minimum, include the following:
-    - **(A)** Information where cybersecurity positions are located within the Department of Homeland Security, specified in accordance with the cybersecurity occupation classifications issued under subsection (a).
-    - **(B)** Information on which cybersecurity positions are—
-      - **(i)** performed by—
-        - **(I)** permanent full time departmental employees, together with demographic information about such employees’ race, ethnicity, gender, disability status, and veterans status;
-        - **(II)** individuals employed by independent contractors; and
-        - **(III)** individuals employed by other Federal agencies, including the National Security Agency; and
-      - **(ii)** vacant.
-    - **(C)** The number of individuals hired by the Department pursuant to the authority granted to the Secretary of Homeland Security in 2009 to permit the Secretary to fill 1,000 cybersecurity positions across the Department over a three year period, and information on what challenges, if any, were encountered with respect to the implementation of such authority.
-    - **(D)** Information on vacancies within the Department’s cybersecurity supervisory workforce, from first line supervisory positions through senior departmental cybersecurity positions.
-    - **(E)** Information on the percentage of individuals within each cybersecurity occupation classification who received essential training to perform their jobs, and in cases in which such training is not received, information on what challenges, if any, were encountered with respect to the provision of such training.
-    - **(F)** Information on recruiting costs incurred with respect to efforts to fill cybersecurity positions across the Department in a manner that allows for tracking of overall recruiting and identifying areas for better coordination and leveraging of resources within the Department.
-- **(c)** *Workforce strategy*
-  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security shall develop a comprehensive workforce strategy that enhances the readiness, capacity, training, and recruitment and retention of the cybersecurity workforce of the Department of Homeland Security.
-  - **(2)** *Contents* The comprehensive workforce strategy developed under paragraph (1) shall include—
-    - **(A)** a multiphased recruitment plan, including relating to experienced professionals, members of disadvantaged or underserved communities, the unemployed, and veterans;
-    - **(B)** a 5-year implementation plan; and
-    - **(C)** a 10-year projection of Federal workforce needs.
-- **(d)** *Information security training* Not later than 270 days after the date of the enactment of this Act, the Secretary of Homeland Security shall establish and maintain a process to verify on an ongoing basis that individuals employed by independent contractors who serve in cybersecurity positions at the Department of Homeland Security receive initial and recurrent information security training comprised of general security awareness training necessary to perform their job functions, and role-based security training that is commensurate with assigned responsibilities. The Secretary shall maintain documentation to ensure that training provided to an individual under this subsection meets or exceeds requirements for such individual’s job function.
-- **(e)** *Updates* Together with the submission to Congress of annual budget requests, the Secretary of Homeland Security shall provide updates regarding the cybersecurity workforce assessment required under subsection (b), information on the progress of carrying out the comprehensive workforce strategy developed under subsection (c), and information on the status of the implementation of the information security training required under subsection (d).
-- **(f)** *GAO study* The Secretary of Homeland Security shall provide the Comptroller General of the United States with information on the cybersecurity workforce assessment required under subsection (a) and progress on carrying out the comprehensive workforce strategy developed under subsection (c). The Comptroller General shall submit to the Secretary, the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a study on such assessment and strategy.
+## § 2. Personnel authorities
 
-## § 3. Cybersecurity Fellowship Program
+- **(a)** *In general* Subtitle C of title II of the Homeland Security Act of 2002, as amended by section 1 of this Act, is further amended by adding at the end the following new section:
+  > ## § 227. Personnel authorities
+  >
+  > - **(a)** *In general*
+  >   - **(1)** *Personnel authorities* The Secretary may exercise with respect to qualified employees of the Department the same authority that the Secretary of Defense has with respect to civilian intelligence personnel and the scholarship program under sections 1601, 1602, 1603, and 2200a of title 10, United States Code, to establish as positions in the excepted service, appoint individuals to such positions, fix pay, and pay a retention bonus to any employee appointed under this section if the Secretary determines that such is needed to retain essential personnel. Before announcing the payment of a bonus under this paragraph, the Secretary shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a written explanation of such determination. Such authority shall be exercised—
+  >     - **(A)** to the same extent and subject to the same conditions and limitations that the Secretary of Defense may exercise such authority with respect to civilian intelligence personnel of the Department of Defense; and
+  >     - **(B)** in a manner consistent with the merit system principles set forth in section 2301 of title 5, United States Code.
+  >   - **(2)** *Civil service protections* Sections 1221 and 2302, and chapter 75 of title 5, United States Code, shall apply to the positions established pursuant to the authorities provided under paragraph (1).
+  >   - **(3)** *Plan for execution of authorities* Not later than 120 days after the date of the enactment of this section, the Secretary shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that contains a plan for the use of the authorities provided under this subsection.
+  > - **(b)** *Annual report* Not later than one year after the date of the enactment of this section and annually thereafter for four years, the Secretary shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a detailed report (including appropriate metrics on actions occurring during the reporting period) that discusses the processes used by the Secretary in implementing this section and accepting applications, assessing candidates, ensuring adherence to veterans’ preference, and selecting applicants for vacancies to be filled by a qualified employee.
+  > - **(c)** *Definition of qualified employee* In this section, the term qualified employee means an employee who performs functions relating to the security of Federal civilian information systems, critical infrastructure information systems, or networks of either of such systems.
 
-Not later than 120 days after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the feasibility of establishing a Cybersecurity Fellowship Program to offer a tuition payment plan for undergraduate and doctoral candidates who agree to work for the Department of Homeland Security for an agreed-upon period of time.
+- **(b)** *Clerical amendment* The table of contents in section 1(b) of such Act is amended by adding after the item relating to section 226 (as added by section 1 of this Act) the following new item:
 
-## § 4. Definition
+## § 3. Clarification regarding authorization of appropriations
 
-In this Act, the term “cybersecurity mission” means activities that encompass the full range of threat reduction, vulnerability reduction, deterrence, incident response, resiliency, and recovery activities to foster the security and stability of cyberspace.
+No additional amounts are authorized to be appropriated by reason of this Act or the amendments made by this Act.
