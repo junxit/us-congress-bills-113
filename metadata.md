@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5111
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5111
@@ -34,9 +34,10 @@ To improve the response to victims of child sex trafficking.
 - Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
 - Rep. McGovern, James P. [D-MA-2] (M000312)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ To improve the response to victims of child sex trafficking.
 - 2014-07-24 — Considered as unfinished business. (consideration: CR H6778-6779)
 - 2014-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 447). (text: CR 7/24/2014 H6709)
 - 2014-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 447).(text: CR 7/24/2014 H6709)
+- 2014-07-28 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
