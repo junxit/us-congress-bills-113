@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 676
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 676
@@ -27,3 +27,8 @@ Providing for authority to initiate litigation for actions by the President or o
 - 2014-07-22 — Introduced in House
 - 2014-07-22 — Referred to the Committee on Rules, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2014-07-22 — Referred to the Committee on Rules, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-07-28 — Committee on House Administration discharged.
+- 2014-07-28 — Committee on House Administration discharged.
+- 2014-07-28 — Placed on the House Calendar, Calendar No. 129.
+- 2014-07-28 — Reported (Amended) by the Committee on Rules. H. Rept. 113-561, Part I.
+- 2014-07-28 — Reported (Amended) by the Committee on Rules. H. Rept. 113-561, Part I.
