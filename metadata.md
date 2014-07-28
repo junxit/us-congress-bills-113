@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3846
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3846
@@ -42,3 +42,9 @@ United States Customs and Border Protection Authorization Act
 - 2014-07-24 — Placed on the Union Calendar, Calendar No. 415.
 - 2014-07-24 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-555, Part I.
 - 2014-07-24 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-555, Part I.
+- 2014-07-28 — Considered under suspension of the rules. (consideration: CR H6899-6908)
+- 2014-07-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3846.
+- 2014-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-28 — Mrs. Miller (MI) moved to suspend the rules and pass the bill, as amended.
+- 2014-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6899-6904)
+- 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6899-6904)

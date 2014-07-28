@@ -23,21 +23,21 @@ This Act may be cited as the “United States Customs and Border Protection Auth
   > - **(c)** *Duties* The Commissioner shall—
   >   - **(1)** ensure the interdiction of persons and goods illegally entering or exiting the United States;
   >   - **(2)** facilitate and expedite the flow of legitimate travelers and trade;
-  >   - **(3)** detect, respond to, and interdict terrorists, drug smugglers and traffickers, human smugglers and traffickers, criminals, and other persons who may undermine the security of the United States;
+  >   - **(3)** detect, respond to, and interdict terrorists, drug smugglers and traffickers, human smugglers and traffickers, and other persons who may undermine the security of the United States, in cases in which such persons are entering, or have recently entered, the United States;
   >   - **(4)** safeguard the borders of the United States to protect against the entry of dangerous goods;
   >   - **(5)** oversee the functions of the Office of International Trade established under section 402 of the Security and Accountability for Every Port Act of 2006 (19 U.S.C. 2072; Public Law 109–347);
   >   - **(6)** enforce and administer all customs laws of the United States, including the Tariff Act of 1930;
-  >   - **(7)** enforce and administer all immigration laws, as such term is defined in paragraph (17) of section 101(a) of the Immigration and Nationality Act (8 U.S.C. 1101(a)), in coordination with United States Immigration and Customs Enforcement and United States Citizenship and Immigration Services;
+  >   - **(7)** enforce and administer all immigration laws, as such term is defined in paragraph (17) of section 101(a) of the Immigration and Nationality Act (8 U.S.C. 1101(a)), as necessary for the inspection, processing, and admission of persons who seek to enter or depart the United States, and as necessary to ensure the detection, interdiction, removal, departure from the United States, short-term detention, and transfer of persons unlawfully entering, or who have recently unlawfully entered, the United States, in coordination with United States Immigration and Customs Enforcement and United States Citizenship and Immigration Services;
   >   - **(8)** develop and implement screening and targeting capabilities, including the screening, reviewing, identifying, and prioritizing of passengers and cargo across all international modes of transportation, both inbound and outbound;
   >   - **(9)** enforce and administer the laws relating to agricultural import and entry inspection referred to in section 421;
   >   - **(10)** in coordination with the Secretary, deploy technology to collect the data necessary for the Secretary to administer the biometric entry and exit data system pursuant to section 7208 of the Intelligence Reform and Terrorism Prevention Act of 2004 (8 U.S.C. 1365b);
-  >   - **(11)** in coordination with the Under Secretary for Management of the Department, ensure United States Customs and Border Protection complies with Federal law, the Federal Acquisition Regulation, and the Department’s acquisition management directives for major acquisition programs of United States Customs and Border Protection;
+  >   - **(11)** In coordination with the Under Secretary for Management of the Department, ensure United States Customs and Border Protection complies with Federal law, the Federal Acquisition Regulation, and the Department’s acquisition management directives for major acquisition programs of United States Customs and Border Protection;
   >   - **(12)** enforce and administer—
   >     - **(A)** the Container Security Initiative program under section 205 of the Security and Accountability for Every Port Act of 2006 (6 U.S.C. 945; Public Law 109–347); and
   >     - **(B)** the Customs-Trade Partnership Against Terrorism program under sections 211 through 223 of such Act (6 U.S.C. 961-973);
   >   - **(13)** establish the standard operating procedures described in subsection (k);
   >   - **(14)** carry out the training required under subsection (l); and
-  >   - **(15)** carry out the duties and powers prescribed by law or delegated by the Secretary.
+  >   - **(15)** carry out other duties and powers prescribed by law or delegated by the Secretary.
   > - **(d)** *Deputy Commissioner* There shall be in United States Customs and Border Protection a Deputy Commissioner who shall assist the Commissioner in the management of United States Customs and Border Protection.
   > - **(e)** *United States Border Patrol*
   >   - **(1)** *In general* There is established in United States Customs and Border Protection the United States Border Patrol.
@@ -134,7 +134,7 @@ This Act may be cited as the “United States Customs and Border Protection Auth
   >   - **(6)** *Requirements regarding other notifications* The standard operating procedures established pursuant to subparagraph (B) of paragraph (1) shall require—
   >     - **(A)** in the case of an incident of the use of deadly force by United States Customs and Border Protection personnel, the Commissioner to notify the appropriate congressional committees; and
   >     - **(B)** the Commissioner to provide to such committees a copy of the evaluation pursuant to subparagraph (D) of such paragraph not later than 30 days after completion of such evaluation.
-  >   - **(7)** *Report on unmanned aerial systems* The Commissioner shall submit to the appropriate congressional committees an annual report that reviews whether the use of unmanned aerial systems are being conducted in conformity with the standard operating procedures required under subparagraph (E) of paragraph (1). Such reports—
+  >   - **(6)** *Report on unmanned aerial systems* The Commissioner shall submit to the appropriate congressional committees an annual report that reviews whether the use of unmanned aerial systems are being conducted in conformity with the standard operating procedures required under subparagraph (E) of paragraph (1). Such reports—
   >     - **(A)** shall be submitted with the President’s annual budget;
   >     - **(B)** may be submitted in classified form if the Commissioner determines that such is appropriate, and
   >     - **(C)** shall include—
@@ -166,7 +166,7 @@ This Act may be cited as the “United States Customs and Border Protection Auth
   >     - **(B)** make information about such wait times available to the public in real time through the United States Customs and Border Protection Web site;
   >     - **(C)** submit to the appropriate congressional committees quarterly reports that include compilations of all such wait times and a ranking of such United States airports by wait times; and
   >     - **(D)** provide adequate staffing at the United States Customs and Border Protection information center to ensure timely access for travelers attempting to submit comments or speak with a representative about their entry experiences.
-  >   - **(2)** *Calculation* The wait times referred to in paragraph (1)(A) shall be determined by calculating the time elapsed between an individual’s entry into the United States Customs and Border Protection inspection area and such individual’s clearance by a United States Customs and Border Protection officer
+  >   - **(2)** *Calculation* The wait times referred to in paragraph (1)(A) shall be determined by calculating the time elapsed between an individual’s entry into the United States Customs and Border Protection inspection area and such individual’s clearance by a United States Customs and Border Protection officer.
   > - **(o)** *Other authorities*
   >   - **(1)** *In general* The Secretary may establish such other offices or Assistant Commissioners (or other similar officers or officials) as the Secretary determines necessary to carry out the missions, duties, functions, and authorities of United States Customs and Border Protection.
   >   - **(2)** *Notification* If the Secretary exercises the authority provided pursuant to paragraph (1), the Secretary shall notify the appropriate congressional committees not later than 30 days before exercising such authority.
@@ -196,9 +196,9 @@ Sections 416, 418, and 443 of the Homeland Security Act of 2002 (6 U.S.C. 216, 2
     - **(A)** in section 102(f)(10) (6 U.S.C. 112(f)(10)), by striking “the Directorate of Border and Transportation Security” and inserting “Commissioner of United States Customs and Border Protection”; and
     - **(B)** in section 103(a)(1) (6 U.S.C. 113(a)(1))—
       - **(i)** in subparagraph (C), by striking “An Under Secretary for Border and Transportation Security.” and inserting “A Commissioner of United States Customs and Border Protection.”; and
-      - **(ii)** in subparagraph (G), by striking “A Director of the Office of Counternarcotics Enforcement.” and inserting “A Director for United States Immigration and Customs Enforcement.”;
+      - **(ii)** in subparagraph (G), by striking “A Director of the Office of Counternarcotics Enforcement.” and inserting “A Director for United States Immigration and Customs Enforcement.”; and
   - **(2)** in title IV—
-    - **(A)** by striking the title heading and inserting “Border, Maritime, and Transportation Security”; and
+    - **(A)** by striking the title heading and inserting “Border, Maritime, and Transportation Security”;
     - **(B)** in subtitle A—
       - **(i)** by striking the subtitle heading and inserting “Border, Maritime, and Transportation Security Responsibilities and Functions”; and
       - **(ii)** in section 402 (6 U.S.C. 202)—
@@ -226,7 +226,7 @@ Sections 416, 418, and 443 of the Homeland Security Act of 2002 (6 U.S.C. 216, 2
         - **(III)** in subsection (c)(7), by striking “Directorate” and inserting “Department”; and
     - **(E)** in subtitle D—
       - **(i)** in section 441 (6 U.S.C. 251)—
-        - **(I)** by striking the section heading and inserting “Transfer of functions.”; and
+        - **(I)** by striking the section heading and inserting “Transfer of functions”; and
         - **(II)** by striking “Under Secretary for Border and Transportation Security” and inserting “Secretary”; and
       - **(ii)** by amending section 444 (6 U.S.C. 254) to read as follows:
         > ## § 444. Employee discipline
@@ -238,10 +238,9 @@ Sections 416, 418, and 443 of the Homeland Security Act of 2002 (6 U.S.C. 216, 2
   - **(1)** by striking the item relating to title IV and inserting the following:
   - **(2)** by striking the item relating to subtitle A of title IV and inserting the following:
   - **(3)** by striking the item relating to section 401;
-  - **(4)** by amending the item relating to section 402 to read as follows:
-  - **(5)** by striking the item relating to subtitle B of title IV and inserting the following:
-  - **(6)** by striking the item relating to section 441 and inserting the following:
-  - **(7)** by striking the item relating to section 442 and inserting the following:
+  - **(4)** by striking the item relating to subtitle B of title IV and inserting the following:
+  - **(5)** by striking the item relating to section 441 and inserting the following:
+  - **(6)** by striking the item relating to section 442 and inserting the following:
 
 ## § 5. Reports and assessments
 
@@ -309,3 +308,7 @@ The Secretary of Homeland Security may not enter into or renew an agreement with
   - **(2)** In 1993, Congress provided for dedicated funding for this program by stipulating that certain fees collected by United States Customs and Border Protection to fund FLAP.
   - **(3)** Through FLAP, foreign travelers are aided by having an officer at a port of entry who speaks their language, and United States Customs and Border Protection benefits by being able to focus its border security efforts in a more effective manner.
 - **(b)** *Sense of Congress* It is the sense of Congress that FLAP incentivizes United States Customs and Border Protection officers and agents to attain and maintain competency in a foreign language, thereby improving the efficiency of operations for the functioning of United States Customs and Border Protection’s security mission, making the United States a more welcoming place when foreign travelers find officers can communicate in their language, and helping to expedite traveler processing to reduce wait times.
+
+## § 10. Prohibition on new appropriations
+
+No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act, and this Act and such amendments shall be carried out using amounts otherwise made available for such purposes.
