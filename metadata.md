@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 106
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 106
@@ -32,3 +32,4 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - 2014-07-25 — Mr. Harper asked unanimous consent to discharge from committee and consider.
 - 2014-07-25 — On agreeing to the resolution Agreed to without objection. (text: CR H6844)
 - 2014-07-25 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H6844)
+- 2014-07-28 — Received in the Senate.
