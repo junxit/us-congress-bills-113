@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 36
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.J.Res. 36
@@ -16,6 +16,11 @@ A joint resolution relating to the approval and implementation of the proposed a
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
+## Cosponsors (2)
+
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+
 ## Committees (1)
 
 - Senate — Foreign Relations Committee
@@ -24,3 +29,7 @@ A joint resolution relating to the approval and implementation of the proposed a
 
 - 2014-05-22 — Introduced in Senate
 - 2014-05-22 — Read twice and referred to the Committee on Foreign Relations.
+- 2014-07-22 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-07-29 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. With written report No. 113-221.
+- 2014-07-29 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. With written report No. 113-221.
+- 2014-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 494.
