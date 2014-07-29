@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4572
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4572
@@ -22,9 +22,10 @@ STELA Reauthorization Act of 2014
 - Rep. Waxman, Henry A. [D-CA-33] (W000215)
 - Rep. Eshoo, Anna G. [D-CA-18] (E000215)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,5 @@ STELA Reauthorization Act of 2014
 - 2014-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6588-6589)
 - 2014-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6588-6589)
 - 2014-07-22 — The title of the measure was amended. Agreed to without objection.
+- 2014-07-23 — Received in the Senate.
+- 2014-07-29 — Read twice and referred to the Committee on Commerce, Science, and Transportation.

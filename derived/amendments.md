@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4572
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -59,5 +59,5 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (B), by striking “clause” and inserting “paragraph”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c)(1)(E), by striking “2014” and inserting “2019”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (e), by striking “2014” and inserting “2019”. | the bill names no machine-readable US Code section |
-| `17 U.S.C. § 119` | add-at-end | Section 119 of title 17, United States Code, as amended in section 201, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `17 U.S.C. § 119` | amend | Section 119 of title 17, United States Code, as amended in section 201, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `17 U.S.C. § 119` | repeal | Section 107(a) of the Satellite Television Extension and Localism Act of 2010 (17 U.S.C. 119 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
