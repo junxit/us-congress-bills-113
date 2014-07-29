@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3393
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3393
@@ -53,3 +53,5 @@ Student and Family Tax Simplification Act
 - 2014-07-24 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6790)
 - 2014-07-24 — The previous question was ordered pursuant to the rule. (consideration: CR H6789)
 - 2014-07-24 — The rule provides for the consideration of H.R. 3393 and H.R. 4935 under a closed rule.
+- 2014-07-28 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-07-29 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 493.
