@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4490
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4490
@@ -34,9 +34,10 @@ United States International Communications Reform Act of 2014
 - Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ United States International Communications Reform Act of 2014
 - 2014-07-28 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2014-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6886-6893)
 - 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6886-6893)
+- 2014-07-29 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
