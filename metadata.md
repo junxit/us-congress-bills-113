@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3202
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3202
@@ -21,9 +21,10 @@ Essential Transportation Worker Identification Credential Assessment Act
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Essential Transportation Worker Identification Credential Assessment Act
 - 2014-07-28 — Mrs. Miller (MI) moved to suspend the rules and pass the bill, as amended.
 - 2014-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 456). (text: CR H6895)
 - 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 456).(text: CR H6895)
+- 2014-07-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
