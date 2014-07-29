@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4919
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4919
@@ -33,9 +33,10 @@ To designate the facility of the United States Postal Service located at 715 Sha
 - Rep. Stivers, Steve [R-OH-15] (S001187)
 - Rep. Renacci, James B. [R-OH-16] (R000586)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ To designate the facility of the United States Postal Service located at 715 Sha
 - 2014-07-28 — Mr. Bentivolio moved to suspend the rules and pass the bill.
 - 2014-07-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6936)
 - 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6936)
+- 2014-07-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
