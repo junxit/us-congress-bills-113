@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 521
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 521
@@ -37,3 +37,7 @@ A resolution designating July 26, 2014, as "United States Intelligence Professio
 
 - 2014-07-24 — Introduced in Senate
 - 2014-07-24 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4909-4910)
+- 2014-07-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S5070)
+- 2014-07-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5070)
+- 2014-07-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2014-07-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.
