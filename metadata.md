@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4156
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4156
@@ -69,9 +69,10 @@ Transparent Airfares Act of 2014
 - Rep. Hall, Ralph M. [R-TX-4] (H000067)
 - Rep. Gibbs, Bob [R-OH-7] (G000563)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -91,3 +92,4 @@ Transparent Airfares Act of 2014
 - 2014-07-28 — Mr. Shuster moved to suspend the rules and pass the bill.
 - 2014-07-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6866)
 - 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6866)
+- 2014-07-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
