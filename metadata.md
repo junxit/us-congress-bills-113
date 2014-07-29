@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3696
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3696
@@ -22,11 +22,12 @@ National Cybersecurity and Critical Infrastructure Protection Act of 2014
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Clarke, Yvette D. [D-NY-9] (C001067)
 
-## Committees (3)
+## Committees (4)
 
 - House — Oversight and Accountability Committee
 - House — Science, Space, and Technology Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ National Cybersecurity and Critical Infrastructure Protection Act of 2014
 - 2014-07-28 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
 - 2014-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6909-6915)
 - 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6909-6915)
+- 2014-07-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
