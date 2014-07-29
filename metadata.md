@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5021
 congress: 113
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5021
@@ -16,9 +16,16 @@ Highway and Transportation Funding Act of 2014
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 
-## Cosponsors (1)
+## Cosponsors (8)
 
 - Rep. Shuster, Bill [R-PA-9] (S001154)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
 
 ## Committees (6)
 
@@ -29,10 +36,15 @@ Highway and Transportation Funding Act of 2014
 - House — Education and the Workforce Committee
 - House — Science, Space, and Technology Committee
 
-## Recorded votes (2)
+## Recorded votes (7)
 
 - 2014-07-15 — [House 113-2-413](votes/house-113-2-0413.md) — On Motion to Recommit with Instructions — **Failed** (193–227)
 - 2014-07-15 — [House 113-2-414](votes/house-113-2-0414.md) — On Passage — **Passed** (367–55)
+- 2014-07-29 — [Senate 113-2-244](votes/senate-113-2-0244.md) — On the Amendment — **Amendment Agreed to** (71–26)
+- 2014-07-29 — [Senate 113-2-245](votes/senate-113-2-0245.md) — On the Amendment — **Amendment Agreed to** (66–31)
+- 2014-07-29 — [Senate 113-2-246](votes/senate-113-2-0246.md) — On the Amendment — **Amendment Rejected** (28–69)
+- 2014-07-29 — [Senate 113-2-247](votes/senate-113-2-0247.md) — On the Amendment — **Amendment Rejected** (47–50)
+- 2014-07-29 — [Senate 113-2-248](votes/senate-113-2-0248.md) — On Passage of the Bill — **Bill Passed** (79–18)
 
 ## Actions
 
@@ -67,3 +79,38 @@ Highway and Transportation Funding Act of 2014
 - 2014-07-15 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6260)
 - 2014-07-15 — The previous question was ordered pursuant to the rule. (consideration: CR H6258)
 - 2014-07-16 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 468.
+- 2014-07-17 — Senate amendment submitted
+- 2014-07-17 — Senate amendment submitted
+- 2014-07-17 — Senate amendment submitted
+- 2014-07-21 — Senate amendment submitted
+- 2014-07-23 — Senate amendment submitted
+- 2014-07-23 — Senate amendment submitted
+- 2014-07-23 — Senate amendment submitted
+- 2014-07-23 — Senate amendment submitted
+- 2014-07-23 — Senate amendment submitted
+- 2014-07-23 — Senate amendment submitted
+- 2014-07-29 — Amendment SA 3582 proposed by Senator Wyden. (consideration: CR S5021-5026, S5037; text: CR S5021) To modify the provisions relating to revenue.
+- 2014-07-29 — Amendment SA 3582, under the order of 7/23/2014, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 71 - 26. Record Vote Number: 244.
+- 2014-07-29 — Amendment SA 3583 proposed by Senator Carper. (consideration: CR S5031-5033, S5037-5038) In the nature of a substitute.
+- 2014-07-29 — Amendment SA 3583, under the order of 7/23/2014, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 66 - 31. Record Vote Number: 245.
+- 2014-07-29 — Amendment SA 3584 proposed by Senator Lee. (consideration: CR S5028-5031, S5038; text: CR S5028) To empower States with authority for most taxing and spending for highway programs and mass transit programs.
+- 2014-07-29 — Amendment SA 3584, under the order of 7/23/2014, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 28 - 69. Record Vote Number: 246.
+- 2014-07-29 — Amendment SA 3585 proposed by Senator Toomey. (consideration: CR S5026-5028, S5038-5039; text: CR S5026) To ease Federal burdens on State and local governments recovering from catastrophic events.
+- 2014-07-29 — Amendment SA 3585, under the order of 7/23/2014, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 247.
+- 2014-07-29 — Measure laid before Senate by unanimous consent. (consideration: CR S5021-5039)
+- 2014-07-29 — Passed Senate, pursuant to the order of 7/23/2014, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 79 - 18. Record Vote Number: 248.
+- 2014-07-29 — Passed/agreed to in Senate: Passed Senate, pursuant to the order of 7/23/2014, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 79 - 18. Record Vote Number: 248.
+- 2014-07-29 — Roll call votes on amendments in Senate: Amendment SA 3582, under the order of 7/23/2014, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 71 - 26. Record Vote Number: 244.
+- 2014-07-29 — Roll call votes on amendments in Senate: Amendment SA 3583, under the order of 7/23/2014, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 66 - 31. Record Vote Number: 245.
+- 2014-07-29 — Roll call votes on amendments in Senate: Amendment SA 3584, under the order of 7/23/2014, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 28 - 69. Record Vote Number: 246.
+- 2014-07-29 — Roll call votes on amendments in Senate: Amendment SA 3585, under the order of 7/23/2014, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 247.
+- 2014-07-29 — Senate amendment agreed to: Amendment SA 3582, under the order of 7/23/2014, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 71 - 26. Record Vote Number: 244.
+- 2014-07-29 — Senate amendment agreed to: Amendment SA 3583, under the order of 7/23/2014, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 66 - 31. Record Vote Number: 245.
+- 2014-07-29 — Senate amendment not agreed to: Amendment SA 3584, under the order of 7/23/2014, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 28 - 69. Record Vote Number: 246.
+- 2014-07-29 — Senate amendment not agreed to: Amendment SA 3585, under the order of 7/23/2014, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 247.
+- 2014-07-29 — Senate amendment proposed (on the floor): Amendment SA 3582 proposed by Senator Wyden.(consideration: CR S5021-5026, S5037; text: CR S5021)
+- 2014-07-29 — Senate amendment proposed (on the floor): Amendment SA 3583 proposed by Senator Carper.(consideration: CR S5031-5033, S5037-5038)
+- 2014-07-29 — Senate amendment proposed (on the floor): Amendment SA 3584 proposed by Senator Lee.(consideration: CR S5028-5031, S5038; text: CR S5028)
+- 2014-07-29 — Senate amendment proposed (on the floor): Amendment SA 3585 proposed by Senator Toomey.(consideration: CR S5026-5028, S5038-5039; text: CR S5026)
+- 2014-07-29 — Senate amendment submitted
+- 2014-07-29 — Senate amendment submitted
