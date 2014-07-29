@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 105
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 105
@@ -70,3 +70,4 @@ Conferring honorary citizenship of the United States on Bernardo de Gálvez y Ma
 - 2014-07-28 — Mr. Franks (AZ) moved to suspend the rules and pass the resolution.
 - 2014-07-28 — On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR H6874)
 - 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR H6874)
+- 2014-07-29 — Received in the Senate, read twice.
