@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1771
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1771
@@ -204,3 +204,4 @@ North Korea Sanctions Enforcement Act of 2014
 - 2014-07-28 — Placed on the Union Calendar, Calendar No. 420.
 - 2014-07-28 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 113-560, Part I.
 - 2014-07-28 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 113-560, Part I.
+- 2014-07-29 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.

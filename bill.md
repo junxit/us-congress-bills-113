@@ -2,7 +2,7 @@
 legis-num: H.R. 1771
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1771
@@ -23,7 +23,7 @@ Congress finds the following:
 - **(3)** The Government of North Korea has been implicated repeatedly in money laundering and illicit activities, including prohibited arms sales, narcotics trafficking, the counterfeiting of United States currency, and the counterfeiting of intellectual property of United States persons.
 - **(4)** The Government of North Korea has, both historically and recently, repeatedly sponsored acts of international terrorism, including attempts to assassinate defectors and human rights activists, repeated threats of violence against foreign persons, leaders, newspapers, and cities, and the shipment of weapons to terrorists.
 - **(5)** North Korea has unilaterally withdrawn from the 1953 Armistice Agreement that ended the Korean War, and committed provocations against South Korea in 2010 by sinking the warship Cheonan and killing 46 of her crew, and by shelling Yeonpyeong Island, killing four South Koreans.
-- **(6)** North Korea maintains a system of brutal political prison camps that contain as many as 200,000 men, women, and children, who live in atrocious living conditions with insufficient food, clothing, and medical care, and under constant fear of torture or arbitrary execution.
+- **(6)** North Korea maintains a system of brutal political prison camps that contain as many as 120,000 men, women, and children, who live in atrocious living conditions with insufficient food, clothing, and medical care, and under constant fear of torture or arbitrary execution.
 - **(7)** The Congress reaffirms the purposes of the North Korean Human Rights Act of 2004 contained in section 4 of such Act (22 U.S.C. 7802).
 - **(8)** North Korea has prioritized weapons programs and the procurement of luxury goods, in defiance of United Nations Security Council resolutions, and in gross disregard of the needs of its people.
 - **(9)** Persons, including financial institutions, who engage in transactions with, or provide financial services to, the Government of North Korea and its financial institutions without establishing sufficient financial safeguards against North Korea’s use of these transactions to promote proliferation, weapons trafficking, human rights violations, illicit activity, and the purchase of luxury goods, aid and abet North Korea’s misuse of the international financial system, and also violate the intent of relevant United Nations Security Council resolutions.
@@ -35,13 +35,13 @@ Congress finds the following:
 In this Act:
 
 - **(1)** *Applicable Executive order* The term “applicable Executive order” means—
-  - **(A)** Executive Order 13382 (2005), 13466 (2008), 13551 (2010), or 13570 (2011), to the extent that such Executive order authorizes the imposition of sanctions on persons for conduct, or prohibits transactions or activities, involving the Government of North Korea; or
+  - **(A)** Executive Order No. 13382 (2005), 13466 (2008), 13551 (2010), or 13570 (2011), to the extent that such Executive order authorizes the imposition of sanctions on persons for conduct, or prohibits transactions or activities, involving the Government of North Korea; or
   - **(B)** any Executive order adopted on or after the date of the enactment of this Act, to the extent that such Executive order authorizes the imposition of sanctions on persons for conduct, or prohibits transactions or activities, involving the Government of North Korea.
 - **(2)** *Applicable United Nations Security Council resolution* The term “applicable United Nations Security Council resolution” means—
   - **(A)** United Nations Security Council Resolution 1695 (2006), 1718 (2006), 1874 (2009), 2087 (2013), or 2094 (2013); or
   - **(B)** any United Nations Security Council resolution adopted on or after the date of the enactment of this Act, to the extent that such resolution authorizes the imposition of sanctions on persons for conduct, or prohibits transactions or activities, involving the Government of North Korea.
 - **(3)** *Appropriate congressional committees* The term appropriate congressional committees means—
-  - **(A)** the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives; and
+  - **(A)** the Committee on Foreign Affairs, the Committee on Ways and Means, and the Committee on Financial Services of the House of Representatives; and
   - **(B)** the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 - **(4)** *Designated person* The term designated person means a person designated under subsection (a) or (b) of section 104 for purposes of applying one or more of the sanctions described in title I or II of this Act with respect to the person.
 - **(5)** *Government of North Korea* The term Government of North Korea means—
@@ -50,12 +50,15 @@ In this Act:
 - **(6)** *International terrorism* The term international terrorism has the meaning given such term in section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f(d)).
 - **(7)** *Luxury goods* The term luxury goods has the meaning given such term in subpart 746.4 of title 15, Code of Federal Regulations, and includes the items listed in Supplement No. 1 to such regulation, and any similar items.
 - **(8)** *Monetary instrument* The term monetary instrument has the meaning given such term under section 5312 of title 31, United States Code.
-- **(9)** *North korean financial institution* The term North Korean financial institution means—
+- **(9)** *North Korean financial institution* The term North Korean financial institution means—
   - **(A)** a financial institution organized under the laws of North Korea or any jurisdiction within North Korea (including a foreign branch of such institution);
   - **(B)** any financial institution located in North Korea, except as may be excluded from such definition by the President in accordance with section 207(d);
   - **(C)** any financial institution, wherever located, owned or controlled by the Government of North Korea; and
   - **(D)** any financial institution, wherever located, owned or controlled by a financial institution described in subparagraph (A), (B), or (C).
 - **(10)** *Other stores of value* The term “other stores of value” means—
   - **(A)** prepaid access devices, tangible or intangible prepaid access devices, or other instruments or devices for the storage or transmission of value, as defined in part 1010 of title 31, Code of Federal Regulations; and
-  - **(B)** any covered goods, as defined in section 1027.100 of title 31, Code of Federal Regulations, and any instrument or tangible or intangible access device used for the storage and transmission of a representation of covered goods.
-- **(11)** *Person* The term person has the meaning given that term in section 510.306 of title 31, Code of Federal Regulations.
+  - **(B)** any covered goods, as defined in section 1027.100 of title 31, Code of Federal Regulations, and any instrument or tangible or intangible access device used for the storage and transmission of a representation of covered goods, or other device, as defined in section 1027.100 of title 31, Code of Federal Regulations.
+- **(11)** *Person* The term person means—
+  - **(A)** a natural person;
+  - **(B)** a corporation, business association, partnership, society, trust, financial institution, insurer, underwriter, guarantor, and any other business organization, any other nongovernmental entity, organization, or group, and any governmental entity operating as a business enterprise; and
+  - **(C)** any successor to any entity described in subparagraph (B).

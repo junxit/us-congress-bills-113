@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1771
 congress: 113
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 2 executed, 4 stated and not applied.
+7 amendatory instructions. 2 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -55,3 +55,4 @@ complete account of the bill's effect, which it is not.
 | `18 U.S.C. § 983` | add-at-end | by adding at the end before the semicolon the following: “, or the North Korea Sanctions Enforcement Act of 2014”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 1956` | add-at-end | by adding at the end the following: “, or section 104(a) of the North Korea Sanctions Enforcement Act of 2014”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7814` | insert | Section 104 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7814) is amended by inserting after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 102(a) of the Enhanced Partnership with Pakistan Act of 2009 (Public Law 111–73; 22 U.S.C. 8412(a)) is amended by striking “$1,500,000,000” and inserting “$1,490,000,000”. | the bill names no machine-readable US Code section |
