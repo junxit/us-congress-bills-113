@@ -20,6 +20,15 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas, on September 27, 2013, the Congolese Ministry of Interior and Security, General Direction of Migration, informed the United States Embassy in Kinshasa that effective September 25, 2013, they had suspended issuance of exit permits to adopted Congolese children seeking to depart the country with their adoptive parents;
 - Whereas there are United States families with finalized adoptions in the Democratic Republic of the Congo and the necessary legal paperwork and visas ready to travel home with these children but are currently unable to do so; and
 - Whereas, on December 19, 2013, the Congolese Minister of Justice, Minister of Interior and Security, and the General Direction of Migration confirmed to members of the United States Department of State that the current suspension on the issuance of exit permits continues: Now, therefore, be it
+- Whereas according to UNICEF, over 4,000,000 orphans are estimated to be living in the Democratic Republic of Congo;
+- Whereas cyclical and violent conflict has plagued the Democratic Republic of Congo since the mid-1990s;
+- Whereas the United States has made significant financial investments in the Democratic Republic of Congo, providing an estimated $274,000,000 bilateral aid to the Democratic Republic of Congo in fiscal year 2013 and an additional $165,000,000 in emergency humanitarian assistance;
+- Whereas the policy of the United States Government toward the Democratic Republic of Congo is “focused on helping the country become a nation that … provides for the basic needs of its citizens”;
+- Whereas the United Nations, the Hague Conference on Private International Law, and other international organizations have recognized that a child should grow up in a family environment;
+- Whereas adoption, both domestic and international, is an important child protection tool and an integral part of child welfare best practices around the world, along with family reunification and prevention of abandonment;
+- Whereas, on September 27, 2013, the Congolese Ministry of Interior and Security, General Directorate of Migration, informed the United States Embassy in Kinshasa that effective September 25, 2013, they had suspended issuance of exit permits to adopted Congolese children seeking to depart the country with their adoptive parents;
+- Whereas there are United States families with finalized adoptions in the Democratic Republic of the Congo and the necessary legal paperwork and visas ready to travel home with these children but are currently unable to do so; and
+- Whereas, on December 19, 2013, the Congolese Minister of Justice, Minister of Interior and Security, and the General Directorate of Migration confirmed to members of the United States Department of State that the current suspension on the issuance of exit permits continues: Now, therefore, be it
 
 That the Senate—
 

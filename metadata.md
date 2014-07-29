@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 502
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 502
@@ -16,7 +16,7 @@ A resolution concerning the suspension of exit permit issuance by the Government
 
 - Sen. Portman, Rob [R-OH] (P000449)
 
-## Cosponsors (54)
+## Cosponsors (61)
 
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Alexander, Lamar [R-TN] (A000360)
@@ -72,6 +72,13 @@ A resolution concerning the suspension of exit permit issuance by the Government
 - Sen. Warner, Mark R. [D-VA] (W000805)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
 
 ## Committees (1)
 
@@ -81,3 +88,7 @@ A resolution concerning the suspension of exit permit issuance by the Government
 
 - 2014-07-15 — Introduced in Senate
 - 2014-07-15 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S4509-4510)
+- 2014-07-29 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-07-29 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2014-07-29 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2014-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 495.
