@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5021
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5021
@@ -36,7 +36,7 @@ Highway and Transportation Funding Act of 2014
 - House — Education and the Workforce Committee
 - House — Science, Space, and Technology Committee
 
-## Recorded votes (7)
+## Recorded votes (9)
 
 - 2014-07-15 — [House 113-2-413](votes/house-113-2-0413.md) — On Motion to Recommit with Instructions — **Failed** (193–227)
 - 2014-07-15 — [House 113-2-414](votes/house-113-2-0414.md) — On Passage — **Passed** (367–55)
@@ -45,6 +45,8 @@ Highway and Transportation Funding Act of 2014
 - 2014-07-29 — [Senate 113-2-246](votes/senate-113-2-0246.md) — On the Amendment — **Amendment Rejected** (28–69)
 - 2014-07-29 — [Senate 113-2-247](votes/senate-113-2-0247.md) — On the Amendment — **Amendment Rejected** (47–50)
 - 2014-07-29 — [Senate 113-2-248](votes/senate-113-2-0248.md) — On Passage of the Bill — **Bill Passed** (79–18)
+- 2014-07-31 — [House 113-2-473](votes/house-113-2-0473.md) — On Motion to Disagree to the Senate Amendment — **Passed** (272–150)
+- 2014-07-31 — [Senate 113-2-255](votes/senate-113-2-0255.md) — On the Motion — **Motion Agreed to** (81–13)
 
 ## Actions
 
@@ -114,3 +116,23 @@ Highway and Transportation Funding Act of 2014
 - 2014-07-29 — Senate amendment proposed (on the floor): Amendment SA 3585 proposed by Senator Toomey.(consideration: CR S5026-5028, S5038-5039; text: CR S5026)
 - 2014-07-29 — Senate amendment submitted
 - 2014-07-29 — Senate amendment submitted
+- 2014-07-30 — Message on Senate action sent to the House.
+- 2014-07-30 — Rules Committee Resolution H. Res. 696 Reported to House. The rule makes in order one hour of debate each for H.R. 5230 and H.R. 5272. The rule also makes in order for one hour debate on a motion that the House disagree to the Senate amendment to H.R. 5021. Any motion pursuant to clause 4 of rule XXII relating to H.R. 5021 may be offered only by the Majority Leader or his designee. It shall be in order at any time on the legislative day of July 31, 2014 for the Speaker to entertain motions to suspend the rules.
+- 2014-07-31 — DEBATE - Pursuant to the provisions of H.Res. 696, the House proceeded with one hour of debate on the Shuster motion that the House disagree to the Senate amendment to H.R. 5021.
+- 2014-07-31 — Message on House action received in Senate and at desk: House disagrees to Senate amendment.
+- 2014-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-07-31 — Mr. Shuster moved that the House disagree to the Senate amendment. (consideration: CR H7169-7176)
+- 2014-07-31 — On motion that the House disagree to the Senate amendment Agreed to by the Yeas and Nays: 272 - 150 (Roll no. 473).
+- 2014-07-31 — Resolving differences -- House actions: On motion that the House disagree to the Senate amendment Agreed to by the Yeas and Nays: 272 - 150 (Roll no. 473).
+- 2014-07-31 — Resolving differences -- Senate actions: Senate receded from its amendment to the measure by Yea-Nay Vote. 81 - 13. Record Vote Number: 255.(consideration: CR S5209)
+- 2014-07-31 — Rule H. Res. 696 passed House.
+- 2014-07-31 — Senate receded from its amendment to the measure by Yea-Nay Vote. 81 - 13. Record Vote Number: 255. (consideration: CR S5209)
+- 2014-07-31 — The previous question was ordered pursuant to the rule. (consideration: CR H7176)
+- 2014-08-01 — Message on Senate action sent to the House.
+- 2014-08-01 — Presented to President.
+- 2014-08-01 — Presented to President.
+- 2014-08-01 — Pursuant to the provisions of H. Con. Res. 108, enrollment corrections on H.R. 5021 have been made.
+- 2014-08-08 — Became Public Law No: 113-159.
+- 2014-08-08 — Became Public Law No: 113-159.
+- 2014-08-08 — Signed by President.
+- 2014-08-08 — Signed by President.
