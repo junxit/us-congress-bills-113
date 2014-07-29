@@ -1,7 +1,7 @@
 ---
 measure: S. 2577
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2577
@@ -33,3 +33,5 @@ A bill to require the Secretary of State to offer rewards totaling up to $5,000,
 - 2014-07-21 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. With written report No. 113-213.
 - 2014-07-21 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. With written report No. 113-213.
 - 2014-07-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 474.
+- 2014-07-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5069; text as passed Senate: CR S5069)
+- 2014-07-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5069; text as passed Senate: CR S5069)
