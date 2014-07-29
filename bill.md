@@ -11,7 +11,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Reauthorization
 
-Section 717(a) of the Defense Production Act of 1950 (50 U.S.C. App. 2166(a)) is amended by striking “2014” and inserting “2019”.
+Section 717(a) of the Defense Production Act of 1950 (50 U.S.C. App. 2166(a)) is amended—
+
+- **(1)** by striking “2014” and inserting “2019”; and
+- **(2)** by striking “on or after the date of enactment of the Defense Production Act Reauthorization of 2009”.
 
 ## § 2. Defense Production Act Committee improvements
 
@@ -50,14 +53,22 @@ Section 101(d)(1) of the Defense Production Act of 1950 (50 U.S.C. App. 2071(d)(
 
 ## § 4. Presidential determination
 
-Section 303(a) of the Defense Production Act of 1950 (50 U.S.C. App. 2093(a)) is amended—
+- **(a)** *In general* Section 303(a) of the Defense Production Act of 1950 (50 U.S.C. App. 2093(a)) is amended—
+  - **(1)** in paragraph (5)—
+    - **(A)** by striking “determines” and inserting the following: “, on a non-delegable basis, determines, with appropriate explanatory material and in writing,”;
+    - **(B)** in subparagraph (A), by striking “and” at the end;
+    - **(C)** in subparagraph (B), by striking the period and inserting “; and”; and
+    - **(D)** by adding at the end the following:
+      > - **(C)** purchases, purchase commitments, or other action pursuant to this section are the most cost effective, expedient, and practical alternative method for meeting the need.
 
-- **(1)** in paragraph (5)—
-  - **(A)** by striking “determines” and inserting the following: “, on a non-delegable basis, determines, with appropriate explanatory material and in writing,”;
-  - **(B)** in subparagraph (A), by striking “and” at the end;
-  - **(C)** in subparagraph (B), by striking the period and inserting “; and”; and
-  - **(D)** by adding at the end the following:
-    > - **(C)** purchases, purchase commitments, or other action pursuant to this section are the most cost effective, expedient, and practical alternative method for meeting the need.
+  - **(2)** in paragraph (6), by adding at the end the following:
+    > - **(C)** *Limitation* If the taking of any action or actions under this section to correct an industrial resource shortfall would cause the aggregate outstanding amount of all such actions for such industrial resource shortfall to exceed $50,000,000, no such action or actions may be taken, unless such action or actions are authorized to exceed such amount by an Act of Congress.
 
-- **(2)** in paragraph (6), by adding at the end the following:
-  > - **(C)** *Limitation* If the taking of any action or actions under this section to correct an industrial resource shortfall would cause the aggregate outstanding amount of all such actions for such industrial resource shortfall to exceed $50,000,000, no such action or actions may be taken, unless such action or actions are authorized to exceed such amount by an Act of Congress.
+- **(b)** *Exception* Section 303(a)(6)(C) of the Defense Production Act of 1950, as added by subsection (a)(2), shall not apply to a project undertaken pursuant to a determination made before the date of the enactment of this Act.
+
+## § 5. Authorization of appropriations
+
+Section 711 of the Defense Production Act of 1950 (50 U.S.C. App. 2161) is amended—
+
+- **(1)** by striking “are hereby authorized to be appropriated such sums as may be necessary and appropriate” and inserting “ is authorized to be appropriated $133,000,000 for fiscal year 2015 and each fiscal year thereafter”; and
+- **(2)** by striking the second and third sentences.

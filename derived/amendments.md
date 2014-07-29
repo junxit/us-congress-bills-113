@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4809
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 0 executed, 19 stated and not applied.
+22 amendatory instructions. 0 executed, 22 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 717(a) of the Defense Production Act of 1950 (50 U.S.C. App. 2166(a)) is amended by striking “2014” and inserting “2019”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “2014” and inserting “2019”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “on or after the date of enactment of the Defense Production Act Reauthorization of 2009”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “advise the President” and inserting “coordinate and plan for”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “the authority” and inserting “the priorities and allocations authorities”; | the bill names no machine-readable US Code section |
 | — | amend | in subsection (b), by amending paragraph (2) to read as follows: | the bill names no machine-readable US Code section |
@@ -50,3 +51,5 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (B), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in paragraph (6), by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “are hereby authorized to be appropriated such sums as may be necessary and appropriate” and inserting “ is authorized to be appropriated $133,000,000 for fiscal year 2015 and each fiscal year thereafter”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking the second and third sentences. | the bill names no machine-readable US Code section |
