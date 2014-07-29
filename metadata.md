@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3107
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3107
@@ -22,9 +22,10 @@ Homeland Security Cybersecurity Boots-on-the-Ground Act
 - Rep. Meehan, Patrick [R-PA-7] (M001181)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Homeland Security Cybersecurity Boots-on-the-Ground Act
 - 2014-07-28 — Mr. Meehan moved to suspend the rules and pass the bill, as amended.
 - 2014-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 395 - 8 (Roll no. 457). (text: CR H6925-6926)
 - 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 395 - 8 (Roll no. 457).(text: CR H6925-6926)
+- 2014-07-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

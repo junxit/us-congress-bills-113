@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3107
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
