@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2952
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -32,6 +32,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `6 U.S.C. § 101` | redesignate | Section 2 of the Homeland Security Act of 2002 (6 U.S.C. 101) is amended by redesignating paragraphs (15) through (18) as paragraphs (16) through (19), respectively, and by inserting after paragraph (14) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | add-at-end | Title III of the Homeland Security Act of 2002 (6 U.S.C. 181 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 181` | amend | Title III of the Homeland Security Act of 2002 (6 U.S.C. 181 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 181` | add-at-end | The table of contents in section 1(b) of such Act is amended by adding at the end of the items relating to such title the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 193` | redesignate | Section 313 of the Homeland Security Act of 2002 (6 U.S.C. 193) is amended by redesignating subsection (c) as subsection (d), and by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2952
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2952
@@ -20,9 +20,10 @@ Cybersecurity Workforce Assessment Act
 
 - Rep. Clarke, Yvette D. [D-NY-9] (C001067)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Cybersecurity Workforce Assessment Act
 - 2014-07-28 — Mr. Meehan moved to suspend the rules and pass the bill, as amended.
 - 2014-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6922-6923)
 - 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6922-6923)
+- 2014-07-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
