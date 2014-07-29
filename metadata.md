@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4250
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4250
@@ -77,3 +77,4 @@ Sunscreen Innovation Act
 - 2014-07-28 — Mr. Whitfield moved to suspend the rules and pass the bill, as amended.
 - 2014-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6928-6930)
 - 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6928-6930)
+- 2014-07-29 — Received in the Senate.
