@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4838
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4838
@@ -58,3 +58,14 @@ To redesignate the railroad station located at 2955 Market Street in Philadelphi
 - 2014-07-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6868)
 - 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6868)
 - 2014-07-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2014-07-31 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 8/1/2014 S5312)
+- 2014-07-31 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 8/1/2014 S5312)
+- 2014-07-31 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2014-07-31 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2014-08-01 — Message on Senate action sent to the House.
+- 2014-08-04 — Presented to President.
+- 2014-08-04 — Presented to President.
+- 2014-08-08 — Became Public Law No: 113-158.
+- 2014-08-08 — Became Public Law No: 113-158.
+- 2014-08-08 — Signed by President.
+- 2014-08-08 — Signed by President.
