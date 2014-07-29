@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3635
 congress: 113
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 

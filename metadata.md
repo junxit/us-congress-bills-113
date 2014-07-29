@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3635
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3635
@@ -145,9 +145,10 @@ Safe and Secure Federal Websites Act of 2014
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Johnson, Bill [R-OH-6] (J000292)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -165,3 +166,4 @@ Safe and Secure Federal Websites Act of 2014
 - 2014-07-28 — Placed on the Union Calendar, Calendar No. 421.
 - 2014-07-28 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-562.
 - 2014-07-28 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-562.
+- 2014-07-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
