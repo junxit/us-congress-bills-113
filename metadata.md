@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4838
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4838
@@ -40,9 +40,10 @@ To redesignate the railroad station located at 2955 Market Street in Philadelphi
 - Rep. Edwards, Donna F. [D-MD-4] (E000290)
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ To redesignate the railroad station located at 2955 Market Street in Philadelphi
 - 2014-07-28 — Mr. Shuster moved to suspend the rules and pass the bill.
 - 2014-07-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6868)
 - 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6868)
+- 2014-07-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
