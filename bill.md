@@ -2,7 +2,7 @@
 legis-num: H. RES. 676
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 676
@@ -17,5 +17,5 @@ The Speaker shall notify the House of Representatives of a decision to initiate 
 
 ## § 3.
 
-- **(a)** The Office The Office of the General Counsel of the House of Representatives, at the direction of the Speaker, shall represent the House in any civil action initiated, or in which the House intervenes, pursuant to this resolution, and may employ the services of outside counsel and other experts for this purpose.
+- **(a)** The Office of the General Counsel of the House of Representatives, at the direction of the Speaker, shall represent the House in any civil action initiated, or in which the House intervenes, pursuant to this resolution, and may employ the services of outside counsel and other experts for this purpose.
 - **(b)** The chair of the Committee on House Administration shall cause to be printed in the Congressional Record a statement setting forth the aggregate amounts expended by the Office of General Counsel on outside counsel and other experts pursuant to subsection (a) on a quarterly basis. Such statement shall be submitted for printing not more than 30 days after the expiration of each such period.
