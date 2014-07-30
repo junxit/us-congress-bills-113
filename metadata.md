@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4809
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4809
@@ -39,3 +39,4 @@ To reauthorize the Defense Production Act, to improve the Defense Production Act
 - 2014-07-29 — Mr. Campbell moved to suspend the rules and pass the bill, as amended.
 - 2014-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 32 (Roll no. 464). (text: CR H7002)
 - 2014-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 32 (Roll no. 464).(text: CR H7002)
+- 2014-07-30 — Received in the Senate, read twice.
