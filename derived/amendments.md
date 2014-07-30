@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5195
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `8 U.S.C. § 1101` | amend | Section 602(b)(3)(D) of the Afghan Allies Protection Act of 2009 (8 U.S.C. 1101 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | add-at-end | Section 602(b)(3) of the Afghan Allies Protection Act of 2009 (8 U.S.C. 1101 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
