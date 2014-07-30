@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3896
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3896
@@ -43,3 +43,4 @@ Longshore and Harbor Workers' Compensation Clarification Act of 2014
 - 2014-07-29 — Mr. Walberg moved to suspend the rules and pass the bill, as amended.
 - 2014-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6995-6996)
 - 2014-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6995-6996)
+- 2014-07-30 — Received in the Senate.
