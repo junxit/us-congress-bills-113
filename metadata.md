@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4626
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4626
@@ -55,3 +55,4 @@ SAFE Act Confidentiality and Privilege Enhancement Act
 - 2014-07-29 — Mrs. Capito moved to suspend the rules and pass the bill.
 - 2014-07-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6997)
 - 2014-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6997)
+- 2014-07-30 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 500.
