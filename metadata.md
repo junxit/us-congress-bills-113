@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4809
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4809
@@ -40,3 +40,12 @@ To reauthorize the Defense Production Act, to improve the Defense Production Act
 - 2014-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 32 (Roll no. 464). (text: CR H7002)
 - 2014-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 32 (Roll no. 464).(text: CR H7002)
 - 2014-07-30 — Received in the Senate, read twice.
+- 2014-09-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5720)
+- 2014-09-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5720)
+- 2014-09-18 — Message on Senate action sent to the House.
+- 2014-09-19 — Presented to President.
+- 2014-09-19 — Presented to President.
+- 2014-09-26 — Became Public Law No: 113-172.
+- 2014-09-26 — Became Public Law No: 113-172.
+- 2014-09-26 — Signed by President.
+- 2014-09-26 — Signed by President.
