@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4709
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4709
@@ -31,10 +31,11 @@ Ensuring Patient Access and Effective Drug Enforcement Act of 2014
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Ensuring Patient Access and Effective Drug Enforcement Act of 2014
 - 2014-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7004-7005)
 - 2014-07-29 — Reported by the Committee on Energy and Commerce. H. Rept. 113-605, Part I.
 - 2014-07-29 — Reported by the Committee on Energy and Commerce. H. Rept. 113-605, Part I.
+- 2014-07-30 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
