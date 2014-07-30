@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5062
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5062
@@ -27,9 +27,10 @@ Examination and Supervisory Privilege Parity Act of 2014
 - Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
 - Rep. Mulvaney, Mick [R-SC-5] (M001182)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Examination and Supervisory Privilege Parity Act of 2014
 - 2014-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6998)
 - 2014-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6998)
 - 2014-07-29 — The title of the measure was amended. Agreed to without objection.
+- 2014-07-30 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
