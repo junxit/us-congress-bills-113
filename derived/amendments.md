@@ -1,7 +1,7 @@
 ---
 measure: S. 2132
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-94 amendatory instructions. 31 executed, 63 stated and not applied.
+193 amendatory instructions. 62 executed, 131 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -303,6 +303,285 @@ to guess them.
 | Removed | `, except a lease for` |
 | Inserted | `, including a lease for` |
 
+### 25 U.S.C. § 3502
+
+> in the matter preceding subparagraph (A), by striking “guarantee” and inserting “guaranteed”;
+
+| | |
+|---|---|
+| Removed | `guarantee` |
+| Inserted | `guaranteed` |
+
+### 25 U.S.C. § 3502
+
+> in paragraph (5), by striking “The Secretary of Energy may” and inserting “Not later than 1 year after the date of enactment of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2014, the Secretary of Energy shall”.
+
+| | |
+|---|---|
+| Removed | `The Secretary of Energy may` |
+| Inserted | `Not later than 1 year after the date of enactment of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2014, the Secretary of Energy shall` |
+
+### 25 U.S.C. § 3503
+
+> in paragraph (1), by striking “on the request of an Indian tribe, the Indian tribe” and inserting “on the request of an Indian tribe or a tribal energy development organization, the Indian tribe or tribal energy development organization”; and
+
+| | |
+|---|---|
+| Removed | `on the request of an Indian tribe, the Indian tribe` |
+| Inserted | `on the request of an Indian tribe or a tribal energy development organization, the Indian tribe or tribal energy development organization` |
+
+### 25 U.S.C. § 3504
+
+> by striking “and” after the semicolon at the end and inserting “or”; and
+
+| | |
+|---|---|
+| Removed | `and` |
+| Inserted | `or` |
+
+### 25 U.S.C. § 415
+
+> in the matter preceding subclause (I), by striking “includes” and all that follows through “section—” and inserting “does not include provisions that, with respect to any lease, business agreement, or right-of-way to which the tribal energy resource agreement applies—”; and
+
+| | |
+|---|---|
+| Removed | `includes” and all that follows through “section—` |
+| Inserted | `does not include provisions that, with respect to any lease, business agreement, or right-of-way to which the tribal energy resource agreement applies—` |
+
+### 25 U.S.C. § 415
+
+> in clause (iii)(I), by striking “proposed action” and inserting “approval of the lease, business agreement, or right-of-way”;
+
+| | |
+|---|---|
+| Removed | `proposed action` |
+| Inserted | `approval of the lease, business agreement, or right-of-way` |
+
+### 25 U.S.C. § 415
+
+> in subparagraph (D)(ii), by striking “subparagraph (B)(iii)(XVI)” and inserting “subparagraph (B)(iv)(XV)”; and
+
+| | |
+|---|---|
+| Removed | `subparagraph (B)(iii)(XVI)` |
+| Inserted | `subparagraph (B)(iv)(XV)` |
+
+### 25 U.S.C. § 415
+
+> by striking “subparagraph (D)” and inserting “subparagraphs (C) and (D)”;
+
+| | |
+|---|---|
+| Removed | `subparagraph (D)` |
+| Inserted | `subparagraphs (C) and (D)` |
+
+### 25 U.S.C. § 415
+
+> in subparagraph (A), by striking “has demonstrated” and inserting “the Secretary determines has demonstrated with substantial evidence”;
+
+| | |
+|---|---|
+| Removed | `has demonstrated` |
+| Inserted | `the Secretary determines has demonstrated with substantial evidence` |
+
+### 25 U.S.C. § 415
+
+> in subparagraph (B), by striking “any tribal remedy” and inserting “all remedies (if any) provided under the laws of the Indian tribe”;
+
+| | |
+|---|---|
+| Removed | `any tribal remedy` |
+| Inserted | `all remedies (if any) provided under the laws of the Indian tribe` |
+
+### 25 U.S.C. § 415
+
+> in clause (ii), by striking “determination” and inserting “determinations”; and
+
+| | |
+|---|---|
+| Removed | `determination` |
+| Inserted | `determinations` |
+
+### 25 U.S.C. § 415
+
+> in clause (iii), in the matter preceding subclause (I) by striking “agreement” the first place it appears and all that follows through “, including” and inserting “agreement pursuant to clause (i), the Secretary shall only take such action as the Secretary determines necessary to address the claims of noncompliance made in the petition, including”;
+
+| | |
+|---|---|
+| Removed | `agreement” the first place it appears and all that follows through “, including` |
+| Inserted | `agreement pursuant to clause (i), the Secretary shall only take such action as the Secretary determines necessary to address the claims of noncompliance made in the petition, including` |
+
+### 25 U.S.C. § 415
+
+> in subparagraph (E)(i), by striking “the manner in which” and inserting “, with respect to each claim made in the petition, how”; and
+
+| | |
+|---|---|
+| Removed | `the manner in which` |
+| Inserted | `, with respect to each claim made in the petition, how` |
+
+### 25 U.S.C. § 3502
+
+> in paragraph (1), by striking “tribal energy resource development organizations” and inserting “tribal energy development organizations”; and
+
+| | |
+|---|---|
+| Removed | `tribal energy resource development organizations` |
+| Inserted | `tribal energy development organizations` |
+
+### 25 U.S.C. § 3502
+
+> in paragraph (2), by striking “tribal energy resource development organizations” each place it appears and inserting “tribal energy development organizations”; and
+
+| | |
+|---|---|
+| Removed | `tribal energy resource development organizations` |
+| Inserted | `tribal energy development organizations` |
+
+### 25 U.S.C. § 3502
+
+> in subsection (b)(2), by striking “tribal energy resource development organization” and inserting “tribal energy development organization”.
+
+| | |
+|---|---|
+| Removed | `tribal energy resource development organization` |
+| Inserted | `tribal energy development organization` |
+
+### 25 U.S.C. § 3506
+
+> Section 2606(c)(3) of the Energy Policy Act of 1992 (25 U.S.C. 3506(c)(3)) is amended by striking “energy resource development” and inserting “energy development”.
+
+| | |
+|---|---|
+| Removed | `energy resource development` |
+| Inserted | `energy development` |
+
+### 25 U.S.C. § 3501
+
+> in the matter preceding subparagraph (A), by striking “approved” and inserting “in effect”;
+
+| | |
+|---|---|
+| Removed | `approved` |
+| Inserted | `in effect` |
+
+### 25 U.S.C. § 3501
+
+> in subparagraph (B), by striking “approved” and inserting “in effect”; and
+
+| | |
+|---|---|
+| Removed | `approved` |
+| Inserted | `in effect` |
+
+### 25 U.S.C. § 3501
+
+> in clause (i), by striking “an approved tribal energy resource agreement” and inserting “a tribal energy resource agreement in effect under this section”; and
+
+| | |
+|---|---|
+| Removed | `an approved tribal energy resource agreement` |
+| Inserted | `a tribal energy resource agreement in effect under this section` |
+
+### 25 U.S.C. § 3501
+
+> in clause (ii), by striking “approved by the Secretary” and inserting “in effect”; and
+
+| | |
+|---|---|
+| Removed | `approved by the Secretary` |
+| Inserted | `in effect` |
+
+### 25 U.S.C. § 3501
+
+> in subparagraph (A), by striking “approved by the Secretary” and inserting “in effect”;
+
+| | |
+|---|---|
+| Removed | `approved by the Secretary` |
+| Inserted | `in effect` |
+
+### 25 U.S.C. § 3501
+
+> in subparagraph (B), by striking “approved by the Secretary” and inserting “in effect”; and
+
+| | |
+|---|---|
+| Removed | `approved by the Secretary` |
+| Inserted | `in effect` |
+
+### 25 U.S.C. § 3501
+
+> by striking “subsection (a) or (b)” and inserting “subsection (a)(2)(A)(i) or (b)(2)(A)”.
+
+| | |
+|---|---|
+| Removed | `subsection (a) or (b)` |
+| Inserted | `subsection (a)(2)(A)(i) or (b)(2)(A)` |
+
+### 16 U.S.C. § 800
+
+> Section 7(a) of the Federal Power Act (16 U.S.C. 800(a)) is amended by striking “States and municipalities” and inserting “States, Indian tribes, and municipalities”.
+
+| | |
+|---|---|
+| Removed | `States and municipalities` |
+| Inserted | `States, Indian tribes, and municipalities` |
+
+### 43 U.S.C. § 1602
+
+> in section 2(a), by striking “In this section” and inserting “In this Act”; and
+
+| | |
+|---|---|
+| Removed | `In this section` |
+| Inserted | `In this Act` |
+
+### 42 U.S.C. § 6863
+
+> by striking “The sums” and inserting “Administration.—The amounts”;
+
+| | |
+|---|---|
+| Removed | `The sums` |
+| Inserted | `Administration.—The amounts` |
+
+### 42 U.S.C. § 6863
+
+> by striking “individuals for whom such a determination has been made” and inserting “low-income members of the Indian tribe”; and
+
+| | |
+|---|---|
+| Removed | `individuals for whom such a determination has been made` |
+| Inserted | `low-income members of the Indian tribe` |
+
+### 42 U.S.C. § 6863
+
+> by striking “he” and inserting “the Secretary”; and
+
+| | |
+|---|---|
+| Removed | `he` |
+| Inserted | `the Secretary` |
+
+### 42 U.S.C. § 6863
+
+> in paragraph (3), by striking “In order” and inserting “Application.—In order”.
+
+| | |
+|---|---|
+| Removed | `In order` |
+| Inserted | `Application.—In order` |
+
+### 25 U.S.C. § 415
+
+> by striking “, except a lease for” and inserting “, including a lease for”;
+
+| | |
+|---|---|
+| Removed | `, except a lease for` |
+| Inserted | `, including a lease for` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -375,3 +654,71 @@ complete account of the bill's effect, which it is not.
 | `25 U.S.C. § 415` | replace | by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 415` | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 415` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3502` | strike | in subparagraph (C), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 3502` | replace | in subparagraph (D), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 3502` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3502` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3502` | insert | in the matter preceding subparagraph (A), by inserting “, intertribal organization,” after “Indian tribe”; | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 3502` | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3502` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3502` | insert | in paragraph (1), by inserting “or a tribal energy development organization” after “Indian tribe”; | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 3502` | strike | in subparagraph (A), by striking “or”; | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 3502` | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 3502` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3503` | insert | in paragraph (2)(B), by inserting “or tribal energy development organization” after “Indian tribe”. | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 3504` | strike | in subparagraph (A), by striking “or” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 3504` | replace | by striking clause (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3504` | insert | by inserting “, at least a portion of which have been” after “energy resources”; | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 3504` | insert | by inserting “or produced from” after “developed on”; and | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 3504` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3504` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3504` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3504` | replace | by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 415` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 415` | replace | by striking “(2)(A)” and all that follows through the end of subparagraph (A) and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 415` | replace | by striking “(B)” and all that follows through “if—” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 415` | replace | by striking clause (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 415` | redesignate | by redesignating clause (iii) as clause (iv) and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 415` | replace | by striking clause (ii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 415` | strike | in subclause (XVI)(bb), by striking “or tribal”; | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 415` | insert | in the matter preceding clause (i), by inserting “the approval of” after “with respect to”; | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 415` | replace | by striking clause (ii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 415` | strike | in clause (iv), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 415` | replace | in clause (v), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 415` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 415` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 415` | replace | in paragraph (4), by striking “date of disapproval” and all that follows through the end of subparagraph (C) and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 415` | replace | by striking “(B) Subject to” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 415` | insert | in subparagraph (C), in the matter preceding clause (i), by inserting “to perform the obligations of the Secretary under this section and” before “to ensure”; and | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 415` | add-at-end | in subparagraph (D), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 415` | replace | in clause (i), by striking “determine” and all that follows through the end of the clause and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 415` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 415` | strike | in clause (i), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 415` | amend | in clause (ii), by adding “and” after the semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 415` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 415` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3504` | redesignate | by redesignating subsection (g) as subsection (j); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3504` | insert | by inserting after subsection (f) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3502` | redesignate | by redesignating paragraphs (3) through (6) as paragraphs (4) through (7), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3502` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3501` | replace | Section 2601 of the Energy Policy Act of 1992 (25 U.S.C. 3501) is amended by striking paragraph (11) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3501` | insert | in subclause (XIV), by inserting “and” after the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 3501` | strike | by striking subclause (XV); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3501` | redesignate | by redesignating subclause (XVI) as subclause (XV); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3501` | replace | by striking “(3) The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 3501` | strike | by striking “for approval”; | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 3501` | replace | in paragraph (4), by striking “(4) If the Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 3501` | replace | by striking “(5) If an Indian tribe” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 3501` | replace | by striking “(6)(A) In carrying out” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 3501` | replace | by striking “(7)(A) In this paragraph” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 3501` | strike | in subclause (I), by striking “approved”; and | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 3501` | strike | by striking “approval of” in the first place it appears; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 6321` | add-at-end | Part D of title III of the Energy Policy and Conservation Act (42 U.S.C. 6321 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1602` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 4103` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6863` | strike | by striking “on the basis of his determination”; | the bill quotes the text struck but describes what replaces it |
+| — | add-at-end | Title XXVI of the Energy Policy Act of 1992 (25 U.S.C. 3501 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `25 U.S.C. § 415` | replace | by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 415` | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 415` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 415` | insert | Subsection (a) of the first section of the Act of August 9, 1955 (25 U.S.C. 415(a)), is amended in the second sentence by inserting “, land held in trust for the Crow Tribe of Montana” after “Devils Lake Sioux Reservation”. | the bill quotes the text inserted but describes where it goes |
