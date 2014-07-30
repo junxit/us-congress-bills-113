@@ -2,7 +2,7 @@
 legis-num: H. RES. 694
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 694
@@ -17,7 +17,7 @@ Upon the adoption of this resolution it shall be in order to consider in the Hou
 
 ## § 3.
 
-On any legislative day during the period from August 1, 2014, through September 5, 2014,—
+On any legislative day during the period from August 1, 2014, through September 5, 2014—
 
 - **(a)** the Journal of the proceedings of the previous day shall be considered as approved; and
 - **(b)** the Chair may at any time declare the House adjourned to meet at a date and time, within the limits of clause 4, section 5, article I of the Constitution, to be announced by the Chair in declaring the adjournment.
