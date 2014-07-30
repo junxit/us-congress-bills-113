@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4315
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4315
@@ -47,9 +47,10 @@ Endangered Species Transparency and Reasonableness Act
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (4)
 
@@ -117,3 +118,4 @@ Endangered Species Transparency and Reasonableness Act
 - 2014-07-29 — The Speaker designated the Honorable Rodney Davis to act as Chairman of the Committee.
 - 2014-07-29 — The previous question was ordered pursuant to the rule. (consideration: CR H7022)
 - 2014-07-29 — UNFINISHED BUSINESS - The Chair announced that, pursuant to clause 6 of Rule XVIII, the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2014-07-30 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
