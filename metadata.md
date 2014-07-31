@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4450
 congress: 113
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4450
@@ -205,3 +205,5 @@ Travel Promotion, Enhancement, and Modernization Act of 2014
 - 2014-07-22 — Placed on the Union Calendar, Calendar No. 408.
 - 2014-07-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-542, Part I.
 - 2014-07-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-542, Part I.
+- 2014-07-23 — Received in the Senate.
+- 2014-07-31 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 521.

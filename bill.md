@@ -2,7 +2,7 @@
 legis-num: H.R. 4450
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4450
@@ -60,9 +60,10 @@ Subsection (d)(3) of the Travel Promotion Act of 2009 (22 U.S.C. 2131(d)(3)) is 
 
 The Travel Promotion Act of 2009 (22 U.S.C. 2131), as amended by this Act, is further amended—
 
-- **(1)** by redesignating subsections (e), (f), (g), and (h) as subsections (h), (e), (i), and (j), respectively; and
-- **(2)** in paragraph (2) of subsection (c), by striking “$5,000,000” and inserting “$500,000”;
-- **(3)** by inserting after subsection (e), as redesignated, the following:
+- **(1)** by redesignating subsections (e), (f), (g), and (h) as subsections (h), (e), (i), and (j), respectively;
+- **(2)** by moving subsection (e) (as so redesignated) so that it follows subsection (d);
+- **(3)** in paragraph (2) of subsection (c), by striking “$5,000,000” and inserting “$500,000”; and
+- **(4)** by inserting after subsection (e), as redesignated, the following:
   > - **(f)** *Accountability*
   >   - **(1)** *Performance plans and measures* Not later than 90 days after the date of the enactment of the Travel Promotion, Enhancement, and Modernization Act of 2014, the Corporation shall—
   >     - **(A)** establish performance metrics including, time frames, evaluation methodologies, and data sources for measuring—
