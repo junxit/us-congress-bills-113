@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5195
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5195
@@ -43,3 +43,12 @@ Emergency Afghan Allies Extension Act of 2014
 - 2014-07-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7071)
 - 2014-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7071)
 - 2014-07-31 — Received in the Senate, read twice.
+- 2014-08-01 — Message on Senate action sent to the House.
+- 2014-08-01 — Passed Senate without amendment by Voice Vote. (consideration: CR S5329)
+- 2014-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S5329)
+- 2014-08-04 — Presented to President.
+- 2014-08-04 — Presented to President.
+- 2014-08-08 — Became Public Law No: 113-160.
+- 2014-08-08 — Became Public Law No: 113-160.
+- 2014-08-08 — Signed by President.
+- 2014-08-08 — Signed by President.
