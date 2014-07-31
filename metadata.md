@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 502
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 502
@@ -92,3 +92,5 @@ A resolution concerning the suspension of exit permit issuance by the Government
 - 2014-07-29 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2014-07-29 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2014-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 495.
+- 2014-07-31 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR 8/1/2014 S5313--5314; text as passed Senate: CR 8/1/2014 S5313-5313)
+- 2014-07-31 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR 8/1/2014 S5313--5314; text as passed Senate: CR 8/1/2014 S5313-5313)
