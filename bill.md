@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 5341
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5341
+
+> To delay for 1 year the application of Revenue Ruling 2012–18 with respect to the characterization of payments as tips or service charges.
+
+## § 1. Delay in application of Revenue Ruling 2012–18 with respect to characterization of tips or service charges
+
+The Secretary of the Treasury shall not apply Revenue Ruling 2012–18 (or any other similar guidance) for purposes of determining whether any payment made before January 1, 2015, is a tip as opposed to a service charge.
