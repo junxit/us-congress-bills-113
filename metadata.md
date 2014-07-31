@@ -1,7 +1,7 @@
 ---
 measure: S. 2010
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2010
@@ -24,3 +24,8 @@ Bureau of Reclamation Hydropower Development Equity and Jobs Act
 
 - 2014-02-10 — Introduced in Senate
 - 2014-02-10 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2014-02-27 — Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 113-284.
+- 2014-06-18 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-07-31 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 113-229.
+- 2014-07-31 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 113-229.
+- 2014-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 516.
