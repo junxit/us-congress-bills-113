@@ -1,7 +1,7 @@
 ---
 measure: S. 1771
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1771
@@ -29,3 +29,8 @@ Crooked River Collaborative Water Security Act of 2013
 - 2013-11-21 — Introduced in Senate
 - 2013-11-21 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S8462-8464)
 - 2013-11-21 — Sponsor introductory remarks on measure. (CR S8462)
+- 2014-02-27 — Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 113-284.
+- 2014-06-18 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2014-07-31 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-225.
+- 2014-07-31 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-225.
+- 2014-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 512.
