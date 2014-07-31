@@ -1,0 +1,18 @@
+---
+legis-num: S. 2744
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2744
+
+> To authorize a settlement in accordance with the agreement entered into by the Tennessee Valley Authority, the Department of the Interior, and counties within the Great Smoky Mountains National Park.
+
+## § 1. Short title
+
+This Act may be cited as the “Great Smoky Mountains National Park Agreement Act of 2014”.
+
+## § 2. Authorization
+
+Of funds previously appropriated to the Secretary of the Interior under the heading “construction” under the heading “National Park Service” in title I of division E of the Consolidated Appropriations Act, 2012 (Public Law 112–74; 125 Stat. 991), the Secretary of the Interior shall transfer $4,000,000 to counties within the Great Smoky Mountains National Park in accordance with the Memorandum of Agreement entered into by the Tennessee Valley Authority and the Department of the Interior and dated February 2010, which supersedes the agreement of July 30, 1943.
