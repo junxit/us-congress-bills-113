@@ -1,7 +1,7 @@
 ---
 measure: S. 2648
 congress: 113
-version: Placed on Calendar Senate
+version: Referred to Committee Senate
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 31 U.S.C. § 1105
+### 2 U.S.C. § 901
 
 > in subclause (I), by striking “and” and inserting “plus”;
 
@@ -42,7 +42,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `31 U.S.C. § 1105` | add-at-end | Section 251(b)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901(b)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 1105` | replace | in subclause (II), by striking the period and inserting “; less”; and | the bill quotes the text inserted but describes where it goes |
-| `31 U.S.C. § 1105` | amend | by adding the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 1105` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 901` | add-at-end | Section 251(b)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901(b)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 901` | replace | in subclause (II), by striking the period and inserting “; less”; and | the bill quotes the text inserted but describes where it goes |
+| `2 U.S.C. § 901` | amend | by adding the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 901` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
