@@ -14,7 +14,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas, on July 17, 2014, Malaysian Airlines Flight 17 tragically crashed in eastern Ukraine, killing all 298 passengers and crew, including 80 children;
 - Whereas President Barack Obama has offered President of Ukraine Petro Poroshenko all possible assistance to determine the cause of the crash, including the services of the Federal Bureau of Investigation and the National Transportation Safety Board;
 - Whereas intelligence analysis shows that the plane was shot down by an antiaircraft missile fired from an area controlled by pro-Russian separatists;
-- Whereas separatists have shot down 10 additional aircraft and took credit for shooting down another aircraft at approximately the same time as Malaysian Airlines Flight 17 crashed in eastern Ukraine;
+- Whereas separatists have shot down more than 10 additional aircraft and took credit for shooting down another aircraft at approximately the same time as Malaysian Airlines Flight 17 crashed in eastern Ukraine;
 - Whereas separatists blocked international experts from accessing the crash site in the first 72 hours, preventing the proper care of the victims’ bodies and allowing evidence from the crash to be removed and mishandled;
 - Whereas weapons and fighters have continued to flow across the border from the Russian Federation to eastern Ukraine, and there is evidence that the Government of the Russian Federation has been providing training to separatists fighters, including training on air defense systems;
 - Whereas this tragic incident has demonstrated that European and other foreign citizens are at risk from dangerous instability in Ukraine;

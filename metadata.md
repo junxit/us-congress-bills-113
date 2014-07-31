@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 520
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 520
@@ -34,3 +34,11 @@ A resolution condemning the downing of Malaysia Airlines Flight 17 and expressin
 - 2014-07-29 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2014-07-29 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2014-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 497.
+- 2014-07-31 — Amendment SA 3779 agreed to in Senate by Unanimous Consent.
+- 2014-07-31 — Amendment SA 3779 proposed by Senator Pryor for Senator Murphy. To make a technical correction.
+- 2014-07-31 — Measure laid before Senate by unanimous consent. (consideration: CR 8/1/2014 S5314-5315)
+- 2014-07-31 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(text: CR 8/1/2014 S5314-5315)
+- 2014-07-31 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR 8/1/2014 S5314-5315)
+- 2014-07-31 — Senate amendment agreed to: Amendment SA 3779 agreed to in Senate by Unanimous Consent.
+- 2014-07-31 — Senate amendment proposed (on the floor): Amendment SA 3779 proposed by Senator Pryor for Senator Murphy.
+- 2014-07-31 — Senate amendment submitted
