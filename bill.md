@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Reducing Regulatory Burdens Act of 2013”.
+This Act may be cited as the “Reducing Regulatory Burdens Act of 2014”.
 
 ## § 2. Use of authorized pesticides
 

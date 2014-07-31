@@ -1,7 +1,7 @@
 ---
 measure: H.R. 935
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 935
@@ -85,6 +85,12 @@ Reducing Regulatory Burdens Act of 2014
 - House — Agriculture Committee
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (3)
+
+- 2014-07-28 — [House 113-2-455](votes/house-113-2-0455.md) — On Motion to Suspend the Rules and Pass — **Failed** (253–148)
+- 2014-07-31 — [House 113-2-469](votes/house-113-2-0469.md) — On Motion to Recommit with Instructions — **Failed** (195–233)
+- 2014-07-31 — [House 113-2-470](votes/house-113-2-0470.md) — On Passage — **Passed** (267–161)
+
 ## Actions
 
 - 2013-03-04 — Introduced in House
@@ -104,3 +110,24 @@ Reducing Regulatory Burdens Act of 2014
 - 2014-06-02 — Reported by the Committee on Agriculture. H. Rept. 113-467, Part II.
 - 2014-06-02 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-467, Part I.
 - 2014-06-02 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-467, Part I.
+- 2014-07-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-07-28 — Considered as unfinished business. (consideration: CR H6937-6938)
+- 2014-07-28 — Considered under suspension of the rules. (consideration: CR H6870-6874)
+- 2014-07-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 935.
+- 2014-07-28 — Failed of passage/not agreed to in House: On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 253 - 148 (Roll no. 455).(text of measure as reported in House: CR H6870)
+- 2014-07-28 — Mr. Gibbs moved to suspend the rules and pass the bill.
+- 2014-07-28 — On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 253 - 148 (Roll no. 455). (text of measure as reported in House: CR H6870)
+- 2014-07-29 — Rules Committee Resolution H. Res. 694 Reported to House. The resolution provides for consideration of both H. Res. 676 and H.R. 935 in the House. Both measures are debatable for one hour.
+- 2014-07-30 — Considered under the provisions of rule H. Res. 694. (consideration: CR H7100-7108; text of measure as reported in House: CR H7100)
+- 2014-07-30 — DEBATE - The House proceeded with one hour of debate on H.R. 935.
+- 2014-07-30 — POSTPONED PROCEEDINGS - The Chair announced that pursuant to clause 1(c) of rule XIX, further proceedingson H.R. 935 would be postponed.
+- 2014-07-30 — Rule H. Res. 694 passed House.
+- 2014-07-30 — The previous question was ordered pursuant to the rule. (consideration: CR H7108)
+- 2014-07-30 — The resolution provides for consideration of both H. Res. 676 and H.R. 935 in the House. Both measures are debatable for one hour.
+- 2014-07-31 — Considered as unfinished business. (consideration: CR H7149-7152)
+- 2014-07-31 — DEBATE - The House proceeded with 10 minutes of debate on the Capps motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a new section at the end of the bill protecting infants and children from known or suspected carcinogens.
+- 2014-07-31 — Mrs. Capps moved to recommit with instructions to the Committee on Transportation. (consideration: CR H7149-7150; text: CR H7149)
+- 2014-07-31 — On motion to recommit with instructions Failed by the Yeas and Nays: 195 - 233 (Roll no. 469).
+- 2014-07-31 — On passage Passed by recorded vote: 267 - 161 (Roll no. 470).
+- 2014-07-31 — Passed/agreed to in House: On passage Passed by recorded vote: 267 - 161 (Roll no. 470).
+- 2014-07-31 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7150)
