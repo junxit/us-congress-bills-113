@@ -1,7 +1,7 @@
 ---
 measure: S. 231
 congress: 113
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
