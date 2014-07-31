@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3472
 congress: 113
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3472
@@ -68,3 +68,12 @@ To designate the facility of the United States Postal Service located at 13127 B
 - 2014-07-31 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.
 - 2014-07-31 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.
 - 2014-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 510.
+- 2014-08-01 — Message on Senate action sent to the House.
+- 2014-08-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5330)
+- 2014-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5330)
+- 2014-08-04 — Presented to President.
+- 2014-08-04 — Presented to President.
+- 2014-08-08 — Became Public Law No: 113-151.
+- 2014-08-08 — Became Public Law No: 113-151.
+- 2014-08-08 — Signed by President.
+- 2014-08-08 — Signed by President.
