@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1963
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1963
@@ -47,3 +47,8 @@ Bureau of Reclamation Conduit Hydropower Development Equity and Jobs Act
 - 2013-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7421-7422)
 - 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7421-7422)
 - 2013-12-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2014-02-27 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.
+- 2014-06-18 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-07-31 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 113-231.
+- 2014-07-31 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 113-231.
+- 2014-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 518.

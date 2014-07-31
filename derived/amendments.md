@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1963
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 1 executed, 1 stated and not applied.
+4 amendatory instructions. 2 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,15 @@ to guess them.
 | Removed | `In connection with` |
 | Inserted | `(a) In connection with` |
 
+### 16 U.S.C. § 590z-7
+
+> by striking “In connection with” and inserting “(a) In general.—In connection with”; and
+
+| | |
+|---|---|
+| Removed | `In connection with` |
+| Inserted | `(a) In general.—In connection with` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -42,4 +51,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `43 U.S.C. § 485h` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 485h` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
