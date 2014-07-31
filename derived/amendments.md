@@ -1,7 +1,7 @@
 ---
 measure: S. 2019
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 3 executed, 5 stated and not applied.
+8 amendatory instructions. 2 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,18 +33,9 @@ to guess them.
 | Removed | `; and` |
 | Inserted | `; or` |
 
-### 42 U.S.C. § 10364
-
-> in subsection (e), by striking “There is” and all that follows through “$200,000,000” and inserting “There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2015 through 2023”.
-
-| | |
-|---|---|
-| Removed | `There is” and all that follows through “$200,000,000` |
-| Inserted | `There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2015 through 2023` |
-
 ### 42 U.S.C. § 10368
 
-> Section 9508(e)(2) of the Omnibus Public Land Management Act of 2009 (42 U.S.C. 10368(e)(2)) is amended by striking “$12,500,000 for the period of fiscal years 2009 through 2013” and inserting “such sums as are necessary for the period of fiscal years 2014 through 2023”.
+> Section 9508(e)(2) of the Omnibus Public Land Management Act of 2009 (42 U.S.C. 10368(e)(2)) is amended by striking “$12,500,000 for the period of fiscal years 2009 through 2013” and inserting “such sums as are necessary for the period of fiscal years 2014 through 2023”. by striking “2009 through 2013” and inserting “2014 through 2018”.
 
 | | |
 |---|---|
@@ -65,3 +56,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 10364` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10364` | replace | by striking “(A) be located within the States” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 10364` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10364` | replace | in subsection (e), by striking “There is” and all that follows through “$200,000,000” and inserting “There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2015 through 2023”… | the bill quotes the text struck but describes what replaces it |

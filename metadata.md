@@ -1,7 +1,7 @@
 ---
 measure: S. 2019
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2019
@@ -32,3 +32,8 @@ SECURE Water Amendments Act of 2014
 
 - 2014-02-12 — Introduced in Senate
 - 2014-02-12 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2014-02-27 — Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 113-284.
+- 2014-06-18 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2014-07-31 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with amendments. With written report No. 113-230.
+- 2014-07-31 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with amendments. With written report No. 113-230.
+- 2014-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 517.
