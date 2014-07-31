@@ -43,3 +43,8 @@ This Act may be cited as the “National Cybersecurity and Communications Integr
   > - **(e)** *No right or benefit* The provision of assistance or information to, and inclusion in the operations center of, governmental or private entities under this section shall be at the discretion of the Under Secretary appointed under section 103(a)(1)(H). The provision of certain assistance or information to, or inclusion in the operations center of, one governmental or private entity pursuant to this section shall not create a right or benefit, substantive or procedural, to similar assistance or information for any other governmental or private entity.
 
 - **(b)** *Technical and conforming amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 note) is amended by inserting after the item relating to section 210F the following:
+
+## § 3. Rule of construction
+
+- **(a)** *Definition* In this section, the term critical infrastructure has the meaning given that term under section 2 of the Homeland Security Act of 2002 (6 U.S.C. 101).
+- **(b)** *Rule of construction* Nothing in this Act shall be construed to grant the Secretary of Homeland Security any authority to promulgate regulations or set standards relating to the cybersecurity of private sector critical infrastructure that was not in effect on the day before the date of enactment of this Act.
