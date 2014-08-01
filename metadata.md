@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 76
 congress: 113
-version: Public Print
+version: Enrolled Bill
 ---
 
 # H.J.Res. 76
@@ -87,3 +87,9 @@ Emergency Supplemental Appropriations Resolution, 2014
 - 2014-08-01 — Senate amendment submitted
 - 2014-08-01 — Senate amendment submitted
 - 2014-08-01 — The previous question was ordered without objection. (consideration: CR H7205)
+- 2014-08-04 — Became Public Law No: 113-145.
+- 2014-08-04 — Became Public Law No: 113-145.
+- 2014-08-04 — Presented to President.
+- 2014-08-04 — Presented to President.
+- 2014-08-04 — Signed by President.
+- 2014-08-04 — Signed by President.
