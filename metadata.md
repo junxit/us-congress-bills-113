@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 76
 congress: 113
-version: Engrossed Amendment Senate
+version: Public Print
 ---
 
 # H.J.Res. 76
