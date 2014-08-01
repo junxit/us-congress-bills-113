@@ -1,7 +1,7 @@
 ---
 measure: H.R. 935
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 935
@@ -80,10 +80,11 @@ Reducing Regulatory Burdens Act of 2014
 - Rep. Cassidy, Bill [R-LA-6] (C001075)
 - Rep. Crenshaw, Ander [R-FL-4] (C001045)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (3)
 
@@ -131,3 +132,4 @@ Reducing Regulatory Burdens Act of 2014
 - 2014-07-31 — On passage Passed by recorded vote: 267 - 161 (Roll no. 470).
 - 2014-07-31 — Passed/agreed to in House: On passage Passed by recorded vote: 267 - 161 (Roll no. 470).
 - 2014-07-31 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7150)
+- 2014-08-01 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
