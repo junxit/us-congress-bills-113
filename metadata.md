@@ -1,7 +1,7 @@
 ---
 measure: H.R. 594
 congress: 113
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 594
@@ -160,3 +160,12 @@ Paul D. Wellstone Muscular Dystrophy Community Assistance, Research and Educatio
 - 2014-07-28 — The title of the measure was amended. Agreed to without objection.
 - 2014-07-29 — Received in the Senate.
 - 2014-08-01 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 529.
+- 2014-09-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5862)
+- 2014-09-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5862)
+- 2014-09-19 — Message on Senate action sent to the House.
+- 2014-09-23 — Presented to President.
+- 2014-09-23 — Presented to President.
+- 2014-09-26 — Became Public Law No: 113-166.
+- 2014-09-26 — Became Public Law No: 113-166.
+- 2014-09-26 — Signed by President.
+- 2014-09-26 — Signed by President.
