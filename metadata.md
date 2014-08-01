@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 36
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.J.Res. 36
@@ -21,9 +21,10 @@ A joint resolution relating to the approval and implementation of the proposed a
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ A joint resolution relating to the approval and implementation of the proposed a
 - 2014-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 494.
 - 2014-07-31 — Passed Senate with an amendment by Voice Vote. (consideration: CR 8/1/2014 S5312-5313; text as passed Senate: CR 8/1/2014 S5312-5313)
 - 2014-07-31 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR 8/1/2014 S5312-5313; text as passed Senate: CR 8/1/2014 S5312-5313)
+- 2014-08-01 — Message on Senate action sent to the House.
+- 2014-08-01 — Received in the House.
+- 2014-08-01 — Referred to the House Committee on Foreign Affairs.
