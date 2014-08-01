@@ -1,7 +1,7 @@
 ---
 measure: H.R. 594
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 594
@@ -158,3 +158,5 @@ Paul D. Wellstone Muscular Dystrophy Community Assistance, Research and Educatio
 - 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6933)
 - 2014-07-28 — The Speaker announced the title of H.R. 594 was amended in the form at the desk. Agreed to without objection.
 - 2014-07-28 — The title of the measure was amended. Agreed to without objection.
+- 2014-07-29 — Received in the Senate.
+- 2014-08-01 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 529.
