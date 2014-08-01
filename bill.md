@@ -1,8 +1,8 @@
 ---
 legis-num: S. 231
-congress: 113th CONGRESS
+congress: One Hundred Thirteenth Congress of the United States of America
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 231

@@ -1,7 +1,7 @@
 ---
 measure: S. 231
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 231
@@ -46,3 +46,16 @@ Multinational Species Conservation Funds Semipostal Stamp Reauthorization Act of
 - 2014-08-01 — Received in the House.
 - 2014-08-01 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2014-08-01 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-08-05 — Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.
+- 2014-09-08 — Considered under suspension of the rules. (consideration: CR H7249)
+- 2014-09-08 — DEBATE - The House proceeded with forty minutes of debate on S. 231.
+- 2014-09-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-08 — Mr. Collins (GA) moved to suspend the rules and pass the bill.
+- 2014-09-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7249)
+- 2014-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7249)
+- 2014-09-10 — Presented to President.
+- 2014-09-10 — Presented to President.
+- 2014-09-19 — Became Public Law No: 113-165.
+- 2014-09-19 — Became Public Law No: 113-165.
+- 2014-09-19 — Signed by President.
+- 2014-09-19 — Signed by President.
