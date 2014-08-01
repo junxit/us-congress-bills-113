@@ -9,12 +9,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To prohibit certain actions with respect to deferred action for aliens not lawfully present in the United States, and for other purposes.
 
-## § 1. Prohibitions relating to deferred action
+## § 1. Limitation on Deferred Action for Childhood Arrivals; restrictions on employment authorization for aliens not in lawful status
 
-Unless explicitly authorized by law, no agency or instrumentality of the Federal Government may issue after July 30, 2014, guidance, memorandums, regulations, policies, or other similar instruments the effect of which is—
+No agency or instrumentality of the Federal Government may use Federal funding or resources after July 30, 2014—
 
-- **(1)** to modify, in any manner that would expand the number of aliens eligible for deferred action, the Executive memorandum dated June 15, 2012, concerning deferred action for childhood arrivals;
-- **(2)** to newly authorize deferred action for any class of aliens not in lawful immigration status in the United States; or
-- **(3)** to newly authorize any alien to work in the United States if such alien—
-  - **(A)** was not lawfully admitted into the United States in compliance with the immigration laws (as defined in section 101(a)(17) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(17))), except that this subparagraph shall not apply to an alien who is paroled under section 212(d)(5) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(5)) or permitted to land temporarily as an alien crewman; and
-  - **(B)** is not lawfully present in the United States.
+- **(1)** to consider or adjudicate any new or previously denied application of any alien requesting consideration of deferred action for childhood arrivals, as authorized by Executive memorandum dated June 15, 2012 and effective on August 15, 2012 (or by any other succeeding Executive memorandum or policy authorizing a similar program);
+- **(2)** to newly authorize deferred action for any class of aliens not lawfully present in the United States; or
+- **(3)** to authorize any alien to work in the United States if such alien—
+  - **(A)** was not lawfully admitted into the United States in compliance with the Immigration and Nationality Act (8 U.S.C. 1101 et seq.); and
+  - **(B)** is not in lawful status in the United States on the date of the enactment of this Act.
