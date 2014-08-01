@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 699
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 699
@@ -16,7 +16,7 @@ Welcoming African leaders to the first United States-Africa Leaders' Summit and 
 
 - Rep. Meeks, Gregory W. [D-NY-5] (M001137)
 
-## Cosponsors (51)
+## Cosponsors (56)
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 - Rep. Levin, Sander M. [D-MI-9] (L000263)
@@ -69,6 +69,11 @@ Welcoming African leaders to the first United States-Africa Leaders' Summit and 
 - Rep. Larson, John B. [D-CT-1] (L000557)
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 - Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. Griffin, Tim [R-AR-2] (G000567)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
 
 ## Committees (2)
 
@@ -81,3 +86,25 @@ Welcoming African leaders to the first United States-Africa Leaders' Summit and 
 - 2014-07-31 — Introduced in House
 - 2014-07-31 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2014-07-31 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-08-01 — Amendment (A001) offered by Mr. Royce. (consideration: CR H7238; text: CR H7238)
+- 2014-08-01 — Amendment (A002) offered by Mr. Royce. (consideration: CR H7238-7239; text: CR H7238-7239)
+- 2014-08-01 — Amendment agreed to by House: On agreeing to the Royce amendment (A001) Agreed to without objection.
+- 2014-08-01 — Amendment agreed to by House: On agreeing to the Royce amendment (A002) Agreed to without objection.
+- 2014-08-01 — Committee on Foreign Affairs discharged.
+- 2014-08-01 — Committee on Foreign Affairs discharged.
+- 2014-08-01 — Committee on Ways and Means discharged.
+- 2014-08-01 — Committee on Ways and Means discharged.
+- 2014-08-01 — Considered by unanimous consent. (consideration: CR H7237-7239; text of measure as introduced: CR H7238)
+- 2014-08-01 — House amendment agreed to: On agreeing to the Royce amendment (A001) Agreed to without objection.
+- 2014-08-01 — House amendment agreed to: On agreeing to the Royce amendment (A001) Agreed to without objection.
+- 2014-08-01 — House amendment agreed to: On agreeing to the Royce amendment (A002) Agreed to without objection.
+- 2014-08-01 — House amendment offered
+- 2014-08-01 — House amendment offered
+- 2014-08-01 — House amendment offered/reported by: Amendment (A001) offered by Mr. Royce.(consideration: CR H7238; text: CR H7238)
+- 2014-08-01 — House amendment offered/reported by: Amendment (A002) offered by Mr. Royce.(consideration: CR H7238-7239; text: CR H7238-7239)
+- 2014-08-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-08-01 — Mr. Royce asked unanimous consent to discharge from committee and consider.
+- 2014-08-01 — On agreeing to the Royce amendment (A001) Agreed to without objection.
+- 2014-08-01 — On agreeing to the Royce amendment (A002) Agreed to without objection.
+- 2014-08-01 — On agreeing to the resolution Agreed to without objection.
+- 2014-08-01 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
