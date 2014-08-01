@@ -2,7 +2,7 @@
 legis-num: H. RES. 683
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 683
@@ -19,12 +19,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas over 500,000 people have been displaced by the current situation in Iraq and reports have surfaced of targeted harassment, persecution, and killings of Iraqi religious minorities by ISIL with little to no protection from the Iraqi Government and other security forces;
 - Whereas the fall of Mosul in particular has sparked enough anxiety among the Christian population that for the first time in 1,600 years there was no Mass in the city;
 - Whereas over 50 percent of Iraq’s Christian population has fled since the fall of Saddam Hussein, 1,100,000 people of diverse religious backgrounds remain internally displaced and the government under Prime Minister Nouri al-Maliki has not upheld its commitment to protect the rights of religious minorities;
+- Whereas the United Nations High Commissioner for Refugees reports as of January 2014 a total population of concern in Iraq numbering 1,522,855 people, including refugees and internally displaced persons, many of whom face grave deprivation and imminent threats to life, health, and safety;
 - Whereas the United States has provided over $73,000,000 of cumulative assistance to Iraq’s minority populations since 2003 through economic development, humanitarian services, and capacity development;
 - Whereas 84,902 Iraqis have resettled to the United States between 2007 and 2013 and over 300,000 Chaldean and Assyrians currently reside throughout the country, particularly in Michigan, California, Arizona, Illinois, and Ohio; and
-- Whereas President Barack Obama recently declared on Religious Freedom Day, “Foremost among the rights Americans hold sacred is the freedom to worship as we choose … we also remember that religious liberty is not just an American right; it is a universal human right to be protected here at home and across the globe. This freedom is an essential part of human dignity, and without it our world cannot know lasting peace”: Now, therefore, be it
+- Whereas President Barack Obama recently declared on Religious Freedom Day, “Foremost among the rights Americans hold sacred is the freedom to worship as we choose * * * we also remember that religious liberty is not just an American right; it is a universal human right to be protected here at home and across the globe. This freedom is an essential part of human dignity, and without it our world cannot know lasting peace”: Now, therefore, be it
 
 That the House of Representatives—
 
-- **(1)** reaffirms its commitments to promoting and protecting religious freedom around the world and providing relief to minority groups facing persecution;
-- **(2)** calls on the United States Department of State to work with the Kurdistan Regional Government, the Iraqi central government, neighboring countries, the diaspora community in the United States, the United Nations High Commissioner for Refugees, and other key stakeholders to help secure safe havens for those claiming amnesty in Iraq; and
-- **(3)** respectfully requests the addition of a Special Representative for Religious Minorities to be included in Prime Minister al-Maliki’s newly reconstructed government.
+- **(1)** deplores and condemns the religious bigotry, vandalism and destruction of property, and violent attacks on and intimidation of innocent Iraqi civilians by armed extremists;
+- **(2)** calls on the United States Department of State to work with the Kurdistan Regional Government, the Iraqi central government, neighboring countries, the diaspora community in the United States, the United Nations High Commissioner for Refugees, and other key stakeholders to help secure safe havens for those claiming amnesty in Iraq;
+- **(3)** calls on the United States Permanent Representative to the United Nations to work with the United Nations High Commissioner for Refugees on a sustained basis to document human rights abuses against Iraqi civilians and develop an immediate plan to facilitate safe humanitarian access to potable water, health care, fuel, electricity, and basic security for the most vulnerable civilian populations;
+- **(4)** calls upon the Government of Iraq to take immediate steps to protect the safety and constitutional rights of all Iraqi citizens;
+- **(5)** respectfully requests the addition of a Special Representative for Religious Minorities to be included in the newly reconstructed government of Iraq; and
+- **(6)** reaffirms its commitments to promoting and protecting religious freedom around the world and providing relief to minority groups facing persecution.
