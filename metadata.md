@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 112
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 112
@@ -23,3 +23,6 @@ Providing for a conditional adjournment of the House of Representatives and a co
 - 2014-08-04 — Introduced in House
 - 2014-08-04 — On agreeing to the resolution Agreed to without objection. (text: CR H7243)
 - 2014-08-04 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H7243)
+- 2014-08-05 — Message on Senate action sent to the House.
+- 2014-08-05 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Voice Vote.(consideration: CR S5334; text as passed Senate: CR S5334)
+- 2014-08-05 — Received in the Senate, considered, and agreed to without amendment by Voice Vote. (consideration: CR S5334; text as passed Senate: CR S5334)
