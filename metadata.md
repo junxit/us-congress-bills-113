@@ -1,7 +1,7 @@
 ---
 measure: S. 2040
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2040
@@ -28,3 +28,8 @@ Blackfoot River Land Exchange Act of 2014
 
 - 2014-02-25 — Introduced in Senate
 - 2014-02-25 — Read twice and referred to the Committee on Indian Affairs.
+- 2014-05-07 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 113-509.
+- 2014-05-21 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2014-08-05 — Committee on Indian Affairs. Reported by Senator Tester without amendment. With written report No. 113-242.
+- 2014-08-05 — Committee on Indian Affairs. Reported by Senator Tester without amendment. With written report No. 113-242.
+- 2014-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 530.
