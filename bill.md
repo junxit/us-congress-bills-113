@@ -22,3 +22,10 @@ chamber: IN THE SENATE OF THE UNITED STATES
     - **(A)** the application or effect of any Federal law other than the Act of June 18, 1934 (25 U.S.C. 461 et seq.), as amended by subsection (a); or
     - **(B)** any limitation on the authority of the Secretary of the Interior under any Federal law or regulation other than the Act of June 18, 1934 (25 U.S.C. 461 et seq.), as so amended.
   - **(2)** *References in other laws* An express reference to the Act of June 18, 1934 (25 U.S.C. 461 et seq.), contained in any other Federal law shall be considered to be a reference to that Act as amended by subsection (a).
+- **(d)** *Study; publication*
+  - **(1)** *Study* The Secretary of the Interior shall conduct, and submit to Congress a report describing the results of, a study that—
+    - **(A)** assesses the effects of the decision of the Supreme Court in the case styled Carcieri v. Salazar (129 S. Ct. 1058) on Indian tribes and tribal land; and
+    - **(B)** includes a list of each Indian tribe and parcel of tribal land affected by that decision.
+  - **(2)** *Publication* On completion of the report under paragraph (1) and by not later than 1 year after the date of enactment of this Act, the Secretary of the Interior shall publish the list described in paragraph (1)(B)—
+    - **(A)** in the Federal Register; and
+    - **(B)** on the public website of the Department of the Interior.
