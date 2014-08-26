@@ -52,5 +52,5 @@ This Act may be cited as the “Presidential Library Donation Reform Act of 2014
     - **(A)** *Contribution* The term contribution has the same meaning given that term in section 2112(h) of title 44, United States Code (as added by subsection (a)).
     - **(B)** *Presidential library fundraising organization* The term Presidential library fundraising organization has the same meaning given that term in section 2112(h) of title 44, United States Code (as added by subsection (a)).
   - **(2)** *Applicability* Section 2112(h) of title 44, United States Code (as added by subsection (a)) shall apply—
-    - **(A)** to Presidential library fundraising organization established before, on, or after the date of enactment of this Act; and
+    - **(A)** to a Presidential library fundraising organization established before, on, or after the date of enactment of this Act; and
     - **(B)** with respect to a contribution made after the date of enactment of this Act.
