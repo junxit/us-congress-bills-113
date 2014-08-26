@@ -1,7 +1,7 @@
 ---
 measure: S. 2041
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2041
@@ -28,3 +28,8 @@ May 31, 1918 Act Repeal Act
 
 - 2014-02-25 — Introduced in Senate
 - 2014-02-25 — Read twice and referred to the Committee on Indian Affairs.
+- 2014-05-07 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 113-509.
+- 2014-06-11 — Committee on Indian Affairs. Ordered to be reported with an amendment favorably.
+- 2014-08-26 — Committee on Indian Affairs. Reported by Senator Tester under authority of the order of the Senate of 08/05/2014 with amendments. Without written report.
+- 2014-08-26 — Committee on Indian Affairs. Reported by Senator Tester under authority of the order of the Senate of 08/05/2014 with amendments. Without written report.
+- 2014-08-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 539.
