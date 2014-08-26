@@ -1,7 +1,7 @@
 ---
 measure: S. 2299
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2299
@@ -16,7 +16,7 @@ Native American Languages Reauthorization Act of 2014
 
 - Sen. Johnson, Tim [D-SD] (J000177)
 
-## Cosponsors (9)
+## Cosponsors (10)
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Begich, Mark [D-AK] (B001265)
@@ -27,6 +27,7 @@ Native American Languages Reauthorization Act of 2014
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Udall, Tom [D-NM] (U000039)
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Walsh, John E. [D-MT] (W000818)
 
 ## Committees (1)
 
@@ -37,3 +38,8 @@ Native American Languages Reauthorization Act of 2014
 - 2014-05-07 — Introduced in Senate
 - 2014-05-07 — Read twice and referred to the Committee on Indian Affairs.
 - 2014-05-07 — Sponsor introductory remarks on measure. (CR S2797-2798)
+- 2014-06-18 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 113-510.
+- 2014-07-30 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-08-26 — Committee on Indian Affairs. Reported by Senator Tester under authority of the order of the Senate of 08/05/2014 with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2014-08-26 — Committee on Indian Affairs. Reported by Senator Tester under authority of the order of the Senate of 08/05/2014 with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2014-08-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 541.
