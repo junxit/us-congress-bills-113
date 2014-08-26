@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1447
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -30,6 +30,8 @@ This Act may be cited as the “New Mexico Native American Water Settlements Tec
   - **(2)** in subsection (c)(1)(A), by striking “for the period of fiscal years 2011 through 2015”.
 
 ## § 4. Navajo water settlement
+
+## § 2. Navajo water settlement
 
 - **(a)** *Definitions* Section 10302 of the Omnibus Public Land Management Act of 2009 (43 U.S.C. 407 note; Public Law 111–11) is amended—
   - **(1)** in paragraph (2), by striking “Arrellano” and inserting “Arellano”; and

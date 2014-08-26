@@ -1,7 +1,7 @@
 ---
 measure: S. 1447
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1447
@@ -28,3 +28,8 @@ New Mexico Navajo Water Settlement Technical Corrections Act
 
 - 2013-08-01 — Introduced in Senate
 - 2013-08-01 — Read twice and referred to the Committee on Indian Affairs.
+- 2013-09-10 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 113-143.
+- 2014-06-11 — Committee on Indian Affairs. Ordered to be reported with amendments favorably.
+- 2014-08-26 — Committee on Indian Affairs. Reported by Senator Tester under authority of the order of the Senate of 08/05/2014 with an amendment and an amendment to the title. With written report No. 113-246.
+- 2014-08-26 — Committee on Indian Affairs. Reported by Senator Tester under authority of the order of the Senate of 08/05/2014 with an amendment and an amendment to the title. With written report No. 113-246.
+- 2014-08-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 536.
