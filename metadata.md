@@ -1,7 +1,7 @@
 ---
 measure: S. 2323
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2323
@@ -16,6 +16,10 @@ Gold Star Fathers Act of 2014
 
 - Sen. Brown, Sherrod [D-OH] (B000944)
 
+## Cosponsors (1)
+
+- Sen. Wyden, Ron [D-OR] (W000779)
+
 ## Committees (1)
 
 - Senate — Homeland Security and Governmental Affairs Committee
@@ -24,3 +28,7 @@ Gold Star Fathers Act of 2014
 
 - 2014-05-13 — Introduced in Senate
 - 2014-05-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2014-07-30 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2014-08-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper under authority of the order of the Senate of 08/05/2014 without amendment. With written report No. 113-249.
+- 2014-08-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper under authority of the order of the Senate of 08/05/2014 without amendment. With written report No. 113-249.
+- 2014-08-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 549.
