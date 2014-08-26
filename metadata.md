@@ -1,7 +1,7 @@
 ---
 measure: S. 919
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 919
@@ -16,7 +16,7 @@ Department of the Interior Tribal Self-Governance Act of 2014
 
 - Sen. Cantwell, Maria [D-WA] (C000127)
 
-## Cosponsors (9)
+## Cosponsors (13)
 
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Murray, Patty [D-WA] (M001111)
@@ -27,6 +27,10 @@ Department of the Interior Tribal Self-Governance Act of 2014
 - Sen. Schatz, Brian [D-HI] (S001194)
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Walsh, John E. [D-MT] (W000818)
 
 ## Committees (1)
 
@@ -36,3 +40,8 @@ Department of the Interior Tribal Self-Governance Act of 2014
 
 - 2013-05-09 — Introduced in Senate
 - 2013-05-09 — Read twice and referred to the Committee on Indian Affairs.
+- 2014-01-29 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 113-299.
+- 2014-06-11 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-08-26 — Committee on Indian Affairs. Reported by Senator Tester under authority of the order of the Senate of 08/05/2014 with an amendment in the nature of a substitute. Without written report.
+- 2014-08-26 — Committee on Indian Affairs. Reported by Senator Tester under authority of the order of the Senate of 08/05/2014 with an amendment in the nature of a substitute. Without written report.
+- 2014-08-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 533.
