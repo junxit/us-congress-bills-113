@@ -1,7 +1,7 @@
 ---
 measure: S. 2465
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2465
@@ -28,3 +28,8 @@ Albuquerque Indian School Land Transfer Act
 
 - 2014-06-11 — Introduced in Senate
 - 2014-06-11 — Read twice and referred to the Committee on Indian Affairs.
+- 2014-07-09 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 113-419.
+- 2014-07-30 — Committee on Indian Affairs. Ordered to be reported with an amendment favorably.
+- 2014-08-26 — Committee on Indian Affairs. Reported by Senator Tester under authority of the order of the Senate of 08/05/2014 with amendments. Without written report.
+- 2014-08-26 — Committee on Indian Affairs. Reported by Senator Tester under authority of the order of the Senate of 08/05/2014 with amendments. Without written report.
+- 2014-08-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 543.

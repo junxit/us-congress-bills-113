@@ -38,6 +38,7 @@ In this Act:
   - **(R)** Zia; and
   - **(S)** Zuni.
 - **(2)** *Map* The term map means the map entitled “Bureau of Indian Affairs—Southwest Region Division of Land Titles & Records: BLM Surveys Within Town of Albuquerque Grant—Albuquerque Indian School” and dated August 7, 2013.
+- **(2)** *Map* The term map means the map entitled “The Town of Albuquerque Grant, Bernalillo County, within Township 10 North, Range 3 East, of the New Mexico Principal Meridian, New Mexico—Metes and Bounds Survey” and dated August 12, 2011.
 - **(3)** *Secretary* The term Secretary means Secretary of the Interior.
 
 ## § 3. Land taken into trust for benefit of 19 Pueblos
@@ -55,6 +56,11 @@ In this Act:
 - **(c)** *Survey* The Secretary shall conduct a survey of the Federal land to be transferred consistent with subsection (b) and may make minor corrections to the survey and legal description of the Federal land described in subsection (b) as the Secretary determines to be necessary to correct clerical, typographical, and surveying errors.
 - **(d)** *Use of land* The Federal land taken into trust under subsection (a) shall be used for the educational, health, cultural, business, and economic development of the 19 Pueblos.
 - **(e)** *Limitations and conditions* The Federal land taken into trust under subsection (a) shall remain subject to any private or municipal encumbrance, right-of-way, restriction, easement of record, or utility service agreement in effect on the date of enactment of this Act.
+- **(f)** *Bureau of Indian Affairs use*
+  - **(1)** *In general* The 19 Pueblos shall allow the Bureau of Indian Affairs to continue to use the land taken into trust under subsection (a) for the facilities and purposes as in existence on the date of enactment of this Act, in accordance with paragraph (2).
+  - **(2)** *Requirements* The use by the Bureau of Indian Affairs under paragraph (1) shall—
+    - **(A)** be free of any rental charge; and
+    - **(B)** continue until such time as the Secretary determines there is no further need for the existing Bureau of Indian Affairs facilities.
 
 ## § 4. Effect of other laws
 
