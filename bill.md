@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2495
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,9 +22,10 @@ Section 2 of the Department of Energy High-End Computing Revitalization Act of 2
 > - **(3)** *Exascale* The term exascale means computing system performance at or near 10 to the 18th power floating point operations per second.
 > - **(4)** *High-end computing system* The term high-end computing system means a computing system with performance that substantially exceeds that of systems that are commonly available for advanced scientific and engineering applications.
 > - **(5)** *Institution of higher education* The term institution of higher education has the meaning given the term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
-> - **(6)** *National laboratory* The term National Laboratory means any one of the seventeen laboratories owned by the Department.
-> - **(7)** *Secretary* The term Secretary means the Secretary of Energy.
-> - **(8)** *Software technology* The term software technology includes optimal algorithms, programming environments, tools, languages, and operating systems for high-end computing systems.
+> - **(6)** *Leadership system* The term “leadership system” means a high-end computing system that is among the most advanced in the world in terms of performance in solving scientific and engineering problems.
+> - **(7)** *National laboratory* The term National Laboratory means any one of the seventeen laboratories owned by the Department.
+> - **(8)** *Secretary* The term Secretary means the Secretary of Energy.
+> - **(9)** *Software technology* The term software technology includes optimal algorithms, programming environments, tools, languages, and operating systems for high-end computing systems.
 
 ## § 3. Department of Energy high-end computing research and development program
 

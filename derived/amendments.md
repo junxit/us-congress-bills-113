@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2495
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -54,5 +54,5 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 5541` | replace | Section 2 of the Department of Energy High-End Computing Revitalization Act of 2004 (15 U.S.C. 5541) is amended by striking paragraphs (1) through (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 5542` | strike | by striking “and” at the end of paragraph (1); | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 5542` | replace | by striking the period at the end of paragraph (2) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 5542` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 5542` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 5542` | replace | by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
