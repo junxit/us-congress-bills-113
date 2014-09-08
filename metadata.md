@@ -1,7 +1,7 @@
 ---
 measure: S. 2665
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2665
@@ -24,3 +24,7 @@ Emergency Information Improvement Act of 2014
 
 - 2014-07-24 — Introduced in Senate
 - 2014-07-24 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2014-07-30 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2014-09-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. With written report No. 113-250.
+- 2014-09-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. With written report No. 113-250.
+- 2014-09-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 553.
