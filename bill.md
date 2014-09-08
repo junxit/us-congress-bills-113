@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 744
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Stopping Tax Offenders and Prosecuting Identity Theft Act of 2013” or the “STOP Identity Theft Act of 2013”.
+This Act may be cited as the “Stopping Tax Offenders and Prosecuting Identity Theft Act of 2014” or the “STOP Identity Theft Act of 2014”.
 
 ## § 2. Use of Department of Justice resources with regard to tax return identity theft
 
@@ -41,9 +41,8 @@ Section 1028(b)(3) of title 18, United States Code, is amended—
 
 ## § 5. Reporting requirement
 
-- **(a)** *Generally* Beginning with the first report made more than 9 months after the date of the enactment of this Act under section 1116 of title 31, United States Code, the Attorney General shall include in such report the information described in subsection (b) of this section as to progress in implementing this Act and the amendments made by this Act.
-- **(b)** *Contents* The information referred to in subsection (a) is as follows:
-  - **(1)** Information readily available to the Department of Justice about trends in the incidence of tax return identity theft.
-  - **(2)** The effectiveness of statutory tools, including those provided by this Act, in aiding the Department of Justice in the prosecution of tax return identity theft.
-  - **(3)** Recommendations on additional statutory tools that would aid in removing barriers to effective prosecution of tax return identity theft.
-  - **(4)** The status on implementing the recommendations of the Department’s March 2010 Audit Report 10–21 entitled The Department of Justice’s Efforts to Combat Identity Theft.
+Not later than 180 days after the date of the enactment of this Act, the Attorney General shall submit to the Committees on the Judiciary of the House of Representatives and the Senate a report that contains the following information:
+
+- **(1)** Information readily available to the Department of Justice about trends in the incidence of tax return identity theft.
+- **(2)** Recommendations on additional statutory tools that would aid in the effective prosecution of tax return identity theft.
+- **(3)** The status on implementing the recommendations of the Department’s March 2010 Audit Report 10–21 entitled “The Department of Justice’s Efforts to Combat Identity Theft”.
