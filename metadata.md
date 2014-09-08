@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5272
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5272
@@ -41,3 +41,5 @@ To prohibit certain actions with respect to deferred action for aliens not lawfu
 - 2014-08-01 — Rule H. Res. 710 passed House.
 - 2014-08-01 — Rules Committee Resolution H. Res. 710 Reported to House. Provides for further consideration of H.R. 5230 and for consideration of H.R. 5272. Both bills are debatable for 1 hour. The amendments to H.R. 5230printed in part A of the report shall be considered as adopted. The amendment to H.R. 5272 printed in Part B of the report shall be considered as adopted. The rule provides for one motion to recommit with or without instructions for each measure. The rule amends section 2 of H.Res. 700 to allow for motions to suspend the rules with respect to a measure addressing missile defense of Israel.
 - 2014-08-01 — The previous question was ordered pursuant to the rule. (consideration: CR H7235)
+- 2014-08-05 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-09-08 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 551.
