@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4527
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4527
@@ -37,3 +37,9 @@ To remove a use restriction on land formerly a part of Acadia National Park that
 - 2014-07-17 — Placed on the Union Calendar, Calendar No. 401.
 - 2014-07-17 — Reported by the Committee on Natural Resources. H. Rept. 113-535.
 - 2014-07-17 — Reported by the Committee on Natural Resources. H. Rept. 113-535.
+- 2014-09-08 — Considered under suspension of the rules. (consideration: CR H7271-7272)
+- 2014-09-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4527.
+- 2014-09-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-08 — Mr. Young (AK) moved to suspend the rules and pass the bill.
+- 2014-09-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7271)
+- 2014-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7271)
