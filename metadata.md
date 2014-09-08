@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5030
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5030
@@ -54,3 +54,11 @@ To designate the facility of the United States Postal Service located at 13500 S
 - 2014-07-08 — Introduced in House
 - 2014-07-08 — Introduced in House
 - 2014-07-08 — Referred to the House Committee on Oversight and Government Reform.
+- 2014-07-24 — Committee Consideration and Mark-up Session Held.
+- 2014-07-24 — Ordered to be Reported by Unanimous Consent.
+- 2014-09-08 — Considered under suspension of the rules. (consideration: CR H7259-7260)
+- 2014-09-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5030.
+- 2014-09-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-08 — Mr. Collins (GA) moved to suspend the rules and pass the bill.
+- 2014-09-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7259)
+- 2014-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7259)
