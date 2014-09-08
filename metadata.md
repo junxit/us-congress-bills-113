@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5161
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5161
@@ -31,3 +31,10 @@ Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014
 - 2014-07-22 — Introduced in House
 - 2014-07-22 — Introduced in House
 - 2014-07-22 — Referred to the House Committee on Energy and Commerce.
+- 2014-07-25 — Referred to the Subcommittee on Communications and Technology.
+- 2014-07-29 — Committee Consideration and Mark-up Session Held.
+- 2014-07-30 — Committee Consideration and Mark-up Session Held.
+- 2014-07-30 — Ordered to be Reported by Voice Vote.
+- 2014-09-08 — Placed on the Union Calendar, Calendar No. 426.
+- 2014-09-08 — Reported by the Committee on Energy and Commerce. H. Rept. 113-575.
+- 2014-09-08 — Reported by the Committee on Energy and Commerce. H. Rept. 113-575.
