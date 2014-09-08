@@ -1,0 +1,58 @@
+---
+legis-num: H.R. 5402
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5402
+
+> To amend the Clayton Act and the Federal Trade Commission Act to provide that the Federal Trade Commission shall exercise authority with respect to mergers only under the Clayton Act and only in the same procedural manner as the Attorney General exercises such authority.
+
+## § 1. Short title
+
+This Act may be cited as the “Standard Merger and Acquisition Reviews Through Equal Rules Act of 2014”.
+
+## § 2. Amendments to the Clayton Act
+
+The Clayton Act (15 U.S.C. 12 et seq.) is amended—
+
+- **(1)** in section 4F—
+  - **(A)** in the heading by inserting “or the Federal Trade Commission” after “United States”,
+  - **(B)** in subsection (a)—
+    - **(i)** by inserting “(or the Federal Trade Commission with respect to a violation of section 7)” after “United States”, and
+    - **(ii)** by inserting “(or it)” after “he” each place it appears, and
+  - **(C)** in subsection (b) by inserting “(or the Federal Trade Commission with respect to a violation of section 7)” after “United States”,
+- **(2)** in section 5—
+  - **(A)** in subsection (a) by inserting “(including a proceeding brought by the Federal Trade Commission with respect to a violation of section 7)” after “United States”,
+  - **(B)** in subsection (b) by inserting “(including the Federal Trade Commission with respect to a violation of section 7)” after “United States” each place it appears,
+  - **(C)** in subsection (c) by inserting “(including the Federal Trade Commission with respect to a violation of section 7)” after “United States” each place it appears,
+  - **(D)** in subsection (d) by inserting “(including the Federal Trade Commission with respect to a violation of section 7)” after “United States” each place it appears,
+  - **(E)** in subsection (e)(1) by inserting “(including the Federal Trade Commission with respect to a violation of section 7)” after “United States”,
+  - **(F)** in subsection (f)(4) by inserting “(including the Federal Trade Commission with respect to a violation of section 7)” after “United States”,
+  - **(G)** in subsection (g)—
+    - **(i)** by inserting “(including the Federal Trade Commission with respect to a violation of section 7)” after “United States”,
+    - **(ii)** by inserting “(or the Federal Trade Commission)” after “General”, and
+    - **(iii)** by inserting “(or any officer or employee of the Federal Trade Commission)” after “Justice”, and
+  - **(H)** in subsection (i) by inserting “(including the Federal Trade Commission with respect to a violation of section 7)” after “United States”,
+- **(3)** in section 11(a) by inserting “(excluding enforcing compliance with section 7)” after “commerce”,
+- **(4)** in section 13 by inserting “(including the Federal Trade Commission with respect to a violation of section 7)” after “United States” the 1st place it appears, and
+- **(5)** in section 15 by inserting “and the duty of the Federal Trade Commission with respect to a violation of section 7,” after “General,”.
+
+## § 3. Amendments to the Federal Trade Commission Act
+
+The Federal Trade Commission Act (15 U.S.C. 41) is amended—
+
+- **(1)** in section 5(b)—
+  - **(A)** by inserting “(excluding the consummation of a proposed merger, acquisition, joint venture, or similar transaction subject to section 7 of the Clayton Act)” after “unfair method of competition”, and
+  - **(B)** by inserting “(excluding the consummation of a proposed merger, acquisition, joint venture, or similar transaction subject to section 7 of the Clayton Act)” after “method of competition” the 2d and 3d places it appears,
+- **(2)** in section 9 by inserting after the 4th undesignated paragraph the following:
+- **(3)** in section 13(b)(1) by inserting “(excluding section 7 of the Clayton Act and section 5(a)(1) with respect to the consummation of a proposed merger, acquisition, joint venture, or similar transaction subject to section 7 of the Clayton Act)” after “Commission”.
+
+## § 4. Effective date; application of amendments
+
+- **(a)** *Effective date* Except as provided in subsection (b), this Act and the amendments made by this Act shall take effect on the date of the enactment of this Act.
+- **(b)** *Application of amendments* The amendments made by this Act shall not apply to any of the following that occurs before the date of enactment of this Act:
+  - **(1)** A violation of section 7 of the Clayton Act (15 U.S.C. 18).
+  - **(2)** A transaction with respect to which there is compliance with section 7A of the Clayton Act (15 U.S.C. 18a).
+  - **(3)** A merger, acquisition, joint venture, or similar transaction that is consummated.
