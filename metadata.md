@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3670
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3670
@@ -59,3 +59,9 @@ Anti-Spoofing Act of 2014
 - 2014-09-08 — Placed on the Union Calendar, Calendar No. 423.
 - 2014-09-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-572.
 - 2014-09-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-572.
+- 2014-09-09 — Considered under suspension of the rules. (consideration: CR H7347-7349)
+- 2014-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3670.
+- 2014-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-09 — Mr. Barton moved to suspend the rules and pass the bill, as amended.
+- 2014-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7347)
+- 2014-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7347)
