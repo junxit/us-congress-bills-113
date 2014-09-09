@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4701
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4701
@@ -56,3 +56,10 @@ Tick-Borne Disease Research Accountability and Transparency Act of 2014
 - 2014-09-08 — Placed on the Union Calendar, Calendar No. 424.
 - 2014-09-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-573.
 - 2014-09-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-573.
+- 2014-09-09 — Considered under suspension of the rules. (consideration: CR H7344-7347)
+- 2014-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4701.
+- 2014-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-09 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
+- 2014-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7344-7345)
+- 2014-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7344-7345)
+- 2014-09-09 — The title of the measure was amended. Agreed to without objection.
