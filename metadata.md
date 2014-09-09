@@ -1,7 +1,7 @@
 ---
 measure: S. 1934
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1934
@@ -32,3 +32,5 @@ Clifford P. Hansen Federal Courthouse Conveyance Act
 - 2014-06-05 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2014-06-05 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2014-06-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 423.
+- 2014-09-09 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S5460-5461; text as passed Senate: CR S5460)
+- 2014-09-09 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S5460-5461; text as passed Senate: CR S5460)
