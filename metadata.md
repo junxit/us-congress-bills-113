@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2819
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2819
@@ -33,9 +33,10 @@ To designate the facility of the United States Postal Service located at 275 Fro
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 - Rep. Gibbs, Bob [R-OH-7] (G000563)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ To designate the facility of the United States Postal Service located at 275 Fro
 - 2014-09-08 — Mr. Collins (GA) moved to suspend the rules and pass the bill.
 - 2014-09-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7251)
 - 2014-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7251)
+- 2014-09-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
