@@ -1,7 +1,7 @@
 ---
 measure: H.R. 744
 congress: 113
-version: Reported in House
+version: Placed on Calendar Senate
 derived: true
 ---
 

@@ -2,7 +2,7 @@
 legis-num: H.R. 744
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 744
@@ -45,4 +45,4 @@ Not later than 180 days after the date of the enactment of this Act, the Attorne
 
 - **(1)** Information readily available to the Department of Justice about trends in the incidence of tax return identity theft.
 - **(2)** Recommendations on additional statutory tools that would aid in the effective prosecution of tax return identity theft.
-- **(3)** The status on implementing the recommendations of the Department’s March 2010 Audit Report 10-21 entitled “The Department of Justice’s Efforts to Combat Identity Theft”.
+- **(3)** The status on implementing the recommendations of the Department’s March 2010 Audit Report 10–21 entitled “The Department of Justice’s Efforts to Combat Identity Theft”.

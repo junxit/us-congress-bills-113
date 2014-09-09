@@ -1,7 +1,7 @@
 ---
 measure: H.R. 744
 congress: 113
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 744
@@ -49,3 +49,4 @@ STOP Identity Theft Act of 2014
 - 2014-09-08 — Placed on the Union Calendar, Calendar No. 427.
 - 2014-09-08 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-576.
 - 2014-09-08 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-576.
+- 2014-09-09 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 555.
