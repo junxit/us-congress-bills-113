@@ -51,7 +51,7 @@ The Public Health Service Act is amended by inserting after section 317L of such
 >       - **(v)** any accidental or environmental factors associated with death.
 >   - **(3)** *Guidelines for a standard autopsy protocol* The Secretary, in consultation with the Attorney General of the United States, forensic pathologists, medical examiners, coroners, pediatric pathologists, pediatric cardiologists, pediatric neuropathologists, geneticists, infectious disease specialists, and other individuals and organizations determined appropriate by the Secretary, shall—
 >     - **(A)** develop guidelines for a standard autopsy protocol for SUID; and
->     - **(C)** not less than every 5 years, review and, as appropriate, update such guidelines.
+>     - **(B)** not less than every 5 years, review and, as appropriate, update such guidelines.
 >   - **(4)** *Training* The Secretary, in consultation with the Attorney General of the United States, may—
 >     - **(A)** conduct or support—
 >       - **(i)** training activities for medical examiners, coroners, medicolegal death scene investigators, law enforcement personnel, and emergency medical technicians or paramedics concerning death scene investigations for SUID, including the use of standard death scene investigation protocols disseminated under paragraph (2); and
@@ -80,4 +80,4 @@ The Public Health Service Act is amended by inserting after section 317L of such
 >   - **(3)** The terms “sudden unexplained death in childhood” and “SUDC” mean the sudden death of a child 1 year of age or older which remains unexplained after a thorough case investigation that includes—
 >     - **(A)** a review of the clinical history and circumstances of death; and
 >     - **(B)** performance of a complete autopsy with appropriate ancillary testing.
-> - **(f)** *Funding* This section shall not be construed to increase the amount of appropriations that are authorized to be appropriated for any fiscal year.
+> - **(f)** *Funding* No additional funds are authorized to be appropriated for the purpose of carrying out this section, and this section shall be carried out using amounts otherwise available for such purpose.
