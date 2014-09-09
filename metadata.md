@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5078
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5078
@@ -143,6 +143,13 @@ Waters of the United States Regulatory Overreach Protection Act of 2014
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (4)
+
+- 2014-09-09 — [House 113-2-486](votes/house-113-2-0486.md) — On Agreeing to the Amendment — **Failed** (163–248)
+- 2014-09-09 — [House 113-2-487](votes/house-113-2-0487.md) — On Agreeing to the Amendment — **Failed** (170–240)
+- 2014-09-09 — [House 113-2-488](votes/house-113-2-0488.md) — On Motion to Recommit with Instructions — **Failed** (177–235)
+- 2014-09-09 — [House 113-2-489](votes/house-113-2-0489.md) — On Passage — **Passed** (262–152)
+
 ## Actions
 
 - 2014-07-11 — Introduced in House
@@ -155,3 +162,44 @@ Waters of the United States Regulatory Overreach Protection Act of 2014
 - 2014-07-31 — Placed on the Union Calendar, Calendar No. 422.
 - 2014-07-31 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-568.
 - 2014-07-31 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-568.
+- 2014-09-08 — Mr. Shuster asked unanimous consent that the Committee on Transportation and Infrastructure be authorized to file a supplemental report on the bill, H.R. 5078. Agreed to without objection.
+- 2014-09-08 — Rules Committee Resolution H. Res. 715 Reported to House. Resolution provides for one hour of debate on H.R. 5078 and specified amendments are in order. A motion to recommit with or without instructions is also in order. Resolution provides for one hour of debate on H. Res. 644 and allows a motion to recommit, with or without instructions.
+- 2014-09-08 — Supplemental report filed by the Committee on Transportation, H. Rept. 113-568, Part II.
+- 2014-09-08 — Supplemental report filed by the Committee on Transportation, H. Rept. 113-568, Part II.
+- 2014-09-09 — Amendment (A001) offered by Mr. Bishop (NY). (consideration: CR H7322-7323, H7335-7336; text: CR H7322)
+- 2014-09-09 — Amendment (A002) offered by Mr. Bishop (NY). (consideration: CR H7323-7324, H7336-7337; text: CR H7324)
+- 2014-09-09 — Amendment failed in Committee of the Whole
+- 2014-09-09 — Amendment failed in Committee of the Whole
+- 2014-09-09 — Committee of the Whole House on the state of the Union rises leaving H.R. 5078 as unfinished business.
+- 2014-09-09 — Considered as unfinished business. (consideration: CR H7335-7339)
+- 2014-09-09 — Considered under the provisions of rule H. Res. 715. (consideration: CR H7314-7325; text of measure as reported in House: CR H7321-7322)
+- 2014-09-09 — DEBATE - Pursuant to the provisions of H.Res. 715, the Committee of the Whole proceeded with 10 minutes of debate on the Bishop (NY) amendment No. 2.
+- 2014-09-09 — DEBATE - Pursuant to the provisions of H.Res. 715, the Committee of the Whole proceeded with 10 minutes of debate on the Bishop (NY) amendment No. 3.
+- 2014-09-09 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Huffman motion to recommit with instructions. The instructions contained in the motion seek to require the bill be reported back to the House with an amendment to add a new section at the end of the bill protecting the quality of water for public water supplies and agricultural uses and to mitigate against drought.
+- 2014-09-09 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 5078.
+- 2014-09-09 — House amendment not agreed to: On agreeing to the Bishop (NY) amendment (A001) Failed by recorded vote: 163 - 248 (Roll no. 486).
+- 2014-09-09 — House amendment not agreed to: On agreeing to the Bishop (NY) amendment (A002) Failed by recorded vote: 170 - 240 (Roll no. 487).
+- 2014-09-09 — House amendment offered
+- 2014-09-09 — House amendment offered
+- 2014-09-09 — House amendment offered/reported by: Amendment (A001) offered by Mr. Bishop (NY).(consideration: CR H7322-7323, H7335-7336; text: CR H7322)
+- 2014-09-09 — House amendment offered/reported by: Amendment (A002) offered by Mr. Bishop (NY).(consideration: CR H7323-7324, H7336-7337; text: CR H7324)
+- 2014-09-09 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 715 and Rule XVIII.
+- 2014-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-09 — Mr. Gibbs moved that the commitee rise.
+- 2014-09-09 — Mr. Huffman moved to recommit with instructions to the Committee on Transportation. (consideration: CR H7337-7338; text: CR H7337)
+- 2014-09-09 — On agreeing to the Bishop (NY) amendment (A001) Failed by recorded vote: 163 - 248 (Roll no. 486).
+- 2014-09-09 — On agreeing to the Bishop (NY) amendment (A002) Failed by recorded vote: 170 - 240 (Roll no. 487).
+- 2014-09-09 — On motion that the commitee rise Agreed to by voice vote.
+- 2014-09-09 — On motion to recommit with instructions Failed by recorded vote: 177 - 235 (Roll no. 488).
+- 2014-09-09 — On passage Passed by the Yeas and Nays: 262 - 152 (Roll no. 489).
+- 2014-09-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bishop (NY) amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Bishop (NY) demanded a recorded vote and the Chair postponed further proceedings on the amendment until later in the legislative day.
+- 2014-09-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bishop (NY) amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Bishop (NY) demanded a recorded vote and the Chair postponed further proceedings on the amendment until later in the legislative day.
+- 2014-09-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 262 - 152 (Roll no. 489).
+- 2014-09-09 — Resolution provides for one hour of debate on H.R. 5078 and specified amendments are in order. A motion to recommit with or without instructions is also in order. Resolution provides for one hour of debate on H. Res. 644 and allows a motion to recommit, with or without instructions.
+- 2014-09-09 — Roll call votes on amendments in House
+- 2014-09-09 — Roll call votes on amendments in House
+- 2014-09-09 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2014-09-09 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5078.
+- 2014-09-09 — The Speaker designated the Honorable Ted Poe to act as Chairman of the Committee.
+- 2014-09-09 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7338)
+- 2014-09-09 — The previous question was ordered pursuant to the rule. (consideration: CR H7337)
