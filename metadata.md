@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2495
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2495
@@ -41,9 +41,10 @@ American Super Computing Leadership Act
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ American Super Computing Leadership Act
 - 2014-09-08 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
 - 2014-09-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7260-7261)
 - 2014-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7260-7261)
+- 2014-09-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
