@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4527
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4527
@@ -20,9 +20,10 @@ To remove a use restriction on land formerly a part of Acadia National Park that
 
 - Rep. Pingree, Chellie [D-ME-1] (P000597)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To remove a use restriction on land formerly a part of Acadia National Park that
 - 2014-09-08 — Mr. Young (AK) moved to suspend the rules and pass the bill.
 - 2014-09-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7271)
 - 2014-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7271)
+- 2014-09-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
