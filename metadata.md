@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3109
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3109
@@ -16,9 +16,10 @@ To amend the Migratory Bird Treaty Act to exempt certain Alaskan Native articles
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To amend the Migratory Bird Treaty Act to exempt certain Alaskan Native articles
 - 2014-09-08 — Placed on the Union Calendar, Calendar No. 429.
 - 2014-09-08 — Reported by the Committee on Natural Resources. H. Rept. 113-578.
 - 2014-09-08 — Reported by the Committee on Natural Resources. H. Rept. 113-578.
+- 2014-09-09 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
