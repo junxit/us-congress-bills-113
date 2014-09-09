@@ -2,7 +2,7 @@
 legis-num: H. RES. 715
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 715
@@ -13,4 +13,4 @@ That at any time after adoption of this resolution the Speaker may, pursuant to 
 
 ## § 2.
 
-Upon adoption of this resolution it shall be in order without intervention of any point of order to consider in the House the resolution (H. Res. 644) condemning and disapproving of the Obama administration's failure to comply with the lawful statutory requirement to notify Congress before releasing individuals detained at United States Naval Station, Guantanamo Bay, Cuba, and expressing national security concerns over the release of five Taliban leaders and the repercussions of negotiating with terrorists. The amendments to the resolution and the preamble recommended by the Committee on Armed Services now printed in the resolution shall be considered as adopted. The resolution, as amended, shall be considered as read. The previous question shall be considered as ordered on the resolution and preamble, as amended, to adoption without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Armed Services; and (2) one motion to recommit with or without instructions.
+Upon adoption of this resolution it shall be in order without intervention of any point of order to consider in the House the resolution (H. Res. 644) condemning and disapproving of the Obama administration’s failure to comply with the lawful statutory requirement to notify Congress before releasing individuals detained at United States Naval Station, Guantanamo Bay, Cuba, and expressing national security concerns over the release of five Taliban leaders and the repercussions of negotiating with terrorists. The amendments to the resolution and the preamble recommended by the Committee on Armed Services now printed in the resolution shall be considered as adopted. The resolution, as amended, shall be considered as read. The previous question shall be considered as ordered on the resolution and preamble, as amended, to adoption without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Armed Services; and (2) one motion to recommit with or without instructions.

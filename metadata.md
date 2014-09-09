@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 715
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 715
@@ -20,6 +20,10 @@ Providing for consideration of the bill (H.R. 5078) to preserve existing rights 
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2014-09-09 — [House 113-2-484](votes/house-113-2-0484.md) — On Agreeing to the Resolution — **Passed** (229–179)
+
 ## Actions
 
 - 2014-09-08 — Introduced in House
@@ -27,3 +31,9 @@ Providing for consideration of the bill (H.R. 5078) to preserve existing rights 
 - 2014-09-08 — Resolution provides for one hour of debate on H.R. 5078 and specified amendments are in order. A motion to recommit with or without instructions is also in order. Resolution provides for one hour of debate on H. Res. 644 and allows a motion to recommit, with or without instructions.
 - 2014-09-08 — The House Committee on Rules reported an original measure, H. Rept. 113-581, by Mr. Bishop (UT).
 - 2014-09-08 — The House Committee on Rules reported an original measure, H. Rept. 113-581, by Mr. Bishop (UT).
+- 2014-09-09 — Considered as privileged matter. (consideration: CR H7307-7314)
+- 2014-09-09 — DEBATE - The House proceeded with one hour of debate on H. Res. 715.
+- 2014-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-09 — On agreeing to the resolution Agreed to by the Yeas and Nays: 229 - 179 (Roll no. 484). (text: CR H7307)
+- 2014-09-09 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 229 - 179 (Roll no. 484).(text: CR H7307)
+- 2014-09-09 — The previous question was ordered without objection. (consideration: CR H7314)
