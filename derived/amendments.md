@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4321
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `29 U.S.C. § 159` | amend | Section 9(c)(1)(B) of the National Labor Relations Act (29 U.S.C. 159(c)(1)(B)) is amended by adding at the end the following: “Not earlier than 7 days after a final determination by the Board of the appropriate bargaining unit, the Boar… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 159` | add-at-end | Section 9(c)(1)(B) of the National Labor Relations Act (29 U.S.C. 159(c)(1)(B)) is amended by adding at the end the following: “Not earlier than 7 days after a final determination by the Board of the appropriate bargaining unit, the Boar… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 159` | add-at-end | Section 9(c)(1) of the National Labor Relations Act (29 U.S.C. 159(c)(1)) is amended by adding at the end the following: “Not earlier than 7 days after a final determination by the Board of the appropriate bargaining unit, the Board shal… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
