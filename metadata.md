@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4283
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4283
@@ -16,9 +16,10 @@ To amend the Wild and Scenic Rivers Act to authorize the Secretary of the Interi
 
 - Rep. Simpson, Michael K. [R-ID-2] (S001148)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ To amend the Wild and Scenic Rivers Act to authorize the Secretary of the Interi
 - 2014-09-08 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
 - 2014-09-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 1 (Roll no. 483). (text: CR H7270)
 - 2014-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 1 (Roll no. 483).(text: CR H7270)
+- 2014-09-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
