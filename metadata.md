@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 120
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 120
@@ -36,3 +36,12 @@ Approving the location of a memorial to commemorate the more than 5,000 slaves a
 - 2014-09-08 — Reported by the Committee on Natural Resources. H. Rept. 113-577.
 - 2014-09-08 — Reported by the Committee on Natural Resources. H. Rept. 113-577.
 - 2014-09-09 — Received in the Senate, read twice.
+- 2014-09-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5518)
+- 2014-09-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5518)
+- 2014-09-11 — Message on Senate action sent to the House.
+- 2014-09-16 — Presented to President.
+- 2014-09-16 — Presented to President.
+- 2014-09-26 — Became Public Law No: 113-176.
+- 2014-09-26 — Became Public Law No: 113-176.
+- 2014-09-26 — Signed by President.
+- 2014-09-26 — Signed by President.
