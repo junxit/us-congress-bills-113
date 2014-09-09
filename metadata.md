@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 644
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 644
@@ -117,6 +117,10 @@ Condemning and disapproving of the failure of the Obama administration to comply
 
 - House — Armed Services Committee
 
+## Recorded votes (1)
+
+- 2014-09-09 — [House 113-2-485](votes/house-113-2-0485.md) — On Agreeing to the Resolution — **Passed** (249–163)
+
 ## Actions
 
 - 2014-06-25 — Introduced in House
@@ -127,3 +131,13 @@ Condemning and disapproving of the failure of the Obama administration to comply
 - 2014-07-31 — Placed on the House Calendar, Calendar No. 133.
 - 2014-07-31 — Reported (Amended) by the Committee on Armed Services. H. Rept. 113-569.
 - 2014-07-31 — Reported (Amended) by the Committee on Armed Services. H. Rept. 113-569.
+- 2014-09-08 — Rules Committee Resolution H. Res. 715 Reported to House. Resolution provides for one hour of debate on H.R. 5078 and specified amendments are in order. A motion to recommit with or without instructions is also in order. Resolution provides for one hour of debate on H. Res. 644 and allows a motion to recommit, with or without instructions.
+- 2014-09-09 — Considered under the provisions of rule H. Res. 715. (consideration: CR H7325-7335)
+- 2014-09-09 — DEBATE - The House proceeded with one hour of debate on H. Res. 644.
+- 2014-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-09 — On agreeing to the resolution Agreed to by the Yeas and Nays: 249 - 163 (Roll no. 485). (text: CR H7325)
+- 2014-09-09 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 249 - 163 (Roll no. 485).(text: CR H7325)
+- 2014-09-09 — Resolution provides for one hour of debate on H.R. 5078 and specified amendments are in order. A motion to recommit with or without instructions is also in order. Resolution provides for one hour of debate on H. Res. 644 and allows a motion to recommit, with or without instructions.
+- 2014-09-09 — Rule H. Res. 715 passed House.
+- 2014-09-09 — The previous question was ordered pursuant to the rule. (consideration: CR H7334-7335)
+- 2014-09-09 — The title of the measure was amended. Agreed to without objection.
