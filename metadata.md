@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4189
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4189
@@ -16,9 +16,10 @@ To designate the facility of the United States Postal Service located at 4000 Le
 
 - Rep. Stivers, Steve [R-OH-15] (S001187)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -34,3 +35,4 @@ To designate the facility of the United States Postal Service located at 4000 Le
 - 2014-09-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7277)
 - 2014-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7277)
 - 2014-09-08 — The title of the measure was amended. Agreed to without objection.
+- 2014-09-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
