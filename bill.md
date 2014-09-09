@@ -2,7 +2,7 @@
 legis-num: H.J. RES. 120
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.J. RES. 120

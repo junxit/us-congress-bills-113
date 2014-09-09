@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 120
 congress: 113
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.J.Res. 120
@@ -35,3 +35,4 @@ Approving the location of a memorial to commemorate the more than 5,000 slaves a
 - 2014-09-08 — Placed on the Union Calendar, Calendar No. 428.
 - 2014-09-08 — Reported by the Committee on Natural Resources. H. Rept. 113-577.
 - 2014-09-08 — Reported by the Committee on Natural Resources. H. Rept. 113-577.
+- 2014-09-09 — Received in the Senate, read twice.
