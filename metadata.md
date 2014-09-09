@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5309
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5309
@@ -24,9 +24,10 @@ Tsunami Warning, Education, and Research Act of 2014
 - Rep. Schrader, Kurt [D-OR-5] (S001180)
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Tsunami Warning, Education, and Research Act of 2014
 - 2014-09-08 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
 - 2014-09-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7263-7265)
 - 2014-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7263-7265)
+- 2014-09-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
