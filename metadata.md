@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5030
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5030
@@ -64,3 +64,14 @@ To designate the facility of the United States Postal Service located at 13500 S
 - 2014-09-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7259)
 - 2014-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7259)
 - 2014-09-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2014-12-08 — Passed Senate without amendment by Unanimous Consent.
+- 2014-12-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-12-08 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S6395-6396)
+- 2014-12-08 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S6395-6396)
+- 2014-12-09 — Message on Senate action sent to the House.
+- 2014-12-10 — Presented to President.
+- 2014-12-10 — Presented to President.
+- 2014-12-16 — Became Public Law No: 113-225.
+- 2014-12-16 — Became Public Law No: 113-225.
+- 2014-12-16 — Signed by President.
+- 2014-12-16 — Signed by President.
