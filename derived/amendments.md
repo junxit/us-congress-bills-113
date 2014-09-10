@@ -1,7 +1,7 @@
 ---
 measure: H.R. 669
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 247b-13` | insert | The Public Health Service Act is amended by inserting after section 317L of such Act (42 U.S.C. 247b–13) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | The Public Health Service Act is amended by inserting after section 317L of such Act (42 U.S.C. 247b–13) the following: | the bill names no machine-readable US Code section |

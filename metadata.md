@@ -1,7 +1,7 @@
 ---
 measure: H.R. 669
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 669
@@ -39,9 +39,10 @@ Sudden Unexpected Death Data Enhancement and Awareness Act
 - Rep. Matsui, Doris O. [D-CA-6] (M001163)
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -63,3 +64,4 @@ Sudden Unexpected Death Data Enhancement and Awareness Act
 - 2014-09-09 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
 - 2014-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7341-7342)
 - 2014-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7341-7342)
+- 2014-09-10 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
