@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4701
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4701
@@ -38,9 +38,10 @@ Tick-Borne Disease Research Accountability and Transparency Act of 2014
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 - Rep. Maffei, Daniel B. [D-NY-24] (M001171)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -63,3 +64,4 @@ Tick-Borne Disease Research Accountability and Transparency Act of 2014
 - 2014-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7344-7345)
 - 2014-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7344-7345)
 - 2014-09-09 — The title of the measure was amended. Agreed to without objection.
+- 2014-09-10 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
