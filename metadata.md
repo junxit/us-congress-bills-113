@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4067
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4067
@@ -52,3 +52,12 @@ To provide for the extension of the enforcement instruction on supervision requi
 - 2014-09-09 — Reported by the Committee on Energy and Commerce. H. Rept. 113-582, Part I.
 - 2014-09-09 — Reported by the Committee on Energy and Commerce. H. Rept. 113-582, Part I.
 - 2014-09-10 — Received in the Senate, read twice.
+- 2014-11-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6219)
+- 2014-11-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6219)
+- 2014-11-21 — Message on Senate action sent to the House.
+- 2014-11-24 — Presented to President.
+- 2014-11-24 — Presented to President.
+- 2014-12-04 — Became Public Law No: 113-198.
+- 2014-12-04 — Became Public Law No: 113-198.
+- 2014-12-04 — Signed by President.
+- 2014-12-04 — Signed by President.
