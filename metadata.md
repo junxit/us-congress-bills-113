@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4067
 congress: 113
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 4067
@@ -51,3 +51,4 @@ To provide for the extension of the enforcement instruction on supervision requi
 - 2014-09-09 — Placed on the Union Calendar, Calendar No. 431.
 - 2014-09-09 — Reported by the Committee on Energy and Commerce. H. Rept. 113-582, Part I.
 - 2014-09-09 — Reported by the Committee on Energy and Commerce. H. Rept. 113-582, Part I.
+- 2014-09-10 — Received in the Senate, read twice.
