@@ -1,7 +1,7 @@
 ---
 measure: S. 1934
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1934
@@ -20,9 +20,10 @@ Clifford P. Hansen Federal Courthouse Conveyance Act
 
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ Clifford P. Hansen Federal Courthouse Conveyance Act
 - 2014-06-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 423.
 - 2014-09-09 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S5460-5461; text as passed Senate: CR S5460)
 - 2014-09-09 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S5460-5461; text as passed Senate: CR S5460)
+- 2014-09-10 — Message on Senate action sent to the House.
+- 2014-09-10 — Received in the House.
+- 2014-09-10 — Referred to the House Committee on Transportation and Infrastructure.
