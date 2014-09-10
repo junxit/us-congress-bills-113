@@ -15,4 +15,7 @@ This Act may be cited as the “Emergency Medical Services for Children Reauthor
 
 ## § 2. Authorization of appropriations
 
-Section 1910(d) of the Public Health Service Act (42 U.S.C. 300w–9(d)) is amended by striking “fiscal year 2014” and inserting “each of fiscal years 2015 through 2019”.
+Section 1910(d) of the Public Health Service Act (42 U.S.C. 300w–9(d)) is amended—
+
+- **(1)** by striking “and $30,387,656” and inserting “$30,387,656”; and
+- **(2)** by inserting before the period “, and $20,213,000 for each of fiscal years 2015 through 2019”.

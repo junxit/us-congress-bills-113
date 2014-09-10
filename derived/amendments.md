@@ -1,7 +1,7 @@
 ---
 measure: S. 2154
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 2 executed, 1 stated and not applied.
+2 amendatory instructions. 1 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,15 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 42 U.S.C. § 300w-9
-
-> Section 1910(d) of the Public Health Service Act (42 U.S.C. 300w–9(d)) is amended by striking “fiscal year 2014” and inserting “each of fiscal years 2015 through 2019”.
-
-| | |
-|---|---|
-| Removed | `fiscal year 2014` |
-| Inserted | `each of fiscal years 2015 through 2019` |
 
 ### 42 U.S.C. § 300w-9
 

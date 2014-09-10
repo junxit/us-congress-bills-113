@@ -1,7 +1,7 @@
 ---
 measure: S. 2154
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2154
@@ -39,3 +39,5 @@ Emergency Medical Services for Children Reauthorization Act of 2014
 - 2014-07-23 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
 - 2014-07-23 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
 - 2014-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 480.
+- 2014-09-10 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5514; text as passed Senate: CR S5514)
+- 2014-09-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5514; text as passed Senate: CR S5514)
