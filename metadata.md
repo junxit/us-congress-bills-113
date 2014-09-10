@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1233
 congress: 113
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1233
@@ -47,3 +47,6 @@ Presidential and Federal Records Act Amendments of 2014
 - 2014-07-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with amendments. With written report No. 113-218.
 - 2014-07-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with amendments. With written report No. 113-218.
 - 2014-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 487.
+- 2014-07-31 — Senate amendment submitted
+- 2014-09-10 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S5514-5518; text as passed Senate: CR S5514-5518)
+- 2014-09-10 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S5514-5518; text as passed Senate: CR S5514-5518)
