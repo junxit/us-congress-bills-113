@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2052
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2052
@@ -59,3 +59,7 @@ Global Investment in American Jobs Act of 2013
 - 2013-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 32, 1 Present (Roll no. 448). (text: CR H5411)
 - 2013-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 32, 1 Present (Roll no. 448).(text: CR H5411)
 - 2013-09-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2014-04-09 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2014-09-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. With written report No. 113-252.
+- 2014-09-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. With written report No. 113-252.
+- 2014-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 557.
