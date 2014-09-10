@@ -1,7 +1,7 @@
 ---
 measure: S. 1275
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1275
@@ -33,3 +33,7 @@ REFI Pacific Act
 
 - 2013-07-10 — Introduced in Senate
 - 2013-07-10 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2014-04-09 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-09-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 113-251.
+- 2014-09-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 113-251.
+- 2014-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 556.
