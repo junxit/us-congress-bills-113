@@ -1,7 +1,7 @@
 ---
 measure: S. 1934
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1934
@@ -38,3 +38,15 @@ Clifford P. Hansen Federal Courthouse Conveyance Act
 - 2014-09-10 — Message on Senate action sent to the House.
 - 2014-09-10 — Received in the House.
 - 2014-09-10 — Referred to the House Committee on Transportation and Infrastructure.
+- 2014-11-12 — Considered under suspension of the rules. (consideration: CR H7913-7914)
+- 2014-11-12 — DEBATE - The House proceeded with forty minutes of debate on S. 1934.
+- 2014-11-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-11-12 — Mr. Meadows moved to suspend the rules and pass the bill.
+- 2014-11-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7913)
+- 2014-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7913)
+- 2014-11-17 — Presented to President.
+- 2014-11-17 — Presented to President.
+- 2014-11-26 — Became Public Law No: 113-194.
+- 2014-11-26 — Became Public Law No: 113-194.
+- 2014-11-26 — Signed by President.
+- 2014-11-26 — Signed by President.
