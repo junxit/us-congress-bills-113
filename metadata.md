@@ -1,7 +1,7 @@
 ---
 measure: S. 2154
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2154
@@ -31,6 +31,10 @@ Emergency Medical Services for Children Reauthorization Act of 2014
 
 - Senate — Health, Education, Labor, and Pensions Committee
 
+## Recorded votes (1)
+
+- 2014-09-16 — [House 113-2-500](votes/house-113-2-0500.md) — On Motion to Suspend the Rules and Pass — **Passed** (410–4)
+
 ## Actions
 
 - 2014-03-25 — Introduced in Senate
@@ -41,3 +45,19 @@ Emergency Medical Services for Children Reauthorization Act of 2014
 - 2014-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 480.
 - 2014-09-10 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5514; text as passed Senate: CR S5514)
 - 2014-09-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5514; text as passed Senate: CR S5514)
+- 2014-09-11 — Held at the desk.
+- 2014-09-11 — Message on Senate action sent to the House.
+- 2014-09-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-09-15 — Considered under suspension of the rules. (consideration: CR H7461-7462)
+- 2014-09-15 — DEBATE - The House proceeded with forty minutes of debate on S. 2154.
+- 2014-09-15 — Mr. Pitts moved to suspend the rules and pass the bill.
+- 2014-09-16 — Considered as unfinished business. (consideration: CR H7549-7550)
+- 2014-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 4 (Roll no. 500). (text: CR 9/15/2014 H7461)
+- 2014-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 4 (Roll no. 500).(text: CR 9/15/2014 H7461)
+- 2014-09-18 — Presented to President.
+- 2014-09-18 — Presented to President.
+- 2014-09-26 — Became Public Law No: 113-180.
+- 2014-09-26 — Became Public Law No: 113-180.
+- 2014-09-26 — Signed by President.
+- 2014-09-26 — Signed by President.
