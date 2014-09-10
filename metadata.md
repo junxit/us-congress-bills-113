@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4751
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4751
@@ -20,6 +20,10 @@ To make technical corrections to Public Law 110-229 to reflect the renaming of t
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2014-09-10 — [House 113-2-493](votes/house-113-2-0493.md) — On Motion to Suspend the Rules and Pass — **Passed** (422–0)
+
 ## Actions
 
 - 2014-05-28 — Introduced in House
@@ -37,3 +41,6 @@ To make technical corrections to Public Law 110-229 to reflect the renaming of t
 - 2014-09-08 — Placed on the House Calendar, Calendar No. 136.
 - 2014-09-08 — Reported by the Committee on Natural Resources. H. Rept. 113-579.
 - 2014-09-08 — Reported by the Committee on Natural Resources. H. Rept. 113-579.
+- 2014-09-10 — Considered as unfinished business. (consideration: CR H7412-7413)
+- 2014-09-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 493). (text: CR 9/8/2014 H7272)
+- 2014-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 493).(text: CR 9/8/2014 H7272)
