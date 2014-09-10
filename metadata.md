@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3670
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3670
@@ -43,9 +43,10 @@ Anti-Spoofing Act of 2014
 - Rep. Langevin, James R. [D-RI-2] (L000559)
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -65,3 +66,4 @@ Anti-Spoofing Act of 2014
 - 2014-09-09 — Mr. Barton moved to suspend the rules and pass the bill, as amended.
 - 2014-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7347)
 - 2014-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7347)
+- 2014-09-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
