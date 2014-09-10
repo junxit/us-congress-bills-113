@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1233
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1233
@@ -50,3 +50,15 @@ Presidential and Federal Records Act Amendments of 2014
 - 2014-07-31 — Senate amendment submitted
 - 2014-09-10 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S5514-5518; text as passed Senate: CR S5514-5518)
 - 2014-09-10 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S5514-5518; text as passed Senate: CR S5514-5518)
+- 2014-09-11 — Message on Senate action sent to the House.
+- 2014-11-12 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendments to H.R. 1233.
+- 2014-11-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-11-12 — Mr. Issa moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H7910-7911)
+- 2014-11-12 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote. (text as House agreed to Senate amendments: CR H7910)
+- 2014-11-12 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.(text as House agreed to Senate amendments: CR H7910)
+- 2014-11-17 — Presented to President.
+- 2014-11-17 — Presented to President.
+- 2014-11-26 — Became Public Law No: 113-187.
+- 2014-11-26 — Became Public Law No: 113-187.
+- 2014-11-26 — Signed by President.
+- 2014-11-26 — Signed by President.
