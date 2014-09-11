@@ -1,7 +1,7 @@
 ---
 measure: S. 2323
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2323
@@ -20,9 +20,10 @@ Gold Star Fathers Act of 2014
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -34,3 +35,5 @@ Gold Star Fathers Act of 2014
 - 2014-08-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 549.
 - 2014-09-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5514; text as passed Senate: CR S5514)
 - 2014-09-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5514; text as passed Senate: CR S5514)
+- 2014-09-11 — Message on Senate action sent to the House.
+- 2014-09-11 — Referred to the House Committee on Oversight and Government Reform.
