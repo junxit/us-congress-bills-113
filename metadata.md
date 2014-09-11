@@ -1,7 +1,7 @@
 ---
 measure: S. 2258
 congress: 113
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2258
@@ -16,7 +16,7 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2014
 
 - Sen. Begich, Mark [D-AK] (B001265)
 
-## Cosponsors (13)
+## Cosponsors (17)
 
 - Sen. Sanders, Bernard [I-VT] (S000033)
 - Sen. Burr, Richard [R-NC] (B001135)
@@ -31,6 +31,10 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2014
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Johanns, Mike [R-NE] (J000291)
 - Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
 
 ## Committees (1)
 
@@ -40,3 +44,8 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2014
 
 - 2014-04-28 — Introduced in Senate
 - 2014-04-28 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2014-09-11 — Message on Senate action sent to the House.
+- 2014-09-11 — Passed Senate without amendment by Unanimous Consent. (text: CR S5571)
+- 2014-09-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S5571)
+- 2014-09-11 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S5570-5571)
+- 2014-09-11 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S5570-5571)
