@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4751
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4751
@@ -45,3 +45,12 @@ To make technical corrections to Public Law 110-229 to reflect the renaming of t
 - 2014-09-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 493). (text: CR 9/8/2014 H7272)
 - 2014-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 493).(text: CR 9/8/2014 H7272)
 - 2014-09-11 — Received in the Senate, read twice.
+- 2014-09-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5720)
+- 2014-09-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5720)
+- 2014-09-18 — Message on Senate action sent to the House.
+- 2014-09-19 — Presented to President.
+- 2014-09-19 — Presented to President.
+- 2014-09-26 — Became Public Law No: 113-171.
+- 2014-09-26 — Became Public Law No: 113-171.
+- 2014-09-26 — Signed by President.
+- 2014-09-26 — Signed by President.
