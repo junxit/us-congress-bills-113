@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5078
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5078
@@ -203,3 +203,5 @@ Waters of the United States Regulatory Overreach Protection Act of 2014
 - 2014-09-09 — The Speaker designated the Honorable Ted Poe to act as Chairman of the Committee.
 - 2014-09-09 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7338)
 - 2014-09-09 — The previous question was ordered pursuant to the rule. (consideration: CR H7337)
+- 2014-09-10 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-09-11 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 559.
