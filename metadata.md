@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2678
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2678
@@ -47,9 +47,10 @@ To designate the facility of the United States Postal Service located at 10360 S
 - Rep. Jolly, David [R-FL-13] (J000296)
 - Rep. Clawson, Curt [R-FL-19] (C001102)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -70,3 +71,4 @@ To designate the facility of the United States Postal Service located at 10360 S
 - 2014-09-10 — Motion to reconsider laid on the table Agreed to without objection.
 - 2014-09-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 2 (Roll no. 492). (text: CR 9/8/2014 H7252)
 - 2014-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 2 (Roll no. 492).(text: CR 9/8/2014 H7252)
+- 2014-09-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
