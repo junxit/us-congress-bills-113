@@ -26,7 +26,7 @@ Section 325(u) of the Energy Policy and Conservation Act (42 U.S.C. 6295(u)) is 
 >       - **(IV)** is made available by the manufacturer as a service part or a spare part for an end-use product that—
 >         - **(aa)** constitutes the primary load; and
 >         - **(bb)** was manufactured before February 10, 2016.
->     - **(ii)** *Reporting* The Secretary may require manufacturers of products exempted pursuant to clause (i) to report annual total units shipped as service and spare parts that are not International Efficiency Level VI or higher.
+>     - **(ii)** *Reporting* The Secretary may require manufacturers of products exempted pursuant to clause (i) to report annual total units shipped as service and spare parts that fall below International Efficiency Level VI.
 >     - **(iii)** *Limitation of exemption* The Secretary may issue a rule, after providing public notice and opportunity for public comment, to limit the applicability of the exemption established under clause (i) if the Secretary determines that the exemption is resulting in a significant reduction of the energy savings that would otherwise result from the final rule described in such clause.
 >   - **(B)** *Amended standards*
 >     - **(i)** *In general* The Secretary may exempt an external power supply from any amended standard under this subsection if the external power supply—

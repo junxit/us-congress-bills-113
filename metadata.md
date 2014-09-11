@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5057
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5057
@@ -36,3 +36,11 @@ EPS Service Parts Act of 2014
 - 2014-09-08 — Placed on the Union Calendar, Calendar No. 425.
 - 2014-09-08 — Reported by the Committee on Energy and Commerce. H. Rept. 113-574.
 - 2014-09-08 — Reported by the Committee on Energy and Commerce. H. Rept. 113-574.
+- 2014-09-10 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Whitfield objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2014-09-10 — Considered under suspension of the rules. (consideration: CR H7409-7410)
+- 2014-09-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5057.
+- 2014-09-10 — Mr. Whitfield moved to suspend the rules and pass the bill, as amended.
+- 2014-09-11 — Considered as unfinished business. (consideration: CR H7439)
+- 2014-09-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/10/2014 H7409)
+- 2014-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/10/2014 H7409)

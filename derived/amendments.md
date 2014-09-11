@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5057
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 6295` | amend | Section 325(u) of the Energy Policy and Conservation Act (42 U.S.C. 6295(u)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6295` | add-at-end | Section 325(u) of the Energy Policy and Conservation Act (42 U.S.C. 6295(u)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
