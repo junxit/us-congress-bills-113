@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5161
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5161
@@ -26,6 +26,10 @@ Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2014-09-11 — [House 113-2-496](votes/house-113-2-0496.md) — On Motion to Suspend the Rules and Pass — **Passed** (402–0)
+
 ## Actions
 
 - 2014-07-22 — Introduced in House
@@ -38,3 +42,11 @@ Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014
 - 2014-09-08 — Placed on the Union Calendar, Calendar No. 426.
 - 2014-09-08 — Reported by the Committee on Energy and Commerce. H. Rept. 113-575.
 - 2014-09-08 — Reported by the Committee on Energy and Commerce. H. Rept. 113-575.
+- 2014-09-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-09-09 — Considered under suspension of the rules. (consideration: CR H7349-7350)
+- 2014-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5161.
+- 2014-09-09 — Mr. Latta moved to suspend the rules and pass the bill.
+- 2014-09-11 — Considered as unfinished business. (consideration: CR H7438-7439)
+- 2014-09-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 496). (text: CR 9/9/2014 H7349)
+- 2014-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 496).(text: CR 9/9/2014 H7349)
