@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3374
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -103,3 +103,12 @@ Chapter 95 of title 18, United States Code, is amended—
 
     - **(iv)** by inserting after paragraph (4), as redesignated, the following:
       > - **(5)** savings promotion raffle means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in section 1002 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5481)).
+
+  - **(B)** in subsection (e)—
+    - **(i)** by striking “shall not apply to any bingo” and inserting the following:
+      > shall not apply to—
+      > - **(1)** any bingo
+
+    - **(ii)** by striking the period and inserting “; or”; and
+    - **(iii)** by adding at the end the following:
+      > - **(2)** any savings promotion raffle.

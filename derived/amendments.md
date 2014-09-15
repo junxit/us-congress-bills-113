@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3374
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-17 amendatory instructions. 1 executed, 16 stated and not applied.
+20 amendatory instructions. 1 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -58,3 +58,6 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1752` | redesignate | by redesignating paragraph (3) as paragraph (6); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1752` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5481` | redesignate | by inserting after paragraph (4), as redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1752` | replace | by striking “shall not apply to any bingo” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1752` | replace | by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 1752` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
