@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5057
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5057
@@ -46,3 +46,14 @@ EPS Service Parts Act of 2014
 - 2014-09-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/10/2014 H7409)
 - 2014-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/10/2014 H7409)
 - 2014-09-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2014-12-11 — Passed Senate without amendment by Unanimous Consent.
+- 2014-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-12-11 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S6696)
+- 2014-12-11 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S6696)
+- 2014-12-12 — Message on Senate action sent to the House.
+- 2014-12-13 — Presented to President.
+- 2014-12-13 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-263.
+- 2014-12-18 — Became Public Law No: 113-263.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
