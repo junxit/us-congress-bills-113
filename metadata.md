@@ -1,7 +1,7 @@
 ---
 measure: S. 1535
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1535
@@ -16,7 +16,7 @@ Justice Against Sponsors of Terrorism Act
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 
-## Cosponsors (9)
+## Cosponsors (15)
 
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
@@ -27,6 +27,12 @@ Justice Against Sponsors of Terrorism Act
 - Sen. Markey, Edward J. [D-MA] (M000133)
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (1)
 
@@ -36,3 +42,7 @@ Justice Against Sponsors of Terrorism Act
 
 - 2013-09-19 — Introduced in Senate
 - 2013-09-19 — Read twice and referred to the Committee on the Judiciary.
+- 2014-09-11 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-09-15 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2014-09-15 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2014-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 560.
