@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2569
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2569
@@ -33,3 +33,9 @@ Upper Missisquoi and Trout Wild and Scenic Rivers Act
 - 2014-06-30 — Placed on the Union Calendar, Calendar No. 375.
 - 2014-06-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-502.
 - 2014-06-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-502.
+- 2014-09-15 — Considered under suspension of the rules. (consideration: CR H7492-7494)
+- 2014-09-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2569.
+- 2014-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-15 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
+- 2014-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7492-7493)
+- 2014-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7492-7493)
