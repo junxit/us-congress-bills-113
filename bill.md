@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2158
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -24,11 +24,12 @@ This Act may be cited as the “Expedited Departure of Certain Snake Species Act
     - **(D)** Southern African python (Python natalensis); and
     - **(E)** Yellow anaconda (Eunectes notaeus).
   - **(2)** *Designated airport* The term “designated airport” means an airport located at a designated port as defined by the United States Fish and Wildlife Service under section 14.12 of title 50, Code of Federal Regulations.
-  - **(3)** *Qualified stop* The term “qualified stop”—
-    - **(A)** except as provided in subparagraph (C), means any intermediate stop in an airport of a covered snake in a secure container in the course of transport of such snake that—
+  - **(3)** *Qualified secure container* The term “qualified secure container” means a container that—
+    - **(A)** contains the covered snake in a closely woven, double-seam sewn, cloth sack that is in a second cloth sack of similar construction; and
+    - **(B)** on which there is a prominent label that states “Dangerous Reptiles”.
+  - **(4)** *Qualified stop* The term “qualified stop”—
+    - **(A)** except as provided in subparagraph (C), means any intermediate stop in a designated airport of a covered snake in a qualified secure container in the course of transport of such snake that—
       - **(i)** begins in a designated airport; and
       - **(ii)** ends at a place outside of the United States not later than 48 hours after such transport begins;
-    - **(B)** may include—
-      - **(i)** such a stop at an airport that is not a designated airport, to refuel or take on additional cargo or passengers; or
-      - **(ii)** transfer of the secure container in an airport between aircraft used for such transport outside of the United States; and
+    - **(B)** may include transfer of the qualified secure container in an airport between aircraft used for such transport outside of the United States; and
     - **(C)** does not include any stop in Hawaii.
