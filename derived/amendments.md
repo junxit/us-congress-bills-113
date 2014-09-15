@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4771
 congress: 113
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 0 executed, 12 stated and not applied.
+19 amendatory instructions. 0 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,13 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `21 U.S.C. § 802` | strike | in clause (xlix), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 802` | redesignate | by redesignating clause (xlx) as clause (lxxv); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 802` | insert | by inserting after clause (xlix) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 301` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 811` | add-at-end | Section 201 of the Controlled Substances Act (21 U.S.C. 811) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 825` | insert | The Controlled Substances Act is amended by inserting after section 305 (21 U.S.C. 825) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 825` | insert | The table of contents for the Comprehensive Drug Abuse Prevention and Control Act of 1970 is amended by inserting after the item relating to section 305 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 802` | strike | in clause (xlix), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 802` | redesignate | by redesignating clause (xlx) as clause (lxxv); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 802` | insert | by inserting after clause (xlix) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
