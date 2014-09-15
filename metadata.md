@@ -1,7 +1,7 @@
 ---
 measure: S. 476
 congress: 113
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 476
@@ -24,6 +24,10 @@ A bill to amend the Chesapeake and Ohio Canal Development Act to extend to the C
 
 - Senate — Energy and Natural Resources Committee
 - House — Natural Resources Committee
+
+## Recorded votes (1)
+
+- 2014-09-17 — [House 113-2-506](votes/house-113-2-0506.md) — On Motion to Suspend the Rules and Pass — **Passed** (419–0)
 
 ## Actions
 
@@ -52,3 +56,13 @@ A bill to amend the Chesapeake and Ohio Canal Development Act to extend to the C
 - 2014-09-15 — Placed on the Union Calendar, Calendar No. 436.
 - 2014-09-15 — Reported by the Committee on Natural Resources. H. Rept. 113-589.
 - 2014-09-15 — Reported by the Committee on Natural Resources. H. Rept. 113-589.
+- 2014-09-17 — Considered as unfinished business. (consideration: CR H7636-7637)
+- 2014-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 506). (text: CR 9/15/2014 H7484)
+- 2014-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 506).(text: CR 9/15/2014 H7484)
+- 2014-09-19 — Presented to President.
+- 2014-09-19 — Presented to President.
+- 2014-09-26 — Became Public Law No: 113-178.
+- 2014-09-26 — Became Public Law No: 113-178.
+- 2014-09-26 — Signed by President.
+- 2014-09-26 — Signed by President.
