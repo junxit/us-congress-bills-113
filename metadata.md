@@ -1,7 +1,7 @@
 ---
 measure: S. 1603
 congress: 113
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 1603
@@ -41,3 +41,15 @@ Gun Lake Trust Land Reaffirmation Act
 - 2014-06-20 — Message on Senate action sent to the House.
 - 2014-06-20 — Received in the House.
 - 2014-06-20 — Referred to the House Committee on Natural Resources.
+- 2014-06-24 — Referred to the Subcommittee Indian and Alaska Native Affairs.
+- 2014-07-15 — Subcommittee Hearings Held.
+- 2014-07-30 — Committee Consideration and Mark-up Session Held.
+- 2014-07-30 — Ordered to be Reported by Voice Vote.
+- 2014-07-30 — Subcommittee Indian and Alaska Native Affairs Discharged.
+- 2014-09-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-09-15 — Considered under suspension of the rules. (consideration: CR H7485)
+- 2014-09-15 — DEBATE - The House proceeded with forty minutes of debate on S. 1603.
+- 2014-09-15 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
+- 2014-09-15 — Placed on the Union Calendar, Calendar No. 437.
+- 2014-09-15 — Reported by the Committee on Natural Resources. H. Rept. 113-590.
+- 2014-09-15 — Reported by the Committee on Natural Resources. H. Rept. 113-590.
