@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5057
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5057
@@ -20,9 +20,10 @@ EPS Service Parts Act of 2014
 
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ EPS Service Parts Act of 2014
 - 2014-09-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2014-09-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/10/2014 H7409)
 - 2014-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/10/2014 H7409)
+- 2014-09-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
