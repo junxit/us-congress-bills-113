@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2866
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -60,7 +60,7 @@ Congress finds that—
 
 - **(a)** *Quality of coins* Coins minted under this Act shall be issued in uncirculated and proof qualities.
 - **(b)** *Mint facility* Only 1 facility of the United States Mint may be used to strike any particular quality of the coins minted under this Act.
-- **(c)** *Period for issuance* The Secretary may issue coins under this Act only during the period beginning on January 1, 2017, and ending on December 31, 2018.
+- **(c)** *Period for issuance* The Secretary may issue coins under this Act only during the period beginning on January 1, 2017, and ending on December 31, 2017.
 
 ## § 6. Sale of coins
 
@@ -72,6 +72,17 @@ Congress finds that—
   - **(1)** *In general* The Secretary shall accept prepaid orders for the coins minted under this Act before the issuance of such coins.
   - **(2)** *Discount* Sale prices with respect to prepaid orders under paragraph (1) shall be at a reasonable discount.
 
-## § 7. Financial assurances
+## § 7. Surcharges
 
-The Secretary shall take such actions as may be necessary to ensure that minting and issuing coins under this Act will not result in any net cost to the Federal Government.
+- **(a)** *In general* All sales of coins issued under this Act shall include a surcharge as follows:
+  - **(1)** A surcharge of $35 per coin for the $5 coin.
+  - **(2)** A surcharge of $10 per coin for the $1 coin.
+  - **(3)** A surcharge of $5 per coin for the half dollar coin.
+- **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be paid to Boys Town to carry out Boys Town’s cause of caring for and assisting children and families in underserved communities across America.
+
+## § 8. Financial assurances
+
+The Secretary shall take such actions as may be necessary to ensure that—
+
+- **(1)** minting and issuing coins under this Act will not result in any net cost to the Federal Government; and
+- **(2)** no funds, including applicable surcharges , shall be disbursed to any recipient designated in section 7 until the total cost of designing and issuing all of the coins authorized by this Act (including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping) is recovered by the United States Treasury, consistent with sections 5112(m) and 5134(f) of title 31, United States Code.
