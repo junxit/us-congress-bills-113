@@ -1,7 +1,7 @@
 ---
 measure: S. 1925
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1925
@@ -16,7 +16,7 @@ Driver Privacy Act
 
 - Sen. Hoeven, John [R-ND] (H001061)
 
-## Cosponsors (17)
+## Cosponsors (24)
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Blunt, Roy [R-MO] (B000575)
@@ -35,6 +35,13 @@ Driver Privacy Act
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Franken, Al [D-MN] (F000457)
 - Sen. Thune, John [R-SD] (T000250)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
 
 ## Committees (1)
 
@@ -45,3 +52,7 @@ Driver Privacy Act
 - 2014-01-14 — Introduced in Senate
 - 2014-01-14 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
 - 2014-01-14 — Sponsor introductory remarks on measure. (CR S327-328, S329)
+- 2014-04-09 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-09-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 113-255.
+- 2014-09-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 113-255.
+- 2014-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 563.
