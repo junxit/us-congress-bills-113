@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4276
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 5 executed, 7 stated and not applied.
+5 amendatory instructions. 4 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,15 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 38 U.S.C. § 1710C
-
-> Subsection (a) of section 1705 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 38 U.S.C. 1710C note) is amended by striking “a five-year” and inserting “an eight-year”.
-
-| | |
-|---|---|
-| Removed | `a five-year` |
-| Inserted | `an eight-year` |
 
 ### 38 U.S.C. § 1710C
 
@@ -78,10 +69,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `38 U.S.C. § 1710C` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1710C` | replace | by striking paragraph (1) and inserting the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1710C` | amend | Subsection (e) of such section is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1710C` | replace | in subparagraph (C), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `38 U.S.C. § 1710C` | replace | in subparagraph (D), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `38 U.S.C. § 1710C` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1729` | add-at-end | Section 1729(h) of title 38, United States Code, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1710C` | amend | Subsection (e) of section 1705 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 38 U.S.C. 1710C note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

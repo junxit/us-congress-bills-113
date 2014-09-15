@@ -15,55 +15,30 @@ This Act may be cited as the “Veterans Traumatic Brain Injury Care Improvement
 
 ## § 2. Extension and modification of pilot program on assisted living services for veterans with traumatic brain injury
 
-- **(a)** *Extension of program* Subsection (a) of section 1705 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 38 U.S.C. 1710C note) is amended by striking “a five-year” and inserting “an eight-year”.
-- **(b)** *Modification of locations* Subsection (b) of such section is amended—
-  - **(1)** by redesignating paragraph (2) as paragraph (3); and
-  - **(2)** by striking paragraph (1) and inserting the following new paragraphs:
-    > - **(1)** *In general* The pilot program shall be carried out at locations selected by the Secretary for purposes of the pilot program.
-    > - **(2)** *Located in same region as polytrauma centers* Of the locations selected under paragraph (1), at least one location shall be in each health care region of the Veterans Health Administration of the Department of Veterans Affairs that contains a polytrauma center of the Department of Veterans Affairs.
-
-- **(c)** *Modification of report requirements* Subsection (e) of such section is amended to read as follows:
+- **(a)** *Modification of report requirements* Subsection (e) of section 1705 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 38 U.S.C. 1710C note) is amended to read as follows:
   > - **(e)** *Reports*
   >   - **(1)** *Quarterly reports*
-  >     - **(A)** *In general* During each 90-day period occurring during the period beginning January 1, 2016, and ending January 1, 2018, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the pilot program.
-  >     - **(B)** *Elements* Each report submitted under subparagraph (A) shall include the following:
-  >       - **(i)** The number of individuals that participated in the pilot program during the quarter preceding the submission of the report.
-  >       - **(ii)** The number of individuals that successfully completed the pilot program during the quarter preceding the submission of the report.
+  >     - **(A)** *In general* For each calendar quarter occurring during the period beginning January 1, 2015, and ending September 30, 2017, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the pilot program.
+  >     - **(B)** *Elements* Each report submitted under subparagraph (A) shall include each of the following for the quarter preceding the quarter during which the report is submitted the following:
+  >       - **(i)** The number of individuals that participated in the pilot program.
+  >       - **(ii)** The number of individuals that successfully completed the pilot program.
   >       - **(iii)** The degree to which pilot program participants and family members of pilot program participants were satisfied with the pilot program.
   >       - **(iv)** The interim findings and conclusions of the Secretary with respect to the success of the pilot program and recommendations for improvement.
   >   - **(2)** *Final report*
   >     - **(A)** *In general* Not later than 60 days after the completion of the pilot program, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a final report on the pilot program.
   >     - **(B)** *Elements* The final report required by subparagraph (A) shall include the following:
   >       - **(i)** A description of the pilot program.
-  >       - **(ii)** An assessment of the utility of the activities under the pilot program in enhancing the rehabilitation, quality of life, and community reintegration of veterans with traumatic brain injury, including complex mild traumatic brain injury.
+  >       - **(ii)** The Secretary’s assessment of the utility of the activities carried out under the pilot program in enhancing the rehabilitation, quality of life, and community reintegration of veterans with traumatic brain injury.
   >       - **(iii)** An evaluation of the pilot program in light of independent living programs carried out by the Secretary under title 38, United States Code, including—
   >         - **(I)** whether the pilot program duplicates services provided under such independent living programs;
-  >         - **(II)** the ways in which the pilot program provides different services;
+  >         - **(II)** the ways in which the pilot program provides different services that the services provided under such independent living program;
   >         - **(III)** how the pilot program could be better defined or shaped; and
   >         - **(IV)** whether the pilot program should be incorporated into such independent living programs.
   >       - **(iv)** Such recommendations as the Secretary considers appropriate regarding improving the pilot program.
 
-- **(d)** *Modification of definitions*
-  - **(1)** *Community-based brain injury residential rehabilitative care services* Such section is further amended—
-    - **(A)** in the section heading, by striking “assisted living” and inserting “community-based brain injury residential rehabilitative care”;
-    - **(B)** in subsection (c), in the subsection heading, by striking “Assisted Living” and inserting “Community-Based Brain Injury Residential Rehabilitative Care”;
-    - **(C)** by striking “assisted living” each place it appears, and inserting “community-based brain injury rehabilitative care”; and
-    - **(D)** in subsection (f)(1), by striking “and personal care” and inserting “rehabilitation, and personal care”.
-  - **(2)** *Eligible veteran* Subsection (f)(3) of such section is amended—
-    - **(A)** in subparagraph (C), by striking “; and” and inserting a semicolon;
-    - **(B)** in subparagraph (D), by striking the period at the end and inserting “; and”; and
-    - **(C)** by adding at the end the following new subparagraph:
-      > - **(E)** has a traumatic brain injury that is classified as complex-mild to severe.
-
-- **(e)** *Authorization of appropriations* There is authorized to be appropriated for the Department of Veterans Affairs for fiscal year 2015 $46,000,000 to carry out the pilot program under section 1705 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 38 U.S.C. 1710C note), as amended by this section. The amount so authorized to be appropriated shall be available for obligation for the three-year period beginning on October 1, 2014.
-- **(f)** *Effective date* The amendments made by this section shall take effect on October 1, 2014.
-
-## § 3. Improvements to recovery by United States of cost of certain care and services provided by Department of Veterans Affairs
-
-Section 1729(h) of title 38, United States Code, is amended by adding at the end the following new paragraph:
-
-> - **(4)**
->   - **(A)** Notwithstanding paragraph (3) or section 7332 of this title, the Secretary may make available to third parties medical records of a veteran described in paragraph (2) without the written consent of the veteran if—
->     - **(i)** the care or services furnished to the veteran for which recovery or collection is sought under this section relates to drug abuse, alcoholism or alcohol abuse, infection with the human immunodeficiency virus, or sickle cell anemia; and
->     - **(ii)** by not later than 30 days after receiving such care or services, the Secretary does not receive from the veteran a notification described in subparagraph (B).
->   - **(B)** A notification described in this subparagraph is a notification by a veteran that the veteran does not consent to a disclosure of medical records of the veteran under subparagraph (A).
+- **(b)** *Definition of community-based brain injury residential rehabilitative care services* Such section is further amended—
+  - **(1)** in the section heading, by striking “assisted living” and inserting “community-based brain injury residential rehabilitative care”;
+  - **(2)** in subsection (c), in the subsection heading, by striking “Assisted Living” and inserting “Community-Based Brain Injury Residential Rehabilitative Care”;
+  - **(3)** by striking “assisted living” each place it appears, and inserting “community-based brain injury rehabilitative care”; and
+  - **(4)** in subsection (f)(1), by striking “and personal care” and inserting “rehabilitation, and personal care”.
+- **(c)** *Effective date* The amendments made by this section shall take effect on the date of the enactment of this Act.
