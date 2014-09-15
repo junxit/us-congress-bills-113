@@ -1,7 +1,7 @@
 ---
 measure: S. 1603
 congress: 113
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 1603
@@ -24,6 +24,10 @@ Gun Lake Trust Land Reaffirmation Act
 
 - Senate — Indian Affairs Committee
 - House — Natural Resources Committee
+
+## Recorded votes (1)
+
+- 2014-09-16 — [House 113-2-503](votes/house-113-2-0503.md) — On Motion to Suspend the Rules and Pass — **Passed** (359–64)
 
 ## Actions
 
@@ -53,3 +57,13 @@ Gun Lake Trust Land Reaffirmation Act
 - 2014-09-15 — Placed on the Union Calendar, Calendar No. 437.
 - 2014-09-15 — Reported by the Committee on Natural Resources. H. Rept. 113-590.
 - 2014-09-15 — Reported by the Committee on Natural Resources. H. Rept. 113-590.
+- 2014-09-16 — Considered as unfinished business. (consideration: CR H7577-7578)
+- 2014-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 359 - 64 (Roll no. 503). (text: CR 9/16/2014 H7485)
+- 2014-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 359 - 64 (Roll no. 503).(text: CR 9/16/2014 H7485)
+- 2014-09-18 — Presented to President.
+- 2014-09-18 — Presented to President.
+- 2014-09-26 — Became Public Law No: 113-179.
+- 2014-09-26 — Became Public Law No: 113-179.
+- 2014-09-26 — Signed by President.
+- 2014-09-26 — Signed by President.
