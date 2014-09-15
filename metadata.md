@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3044
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3044
@@ -38,3 +38,9 @@ To approve the transfer of Yellow Creek Port properties in Iuka, Mississippi.
 - 2014-07-24 — Placed on the Union Calendar, Calendar No. 413.
 - 2014-07-24 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-553.
 - 2014-07-24 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-553.
+- 2014-09-15 — Considered under suspension of the rules. (consideration: CR H7464-7465)
+- 2014-09-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3044.
+- 2014-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-15 — Mr. Crawford moved to suspend the rules and pass the bill.
+- 2014-09-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7464-7465)
+- 2014-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7464-7465)
