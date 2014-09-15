@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3522
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3522
@@ -69,3 +69,4 @@ Employee Health Care Protection Act of 2013
 - 2014-09-11 — Passed/agreed to in House: On passage Passed by recorded vote: 247 - 167 (Roll no. 495).(text: CR 9/10/2014 H7413)
 - 2014-09-11 — The Chair announced that pursuant to clause 1(c) of rule XIX, further proceedings were resumed on H.R. 3522.
 - 2014-09-11 — The previous question on the motion was ordered without objection. (consideration: CR H7437)
+- 2014-09-15 — Received in the Senate.
