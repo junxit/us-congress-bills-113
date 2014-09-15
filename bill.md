@@ -18,39 +18,37 @@ This Act may be cited as the “Designer Anabolic Steroid Control Act of 2014”
 - **(a)** *Definitions* Section 102(41) of the Controlled Substances Act (21 U.S.C. 802(41)) is amended—
   - **(1)** in subparagraph (A)—
     - **(A)** in clause (xlix), by striking “and” at the end;
-    - **(B)** by redesignating clause (xlx) as clause (lxxvii); and
+    - **(B)** by redesignating clause (xlx) as clause (lxxv); and
     - **(C)** by inserting after clause (xlix) the following:
       > - **(l)** 5α-Androstan-3,6,17-trione;
-      > - **(li)** Androst-4-ene-3,6,17-trione;
-      > - **(lii)** Androsta-1,4,6-triene-3,17-dione;
-      > - **(liii)** 6-bromo-androstan-3,17-dione;
-      > - **(liv)** 6-bromo-androsta-1,4-diene-3,17-dione;
-      > - **(lv)** 4-chloro-17α-methyl-androsta-1,4-diene-3,17β-diol;
-      > - **(lvi)** 4-chloro-17α-methyl-androst-4-ene-3β,17β-diol;
-      > - **(lvii)** 4-chloro-17α-methyl-17β-hydroxy-androst-4-en-3-one;
-      > - **(lviii)** 4-chloro-17α-methyl-17β-hydroxy-androst-4-ene-3,11-dione;
-      > - **(lix)** 4-chloro-17α-methyl-androsta-1,4-diene-3,17β-diol;
-      > - **(lx)** 2α,17α-dimethyl-17β-hydroxy-5α-androstan-3-one;
-      > - **(lxi)** 2α,17α-dimethyl-17β-hydroxy-5β-androstan-3-one;
-      > - **(lxii)** 2α,3α-epithio-17α-methyl-5α-androstan-17β-ol;
-      > - **(lxiii)** [3,2-c]-furazan-5α-androstan-17β-ol;
-      > - **(lxiv)** 3β-hydroxy-estra-4,9,11-trien-17-one;
-      > - **(lxv)** 17α-methyl-androst-2-ene-3,17β-diol;
-      > - **(lxvi)** 17α-methyl-androsta-1,4-diene-3,17β-diol;
-      > - **(lxvii)** Estra-4,9,11-triene-3,17-dione;
-      > - **(lxviii)** 18a-Homo-3-hydroxy-estra-2,5(10)-dien-17-one;
-      > - **(lxix)** 6α-Methyl-androst-4-ene-3,17-dione;
-      > - **(lxx)** 17α-Methyl-androstan-3-hydroxyimine-17β-ol;
-      > - **(lxxi)** 17α-Methyl-5α-androstan-17β-ol;
-      > - **(lxxii)** 17β-Hydroxy-androstano[2,3-d]isoxazole;
-      > - **(lxxiii)** 17β-Hydroxy-androstano[3,2-c]isoxazole;
-      > - **(lxxiv)** 4-Hydroxy-androst-4-ene-3,17-dione[3,2-c]pyrazole-5α-androstan-17β-ol;
-      > - **(lxxv)** [3,2-c]pyrazole-androst-4-en-17β-ol;
-      > - **(lxxvi)** [3,2-c]pyrazole-5α-androstan-17β-ol; and
+      > - **(li)** 6-bromo-androstan-3,17-dione;
+      > - **(lii)** 6-bromo-androsta-1,4-diene-3,17-dione;
+      > - **(liii)** 4-chloro-17α-methyl-androsta-1,4-diene-3,17β-diol;
+      > - **(liv)** 4-chloro-17α-methyl-androst-4-ene-3β,17β-diol;
+      > - **(lv)** 4-chloro-17α-methyl-17β-hydroxy-androst-4-en-3-one;
+      > - **(lvi)** 4-chloro-17α-methyl-17β-hydroxy-androst-4-ene-3,11-dione;
+      > - **(lvii)** 4-chloro-17α-methyl-androsta-1,4-diene-3,17β-diol;
+      > - **(lviii)** 2α,17α-dimethyl-17β-hydroxy-5α-androstan-3-one;
+      > - **(lix)** 2α,17α-dimethyl-17β-hydroxy-5β-androstan-3-one;
+      > - **(lx)** 2α,3α-epithio-17α-methyl-5α-androstan-17β-ol;
+      > - **(lxi)** [3,2-c]-furazan-5α-androstan-17β-ol;
+      > - **(lxii)** 3β-hydroxy-estra-4,9,11-trien-17-one;
+      > - **(lxiii)** 17α-methyl-androst-2-ene-3,17β-diol;
+      > - **(lxiv)** 17α-methyl-androsta-1,4-diene-3,17β-diol;
+      > - **(lxv)** Estra-4,9,11-triene-3,17-dione;
+      > - **(lxvi)** 18a-Homo-3-hydroxy-estra-2,5(10)-dien-17-one;
+      > - **(lxvii)** 6α-Methyl-androst-4-ene-3,17-dione;
+      > - **(lxviii)** 17α-Methyl-androstan-3-hydroxyimine-17β-ol;
+      > - **(lxix)** 17α-Methyl-5α-androstan-17β-ol;
+      > - **(lxx)** 17β-Hydroxy-androstano[2,3-d]isoxazole;
+      > - **(lxxi)** 17β-Hydroxy-androstano[3,2-c]isoxazole;
+      > - **(lxxii)** 4-Hydroxy-androst-4-ene-3,17-dione[3,2-c]pyrazole-5α-androstan-17β-ol;
+      > - **(lxxiii)** [3,2-c]pyrazole-androst-4-en-17β-ol;
+      > - **(lxxiv)** [3,2-c]pyrazole-5α-androstan-17β-ol; and
 
   - **(2)** by adding at the end the following:
     > - **(C)**
-    >   - **(i)** Subject to clause (ii) and the limitations under section 201(i)(6), a drug or hormonal substance (other than estrogens, progestins, corticosteroids, and de­hy­dro­epi­an­dros­ter­one) that is not listed in subparagraph (A) and is derived from, or has a chemical structure substantially similar to, 1 or more anabolic steroids listed in subparagraph (A) shall be considered to be an anabolic steroid for purposes of this Act if—
+    >   - **(i)** Subject to clause (ii), a drug or hormonal substance (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone) that is not listed in subparagraph (A) and is derived from, or has a chemical structure substantially similar to, 1 or more anabolic steroids listed in subparagraph (A) shall be considered to be an anabolic steroid for purposes of this Act if—
     >     - **(I)** the drug or substance has been created or manufactured with the intent of producing a drug or other substance that either—
     >       - **(aa)** promotes muscle growth; or
     >       - **(bb)** otherwise causes a pharmacological effect similar to that of testosterone; or
@@ -59,38 +57,50 @@ This Act may be cited as the “Designer Anabolic Steroid Control Act of 2014”
     >     - **(I)** is—
     >       - **(aa)** an herb or other botanical;
     >       - **(bb)** a concentrate, metabolite, or extract of, or a constituent isolated directly from, an herb or other botanical; or
-    >       - **(cc)** a combination of 2 or more substances described in item (aa) or (bb); and
-    >     - **(II)** is a dietary ingredient for purposes of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.).
+    >       - **(cc)** a combination of 2 or more substances described in item (aa) or (bb);
+    >     - **(II)** is a dietary ingredient for purposes of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.); and
+    >     - **(III)** is not anabolic or androgenic.
     >   - **(iii)** In accordance with section 515(a), any person claiming the benefit of an exemption or exception under clause (ii) shall bear the burden of going forward with the evidence with respect to such exemption or exception.
 
 - **(b)** *Classification authority* Section 201 of the Controlled Substances Act (21 U.S.C. 811) is amended by adding at the end the following:
   > - **(i)** *Temporary and permanent scheduling of recently emerged anabolic steroids*
-  >   - **(1)** The Attorney General may issue a temporary order adding a drug or other substance to the list of anabolic steroids if the Attorney General finds that—
+  >   - **(1)** The Attorney General may issue a temporary order adding a drug or other substance to the definition of anabolic steroids if the Attorney General finds that—
   >     - **(A)** the drug or other substance satisfies the criteria for being considered an anabolic steroid under section 102(41) but is not listed in that section or by regulation of the Attorney General as being an anabolic steroid; and
-  >     - **(B)** adding such drug or other substance to the list of anabolic steroids will assist in preventing the unlawful importation, manufacture, distribution, or dispensing of such drug or other substance.
-  >   - **(2)** An order issued under paragraph (1) shall not take effect until 30 days after the date of the publication by the Attorney General of a notice in the Federal Register of the intention to issue such order and the grounds upon which such order is to be issued. The order shall expire not later than 24 months after the date it becomes effective, except that the Attorney General may, during the pendency of proceedings under paragraph (5), extend the temporary scheduling order for up to 6 months.
-  >   - **(3)** A temporary scheduling order issued under paragraph (1) shall be vacated upon the issuance of a permanent scheduling order under paragraph (5).
-  >   - **(4)** An order issued under paragraph (1) is not subject to judicial review.
-  >   - **(5)** The Attorney General may, by rule, issue a permanent order adding a drug or other substance to the list of anabolic steroids if such drug or other substance satisfies the criteria for being considered an anabolic steroid under section 102(41). Such rulemaking may be commenced simultaneously with the issuance of the temporary order issued under paragraph (1).
+  >     - **(B)** adding such drug or other substance to the definition of anabolic steroids will assist in preventing abuse or misuse of the drug or other substance.
+  >   - **(2)** An order issued under paragraph (1) shall not take effect until 30 days after the date of the publication by the Attorney General of a notice in the Federal Register of the intention to issue such order and the grounds upon which such order is to be issued. The order shall expire not later than 24 months after the date it becomes effective, except that the Attorney General may, during the pendency of proceedings under paragraph (6), extend the temporary scheduling order for up to 6 months.
+  >   - **(3)** The Attorney General shall transmit notice of an order proposed to be issued under paragraph (1) to the Secretary of Health and Human Services. In issuing an order under paragraph (1), the Attorney General shall take into consideration any comments submitted by the Secretary in response to a notice transmitted pursuant to this paragraph.
+  >   - **(4)** A temporary scheduling order issued under paragraph (1) shall be vacated upon the issuance of a permanent scheduling order under paragraph (6).
+  >   - **(5)** An order issued under paragraph (1) is not subject to judicial review.
+  >   - **(6)** The Attorney General may, by rule, issue a permanent order adding a drug or other substance to the definition of anabolic steroids if such drug or other substance satisfies the criteria for being considered an anabolic steroid under section 102(41). Such rulemaking may be commenced simultaneously with the issuance of the temporary order issued under paragraph (1).
 
-- **(c)** *Labeling requirements*
-  - **(1)** *In general* The Controlled Substances Act is amended by inserting after section 305 (21 U.S.C. 825) the following:
-    > ## § 305A. Offenses involving false labeling of anabolic steroids
-    >
-    > - **(a)** *Unlawful acts*
-    >   - **(1)** It shall be unlawful—
-    >     - **(A)** to import into the United States or to export from the United States;
-    >     - **(B)** to manufacture, distribute, dispense, sell, or offer to sell; or
-    >     - **(C)** to possess with intent to manufacture, distribute, dispense, sell, or offer to sell;
-    >   - **(2)** A product that is the subject of an approved application as described in section 505(b), (i) or (j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(b), (i), or (j)) is exempt from the International Union of Pure and Applied Chemistry nomenclature requirement of this subsection if such product is labeled in the manner required by the Federal Food, Drug, and Cosmetic Act.
-    > - **(b)** *Criminal penalties* Any person who violates subsection (a) knowing, intending, or having reasonable cause to believe, that the substance or product is an anabolic steroid, or contains an anabolic steroid, shall be sentenced to a term of imprisonment of not more than 10 years, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18, United States Code, or $500,000 if the defendant is an individual or $2,500,000 if the defendant is other than an individual, or both.
-    > - **(c)** *Civil penalties*
-    >   - **(1)** Any person who violates subsection (a) shall be subject to a civil penalty as follows:
-    >     - **(A)** In the case of an importer, exporter, manufacturer, or distributor (other than as provided in subparagraph (B)), up to $500,000 per violation. For purposes of this subparagraph, a violation is defined as each instance of importation, exportation, manufacturing, or distribution, and each anabolic steroid or product imported, exported, manufactured, or distributed.
-    >     - **(B)** In the case of a sale or offer to sell at retail, up to $25,000 per violation. For purposes of this subparagraph, each sale and each product offered for sale shall be considered a separate violation. Continued offers to sell by a person 10 or more days after written notice (including through electronic message) to the person by the Attorney General or the Secretary shall be considered additional violations.
-    >   - **(2)** In this subsection, the term product means a discrete article, either in bulk or in finished form prepared for sale. A number of articles, if similarly packaged and bearing identical labels, shall be considered as one product, but each package size, form, or differently labeled article shall be considered a separate product.
-    > - **(d)** *Identification and publication of list of products containing anabolic steroids*
-    >   - **(1)** The Attorney General may, in his discretion, collect data and analyze products to determine whether they contain anabolic steroids and are properly labeled in accordance with this section. The Attorney General may publish in the Federal Register or on the website of the Drug Enforcement Administration a list of products that he has determined, based on substantial evidence, contain an anabolic steroid and are not labeled in accordance with this section.
-    >   - **(2)** The absence of a product from the list referred to in paragraph (1) shall not constitute evidence that the product does not contain an anabolic steroid.
+## § 3. Labeling requirements
 
-  - **(2)** *Table of contents* The table of contents for the Comprehensive Drug Abuse Prevention and Control Act of 1970 is amended by inserting after the item relating to section 305 the following:
+- **(a)** *In general* Section 305 of the Controlled Substances Act (21 U.S.C. 825) is amended by adding at the end the following:
+  > - **(e)** *False Labeling of Anabolic Steroids*
+  >   - **(1)** It shall be unlawful to import, export, manufacture, distribute, dispense, or possess with intent to manufacture, distribute, or dispense, an anabolic steroid or product containing an anabolic steroid, unless the steroid or product bears a label clearly identifying an anabolic steroid or product containing an anabolic steroid by the nomenclature used by the International Union of Pure and Applied Chemistry (IUPAC).
+  >   - **(2)**
+  >     - **(A)** A product described in subparagraph (B) is exempt from the International Union of Pure and Applied Chemistry nomenclature requirement of this subsection if such product is labeled in the manner required under the Federal Food, Drug, and Cosmetic Act.
+  >     - **(B)** A product is described in this subparagraph if the product—
+  >       - **(i)** is the subject of an approved application as described in section 505(b) or (j) of the Federal Food, Drug, and Cosmetic Act; or
+  >       - **(ii)** is exempt from the provisions of section 505 of such Act relating to new drugs because—
+  >         - **(I)** it is intended solely for investigational use as described in section 505(i) of such Act; and
+  >         - **(II)** such product is being used exclusively for purposes of a clinical trial that is the subject of an effective investigational new drug application.
+
+- **(b)** *Clarification to Import and Export statute* Section 1010 of the Controlled Substances Import and Export Act (21 U.S.C. 960) is amended, in subsection (a)(1), by inserting “305,” before “1002”.
+- **(c)** *Civil penalties* Section 402 of the Controlled Substances Act (21 U.S.C. 842) is amended—
+  - **(1)** in subsection (a)—
+    - **(A)** in paragraph (14), by striking “or” at the end;
+    - **(B)** in paragraph (15), by striking the period at the end and inserting “; or”; and
+    - **(C)** by inserting, after paragraph (15), the following:
+      > - **(16)** to violate subsection (e) of section 825 of this title.
+
+  - **(2)** in subsection (c)(1)—
+    - **(A)** by inserting, in subparagraph (A), after “subparagraph (B)” the following: “, (C), or (D)”; and
+    - **(B)** by inserting after subparagraph (B) the following:
+      > - **(C)** In the case of a violation of paragraph (16) of subsection (a) of this section by an importer, exporter, manufacturer, or distributor (other than as provided in subparagraph (D)), up to $500,000 per violation. For purposes of this subparagraph, a violation is defined as each instance of importation, exportation, manufacturing, distribution, or possession with intent to manufacture or distribute, in violation of paragraph (16) of subsection (a).
+      > - **(D)** In the case of a distribution, dispensing, or possession with intent to distribute or dispense in violation of paragraph (16) of subsection (a) of this section at the retail level, up to $1000 per violation. For purposes of this paragraph, the term “at the retail level” refers to products sold, or held for sale, directly to the consumer for personal use. Each package, container or other separate unit containing an anabolic steroid that is distributed, dispensed, or possessed with intent to distribute or dispense at the retail level in violation of such paragraph (16) of subsection (a) shall be considered a separate violation.
+
+## § 4. Identification and publication of list of products containing anabolic steroids
+
+- **(a)** *In general* The Attorney General may, in the Attorney General’s discretion, collect data and analyze products to determine whether they contain anabolic steroids and are properly labeled in accordance with this Act and the amendments made by this Act. The Attorney General may publish in the Federal Register or on the website of the Drug Enforcement Administration a list of products which the Attorney General has determined, based on substantial evidence, contain an anabolic steroid and are not labeled in accordance with this Act and the amendments made by this Act.
+- **(b)** *Absence from list* The absence of a product from the list referred to in subsection (a) shall not constitute evidence that the product does not contain an anabolic steroid.
