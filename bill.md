@@ -30,7 +30,7 @@ This Act may be cited as the “Federal Information Security Modernization Act o
     - **(B)** in section 2223(c)(3), by striking “section 3542(b)(2)” and inserting “section 3552(b)(5)”; and
     - **(C)** in section 2315, by striking “section 3542(b)(2)” and inserting “section 3552(b)(5)”.
 - **(c)** *Other provisions*
-  - **(1)** *Circular A–130* Not later than 180 days after the date of enactment of this Act, the Director of the Office of Management and Budget shall revise Office of Management and Budget Circular A–130 to eliminate inefficient or wasteful reporting.
+  - **(1)** *Circular A-130* Not later than 180 days after the date of enactment of this Act, the Director of the Office of Management and Budget shall revise Office of Management and Budget Circular A–130 to eliminate inefficient or wasteful reporting.
   - **(2)** *ISPAB* Section 21(b) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–4(b)) is amended—
     - **(A)** in paragraph (2), by inserting “, the Secretary of Homeland Security,” after “the Institute”; and
     - **(B)** in paragraph (3), by inserting “the Secretary of Homeland Security,” after “the Secretary of Commerce,”.
