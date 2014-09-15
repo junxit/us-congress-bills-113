@@ -1,31 +1,46 @@
 ---
 legis-num: H.R. 3606
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 3606
 
-> To permit certain activities to be conducted on Federal land within the Emigrant Wilderness of Stanislaus National Forest in the State of California at the level at which such activities were conducted on such land before the wilderness designation, and for other purposes.
+> To preserve the opportunity for pack and saddle stock that are part of the history and character of traditional uses, practices and access within the Emigrant Wilderness of Stanislaus National Forest in the State of California as appropriate within the wilderness designation, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Emigrant Wilderness Historical Use Preservation Act of 2013”.
+This Act may be cited as the “Emigrant Wilderness Historical Use Preservation Act”.
 
-## § 2. Purpose
+## § 2. Purposes
 
-It is the purpose of this Act to ensure that—
+The purposes of this Act are to ensure that—
 
-- **(1)** an increasing population within the vicinity of the Emigrant Wilderness of Stanislaus National Forest in the State of California does not cause the Emigrant Wilderness to lose its untrammeled and unimpaired wilderness character;
-- **(2)** the Federal land comprising the Emigrant Wilderness retains the types of activities and level of access the land had when the land was designated as wilderness; and
-- **(3)** future generations of Americans continue to have the opportunity for a true wilderness experience consistent with what existed when the Emigrant Wilderness was designated.
+- **(1)** an increasing population within the vicinity of the Emigrant Wilderness of Stanislaus National Forest in the State of California may continue to enjoy the traditional variety of appropriate wilderness uses and practices, including a wilderness equestrian experience of pack and saddle stock use, consistent with protecting untrammeled and unimpaired wilderness character;
+- **(2)** the Federal land comprising the Emigrant Wilderness retains wilderness character consistent with the time of designation and that changes in use levels and social preferences are not allowed to displace historical and traditional uses, including recreational commercial services provided by pack stock stations, which existed at the time of designation; and
+- **(3)** future generations of Americans continue to have the opportunity to enjoy the variety of traditional wilderness experiences, including a true wilderness equestrian experience, consistent with what existed when the Emigrant Wilderness was designated.
 
-## § 3. Continuation of historical activities and access to Federal land comprising Emigrant Wilderness, Stanislaus National Forest, California
+## § 3. Preservation of historical equestrian activities and access to certain Federal land
 
-- **(a)** *In general* This section modifies and supplements the provisions of law otherwise applicable to the Emigrant Wilderness of Stanislaus National Forest in the State of California, as originally designated by section 2(b) of Public Law 93–632 (88 Stat. 2154; 16 U.S.C. 1132 note) and expanded by section 101(a)(9) of Public Law 98–425 (98 Stat. 1620; 16 U.S.C. 1132 note) (in this section referred to as the Emigrant Wilderness).
-- **(b)** *Preservation of historical activities and level of use* The Secretary of Agriculture shall take such actions as may be necessary to ensure that, within the area designated as the Emigrant Wilderness, the level of use, allotted user days, and activities by commercial outfitters and guides within that area shall not rise above or be restricted below the historical level of use, allotted user days, and activities by commercial outfitters and guides within that area that existed as of the date of the original designation of the Emigrant Wilderness on January 3, 1975.
-- **(c)** *Types of activities and impact* The historical use and activities in the Emigrant Wilderness, including commercial outfitting and guiding, camping, pack stock grazing, and campfires, are traditional uses that are consistent with and part of an unconfined recreational experience, and the signs of use created by these historical uses are to be considered substantially unnoticeable and acceptable as long as they do not exceed the level present at the time of wilderness designation. The Secretary of Agriculture shall take such actions to ensure that these traditional uses neither exceed nor are restricted below the level of use at the time the Emigrant Wilderness was designated, as required by subsection (b).
-- **(d)** *Commercial pack and saddle stock use* Because commercial pack and saddle stock use existed at the time the Emigrant Wilderness was designated, the level of this use at the time of designation is the extent necessary for these traditional activities and will not be allowed to exceed or be reduced below the highest level of such use in the preceding 10 years.
-- **(e)** *Historical use of trails, roads, paths, campsites, meadows, and cross-Country areas* The historical use of trails, roads, paths, campsites, meadows, and cross-country areas in the Emigrant Wilderness by recreational and commercial pack and saddle stock, including horses, mules, donkeys, and ponies, shall be allowed to continue. The uses include travel on designated system trails and historic user trails, as well as cross-country travel, grazing, camping, campsites, and campfires.
-- **(f)** *Drift fences* The use of drift fences that are in existence as of the date of the enactment of this Act or were previously in existence at the time of designation of the Emigrant Wilderness shall be allowed and maintained.
+- **(a)** *Preservation of historical equestrian activities and level of use* The Secretary shall take such actions as may be necessary to ensure that, within the area designated as the Emigrant Wilderness, all pack and saddle stock use, including commercial pack and saddle stock services, are recognized as appropriate wilderness activities, along with their associated effect on soil, water, and vegetation. Conditions of camps, trails, and grazing areas, at the time of designation, should be considered an acceptable benchmark level for monitoring the preservation of wilderness character. No action shall be taken to limit or exclude pack and saddle stock without an appropriate environmental analysis with an express finding that it is necessary to limit or exclude pack and saddle stock, or modify stock practices, in order to preserve the wilderness character of the area to that which existed at the time of the designation of the Emigrant Wilderness.
+- **(b)** *Types of activities and impact* The historical use and activities in the Emigrant Wilderness, including commercial outfitting and guiding, camping, pack stock grazing, and associated campsites, campfires, tent locations, and social trails, are traditional uses that are consistent with and part of an unconfined recreational experience, and the signs of use created by these historical uses are to be considered substantially unnoticeable and acceptable as long as they do not exceed the level present at the time of wilderness designation. The Secretary shall take such actions to ensure that these traditional uses do not result in impacts that are greater than those experienced at the time the Emigrant Wilderness was designated.
+- **(c)** *Emigrant wilderness plan* Not later than 3 years after the date of the enactment of this Act, the Secretary shall complete an updated wilderness plan to incorporate management direction for the preservation of pack and saddle stock use and all legally acceptable recreational uses within the Emigrant Wilderness, including establishing the following:
+  - **(1)** Desired future conditions that recognize normal and expected pack and saddle stock use impacts as an accepted component of the wilderness character of the area.
+  - **(2)** Standards, and guidelines for pack and saddle stock that use “leave no trace” or gentle use principles for pack and saddle stock in the future consistent with past historical pack and saddle stock use practices and impacts.
+  - **(3)** Indicators, thresholds, and triggers for managing future pack and saddle stock use commensurate with other uses and that recognize the acceptability of historical use and impacts of pack and saddle stock.
+  - **(4)** A user capacity for pack and saddle stock use, including commercial pack and saddle stock services, commensurate with minimum levels necessary to ensure continued opportunity for a wilderness equestrian experience while preserving the overall wilderness character of the Emigrant Wilderness. Such user capacity shall recognize the number of stock necessary to support the typical extended family group size that frequent the Emigrant Wilderness, including commercial service support, and shall not limit group sizes to fewer than 15 people and 25 head of stock, inclusive of commercial service outfitters and guides.
+  - **(5)** A needs assessment that sets as a baseline the level of commercial services that existed at the time of designation.
+- **(d)** *Commercial pack and saddle stock services*
+  - **(1)** *In general* The Secretary of Agriculture shall—
+    - **(A)** continue to authorize commercial pack and saddle stock services within the Emigrant Wilderness consistent with commercial use within that area that existed as of the date of the original designation of the Emigrant Wilderness on January 3, 1975;
+    - **(B)** specify the level of use, allotted user days, and activities by commercial outfitters and guides within that area in the Wilderness Plan; and
+    - **(C)** continue to issue authorizations to provide commercial services for commercial stock operations within the Emigrant Wilderness at historic levels consistent with this Act.
+  - **(2)** *Levels of use* Historical levels of commercial use, as established at the time of the designation of the Emigrant Wilderness, are considered within the normal range of acceptability for stock numbers and impacts and are considered the minimum extent necessary for realizing the recreational and other purposes of the area. Pack and saddle stock commercial use may be allowed to increase above current authorized use levels, and at levels consistent with increases in other traditional uses, after a finding in an appropriate environmental analysis that the wilderness character of the area is being protected. Current outfitter and guide special use permits may be reauthorized without environmental analysis to incorporate direction from the wilderness plan developed pursuant to subsection (c).
+- **(e)** *Limitations* Nothing in subsections (a) through (e) shall be construed to—
+  - **(1)** authorize the Secretary to issue or refuse to issue a permit for a new use of pack and saddle stock animals, including use by a commercial outfitter or guide, without complying with applicable resource management plans and planning processes required under this Act or any other provision of law;
+  - **(2)** limit the authority of the Secretary to impose a temporary emergency closure of a trail, route, or area to pack and saddle stock animals or issue special permits; or
+  - **(3)** create a preference for one recreational use over another for the Emigrant Wilderness, without consideration of the stated purpose of this area as stated in the Wilderness Act, PL88–577, and specific legislation establishing the Emigrant Wilderness.
+- **(f)** *Definitions* For the purposes of this Act:
+  - **(1)** *Emigrant Wilderness* The term Emigrant Wilderness means the Emigrant Wilderness of Stanislaus National Forest in the State of California, as originally designated by section 2(b) of Public Law 93–632 (88 Stat. 2154; 16 U.S.C. 1132 note) and expanded by section 101(a)(9) of Public Law 98–425 (98 Stat. 1620; 16 U.S.C. 1132 note).
+  - **(2)** *Secretary* The term Secretary means the Secretary of Agriculture.

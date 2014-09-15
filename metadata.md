@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3606
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3606
@@ -16,10 +16,11 @@ Emigrant Wilderness Historical Use Preservation Act
 
 - Rep. McClintock, Tom [R-CA-4] (M001177)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Rep. Stewart, Chris [R-UT-2] (S001192)
 - Rep. Nunes, Devin [R-CA-22] (N000181)
+- Rep. Denham, Jeff [R-CA-10] (D000612)
 
 ## Committees (1)
 
@@ -30,3 +31,11 @@ Emigrant Wilderness Historical Use Preservation Act
 - 2013-11-21 — Introduced in House
 - 2013-11-21 — Introduced in House
 - 2013-11-21 — Referred to the House Committee on Natural Resources.
+- 2013-11-29 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2014-03-06 — Subcommittee Hearings Held.
+- 2014-05-29 — Committee Consideration and Mark-up Session Held.
+- 2014-05-29 — Ordered to be Reported (Amended) by Voice Vote.
+- 2014-05-29 — Subcommittee on Public Lands and Environmental Regulation Discharged.
+- 2014-09-15 — Placed on the Union Calendar, Calendar No. 442.
+- 2014-09-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-595.
+- 2014-09-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-595.
