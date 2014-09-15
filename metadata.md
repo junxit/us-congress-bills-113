@@ -1,7 +1,7 @@
 ---
 measure: S. 1086
 congress: 113
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 1086
@@ -245,3 +245,10 @@ Child Care and Development Block Grant Act of 2014
 - 2014-03-13 — Senate amendment submitted
 - 2014-03-13 — Senate amendment submitted
 - 2014-03-13 — The committee substitute as amended agreed to by Voice Vote. (consideration: CR S1617)
+- 2014-09-15 — Considered under suspension of the rules. (consideration: CR H7465-7481)
+- 2014-09-15 — DEBATE - The House proceeded with forty minutes of debate on S. 1086.
+- 2014-09-15 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2014-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-15 — Mr. Kline moved to suspend the rules and pass the bill, as amended.
+- 2014-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7465-7473)
+- 2014-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7465-7473)

@@ -2,16 +2,18 @@
 legis-num: S. 1086
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 1086
 
-> To reauthorize and improve the Child Care and Development Block Grant Act of 1990, and for other purposes.
+That the bill from the Senate (S. 1086) entitled “An Act to reauthorize and improve the Child Care and Development Block Grant Act of 1990, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Child Care and Development Block Grant Act of 2014”.
+This Act may be cited as the “ Child Care and Development Block Grant Act of 2014 ”.
 
 ## § 2. Short title and purposes
 
@@ -19,20 +21,19 @@ Section 658A of the Child Care and Development Block Grant Act of 1990 (42 U.S.C
 
 > ## § 658A. Short title and purposes
 >
-> - **(a)** *Short title* This subchapter may be cited as the “Child Care and Development Block Grant Act of 1990”.
+> - **(a)** *Short title* This subchapter may be cited as the “ Child Care and Development Block Grant Act of 1990 ”.
 > - **(b)** *Purposes* The purposes of this subchapter are—
 >   - **(1)** to allow each State maximum flexibility in developing child care programs and policies that best suit the needs of children and parents within that State;
->   - **(2)** to promote parental choice to empower working parents to make their own decisions regarding the child care that best suits their family’s needs;
->   - **(3)** to assist States in providing high-quality child care services to parents trying to achieve independence from public assistance;
->   - **(4)** to assist States in improving the overall quality of child care services and programs by implementing the health, safety, licensing, training, and oversight standards established in this subchapter and in State law (including regulations);
->   - **(5)** to improve school readiness by having children, families, and child care providers engage in activities, in child care settings, that are developmentally appropriate and age-appropriate for the children and that promote children's language and literacy and mathematics skills, social and emotional development, physical health and development, and approaches to learning;
->   - **(6)** to encourage States to provide consumer education information to help parents make informed choices about child care services and to promote involvement by parents and family members in the education of their children in child care settings;
->   - **(7)** to increase the number and percentage of low-income children in high-quality child care settings; and
->   - **(8)** to improve the coordination and delivery of early childhood education and care (including child care).
+>   - **(2)** to promote parental choice to empower working parents to make their own decisions regarding the child care services that best suit their family’s needs;
+>   - **(3)** to encourage States to provide consumer education information to help parents make informed choices about child care services and to promote involvement by parents and family members in the development of their children in child care settings;
+>   - **(4)** to assist States in delivering high-quality, coordinated early childhood care and education services to maximize parents’ options and support parents trying to achieve independence from public assistance;
+>   - **(5)** to assist States in improving the overall quality of child care services and programs by implementing the health, safety, licensing, training, and oversight standards established in this subchapter and in State law (including State regulations);
+>   - **(6)** to improve child care and development of participating children; and
+>   - **(7)** to increase the number and percentage of low-income children in high-quality child care settings.
 
 ## § 3. Authorization of appropriations
 
-Section 658B of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858) is amended by striking “subchapter” and all that follows, and inserting “subchapter, such sums as may be necessary for each of fiscal years 2015 through 2020.”.
+Section 658B of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858) is amended by striking “subchapter” and all that follows through the period at the end, and inserting “subchapter $2,360,000,000 for fiscal year 2015, $2,478,000,000 for fiscal year 2016, $2,539,950,000 for fiscal year 2017, $2,603,448,750 for fiscal year 2018, $2,668,534,969 for fiscal year 2019, and $2,748,591,018 for fiscal year 2020.”.
 
 ## § 4. Lead agency
 
@@ -43,143 +44,128 @@ Section 658B of the Child Care and Development Block Grant Act of 1990 (42 U.S.C
   - **(1)** in subparagraph (C), by striking “and” at the end;
   - **(2)** in subparagraph (D), by striking the period and inserting “; and”; and
   - **(3)** by adding at the end the following:
-    > - **(E)** at the option of an Indian tribe or tribal organization in the State, collaborate and coordinate with such Indian tribe or tribal organization in the development of the State plan.
+    > - **(E)** at the option of an Indian tribe or tribal organization in the State, collaborate and coordinate with such Indian tribe or tribal organization in the development of the State plan in a timely manner.
 
 ## § 5. Application and plan
 
-- **(a)** *Period* Section 658E(b) of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858c(b)) is amended, by striking “2-year” and inserting “3-year”.
+- **(a)** *Period* Section 658E(b) of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858c(b)) is amended by striking “2-year” and inserting “3-year”.
 - **(b)** *Policies and procedures* Section 658E(c) of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858c(c)) is amended—
   - **(1)** in paragraph (1), by inserting “or established” after “designated”;
   - **(2)** in paragraph (2)—
     - **(A)** in subparagraph (B), by inserting a comma after “care of such providers”;
     - **(B)** by striking subparagraphs (D) through (H); and
     - **(C)** by adding at the end the following:
-      > - **(D)** *Monitoring and inspection reports* The plan shall include a certification that the State, not later than 1 year after the State has in effect the policies and practices described in subparagraph (K)(i), will make public by electronic means, in a consumer-friendly and easily accessible format, organized by provider, the results of monitoring and inspection reports, including those due to major substantiated complaints about failure to comply with this subchapter and State child care policies, as well as the number of deaths, serious injuries, and instances of substantiated child abuse that occurred in child care settings each year, for eligible child care providers within the State. The results shall also include information on the date of such an inspection and, where applicable, information on corrective action taken.
-      > - **(E)** *Consumer education information* The plan shall include a certification that the State will collect and disseminate (which dissemination may be done, except as otherwise specified in this subparagraph, through resource and referral organizations or other means as determined by the State) to parents of eligible children and the general public—
-      >   - **(i)** information that will promote informed child care choices and that concerns—
-      >     - **(I)** the availability of child care services provided through programs authorized under this subchapter and, if feasible, other child care services and other programs provided in the State for which the family may be eligible;
-      >     - **(II)** if available, information about the quality of providers, including information from a Quality Rating and Improvement System;
-      >     - **(III)** information, made available through a State website, describing the State process for licensing child care providers, the State processes for conducting background checks, and monitoring and inspections, of child care providers, and the offenses that prevent individuals and entities from serving as child care providers in the State;
-      >     - **(IV)** the availability of assistance to obtain child care services;
-      >     - **(V)** other programs for which families that receive child care services for which financial assistance is provided in accordance with this subchapter may be eligible, including the program of block grants to States for temporary assistance for needy families established under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), Head Start and Early Head Start programs carried out under the Head Start Act (42 U.S.C. 9831 et seq.), the program carried out under the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621 et seq.), the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), the special supplemental nutrition program for women, infants, and children established under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786), the child and adult care food program established under section 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766), and the Medicaid and State children's health insurance programs under titles XIX and XXI of the Social Security Act (42 U.S.C. 1396 et seq., 1397aa et seq.);
-      >     - **(VI)** programs carried out under section 619 and part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.); and
-      >     - **(VII)** research and best practices concerning children's development, including language and cognitive development, development of early language and literacy and mathematics skills, social and emotional development, meaningful parent and family engagement, and physical health and development (particularly healthy eating and physical activity);
+      > - **(D)** *Monitoring and inspection reports* The plan shall include a certification that the State, not later than 1 year after the State has in effect the policies and practices described in subparagraph (K)(i), will make public by electronic means, in a consumer-friendly and easily accessible format, organized by provider, the results of monitoring and inspection reports, including those due to major substantiated complaints about failure to comply with this subchapter and State child care policies, as well as the number of deaths, serious injuries, and instances of substantiated child abuse that occurred in child care settings each year, for eligible child care providers within the State. The results shall also include information on the date of such an inspection, and, where applicable, information on corrective action taken.
+      > - **(E)** *Consumer and provider education information* The plan shall include a certification that the State will collect and disseminate (which dissemination may be done, except as otherwise specified in this subparagraph, through resource and referral organizations or other means as determined by the State) to parents of eligible children, the general public, and, where applicable, providers—
+      >   - **(i)** information about the availability of the full diversity of child care services that will promote informed child care choices and that concerns—
+      >     - **(I)** the availability of child care services provided through programs authorized by this subchapter and, if feasible, other child care services and other programs provided in the State for which the family may be eligible, as well as the availability of financial assistance to obtain child care services in the State;
+      >     - **(II)** if available, information about the quality of providers, as determined by the State, that can be provided through a Quality Rating and Improvement System;
+      >     - **(III)** information, made available through a State Web site, describing the State process for licensing child care providers, the State processes for conducting background checks, and monitoring and inspections, of child care providers, and the offenses that prevent individuals and entities from serving as child care providers in the State;
+      >     - **(IV)** other programs for which families that receive child care services for which financial assistance is provided under this subchapter may be eligible, including the program of block grants to States for temporary assistance for needy families established under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), Head Start and Early Head Start programs carried out under the Head Start Act (42 U.S.C. 9831 et seq.), the program carried out under the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621 et seq.), the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), the special supplemental nutrition program for women, infants, and children established under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786), the child and adult care food program established under section 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766), and the Medicaid and State children's health insurance programs under titles XIX and XXI of the Social Security Act (42 U.S.C. 1396 et seq., 1397aa et seq.);
+      >     - **(V)** programs carried out under section 619 and part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.);
+      >     - **(VI)** research and best practices concerning children's development, including social and emotional development, early childhood development, and meaningful parent and family engagement, and physical health and development (particularly healthy eating and physical activity); and
+      >     - **(VII)** the State policies regarding the social-emotional behavioral health of young children, which may include positive behavioral intervention and support models, and policies on expulsion of preschool-aged children, in early childhood programs receiving assistance under this subchapter; and
       >   - **(ii)** information on developmental screenings, including—
       >     - **(I)** information on existing (as of the date of submission of the application containing the plan) resources and services the State can deploy, including the coordinated use of the Early and Periodic Screening, Diagnosis, and Treatment program under the Medicaid program carried out under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) and developmental screening services available under section 619 and part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.), in conducting developmental screenings and providing referrals to services, when appropriate, for children who receive assistance under this subchapter; and
-      >     - **(II)** a description of how a family or eligible child care provider may utilize the resources and services described in subclause (I) to obtain developmental screenings for children who receive assistance under this subchapter who may be at risk for cognitive or other developmental delays, which may include social, emotional, physical, or linguistic delays; and
-      >   - **(iii)** information, for parents receiving assistance under the program of block grants to States for temporary assistance for needy families under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) and low-income parents, about eligibility for assistance provided in accordance with this subchapter.
+      >     - **(II)** a description of how a family or eligible child care provider may utilize the resources and services described in subclause (I) to obtain developmental screenings for children who receive assistance under this subchapter who may be at risk for cognitive or other developmental delays, which may include social, emotional, physical, or linguistic delays.
       > - **(F)** *Compliance with State licensing requirements*
       >   - **(i)** *In general* The plan shall include a certification that the State involved has in effect licensing requirements applicable to child care services provided within the State, and provide a detailed description of such requirements and of how such requirements are effectively enforced.
-      >   - **(ii)** *License exemption* If the State uses funding received under this subchapter to support a child care provider that is exempt from the corresponding licensing requirements described in clause (i), the plan shall include a description stating why such licensing exemption does not endanger the health, safety, or development of children who receive services from child care providers who are exempt from such requirements.
-      >   - **(iii)** *Requests for relief* As described in section 658I(d), a State may request relief from a provision of Federal law other than this subchapter that might conflict with a requirement of this subchapter, including a licensing requirement.
-      > - **(G)** *Training requirements*
-      >   - **(i)** *In general* The plan shall describe the training requirements that are in effect within the State that are designed to enable child care providers to promote the social, emotional, physical, and cognitive development of children and that are applicable to child care providers that provide services for which assistance is provided in accordance with this subchapter in the State.
-      >   - **(ii)** *Requirements* The plan shall provide an assurance that such training requirements—
-      >     - **(I)** provide a set of workforce and competency standards for child care providers that provide services described in clause (i);
-      >     - **(II)** are developed in consultation with the State Advisory Council on Early Childhood Education and Care (designated or established pursuant to section 642B(b)(1)(A)(i) of the Head Start Act (42 U.S.C. 9837b(b)(1)(A)(i)));
-      >     - **(III)** include an evidence-based training framework that is designed to promote children's learning and development and school readiness and to improve child outcomes, including school readiness and early language and literacy development;
-      >     - **(IV)** incorporate knowledge and application of the State's early learning and developmental guidelines (where applicable), and the State's child development and health standards; and
+      >   - **(ii)** *License exemption* If the State uses funds received under this subchapter to support a child care provider that is exempt from the corresponding licensing requirements described in clause (i), the plan shall include a description stating why such licensing exemption does not endanger the health, safety, or development of children who receive services from child care providers who are exempt from such requirements.
+      > - **(G)** *Training and professional development requirements*
+      >   - **(i)** *In general* The plan shall describe the training and professional development requirements that are in effect within the State designed to enable child care providers to promote the social, emotional, physical, and cognitive development of children and to improve the knowledge and skills of the child care workforce. Such requirements shall be applicable to child care providers that provide services for which assistance is provided in accordance with this subchapter.
+      >   - **(ii)** *Requirements* The plan shall provide an assurance that such training and professional development—
+      >     - **(I)** shall be conducted on an ongoing basis, provide for a progression of professional development (which may include encouraging the pursuit of postsecondary education), reflect current research and best practices relating to the skills necessary for the child care workforce to meet the developmental needs of participating children, and improve the quality of, and stability within, the child care workforce;
+      >     - **(II)** shall be developed in consultation with the State Advisory Council on Early Childhood Education and Care (designated or established pursuant to section 642B(b)(1)(A)(i) of the Head Start Act (42 U.S.C. 9837b(b)(1)(A)(i))), and may engage training providers in aligning training opportunities with the State’s training framework;
+      >     - **(III)** incorporates knowledge and application of the State’s early learning and developmental guidelines (where applicable), the State’s health and safety standards, and incorporates social-emotional behavior intervention models, which may include positive behavior intervention and support models;
+      >     - **(IV)** shall be accessible to providers supported through Indian tribes or tribal organizations that receive assistance under this subchapter; and
       >     - **(V)** to the extent practicable, are appropriate for a population of children that includes—
-      >       - **(aa)** different age groups (such as infants, toddlers, and preschoolers);
+      >       - **(aa)** different age groups;
       >       - **(bb)** English learners;
       >       - **(cc)** children with disabilities; and
       >       - **(dd)** Native Americans, including Indians, as the term is defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b) (including Alaska Natives within the meaning of that term), and Native Hawaiians (as defined in section 7207 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7517)).
-      >   - **(iii)** *Progression of professional development* In developing the requirements, the State shall develop a statewide progression of professional development designed to improve the skills and knowledge of the workforce—
-      >     - **(I)** which may include the acquisition of course credit in postsecondary education or of a credential, aligned with the framework; and
-      >     - **(II)** which shall be accessible to providers supported through Indian tribes or tribal organizations that receive assistance under this subchapter.
-      >   - **(iv)** *Alignment* The State shall engage the State Advisory Council on Early Childhood Education and Care, and may engage institutions of higher education (as defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002)), and other training providers in aligning training opportunities with the State’s training framework.
-      >   - **(v)** *Credentials* The Secretary shall not require an individual or entity that provides child care services for which assistance is provided in accordance with this subchapter to acquire a credential to provide such services. Nothing in this section shall be construed to prohibit a State from requiring a credential.
+      >   - **(iii)** *Information* The plan shall include the number of hours of training required for eligible providers and caregivers to engage in annually, as determined by the State.
+      >   - **(iv)** *Construction* The Secretary shall not require an individual or entity that provides child care services for which assistance is provided in accordance with this subchapter to acquire a credential to provide such services. Nothing in this section shall be construed to prohibit a State from requiring a credential.
       > - **(H)** *Child-to-provider ratio standards*
-      >   - **(i)** *Standards* The plan shall describe child care standards, for child care for which assistance is made available in accordance with this subchapter, appropriate to the type of child care setting involved, that address—
-      >     - **(I)** group size limits for specific age populations;
+      >   - **(i)** *Standards* The plan shall describe child care standards for child care services for which assistance is made available in accordance with this subchapter, appropriate to the type of child care setting involved, to provide for the safety and developmental needs of the children served, that address—
+      >     - **(I)** group size limits for specific age populations, as determined by the State;
       >     - **(II)** the appropriate ratio between the number of children and the number of providers, in terms of the age of the children in child care, as determined by the State; and
-      >     - **(III)** required qualifications for such providers.
-      >   - **(ii)** *Construction* The Secretary may offer guidance to States on child-to-provider ratios described in clause (i) according to setting and age group but shall not require that States maintain specific child-to-provider ratios for providers who receive assistance under this subchapter.
+      >     - **(III)** required qualifications for such providers, as determined by the State.
+      >   - **(ii)** *Construction* The Secretary may offer guidance to States on child-to-provider ratios described in clause (i) according to setting and age group, but shall not require that the State maintain specific group size limits for specific age populations or child-to-provider ratios for providers who receive assistance in accordance with subchapter.
       > - **(I)** *Health and safety requirements* The plan shall include a certification that there are in effect within the State, under State or local law, requirements designed to protect the health and safety of children that are applicable to child care providers that provide services for which assistance is made available in accordance with this subchapter. Such requirements—
-      >   - **(i)** shall relate to matters including health and safety topics (including prevention of shaken baby syndrome and abusive head trauma) consisting of—
+      >   - **(i)** shall relate to matters including health and safety topics consisting of—
       >     - **(I)** the prevention and control of infectious diseases (including immunization) and the establishment of a grace period that allows homeless children and children in foster care to receive services under this subchapter while their families (including foster families) are taking any necessary action to comply with immunization and other health and safety requirements;
-      >     - **(II)** handwashing and universal health precautions;
+      >     - **(II)** prevention of sudden infant death syndrome and use of safe sleeping practices;
       >     - **(III)** the administration of medication, consistent with standards for parental consent;
-      >     - **(IV)** the prevention of and response to emergencies due to food and other allergic reactions;
-      >     - **(V)** prevention of sudden infant death syndrome and use of safe sleeping practices;
-      >     - **(VI)** sanitary methods of food handling;
-      >     - **(VII)** building and physical premises safety;
-      >     - **(VIII)** emergency preparedness and response planning for emergencies resulting from a natural disaster, or a man-caused event (such as violence at a child care facility), within the meaning of those terms under section 602(a)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5195a(a)(1));
-      >     - **(IX)** the handling and storage of hazardous materials and the appropriate disposal of biocontaminants;
-      >     - **(X)** identification of and protection from hazards that can cause bodily injury such as electrical hazards, bodies of water, and vehicular traffic;
-      >     - **(XI)** for providers that offer transportation, if applicable, appropriate precautions in transporting children;
-      >     - **(XII)** first aid and car­dio­pul­mo­nary resuscitation; and
-      >     - **(XIII)** minimum health and safety training, to be completed pre-service or during an orientation period, appropriate to the provider setting involved that addresses each of the requirements relating to matters described in subclauses (I) through (XII); and
+      >     - **(IV)** the prevention of and response to emergencies due to food and allergic reactions;
+      >     - **(V)** building and physical premises safety, including identification of and protection from hazards that can cause bodily injury such as electrical hazards, bodies of water, and vehicular traffic;
+      >     - **(VI)** prevention of shaken baby syndrome and abusive head trauma;
+      >     - **(VII)** emergency preparedness and response planning for emergencies resulting from a natural disaster, or a man-caused event (such as violence at a child care facility), within the meaning of those terms under section 602(a)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5195a(a)(1));
+      >     - **(VIII)** the handling and storage of hazardous materials and the appropriate disposal of biocontaminants;
+      >     - **(IX)** for providers that offer transportation, if applicable, appropriate precautions in transporting children;
+      >     - **(X)** first aid and cardiopulmonary resuscitation; and
+      >     - **(XI)** minimum health and safety training, to be completed pre-service or during an orientation period in addition to ongoing training, appropriate to the provider setting involved that addresses each of the requirements relating to matters described in subclauses (I) through (X); and
       >   - **(ii)** may include requirements relating to nutrition, access to physical activity, or any other subject area determined by the State to be necessary to promote child development or to protect children's health and safety.
       > - **(J)** *Compliance with State and local health and safety requirements* The plan shall include a certification that procedures are in effect to ensure that child care providers within the State, that provide services for which assistance is made available in accordance with this subchapter, comply with all applicable State and local health and safety requirements as described in subparagraph (I).
       > - **(K)** *Enforcement of licensing and other regulatory requirements*
       >   - **(i)** *Certification* The plan shall include a certification that the State, not later than 2 years after the date of enactment of the Child Care and Development Block Grant Act of 2014, shall have in effect policies and practices, applicable to licensing or regulating child care providers that provide services for which assistance is made available in accordance with this subchapter and the facilities of those providers, that—
-      >     - **(I)** ensure that individuals who are hired as licensing inspectors in the State are qualified to inspect those child care providers and facilities and have received training in related health and safety requirements, child development, child abuse prevention and detection, program management, and relevant law enforcement;
+      >     - **(I)** ensure that individuals who are hired as licensing inspectors in the State are qualified to inspect those child care providers and facilities and have received training in related health and safety requirements, and are trained in all aspects of the State’s licensure requirements;
       >     - **(II)** require licensing inspectors (or qualified inspectors designated by the lead agency) of those child care providers and facilities to perform inspections, with—
-      >       - **(aa)** not less than 1 prelicensure inspection for compliance with health, safety, and fire standards, of each such child care provider and facility in the State; and
-      >       - **(bb)** not less than annually, an inspection (which shall be unannounced) of each such child care provider and facility in the State for compliance with all child care licensing standards, which shall include an inspection for compliance with health, safety, and fire standards (although inspectors may or may not inspect for compliance with all 3 standards at the same time); and
-      >     - **(III)** require the ratio of licensing inspectors to such child care providers and facilities in the State to—
-      >       - **(aa)** be maintained at a level sufficient to enable the State to conduct inspections of such child care providers and facilities on a timely basis in accordance with Federal and State law; and
-      >       - **(bb)** be consistent with research findings and best practices.
+      >       - **(aa)** not less than 1 prelicensure inspection, for compliance with health, safety, and fire standards, of each such child care provider and facility in the State; and
+      >       - **(bb)** not less than annually, an inspection (which shall be unannounced) of each such child care provider and facility in the State for compliance with all child care licensing standards, which shall include an inspection for compliance with health, safety, and fire standards (inspectors may inspect for compliance with all 3 standards at the same time);
+      >     - **(III)** require the ratio of licensing inspectors to such child care providers and facilities in the State to be maintained at a level sufficient to enable the State to conduct inspections of such child care providers and facilities on a timely basis in accordance with Federal, State, and local law; and
+      >     - **(IV)** require licensing inspectors (or qualified inspectors designated by the lead agency) of child care providers and facilities to perform an annual inspection of each license-exempt provider in the State receiving funds under this subchapter (unless the provider is an eligible child care provider as described in section 658P(6)(B)) for compliance with health, safety, and fire standards, at a time to be determined by the State.
       >   - **(ii)** *Construction* The Secretary may offer guidance to a State, if requested by the State, on a research-based minimum standard regarding ratios described in clause (i)(III) and provide technical assistance to the State on meeting the minimum standard within a reasonable time period, but shall not prescribe a particular ratio.
       > - **(L)** *Compliance with child abuse reporting requirements* The plan shall include a certification that child care providers within the State will comply with the child abuse reporting requirements of section 106(b)(2)(B)(i) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)(2)(B)(i)).
-      > - **(M)** *Meeting the needs of certain populations* The plan shall describe how the State will develop and implement strategies (which may include the provision of compensation at higher payment rates and bonuses to child care providers, the provision of direct contracts or grants to community-based organizations, offering child care certificates to parents, or other means determined by the State) to increase the supply and improve the quality of child care for—
+      > - **(M)** *Meeting the needs of certain populations* The plan shall describe how the State will develop and implement strategies (which may include alternative reimbursement rates to child care providers, the provision of direct contracts or grants to community-based organizations, offering child care certificates to parents, or other means determined by the State) to increase the supply and improve the quality of child care services for—
       >   - **(i)** children in underserved areas;
       >   - **(ii)** infants and toddlers;
       >   - **(iii)** children with disabilities, as defined by the State; and
       >   - **(iv)** children who receive care during nontraditional hours.
       > - **(N)** *Protection for working parents*
       >   - **(i)** *Minimum period*
-      >     - **(I)** *12-month period* The plan shall demonstrate that each child who receives assistance under this subchapter in the State will be considered to meet all eligibility requirements for such assistance and will receive such assistance, for not less than 12 months before the State redetermines the eligibility of the child under this subchapter, regardless of a temporary change in the ongoing status of the child's parent as working or attending a job training or educational program or a change in family income for the child's family, if that family income does not exceed 85 percent of the State median income for a family of the same size.
-      >     - **(II)** *Fluctuations in earnings* The plan shall demonstrate how the State's processes for initial determination and redetermination of such eligibility take into account irregular fluctuations in earnings.
-      >   - **(ii)** *Redetermination process* The plan shall describe the procedures and policies that are in place to ensure that working parents (especially parents in families receiving assistance under the program of block grants to States for temporary assistance for needy families under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)) are not required to unduly disrupt their employment in order to comply with the State's requirements for redetermination of eligibility for assistance provided in accordance with this subchapter.
+      >     - **(I)** *12-month period* The plan shall demonstrate that each child who receives assistance under this subchapter in the State will be considered to meet all eligibility requirements for such assistance and will receive such assistance, for not less than 12 months before the State or designated local entity redetermines the eligibility of the child under this subchapter, regardless of a temporary change in the ongoing status of the child's parent as working or attending a job training or educational program or a change in family income for the child's family, if that family income does not exceed 85 percent of the State median income for a family of the same size.
+      >     - **(II)** *Fluctuations in earnings* The plan shall demonstrate how the State's or designated local entity’s processes for initial determination and redetermination of such eligibility take into account irregular fluctuations in earnings.
+      >   - **(ii)** *Redetermination process* The plan shall describe the procedures and policies that are in place to ensure that working parents (especially parents in families receiving assistance under the program of block grants to States for temporary assistance for needy families under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)) are not required to unduly disrupt their employment in order to comply with the State's or designated local entity’s requirements for redetermination of eligibility for assistance provided in accordance with this subchapter.
       >   - **(iii)** *Period before termination* At the option of the State, the plan shall demonstrate that the State will not terminate assistance provided to carry out this subchapter based on a factor consisting of a parent's loss of work or cessation of attendance at a job training or educational program for which the family was receiving the assistance, without continuing the assistance for a reasonable period of time, of not less than 3 months, after such loss or cessation in order for the parent to engage in a job search and resume work, or resume attendance at a job training or educational program, as soon as possible.
       >   - **(iv)** *Graduated phaseout of care* The plan shall describe the policies and procedures that are in place to allow for provision of continued assistance to carry out this subchapter, at the beginning of a new eligibility period under clause (i)(I), for children of parents who are working or attending a job training or educational program and whose family income exceeds the State's income limit to initially qualify for such assistance, if the family income for the family involved does not exceed 85 percent of the State median income for a family of the same size.
       > - **(O)** *Coordination with other programs*
-      >   - **(i)** *In general* The plan shall describe how the State, in order to expand accessibility and continuity of quality early childhood education and care, and assist children enrolled in prekindergarten, Early Head Start, or Head Start programs to receive full-day services, will efficiently coordinate the services supported to carry out this subchapter with—
-      >     - **(I)** programs carried out under the Head Start Act (42 U.S.C. 9831 et seq.), including the Early Head Start programs carried out under section 645A of that Act (42 U.S.C. 9840a);
-      >     - **(II)** programs carried out under part A of title I, and part B of title IV, of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311 et seq., 7171 et seq.);
-      >     - **(III)** programs carried out under section 619 and part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.);
-      >     - **(IV)** the maternal, infant, and early childhood home visiting programs authorized under section 511 of the Social Security Act (42 U.S.C. 711), as added by section 2951 of the Patient Protection and Affordable Care Act (Public Law 111–148);
-      >     - **(V)** State, Indian tribe or tribal organization, and locally funded early childhood education and care programs;
-      >     - **(VI)** programs serving homeless children and services of local educational agency liaisons for homeless children and youths designated under subsection (g)(1)(J)(ii) of section 722 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii));
-      >     - **(VII)** State agencies and programs serving children in foster care and the foster families of such children; and
-      >     - **(VIII)** other Federal programs supporting early childhood education and care activities, and, where applicable, child care programs funded through State veterans affairs offices.
-      >   - **(ii)** *Optional use of combined funds* If the State elects to combine funding for the services supported to carry out this subchapter with funding for any program described in subclauses (I) through (VII) of clause (i), the plan shall describe how the State will combine the multiple sets of funding and use the combined funding.
+      >   - **(i)** *In general* The plan shall describe how the State, in order to expand accessibility and continuity of care, and assist children enrolled in early childhood programs to receive full-day services, will efficiently, and to the extent practicable, coordinate the services supported to carry out this subchapter with programs operating at the Federal, State, and local levels for children in preschool programs, tribal early childhood programs, and other early childhood programs, including those serving infants and toddlers with disabilities, homeless children, and children in foster care.
+      >   - **(ii)** *Optional use of combined funds* If the State elects to combine funding for the services supported to carry out this subchapter with funding for any program described in clause (i), the plan shall describe how the State will combine the multiple sets of funding and use the combined funding.
       >   - **(iii)** *Rule of construction* Nothing in clause (i) shall be construed to affect the priority of children described in clause (i) to receive full-day prekindergarten or Head Start program services.
-      > - **(P)** *Public-private partnerships* The plan shall demonstrate how the State encourages partnerships among State agencies, other public agencies, Indian tribes and tribal organizations, and private entities to leverage existing service delivery systems (as of the date of the submission of the application containing the plan) for early childhood education and care and to increase the supply and quality of child care services for children who are less than 13 years of age, such as by implementing voluntary shared services alliance models.
-      > - **(Q)** *Priority for low-income populations* The plan shall describe the process the State proposes to use, with respect to investments made to increase access to programs providing high-quality early childhood education and care, to give priority for those investments to children of families in areas that have significant concentrations of poverty and unemployment and that do not have such programs.
+      > - **(P)** *Public-private partnerships* The plan shall demonstrate how the State encourages partnerships among State agencies, other public agencies, Indian tribes and tribal organizations, and private entities, including faith-based and community-based organizations, to leverage existing service delivery systems (as of the date of the submission of the application containing the plan) for child care and development services and to increase the supply and quality of child care services for children who are less than 13 years of age, such as by implementing voluntary shared services alliance models.
+      > - **(Q)** *Priority for low-income populations* The plan shall describe the process the State proposes to use, with respect to investments made to increase access to programs providing high-quality child care and development services, to give priority for those investments to children of families in areas that have significant concentrations of poverty and unemployment and that do not have such programs.
       > - **(R)** *Consultation* The plan shall include a certification that the State has developed the plan in consultation with the State Advisory Council on Early Childhood Education and Care designated or established pursuant to section 642B(b)(1)(A)(i) of the Head Start Act (42 U.S.C. 9837b(b)(1)(A)(i)).
-      > - **(S)** *Payment practices* The plan shall include a certification that the payment practices of child care providers in the State that serve children who receive assistance under this subchapter reflect generally accepted payment practices of child care providers in the State that serve children who do not receive assistance under this subchapter, so as to provide stability of funding and encourage more child care providers to serve children who receive assistance under this subchapter.
+      > - **(S)** *Payment practices* The plan shall include—
+      >   - **(i)** a certification that the payment practices of child care providers in the State that serve children who receive assistance under this subchapter reflect generally accepted payment practices of child care providers in the State that serve children who do not receive assistance under this subchapter, so as to provide stability of funding and encourage more child care providers to serve children who receive assistance under this subchapter; and
+      >   - **(ii)** an assurance that the State will, to the extent practicable, implement enrollment and eligibility policies that support the fixed costs of providing child care services by delinking provider reimbursement rates from an eligible child’s occasional absences due to holidays or unforseen circumstances such as illness.
       > - **(T)** *Early learning and developmental guidelines*
-      >   - **(i)** *In general* The plan shall include an assurance that the State will develop or implement early learning and developmental guidelines that are appropriate for children from birth through entry into kindergarten, describing what such children should know and be able to do, and covering the essential domains of early childhood education and care and early childhood development for use statewide by child care providers. Such child care providers shall—
-      >     - **(I)** be licensed or regulated under State law; and
-      >     - **(II)** not be a relative of all children for whom the provider provides child care services.
-      >   - **(ii)** *Alignment* The guidelines shall be research-based, developmentally appropriate, and aligned with State standards for education in kindergarten through grade 3.
-      >   - **(iii)** *Prohibition on use of funds* The plan shall include an assurance that funds received by the State to carry out this subchapter will not be used to develop or implement an assessment for children that—
+      >   - **(i)** *In general* The plan shall include an assurance that the State will maintain or implement early learning and developmental guidelines (or develop such guidelines if the State does not have such guidelines as of the date of enactment of the Child Care and Development Block Grant Act of 2014) that are appropriate for children from birth to kindergarten entry, describing what such children should know and be able to do, and covering the essential domains of early childhood development for use statewide by child care providers. Such guidelines shall—
+      >     - **(I)** be research-based, developmentally appropriate, and aligned with entry to kindergarten;
+      >     - **(II)** be implemented in consultation with the state educational agency and the State Advisory Council on Early Childhood Education and Care (designated or established pursuant to section 642B(b)(I)(A)(i) of the Head Start Act (42 U.S.C. 9837b(b)(1)(A)(i)); and
+      >     - **(III)** be updated as determined by the State.
+      >   - **(ii)** *Prohibition on use of funds* The plan shall include an assurance that funds received by the State to carry out this subchapter will not be used to develop or implement an assessment for children that—
       >     - **(I)** will be the sole basis for a child care provider being determined to be ineligible to participate in the program carried out under this subchapter;
       >     - **(II)** will be used as the primary or sole basis to provide a reward or sanction for an individual provider;
       >     - **(III)** will be used as the primary or sole method for assessing program effectiveness; or
-      >     - **(IV)** will be used to deny eligibility to participate in the program carried out under this subchapter.
-      >   - **(iv)** *Exceptions* Nothing in this subchapter shall preclude the State from using a single assessment (if appropriate) for children for—
+      >     - **(IV)** will be used to deny children eligibility to participate in the program carried out under this subchapter.
+      >   - **(iii)** *Exceptions* Nothing in this subchapter shall preclude the State from using a single assessment as determined by the State for children for—
       >     - **(I)** supporting learning or improving a classroom environment;
       >     - **(II)** targeting professional development to a provider;
       >     - **(III)** determining the need for health, mental health, disability, developmental delay, or family support services;
       >     - **(IV)** obtaining information for the quality improvement process at the State level; or
       >     - **(V)** conducting a program evaluation for the purposes of providing program improvement and parent information.
-      >   - **(v)** *No Federal control* Nothing in this section shall be construed to authorize an officer or employee of the Federal Government to—
-      >     - **(I)** mandate, direct, or control a State's early learning and developmental guidelines, developed in accordance with this section;
-      >     - **(II)** establish any criterion that specifies, defines, or prescribes the standards or measures that a State uses to establish, implement, or improve—
-      >       - **(aa)** early learning and developmental guidelines, or early learning standards, assessments, or accountability systems; or
-      >       - **(bb)** alignment of early learning and developmental guidelines with State standards for education in kindergarten through grade 3; or
-      >     - **(III)** require a State to submit such standards or measures for review.
+      >   - **(iv)** *No federal control* Nothing in this section shall be construed to authorize an officer or employee of the Federal Government to—
+      >     - **(I)** mandate, direct, control, or place conditions (outside of what is required by this subchapter) around adopting a State’s early learning and developmental guidelines developed in accordance with this section;
+      >     - **(II)** establish any criterion that specifies, defines, prescribes, or places conditions (outside of what is required by this subchapter) on a State adopting standards or measures that a State uses to establish, implement, or improve such guidelines, related accountability systems, or alignment of such guidelines with education standards; or
+      >     - **(III)** require a State to submit such guidelines for review.
       > - **(U)** *Disaster preparedness*
-      >   - **(i)** *In general* The plan shall demonstrate the manner in which the State will address the needs of children in child care services provided through programs authorized under this subchapter, including the need for safe child care, during the period before, during, and after a state of emergency declared by the Governor or a major disaster or emergency (as such terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122)).
+      >   - **(i)** *In general* The plan shall demonstrate the manner in which the State will address the needs of children in child care services provided through programs authorized under this subchapter, including the need for safe child care, for the period before, during, and after a state of emergency declared by the Governor or a major disaster or emergency (as such terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122)).
       >   - **(ii)** *Statewide child care disaster plan* Such plan shall include a statewide child care disaster plan for coordination of activities and collaboration, in the event of an emergency or disaster described in clause (i), among the State agency with jurisdiction over human services, the agency with jurisdiction over State emergency planning, the State lead agency, the State agency with jurisdiction over licensing of child care providers, the local resource and referral organizations, the State resource and referral system, and the State Advisory Council on Early Childhood Education and Care as provided for under section 642B(b) of the Head Start Act (42 U.S.C. 9837b(b)).
       >   - **(iii)** *Disaster plan components* The components of the disaster plan, for such an emergency or disaster, shall include—
-      >     - **(I)** guidelines for the continuation of child care services in the period following the emergency or disaster, including the provision of emergency and temporary child care services, and temporary operating standards for child care providers during that period;
-      >     - **(II)** evacuation, relocation, shelter-in-place, and lock-down procedures, and procedures for communication and reunification with families, continuity of operations, and accommodation of infants and toddlers, children with disabilities, and children with chronic medical conditions; and
-      >     - **(III)** procedures for staff and volunteer training and practice drills.
+      >     - **(I)** evacuation, relocation, shelter-in-place, and lock-down procedures, and procedures for communication and reunification with families, continuity of operations, and accommodation of infants and toddlers, children with disabilities, and children with chronic medical conditions;
+      >     - **(II)** guidelines for the continuation of child care services in the period following the emergency or disaster, which may include the provision of emergency and temporary child care services, and temporary operating standards for child care providers during that period; and
+      >     - **(III)** procedures for staff and volunteer emergency preparedness training and practice drills.
+      > - **(V)** *Business Technical Assistance* The plan shall describe how the State will develop and implement strategies to strengthen the business practices of child care providers to expand the supply, and improve the quality of, child care services.
 
   - **(3)** in paragraph (3)—
     - **(A)** in subparagraph (A), by striking “as required under” and inserting “in accordance with”;
@@ -187,28 +173,28 @@ Section 658B of the Child Care and Development Block Grant Act of 1990 (42 U.S.C
       - **(i)** by striking “The State” and inserting the following:
         > - **(i)** *In general* The State
 
-      - **(ii)** by striking “and any other activity that the State deems appropriate to realize any of the goals specified in paragraphs (2) through (5) of section 658A(b)” and inserting “activities that improve access to child care services, including use of procedures to permit immediate enrollment (after the initial eligibility determination and after a child is determined to be eligible) of homeless children while required documentation is obtained, training and technical assistance on identifying and serving homeless children and their families, and specific outreach to homeless families, and any other activity that the State determines to be appropriate to meet the purposes of this subchapter (which may include an activity described in clause (ii))”; and
+      - **(ii)** by striking “and any other activity that the State deems appropriate to realize any of the goals specified in paragraphs (2) through (5) of section 658A(b)” and inserting “activities that improve access to child care services, including the use of procedures to permit enrollment (after an initial eligibility determination) of homeless children while required documentation is obtained, training and technical assistance on identifying and serving homeless children and their families, and specific outreach to homeless families, and any other activity that the State determines to be appropriate to meet the purposes of this subchapter (which may include an activity described in clause (ii))”; and
       - **(iii)** by adding at the end the following:
-        > - **(ii)** *Report by Assistant Secretary for Children and Families*
+        > - **(ii)** *Report by the assistant secretary for children and families*
         >   - **(I)** *In general* Not later than September 30 of the first full fiscal year after the date of enactment of the Child Care and Development Block Grant Act of 2014, and September 30 of each fiscal year thereafter, the Secretary (acting through the Assistant Secretary for Children and Families of the Department of Health and Human Services) shall prepare a report that contains a determination about whether each State uses amounts provided to such State for the fiscal year involved under this subchapter in accordance with the priority for services described in clause (i).
         >   - **(II)** *Penalty for noncompliance* For any fiscal year that the report of the Secretary described in subclause (I) indicates that a State has failed to give priority for services in accordance with clause (i), the Secretary shall—
         >     - **(aa)** inform the State that the State has until the date that is 6 months after the Secretary has issued such report to fully comply with clause (i);
         >     - **(bb)** provide the State an opportunity to modify the State plan of such State, to make the plan consistent with the requirements of clause (i), and resubmit such State plan to the Secretary not later than the date described in item (aa); and
         >     - **(cc)** if the State does not fully comply with clause (i) and item (bb), by the date described in item (aa), withhold 5 percent of the funds that would otherwise be allocated to that State in accordance with this subchapter for the first full fiscal year after that date.
-        >   - **(III)** *Waiver for Extraordinary Circumstances* Notwithstanding subclause (II) the Secretary may grant a waiver to a State for one year to the penalty applied in subclause (II) if the Secretary determines there are extraordinary circumstances, such as a natural disaster, that prevent the State from complying with clause (i). If the Secretary does grant a waiver to a State under this section, the Secretary shall, within 30 days of granting such waiver, submit a report to the appropriate congressional committees on the circumstances of the waiver including the stated reason from the State on the need for a waiver, the expected impact of the waiver on children served under this program, and any such other relevant information the Secretary deems necessary.
+        >   - **(III)** *Waiver for extraordinary circumstances* Notwithstanding subclause (II) the Secretary may grant a waiver to a State for one year to the penalty applied in subclause (II) if the Secretary determines there are extraordinary circumstances, such as a natural disaster, that prevent the State from complying with clause (i). If the Secretary does grant a waiver to a State under this section, the Secretary shall, within 30 days of granting such waiver, submit a report to the appropriate congressional committees on the circumstances of the waiver including the stated reason from the State on the need for a waiver, the expected impact of the waiver on children served under this program, and any such other relevant information the Secretary deems necessary.
         > - **(iii)** *Child care resource and referral system*
         >   - **(I)** *In general* A State may use amounts described in clause (i) to establish or support a system of local or regional child care resource and referral organizations that is coordinated, to the extent determined appropriate by the State, by a statewide public or private nonprofit, community-based or regionally based, lead child care resource and referral organization.
         >   - **(II)** *Local or regional organizations* The local or regional child care resource and referral organizations supported as described in subclause (I) shall—
-        >     - **(aa)** provide parents in the State with consumer education information referred to in paragraph (2)(E) (except as otherwise provided in that paragraph), concerning the full range of child care options, analyzed by provider, including child care provided during nontraditional hours and through emergency child care centers, in their political subdivisions or regions;
-        >     - **(bb)** to the extent practicable, work directly with families who receive assistance under this subchapter to offer the families support and assistance, using information described in item (aa), to make an informed decision about which child care providers they will use, in an effort to ensure that the families are enrolling their children in high-quality care;
-        >     - **(cc)** collect and analyze data on the coordination of services and supports, including services under section 619 and part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.), for children with disabilities (as defined in section 602 of such Act (20 U.S.C. 1401));
-        >     - **(dd)** collect and analyze data on the supply of and demand for child care in political subdivisions or regions within the State and submit such data and analysis to the State;
-        >     - **(ee)** work to establish partnerships with public agencies and private entities to increase the supply and quality of child care services in the State; and
+        >     - **(aa)** provide parents in the State with consumer education information referred to in paragraph (2)(E) (except as otherwise provided in that paragraph), concerning the full range of child care options (including faith-based and community-based child care providers), analyzed by provider, including child care provided during nontraditional hours and through emergency child care centers, in their political subdivisions or regions;
+        >     - **(bb)** to the extent practicable, work directly with families who receive assistance under this subchapter to offer the families support and assistance, using information described in item (aa), to make an informed decision about which child care providers they will use, in an effort to ensure that the families are enrolling their children in the most appropriate child care setting to suit their needs and one that is of high quality (as determined by the State);
+        >     - **(cc)** collect data and provide information on the coordination of services and supports, including services under section 619 and part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431, et seq.), for children with disabilities (as defined in section 602 of such Act (20 U.S.C. 1401));
+        >     - **(dd)** collect data and provide information on the supply of and demand for child care services in political subdivisions or regions within the State and submit such information to the State;
+        >     - **(ee)** work to establish partnerships with public agencies and private entities, including faith-based and community-based child care providers, to increase the supply and quality of child care services in the State; and
         >     - **(ff)** as appropriate, coordinate their activities with the activities of the State lead agency and local agencies that administer funds made available in accordance with this subchapter.
 
     - **(C)** in subparagraph (D)—
-      - **(i)** by striking “1997 through 2002” and inserting “2015 through 2020”; and
-      - **(ii)** by striking “families described in paragraph (2)(H)” and inserting “families with children described in clause (i), (ii), (iii), or (iv) of paragraph (2)(M)”; and
+      - **(i)** by striking “1997 through 2002)” and inserting “2015 through 2020”; and
+      - **(ii)** by striking “other than families described in paragraph (2)(H)” and inserting “including or in addition to families with children described in clause (i), (ii), (iii), or (iv) of paragraph (2)(M)”; and
     - **(D)** by adding at the end the following:
       > - **(E)** *Direct services* From amounts provided to a State for a fiscal year to carry out this subchapter, the State shall—
       >   - **(i)** reserve the minimum amount required to be reserved under section 658G, and the funds for costs described in subparagraph (C); and
@@ -216,22 +202,22 @@ Section 658B of the Child Care and Development Block Grant Act of 1990 (42 U.S.C
 
   - **(4)** by striking paragraph (4) and inserting the following:
     > - **(4)** *Payment rates*
-    >   - **(A)** *In general* The State plan shall certify that payment rates for the provision of child care services for which assistance is provided in accordance with this subchapter are sufficient to ensure equal access for eligible children to child care services that are comparable to child care services in the State or substate area involved that are provided to children whose parents are not eligible to receive assistance under this subchapter or to receive child care assistance under any other Federal or State program and shall provide a summary of the facts relied on by the State to determine that such rates are sufficient to ensure such access.
+    >   - **(A)** *In general* The State plan shall certify that payment rates for the provision of child care services for which assistance is provided in accordance with this subchapter are sufficient to ensure equal access for eligible children to child care services that are comparable to child care services in the State or substate area involved that are provided to children whose parents are not eligible to receive assistance under this subchapter or to receive child care assistance under any other Federal or State program, and shall provide a summary of the facts relied on by the State to determine that such rates are sufficient to ensure such access.
     >   - **(B)** *Survey* The State plan shall—
-    >     - **(i)** demonstrate that the State has, after consulting with the State Advisory Council on Early Childhood Education and Care designated or established in section 642B(b)(1)(A)(i) of the Head Start Act (42 U.S.C. 9837b(b)(1)(A)(i)), local child care program administrators, local child care resource and referral agencies, and other appropriate entities, developed and conducted (not earlier than 2 years before the date of the submission of the application containing the State plan) a statistically valid and reliable survey of the market rates for child care services in the State (that reflects variations in the cost of child care services by geographic area, type of provider, and age of child);
-    >     - **(ii)** demonstrate that the State prepared a detailed report containing the results of the State market rates survey conducted pursuant to clause (i), and made the results of the survey widely available (not later than 30 days after the completion of such survey) through periodic means, including posting the results on the Internet;
+    >     - **(i)** demonstrate that the State has, after consulting with the State Advisory Council on Early Childhood Education and Care designated or established in section 642B(b)(1)(A)(i) of the Head Start Act (42 U.S.C. 9837b(b)(1)(A)(i)), local child care program administrators, local child care resource and referral agencies, and other appropriate entities, developed and conducted (not earlier than 2 years before the date of the submission of the application containing the State plan) a statistically valid and reliable survey of the market rates for child care services in the State (that reflects variations in the cost of child care services by geographic area, type of provider, and age of child) or an alternative methodology, such as a cost estimation model, that has been developed by the State lead agency;
+    >     - **(ii)** demonstrate that the State prepared a detailed report containing the results of the State market rates survey or alternative methodology conducted pursuant to clause (i), and made the results of the survey or alternative methodology widely available (not later than 30 days after the completion of such survey or alternative methodology) through periodic means, including posting the results on the Internet;
     >     - **(iii)** describe how the State will set payment rates for child care services, for which assistance is provided in accordance with this subchapter—
-    >       - **(I)** in accordance with the results of the market rates survey conducted pursuant to clause (i);
+    >       - **(I)** in accordance with the results of the market rates survey or alternative methodology conducted pursuant to clause (i);
     >       - **(II)** taking into consideration the cost of providing higher quality child care services than were provided under this subchapter before the date of enactment of the Child Care and Development Block Grant Act of 2014; and
     >       - **(III)** without, to the extent practicable, reducing the number of families in the State receiving such assistance to carry out this subchapter, relative to the number of such families on the date of enactment of that Act; and
-    >     - **(iv)** describe how the State will provide for timely payment for child care services provided in accordance with this subchapter.
+    >     - **(iv)** describe how the State will provide for timely payment for child care services provided under this subchapter.
     >   - **(C)** *Construction*
-    >     - **(i)** *No private right of action* Nothing in this paragraph shall be construed to create a private right of action.
+    >     - **(i)** *No private right of action* Nothing in this paragraph shall be construed to create a private right of action if the State acted in accordance with this paragraph.
     >     - **(ii)** *No prohibition of certain different rates* Nothing in this subchapter shall be construed to prevent a State from differentiating the payment rates described in subparagraph (B)(iii) on the basis of such factors as—
     >       - **(I)** geographic location of child care providers (such as location in an urban or rural area);
     >       - **(II)** the age or particular needs of children (such as the needs of children with disabilities and children served by child protective services);
-    >       - **(III)** whether the providers provide child care during weekend and other nontraditional hours; or
-    >       - **(IV)** the State's determination that such differentiated payment rates are needed to enable a parent to choose child care that is of high quality.
+    >       - **(III)** whether the providers provide child care services during weekend and other nontraditional hours; or
+    >       - **(IV)** the State’s determination that such differentiated payment rates may enable a parent to choose high-quality child care that best fits the parent’s needs.
 
   - **(5)** in paragraph (5), by inserting “(that is not a barrier to families receiving assistance under this subchapter)” after “cost sharing”.
 - **(c)** *Technical amendment* Section 658F(b)(2) of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858d(b)(2)) is amended by striking “section 658E(c)(2)(F)” and inserting “section 658E(c)(2)(I)”.
@@ -243,59 +229,52 @@ Section 658G of the Child Care and Development Block Grant Act of 1990 (42 U.S.C
 > ## § 658G. Activities to improve the quality of child care
 >
 > - **(a)** *Reservation*
->   - **(1)** *Reservation for activities relating to the quality of child care services* A State that receives funds to carry out this subchapter for a fiscal year referred to in paragraph (2) shall reserve and use a portion of such funds, in accordance with paragraph (2), for activities provided directly, or through grants or contracts with local child care resource and referral organizations or other appropriate entities, that are designed to improve the quality of child care services and increase parental options for, and access to, high-quality child care, provided in accordance with this subchapter.
+>   - **(1)** *Reservation for activities relating to the quality of child care services* A State that receives funds to carry out this subchapter for a fiscal year referred to in paragraph (2) shall reserve and use a portion of such funds, in accordance with paragraph (2), for activities provided directly, or through grants or contracts with local child care resource and referral organizations or other appropriate entities, that are designed to improve the quality of child care services and increase parental options for, and access to, high-quality child care, and is in alignment with a Statewide assessment of the State’s needs to carry out such services and care, provided in accordance with this subchapter.
 >   - **(2)** *Amount of reservations* Such State shall reserve and use—
 >     - **(A)** to carry out the activities described in paragraph (1), not less than—
->       - **(i)** 6 percent of the funds described in paragraph (1), for the first and second full fiscal years after the date of enactment of the Child Care and Development Block Grant Act of 2014;
->       - **(ii)** 8 percent of such funds, for the third and fourth full fiscal years after the date of enactment; and
->       - **(iii)** 10 percent of such funds, for the fifth full fiscal year after the date of enactment and each succeeding fiscal year; and
->     - **(B)** in addition to the funds reserved under subparagraph (A), 3 percent of the funds described in paragraph (1), for the first full fiscal year after the date of enactment and each succeeding fiscal year, to carry out the activities described in paragraph (1) and subsection (b)(4), as such activities relate to the quality of care for infants and toddlers.
-> - **(b)** *Activities* Funds reserved under subsection (a) shall be used to carry out not fewer than 2 of the following activities:
->   - **(1)** Supporting the training, professional development, and professional advancement of the child care workforce through activities such as—
->     - **(A)** offering child care providers training and professional development that is intentional and sequential and leads to a higher level of skill or certification;
->     - **(B)** establishing or supporting programs designed to increase the retention and improve the competencies of child care providers, including wage incentive programs and initiatives that establish tiered payment rates for providers that meet or exceed child care services guidelines, as defined by the State;
->     - **(C)** offering training, professional development, and educational opportunities for child care providers that relate to the use of developmentally appropriate and age-appropriate curricula, and early childhood teaching strategies, that are scientifically based and aligned with the social, emotional, physical, and cognitive development of children, including offering specialized training for child care providers who care for infants and toddlers, children who are English learners, and children with disabilities (as defined in section 602 of the Individuals with Disabilities Education Act (20 U.S.C. 1401));
->     - **(D)** providing training concerning the State early learning and developmental guidelines, where applicable, including training concerning early mathematics and early language and literacy development and effective instructional practices to support mathematics and language and literacy development in young children;
->     - **(E)** incorporating effective use of data to guide instruction and program improvement;
->     - **(F)** including effective behavior management strategies and training, including positive behavioral interventions and supports, that promote positive social and emotional development and reduce challenge behaviors;
->     - **(G)** at the option of the State, incorporating feedback from experts at the State’s institutions of higher education, as defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002), and other early childhood development experts and early childhood education and care experts;
->     - **(H)** providing training corresponding to the nutritional and physical activity needs of children to promote healthy development;
->     - **(I)** providing training or professional development for child care providers to serve and support children with disabilities;
->     - **(J)** providing training and outreach on engaging parents and families in culturally and linguistically appropriate ways to expand their knowledge, skills, and capacity to become meaningful partners in supporting their children's learning and development;
->     - **(K)** providing training or professional development for child care providers regarding the early neurological development of children; and
->     - **(L)** connecting child care staff members of child care providers with available Federal and State financial aid, or other resources, that would assist child care staff members in pursuing relevant postsecondary training.
->   - **(2)** Supporting the use of the early learning and developmental guidelines described in section 658E(c)(2)(T) by—
->     - **(A)** developing and implementing the State’s early learning and developmental guidelines; and
->     - **(B)** providing technical assistance to enhance early learning for preschool and school-aged children in order to promote language and literacy skills, foster school readiness, and support later school success.
->   - **(3)** Developing and implementing a tiered quality rating system for child care providers, which shall—
+>       - **(i)** 7 percent of the funds described in paragraph (1), for the first and second full fiscal years after the date of enactment of the Child Care and Development Block Grant Act of 2014;
+>       - **(ii)** 8 percent of such funds for the third and fourth full fiscal years after the date of enactment; and
+>       - **(iii)** 9 percent of such funds for the fifth and each succeeding full fiscal year after the date of enactment; and
+>     - **(B)** in addition to the funds reserved under subparagraph (A), 3 percent of the funds described in paragraph (1) received not later than the second full fiscal year after the date of enactment and received for each succeeding full fiscal year, to carry out the activities described in paragraph (1) and subsection (b)(4), as such activities relate to the quality of care for infants and toddlers.
+>   - **(3)** *State reservation amount* Nothing in this subsection shall preclude the State from reserving a larger percentage of funds to carry out the activities described in paragraph (1) and subsection (b).
+> - **(b)** *Activities* Funds reserved under subsection (a) shall be used to carry out no fewer than one of the following activities that will improve the quality of child care services provided in the State:
+>   - **(1)** Supporting the training and professional development of the child care workforce through activities such as those included under section 658E(c)(2)(G), in addition to—
+>     - **(A)** offering training and professional development opportunities for child care providers that relate to the use of scientifically-based, developmentally-appropriate and age-appropriate strategies to promote the social, emotional, physical, and cognitive development of children, including those related to nutrition and physical activity, and offering specialized training for child care providers caring for those populations prioritized in section 658E(c)(2)(Q), and children with disabilities;
+>     - **(B)** incorporating the effective use of data to guide program improvement;
+>     - **(C)** including effective behavior management strategies and training, including positive behavior interventions and support models, that promote positive social and emotional development and reduce challenging behaviors, including reducing expulsions of preschool-aged children for such behaviors;
+>     - **(E)** providing training and outreach on engaging parents and families in culturally and linguistically appropriate ways to expand their knowledge, skills, and capacity to become meaningful partners in supporting their children’s positive development;
+>     - **(F)** providing training corresponding to the nutritional and physical activity needs of children to promote healthy development;
+>     - **(G)** providing training or professional development for child care providers regarding the early neurological development of children; and
+>     - **(H)** connecting child care staff members of child care providers with available Federal and State financial aid, or other resources, that would assist child care staff members in pursuing relevant postsecondary training.
+>   - **(2)** Improving upon the development or implementation of the early learning and developmental guidelines described in section 658E(c)(2)(T) by providing technical assistance to eligible child care providers that enhances the cognitive, physical, social and emotional development, including early childhood development, of participating preschool and school-aged children and supports their overall well-being.
+>   - **(3)** Developing, implementing, or enhancing a tiered quality rating system for child care providers and services, which may—
 >     - **(A)** support and assess the quality of child care providers in the State;
->     - **(B)** build on licensing standards and other State regulatory standards for such providers;
->     - **(C)** be designed to improve the quality of different types of child care providers;
->     - **(D)** describe the quality of early learning facilities;
->     - **(E)** build the capacity of State early childhood education and care programs and communities to promote parents’ and families’ understanding of the State’s early childhood education and care system and the ratings of the programs in which the child is enrolled; and
->     - **(F)** provide, to the maximum extent practicable, financial incentives and other supports designed to help child care providers achieve and sustain higher levels of quality.
+>     - **(B)** build on State licensing standards and other State regulatory standards for such providers;
+>     - **(C)** be designed to improve the quality of different types of child care providers and services;
+>     - **(D)** describe the safety of child care facilities;
+>     - **(E)** build the capacity of State early childhood programs and communities to promote parents’ and families’ understanding of the State’s early childhood system and the ratings of the programs in which the child is enrolled;
+>     - **(F)** provide, to the maximum extent practicable, financial incentives and other supports designed to expand the full diversity of child care options and help child care providers improve the quality of services; and
+>     - **(G)** accommodate a variety of distinctive approaches to early childhood education and care, including but not limited to, those practiced in faith-based settings, community-based settings, child-centered settings, or similar settings that offer a distinctive approach to early childhood development.
 >   - **(4)** Improving the supply and quality of child care programs and services for infants and toddlers through activities, which may include—
->     - **(A)** establishing or expanding neighborhood-based high-quality comprehensive family and child development centers, which may serve as resources to child care providers in order to improve the quality of early childhood education and care and early childhood development services provided to infants and toddlers from low-income families and to help eligible child care providers improve their capacity to offer high-quality care to infants and toddlers from low-income families;
+>     - **(A)** establishing or expanding high-quality community or neighborhood-based family and child development centers, which may serve as resources to child care providers in order to improve the quality of early childhood services provided to infants and toddlers from low-income families and to help eligible child care providers improve their capacity to offer high-quality, age-appropriate care to infants and toddlers from low-income families;
 >     - **(B)** establishing or expanding the operation of community or neighborhood-based family child care networks;
->     - **(C)** supporting statewide networks of infant and toddler child care specialists, including specialists who have knowledge regarding infant and toddler development and curriculum and program implementation as well as the ability to coordinate services with early intervention specialists who provide services for infants and toddlers with disabilities under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.);
->     - **(D)** carrying out initiatives to improve the quality of the infant and toddler child care workforce, such as providing relevant training, professional development, or mentoring opportunities and linking such opportunities to career pathways, developing career pathways for providers in such workforce, and improving the State cre­den­tial­ing of eligible providers caring for infants and toddlers;
->     - **(E)** if applicable, developing infant and toddler components within the State’s quality rating system described in paragraph (3) for child care providers for infants and toddlers, or the development of infant and toddler components in a State’s child care licensing regulations or early learning and developmental guidelines;
->     - **(F)** improving the ability of parents to access information about high-quality infant and toddler care; and
->     - **(G)** carrying out other activities determined by the State to improve the quality of infant and toddler care provided in the State, and for which there is evidence that the activities will lead to improved infant and toddler health and safety, infant and toddler development, or infant and toddler well-being, including providing training (including training in safe sleep practices, first aid, and cardiopulmonary resuscitation).
->   - **(5)** Promoting broad child care provider participation in the quality rating system described in paragraph (3).
->   - **(6)** Establishing or expanding a statewide system of child care resource and referral services.
->   - **(7)** Facilitating compliance with State requirements for inspection, monitoring, training, and health and safety, and with State licensing standards.
->   - **(8)** Evaluating and assessing the quality and effectiveness of child care programs and services offered in the State, including evaluating how such programs and services may improve the overall school readiness of young children.
->   - **(9)** Supporting child care providers in the pursuit of accreditation by an established national accrediting body with demonstrated, valid, and reliable program standards of high quality.
->   - **(10)** Supporting State or local efforts to develop or adopt high-quality program standards relating to health, mental health, nutrition, physical activity, and physical development and providing resources to enable eligible child care providers to meet, exceed, or sustain success in meeting or exceeding, such standards.
->   - **(11)** Carrying out other activities determined by the State to improve the quality of child care services provided in the State, and for which measurement of outcomes relating to improved provider preparedness, child safety, child well-being, or school readiness is possible.
-> - **(c)** *Certification* Beginning with fiscal year 2015, at the beginning of each fiscal year, the State shall annually submit to the Secretary a certification containing an assurance that the State was in compliance with subsection (a) during the preceding fiscal year and a description of how the State used funds received under this subchapter to comply with subsection (a) during that preceding fiscal year.
+>     - **(C)** promoting and expanding child care providers’ ability to provide developmentally appropriate services for infants and toddlers through training and professional development; coaching and technical assistance on this age group’s unique needs from statewide networks of qualified infant-toddler specialists; and improved coordination with early intervention specialists who provide services for infants and toddlers with disabilities under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.);
+>     - **(D)** if applicable, developing infant and toddler components within the State’s quality rating system described in paragraph (3) for child care providers for infants and toddlers, or the development of infant and toddler components in a State’s child care licensing regulations or early learning and development guidelines;
+>     - **(E)** improving the ability of parents to access transparent and easy to understand consumer information about high-quality infant and toddler care; and
+>     - **(F)** carrying out other activities determined by the State to improve the quality of infant and toddler care provided in the State, and for which there is evidence that the activities will lead to improved infant and toddler health and safety, infant and toddler cognitive and physical development, or infant and toddler well-being, including providing health and safety training (including training in safe sleep practices, first aid, and cardiopulmonary resuscitation) for providers and caregivers.
+>   - **(5)** Establishing or expanding a statewide system of child care resource and referral services.
+>   - **(6)** Facilitating compliance with State requirements for inspection, monitoring, training, and health and safety, and with State licensing standards.
+>   - **(7)** Evaluating and assessing the quality and effectiveness of child care programs and services offered in the State, including evaluating how such programs positively impact children.
+>   - **(8)** Supporting child care providers in the voluntary pursuit of accreditation by a national accrediting body with demonstrated, valid, and reliable program standards of high quality.
+>   - **(9)** Supporting State or local efforts to develop or adopt high-quality program standards relating to health, mental health, nutrition, physical activity, and physical development.
+>   - **(10)** Carrying out other activities determined by the State to improve the quality of child care services provided in the State, and for which measurement of outcomes relating to improved provider preparedness, child safety, child well-being, or entry to kindergarten is possible.
+> - **(c)** *Certification* Beginning with fiscal year 2016, at the beginning of each fiscal year, the State shall annually submit to the Secretary a certification containing an assurance that the State was in compliance with subsection (a) during the preceding fiscal year and a description of how the State used funds received under this subchapter to comply with subsection (a) during that preceding fiscal year.
 > - **(d)** *Reporting Requirements* Each State receiving funds under this subchapter shall prepare and submit an annual report to the Secretary, which shall include information about—
 >   - **(1)** the amount of funds that are reserved under subsection (a);
 >   - **(2)** the activities carried out under this section; and
 >   - **(3)** the measures that the State will use to evaluate the State's progress in improving the quality of child care programs and services in the State.
-> - **(e)** *Technical assistance* The Secretary shall offer technical assistance, in accordance with section 658I(a)(3), which may include technical assistance through the use of grants or cooperative agreements, to States for the activities described in subsection (b).
-> - **(f)** *Construction* Nothing in this section shall be construed as providing the Secretary the authority to regulate, direct, or dictate State child care quality activities or progress in implementing those activities.
+> - **(e)** *Technical assistance* The Secretary shall offer technical assistance, in accordance with section 658I(a)(3), which may include technical assistance through the use of grants or cooperative agreements, to States for the activities described in subsection (b) at the request of the State.
+> - **(f)** *Construction* Nothing in this section shall be construed as providing the Secretary the authority to regulate, direct, dictate, or place conditions (outside of what is required by this subchapter) on a State adopting specific State child care quality activities or progress in implementing those activities.
 
 ## § 7. Criminal background checks
 
@@ -307,13 +286,13 @@ The Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.) 
 >   - **(1)** requirements, policies, and procedures to require and conduct criminal background checks for child care staff members (including prospective child care staff members) of child care providers described in subsection (c)(1); and
 >   - **(2)** licensing, regulation, and registration requirements, as applicable, that prohibit the employment of child care staff members as described in subsection (c).
 > - **(b)** *Requirements* A criminal background check for a child care staff member under subsection (a) shall include—
->   - **(1)** a search of each State criminal and sex offender registry or repository in the State where the child care staff member resides and each State where such staff member resided during the preceding 10 years;
->   - **(2)** a search of State-based child abuse and neglect registries and databases in the State where the child care staff member resides and each State where such staff member resided during the preceding 10 years;
+>   - **(1)** a search of the State criminal and sex offender registry or repository in the State where the child care staff member resides, and each State where such staff member resided during the preceding 5 years;
+>   - **(2)** a search of State-based child abuse and neglect registries and databases in the State where the child care staff member resides, and each State where such staff member resided during the preceding 5 years;
 >   - **(3)** a search of the National Crime Information Center;
 >   - **(4)** a Federal Bureau of Investigation fingerprint check using the Integrated Automated Fingerprint Identification System; and
 >   - **(5)** a search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.).
 > - **(c)** *Prohibitions*
->   - **(1)** *Child care staff members* A child care staff member shall be ineligible for employment by a child care provider that is licensed, regulated, or registered by the State or for which assistance is provided in accordance with this subchapter, if such individual—
+>   - **(1)** *Child care staff members* A child care staff member shall be ineligible for employment by a child care provider that is receiving assistance under this subchapter if such individual—
 >     - **(A)** refuses to consent to the criminal background check described in subsection (b);
 >     - **(B)** knowingly makes a materially false statement in connection with such criminal background check;
 >     - **(C)** is registered, or is required to be registered, on a State sex offender registry or repository or the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.); or
@@ -323,20 +302,20 @@ The Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.) 
 >       - **(iii)** a crime against children, including child pornography;
 >       - **(iv)** spousal abuse;
 >       - **(v)** a crime involving rape or sexual assault;
->       - **(vi)** kidnaping;
+>       - **(vi)** kidnapping;
 >       - **(vii)** arson;
 >       - **(viii)** physical assault or battery; or
 >       - **(ix)** subject to subsection (e)(4), a drug-related offense committed during the preceding 5 years; or
 >     - **(E)** has been convicted of a violent misdemeanor committed as an adult against a child, including the following crimes: child abuse, child endangerment, sexual assault, or of a misdemeanor involving child pornography.
->   - **(2)** *Child care providers* A child care provider described in paragraph (1) shall be ineligible for assistance provided in accordance with this subchapter if the provider employs a staff member who is ineligible for employment under paragraph (1).
+>   - **(2)** *Child care providers* A child care provider described in subsection (i)(1) shall be ineligible for assistance provided in accordance with this subchapter if the provider employs a staff member who is ineligible for employment under paragraph (1).
 > - **(d)** *Submission of requests for background checks*
 >   - **(1)** *In general* A child care provider covered by subsection (c) shall submit a request, to the appropriate State agency designated by a State, for a criminal background check described in subsection (b), for each child care staff member (including prospective child care staff members) of the provider.
 >   - **(2)** *Staff members* Subject to paragraph (4), in the case of an individual who became a child care staff member before the date of enactment of the Child Care and Development Block Grant Act of 2014, the provider shall submit such a request—
->     - **(A)** prior to the last day described in subsection (i)(1); and
+>     - **(A)** prior to the last day described in subsection (j)(1); and
 >     - **(B)** not less often than once during each 5-year period following the first submission date under this paragraph for that staff member.
 >   - **(3)** *Prospective staff members* Subject to paragraph (4), in the case of an individual who is a prospective child care staff member on or after that date of enactment, the provider shall submit such a request—
 >     - **(A)** prior to the date the individual becomes a child care staff member of the provider; and
->     - **(B)** not less often than once during each 5-year period following the first submission date under this paragraph for that staff member.
+>     - **(B)** not less than once during each 5-year period following the first submission date under this paragraph for that staff member.
 >   - **(4)** *Background check for another child care provider* A child care provider shall not be required to submit a request under paragraph (2) or (3) for a child care staff member if—
 >     - **(A)** the staff member received a background check described in subsection (b)—
 >       - **(i)** within 5 years before the latest date on which such a submission may be made; and
@@ -344,11 +323,11 @@ The Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.) 
 >     - **(B)** the State provided to the first provider a qualifying background check result, consistent with this subchapter, for the staff member; and
 >     - **(C)** the staff member is employed by a child care provider within the State, or has been separated from employment from a child care provider within the State for a period of not more than 180 consecutive days.
 > - **(e)** *Background check results and appeals*
->   - **(1)** *Background check results* The State shall carry out the request of a child care provider for a criminal background check as expeditiously as possible, but in not to exceed 45 days after the date on which such request was submitted, and shall provide the results of the criminal background check to such provider and to the current or prospective staff member.
+>   - **(1)** *Background check results* The State shall carry out the request of a child care provider for a criminal background check as expeditiously as possible, but not to exceed 45 days after the date on which such request was submitted, and shall provide the results of the criminal background check to such provider and to the current or prospective staff member.
 >   - **(2)** *Privacy*
 >     - **(A)** *In General* The State shall provide the results of the criminal background check to the provider in a statement that indicates whether a child care staff member (including a prospective child care staff member) is eligible or ineligible for employment described in subsection (c), without revealing any disqualifying crime or other related information regarding the individual.
 >     - **(B)** *Ineligible staff member* If the child care staff member is ineligible for such employment due to the background check, the State will, when providing the results of the background check, include information related to each disqualifying crime, in a report to the staff member or prospective staff member.
->     - **(C)** *Public release of results* No State shall publicly release or share the results of individual background checks, however, such results of background checks may be included in the development or dissemination of local or statewide data related to background checks, if such results are not individually identifiable.
+>     - **(C)** *Public release of results* No State shall publicly release or share the results of individual background checks, except States may release aggregated data by crime as listed under subsection (c)(1)(D) from background check results, as long as such data is not personally identifiable information.
 >   - **(3)** *Appeals*
 >     - **(A)** *In General* The State shall provide for a process by which a child care staff member (including a prospective child care staff member) may appeal the results of a criminal background check conducted under this section to challenge the accuracy or completeness of the information contained in such member’s criminal background report.
 >     - **(B)** *Appeals process* The State shall ensure that—
@@ -356,66 +335,69 @@ The Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.) 
 >       - **(ii)** a child care staff member will receive instructions about how to complete the appeals process if the child care staff member wishes to challenge the accuracy or completeness of the information contained in such member's criminal background report; and
 >       - **(iii)** the appeals process is completed in a timely manner for each child care staff member.
 >   - **(4)** *Review* The State may allow for a review process through which the State may determine that a child care staff member (including a prospective child care staff member) disqualified for a crime specified in subsection (c)(1)(D)(ix) is eligible for employment described in subsection (c)(1), notwithstanding subsection (c). The review process shall be consistent with title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.).
->   - **(5)** *No private right of action* Nothing in this section shall be construed to create a private right of action if the provider is in compliance with State regulations and requirements.
+>   - **(5)** *No private right of action* Nothing in this section shall be construed to create a private right of action if a provider has acted in accordance with this section.
 > - **(f)** *Fees for background checks* Fees that a State may charge for the costs of processing applications and administering a criminal background check as required by this section shall not exceed the actual costs to the State for the processing and administration.
-> - **(g)** *Construction*
+> - **(g)** *Transparency* The State must ensure that the policies and procedures under section 658H are published on the Web site (or otherwise publicly available venue in the absence of a Web site) of the State and the Web sites of local lead agencies.
+> - **(h)** *Construction*
 >   - **(1)** *Disqualification for other crimes* Nothing in this section shall be construed to prevent a State from disqualifying individuals as child care staff members based on their conviction for crimes not specifically listed in this section that bear upon the fitness of an individual to provide care for and have responsibility for the safety and well-being of children.
 >   - **(2)** *Rights and Remedies* Nothing in this section shall be construed to alter or otherwise affect the rights and remedies provided for child care staff members residing in a State that disqualifies individuals as child care staff members for crimes not specifically provided for under this section.
-> - **(h)** *Definitions* In this section—
+> - **(i)** *Definitions* In this section—
 >   - **(1)** the term child care provider means a center-based child care provider, a family child care provider, or another provider of child care services for compensation and on a regular basis that—
 >     - **(A)** is not an individual who is related to all children for whom child care services are provided; and
->     - **(B)** is licensed, regulated, or registered under State law or receives assistance provided in accordance with this subchapter; and
+>     - **(B)** is licensed, regulated, or registered under State law or receives assistance provided under this subchapter; and
 >   - **(2)** the term child care staff member means an individual (other than an individual who is related to all children for whom child care services are provided)—
->     - **(A)** who is employed by a child care provider for compensation;
->     - **(B)** whose activities involve the care or supervision of children for a child care provider or unsupervised access to children who are cared for or supervised by a child care provider; or
->     - **(C)** who is a family child care provider.
-> - **(i)** *Effective date*
+>     - **(A)** who is employed by a child care provider for compensation; or
+>     - **(B)** whose activities involve the care or supervision of children for a child care provider or unsupervised access to children who are cared for or supervised by a child care provider.
+> - **(j)** *Effective date*
 >   - **(1)** *In general* A State that receives funds under this subchapter shall meet the requirements of this section for the provision of criminal background checks for child care staff members described in subsection (d)(1) not later than the last day of the second full fiscal year after the date of enactment of the Child Care and Development Block Grant Act of 2014.
 >   - **(2)** *Extension* The Secretary may grant a State an extension of time, of not more than 1 fiscal year, to meet the requirements of this section if the State demonstrates a good faith effort to comply with the requirements of this section.
 >   - **(3)** *Penalty for noncompliance* Except as provided in paragraphs (1) and (2), for any fiscal year that a State fails to comply substantially with the requirements of this section, the Secretary shall withhold 5 percent of the funds that would otherwise be allocated to that State in accordance with this subchapter for the following fiscal year.
 
 ## § 8. Reports and information
 
-- **(a)** *Administration* Section 658I of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858g) is amended—
-  - **(1)** in subsection (a)—
-    - **(A)** in paragraph (2)—
-      - **(i)** by inserting a comma after “publish”; and
-      - **(ii)** by striking “and” at the end;
-    - **(B)** by striking paragraph (3) and inserting the following:
-      > - **(3)** provide technical assistance to States (which may include providing assistance on a reimbursable basis), consistent with (as appropriate) scientifically valid research, to carry out this subchapter;
+- **(a)** *Administration* Section 658I(a) of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858g(a)) is amended—
+  - **(1)** in paragraph (2)—
+    - **(A)** by inserting a comma after “publish”; and
+    - **(B)** by striking “and” at the end;
+  - **(2)** by striking paragraph (3) and inserting the following:
+    > - **(3)** provide technical assistance, such as business technical assistance, as described in section 658E(c)(2)(V), to States (which may include providing assistance on a reimbursable basis) which shall be provided by qualified experts on practices grounded in scientifically valid research, where appropriate, to carry out this subchapter;
 
-    - **(C)** by adding at the end the following:
-      > - **(4)** disseminate, for voluntary informational purposes, information on practices that scientifically valid research indicates are most successful in improving the quality of programs that receive assistance with this subchapter;
-      > - **(5)** after consultation with the Secretary of Education and the heads of any other Federal agencies involved, issue guidance, and disseminate information on best practices, regarding use of funding combined by States as described in section 658E(c)(2)(O)(ii), consistent with law other than this subchapter.
+  - **(3)** by adding at the end the following:
+    > - **(4)** disseminate, for voluntary informational purposes, information on practices that scientifically valid research indicates are most successful in improving the quality of programs that receive assistance with this subchapter; and
+    > - **(5)** after consultation with the heads of any other Federal agencies involved, issue guidance and disseminate information on best practices regarding the use of funding combined by States as described in section 658E(c)(2)(O)(ii), consistent with laws other than this subchapter.
 
-  - **(2)** by adding at the end the following:
-    > - **(c)** *Prohibition* Nothing in this subchapter shall be construed as providing the Secretary the authority to permit States to alter the eligibility requirements for eligible children, including work requirements that apply to the parents of eligible children.
-
-- **(b)** *Requests for relief* Section 658I of the Child Care and Development Block Grant Act of 1990, as amended by subsection (a), is further amended by adding at the end the following:
-  > - **(d)** *Request for relief*
-  >   - **(1)** *In general* The State may submit to the Secretary a request for relief from any provision of Federal law (including a regulation, policy, or procedure) affecting the delivery of child care services with Federal funds, other than this subchapter, that conflicts with a requirement of this subchapter.
-  >   - **(2)** *Contents* Such request shall—
-  >     - **(A)** detail the provision of Federal law that conflicts with that requirement;
-  >     - **(B)** describe how modifying compliance with that provision of Federal law to meet the requirements of this subchapter will, by itself, improve delivery of child care services for children in the State; and
-  >     - **(C)** certify that the health, safety, and well-being of children served through assistance received under this subchapter will not be compromised as a result.
-  >   - **(3)** *Consultation* The Secretary shall consult with the State submitting the request and the head of each Federal agency (other than the Secretary) with responsibility for administering the Federal law detailed in the State’s request. The consulting parties shall jointly identify—
-  >     - **(A)** any provision of Federal law (including a regulation, policy, or procedure) for which a waiver is necessary to enable the State to provide services in accordance with the request; and
-  >     - **(B)** any corresponding waiver.
-  >   - **(4)** *Waivers* Notwithstanding any other provision of law, and after the joint identification described in paragraph (3), the head of the Federal agency involved shall have the authority to waive any statutory provision administered by that agency, or any regulation, policy, or procedure issued by that agency, that has been so identified, unless the head of the Federal agency determines that such a waiver is inconsistent with the objectives of this subchapter or the Federal law from which relief is sought.
-  >   - **(5)** *Approval* Within 90 days after the receipt of a State’s request under this subsection, the Secretary shall inform the State of the Secretary’s approval or disapproval of the request. If the plan is disapproved, the Secretary shall inform the State, in writing, of the reasons for the disapproval and give the State the opportunity to amend the request.
-  >   - **(6)** *Duration* The Secretary may approve a request under this subsection for a period of not more than 3 years, and may renew the approval for additional periods of not more than 3 years.
-  >   - **(7)** *Termination* The Secretary shall terminate approval of a request for relief authorized under this subsection if the Secretary determines, after notice and opportunity for a hearing, that the performance of a State granted relief under this subsection has been inadequate, or if such relief is no longer necessary to achieve its original purposes.
+- **(b)** *Request For Relief* Section 658I of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858g), as amended by subsection (a), is further amended by adding at the end of the following:
+  > - **(c)** *Request for Relief*
+  >   - **(1)** *In general* The Secretary may waive for a period of not more than three years any provision under this subchapter or sanctions imposed upon a State in accordance with subsection (b)(2) upon the State’s request for such a waiver if the Secretary finds that—
+  >     - **(A)** the request describes one or more conflicting or duplicative requirements preventing the effective delivery of child care services to justify a waiver, extraordinary circumstances, such as natural disaster or financial crisis, or an extended period of time for a State legislature to enact legislation to implement the provisions of this subchapter;
+  >     - **(B)** such circumstances included in the request prevent the State from complying with any statutory or regulatory requirements of this subchapter;
+  >     - **(C)** the waiver will, by itself, contribute to or enhance the State’s ability to carry out the purposes of this subchapter; and,
+  >     - **(D)** the waiver will not contribute to inconsistency with the objectives of this law.
+  >   - **(2)** *Contents* Such request shall be provided to the Secretary in writing and will—
+  >     - **(A)** detail each sanction or provision within this subchapter that the State seeks relief from;
+  >     - **(B)** describe how a waiver from that sanction or provision of this subchapter will, by itself, improve delivery of child care services for children in the State; and
+  >     - **(C)** certify that the health, safety, and well-being of children served through assistance received under this subchapter will not be compromised as a result of the waiver.
+  >   - **(3)** *Approval* Within 90 days after the receipt of a State’s request under this subsection, the Secretary shall inform the State of approval or disapproval of the request. If the plan is disapproved, the Secretary shall, at this time, inform the State, the Committee on Education and the Workforce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate of the reasons for the disapproval and give the State the opportunity to amend the request. In the case of approval, the Secretary shall, within 30 days of granting such waiver, notify and submit a report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate on the circumstances of the waiver including each specific sanction or provision waived, the reason as given by the State of the need for a waiver, and the expected impact of the waiver on children served under this program.
+  >   - **(4)** *External conditions* The Secretary shall not require or impose any new or additional requirements in exchange for receipt of a waiver if such requirements are not specified in this subchapter.
+  >   - **(5)** *Duration* The Secretary may approve a request under this subsection for a period not to exceed three years, unless a renewal is granted under paragraph (7).
+  >   - **(6)** *Termination* The Secretary shall terminate approval of a request for a waiver authorized under this subsection if the Secretary determines, after notice and opportunity for a hearing, that the performance of a State granted relief under this subsection has been inadequate, or if such relief is no longer necessary to achieve its original purposes.
+  >   - **(7)** *Renewal* The Secretary may approve or disapprove a request from a State for renewal of an existing waiver under this subchapter for a period no longer than one year. A State seeking to renew their waiver approval must inform the Secretary of this intent no later than 30 days prior to the expiration date of the waiver. The State shall re-certify in its extension request the provisions in paragraph (2) of this subchapter, and shall also explain the need for additional time of relief from such sanction(s) or provisions approved under this law as provided in this subchapter.
+  >   - **(8)** *Restrictions* Nothing in this subchapter shall be construed as providing the Secretary the authority to permit States to alter the eligibility requirements for eligible children, including work requirements, job training, or educational program participation, that apply to the parents of eligible children under this subchapter. Nothing in this subsection shall be construed to allow the Secretary to waive anything related to his or her authority under this subchapter.
 
 - **(c)** *Reports* Section 658K(a) of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858i(a)) is amended—
   - **(1)** in paragraph (1)(B)—
     - **(A)** in clause (ix), by striking “and” at the end;
-    - **(B)** in clause (x), by inserting “and” at the end; and
-    - **(C)** by inserting after clause (x), the following:
+    - **(B)** in clause (x), by striking the semicolon at the end and inserting “; and”; and
+    - **(C)** by adding at the end the following:
       > - **(xi)** whether the children receiving assistance under this subchapter are homeless children;
 
   - **(2)** in paragraph (2)—
-    - **(A)** in the matter preceding subparagraph (A), by striking “1997” and inserting “2014”; and
-    - **(B)** in subparagraph (A), by striking “section 658P(5)” and inserting “section 658P(6)”.
+    - **(A)** in the matter preceding subparagraph (A), by striking “December 31, 1997” and all that follows through “thereafter”, and inserting “1 year after the date of the enactment of the Child Care and Development Block Grant Act of 2014, and annually thereafter,”;
+    - **(B)** in subparagraph (A), by striking “section 658P(5)” and inserting “section 658P(6)”;
+    - **(C)** in subparagraph (E) by striking the period at the end and inserting “; and”; and
+    - **(D)** by adding at the end the following:
+      > - **(F)** the number of child fatalities occurring among children while in the care and facility of child care providers receiving assistance under this subchapter, listed by type of child care provider and indicating whether the providers (excluding child care providers described in section 658P(6)(B)) are licensed or license-exempt.
+
 - **(d)** *Report by Secretary* Section 658L of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858j) is amended—
   - **(1)** by striking the section heading and inserting the following:
     > ## § 658L. Reports, hotline, and Web site
@@ -423,31 +405,32 @@ The Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.) 
   - **(2)** by striking “Not later” and inserting the following:
     > - **(a)** *Report by Secretary* Not later
 
-  - **(3)** by striking “1998” and inserting “2016”; and
-  - **(4)** by striking “to the Committee” and all that follows through “of the Senate” and inserting “to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate”; and
-  - **(5)** by adding at the end the following:
+  - **(3)** by striking “1998” and inserting “2016”;
+  - **(4)** by striking “to the Committee” and all that follows through “of the Senate” and inserting “to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate”;
+  - **(5)** by inserting after “States.” the following:
+  - **(6)** by adding at the end the following:
     > - **(b)** *National toll-Free hotline and Web site*
-    >   - **(1)** *In general* The Secretary shall operate a national toll-free hotline and Web site, to—
-    >     - **(A)** develop and disseminate publicly available child care consumer education information for parents and help parents access safe, affordable, and quality child care in their community; and
-    >     - **(B)** to allow persons to report (anonymously if desired) suspected child abuse or neglect, or violations of health and safety requirements, by an eligible child care provider that receives assistance under this subchapter.
+    >   - **(1)** *In general* The Secretary shall operate, directly or through the use of grants or contracts, a national toll-free hotline and Web site, to—
+    >     - **(A)** develop and disseminate publicly available child care consumer education information for parents and help parents access safe and quality child care services in their community, with a range of price options, that best suits their family’s needs; and
+    >     - **(B)** to allow persons to report (anonymously if desired) suspected child abuse or neglect, or violations of health and safety requirements, by an eligible child care provider that receives assistance under this subchapter or a member of the provider’s staff.
     >   - **(2)** *Requirements* The Secretary shall ensure that the hotline and Web site meet the following requirements:
     >     - **(A)** *Referral to local child care providers* The Web site shall be hosted by “childcare.gov”. The Web site shall enable a child care consumer to enter a zip code and obtain a referral to local child care providers described in subparagraph (B) within a specified search radius.
     >     - **(B)** *Information* The Web site shall provide to consumers, directly or through linkages to State databases, at a minimum—
-    >       - **(i)** a localized list of all State licensed child care providers;
+    >       - **(i)** a localized list of all eligible child care providers, differentiating between licensed and license-exempt providers;
     >       - **(ii)** any provider-specific information from a Quality Rating and Improvement System or information about other quality indicators, to the extent the information is publicly available and to the extent practicable;
-    >       - **(iii)** any other provider-specific information about compliance with licensing, and health and safety, requirements to the extent the information is publicly available and to the extent practicable;
-    >       - **(iv)** referrals to local resource and referral organizations from which consumers can find more information about child care providers, and a recommendation that consumers consult with the organizations when selecting a child care provider; and
+    >       - **(iii)** any other provider-specific information about compliance with licensing, and health and safety requirements to the extent the information is publicly available and to the extent practicable;
+    >       - **(iv)** referrals to local resource and referral organizations from which consumers can find more information about child care providers; and
     >       - **(v)** State information about child care subsidy programs and other financial supports available to families.
     >     - **(C)** *Nationwide capacity* The Web site and hotline shall have the capacity to help families in every State and community in the Nation.
-    >     - **(D)** *Information at all hours* The Web site shall provide, to parents and families, access to information about child care 24 hours a day.
+    >     - **(D)** *Information at all hours* The Web site shall provide, to parents and families, access to information about child care services 24 hours a day.
     >     - **(E)** *Services in different languages* The Web site and hotline shall ensure the widest possible access to services for families who speak languages other than English.
-    >     - **(F)** *High-quality consumer education and referral* The Web site and hotline shall ensure that families have access to child care consumer education and referral services that are consistent and of high quality.
-    >   - **(3)** *Prohibition* Nothing in this subsection shall be construed to allow the Secretary to compel States to provide additional data and information that is currently (as of the date of enactment of the Child Care and Development Block Grant Act of 2014) not publicly available, or is not required by this subchapter.
+    >     - **(F)** *High-quality consumer education and referral* The Web site and hotline shall ensure that families have access to easy-to-understand child care consumer education and referral services.
+    >   - **(3)** *Prohibition* Nothing in this subsection shall be construed to allow the Secretary to compel States to provide additional data and information that is currently (as of the date of enactment of the Child Care and Development Block Grant Act of 2014) not publicly available, or is not required by this subchapter, unless such additional data are related to the purposes and scope of this subchapter, and are subject to a notice and comment period of no less than 90 days.
 
 - **(e)** *Protection of information* Section 658K(a)(1) of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858i(a)(1)) is amended by adding at the end the following:
-  > - **(E)** *Prohibition* Reports submitted to the Secretary under subparagraph (C) shall not contain individually identifiable information.
+  > - **(E)** *Prohibition* Reports submitted to the Secretary under subparagraph (C) shall not contain personally identifiable information.
 
-## § 9. Reservation for toll-free hotline and Web site; payments to benefit Indian children
+## § 9. Reservation for toll-free hotline and Web site; payments to benefit Indian children; technical assistance and evaluation
 
 Section 658O of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858m) is amended—
 
@@ -463,11 +446,13 @@ Section 658O of the Child Care and Development Block Grant Act of 1990 (42 U.S.C
       >   - **(ii)** the Secretary ensures that the amount allotted to States under subsection (b) for the reservation year is not less than the amount allotted to States under subsection (b) for fiscal year 2014.
 
   - **(B)** by adding at the end the following:
-    > - **(3)** *National toll-free hotline and Web site* The Secretary shall reserve not less than $1,000,000 of the amount appropriated under this subchapter for each fiscal year for the operation of a national toll-free hotline and Web site, under section 658L(b).
+    > - **(3)** *National toll-free hotline and Web site* The Secretary shall reserve up to $1,500,000 of the amount appropriated under this subchapter for each fiscal year for the operation of a national toll-free hotline and Web site, under section 658L(b).
+    > - **(4)** *Technical assistance* The Secretary shall reserve up to ½ of 1 percent of the amount appropriated under this subchapter for each fiscal year to support technical assistance and dissemination activities under paragraphs (3) and (4) of section 658I(a).
+    > - **(5)** *Research, demonstration, and Evaluation* The Secretary may reserve ½ of 1 percent of the amount appropriated under this subchapter for each fiscal year to conduct research and demonstration activities, as well as periodic external, independent evaluations of the impact of the program described by this subchapter on increasing access to child care services and improving the safety and quality of child care services, using scientifically valid research methodologies, and to disseminate the key findings of those evaluations widely and on a timely basis.
 
 - **(2)** in subsection (c)—
   - **(A)** in paragraph (2), by adding at the end the following:
-    > - **(D)** *Licensing and standards* In lieu of any licensing and regulatory requirements applicable under State or local law, the Secretary, in consultation with Indian tribes and tribal organizations, shall develop minimum child care standards that shall be applicable to Indian tribes and tribal organizations receiving assistance under this subchapter. Such standards shall appropriately reflect Indian tribe and tribal organization needs and available resources, and shall include standards requiring a publicly available application, health and safety standards, and standards requiring a reservation of funds for activities to improve the quality of child care provided to Indian children.
+    > - **(D)** *Licensing and standards* In lieu of any licensing and regulatory requirements applicable under State or local law, the Secretary, in consultation with Indian tribes and tribal organizations, shall develop minimum child care standards that shall be applicable to Indian tribes and tribal organizations receiving assistance under this subchapter. Such standards shall appropriately reflect Indian tribe and tribal organization needs and available resources, and shall include standards requiring a publicly available application, health and safety standards, and standards requiring a reservation of funds for activities to improve the quality of child care services provided to Indian children.
 
   - **(B)** in paragraph (6), by striking subparagraph (C) and inserting the following:
     > - **(C)** *Limitation*
@@ -508,7 +493,7 @@ Section 658P of the Child Care and Development Block Grant Act of 1990 (42 U.S.C
 - **(8)** by inserting after paragraph (10), as redesignated by paragraph (2), the following:
   > - **(11)** *Scientifically valid research* The term scientifically valid research includes applied research, basic research, and field-initiated research, for which the rationale, design, and interpretation are soundly developed in accordance with principles of scientific research.
 
-## § 10A. Parental rights and responsibilities
+## § 11. Parental rights and responsibilities
 
 Section 658Q of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858o) is amended—
 
@@ -520,149 +505,20 @@ Section 658Q of the Child Care and Development Block Grant Act of 1990 (42 U.S.C
   >   - **(1)** to favor or promote the use of grants and contracts for the receipt of child care services under this subchapter over the use of child care certificates; or
   >   - **(2)** to disfavor or discourage the use of such certificates for the purchase of child care services, including those services provided by private or nonprofit entities, such as faith-based providers.
 
-## § 11. Studies on waiting lists
+## § 12. Studies on waiting lists
 
 - **(a)** *Study* The Comptroller General of the United States shall conduct studies to determine, for each State, the number of families that—
   - **(1)** are eligible to receive assistance under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.);
-  - **(2)** have applied for the assistance; and
+  - **(2)** have applied for the assistance, identified by the type of assistance requested; and
   - **(3)** have been placed on a waiting list for the assistance.
-- **(b)** *Report* The Comptroller General shall prepare a report containing the results of each study and shall submit the report to the appropriate committees of Congress—
+- **(b)** *Report* The Comptroller General shall prepare a report containing the results of each study and shall submit the report to the Committee on Health, Education, Labor and Pensions of the Senate, and the Committee on Education and the Workforce of the House of Representatives—
   - **(1)** not later than 2 years after the date of enactment of this Act; and
   - **(2)** every 2 years thereafter.
 - **(c)** *Definition* In this section, the term State has the meaning given the term in section 658P of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858n).
 
-## § 12. Conforming amendment
-
-Section 319C–1(b)(2)(A)(vii) of the Public Health Service Act (42 U.S.C. 247d–3a(b)(2)(A)(vii)) is amended by inserting “or established” after “designated”.
-
 ## § 13. Review of Federal early learning and care programs
 
-- **(a)** *In general* The Secretary of Health and Human Services, in conjunction with the Secretary of Education, shall conduct an interdepartmental review of all early learning and care programs in order to—
-  - **(1)** develop a plan for the elimination of duplicative and overlapping programs, as identified by the Government Accountability Office’s 2012 annual report (GAO–12–342SP); and
+- **(a)** *In general* The Secretary of Health and Human Services, in conjunction with the Secretary of Education, shall conduct an interdepartmental review of all early learning and care programs for children less than 6 years of age in order to—
+  - **(1)** develop a plan for the elimination of overlapping programs, as identified by the Government Accountability Office’s 2012 annual report (GAO–12–342SP); and
   - **(2)** make recommendations to Congress for streamlining all such programs.
-- **(b)** *Report* Not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services, in consultation with the Secretary of Education and the heads of all Federal agencies that administer Federal early learning and care programs, shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives, a detailed report that outlines the efficiencies that can be achieved by, as well as specific recommendations for, eliminating duplication, overlap, and fragmentation among all Federal early learning and care programs.
-
-## § 14. Safe Child Care Act
-
-- **(a)** *Short title* This section may be cited as the “Safe Child Care Act of 2014”.
-- **(b)** *Background checks* Section 231 of the Crime Control Act of 1990 (42 U.S.C. 13041) is amended—
-  - **(1)** in subsection (a)—
-    - **(A)** in paragraph (1), by striking “subsection (b)(3)” and inserting “paragraph (3)”; and
-    - **(B)** by redesignating paragraph (2) as paragraph (4);
-  - **(2)** by moving paragraphs (2) and (3) of subsection (b) to subsection (a), and inserting them after paragraph (1) of that subsection;
-  - **(3)** in subsection (a)(3), as redesignated by paragraph (2) of this subsection, by striking “subsection (a)(1)” and inserting “paragraph (1)”;
-  - **(4)** in subsection (b), by striking paragraph (1) and inserting the following:
-    > - **(1)** A background check required by subsection (a) shall be initiated through the personnel programs of the applicable Federal agencies.
-    > - **(2)** A background check for a child care staff member under subsection (a) shall include—
-    >   - **(A)** a search, including a fingerprint check, of the State criminal registry or repository in—
-    >     - **(i)** the State where the child care staff member resides; and
-    >     - **(ii)** each State where the child care staff member previously resided during the longer of—
-    >       - **(I)** the 10-year period ending on the date on which the background check is initiated; or
-    >       - **(II)** the period beginning on the date on which the child care staff member attained 18 years of age and ending on the date on which the background check is initiated;
-    >   - **(B)** a search of State-based child abuse and neglect registries and databases in—
-    >     - **(i)** the State where the child care staff member resides; and
-    >     - **(ii)** each State where the child care staff member previously resided during the longer of—
-    >       - **(I)** the 10-year period ending on the date on which the background check is initiated; or
-    >       - **(II)** the period beginning on the date on which the child care staff member attained 18 years of age and ending on the date on which the background check is initiated;
-    >   - **(C)** a search of the National Crime Information Center database;
-    >   - **(D)** a Federal Bureau of Investigation fingerprint check using the Integrated Automated Fingerprint Identification System;
-    >   - **(E)** a search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.); and
-    >   - **(F)** a search of the State sex offender registry established under that Act in—
-    >     - **(i)** the State where the child care staff member resides; and
-    >     - **(ii)** each State where the child care staff member previously resided during the longer of—
-    >       - **(I)** the 10-year period ending on the date on which the background check is initiated; or
-    >       - **(II)** the period beginning on the date on which the child care staff member attained 18 years of age and ending on the date on which the background check is initiated.
-    > - **(3)** A child care staff member shall be ineligible for employment by a child care provider if such individual—
-    >   - **(A)** refuses to consent to the background check described in subsection (a);
-    >   - **(B)** makes a false statement in connection with such background check;
-    >   - **(C)** is registered, or is required to be registered, on a State sex offender registry or the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006; or
-    >   - **(D)** has been convicted of a felony consisting of—
-    >     - **(i)** murder, as described in section 1111 of title 18, United States Code;
-    >     - **(ii)** child abuse or neglect;
-    >     - **(iii)** a crime against children, including child pornography;
-    >     - **(iv)** spousal abuse;
-    >     - **(v)** a crime involving rape or sexual assault;
-    >     - **(vi)** kidnapping;
-    >     - **(vii)** arson;
-    >     - **(viii)** physical assault or battery; or
-    >     - **(ix)** subject to paragraph (5)(D), a drug-related offense committed during the preceding 5 years.
-    > - **(4)**
-    >   - **(A)** A child care provider covered by paragraph (3) shall submit a request, to the appropriate State agency designated by a State, for a background check described in subsection (a), for each child care staff member (including prospective child care staff members) of the provider.
-    >   - **(B)** In the case of an individual who is hired as a child care staff member before the date of enactment of the Safe Child Care Act of 2014, the provider shall submit such a request—
-    >     - **(i)** prior to the last day of the second full fiscal year after that date of enactment; and
-    >     - **(ii)** not less often than once during each 5-year period following the first submission date under this subparagraph for that staff member.
-    >   - **(C)** In the case of an individual who is a prospective child care staff member on or after that date of enactment, the provider shall submit such a request—
-    >     - **(i)** prior to the date the individual becomes a child care staff member of the provider; and
-    >     - **(ii)** not less often than once during each 5-year period following the first submission date under this subparagraph for that staff member.
-    > - **(5)**
-    >   - **(A)** The State shall—
-    >     - **(i)** carry out the request of a child care provider for a background check described in subsection (a) as expeditiously as possible; and
-    >     - **(ii)** in accordance with subparagraph (B) of this paragraph, provide the results of the background check to—
-    >       - **(I)** the child care provider; and
-    >       - **(II)** the current or prospective child care staff member for whom the background check is conducted.
-    >   - **(B)**
-    >     - **(i)** The State shall provide the results of a background check to a child care provider as required under subparagraph (A)(ii)(I) in a statement that—
-    >       - **(I)** indicates whether the current or prospective child care staff member for whom the background check is conducted is eligible or ineligible for employment by a child care provider; and
-    >       - **(II)** does not reveal any disqualifying crime or other related information regarding the current or prospective child care staff member.
-    >     - **(ii)** If a current or prospective child care staff member is ineligible for employment by a child care provider due to a background check described in subsection (a), the State shall provide the results of the background check to the current or prospective child care staff member as required under subparagraph (A)(ii)(II) in a criminal background report that includes information relating to each disqualifying crime.
-    >     - **(iii)** A State—
-    >       - **(I)** may not publicly release or share the results of an individual background check described in subsection (a); and
-    >       - **(II)** may include the results of background checks described in subsection (a) in the development or dissemination of local or statewide data relating to background checks if the results are not individually identifiable.
-    >   - **(C)**
-    >     - **(i)** The State shall provide for a process by which a child care staff member (including a prospective child care staff member) may appeal the results of a background check required under subsection (a) to challenge the accuracy or completeness of the information contained in the criminal background report of the staff member.
-    >     - **(ii)** The State shall ensure that—
-    >       - **(I)** the appeals process is completed in a timely manner for each child care staff member;
-    >       - **(II)** each child care staff member is given notice of the opportunity to appeal; and
-    >       - **(III)** each child care staff member who wishes to challenge the accuracy or completeness of the information in the criminal background report of the child care staff member is given instructions about how to complete the appeals process.
-    >   - **(D)**
-    >     - **(i)** The State may allow for a review process through which the State may determine that a child care staff member (including a prospective child care staff member) disqualified for a crime specified in paragraph (3)(D)(ix) is eligible for employment by a child care provider, notwithstanding paragraph (3).
-    >     - **(ii)** The review process under this subparagraph shall be consistent with title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.).
-    >   - **(E)** Nothing in this section shall be construed to create a private right of action against a child care provider if the child care provider is in compliance with this section.
-    >   - **(F)** This section shall apply to each State that receives funding under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.).
-    > - **(6)** Fees that the State may charge for the costs of conducting a background check as required by subsection (a) shall not exceed the actual costs to the State for the administration of such background checks.
-    > - **(7)** Nothing in this subsection shall be construed to prevent a Federal agency from disqualifying an individual as a child care staff member based on a conviction of the individual for a crime not specifically listed in this subsection that bears upon the fitness of an individual to provide care for and have responsibility for the safety and well-being of children.
-    > - **(8)** In this subsection—
-    >   - **(A)** the term child care provider means an agency of the Federal Government, or a unit of or contractor with the Federal Government that is operating a facility, described in subsection (a); and
-    >   - **(B)** the term child care staff member means an individual who is hired, or seeks to be hired, by a child care provider to be involved with the provision of child care services, as described in subsection (a).
-
-  - **(5)** by striking subsection (c) and inserting the following:
-    > - **(c)** *Suspension pending disposition of criminal case* In the case of an incident in which an individual has been charged with an offense described in subsection (b)(3)(D) and the charge has not yet been disposed of, an employer may suspend an employee from having any contact with children while on the job until the case is resolved.
-
-- **(c)** *Effective date* The amendments made by this section shall take effect on October 1 of the second full fiscal year after the date of enactment of this Act.
-
-## § 15. Allotment of space in Federal buildings for child care
-
-Section 590 of title 40, United States Code, is amended—
-
-- **(1)** by redesignating subsections (a) through (g) as subsections (b) through (h), respectively;
-- **(2)** by inserting before subsection (b) (as so redesignated) the following:
-  > - **(a)** *Definition of Federal employee* In this section, the term Federal employee does not include a person that—
-  >   - **(1)** is not employed by the Federal Government; and
-  >   - **(2)** meets the requirements described in subsection (c)(2)(C)(i)(II).
-
-- **(3)** in paragraph (2)(C) of subsection (c) (as so redesignated), by striking clause (i) and inserting the following:
-  > - **(i)** the space will be used to provide child care services to children of whom at least 50 percent have 1 parent or guardian who—
-  >   - **(I)** is employed by the Federal Government; or
-  >   - **(II)**
-  >     - **(aa)** has met the requirements for a master’s degree or a doctorate degree from an institution of higher education (as defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002)); and
-  >     - **(bb)** is conducting research in the Federal building under an arrangement between the parent or guardian and a Federal agency.
-
-- **(4)** in subsection (d) (as so redesignated), by striking “subsection (b)” each place it appears and inserting “subsection (c)”.
-
-## § 16. Sense of the Senate on significantly reducing child poverty by calendar year 2019
-
-- **(a)** *Findings* The Senate finds that—
-  - **(1)** the United States has the highest rate of childhood poverty among 34 major countries in the Organisation for Economic Cooperation and Development, including Denmark, Finland, Norway, Iceland, Cyprus, Austria, Sweden, the Czech Republic, Germany, Slovenia, Hungary, South Korea, the United Kingdom, Switzerland, the Netherlands, Ireland, France, Malta, Luxembourg, Slovakia, Estonia, Belgium, New Zealand, Poland, Canada, Australia, Japan, Portugal, Greece, Italy, Lithuania, Latvia, Spain, and Bulgaria;
-  - **(2)** a record-breaking 46,496,000 individuals lived in poverty in the United States in 2012, which is an increase of 14,915,000 individuals since 2000;
-  - **(3)** 16,073,000 children in the United States lived in poverty in 2012, which is an increase of 4,486,000 children since 2000;
-  - **(4)** more than 7,100,000 children in the United States, 40 percent of children living in poverty in the United States, live in extreme poverty (defined as living in families with an income that is less than half of the poverty level);
-  - **(5)** nearly 1,200,000 public school students in the United States were homeless in the 2011–2012 school year, an increase of 73 percent since the 2006–2007 school year;
-  - **(6)** in an average month in fiscal year 2011, 1,200,000 households with children in the United States did not have any cash income and, for food, depended only on benefits under the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.);
-  - **(7)** in 2012, government assistance programs removed from poverty 9,000,000 children, including 5,300,000 children through the earned income tax credit under section 32 of the Internal Revenue Code of 1986 and the child tax credit under section 24 of the Internal Revenue Code of 1986, and 2,200,000 children through the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.);
-  - **(8)** in 2012, child poverty would have been 57 percent higher, and extreme poverty would have been 240 percent higher, without government tax credits and food, housing, and energy benefits;
-  - **(9)** in 2013, an individual working full-time at the Federal minimum wage could not afford the fair market rent for a 2-bedroom rental unit and have enough money for food, utilities, and other necessities;
-  - **(10)** in school years 2009–2010 and 2010–2011, less than half of children ages 3 and 4 were enrolled in preschool;
-  - **(11)** Early Head Start programs carried out under the Head Start Act (42 U.S.C. 9831 et seq.) served only 4 percent of the 2,900,000 eligible poor infants and toddlers each day in fiscal year 2012, and Head Start programs carried out under such Act served only 41 percent of the 2,000,000 eligible poor children ages 3 and 4;
-  - **(12)** more than 220,000 children are on waiting lists for child care assistance; and
-  - **(13)** child poverty costs the United States not less than $500,000,000 each year in additional education, health, and criminal justice costs and in lost productivity.
-- **(b)** *Sense of the Senate* It is the sense of the Senate that the President should immediately present to Congress a comprehensive plan to significantly reduce child poverty in the United States by calendar year 2019.
+- **(b)** *Report* Not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services, in consultation with the Secretary of Education and the heads of all Federal agencies that administer Federal early learning and care programs, shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives, a detailed report that outlines the efficiencies that can be achieved by, as well as specific recommendations for, eliminating overlap and fragmentation among all Federal early learning and care programs.
