@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5161
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5161
@@ -22,9 +22,10 @@ Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 - Rep. Eshoo, Anna G. [D-CA-18] (E000215)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014
 - 2014-09-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2014-09-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 496). (text: CR 9/9/2014 H7349)
 - 2014-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 496).(text: CR 9/9/2014 H7349)
+- 2014-09-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
