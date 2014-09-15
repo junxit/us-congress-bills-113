@@ -1,7 +1,7 @@
 ---
 measure: S. 1086
 congress: 113
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1086
@@ -16,7 +16,7 @@ Child Care and Development Block Grant Act of 2014
 
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 
-## Cosponsors (57)
+## Cosponsors (58)
 
 - Sen. Burr, Richard [R-NC] (B001135)
 - Sen. Harkin, Tom [D-IA] (H000206)
@@ -24,6 +24,7 @@ Child Care and Development Block Grant Act of 2014
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Begich, Mark [D-AK] (B001265)
@@ -80,13 +81,15 @@ Child Care and Development Block Grant Act of 2014
 
 - Senate — Health, Education, Labor, and Pensions Committee
 
-## Recorded votes (5)
+## Recorded votes (7)
 
 - 2014-03-12 — [Senate 113-2-72](votes/senate-113-2-0072.md) — On the Amendment — **Amendment Agreed to** (98–0)
 - 2014-03-12 — [Senate 113-2-73](votes/senate-113-2-0073.md) — On the Amendment — **Amendment Agreed to** (93–6)
 - 2014-03-12 — [Senate 113-2-74](votes/senate-113-2-0074.md) — On the Amendment — **Amendment Agreed to** (98–0)
 - 2014-03-13 — [Senate 113-2-75](votes/senate-113-2-0075.md) — On the Amendment — **Amendment Agreed to** (100–0)
 - 2014-03-13 — [Senate 113-2-77](votes/senate-113-2-0077.md) — On Passage of the Bill — **Bill Passed** (96–2)
+- 2014-11-13 — [Senate 113-2-275](votes/senate-113-2-0275.md) — On the Cloture Motion — **Cloture Motion Agreed to** (96–1)
+- 2014-11-17 — [Senate 113-2-276](votes/senate-113-2-0276.md) — On the Motion — **Motion Agreed to** (88–1)
 
 ## Actions
 
@@ -252,3 +255,52 @@ Child Care and Development Block Grant Act of 2014
 - 2014-09-15 — Mr. Kline moved to suspend the rules and pass the bill, as amended.
 - 2014-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7465-7473)
 - 2014-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7465-7473)
+- 2014-09-18 — Amendment SA 3923 proposed by Senator Reid. (consideration: CR S5772; text: CR S5772) To change the enactment date.
+- 2014-09-18 — Amendment SA 3924 proposed by Senator Reid to Amendment SA 3923. (consideration: CR S5772; text: CR S5772) Of a perfecting nature.
+- 2014-09-18 — Amendment SA 3925 proposed by Senator Reid. (consideration: CR S5772; text: CR S5772) To change the enactment date.
+- 2014-09-18 — Amendment SA 3926 proposed by Senator Reid to Amendment SA 3925 (instructions of the motion to refer). (consideration: CR S5772; text: CR S5772) Of a perfecting nature.
+- 2014-09-18 — Amendment SA 3927 proposed by Senator Reid to Amendment SA 3926. (consideration: CR S5772; text: CR S5772) Of a perfecting nature.
+- 2014-09-18 — Cloture motion on the motion to agree to the House amendment to Senate bill presented in Senate. (consideration: CR S5772; text: CR S5772)
+- 2014-09-18 — Motion by Senator Reid to concur in the House amendment to the Senate bill with an amendment (SA 3923) made in Senate. (consideration: CR S5772; text: CR S5772)
+- 2014-09-18 — Motion by Senator Reid to refer to Senate Committee on Health, Education, Labor, and Pensions the House message to accompany the bill (S. 1086) with instructions to report back forthwith with the following amendment (SA 3925) made in Senate. (consideration: CR S5772; text: CR S5772)
+- 2014-09-18 — Motion to agree to the House amendment to the Senate bill made in Senate. (consideration: CR S5772)
+- 2014-09-18 — Senate amendment proposed (on the floor): Amendment SA 3923 proposed by Senator Reid.(consideration: CR S5772; text: CR S5772)
+- 2014-09-18 — Senate amendment proposed (on the floor): Amendment SA 3924 proposed by Senator Reid to Amendment SA 3923.(consideration: CR S5772; text: CR S5772)
+- 2014-09-18 — Senate amendment proposed (on the floor): Amendment SA 3925 proposed by Senator Reid.(consideration: CR S5772; text: CR S5772)
+- 2014-09-18 — Senate amendment proposed (on the floor): Amendment SA 3926 proposed by Senator Reid to Amendment SA 3925 (instructions of the motion to refer).(consideration: CR S5772; text: CR S5772)
+- 2014-09-18 — Senate amendment proposed (on the floor): Amendment SA 3927 proposed by Senator Reid to Amendment SA 3926.(consideration: CR S5772; text: CR S5772)
+- 2014-09-18 — Senate amendment submitted
+- 2014-09-18 — Senate amendment submitted
+- 2014-09-18 — Senate amendment submitted
+- 2014-09-18 — Senate amendment submitted
+- 2014-09-18 — Senate amendment submitted
+- 2014-11-13 — Cloture on the motion to agree to the House amendment to Senate bill invoked in Senate by Yea-Nay Vote. 96 - 1. Record Vote Number: 275. (consideration: S5963; text: CR S5963)
+- 2014-11-13 — Considered by Senate.
+- 2014-11-13 — Considered by Senate.
+- 2014-11-13 — Considered by Senate.
+- 2014-11-13 — Considered by Senate.
+- 2014-11-13 — Considered by Senate.
+- 2014-11-13 — Considered by Senate. (consideration: CR S5963-5964)
+- 2014-11-13 — Considered by Senate. (consideration: CR S5964)
+- 2014-11-13 — Considered by Senate. (consideration: CR S5964)
+- 2014-11-13 — Considered by Senate. (consideration: CR S5964)
+- 2014-11-13 — Considered by Senate. (consideration: CR S5964)
+- 2014-11-13 — Considered by Senate. (consideration: CR S5993-5994)
+- 2014-11-13 — Motion by Senator Reid to refer to Senate Committee on Health, Education, Labor, and Pensions the House message to accompany the bill (S. 1086) with instructions to report back forthwith with the following amendment (SA 3925) fell when cloture invoked on the motion to agree to the House amendment to the Senate bill in Senate. (consideration: CR S5964)
+- 2014-11-13 — SA 3925 (instructions of the motion to refer) fell when cloture invoked on the motion to agree to the House amendment to the Senate bill. (consideration: CR S5964)
+- 2014-11-13 — SA 3926 fell when SA 3925 fell. (consideration: CR S5964)
+- 2014-11-13 — SA 3927 fell when SA 3926 fell. (consideration: CR S5964)
+- 2014-11-17 — Considered by Senate. (consideration: CR S6012)
+- 2014-11-17 — Considered by Senate. (consideration: CR S6012)
+- 2014-11-17 — Considered by Senate. (consideration: CR S6012-6013)
+- 2014-11-17 — Message on Senate action sent to the House.
+- 2014-11-17 — Proposed amendment SA 3923 withdrawn in Senate. (consideration: CR S6012)
+- 2014-11-17 — Resolving differences -- Senate actions: Senate agreed to House amendment to Senate bill by Yea-Nay Vote. 88 - 1. Record Vote Number: 276.(consideration: CR S6013)
+- 2014-11-17 — SA 3924 fell when SA 3923 was withdrawn. (consideration: CR S6012)
+- 2014-11-17 — Senate agreed to House amendment to Senate bill by Yea-Nay Vote. 88 - 1. Record Vote Number: 276. (consideration: CR S6013)
+- 2014-11-18 — Presented to President.
+- 2014-11-18 — Presented to President.
+- 2014-11-19 — Became Public Law No: 113-186.
+- 2014-11-19 — Became Public Law No: 113-186.
+- 2014-11-19 — Signed by President.
+- 2014-11-19 — Signed by President.

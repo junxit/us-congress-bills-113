@@ -1,19 +1,17 @@
 ---
 legis-num: S. 1086
-congress: 113th CONGRESS
+congress: One Hundred Thirteenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1086
 
-That the bill from the Senate (S. 1086) entitled “An Act to reauthorize and improve the Child Care and Development Block Grant Act of 1990, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To reauthorize and improve the Child Care and Development Block Grant Act of 1990, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “ Child Care and Development Block Grant Act of 2014 ”.
+This Act may be cited as the “Child Care and Development Block Grant Act of 2014”.
 
 ## § 2. Short title and purposes
 
@@ -21,7 +19,7 @@ Section 658A of the Child Care and Development Block Grant Act of 1990 (42 U.S.C
 
 > ## § 658A. Short title and purposes
 >
-> - **(a)** *Short title* This subchapter may be cited as the “ Child Care and Development Block Grant Act of 1990 ”.
+> - **(a)** *Short title* This subchapter may be cited as the “Child Care and Development Block Grant Act of 1990”.
 > - **(b)** *Purposes* The purposes of this subchapter are—
 >   - **(1)** to allow each State maximum flexibility in developing child care programs and policies that best suit the needs of children and parents within that State;
 >   - **(2)** to promote parental choice to empower working parents to make their own decisions regarding the child care services that best suit their family’s needs;

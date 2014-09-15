@@ -1,7 +1,7 @@
 ---
 measure: S. 1086
 congress: 113
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -96,7 +96,7 @@ to guess them.
 | Removed | `other than families described in paragraph (2)(H)` |
 | Inserted | `including or in addition to families with children described in clause (i), (ii), (iii), or (iv) of paragraph (2)(M)` |
 
-### 42 U.S.C. § 9858d
+### 42 U.S.C. § 9858c
 
 > Section 658F(b)(2) of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858d(b)(2)) is amended by striking “section 658E(c)(2)(F)” and inserting “section 658E(c)(2)(I)”.
 
@@ -191,13 +191,13 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 9858b` | replace | in subparagraph (D), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 9858b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9858c` | insert | in paragraph (1), by inserting “or established” after “designated”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 601` | insert | in subparagraph (B), by inserting a comma after “care of such providers”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 601` | strike | by striking subparagraphs (D) through (H); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 601` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9831` | insert | in subparagraph (B), by inserting a comma after “care of such providers”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9831` | strike | by striking subparagraphs (D) through (H); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9831` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1431` | replace | by striking “The State” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1431` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1431` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9858c` | replace | by striking paragraph (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9837b` | replace | by striking paragraph (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9858c` | insert | in paragraph (5), by inserting “(that is not a barrier to families receiving assistance under this subchapter)” after “cost sharing”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 9858e` | amend | Section 658G of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858e) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9858` | insert | The Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.) is amended by inserting after section 658G the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -215,7 +215,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 9858j` | replace | by striking “Not later” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 9858j` | insert | by inserting after “States.” the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9858j` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9858i` | add-at-end | Section 658K(a)(1) of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858i(a)(1)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9858g` | add-at-end | Section 658K(a)(1) of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858i(a)(1)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9858m` | replace | by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 9858m` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9858m` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
