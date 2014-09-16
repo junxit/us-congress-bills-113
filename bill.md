@@ -51,31 +51,21 @@ Section 4312(b)(1) of title 5, United States Code, is amended—
 
 - **(b)** *Modification of cause and procedure for suspension and termination*
   - **(1)** *In general* Section 7543 of title 5, United States Code, is amended—
-    - **(A)** in subsection (a), by striking “misconduct,” and inserting “such cause as would promote the efficiency of the service, misconduct,”; and
-    - **(B)** in subsection (b)(1), by striking “30” and inserting “15”.
+    - **(A)** in subsection (a), by striking “misconduct,” and inserting “such cause as would promote the efficiency of the service, misconduct,”;
+    - **(B)** in subsection (b)(4), by adding at the end before the period the following: “, but no later than 30 days after the date that the employee’s answer was received under paragraph (2)”;
+    - **(C)** by redesignating subsections (c), (d), and (e) as subsections (d), (e), and (f), respectively;
+    - **(D)** by inserting after subsection (b) the following:
+      > - **(c)** An agency head may extend the deadline for an employee to answer under subsection (b)(2) or the deadline for the agency to issue a written decision under subsection (b)(4) for no more than 30 days each. Any extension by the agency head under this subsection must be in writing and document the reasons for granting the extension.
+
+    - **(E)** by adding at the end the following:
+      > - **(g)**
+      >   - **(1)** With respect to an employee subject to removal under this subchapter, if a final order or decision is issued in favor of the agency by the agency, the Merit Systems Protection Board, or the applicable reviewing court under section 7703, the employee—
+      >     - **(A)** shall pay to the agency an amount equal to any pay received by the employee during the period beginning on the date that the employee received notice under subsection (b)(1) and ending on the date of such final order or decision; and
+      >     - **(B)** have removed from such employee’s credit any annual leave accrued during such period.
+      >   - **(2)** Paragraph (1) shall apply only to an employee who, during the period described in paragraph (1)(A), is placed on administrative leave or any other type of leave whereby the employee is in a status without duties but with pay.
+
   - **(2)** *Conforming amendments* Subchapter V of chapter 35 of title 5, United States Code, is amended—
     - **(A)** in section 3593—
       - **(i)** in subsection (a)(2), by striking “misconduct,” and inserting “such cause as would promote the efficiency of the service, misconduct,”; and
       - **(ii)** in subsection (b), by striking “misconduct,” and inserting “such cause as would promote the efficiency of the service, misconduct,”; and
     - **(B)** in section 3594(a), by striking “misconduct,” and inserting “such cause as would promote the efficiency of the service, misconduct,”.
-
-## § 7. Mandatory leave for career appointees in the Senior Executive Service
-
-- **(a)** *In general* Subchapter II of chapter 63 of title 5, United States Code, is amended by adding at the end the following:
-  > ## § 6329. Mandatory leave for Senior Executive Service career appointees
-  >
-  > - **(a)** In this section—
-  >   - **(1)** the term “employee” means—
-  >     - **(A)** a career appointee in the Senior Executive Service who—
-  >       - **(i)** has completed the probationary period prescribed under section 3393(d) of this title; or
-  >       - **(ii)** was covered by the provisions of subchapter II of chapter 75 of this title immediately before appointment to the Senior Executive Service; and
-  >     - **(B)** who has received written notice of removal from the civil service under subchapter V of chapter 75 of this title; and
-  >   - **(2)** the term “mandatory leave” means, with respect to an employee, an absence with pay but without duty during which such employee—
-  >     - **(A)** shall be charged accrued annual leave for the period of such absence; and
-  >     - **(B)** may not accrue any annual leave under section 6303 for the period of such absence.
-  > - **(b)** Under regulations prescribed by the Office of Personnel Management, an agency may place an employee on mandatory leave for misconduct, neglect of duty, malfeasance, or such cause as would promote the efficiency of the service.
-  > - **(c)** If an agency determines that an employee should be placed on mandatory leave under subsection (b), such leave shall begin no earlier than the date on which the employee received written notice of a removal under subchapter V of chapter 75.
-  > - **(d)** If a final order or decision is issued in favor of such employee with respect to removal under subchapter V of chapter 75 by the agency, the Merit Systems Protection Board, or the United States Court of Appeals for the Federal Circuit, any annual leave that is charged to an employee by operation of this section shall be restored to the applicable leave account of such employee.
-
-- **(b)** *Clerical amendment* The table of sections of chapter 63 of title 5, United States Code, is amended by adding after the item relating to section 6328 the following new item:
-- **(c)** *Regulations* Not later than 6 months after the date of enactment of this Act, the Director of the Office of Personnel Management shall prescribe regulations with respect to the leave provided by the amendment in subsection (a).
