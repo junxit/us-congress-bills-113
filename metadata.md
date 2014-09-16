@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2866
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2866
@@ -312,9 +312,10 @@ Boys Town Centennial Commemorative Coin Act
 - Rep. Pastor, Ed [D-AZ-7] (P000099)
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -327,3 +328,4 @@ Boys Town Centennial Commemorative Coin Act
 - 2014-09-15 — Mr. Fitzpatrick moved to suspend the rules and pass the bill, as amended.
 - 2014-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7506-7507)
 - 2014-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7506-7507)
+- 2014-09-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
