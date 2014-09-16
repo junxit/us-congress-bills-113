@@ -54,13 +54,13 @@ Section 35 of the Mineral Leasing Act (30 U.S.C. 191) is amended by adding at th
 
 - **(a)** *In general* Section 35(c) of the Mineral Leasing Act (30 U.S.C. 191(c)) is amended by striking paragraph (3) and inserting the following:
   > - **(3)** *Use of Fund*
-  >   - **(A)** *In general* The Fund shall be available to the Secretary of the Interior for expenditure, without further appropriation and without fiscal year limitation, for the coordination and processing of oil and gas use authorizations on onshore Federal land.
+  >   - **(A)** *In general* The Fund shall be available to the Secretary of the Interior for expenditure, without further appropriation and without fiscal year limitation, for the coordination and processing of oil and gas use authorizations on onshore Federal and Indian trust mineral estate land.
   >   - **(B)** *Accounts* The Secretary shall divide the Fund into—
   >     - **(i)** a Rental Account (referred to in this subsection as the “Rental Account”) comprised of rental receipts collected under this section; and
   >     - **(ii)** a Fee Account (referred to in this subsection as the “Fee Account”) comprised of fees collected under subsection (d).
   > - **(4)** *Rental Account*
   >   - **(A)** *In general* The Secretary shall use the Rental Account for—
-  >     - **(i)** the coordination and processing of oil and gas use authorizations on onshore Federal land under the jurisdiction of the Project offices identified under section 365(d) of the Energy Policy Act of 2005 (42 U.S.C. 15924(d)); and
+  >     - **(i)** the coordination and processing of oil and gas use authorizations on onshore Federal and Indian trust mineral estate land under the jurisdiction of the Project offices identified under section 365(d) of the Energy Policy Act of 2005 (42 U.S.C. 15924(d)); and
   >     - **(ii)** training programs for development of expertise related to coordinating and processing oil and gas use authorizations.
   >   - **(B)** *Allocation* In determining the allocation of the Rental Account among Project offices for a fiscal year, the Secretary shall consider—
   >     - **(i)** the number of applications for permit to drill received in a Project office during the previous fiscal year;
@@ -68,7 +68,7 @@ Section 35 of the Mineral Leasing Act (30 U.S.C. 191) is amended by adding at th
   >     - **(iii)** publicly available industry forecasts for development of oil and gas resources under the jurisdiction of a Project office; and
   >     - **(iv)** any opportunities for partnership with local industry organizations and educational institutions in developing training programs to facilitate the coordination and processing of oil and gas use authorizations.
   > - **(5)** *Fee Account*
-  >   - **(A)** *In general* The Secretary shall use the Fee Account for the coordination and processing of oil and gas use authorizations on onshore Federal land.
+  >   - **(A)** *In general* The Secretary shall use the Fee Account for the coordination and processing of oil and gas use authorizations on onshore Federal and Indian trust mineral estate land.
   >   - **(B)** *Allocation* The Secretary shall transfer not less than 75 percent of the revenues collected by an office for the processing of applications for permits to the State office of the State in which the fees were collected.
 
 - **(b)** *Interest on overpayment adjustment* Section 111(h) of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1721(h)) is amended in the first sentence by striking “the rate” and all that follows through the period at the end of the sentence and inserting “a rate equal to the sum of the Federal short-term rate determined under section 6621(b) of the Internal Revenue Code of 1986 plus 1 percentage point.”.
