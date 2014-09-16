@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 4194
-congress: 113th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4194
 
-That the bill from the House of Representatives (H.R. 4194) entitled “An Act to provide for the elimination or modification of Federal reporting requirements.”, do pass with the following
-
-*In lieu of the matter proposed to be inserted, insert the following:*
+> To provide for the elimination or modification of Federal reporting requirements.
 
 ## § 1. Short title
 

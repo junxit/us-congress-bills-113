@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4194
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4194
@@ -28,6 +28,10 @@ Government Reports Elimination Act of 2014
 
 - House — Oversight and Accountability Committee
 - Senate — Homeland Security and Governmental Affairs Committee
+
+## Recorded votes (1)
+
+- 2014-11-12 — [House 113-2-516](votes/house-113-2-0516.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (382–0)
 
 ## Actions
 
@@ -58,3 +62,17 @@ Government Reports Elimination Act of 2014
 - 2014-09-16 — Senate amendment proposed (on the floor): Amendment SA 3820 proposed by Senator Heitkamp for Senator Carper.(consideration: CR S5647)
 - 2014-09-16 — Senate amendment submitted
 - 2014-09-16 — The committee substitute as amended agreed to by Unanimous Consent. (text: CR S5644-5646)
+- 2014-09-17 — Message on Senate action sent to the House.
+- 2014-11-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2014-11-12 — Considered as unfinished business. (consideration: CR H7915-7916)
+- 2014-11-12 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 4194.
+- 2014-11-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-11-12 — Mr. Issa moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H7907-7910)
+- 2014-11-12 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 382 - 0 (Roll no. 516). (text as House agreed to Senate amendment: CR H7907-7909)
+- 2014-11-12 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 382 - 0 (Roll no. 516).(text as House agreed to Senate amendment: CR H7907-7909)
+- 2014-11-17 — Presented to President.
+- 2014-11-17 — Presented to President.
+- 2014-11-26 — Became Public Law No: 113-188.
+- 2014-11-26 — Became Public Law No: 113-188.
+- 2014-11-26 — Signed by President.
+- 2014-11-26 — Signed by President.

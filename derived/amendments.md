@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4194
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -51,7 +51,7 @@ to guess them.
 | Removed | `paragraph (5)` |
 | Inserted | `paragraph (4)` |
 
-### 31 U.S.C. § 719
+### 42 U.S.C. § 300u-10
 
 > Subsection (i) of section 4001 of the Patient Protection and Affordable Care Act (42 U.S.C. 300u–10) is amended by striking “The Secretary and the Comptroller General of the United States shall jointly conduct periodic reviews” and inserting “The Secretary shall conduct periodic reviews”.
 
@@ -78,7 +78,7 @@ to guess them.
 | Removed | `the Comptroller General` |
 | Inserted | `the independent public accountant` |
 
-### 31 U.S.C. § 719
+### 42 U.S.C. § 1395y
 
 > The third sentence of section 1862(b)(9)(B)(i) of the Social Security Act (42 U.S.C. 1395y(b)(9)(B)(i)) is amended by striking “for a year” and inserting “for 2014”.
 
@@ -87,7 +87,7 @@ to guess them.
 | Removed | `for a year` |
 | Inserted | `for 2014` |
 
-### 19 U.S.C. § 1308
+### 19 U.S.C. § 58c
 
 > in paragraph (1)(B), by striking “paragraph (5)” and inserting “paragraph (4)”; and
 
@@ -96,7 +96,7 @@ to guess them.
 | Removed | `paragraph (5)` |
 | Inserted | `paragraph (4)` |
 
-### 19 U.S.C. § 1308
+### 19 U.S.C. § 58c
 
 > in paragraph (3)(A), by striking “paragraph (5)” and inserting “paragraph (4)”.
 
@@ -238,8 +238,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 12565` | repeal | The National and Community Service Act of 1990 is amended by repealing part IV of subtitle B of title I (42 U.S.C. 12565). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12642` | strike | by striking the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12642` | strike | by striking subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `10 U.S.C. § 221` | strike | by striking subsections (a) and (b); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `10 U.S.C. § 221` | strike | in subsection (d)(1), by striking “(b) or”. | the bill quotes the text struck but describes what replaces it |
+| `10 U.S.C. § 113` | strike | by striking subsections (a) and (b); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 113` | strike | in subsection (d)(1), by striking “(b) or”. | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 7707` | strike | Section 8007(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7707(b)) is amended by striking paragraph (7). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16323` | strike | Section 983 of the Energy Policy Act of 2005 (42 U.S.C. 16323) is amended by striking subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 15927` | strike | Section 369(i) of Energy Policy Act of 2005 (42 U.S.C. 15927(i)) is amended by striking paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -264,13 +264,13 @@ complete account of the bill's effect, which it is not.
 | `2 U.S.C. § 807` | amend | Section 107 of the Congressional Award Act (2 U.S.C. 807) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1308` | strike | Section 308 of the Tariff Act of 1930 (19 U.S.C. 1308) is amended by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1401` | strike | The Border Infrastructure and Technology Modernization Act of 2007 (title VI of division E of Public Law 110–161; 6 U.S.C. 1401 et seq.) is amended by striking sections 603 and 604. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1308` | redesignate | in subsection (a)(9), by striking subparagraph (C) and redesignating subparagraph (D) as subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1308` | strike | by striking subparagraph (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1308` | redesignate | by redesignating subparagraph (E) as subparagraph (D); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1308` | strike | by striking paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1308` | redesignate | by redesignating paragraphs (5) and (6) as paragraphs (4) and (5), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1308` | repeal | Section 346 of the Maritime Transportation Security Act of 2002 (Public Law 107–295; 14 U.S.C. 88 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1308` | strike | The table of contents in section 1(b) of such Act is amended by striking the item relating to section 346. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 58c` | redesignate | in subsection (a)(9), by striking subparagraph (C) and redesignating subparagraph (D) as subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 58c` | strike | by striking subparagraph (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 58c` | redesignate | by redesignating subparagraph (E) as subparagraph (D); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 58c` | strike | by striking paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 58c` | redesignate | by redesignating paragraphs (5) and (6) as paragraphs (4) and (5), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `14 U.S.C. § 88` | repeal | Section 346 of the Maritime Transportation Security Act of 2002 (Public Law 107–295; 14 U.S.C. 88 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `14 U.S.C. § 88` | strike | The table of contents in section 1(b) of such Act is amended by striking the item relating to section 346. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 15902` | strike | by striking subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 15902` | redesignate | by redesignating subsections (f) through (j) as subsections (e) through (i), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 3205` | repeal | Section 207 of the Andean Trade Preference Act (19 U.S.C. 3205) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -282,8 +282,8 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 47107` | redesignate | by redesignating subsections (l) through (t) as subsections (k) through (s), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 60130` | strike | by striking subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 60130` | redesignate | by redesignating subsection (d) as subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 106` | strike | by striking subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 106` | redesignate | by redesignating subsection (f) as subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 44502` | strike | by striking subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 44502` | redesignate | by redesignating subsection (f) as subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 106` | repeal | Section 602 of the Vision 100—Century of Aviation Reauthorization Act (117 Stat. 2563), and the item relating to that section in the table of contents contained in section 1(b) of that Act, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 47508` | strike | Section 726 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century (114 Stat. 167; 49 U.S.C. 47508 note) is amended by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 1138` | strike | Section 1138(a) of title 49, United States Code, is amended by striking “at least annually, but may be conducted”. | the bill quotes the text struck but describes what replaces it |
