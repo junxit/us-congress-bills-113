@@ -1,7 +1,7 @@
 ---
 measure: S. 1214
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1214
