@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3374
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3374
@@ -50,10 +50,11 @@ American Savings Promotion Act
 - Rep. Terry, Lee [R-NE-2] (T000459)
 - Rep. Takano, Mark [D-CA-41] (T000472)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Judiciary Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -69,3 +70,4 @@ American Savings Promotion Act
 - 2014-09-15 — Mr. Fitzpatrick moved to suspend the rules and pass the bill, as amended.
 - 2014-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7504-7505)
 - 2014-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7504-7505)
+- 2014-09-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
