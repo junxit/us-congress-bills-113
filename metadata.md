@@ -1,7 +1,7 @@
 ---
 measure: S. 2651
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2651
@@ -28,3 +28,7 @@ DHS OIG Mandates Revision Act of 2014
 
 - 2014-07-24 — Introduced in Senate
 - 2014-07-24 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2014-07-30 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-09-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. Without written report.
+- 2014-09-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. Without written report.
+- 2014-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 567.

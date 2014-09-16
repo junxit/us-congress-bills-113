@@ -1,7 +1,7 @@
 ---
 measure: S. 2651
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 3 executed, 7 stated and not applied.
+19 amendatory instructions. 6 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,33 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 46 U.S.C. § 70101
+
+> in subsection (a), by striking “and (j)” and inserting “and (h)”; and
+
+| | |
+|---|---|
+| Removed | `and (j)` |
+| Inserted | `and (h)` |
+
+### 6 U.S.C. § 612
+
+> by striking “paragraphs (2) and (3)” and inserting “paragraph (2)”; and
+
+| | |
+|---|---|
+| Removed | `paragraphs (2) and (3)` |
+| Inserted | `paragraph (2)` |
+
+### 6 U.S.C. § 612
+
+> by striking “paragraph (4)” and inserting “paragraph (3)”.
+
+| | |
+|---|---|
+| Removed | `paragraph (4)` |
+| Inserted | `paragraph (3)` |
 
 ### 46 U.S.C. § 70101
 
@@ -65,5 +92,11 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 468` | repeal | Section 888(f) of the Homeland Security Act of 2002 (6 U.S.C. 468(f)) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 468` | redesignate | Section 888 of the Homeland Security Act of 2002 (6 U.S.C. 468), as amended by paragraph (1), is amended by redesignating subsections (g), (h), and (i) as subsections (f), (g), and (h), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `46 U.S.C. § 70101` | strike | Section 705(d)(A) of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1704(d)(A)) is amended by striking “, and require such accounting to be authenticated by the Inspector General for each agency prior t… | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 612` | repeal | Section 2022(a)(3) of the Homeland Security Act of 2002 (6 U.S.C. 612(a)(3)) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 612` | redesignate | by redesignating paragraphs (4), (5), (6), and (7) as paragraphs (3), (4), (5), and (6), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 70101` | repeal | Subsections (g) and (h) of section 809 of the Coast Guard and Maritime Transportation Act of 2004 (Public Law 108–293; 46 U.S.C. 70101 note) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 70101` | redesignate | by redesignating subsections (i), (j), and (k) as subsections (g), (h), and (i), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 468` | repeal | Section 888(f) of the Homeland Security Act of 2002 (6 U.S.C. 468(f)) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 468` | redesignate | Section 888 of the Homeland Security Act of 2002 (6 U.S.C. 468), as amended by paragraph (1), is amended by redesignating subsections (g), (h), and (i) as subsections (f), (g), and (h), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 612` | repeal | Section 2022(a)(3) of the Homeland Security Act of 2002 (6 U.S.C. 612(a)(3)) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 612` | redesignate | by redesignating paragraphs (4), (5), (6), and (7) as paragraphs (3), (4), (5), and (6), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
