@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5169
 congress: 113
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 7 executed, 8 stated and not applied.
+14 amendatory instructions. 8 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,12 +53,21 @@ to guess them.
 
 ### 5 U.S.C. § 7543
 
-> in subsection (a), by striking “misconduct,” and inserting “such cause as would promote the efficiency of the service, misconduct,”;
+> in subsection (a), by striking “misconduct,” and inserting “such cause as would promote the efficiency of the service, misconduct,”; and
 
 | | |
 |---|---|
 | Removed | `misconduct,` |
 | Inserted | `such cause as would promote the efficiency of the service, misconduct,` |
+
+### 5 U.S.C. § 7543
+
+> in subsection (b)(1), by striking “30” and inserting “15”.
+
+| | |
+|---|---|
+| Removed | `30` |
+| Inserted | `15` |
 
 ### 5 U.S.C. § 7543
 
@@ -100,7 +109,5 @@ complete account of the bill's effect, which it is not.
 | `5 U.S.C. § 3594` | amend | Section 3594(c)(1)(B) of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 4312` | insert | by inserting “in writing” after “communicated”. | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 7501` | amend | Paragraph (1) of Section 7501 of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 7543` | add-at-end | in subsection (b)(4), by adding at the end before the period the following: “, but no later than 30 days after the date that the employee’s answer was received under paragraph (2)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 7543` | redesignate | by redesignating subsections (c), (d), and (e) as subsections (d), (e), and (f), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 7543` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 7543` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Subchapter II of chapter 63 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The table of sections of chapter 63 of title 5, United States Code, is amended by adding after the item relating to section 6328 the following new item: | the bill names no machine-readable US Code section |
