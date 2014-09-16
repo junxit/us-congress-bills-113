@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2569
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2569
@@ -39,3 +39,4 @@ Upper Missisquoi and Trout Wild and Scenic Rivers Act
 - 2014-09-15 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2014-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7492-7493)
 - 2014-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7492-7493)
+- 2014-09-16 — Received in the Senate.
