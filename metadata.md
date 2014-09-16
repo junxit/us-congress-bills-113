@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5404
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5404
@@ -33,3 +33,11 @@ Department of Veterans Affairs Expiring Authorities Act of 2014
 - 2014-09-08 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2014-09-08 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2014-09-08 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-09-10 — Committee Consideration and Mark-up Session Held.
+- 2014-09-10 — Ordered to be Reported by Voice Vote.
+- 2014-09-16 — Considered under suspension of the rules. (consideration: CR H7578-7580)
+- 2014-09-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5404.
+- 2014-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-16 — Mr. Lamborn moved to suspend the rules and pass the bill, as amended.
+- 2014-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7578-7580)
+- 2014-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7578-7580)

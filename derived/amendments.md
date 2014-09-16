@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5404
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-94 amendatory instructions. 48 executed, 46 stated and not applied.
+63 amendatory instructions. 40 executed, 23 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -116,12 +116,21 @@ to guess them.
 
 ### 38 U.S.C. § 2023
 
-> Section 2023(d) is amended by striking “September 30, 2014” and inserting “September 30, 2015”.
+> Subsection (d) of section 2023 is amended by striking “September 30, 2014” and inserting “September 30, 2015”.
 
 | | |
 |---|---|
 | Removed | `September 30, 2014` |
 | Inserted | `September 30, 2015` |
+
+### 38 U.S.C. § 2023
+
+> Subsection (c)(3) of such section is amended by striking “enter into contracts” and inserting “make grants”.
+
+| | |
+|---|---|
+| Removed | `enter into contracts` |
+| Inserted | `make grants` |
 
 ### 38 U.S.C. § 2031
 
@@ -170,21 +179,21 @@ to guess them.
 
 ### 38 U.S.C. § 2066
 
-> Section 2066(d) is amended by striking “December 31, 2014” and inserting “December 31, 2017”.
+> Section 2066(d) is amended by striking “December 31, 2014” and inserting “December 31, 2015”.
 
 | | |
 |---|---|
 | Removed | `December 31, 2014` |
-| Inserted | `December 31, 2017` |
+| Inserted | `December 31, 2015` |
 
 ### 38 U.S.C. § 3692
 
-> Section 3692(c) is amended by striking “December 31, 2014” and inserting “December 31, 2017”.
+> Section 3692(c) is amended by striking “December 31, 2014” and inserting “December 31, 2015”.
 
 | | |
 |---|---|
 | Removed | `December 31, 2014` |
-| Inserted | `December 31, 2017` |
+| Inserted | `December 31, 2015` |
 
 ### 38 U.S.C. § 3732
 
@@ -212,15 +221,6 @@ to guess them.
 |---|---|
 | Removed | `September 30, 2014,` |
 | Inserted | `September 30, 2015,` |
-
-### 10 U.S.C. § 1071
-
-> Section 1631(b)(2) of the Wounded Warrior Act (title XVI of Public Law 110–181; 122 Stat. 458; 10 U.S.C. 1071 note) is amended by striking “December 31, 2014” and inserting “December 31, 2015”.
-
-| | |
-|---|---|
-| Removed | `December 31, 2014` |
-| Inserted | `December 31, 2015` |
 
 ### 38 U.S.C. § 111A
 
@@ -251,12 +251,12 @@ to guess them.
 
 ### 38 U.S.C. § 544
 
-> Section 544(e) is amended by striking “December 31, 2014” and inserting “December 31, 2017”.
+> Section 544(e) is amended by striking “December 31, 2014” and inserting “December 31, 2015”.
 
 | | |
 |---|---|
 | Removed | `December 31, 2014` |
-| Inserted | `December 31, 2017` |
+| Inserted | `December 31, 2015` |
 
 ### 38 U.S.C. § 2101
 
@@ -285,69 +285,6 @@ to guess them.
 | Removed | `October 1, 2014` |
 | Inserted | `December 31, 2015` |
 
-### 38 U.S.C. § 4321
-
-> by striking “The Secretary” and inserting “(a) State and private employers.—The Secretary”;
-
-| | |
-|---|---|
-| Removed | `The Secretary` |
-| Inserted | `(a) State and private employers.—The Secretary` |
-
-### 5 U.S.C. § 1211
-
-> in subparagraph (A), by striking “the person on whose behalf a complaint is referred” and inserting “a person who submits a complaint”; and
-
-| | |
-|---|---|
-| Removed | `the person on whose behalf a complaint is referred` |
-| Inserted | `a person who submits a complaint` |
-
-### 5 U.S.C. § 1211
-
-> by striking “60 days” and inserting “90 days”; and
-
-| | |
-|---|---|
-| Removed | `60 days` |
-| Inserted | `90 days` |
-
-### 5 U.S.C. § 1211
-
-> by striking “receives a referral” and inserting “receives a person’s complaint”;
-
-| | |
-|---|---|
-| Removed | `receives a referral` |
-| Inserted | `receives a person’s complaint` |
-
-### 38 U.S.C. § 4321
-
-> by striking “the Secretary’s duly authorized representatives” and inserting “the duly authorized representatives of the Secretary or the Special Counsel, as the case may be,” and
-
-| | |
-|---|---|
-| Removed | `the Secretary’s duly authorized representatives` |
-| Inserted | `the duly authorized representatives of the Secretary or the Special Counsel, as the case may be,` |
-
-### 38 U.S.C. § 4321
-
-> by striking “the Secretary considers” and inserting “the Secretary or the Special Counsel, as the case may be, considers”;
-
-| | |
-|---|---|
-| Removed | `the Secretary considers` |
-| Inserted | `the Secretary or the Special Counsel, as the case may be, considers` |
-
-### 38 U.S.C. § 4321
-
-> by striking “received a referral” and inserting “received a complaint submitted”; and
-
-| | |
-|---|---|
-| Removed | `received a referral` |
-| Inserted | `received a complaint submitted` |
-
 ### 38 U.S.C. § 7683
 
 > in subsections (b) and (c), by striking “payments to” both places it appears and inserting “payments to or for”; and
@@ -374,15 +311,6 @@ to guess them.
 |---|---|
 | Removed | `payable to that` |
 | Inserted | `payable to or for that` |
-
-### 42 U.S.C. § 1315a
-
-> in subclause (I), by striking “The Secretary” and inserting “Except as provided by subclause (III), the Secretary”; and
-
-| | |
-|---|---|
-| Removed | `The Secretary` |
-| Inserted | `Except as provided by subclause (III), the Secretary` |
 
 ### 38 U.S.C. § 1701
 
@@ -467,33 +395,10 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `38 U.S.C. § 1712A` | amend | Subsection (d) of section 203 of the Caregivers and Veterans Omnibus Health Services Act of 2010 (Public Law 111–163; 124 Stat. 1143; 38 U.S.C. 1712A note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 1710` | amend | Subsection (e) of section 205 of the Caregivers and Veterans Omnibus Health Services Act of 2010 (Public Law 111–163; 124 Stat. 1144; 38 U.S.C. 1710 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 4321` | insert | by inserting after “this chapter” the following: “with respect to a State (as an employer) or a private employer”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 1211` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 1211` | replace | by striking paragraph (1) and inserting the following new paragraph (1): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 4324` | strike | by striking paragraphs (1) and (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 4324` | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (1) and (2), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 4324` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 4321` | insert | in paragraph (1), by inserting after “an employer” the following: “that is a State or a private employer”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 4321` | strike | by striking “(A)”; | the bill quotes the text struck but describes what replaces it |
-| `38 U.S.C. § 4321` | replace | by striking “; or” and inserting a comma; and | the bill quotes the text struck but describes what replaces it |
-| `38 U.S.C. § 4321` | strike | by striking subparagraph (B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 4321` | strike | in subsection (c)(1), by striking “or 4324, as the case may be”; | the bill quotes the text struck but describes what replaces it |
-| `38 U.S.C. § 4321` | strike | in subsection (e)(2), by striking “(in the case of a person submitting a complaint against a State or private employer) or section 4324 (in the case of a person submitting a complaint against a Federal executive agency or the Office of P… | the bill quotes the text struck but describes what replaces it |
-| `38 U.S.C. § 4321` | strike | by striking subsection (g); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 4321` | replace | by striking the section heading and inserting the following: “Investigation and resolution of claims with respect to a State or private employer”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 4321` | insert | in paragraph (1), by inserting “or the Special Counsel” after “Secretary”; and | the bill quotes the text inserted but describes where it goes |
-| `38 U.S.C. § 4321` | insert | in paragraph (2), by inserting “, the Special Counsel,” after “Secretary”; | the bill quotes the text inserted but describes where it goes |
-| `38 U.S.C. § 4321` | insert | in subsection (b), by inserting after “Secretary” both places it appears the following: “(or the Special Counsel, as the case may be)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 4321` | insert | in subsection (c), by inserting “or the Special Counsel” after “Secretary” each place it appears; | the bill quotes the text inserted but describes where it goes |
-| `38 U.S.C. § 4321` | strike | in subsection (a)(2), by striking “4324(a)(1),”; and | the bill quotes the text struck but describes what replaces it |
-| `38 U.S.C. § 4321` | insert | in subsection (b), by inserting “the Special Counsel,” after “the Secretary,”; and | the bill quotes the text inserted but describes where it goes |
-| `38 U.S.C. § 4321` | strike | by striking “for such referral”. | the bill quotes the text struck but describes what replaces it |
-| `38 U.S.C. § 4321` | replace | The table of sections at the beginning of chapter 43 is amended by striking the item relating to section 4322 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 7682` | replace | by striking subsection (a) and inserting the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 1701` | insert | in paragraph (1)(A), by inserting “provide the veteran an appointment that exceeds the wait-time goals described in such subsection or” before “place such”; and | the bill quotes the text inserted but describes where it goes |
 | `38 U.S.C. § 1701` | insert | in paragraph (2), by inserting “(or other digital channel)” after “website”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1315a` | add-at-end | in paragraph (1)(A), by adding at the end the following new sentence: “An agreement entered into pursuant to this subparagraph may not be treated as a public contract for the acquisition of goods or services and is not subject to any pro… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1315a` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1701` | add-at-end | in subsection (d)(1)(A), by adding at the end the following new sentences: “An agreement entered into pursuant to this subparagraph may not be treated as a Federal contract for the acquisition of goods or services and is not subject to a… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 1701` | insert | in subsection (l)(1), by inserting “a copy of” before “any medical record”; and | the bill quotes the text inserted but describes where it goes |
 | `44 U.S.C. § 501` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 1701` | replace | in subsection (b), by striking “The Secretary of Veterans Affairs shall establish” and inserting the following: “The Secretary of Veterans Affairs and the Director of the Indian Health Service shall jointly establish and implement”; | the bill quotes the text struck but describes what replaces it |
@@ -503,7 +408,7 @@ complete account of the bill's effect, which it is not.
 | `38 U.S.C. § 1701` | insert | in subparagraph (B), by inserting “and events” after “locations”; and | the bill quotes the text inserted but describes where it goes |
 | `38 U.S.C. § 1701` | insert | in subparagraph (C), by inserting “and outreach contacts” after “appointments”; and | the bill quotes the text inserted but describes where it goes |
 | `38 U.S.C. § 1701` | insert | in the matter preceding clause (i), by inserting “and readjustment counseling” after “telemedicine services”; and | the bill quotes the text inserted but describes where it goes |
-| `38 U.S.C. § 1701` | insert | in clause (iii), by inserting “and outreach contracts” after “appointments”; | the bill quotes the text inserted but describes where it goes |
+| `38 U.S.C. § 1701` | insert | in clause (iii), by inserting “and outreach contacts” after “appointments”; | the bill quotes the text inserted but describes where it goes |
 | `38 U.S.C. § 1701` | insert | in subparagraph (B), by inserting “and readjustment counseling” after “health care services”; and | the bill quotes the text inserted but describes where it goes |
 | `38 U.S.C. § 1701` | strike | in subparagraph (E), by striking “mobile vet centers and”. | the bill quotes the text struck but describes what replaces it |
 | `38 U.S.C. § 1701` | replace | in subparagraph (A), by striking “Not later” and all that follows through “2019” and inserting the following: “On October 1 of each year beginning in 2015 and ending in 2019”; and | the bill quotes the text struck but describes what replaces it |
