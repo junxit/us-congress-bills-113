@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5405
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -49,15 +49,15 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 78a` | insert | in paragraph (1)(B), by inserting after “is a bank” the following: “, a savings and loan holding company (as defined in section 10 of the Home Owners' Loan Act),”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78a` | insert | in paragraph (4), by inserting after “case of a bank” the following: “, a savings and loan holding company (as defined in section 10 of the Home Owners' Loan Act),”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78a` | replace | in section 15(d), by striking “case of bank” and inserting the following: “case of a bank, a savings and loan holding company (as defined in section 10 of the Home Owners' Loan Act),”. | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 78o` | amend | Section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78o` | add-at-end | Section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78k-1` | amend | Section 11A(c)(6) of the Securities Exchange Act of 1934 (15 U.S.C. 78k–1(c)(6)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78k-1` | repeal | Effective on the date that is 5 years after the date of the enactment of this Act, section 11A(c)(6) of the Securities Exchange Act of 1934 (15 U.S.C. 78k–1(c)(6)) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 77f` | amend | Section 6(e)(1) of the Securities Act of 1933 (15 U.S.C. 77f(e)(1)) is further amended by adding at the end the following: “An issuer that was an emerging growth company at the time it submitted a confidential registration statement or, … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Section 102 of the Jumpstart Our Business Startups Act (Public Law 112–106) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `12 U.S.C. § 1851` | amend | Section 13(g) of the Bank Holding Company Act of 1956 (12 U.S.C. 1851(g)) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 77f` | add-at-end | Section 6(e)(1) of the Securities Act of 1933 (15 U.S.C. 77f(e)(1)) is further amended by adding at the end the following: “An issuer that was an emerging growth company at the time it submitted a confidential registration statement or, … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 102 of the Jumpstart Our Business Startups Act (Public Law 112–106) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `12 U.S.C. § 1851` | add-at-end | Section 13(g) of the Bank Holding Company Act of 1956 (12 U.S.C. 1851(g)) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 80b-3` | replace | by striking “No investment adviser” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 80b-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 80b-3` | amend | Section 203(m) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3(m)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 80b-3` | add-at-end | Section 203(m) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3(m)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | in subparagraph (A), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
