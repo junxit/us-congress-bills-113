@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3043
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Tribal General Welfare Exclusion Act of 2013”.
+This Act may be cited as the “Tribal General Welfare Exclusion Act of 2014”.
 
 ## § 2. Indian general welfare benefits
 
