@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5205
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5205
@@ -22,9 +22,10 @@ Northern Nevada Land Conservation and Economic Development Act
 - Rep. Heck, Joseph J. [R-NV-3] (H001055)
 - Rep. Titus, Dina [D-NV-1] (T000468)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Northern Nevada Land Conservation and Economic Development Act
 - 2014-09-15 — Placed on the Union Calendar, Calendar No. 440.
 - 2014-09-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-593.
 - 2014-09-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-593.
+- 2014-09-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
