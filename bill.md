@@ -11,17 +11,17 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as “The VA Construction Assistance Act of 2013”.
+This Act may be cited as the “VA Construction Assistance Act of 2014”.
 
 ## § 2. Findings; sense of Congress
 
 - **(a)** *Findings* Congress finds the following:
   - **(1)** According to testimony by the Director of Physical Infrastructure of the General Accountability Office before the Committee on Veterans’ Affairs of the House of Representatives in May 2013, schedule delays of major medical center construction projects of the Department of Veterans Affairs have averaged 35 months, with the delays ranging from 14 months to 74 months.
   - **(2)** The average cost increase attributed to such delays has been $336,000,000 per project.
+  - **(3)** Management of the major medical facility projects currently underway as of the date of the enactment of this Act in Denver, Colorado, Orlando, Florida, and New Orleans, Louisiana, should be subject to the oversight of a special project manager of the Army Corps of Engineers that is independent of the Department of Veterans Affairs because, according to the Comptroller General of the United States, such projects have experienced continuous delays and a total cost increase of nearly $1,000,000,000.
 - **(b)** *Sense of Congress* It is the sense of Congress that—
-  - **(1)** the management of the major medical center construction projects of the Department of Veterans Affairs has been an abysmal failure;
-  - **(2)** in order to minimize repeated delays and cost increases to such projects, the Secretary of Veterans Affairs should fully implement all recommendations made by the Comptroller General of the United States in an April 2013 report to improve construction procedures and practices of the Department; and
-  - **(3)** management of the major medical facility projects currently underway as of the date of the enactment of this Act in Denver, Colorado, Orlando, Florida, and New Orleans, Louisiana, should be subject to the oversight of a special project manager of the Army Corps of Engineers that is independent of the Department of Veterans Affairs.
+  - **(1)** the management of the major medical center construction projects of the Department of Veterans Affairs has been an abysmal failure; and
+  - **(2)** in order to minimize repeated delays and cost increases to such projects, the Secretary of Veterans Affairs should fully implement all recommendations made by the Comptroller General of the United States in an April 2013 report to improve construction procedures and practices of the Department.
 
 ## § 3. Implementation of major medical facility construction reforms
 
@@ -46,7 +46,7 @@ Section 8104 of title 38, United States Code, is amended by adding at the end th
     - **(A)** the performance of the Department of Veterans Affairs involving the prime contractors; and
     - **(B)** the compliance of the Department with the Federal Acquisition Regulation, including the VA Acquisition Regulation;
   - **(2)** advise and assist the Department in any construction-related activity at the project, including the approval of change-order requests for the purpose of achieving a timely completion of the project; and
-  - **(3)** recommend to the Department best construction practices to improve operations for the project.
+  - **(3)** conduct independent technical reviews and recommend to the Department best construction practices to improve operations for the project.
 - **(c)** *Plans and report*
   - **(1)** *Completion plans* Not later than 90 days after being appointed under subsection (a), a special project manager shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate detailed plans of the covered project for which the special project manager is so appointed.
   - **(2)** *Progress reports* Not later than 180 days after being appointed under subsection (a), and each 180-day period thereafter until the date on which the covered project is completed, a special project manager shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report detailing the progress of the covered project for which the special project manager is so appointed. Each report shall include—
@@ -57,7 +57,10 @@ Section 8104 of title 38, United States Code, is amended by adding at the end th
 - **(d)** *Cooperation*
   - **(1)** *Information* The Secretary of Veterans Affairs shall provide a special project manager appointed under subsection (a) with any necessary documents or information necessary for the special project manager to carry out subsections (b) and (c).
   - **(2)** *Assistance* Upon request by the special project manager, the Secretary shall provide to the special project manager administrative assistance necessary for the special project manager to carry out subsections (b) and (c).
-- **(e)** *Covered projects defined* In this section, the term covered projects means each construction project that is a major medical facility project (as defined in section 8104(a)(3)(A) of title 38, United States Code) being carried out as of the date of the enactment of this Act at the following locations:
-  - **(1)** Denver, Colorado.
-  - **(2)** Orlando, Florida.
-  - **(3)** New Orleans, Louisiana.
+- **(e)** *Covered projects defined* In this section, the term covered projects means each construction project that is a major medical facility project (as defined in section 8104(a)(3)(A) of title 38, United States Code) that—
+  - **(1)** was the subject of a report by the Comptroller General of the United States titled “Additional Actions Needed to Decrease Delays and Lower Costs of Major Medical-Facility Projects”, numbered GAO–13–302, and published in April 2013; and
+  - **(2)** has not been activated to accept patients as of the date of the enactment of this Act.
+
+## § 5. Prohibition on new appropriations
+
+No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act, and this Act and such amendments shall be carried out using amounts otherwise made available for such purposes.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3593
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3593
@@ -44,3 +44,9 @@ VA Construction Assistance Act of 2014
 - 2014-09-15 — Placed on the Union Calendar, Calendar No. 433.
 - 2014-09-15 — Reported by the Committee on Veterans' Affairs. H. Rept. 113-586.
 - 2014-09-15 — Reported by the Committee on Veterans' Affairs. H. Rept. 113-586.
+- 2014-09-16 — Considered under suspension of the rules. (consideration: CR H7581-7585)
+- 2014-09-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3593.
+- 2014-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-16 — Mr. Lamborn moved to suspend the rules and pass the bill, as amended.
+- 2014-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7581-7582)
+- 2014-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7581-7582)
