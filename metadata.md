@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4771
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4771
@@ -59,3 +59,14 @@ Designer Anabolic Steroid Control Act of 2014
 - 2014-09-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-587, Part II.
 - 2014-09-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-587, Part II.
 - 2014-09-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2014-12-11 — Passed Senate without amendment by Unanimous Consent.
+- 2014-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-12-11 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6696)
+- 2014-12-11 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6696)
+- 2014-12-12 — Message on Senate action sent to the House.
+- 2014-12-13 — Presented to President.
+- 2014-12-13 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-260.
+- 2014-12-18 — Became Public Law No: 113-260.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
