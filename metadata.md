@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3222
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3222
@@ -20,9 +20,10 @@ Flushing Remonstrance Study Act
 
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Flushing Remonstrance Study Act
 - 2014-09-15 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2014-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7494)
 - 2014-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7494)
+- 2014-09-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
