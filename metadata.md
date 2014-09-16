@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4119
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4119
@@ -96,9 +96,10 @@ West Hunter Street Baptist Church Study Act
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
 - Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -119,3 +120,4 @@ West Hunter Street Baptist Church Study Act
 - 2014-09-15 — Placed on the Union Calendar, Calendar No. 439.
 - 2014-09-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-592.
 - 2014-09-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-592.
+- 2014-09-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
