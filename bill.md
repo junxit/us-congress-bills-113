@@ -2,7 +2,7 @@
 legis-num: H.R. 4771
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4771
@@ -73,30 +73,34 @@ This Act may be cited as the “Designer Anabolic Steroid Control Act of 2014”
   >   - **(5)** An order issued under paragraph (1) is not subject to judicial review.
   >   - **(6)** The Attorney General may, by rule, issue a permanent order adding a drug or other substance to the definition of anabolic steroids if such drug or other substance satisfies the criteria for being considered an anabolic steroid under section 102(41). Such rulemaking may be commenced simultaneously with the issuance of the temporary order issued under paragraph (1).
 
-- **(c)** *Labeling requirements*
-  - **(1)** *In general* The Controlled Substances Act is amended by inserting after section 305 (21 U.S.C. 825) the following:
-    > ## § 305A. Offenses involving false labeling of anabolic steroids
-    >
-    > - **(a)** *Unlawful acts*
-    >   - **(1)** It shall be unlawful—
-    >     - **(A)** to import into the United States or to export from the United States;
-    >     - **(B)** to manufacture, distribute, dispense, sell, or offer to sell; or
-    >     - **(C)** to possess with intent to manufacture, distribute, dispense, sell, or offer to sell;
-    >   - **(2)**
-    >     - **(A)** A product described in subparagraph (B) is exempt from the International Union of Pure and Applied Chemistry nomenclature requirement of this subsection if such product is labeled in the manner required under the Federal Food, Drug, and Cosmetic Act.
-    >     - **(B)** A product is described in this subparagraph if the product—
-    >       - **(i)** is the subject of an approved application as described in section 505(b) or (j) of the Federal Food, Drug, and Cosmetic Act; or
-    >       - **(ii)** is exempt from the provisions of section 505 of such Act relating to new drugs because—
-    >         - **(I)** it is intended solely for investigational use as described in section 505(i) of such Act; and
-    >         - **(II)** such product is being used exclusively for purposes of a clinical trial that is the subject of an effective investigational new drug application.
-    > - **(b)** *Criminal penalties* Any person who violates subsection (a) knowing, intending, or having reasonable cause to believe, that the substance or product is an anabolic steroid, or contains an anabolic steroid, shall be sentenced to a term of imprisonment of not more than 10 years, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18, United States Code, or $500,000 if the defendant is an individual or $2,500,000 if the defendant is other than an individual, or both.
-    > - **(c)** *Civil penalties*
-    >   - **(1)** Any person who violates subsection (a) shall be subject to a civil penalty as follows:
-    >     - **(A)** In the case of an importer, exporter, manufacturer, or distributor (other than as provided in subparagraph (B)), up to $500,000 per violation. For purposes of this subparagraph, a violation is defined as each instance of importation, exportation, manufacturing, or distribution, and each anabolic steroid or product imported, exported, manufactured, or distributed.
-    >     - **(B)** In the case of a sale or offer to sell at retail, up to $25,000 per violation. For purposes of this subparagraph, each sale and each product offered for sale shall be considered a separate violation. Continued offers to sell by a person 10 or more days after written notice (including through electronic message) to the person by the Attorney General or the Secretary shall be considered additional violations.
-    >   - **(2)** In this subsection, the term product means a discrete article, either in bulk or in finished form prepared for sale. A number of articles, if similarly packaged and bearing identical labels, shall be considered as one product, but each package size, form, or differently labeled article shall be considered a separate product.
-    > - **(d)** *Identification and publication of list of products containing anabolic steroids*
-    >   - **(1)** The Attorney General may, in his discretion, collect data and analyze products to determine whether they contain anabolic steroids and are properly labeled in accordance with this section. The Attorney General may publish in the Federal Register or on the website of the Drug Enforcement Administration a list of products that he has determined, based on substantial evidence, contain an anabolic steroid and are not labeled in accordance with this section.
-    >   - **(2)** The absence of a product from the list referred to in paragraph (1) shall not constitute evidence that the product does not contain an anabolic steroid.
+## § 3. Labeling requirements
 
-  - **(2)** *Table of contents* The table of contents for the Comprehensive Drug Abuse Prevention and Control Act of 1970 is amended by inserting after the item relating to section 305 the following:
+- **(a)** *In general* Section 305 of the Controlled Substances Act (21 U.S.C. 825) is amended by adding at the end the following:
+  > - **(e)** *False Labeling of Anabolic Steroids*
+  >   - **(1)** It shall be unlawful to import, export, manufacture, distribute, dispense, or possess with intent to manufacture, distribute, or dispense, an anabolic steroid or product containing an anabolic steroid, unless the steroid or product bears a label clearly identifying an anabolic steroid or product containing an anabolic steroid by the nomenclature used by the International Union of Pure and Applied Chemistry (IUPAC).
+  >   - **(2)**
+  >     - **(A)** A product described in subparagraph (B) is exempt from the International Union of Pure and Applied Chemistry nomenclature requirement of this subsection if such product is labeled in the manner required under the Federal Food, Drug, and Cosmetic Act.
+  >     - **(B)** A product is described in this subparagraph if the product—
+  >       - **(i)** is the subject of an approved application as described in section 505(b) or (j) of the Federal Food, Drug, and Cosmetic Act; or
+  >       - **(ii)** is exempt from the provisions of section 505 of such Act relating to new drugs because—
+  >         - **(I)** it is intended solely for investigational use as described in section 505(i) of such Act; and
+  >         - **(II)** such product is being used exclusively for purposes of a clinical trial that is the subject of an effective investigational new drug application.
+
+- **(b)** *Clarification to Import and Export statute* Section 1010 of the Controlled Substances Import and Export Act (21 U.S.C. 960) is amended, in subsection (a)(1), by inserting “305,” before “1002”.
+- **(c)** *Civil penalties* Section 402 of the Controlled Substances Act (21 U.S.C. 842) is amended—
+  - **(1)** in subsection (a)—
+    - **(A)** in paragraph (14), by striking “or” at the end;
+    - **(B)** in paragraph (15), by striking the period at the end and inserting “; or”; and
+    - **(C)** by inserting, after paragraph (15), the following:
+      > - **(16)** to violate subsection (e) of section 825 of this title.
+
+  - **(2)** in subsection (c)(1)—
+    - **(A)** by inserting, in subparagraph (A), after “subparagraph (B)” the following: “, (C), or (D)”; and
+    - **(B)** by inserting after subparagraph (B) the following:
+      > - **(C)** In the case of a violation of paragraph (16) of subsection (a) of this section by an importer, exporter, manufacturer, or distributor (other than as provided in subparagraph (D)), up to $500,000 per violation. For purposes of this subparagraph, a violation is defined as each instance of importation, exportation, manufacturing, distribution, or possession with intent to manufacture or distribute, in violation of paragraph (16) of subsection (a).
+      > - **(D)** In the case of a distribution, dispensing, or possession with intent to distribute or dispense in violation of paragraph (16) of subsection (a) of this section at the retail level, up to $1000 per violation. For purposes of this paragraph, the term “at the retail level” refers to products sold, or held for sale, directly to the consumer for personal use. Each package, container or other separate unit containing an anabolic steroid that is distributed, dispensed, or possessed with intent to distribute or dispense at the retail level in violation of such paragraph (16) of subsection (a) shall be considered a separate violation.
+
+## § 4. Identification and publication of list of products containing anabolic steroids
+
+- **(a)** *In general* The Attorney General may, in the Attorney General’s discretion, collect data and analyze products to determine whether they contain anabolic steroids and are properly labeled in accordance with this Act and the amendments made by this Act. The Attorney General may publish in the Federal Register or on the website of the Drug Enforcement Administration a list of products which the Attorney General has determined, based on substantial evidence, contain an anabolic steroid and are not labeled in accordance with this Act and the amendments made by this Act.
+- **(b)** *Absence from list* The absence of a product from the list referred to in subsection (a) shall not constitute evidence that the product does not contain an anabolic steroid.

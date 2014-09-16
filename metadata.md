@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4771
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4771
@@ -25,10 +25,11 @@ Designer Anabolic Steroid Control Act of 2014
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
 - Rep. Duckworth, Tammy [D-IL-8] (D000622)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ Designer Anabolic Steroid Control Act of 2014
 - 2014-09-15 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-587, Part I.
 - 2014-09-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-587, Part II.
 - 2014-09-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-587, Part II.
+- 2014-09-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
