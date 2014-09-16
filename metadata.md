@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3006
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3006
@@ -22,9 +22,10 @@ To authorize a land exchange involving the acquisition of private land adjacent 
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To authorize a land exchange involving the acquisition of private land adjacent 
 - 2014-09-15 — Placed on the Union Calendar, Calendar No. 438.
 - 2014-09-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-591.
 - 2014-09-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-591.
+- 2014-09-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
