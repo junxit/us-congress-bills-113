@@ -1,7 +1,7 @@
 ---
 measure: S. 2511
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2511
@@ -32,3 +32,5 @@ A bill to amend the Employee Retirement Income Security Act of 1974 to clarify t
 - 2014-09-08 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
 - 2014-09-08 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
 - 2014-09-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 552.
+- 2014-09-16 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5647-5649; text as passed Senate: CR S5647-5648)
+- 2014-09-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5647-5649; text as passed Senate: CR S5647-5648)
