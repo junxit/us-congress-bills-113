@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4194
 congress: 113
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4194
@@ -16,10 +16,13 @@ Government Reports Elimination Act of 2014
 
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 
-## Cosponsors (2)
+## Cosponsors (5)
 
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Woodall, Rob [R-GA-7] (W000810)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Warner, Mark R. [D-VA] (W000805)
 
 ## Committees (2)
 
@@ -46,3 +49,12 @@ Government Reports Elimination Act of 2014
 - 2014-07-31 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. With written report No. 113-232.
 - 2014-07-31 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. With written report No. 113-232.
 - 2014-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 505.
+- 2014-09-16 — Amendment SA 3820 agreed to in Senate by Unanimous Consent.
+- 2014-09-16 — Amendment SA 3820 proposed by Senator Heitkamp for Senator Carper. (consideration: CR S5647) In the nature of a substitute.
+- 2014-09-16 — Measure laid before Senate by unanimous consent. (consideration: CR S5644-5647)
+- 2014-09-16 — Passed Senate with an amendment by Unanimous Consent.
+- 2014-09-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2014-09-16 — Senate amendment agreed to: Amendment SA 3820 agreed to in Senate by Unanimous Consent.
+- 2014-09-16 — Senate amendment proposed (on the floor): Amendment SA 3820 proposed by Senator Heitkamp for Senator Carper.(consideration: CR S5647)
+- 2014-09-16 — Senate amendment submitted
+- 2014-09-16 — The committee substitute as amended agreed to by Unanimous Consent. (text: CR S5644-5646)
