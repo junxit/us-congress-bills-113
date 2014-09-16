@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3044
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3044
@@ -22,9 +22,10 @@ To approve the transfer of Yellow Creek Port properties in Iuka, Mississippi.
 - Rep. Palazzo, Steven M. [R-MS-4] (P000601)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To approve the transfer of Yellow Creek Port properties in Iuka, Mississippi.
 - 2014-09-15 — Mr. Crawford moved to suspend the rules and pass the bill.
 - 2014-09-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7464-7465)
 - 2014-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7464-7465)
+- 2014-09-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
