@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2996
 congress: 113
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 2996
@@ -145,3 +145,4 @@ Revitalize American Manufacturing and Innovation Act of 2014
 - 2014-09-15 — Placed on the Union Calendar, Calendar No. 446.
 - 2014-09-15 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-599, Part I.
 - 2014-09-15 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-599, Part I.
+- 2014-09-16 — Received in the Senate.
