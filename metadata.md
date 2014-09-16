@@ -1,7 +1,7 @@
 ---
 measure: S. 2539
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2539
@@ -37,3 +37,17 @@ Traumatic Brain Injury Reauthorization Act of 2014
 - 2014-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 483.
 - 2014-09-16 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5643; text as passed Senate: CR S5643)
 - 2014-09-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5643; text as passed Senate: CR S5643)
+- 2014-09-17 — Held at the desk.
+- 2014-09-17 — Message on Senate action sent to the House.
+- 2014-09-17 — Received in the House.
+- 2014-11-13 — Considered by unanimous consent. (consideration: CR H7964)
+- 2014-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-11-13 — Mr. Latta asked unanimous consent to take from the Speaker's table and consider.
+- 2014-11-13 — On passage Passed without objection. (text: CR H7964)
+- 2014-11-13 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7964)
+- 2014-11-19 — Presented to President.
+- 2014-11-19 — Presented to President.
+- 2014-11-26 — Became Public Law No: 113-196.
+- 2014-11-26 — Became Public Law No: 113-196.
+- 2014-11-26 — Signed by President.
+- 2014-11-26 — Signed by President.
