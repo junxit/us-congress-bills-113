@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5108
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5108
@@ -50,3 +50,14 @@ To establish the Law School Clinic Certification Program of the United States Pa
 - 2014-09-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-588.
 - 2014-09-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-588.
 - 2014-09-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2014-12-04 — Passed Senate without amendment by Unanimous Consent.
+- 2014-12-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-12-04 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6354)
+- 2014-12-04 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6354)
+- 2014-12-08 — Message on Senate action sent to the House.
+- 2014-12-09 — Presented to President.
+- 2014-12-09 — Presented to President.
+- 2014-12-16 — Became Public Law No: 113-227.
+- 2014-12-16 — Became Public Law No: 113-227.
+- 2014-12-16 — Signed by President.
+- 2014-12-16 — Signed by President.
