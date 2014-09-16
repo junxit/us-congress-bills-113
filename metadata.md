@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5108
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5108
@@ -20,9 +20,10 @@ To establish the Law School Clinic Certification Program of the United States Pa
 
 - Rep. Chabot, Steve [R-OH-1] (C000266)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ To establish the Law School Clinic Certification Program of the United States Pa
 - 2014-09-15 — Placed on the Union Calendar, Calendar No. 435.
 - 2014-09-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-588.
 - 2014-09-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-588.
+- 2014-09-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
