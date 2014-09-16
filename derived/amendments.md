@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5461
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -44,11 +44,11 @@ to guess them.
 
 ### 15 U.S.C. § 1639c
 
-> in subsection (a)(5)(C), by striking “103” and all that follows through “or mortgage originator” and inserting “103(bb)(4)”; and
+> in subsection (a)(5)(C), by striking “103” and all that follows through “or mortgage originator)” and inserting “103(bb)(4)”; and
 
 | | |
 |---|---|
-| Removed | `103” and all that follows through “or mortgage originator` |
+| Removed | `103” and all that follows through “or mortgage originator)` |
 | Inserted | `103(bb)(4)` |
 
 ### 15 U.S.C. § 1639c
@@ -71,7 +71,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `12 U.S.C. § 5371` | add-at-end | in subsection (a), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5361` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1851` | amend | Section 13(g) of the Bank Holding Company Act of 1956 (12 U.S.C. 1851(g)) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1851` | add-at-end | Section 13(g) of the Bank Holding Company Act of 1956 (12 U.S.C. 1851(g)) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 2602` | insert | by inserting “and insurance” after “taxes”; | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 2602` | insert | in clause (ii), by inserting “, except as retained by a creditor or its affiliate as a result of their participation in an affiliated business arrangement (as defined in section 2(7) of the Real Estate Settlement Procedures Act of 1974 (… | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 2602` | replace | by striking clause (iii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
