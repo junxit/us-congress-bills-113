@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 24
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,24 +11,22 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Federal Reserve Transparency Act of 2013”.
+This Act may be cited as the “Federal Reserve Transparency Act of 2014”.
 
 ## § 2. Audit reform and transparency for the Board of Governors of the Federal Reserve System
 
-- **(a)** *In general* Notwithstanding section 714 of title 31, United States Code, or any other provision of law, an audit of the Board of Governors of the Federal Reserve System and the Federal reserve banks under subsection (b) of such section 714 shall be completed within 12 months after the date of the enactment of this Act.
+- **(a)** *In general* Notwithstanding section 714 of title 31, United States Code, or any other provision of law, the Comptroller General shall complete an audit of the Board of Governors of the Federal Reserve System and the Federal reserve banks under subsection (b) of such section 714 within 12 months after the date of the enactment of this Act.
 - **(b)** *Report*
-  - **(1)** *In general* A report on the audit required under subsection (a) shall be submitted by the Comptroller General to the Congress before the end of the 90-day period beginning on the date on which such audit is completed and made available to the Speaker of the House, the majority and minority leaders of the House of Representatives, the majority and minority leaders of the Senate, the Chairman and Ranking Member of the committee and each subcommittee of jurisdiction in the House of Representatives and the Senate, and any other Member of Congress who requests the report.
+  - **(1)** *In general* Not later than 90 days after the audit required pursuant to subsection (a) is completed, the Comptroller General—
+    - **(A)** shall submit to Congress a report on such audit; and
+    - **(B)** shall make such report available to the Speaker of the House, the majority and minority leaders of the House of Representatives, the majority and minority leaders of the Senate, the Chairman and Ranking Member of the committee and each subcommittee of jurisdiction in the House of Representatives and the Senate, and any other Member of Congress who requests the report.
   - **(2)** *Contents* The report under paragraph (1) shall include a detailed description of the findings and conclusion of the Comptroller General with respect to the audit that is the subject of the report, together with such recommendations for legislative or administrative action as the Comptroller General may determine to be appropriate.
-- **(c)** *Repeal of certain limitations* Subsection (b) of section 714 of title 31, United States Code, is amended by striking all after “in writing.”.
-- **(d)** *Technical and conforming amendment* Section 714 of title 31, United States Code, is amended by striking subsection (f).
-
-## § 3. Audit of loan file reviews required by enforcement actions
-
-- **(a)** *In general* The Comptroller General of the United States shall conduct an audit of the review of loan files of homeowners in foreclosure in 2009 or 2010, required as part of the enforcement actions taken by the Board of Governors of the Federal Reserve System against supervised financial institutions.
-- **(b)** *Content of audit* The audit carried out pursuant to subsection (a) shall consider, at a minimum—
-  - **(1)** the guidance given by the Board of Governors of the Federal Reserve System to independent consultants retained by the supervised financial institutions regarding the procedures to be followed in conducting the file reviews;
-  - **(2)** the factors considered by independent consultants when evaluating loan files;
-  - **(3)** the results obtained by the independent consultants pursuant to those reviews;
-  - **(4)** the determinations made by the independent consultants regarding the nature and extent of financial injury sustained by each homeowner as well as the level and type of remediation offered to each homeowner; and
-  - **(5)** the specific measures taken by the independent consultants to verify, confirm, or rebut the assertions and representations made by supervised financial institutions regarding the contents of loan files and the extent of financial injury to homeowners.
-- **(c)** *Report* Not later than the end of the 6-month period beginning on the date of the enactment of this Act, the Comptroller General shall issue a report to the Congress containing all findings and determinations made in carrying out the audit required under subsection (a).
+- **(c)** *Repeal of certain limitations* Subsection (b) of section 714 of title 31, United States Code, is amended by striking the second sentence.
+- **(d)** *Technical and conforming amendments* Section 714 of title 31, United States Code, is amended—
+  - **(1)** in subsection (d)(3)—
+    - **(A)** in subparagraph (A)—
+      - **(i)** by striking “or (f)”;
+      - **(ii)** in clause (i), by striking “or (f)”; and
+      - **(iii)** in clause (ii), by striking “or (f)”; and
+    - **(B)** in subparagraph (C), by striking “or (f)”; and
+  - **(2)** by striking subsection (f).
