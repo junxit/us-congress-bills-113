@@ -1,7 +1,7 @@
 ---
 measure: S. 1214
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1214
@@ -33,3 +33,5 @@ All-American Flag Act
 - 2014-07-31 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. With written report No. 113-236.
 - 2014-07-31 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. With written report No. 113-236.
 - 2014-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 504.
+- 2014-09-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5643-5644; text as passed Senate: CR S5643-5644)
+- 2014-09-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5643-5644; text as passed Senate: CR S5643-5644)
