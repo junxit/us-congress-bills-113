@@ -42,3 +42,4 @@ This Act may be cited as the “Veterans Traumatic Brain Injury Care Improvement
   - **(3)** by striking “assisted living” each place it appears, and inserting “community-based brain injury rehabilitative care”; and
   - **(4)** in subsection (f)(1), by striking “and personal care” and inserting “rehabilitation, and personal care”.
 - **(c)** *Effective date* The amendments made by this section shall take effect on the date of the enactment of this Act.
+- **(d)** *Prohibition on new appropriations* No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act, and this Act and such amendments shall be carried out using amounts otherwise available for such purpose.

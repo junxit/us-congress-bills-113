@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4276
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4276
@@ -40,3 +40,9 @@ Veterans Traumatic Brain Injury Care Improvement Act of 2014
 - 2014-09-15 — Placed on the Union Calendar, Calendar No. 445.
 - 2014-09-15 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-598.
 - 2014-09-15 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-598.
+- 2014-09-16 — Considered under suspension of the rules. (consideration: CR H7585-7587)
+- 2014-09-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4276.
+- 2014-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-16 — Mr. Lamborn moved to suspend the rules and pass the bill, as amended.
+- 2014-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7585-7586)
+- 2014-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7585-7586)
