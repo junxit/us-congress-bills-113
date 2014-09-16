@@ -18,7 +18,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *In general* Chapter 75 of title 5, United States Code, is amended by adding after subchapter V the following:
 - **(b)** *Technical and conforming amendments*
-  - **(1)** *Table of subchapters* The table of subchapters for chapter 75 of title 5, United States Code, is amended by adding at the end the following new items:
+  - **(1)** *Table of sections* The table of sections for chapter 75 of title 5, United States Code, is amended by adding at the end the following new items:
   - **(2)** *Subchapter II applicability* Section 7512 of such title is amended—
     - **(A)** in subparagraph (D), by striking “or” at the end;
     - **(B)** in subparagraph (E), by striking the period at the end and inserting “, or”; and
@@ -82,7 +82,91 @@ Section 3106 of title 44, United States Code, is amended to read as follows:
   > - **(a)** *Designation* Not later than November 15, 2014, the head of each Federal agency shall designate a Senior Agency Official for Records Management, and not later than November 15 of each year thereafter the head of each Federal agency shall reaffirm or designate a new Senior Agency Official for Records Management.
   > - **(b)** *Authorities and responsibilities* The Senior Agency Official for Records Management shall—
   >   - **(1)** be at least at the level of an Assistant Secretary or the equivalent; and
-  >   - **(2)** be responsible for coordinating with the appropriate Agency Records Officer and appropriate agency officials to ensure compliance with all applicable records management statutes, regulations, and any guidance issued by the Archivist.
+  >   - **(2)** be responsible for the coordinating with the appropriate Agency Records Officer and appropriate agency officials to ensure compliance with all applicable records management statutes, regulations, and any guidance issued by the Archivist.
   > - **(c)** *Federal agency coordination* In addition to the designation made pursuant to subsection (a), the head of a Federal agency may designate additional Senior Agency Officials for Records Management as the head of the agency determines to be necessary.
 
 - **(b)** *Technical and conforming amendment* The table of sections at the beginning of chapter 31 of title 44, United States Code, is amended by adding at the end the following new item:
+
+## § 6. Preservation of electronic messages and other records
+
+- **(a)** *Requirement for Preservation of Electronic Messages* Chapter 29 of title 44, United States Code, as amended by section 3(b), is further amended by adding at the end the following new section:
+  > ## § 2912. Preservation of electronic messages and other records
+  >
+  > - **(a)** *Regulations required* Not later than 18 months after the date of the enactment of this section, the Archivist shall promulgate regulations governing Federal agency preservation of electronic messages that are determined to be records (as such term is defined under section 3301 of this title). Such regulations shall, at a minimum—
+  >   - **(1)** require the electronic capture, management, and preservation of such electronic records in accordance with the records disposition requirements of chapter 33 of this title;
+  >   - **(2)** require that such electronic records are readily accessible for retrieval through electronic searches;
+  >   - **(3)** establish mandatory minimum functional requirements for electronic records management systems to ensure compliance with the requirements in paragraphs (1) and (2);
+  >   - **(4)** establish a process to certify that Federal agencies’ electronic records management systems meet the functional requirements established under paragraph (3); and
+  >   - **(5)** include timelines for Federal agency compliance with the regulations that ensure compliance as expeditiously as practicable but not later than 2 years after the date of the enactment of this section.
+  > - **(b)** *Coverage of other electronic records* To the extent practicable, the regulations promulgated under subsection (a) shall also include requirements for the capture, management, and preservation of other electronic records.
+  > - **(c)** *Compliance by Federal agencies* Each Federal agency shall comply with the regulations promulgated under subsection (a).
+  > - **(d)** *Review of regulations required* The Archivist shall periodically review and, as necessary, amend the regulations promulgated under subsection (a).
+  > - **(e)** *Reports on implementation of regulations*
+  >   - **(1)** *Agency report to Archivist* Not later than 3 years after the date of the enactment of this section, the head of each Federal agency shall submit to the Archivist a report on the agency’s compliance with the regulations promulgated under this section.
+  >   - **(2)** *Archivist report to Congress* Not later than 90 days after receipt of all reports required by paragraph (1), the Archivist shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report on Federal agency compliance with the regulations promulgated under subsection (a).
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 29 of title 44, United States Code, as amended by section 3(c)(2), is further amended by adding after the item relating to section 2911 the following new item:
+- **(c)** *Definitions* Section 2901 of title 44, United States Code, is amended—
+  - **(1)** by striking “and” at the end of paragraph (14); and
+  - **(2)** by striking paragraph (15) and inserting the following new paragraphs:
+    > - **(15)** the term electronic messages means electronic mail and other electronic messaging systems that are used for purposes of communicating between individuals; and
+    > - **(16)** the term electronic records management system means software designed to manage electronic records, including by—
+    >   - **(A)** categorizing and locating records;
+    >   - **(B)** ensuring that records are retained as long as necessary;
+    >   - **(C)** identifying records that are due for disposition; and
+    >   - **(D)** ensuring the storage, retrieval, and disposition of records.
+
+## § 7. Presidential records
+
+- **(a)** *Additional Regulations Relating to Presidential Records*
+  - **(1)** *In general* Section 2206 of title 44, United States Code, is amended—
+    - **(A)** by striking “and” at the end of paragraph (3);
+    - **(B)** by striking the period at the end of paragraph (4) and inserting “; and”; and
+    - **(C)** by adding at the end the following:
+      > - **(5)** provisions for establishing standards necessary for the economical and efficient management of electronic Presidential records during the President’s term of office, including—
+      >   - **(A)** records management controls necessary for the capture, management, and preservation of electronic messages;
+      >   - **(B)** records management controls necessary to ensure that electronic messages are readily accessible for retrieval through electronic searches; and
+      >   - **(C)** a process to certify the electronic records management system to be used by the President for the purposes of complying with the requirements in subparagraphs (A) and (B).
+
+  - **(2)** *Definitions* Section 2201 of title 44, United States Code, is amended by adding at the end the following new paragraphs:
+    > - **(6)** The term electronic messages has the meaning given that term under section 2901(15) of this title.
+    > - **(7)** The term electronic records management system has the meaning given that term under section 2901(16) of this title.
+
+- **(b)** *Certification of President’s Management of Presidential Records*
+  - **(1)** *Certification required* Chapter 22 of title 44, United States Code, as amended by section 3(a), is further amended by adding at the end the following new section:
+    > ## § 2209. Certification of the President’s management of Presidential records
+    >
+    > - **(a)** *Annual Certification* The Archivist shall annually certify whether the electronic records management controls established by the President meet requirements under sections 2203(a) and 2206(5) of this title.
+    > - **(b)** *Report to Congress* The Archivist shall report annually to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives on the status of the certification.
+
+  - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 22 of title 44, United States Code, as amended by section 3(c)(1), is further amended by adding at the end the following new item:
+- **(c)** *Report to Congress* Section 2203(f) of title 44, United States Code, is amended by adding at the end the following:
+  > - **(4)** One year following the conclusion of a President’s term of office, or if a President serves consecutive terms one year following the conclusion of the last term, the Archivist shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report on—
+  >   - **(A)** the volume and format of electronic Presidential records deposited into that President’s Presidential archival depository; and
+  >   - **(B)** whether the electronic records management controls of that President met the requirements under subsection (a) and section 2206(5) of this title.
+
+- **(d)** *Effective date* The amendments made by this section shall take effect one year after the date of the enactment of this Act.
+
+## § 8. Retention of electronic correspondence
+
+- **(a)** *Retention of records of high level officials* Section 3102 of title 44, United States Code, is amended—
+  - **(1)** in paragraph (2), by striking “; and” and inserting a semicolon;
+  - **(2)** in paragraph (3), by striking the period at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(4)** the identification of electronic messaging accounts (as defined in section 2911) that should be preserved because such accounts are most likely to contain records that should be preserved as permanent Federal records and the automatic retention of those records, including the accounts of each head of a Federal agency, the deputies and assistants of such head, the head of each program office and staff office, each assistant secretary, each administrator, each commissioner, each director of an office, bureau, or the equivalent, each principal regional official, each staff assistant to such official (such as a special assistant, confidential assistant, and administrative assistant), each career Federal employee, each political appointee, and each member of the Armed Forces serving in equivalent or comparable positions; and
+    > - **(5)** electronic capture, management, and preservation of the electronic messaging accounts (as defined in section 2911) described in paragraph (4), in accordance with the records disposal requirements of chapter 33 of this title such that—
+    >   - **(A)** electronic records are readily accessible for retrieval through electronic searches; and
+    >   - **(B)** there are mandatory minimum functional requirements for electronic records management systems to ensure compliance with this section.
+
+- **(b)** *Review by the Comptroller General of the United States* Section 3107 of title 44, United States Code, is amended—
+  - **(1)** by striking “Chapters 21” and inserting “(a) In general.—Chapters 21”; and
+  - **(2)** by adding at the end the following:
+    > - **(b)** *Comptroller General evaluation* The Comptroller General shall evaluate and report to Congress not less than every two years on agency management of electronic mail records required under paragraphs (4) and (5) of section 3102.
+
+- **(c)** *Review by Inspector General* Section 4(a) of the Inspector General Act (5 U.S.C. App) is amended—
+  - **(1)** in paragraph (4), by striking “; and” and inserting a semicolon;
+  - **(2)** in paragraph (5), by striking the period at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following new paragraph:
+    > - **(6)** to review existing and proposed legislation and regulations relating to records retention requirements under the chapters 21, 29, 31 and 33 of title 44, United States Code (commonly referred to as the Federal Records Act) for programs and operations of such establishment and to make recommendations in the semiannual reports required by section 5(a) concerning compliance with records retention requirements.
+
+- **(d)** *Effective date* This section and the amendments made by this section shall take effect on December 31, 2016.
