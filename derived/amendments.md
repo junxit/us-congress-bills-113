@@ -1,7 +1,7 @@
 ---
 measure: S. 2539
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-24 amendatory instructions. 14 executed, 10 stated and not applied.
+18 amendatory instructions. 10 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,42 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 42 U.S.C. § 300d-52
-
-> Section 1252(j) of the Public Health Service Act (42 U.S.C. 300d–52(j)) is amended, by striking “such sums as may be necessary for each of the fiscal years 2001 through 2005, and such sums as may be necessary for each of the fiscal years 2009 through 2012” and inserting “$5,500,000 for each of the fiscal years 2015 through 2019”.
-
-| | |
-|---|---|
-| Removed | `such sums as may be necessary for each of the fiscal years 2001 through 2005, and such sums as may be necessary for each of the fiscal years 2009 through 2012` |
-| Inserted | `$5,500,000 for each of the fiscal years 2015 through 2019` |
-
-### 42 U.S.C. § 300d-53
-
-> in subsection (l), by striking “$5,000,000 for fiscal year 2001, and such sums as may be necessary for each the fiscal years 2009 through 2012” and inserting “$3,100,000 for each of the fiscal years 2015 through 2019”;
-
-| | |
-|---|---|
-| Removed | `$5,000,000 for fiscal year 2001, and such sums as may be necessary for each the fiscal years 2009 through 2012` |
-| Inserted | `$3,100,000 for each of the fiscal years 2015 through 2019` |
-
-### 42 U.S.C. § 300d-53
-
-> in subsection (k), by striking “subtitle C” and inserting “subtitle C of title I”; and
-
-| | |
-|---|---|
-| Removed | `subtitle C` |
-| Inserted | `subtitle C of title I` |
-
-### 42 U.S.C. § 300d-53
-
-> in subsection (m), by striking “subtitle C” each place that such appears in paragraphs (1) and (2), and inserting “subtitle C of title I”.
-
-| | |
-|---|---|
-| Removed | `subtitle C` |
-| Inserted | `subtitle C of title I` |
 
 ### 42 U.S.C. § 280b-3
 
@@ -159,8 +123,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 280b-3` | replace | by striking the section heading and all that follows through “For the purpose” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 280b-3` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280b-3` | replace | by striking the section heading and all that follows through “For the purpose” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280b-3` | strike | by striking the second period; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280b-3` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

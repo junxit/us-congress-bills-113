@@ -1,7 +1,7 @@
 ---
 measure: S. 2539
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2539
@@ -35,3 +35,5 @@ Traumatic Brain Injury Reauthorization Act of 2014
 - 2014-07-23 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
 - 2014-07-23 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
 - 2014-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 483.
+- 2014-09-16 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5643; text as passed Senate: CR S5643)
+- 2014-09-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5643; text as passed Senate: CR S5643)
