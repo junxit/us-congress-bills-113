@@ -1,7 +1,7 @@
 ---
 measure: H.R. 24
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 24
@@ -252,6 +252,10 @@ Federal Reserve Transparency Act of 2014
 - House — Financial Services Committee
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2014-09-17 — [House 113-2-504](votes/house-113-2-0504.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (333–92)
+
 ## Actions
 
 - 2013-01-03 — Introduced in House
@@ -269,3 +273,7 @@ Federal Reserve Transparency Act of 2014
 - 2014-09-16 — Placed on the Union Calendar, Calendar No. 447.
 - 2014-09-16 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-602, Part I.
 - 2014-09-16 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-602, Part I.
+- 2014-09-17 — Considered as unfinished business. (consideration: CR H7635)
+- 2014-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 333 - 92 (Roll no. 504). (text: CR 9/16/2014 H7588)
+- 2014-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 333 - 92 (Roll no. 504).(text: CR 9/16/2014 H7588)

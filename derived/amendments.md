@@ -1,7 +1,7 @@
 ---
 measure: H.R. 24
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
