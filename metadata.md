@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 545
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 545
@@ -16,7 +16,7 @@ A resolution recognizing Hispanic Heritage Month and celebrating the heritage an
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (21)
+## Cosponsors (26)
 
 - Sen. Reid, Harry [D-NV] (R000146)
 - Sen. Cornyn, John [R-TX] (C001056)
@@ -39,6 +39,11 @@ A resolution recognizing Hispanic Heritage Month and celebrating the heritage an
 - Sen. Udall, Tom [D-NM] (U000039)
 - Sen. Warner, Mark R. [D-VA] (W000805)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Heller, Dean [R-NV] (H001041)
 
 ## Committees (1)
 
@@ -48,3 +53,7 @@ A resolution recognizing Hispanic Heritage Month and celebrating the heritage an
 
 - 2014-09-15 — Introduced in Senate
 - 2014-09-15 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5590-5591)
+- 2014-09-17 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2014-09-17 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2014-09-17 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5720)
+- 2014-09-17 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5720)
