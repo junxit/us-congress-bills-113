@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 124
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 124
@@ -16,16 +16,26 @@ Continuing Appropriations Resolution, 2015
 
 - Rep. Rogers, Harold [R-KY-5] (R000395)
 
+## Cosponsors (4)
+
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Rubio, Marco [R-FL] (R000595)
+
 ## Committees (2)
 
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (3)
+## Recorded votes (6)
 
 - 2014-09-17 — [House 113-2-507](votes/house-113-2-0507.md) — On Agreeing to the Amendment — **Agreed to** (273–156)
 - 2014-09-17 — [House 113-2-508](votes/house-113-2-0508.md) — On Motion to Recommit with Instructions — **Failed** (199–228)
 - 2014-09-17 — [House 113-2-509](votes/house-113-2-0509.md) — On Passage — **Passed** (319–108)
+- 2014-09-18 — [Senate 113-2-268](votes/senate-113-2-0268.md) — On the Motion to Table — **Motion to Table Failed** (50–50)
+- 2014-09-18 — [Senate 113-2-269](votes/senate-113-2-0269.md) — On the Cloture Motion — **Cloture Motion Agreed to** (73–27)
+- 2014-09-18 — [Senate 113-2-270](votes/senate-113-2-0270.md) — On the Joint Resolution — **Joint Resolution Passed** (78–22)
 
 ## Actions
 
@@ -60,3 +70,50 @@ Continuing Appropriations Resolution, 2015
 - 2014-09-17 — Roll call votes on amendments in House
 - 2014-09-17 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7661)
 - 2014-09-17 — The previous question was ordered on the amendment (A001) pursuant to the rule. (consideration: CR H7659-7660)
+- 2014-09-18 — Amendment SA 3851 proposed by Senator Reid. (consideration: CR S5737; text: CR S5737) Of a perfecting nature.
+- 2014-09-18 — Amendment SA 3852 proposed by Senator Reid to Amendment SA 3851. (consideration: CR S5737, S5755, S5763-5764; text: CR S5737) Of a perfecting nature.
+- 2014-09-18 — Amendment SA 3853 proposed by Senator Reid. (consideration: CR S5737; text: CR S5737) Of a perfecting nature.
+- 2014-09-18 — Amendment SA 3854 proposed by Senator Reid to Amendment SA 3853 (instructions of the motion to commit). (consideration: CR S5737; text: CR S5737) Of a perfecting nature.
+- 2014-09-18 — Amendment SA 3855 proposed by Senator Reid to Amendment SA 3854. (consideration: CR S5737; text: CR S5737) Of a perfecting nature.
+- 2014-09-18 — Cloture motion on the measure presented in Senate. (consideration: CR S5737; text: CR S57637)
+- 2014-09-18 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 73 - 27. Record Vote Number: 269. (consideration: CR S5764)
+- 2014-09-18 — Measure laid before Senate by unanimous consent. (consideration: CR S5737-5763, S5763-5764)
+- 2014-09-18 — Message on Senate action sent to the House.
+- 2014-09-18 — Motion by Senator Reid to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 3853) fell when cloture was invoked on the measure in Senate. (consideration: CR S5737)
+- 2014-09-18 — Motion by Senator Reid to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 3853) made in Senate. (consideration: CR S5737; text: CR S5737)
+- 2014-09-18 — Motion to table amendment SA 3852 rejected in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 268. (consideration: CR S5763-5764)
+- 2014-09-18 — Passed Senate without amendment by Yea-Nay Vote. 78 - 22. Record Vote Number: 270.
+- 2014-09-18 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 78 - 22. Record Vote Number: 270.
+- 2014-09-18 — Proposed amendment SA 3851 withdrawn in Senate. (consideration: CR S5764)
+- 2014-09-18 — Proposed amendment SA 3852 withdrawn in Senate. (consideration: CR S5764)
+- 2014-09-18 — Roll call votes on amendments in Senate: Motion to table amendment SA 3852 rejected in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 268.(consideration: CR S5763-5764)
+- 2014-09-18 — SA 3853 fell when cloture invoked on the measure. (consideration: CR S5764)
+- 2014-09-18 — SA 3854 fell when SA 3853 fell. (consideration: CR S5764)
+- 2014-09-18 — SA 3855 fell when SA 3854 fell. (consideration: CR S5764)
+- 2014-09-18 — Senate amendment proposed (on the floor): Amendment SA 3851 proposed by Senator Reid.(consideration: CR S5737; text: CR S5737)
+- 2014-09-18 — Senate amendment proposed (on the floor): Amendment SA 3852 proposed by Senator Reid to Amendment SA 3851.(consideration: CR S5737, S5755, S5763-5764; text: CR S5737)
+- 2014-09-18 — Senate amendment proposed (on the floor): Amendment SA 3853 proposed by Senator Reid.(consideration: CR S5737; text: CR S5737)
+- 2014-09-18 — Senate amendment proposed (on the floor): Amendment SA 3854 proposed by Senator Reid to Amendment SA 3853 (instructions of the motion to commit).(consideration: CR S5737; text: CR S5737)
+- 2014-09-18 — Senate amendment proposed (on the floor): Amendment SA 3855 proposed by Senator Reid to Amendment SA 3854.(consideration: CR S5737; text: CR S5737)
+- 2014-09-18 — Senate amendment submitted
+- 2014-09-18 — Senate amendment submitted
+- 2014-09-18 — Senate amendment submitted
+- 2014-09-18 — Senate amendment submitted
+- 2014-09-18 — Senate amendment submitted
+- 2014-09-18 — Senate amendment submitted
+- 2014-09-18 — Senate amendment submitted
+- 2014-09-18 — Senate amendment submitted
+- 2014-09-18 — Senate amendment submitted
+- 2014-09-18 — Senate amendment submitted
+- 2014-09-18 — Senate amendment submitted
+- 2014-09-18 — Senate amendment submitted
+- 2014-09-18 — Senate amendment submitted
+- 2014-09-18 — Senate amendment submitted
+- 2014-09-18 — Senate amendment submitted
+- 2014-09-19 — Became Public Law No: 113-164.
+- 2014-09-19 — Became Public Law No: 113-164.
+- 2014-09-19 — Presented to President.
+- 2014-09-19 — Presented to President.
+- 2014-09-19 — Pursuant to clause 4 of rule 1, H.J. Res. 124 was signed by the Speaker on Thursday, September 18, 2014.
+- 2014-09-19 — Signed by President.
+- 2014-09-19 — Signed by President.
