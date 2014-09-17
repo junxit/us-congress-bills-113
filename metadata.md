@@ -1,7 +1,7 @@
 ---
 measure: S. 2141
 congress: 113
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # S. 2141
@@ -52,3 +52,17 @@ Sunscreen Innovation Act
 - 2014-09-17 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5715-5720; text as passed Senate: CR S5715-5720)
 - 2014-09-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5715-5720; text as passed Senate: CR S5715-5720)
 - 2014-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 568.
+- 2014-09-18 — Held at the desk.
+- 2014-09-18 — Message on Senate action sent to the House.
+- 2014-09-18 — Received in the House.
+- 2014-11-13 — Considered by unanimous consent. (consideration: CR H7959-7964)
+- 2014-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-11-13 — Mr. Latta asked unanimous consent to take from the Speaker's table and consider.
+- 2014-11-13 — On passage Passed without objection. (text: CR H7959-7964)
+- 2014-11-13 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7959-7964)
+- 2014-11-19 — Presented to President.
+- 2014-11-19 — Presented to President.
+- 2014-11-26 — Became Public Law No: 113-195.
+- 2014-11-26 — Became Public Law No: 113-195.
+- 2014-11-26 — Signed by President.
+- 2014-11-26 — Signed by President.
