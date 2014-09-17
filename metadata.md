@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5404
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5404
@@ -41,3 +41,4 @@ Department of Veterans Affairs Expiring Authorities Act of 2014
 - 2014-09-16 — Mr. Lamborn moved to suspend the rules and pass the bill, as amended.
 - 2014-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7578-7580)
 - 2014-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7578-7580)
+- 2014-09-17 — Received in the Senate, read twice.
