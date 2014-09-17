@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 4276
-congress: 113th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4276
@@ -36,7 +36,7 @@ This Act may be cited as the “Veterans Traumatic Brain Injury Care Improvement
   >         - **(IV)** whether the pilot program should be incorporated into such independent living programs.
   >       - **(iv)** Such recommendations as the Secretary considers appropriate regarding improving the pilot program.
 
-- **(b)** *Definition of community-based brain injury residential rehabilitative care services* Such section is further amended—
+- **(b)** *Definition of community-Based brain injury residential rehabilitative care services* Such section is further amended—
   - **(1)** in the section heading, by striking “assisted living” and inserting “community-based brain injury residential rehabilitative care”;
   - **(2)** in subsection (c), in the subsection heading, by striking “Assisted Living” and inserting “Community-Based Brain Injury Residential Rehabilitative Care”;
   - **(3)** by striking “assisted living” each place it appears, and inserting “community-based brain injury rehabilitative care”; and
