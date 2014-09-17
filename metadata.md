@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5420
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5420
@@ -20,9 +20,10 @@ To amend the Internal Revenue Code of 1986 to permit the release of information 
 
 - Rep. Kelly, Mike [R-PA-3] (K000376)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ To amend the Internal Revenue Code of 1986 to permit the release of information 
 - 2014-09-16 — Mr. Boustany moved to suspend the rules and pass the bill.
 - 2014-09-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7599)
 - 2014-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7599)
+- 2014-09-17 — Received in the Senate and Read twice and referred to the Committee on Finance.
