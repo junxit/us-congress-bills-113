@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5404
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5404
@@ -42,3 +42,12 @@ Department of Veterans Affairs Expiring Authorities Act of 2014
 - 2014-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7578-7580)
 - 2014-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7578-7580)
 - 2014-09-17 — Received in the Senate, read twice.
+- 2014-09-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5863)
+- 2014-09-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5863)
+- 2014-09-19 — Message on Senate action sent to the House.
+- 2014-09-23 — Presented to President.
+- 2014-09-23 — Presented to President.
+- 2014-09-26 — Became Public Law No: 113-175.
+- 2014-09-26 — Became Public Law No: 113-175.
+- 2014-09-26 — Signed by President.
+- 2014-09-26 — Signed by President.
