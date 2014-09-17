@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5461
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5461
@@ -22,10 +22,11 @@ To clarify the application of certain leverage and risk-based requirements under
 - Rep. Huizenga, Bill [R-MI-2] (H001058)
 - Rep. Scott, David [D-GA-13] (S001157)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ To clarify the application of certain leverage and risk-based requirements under
 - 2014-09-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2014-09-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 327 - 97 (Roll no. 502). (text: CR 9/16/2014 H7508-7510)
 - 2014-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 327 - 97 (Roll no. 502).(text: CR 9/16/2014 H7508-7510)
+- 2014-09-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
