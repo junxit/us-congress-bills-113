@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 124
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 

@@ -164,7 +164,7 @@ The authority provided by section 831 of the Homeland Security Act of 2002 (6 U.
 
 ## § 130.
 
-Notwithstanding section 810 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6809), the authority described in such section shall continue in effect through the date specified in section 106(3) of this joint resolution.
+Section 810 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6809) shall be applied by substituting “on the date that is 1 year after the date specified in section 106(3) of the Continuing Appropriations Resolution, 2015” for “10 years after the date of the enactment of this Act”.
 
 ## § 131.
 
@@ -181,7 +181,7 @@ Amounts allocated to Head Start grantees from amounts identified in the seventh 
 
 ## § 134.
 
-The first proviso under the heading “Department of Health and Human Services—Administration for Children and Families—Low Income Home Energy Assistance” in division F of Public Law 113–76 shall be applied to amounts made available by this joint resolution by substituting “2015” for “2014”.
+The first proviso under the heading “Department of Health and Human Services—Administration for Children and Families—Low Income Home Energy Assistance” in division H of Public Law 113–76 shall be applied to amounts made available by this joint resolution by substituting “2015” for “2014”.
 
 ## § 135.
 
@@ -189,11 +189,11 @@ Amounts provided by this joint resolution for “Department of Health and Human 
 
 ## § 136.
 
-Notwithstanding section 101, amounts are provided for “Department of Health and Human Services—Office of the Secretary—Public Health and Social Services Emergency Fund” at a rate for operations of $1,301,430,000, of which $58,000,000 may be apportioned up to the rate for operations necessary for expenses to support acceleration of countermeasure and product advanced research and development pursuant to section 319L of the Public Health Service Act for addressing Ebola therapies.
+In addition to the amount otherwise provided by this joint resolution for “Department of Health and Human Services—Office of the Secretary—Public Health and Social Services Emergency Fund”, there is appropriated $58,000,000 for an additional amount for fiscal year 2015, to remain available until September 30, 2015, for expenses necessary to support acceleration of countermeasure and product advanced research and development pursuant to section 319L of the Public Health Service Act for addressing Ebola.
 
 ## § 137.
 
-Notwithstanding section 101, amounts are provided for “Department of Health and Human Services—Centers for Disease Control and Prevention—Global Health” at a rate for operations of $413,000,000, of which $30,000,000 may be apportioned up to the rate for operations necessary to support the responses of the Centers for Disease Control and Prevention (referred to in this section as the “CDC”) to the outbreak of Ebola virus in Africa: Provided, That such funds made available for responses to the outbreak of Ebola virus in Africa shall be available for transfer by the Director of the CDC to other accounts of the CDC for such support: Provided further, That the Director of the CDC shall notify the Committees on Appropriations of the House of Representatives and the Senate not later than 30 days after the date of any transfer under the preceding proviso.
+In addition to the amount otherwise provided by this joint resolution for “Department of Health and Human Services—Centers for Disease Control and Prevention—Global Health”, there is appropriated $30,000,000 for an additional amount for fiscal year 2015, to remain available until September 30, 2015, for expenses necessary to support the responses of the Centers for Disease Control and Prevention (referred to in this section as the “CDC”) to the outbreak of Ebola virus in Africa: Provided, That such funds shall be available for transfer by the Director of the CDC to other accounts of the CDC for such support: Provided further, That the Director of the CDC shall notify the Committees on Appropriations of the House of Representatives and the Senate not later than 30 days after the date of any transfer under the preceding proviso.
 
 ## § 138.
 
@@ -241,5 +241,42 @@ The Export-Import Bank Act of 1945 (12 U.S.C. 635 et seq.) shall be applied thro
 - **(a)** Section 44302(f) of title 49, United States Code, is amended by striking “September 30, 2014” and inserting “the date specified in section 106(3) of the Continuing Appropriations Resolution, 2015”.
 - **(b)** Section 44303(b) of title 49, United States Code, is amended by striking “September 30, 2014” and inserting “the date specified in section 106(3) of the Continuing Appropriations Resolution, 2015”.
 - **(c)** Section 44310(a) of title 49, United States Code, is amended by striking “September 30, 2014” and inserting “the date specified in section 106(3) of the Continuing Appropriations Resolution, 2015”.
+
+## § 149.
+
+- **(a)** The Secretary of Defense is authorized, in coordination with the Secretary of State, to provide assistance, including training, equipment, supplies, and sustainment, to appropriately vetted elements of the Syrian opposition and other appropriately vetted Syrian groups and individuals for the following purposes:
+  - **(1)** Defending the Syrian people from attacks by the Islamic State of Iraq and the Levant (ISIL), and securing territory controlled by the Syrian opposition.
+  - **(2)** Protecting the United States, its friends and allies, and the Syrian people from the threats posed by terrorists in Syria.
+  - **(3)** Promoting the conditions for a negotiated settlement to end the conflict in Syria.
+- **(b)** Not later than 15 days prior to providing assistance authorized under subsection (a) to vetted recipients for the first time—
+  - **(1)** the Secretary of Defense, in coordination with the Secretary of State, shall submit to the appropriate congressional committees and leadership of the House of Representatives and Senate a report, in unclassified form with a classified annex as appropriate, that contains a description of—
+    - **(A)** the plan for providing such assistance;
+    - **(B)** the requirements and process used to determine appropriately vetted recipients; and
+    - **(C)** the mechanisms and procedures that will be used to monitor and report to the appropriate congressional committees and leadership of the House of Representatives and Senate on unauthorized end-use of provided training and equipment and other violations of relevant law by recipients; and
+  - **(2)** the President shall submit to the appropriate congressional committees and leadership of the House of Representatives and Senate a report, in unclassified form with a classified annex as appropriate, that contains a description of how such assistance fits within a larger regional strategy.
+- **(c)** The plan required in subsection (b)(1) shall include a description of—
+  - **(1)** the goals and objectives of assistance authorized under subsection (a);
+  - **(2)** the concept of operations, timelines, and types of training, equipment, and supplies to be provided;
+  - **(3)** the roles and contributions of partner nations;
+  - **(4)** the number of United States Armed Forces personnel involved;
+  - **(5)** any additional military support and sustainment activities; and
+  - **(6)** any other relevant details.
+- **(d)** Not later than 90 days after the Secretary of Defense submits the report required in subsection (b)(1), and every 90 days thereafter, the Secretary of Defense, in coordination with the Secretary of State, shall provide the appropriate congressional committees and leadership of the House of Representatives and the Senate with a progress report. Such progress report shall include a description of—
+  - **(1)** any updates to or changes in the plan, strategy, vetting requirements and process, and end-use monitoring mechanisms and procedures, as required in subsection (b)(1);
+  - **(2)** statistics on green-on-blue attacks and how such attacks are being mitigated;
+  - **(3)** the groups receiving assistance authorized under subsection (a);
+  - **(4)** the recruitment, throughput, and retention rates of recipients and equipment;
+  - **(5)** any misuse or loss of provided training and equipment and how such misuse or loss is being mitigated; and
+  - **(6)** an assessment of the effectiveness of the assistance authorized under subsection (a) as measured against subsections (b) and (c).
+- **(e)** For purposes of this section, the following definitions shall apply:
+  - **(1)** The term “appropriately vetted” means, with respect to elements of the Syrian opposition and other Syrian groups and individuals, at a minimum, assessments of such elements, groups, and individuals for associations with terrorist groups, Shia militias aligned with or supporting the Government of Syria, and groups associated with the Government of Iran. Such groups include, but are not limited to, the Islamic State of Iraq and the Levant (ISIL), Jabhat al Nusrah, Ahrar al Sham, other al-Qaeda related groups, and Hezbollah.
+  - **(2)** The term “appropriate congressional committees” means—
+    - **(A)** the Committee on Armed Services, the Committee on Foreign Affairs, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives; and
+    - **(B)** the Committee on Armed Services, the Committee on Foreign Relations, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate.
+- **(f)** The Department of Defense may submit a reprogramming or transfer request to the congressional defense committees for funds made available by section 101(a)(3) of this joint resolution and designated in section 114 of this joint resolution to carry out activities authorized under this section notwithstanding sections 102 and 104 of this joint resolution.
+- **(g)** The Secretary of Defense may accept and retain contributions, including assistance in-kind, from foreign governments to carry out activities as authorized by this section which shall be credited to appropriations made available by this joint resolution for the appropriate operation and maintenance accounts, except that any funds so accepted by the Secretary shall not be available for obligation until a reprogramming action is submitted to the congressional defense committees: Provided, That amounts made available by this subsection are designated by the Congress for Overseas Contingency Operations/Global War on Terrorism pursuant to section 251(b)(2)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985: Provided further, That such amounts shall be available only if the President so designates such amounts and transmits such designations to the Congress.
+- **(h)** The authority provided in this section shall continue in effect through the earlier of the date specified in section 106(3) of this joint resolution or the date of the enactment of an Act authorizing appropriations for fiscal year 2015 for military activities of the Department of Defense.
+- **(i)** Nothing in this section shall be construed to constitute a specific statutory authorization for the introduction of United States Armed Forces into hostilities or into situations wherein hostilities are clearly indicated by the circumstances.
+- **(j)** Nothing in this section supersedes or alters the continuing obligations of the President to report to Congress pursuant to section 4 of the War Powers Resolution (50 U.S.C. 1543) regarding the use of United States Armed Forces abroad.
 
 This joint resolution may be cited as the “Continuing Appropriations Resolution, 2015”.
