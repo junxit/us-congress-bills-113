@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5170
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -43,7 +43,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `44 U.S.C. § 2208` | amend | Chapter 75 of title 5, United States Code, is amended by adding after subchapter V the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `44 U.S.C. § 2208` | add-at-end | The table of sections for chapter 75 of title 5, United States Code, is amended by adding at the end the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `44 U.S.C. § 2208` | amend | The table of sections for chapter 75 of title 5, United States Code, is amended by adding at the end the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 2208` | strike | in subparagraph (D), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `44 U.S.C. § 2208` | replace | in subparagraph (E), by striking the period at the end and inserting “, or”; and | the bill quotes the text inserted but describes where it goes |
 | `44 U.S.C. § 2208` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
