@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5405
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5405
@@ -31,10 +31,11 @@ Promoting Job Creation and Reducing Small Business Burdens Act
 - Rep. Womack, Steve [R-AR-3] (W000809)
 - Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ Promoting Job Creation and Reducing Small Business Burdens Act
 - 2014-09-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2014-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 320 - 102 (Roll no. 501). (text: CR 9/16/2014 H7497-7501)
 - 2014-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 320 - 102 (Roll no. 501).(text: CR 9/16/2014 H7497-7501)
+- 2014-09-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
