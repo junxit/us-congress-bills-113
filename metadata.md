@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5169
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5169
@@ -21,9 +21,10 @@ Senior Executive Service Accountability Act
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 - Rep. Carter, John R. [R-TX-31] (C001051)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Senior Executive Service Accountability Act
 - 2014-09-16 — Placed on the Union Calendar, Calendar No. 448.
 - 2014-09-16 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-603.
 - 2014-09-16 — Reported by the Committee on Oversight and Government Reform. H. Rept. 113-603.
+- 2014-09-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
