@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 543
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 543
@@ -16,7 +16,7 @@ A resolution designating November 1, 2014, as National Bison Day.
 
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 
-## Cosponsors (14)
+## Cosponsors (21)
 
 - Sen. Johnson, Tim [D-SD] (J000177)
 - Sen. Portman, Rob [R-OH] (P000449)
@@ -32,6 +32,13 @@ A resolution designating November 1, 2014, as National Bison Day.
 - Sen. Donnelly, Joe [D-IN] (D000607)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 - Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
 
 ## Committees (1)
 
@@ -41,3 +48,7 @@ A resolution designating November 1, 2014, as National Bison Day.
 
 - 2014-09-11 — Introduced in Senate
 - 2014-09-11 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5566)
+- 2014-09-17 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2014-09-17 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2014-09-17 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5725)
+- 2014-09-17 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5725)
