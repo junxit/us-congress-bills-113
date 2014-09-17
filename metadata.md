@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3043
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3043
@@ -95,3 +95,4 @@ Tribal General Welfare Exclusion Act of 2014
 - 2014-09-16 — Mr. Nunes moved to suspend the rules and pass the bill.
 - 2014-09-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7600)
 - 2014-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7600)
+- 2014-09-17 — Received in the Senate, read twice.
