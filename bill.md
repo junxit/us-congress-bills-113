@@ -104,7 +104,12 @@ Nothing in this Act affects the original boundary of the Reservation, as establi
 
 Nothing in this Act extinguishes or conveys any water right of the Tribes, as established in the agreement entitled “1990 Fort Hall Indian Water Rights Agreement” and ratified by section 4 of the Fort Hall Indian Water Rights Act of 1990 (Public Law 101–602; 104 Stat. 3060).
 
-## § 9. Disclaimers regarding claims
+## § 9. Effect on certain obligations
+
+- **(a)** *In general* Except as provided in subsection (b), nothing in this Act affects the obligation of Blackfoot River Flood Control District No. 7 to maintain adequate rights-of-way for the operation and maintenance of the local flood protection projects described in section 2(a)(4) pursuant to agreements between the Blackfoot River Flood Control District No. 7 and the Corps of Engineers.
+- **(b)** *Restriction on fees* Any land conveyed to the Tribes pursuant to this Act shall not be subject to fees assessed by Blackfoot River Flood Control District No. 7.
+
+## § 10. Disclaimers regarding claims
 
 Nothing in this Act—
 
