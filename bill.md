@@ -70,6 +70,9 @@ This Act may be cited as the “Coal Jobs Protection Act of 2014”.
     >       - **(ii)** new introductions of pollutants into the treatment works from a source that would be subject to section 301 if the source were discharging those pollutants; or
     >       - **(iii)** a substantial change in volume or character of pollutants being introduced into the treatment works by a source introducing pollutants into the treatment works at the time of issuance of the permit; and
     >     - **(I)** to ensure that any industrial user of any publicly owned treatment works will comply with sections 204(b), 307, and 308.
+    >   - **(3)** *Administration* Notwithstanding paragraph (2), the Administrator may not disapprove or withdraw approval of a program under this subsection, or limit Federal financial assistance for such program, on the basis of the following:
+    >     - **(A)** The failure of the program to incorporate or comply with guidance (as defined in subsection (s)(1)).
+    >     - **(B)** The implementation of a water quality standard that has been adopted by the State and approved by the Administrator under section 303(c).
 
   - **(2)** *Conforming amendments*
     - **(A)** *Federal enforcement* Section 309 of the Federal Water Pollution Control Act (33 U.S.C. 1319) is amended—
@@ -78,6 +81,27 @@ This Act may be cited as the “Coal Jobs Protection Act of 2014”.
         - **(II)** in paragraph (2)(A), by striking “402(b)(8)” and inserting “402(b)(2)(H)”; and
       - **(ii)** in subsection (d), in the first sentence, by striking “402(b)(8)” and inserting “402(b)(2)(H)”.
     - **(B)** *Additional pretreatment* Section 402(m) of the Federal Water Pollution Control Act (33 U.S.C. 1342(m)) is amended in the first sentence by striking “subsection (b)(8) of this section” and inserting “subsection (b)(2)(H)”.
+- **(c)** *Suspension of Federal program* Section 402(c) of the Federal Water Pollution Control Act (33 U.S.C. 1342(c)) is amended—
+  - **(1)** by redesignating paragraph (4) as paragraph (5); and
+  - **(2)** by inserting after paragraph (3) the following:
+    > - **(4)** *Limitation on disapproval* Notwithstanding paragraphs (1) through (3), the Administrator may not disapprove or withdraw approval of a State program under subsection (b), or limit Federal financial assistance for the State program, on the basis of the following:
+    >   - **(A)** The failure of the program to incorporate or comply with guidance (as defined in subsection (s)(1)).
+    >   - **(B)** The implementation of a water quality standard that has been adopted by the State and approved by the Administrator under section 303(c).
+
+- **(d)** *Notification of Administrator* Section 402(d)(2) of the Federal Water Pollution Control Act (33 U.S.C. 1342(d)(2)) is amended as follows:
+  - **(1)** By striking “(2) No” and all that follows through the end of the first sentence and inserting the following:
+    > - **(2)** *Objection by administrator*
+    >   - **(A)** *In general* Subject to subparagraph (C), no permit shall issue if—
+    >     - **(i)** not later than 90 days after the date on which the Administrator receives notification under subsection (b)(2)(E), the Administrator objects in writing to the issuance of the permit; or
+    >     - **(ii)** not later than 90 days after the date on which the proposed permit of the State is transmitted to the Administrator, the Administrator objects in writing to the issuance of the permit as being outside the requirements of this Act.
+
+  - **(2)** In the second sentence, by striking “Whenever the Administrator” and inserting the following:
+    > - **(B)** *Requirements* If the Administrator
+
+  - **(3)** By adding at the end the following:
+    > - **(C)** *Exception* The Administrator may not object to or deny the issuance of a permit by a State under subsection (b) or (s) based on the following:
+    >   - **(i)** Guidance, as that term is defined in subsection (s)(1).
+    >   - **(ii)** The Administrator’s interpretation of a water quality standard that has been adopted by the State and approved by the Administrator under section 303(c).
 
 ## § 3. Permits for dredged or fill material
 
@@ -138,7 +162,21 @@ This Act may be cited as the “Coal Jobs Protection Act of 2014”.
     - **(A)** With respect to employment levels, a loss of more than 100 jobs. Any offsetting job gains that result from the hypothetical creation of new jobs through new technologies or government employment may not be used in the job loss calculation.
     - **(B)** With respect to economic activity, a decrease in economic activity of more than $1,000,000 over any calendar year. Any offsetting economic activity that results from the hypothetical creation of new economic activity through new technologies or government employment may not be used in the economic activity calculation.
 
-## § 5. State authority to identify waters within its boundaries
+## § 5. Limitations on authority to modify State water quality standards
+
+- **(a)** *State water quality standards* Section 303(c)(4) of the Federal Water Pollution Control Act (33 U.S.C. 1313(c)(4)) is amended—
+  - **(1)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively;
+  - **(2)** by striking “(4)” and inserting “(4)(A)”;
+  - **(3)** by striking “The Administrator shall promulgate” and inserting the following:
+    > - **(B)** The Administrator shall promulgate
+
+  - **(4)** by adding at the end the following:
+    > - **(C)** Notwithstanding subparagraph (A)(ii), the Administrator may not promulgate a revised or new standard for a pollutant in any case in which the State has submitted to the Administrator and the Administrator has approved a water quality standard for that pollutant, unless the State concurs with the Administrator’s determination that the revised or new standard is necessary to meet the requirements of this Act.
+
+- **(b)** *Federal licenses and permits* Section 401(a) of such Act (33 U.S.C. 1341(a)) is amended by adding at the end the following:
+  > - **(7)** With respect to any discharge, if a State or interstate agency having jurisdiction over the navigable waters at the point where the discharge originates or will originate determines under paragraph (1) that the discharge will comply with the applicable provisions of sections 301, 302, 303, 306, and 307, the Administrator may not take any action to supersede the determination.
+
+## § 6. State authority to identify waters within its boundaries
 
 Section 303 of the Federal Water Pollution Control Act (33 U.S.C. 1313) is amended by striking subsection (d)(2) and inserting the following:
 
@@ -155,7 +193,7 @@ Section 303 of the Federal Water Pollution Control Act (33 U.S.C. 1313) is amend
 >     - **(ii)** If the Administrator announces his disagreement with the State identification and load but fails to submit his written recommendation to the State within 30 days as required by subparagraph (A)(ii) then such State’s identification and load is deemed approved and such State shall incorporate the identification and load that it submitted into its current plan under subsection (e).
 >   - **(D)** This paragraph shall apply to any decision made by the Administrator under this subsection issued on or after March 1, 2013.
 
-## § 6. Definition of fill material
+## § 7. Definition of fill material
 
 Section 502 of the Federal Water Pollution Control Act (33 U.S.C. 1362) is amended by adding at the end the following:
 
@@ -175,6 +213,6 @@ Section 502 of the Federal Water Pollution Control Act (33 U.S.C. 1362) is amend
 >     - **(ix)** materials used to create any structure or infrastructure in the waters of the United States.
 >   - **(C)** *Exclusions* The term fill material does not apply to trash or garbage.
 
-## § 7. Applicability of amendments
+## § 8. Applicability of amendments
 
 Except as otherwise specifically provided, the amendments made by this Act shall apply to actions taken on or after the date of enactment of this Act, including actions taken with respect to permit applications pending, or revised or new standards in the process of being promulgated, on such date of enactment.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5077
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-16 amendatory instructions. 8 executed, 8 stated and not applied.
+26 amendatory instructions. 9 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -96,6 +96,15 @@ to guess them.
 | Removed | `(q)` |
 | Inserted | `(q)(1)` |
 
+### 33 U.S.C. § 1313
+
+> by striking “(4)” and inserting “(4)(A)”;
+
+| | |
+|---|---|
+| Removed | `(4)` |
+| Inserted | `(4)(A)` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -105,11 +114,20 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `33 U.S.C. § 1342` | amend | Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1342` | add-at-end | Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1342` | replace | Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1342` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1342` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1342` | replace | By striking “(2) No” and all that follows through the end of the first sentence and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 1342` | replace | In the second sentence, by striking “Whenever the Administrator” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 1342` | add-at-end | By adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1344` | replace | by striking “(a) The Secretary may issue” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 4321` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1344` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1344` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1313` | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1313` | replace | by striking “The Administrator shall promulgate” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 1313` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1341` | add-at-end | Section 401(a) of such Act (33 U.S.C. 1341(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1313` | replace | Section 303 of the Federal Water Pollution Control Act (33 U.S.C. 1313) is amended by striking subsection (d)(2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1362` | amend | Section 502 of the Federal Water Pollution Control Act (33 U.S.C. 1362) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1362` | add-at-end | Section 502 of the Federal Water Pollution Control Act (33 U.S.C. 1362) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
