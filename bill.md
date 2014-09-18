@@ -23,8 +23,8 @@ In this Act—
   - **(C)** an element of the intelligence community (as that term is defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003));
   - **(D)** the United States Postal Service; and
   - **(E)** the Postal Regulatory Commission;
-- **(2)** the term background investigation fieldwork services means the investigatory fieldwork conducted to determine the eligibility of an individual for a security clearance or suitability for Federal employment, including—
-  - **(A)** interviews of the individual or friends, family, or other sources who might have relevant knowledge of the individual; and
+- **(2)** the term background investigation fieldwork services means the investigatory fieldwork conducted to determine the eligibility of an individual for logical and physical access to Federally-controlled facilities or information systems, suitability or fitness for Federal employment, eligibility for access to classified information or to hold a national security sensitive position, or fitness to perform work for or on behalf of the Federal Government as a contractor or employee, including—
+  - **(A)** interviews of the individual, the employer of the individual, former employers of the individual, and friends, family, and other sources who might have relevant knowledge of the individual; and
   - **(B)** reviews of—
     - **(i)** educational and employment records;
     - **(ii)** criminal and other legal records; and
@@ -35,8 +35,8 @@ In this Act—
   - **(C)** file maintenance;
   - **(D)** imaging or copying of investigation documents; and
   - **(E)** mail processing; and
-- **(4)** the term quality review process means performing the final quality review of a background investigation, or assisting or facilitating the quality review or another quality assurance process, to ensure investigative, administrative, and other required standards have been met before the completed background investigation is delivered to the adjudicating agency.
+- **(4)** the term quality review process means performing the final quality review of a background investigation to ensure investigative, administrative, and other required standards have been met before the completed background investigation is delivered to the adjudicating agency.
 
-## § 3. Organizational conflicts of interest
+## § 3. Limitation on contracting to prevent organizational conflicts of interest
 
-After the date of enactment of this Act, the Director of the Office of Personnel Management may not award a contract to an entity under which the entity will conduct quality review processes for background investigation fieldwork services or background investigation support services that, as of the date of the award of the contract, are being conducted by that entity.
+Notwithstanding any other provision of law, after the date of enactment of this Act, a contract may not be entered into, and an extension of or option on a contract may not be exercised, with a contractor to conduct a quality review process relating to background investigation fieldwork services or background investigation support services if the contractor is performing the services to be reviewed.
