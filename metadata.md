@@ -1,7 +1,7 @@
 ---
 measure: S. 2583
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2583
@@ -32,3 +32,5 @@ Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014
 - 2014-09-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. Without written report.
 - 2014-09-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. Without written report.
 - 2014-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 570.
+- 2014-09-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5874; text as passed Senate: CR S5874)
+- 2014-09-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5874; text as passed Senate: CR S5874)

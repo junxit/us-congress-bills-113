@@ -1,7 +1,7 @@
 ---
 measure: S. 2583
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 

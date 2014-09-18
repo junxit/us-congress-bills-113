@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014” or the “E-LABEL Act”.
+This Act may be cited as the “Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014” or the “E–LABEL Act”.
 
 ## § 2. Findings
 
