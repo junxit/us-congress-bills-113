@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 541
 congress: 113
-version: Agreed to Senate
+version: Reported to Senate
 ---
 
 # S.Res. 541
