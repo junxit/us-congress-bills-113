@@ -1,7 +1,7 @@
 ---
 measure: S. 1691
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 1 executed, 18 stated and not applied.
+17 amendatory instructions. 1 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,12 +42,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `5 U.S.C. § 5542` | insert | Subchapter V of chapter 55 of title 5, United States Code, is amended by inserting after section 5549 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 5542` | add-at-end | Section 5542(a) of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 213` | strike | in paragraph (16), by striking “or” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `29 U.S.C. § 213` | replace | in paragraph (17), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `5 U.S.C. § 5550` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 213` | insert | The table of sections for chapter 55 of title 5, United States Code, is amended by inserting after the item relating to section 5549 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 8331` | insert | Subchapter V of chapter 55 of title 5, United States Code, is amended by inserting after section 5549 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 8331` | add-at-end | Section 5542 of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 8331` | strike | in subparagraph (G), by striking “and”; | the bill quotes the text struck but describes what replaces it |
@@ -60,3 +54,7 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 213` | replace | in paragraph (17), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 5550` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 5547` | insert | The table of sections for chapter 55 of title 5, United States Code, is amended by inserting after the item relating to section 5549 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 3132` | strike | in clause (i), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `5 U.S.C. § 3132` | insert | in clause (ii), by inserting “or” after the semicolon; and | the bill quotes the text inserted but describes where it goes |
+| `5 U.S.C. § 3132` | insert | by inserting after clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 101` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by inserting after the item relating to section 225 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
