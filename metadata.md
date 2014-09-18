@@ -1,7 +1,7 @@
 ---
 measure: S. 2778
 congress: 113
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2778
@@ -31,3 +31,9 @@ A bill to require the Secretary of State to offer rewards totaling up to $10,000
 
 - 2014-09-08 — Introduced in Senate
 - 2014-09-08 — Read twice and referred to the Committee on Foreign Relations.
+- 2014-09-18 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2014-09-18 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2014-09-18 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2014-09-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5876; text as passed Senate: CR S5876)
+- 2014-09-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5876; text as passed Senate: CR S5876)
+- 2014-09-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 574.
