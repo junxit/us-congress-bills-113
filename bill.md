@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1360
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,120 +11,89 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Improper Payments Agency Cooperation Enhancement Act of 2013”.
+This Act may be cited as the “Improper Payments Agency Cooperation Enhancement Act of 2014”.
 
-## § 2. Improving the sharing and use of death data by Government agencies to curb improper payments
+## § 2. Distribution of death information furnished to or maintained by the social security administration
 
-- **(a)** *In general* The Improper Payments Elimination and Recovery Improvement Act of 2012 (31 U.S.C. 3321 note) is amended by adding at the end the following:
-  > ## § 7. Improving the sharing and use of death data by Government agencies to curb improper payments
+- **(a)** *In general*
+  - **(1)** *In general* Section 205(r) of the Social Security Act (42 U.S.C. 405(r)) is amended—
+    - **(A)** in paragraph (2)—
+      - **(i)** by striking “may” and inserting “shall”; and
+      - **(ii)** by inserting “, and to ensure the completeness, timeliness, and accuracy of,” after “transmitting”;
+    - **(B)** by striking paragraphs (3), (4), and (5) and inserting the following:
+      > - **(3)**
+      >   - **(A)** The Commissioner of Social Security shall, to the extent feasible, provide for the use of information regarding all deceased individuals furnished to or maintained by the Commissioner under this subsection in accordance with subparagraph (B), subject to such safeguards as the Commissioner of Social Security determines are necessary or appropriate to protect the information from unauthorized use or disclosure, by any Federal or State agency providing federally-funded benefits or administering a Federal program for such benefits, including the agency operating the Do Not Pay working system for ensuring proper payment of those benefits, through a cooperative arrangement with the agency (that includes the agency's Inspector General) or with an agency's Inspector General, if—
+      >     - **(i)** under such arrangement the agency (including, if applicable, the agency's Inspector General) provides reimbursement to the Commissioner of Social Security for the reasonable cost of carrying out such arrangement, including the reasonable costs associated with the collection and maintenance of information regarding deceased individuals furnished to the Commissioner pursuant to paragraph (1), and
+      >     - **(ii)** such arrangement does not conflict with the duties of the Commissioner of Social Security under paragraph (1).
+      >   - **(B)** The Commissioner of Social Security shall, to the extent feasible, provide for the use of information regarding all deceased individuals furnished to or maintained by the Commissioner under this subsection, through a cooperative arrangement in order for a Federal agency to carry out any of the following purposes, if the requirements of clauses (i) and (ii) of subparagraph (A) are met:
+      >     - **(i)** Operating the Do Not Pay working system established by section 5 of the Improper Payments Elimination and Recovery Improvement Act of 2012. Under such arrangement, the agency operating the working system may compare death information disclosed by the Commissioner with personally identifiable information reviewed through the working system, and may redisclose such comparison of information, as appropriate, to any Federal or State agency authorized to use the working system.
+      >     - **(ii)** To ensure proper payments under a Federal program or the proper payment of federally-funded benefits, including for purposes of payment certification, payment disbursement, and the prevention, identification, or recoupment of improper payments.
+      >     - **(iii)** To carry out tax administration or debt collection duties of the agency.
+      >     - **(iv)** For use by any policing agency of the Federal Government with the principle function of prevention, detection, or investigation of crime or the apprehension of alleged offenders.
+      > - **(4)** The Commissioner of Social Security may enter into similar arrangements with States to provide information regarding all deceased individuals furnished to or maintained by the Commissioner under this subsection, for any of the purposes specified in paragraph (3)(B), for use by States in programs wholly funded by the States, or for use in the administration of a benefit pension plan or retirement system for employees of a State or a political subdivision thereof, if the requirements of clauses (i) and (ii) of paragraph (3)(A) are met. For purposes of this paragraph, the terms retirement system and political subdivision have the meanings given such terms in section 218(b).
+      > - **(5)** The Commissioner of Social Security may use or provide for the use of information regarding all deceased individuals furnished to or maintained by the Commissioner under this subsection, subject to such safeguards as the Commissioner of Social Security determines are necessary or appropriate to protect the information from unauthorized use or disclosure, for statistical purposes and research activities by Federal and State agencies if the requirements of clauses (i) and (ii) of paragraph (3)(A) are met. For purposes of this paragraph, the term statistical purposes has the meaning given that term in section 502 of the Confidential Information Protection and Statistical Efficiency Act of 2002.
+
+    - **(C)** in paragraph (8)(A)(i), by striking “subparagraphs (A) and (B) of paragraph (3)” and inserting “clauses (i) and (ii) of paragraph (3)(A)”.
+  - **(2)** *Repeal* Effective on the date that is 5 years after the date of enactment of this Act, the amendments made by this subsection to paragraphs (3), (4), (5), and (8) of section 205(r) of the Social Security Act (42 U.S.C. 405(r)) are repealed, and the provisions of section 205(r) of the Social Security Act (42 U.S.C. 605(r)) so amended are restored and revived as if such amendments had not been enacted.
+- **(b)** *Amendment to internal revenue code* Section 6103(d)(4) of the Internal Revenue Code of 1986 is amended—
+  - **(1)** in subparagraphs (A) and (B), by striking “Secretary of Health and Human Services” each place it appears and inserting “Commissioner of Social Security”; and
+  - **(2)** in subparagraph (B)(ii), by striking “such Secretary” and all that follows through “deceased individuals.” and inserting “such Commissioner pursuant to such contract, except that such contract may provide that such information is only to be used by the Social Security Administration (or any other Federal agency) for purposes authorized in the Social Security Act or this title.”.
+- **(c)** *Report to Congress on alternative sources of death data*
+  - **(1)** *Requirements* The Director of the Office of Management and Budget shall conduct a review of potential alternative sources of death data maintained by the non-Federal sources, including sources maintained by State agencies or associations of State agencies, for use by Federal agencies and programs. The review shall include analyses of—
+    - **(A)** the accuracy and completeness of such data;
+    - **(B)** interoperability of such data;
+    - **(C)** the extent to which there is efficient accessability of such data by Federal agencies;
+    - **(D)** the cost to Federal agencies of accessing and maintaining such data;
+    - **(E)** the security of such data;
+    - **(F)** the reliability of such data; and
+    - **(G)** a comparison of the potential alternate sources of death data to the death data distributed by the Commissioner of Social Security.
+  - **(2)** *Report* Not later than 4 years after the date of enactment of this Act, the Director of the Office of Management and Budget shall submit a report to Congress on the results of the review and analyses required under paragraph (1). The report shall include a recommendation by the Director of the Office of Management and Budget regarding whether to extend the agency access to death data distributed by the Commissioner of Social Security provided under the amendments made by subsection (a)(1) beyond the date on which such amendments are to be repealed under subsection (a)(2).
+
+## § 3. Improving the sharing and use of data by government agencies to curb improper payments
+
+The Improper Payments Elimination and Recovery Improvement Act of 2012 (31 U.S.C. 3321 note) is amended—
+
+- **(1)** in section 5—
+  - **(A)** in subsection (a)(2), by striking subparagraph (A) and inserting the following:
+    > - **(A)** The death records maintained by the Commissioner of the Social Security Administration.
+
+  - **(B)** in subsection (b)—
+    - **(i)** by redesignating paragraph (5) as paragraph (6); and
+    - **(ii)** by inserting after paragraph (4) the following:
+      > - **(5)** *Use of death and prisoner information* The Commissioner of Social Security, and the head of any other agency that obtains information on deaths or incarcerated individuals directly from the Commissioner of Social Security pursuant to an agreement under section 205(r) or sections 202(x) and 1611(e) of the Social Security Act (42 U.S.C. 405(r), 405(x), 1382(e)) or the Department of the Treasury’s Do Not Pay program, shall be considered to have satisfied the requirements of this section as such requirements relate to payments or to identifying, preventing, or recovering improper payments in the case of deaths or incarcerated individuals. Nothing in the preceding sentence shall be construed as exempting the Commissioner of Social Security or the head of any other agency that obtains information on deaths or incarcerated individuals directly from the Commissioner of Social Security under an agreement under section 205(r) or sections 202(x) and 1611(e) of the Social Security Act (42 U.S.C. 405(r), 405(x), 1382(e)) or the Department of the Treasury’s Do Not Pay program from being subject to any improper payment reporting requirement of the Director of the Office of Management.
+
+- **(2)** by adding at the end the following:
+  > ## § 7. Improving the use of death data by government agencies
   >
-  > - **(a)** *Definitions* In this section—
-  >   - **(1)** the term Commissioner means the Commissioner of Social Security;
-  >   - **(2)** the term Director means the Director of the Office of Management and Budget;
-  >   - **(3)** the term Inspector General has the meaning defined by section 5(e)(1);
-  >   - **(4)** the term local government means the government of a political subdivision of a State;
-  >   - **(5)** the term payment has the meaning given that term under section 2(g) of the Improper Payment Information Act of 2002 (31 U.S.C. 3321 note);
-  >   - **(6)** the term Registry means the National Deaths Registry established under subsection (b)(1); and
-  >   - **(7)** the term tribal government means the government of an Indian tribe, as that term is defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
-  > - **(b)** *Establishment of Registry*
-  >   - **(1)** *In general* The Commissioner shall establish and maintain a registry of information relating to the deaths of individuals, to be known as the National Deaths Registry.
-  >   - **(2)** *Inclusion of information* As provided under this section and in accordance with the guidance issued under subsection (f), the Commissioner shall include information relating to the deaths of individuals in the Registry for the purpose of supporting the Do Not Pay Initiative under section 5 and otherwise preventing, identifying, or recovering improper payments.
-  > - **(c)** *Use of the Registry*
-  >   - **(1)** *Availability to Federal agencies* The Commissioner shall enter into cooperative agreements with agencies, including Inspectors General—
-  >     - **(A)** under which the Commissioner shall provide the information in the Registry (in full and without limitation, as provided in subsection (h)(1)) to the agency or Inspector General for purposes of facilitating—
-  >       - **(i)** the making of authorized payments or the prevention, identification, or recovery of improper payments;
-  >       - **(ii)** carrying out section 5;
-  >       - **(iii)** in the case of the Bureau of the Census, verifying information obtained as part of a decennial census conducted under section 141(a) of title 13, United States Code; or
-  >       - **(iv)** other agency functions, including public health or safety, law enforcement, tax administration, health administration oversight, and debt collection, as determined appropriate by the Commissioner and in accordance with guidance issued under subsection (f); and
-  >     - **(B)** which shall require the agency or Inspector General to provide reimbursement to the Commissioner for the reasonable cost of carrying out the agreement.
-  >   - **(2)** *Availability to States and local and tribal governments*
-  >     - **(A)** *For making federally funded payments or avoiding federally funded improper payments* The Commissioner shall, to the extent feasible, enter into cooperative agreements with States and local and tribal governments—
-  >       - **(i)** to provide the information in the Registry to the State or local or tribal government for purposes of facilitating the making of authorized payments and the prevention, identification, or recovery of improper payments under federally funded programs; and
-  >       - **(ii)** which shall require the State or local or tribal government to provide reimbursement to the Commissioner for the reasonable cost of carrying out the agreement.
-  >     - **(B)** *For programs wholly funded by States and local and tribal governments* The Commissioner may enter into cooperative agreements with States and local and tribal governments—
-  >       - **(i)** to provide the information in the Registry for purposes relating to programs wholly funded by the State or local or tribal governments; and
-  >       - **(ii)** which shall require the State or local or tribal government to provide reimbursement to the Commissioner for the reasonable cost of carrying out the agreement.
-  >   - **(3)** *Exceptional circumstances* The Commissioner may withhold information that would otherwise be required to be disclosed under a cooperative agreement under this subsection if the Commissioner determines there are exceptional circumstances warranting an exception (such as safety of the individual or interference with an investigation).
-  >   - **(4)** *Confidentiality* Information provided by the Commission under an agreement under this subsection or by an individual to any agency that has entered into a cooperative agreement under this subsection shall be—
-  >     - **(A)** considered as strictly confidential; and
-  >     - **(B)** used only for the purposes described in this subsection and for carrying out an agreement under this subsection.
-  > - **(d)** *Registry requirements* The Commissioner shall—
-  >   - **(1)** implement procedures for identifying and correcting errors, including those identified—
-  >     - **(A)** by agencies;
-  >     - **(B)** by States and local and tribal governments; and
-  >     - **(C)** by members of the public;
-  >   - **(2)** include a process for determining the accuracy of death records in the Registry, including estimates of accuracy through the use of statistical sampling of errors on a systematic basis;
-  >   - **(3)** ensure the Registry is operated and maintained in accordance with protocols that ensure the secure transfer and storage of any information provided to another entity consistent with applicable laws and best practices of the Federal Government relating to information, privacy, security, and disclosure, including protecting social security numbers and other identifiers determined appropriate by the Commissioner; and
-  >   - **(4)** make the information in the Registry available to a contractor of an agency, State, or local or tribal government for carrying out a purpose described in subsection (c)(1) or (c)(2) and in accordance with the cooperative agreement with the agency, State, or local or tribal government if the agency, State, or local or tribal government submits to the Commissioner a certification that the contractor is in compliance with the requirements of the agency relating to privacy and security described in paragraph (3).
-  > - **(e)** *Reporting by Federal agencies of additional death data to the Registry*
-  >   - **(1)** *Improved death data matching by Federal agencies*
-  >     - **(A)** *In general* Not later than 90 days after the date of enactment of the Improper Payments Agency Cooperation Enhancement Act of 2013, the Director shall identify each agency or component of an agency that operates or maintains a database of information relating to beneficiaries, annuity recipients, or other matters such that improved data matching with the Registry would be desirable, as determined by the Director.
-  >     - **(B)** *Matching requirement*
-  >       - **(i)** *In general* The head of each agency identified by the Director under subparagraph (A) shall establish a data matching procedure under which the agency shall compare information in the database of the agency with information in the Registry in order to improve the accuracy and completeness of the information in both the database of the agency and in the Registry relating to the death of individuals and to facilitate the prevention, identification, and recovery of improper payments.
-  >       - **(ii)** *Do Not Pay program* The requirement to establish a data matching procedure under this subparagraph shall not be construed to diminish in any way the requirements for an agency under section 5, relating to preventing identifying, and recovering improper payments, including to deceased individuals.
-  >   - **(2)** *Prompt reporting* Not later than 1 year after the date of enactment of the Improper Payments Agency Cooperation Enhancement Act of 2013, each agency identified by the Director under paragraph (1)(A) shall establish a procedure (consistent with guidance issued under subsection (f)) under which the agency shall, promptly and on a regular basis, submit to the Commissioner information relating to the death of a Federal beneficiary, Federal annuitant recipient, or other individual relevant for the purposes of this section.
-  > - **(f)** *Guidance by the Office of Management and Budget*
-  >   - **(1)** *Guidance to agencies* Not later than 6 months after the date of enactment of the Improper Payments Agency Cooperation Enhancement Act of 2013, and in consultation with the Council of Inspectors General on Integrity and Efficiency, the Commissioner, and the heads of other relevant agencies, the Director shall issue guidance for agencies regarding implementation of this section.
-  >   - **(2)** *Guidance for States and local and tribal governments* Not later than 6 months after the date of enactment of the Improper Payments Agency Cooperation Enhancement Act of 2013, the Director shall provide guidance to States and local and tribal governments relating to accessing and using information in the Registry.
-  >   - **(3)** *Plan to assist States and local and tribal governments* The Director shall develop a plan to assist States and local and tribal governments in providing electronically to the Commissioner, for use or inclusion in the Registry, records relating to the death of individuals, which shall include recommendations to Congress for any statutory changes or financial assistance to States and local and tribal governments that are necessary to ensure States and local and tribal governments can provide such records electronically not later than January 1, 2015.
-  > - **(g)** *Reporting*
-  >   - **(1)** *Report to Congress on improving data matching regarding payments to individuals who are deceased* Not later than 270 days after the date of enactment of Improper Payments Agency Cooperation Enhancement Act of 2013, the Director, after consultation with the Commissioner, the heads of other relevant agencies, and States and local and tribal governments, shall submit to Congress a plan regarding how States and local and tribal governments that provide benefits under a federally funded program will improve data matching with the Registry.
-  >   - **(2)** *Annual report* Not later than 1 year after the date of enactment of the Improper Payments Agency Cooperation Enhancement Act of 2013, and every year thereafter until the date that is 4 years after such date of enactment, the Director shall submit to Congress a report, which may be included as part of another report submitted to Congress by the Director, regarding the implementation of this section and the Improper Payments Agency Cooperation Enhancement Act of 2013. The first report under this paragraph shall include the recommendations of the Director described in subsection (f)(3).
-  > - **(h)** *Consistency with the Social Security Act*
-  >   - **(1)** *In general* Notwithstanding section 205(r) of the Social Security Act (42 U.S.C. 405(r)) or any other provision of that Act, the Commissioner may include in the Registry any information provided to the Commissioner pursuant to that Act (including any information received from a State or any other source) and may use or provide all such information (including information received from States or any other source) as authorized under this section to any agency, including any Inspector General.
-  >   - **(2)** *Functions* To the extent any function of the Commissioner under the Social Security Act (42 U.S.C. 401 et seq.) is the same as a required function of the Commissioner under this section, performance of the function under that Act shall also satisfy the requirement to perform the function under this section.
-  >   - **(3)** *Use regardless of source of information* The Commissioner may use any information in the Registry for any purpose authorized under the Social Security Act (42 U.S.C. 401 et seq.), regardless of whether the information was provided to the Commissioner under authority of this section or any provision of the Social Security Act.
+  > - **(a)** *Prompt reporting of death information by the Department of State and the Department of Defense* Not later than 1 year after the date of enactment of this section, the Secretary of State and the Secretary of Defense, in coordination with the Commissioner of Social Security, shall establish a procedure under which each Secretary shall, promptly and on a regular basis, submit to the Commissioner information relating to the deaths of individuals. The Commissioner shall, to the extent feasible, provide for the use of death information submitted under this subsection for the purpose specified in clause (i) of section 205(r)(3)(B) of the Social Security Act (42 U.S.C. 405(r)(3)(B)).
+  > - **(b)** *Guidance by the office of management and budget*
+  >   - **(1)** *Guidance to agencies* Not later than 6 months after the date of enactment of this section, and in consultation with the Council of Inspectors General on Integrity and Efficiency and the heads of other relevant Federal, State, and local agencies, and Indian tribes and tribal organizations, the Director of the Office of Management and Budget shall issue guidance for each agency or component of an agency that operates or maintains a database of information relating to beneficiaries, annuity recipients, or any purpose described in section 205(r)(3)(B) of the Social Security Act (42 U.S.C. 405(r)(3)(B)) for which improved data matching with databases relating to the death of an individual (in this section referred to as “death databases”) would be relevant and necessary regarding implementation of this section to provide such agencies or components access to the death databases no later than 6 months after such date of enactment.
+  >   - **(2)** *Plan to assist States and local agencies and Indian tribes and tribal organizations* Not later than 1 year after the date of enactment of this section, the Director of the Office of Management and Budget shall develop a plan to assist States and local agencies, and Indian tribes and tribal organizations, in providing electronically to the Federal Government records relating to the death of individuals, which may include recommendations to Congress for any statutory changes or financial assistance to States and local agencies and Indian tribes and tribal organizations that are necessary to ensure States and local agencies and Indian tribes and tribal organizations can provide such records electronically. The plan may include recommendations for the authorization of appropriations or other funding to carry out the plan.
+  > - **(c)** *Reports*
+  >   - **(1)** *Report to congress on improving data matching regarding payments to deceased individuals* Not later than 270 days after the date of enactment of this section, the Director of the Office of Management and Budget, in consultation with the heads of other relevant Federal agencies, and in consultation with States and local agencies, Indian tribes and tribal organizations, shall submit to Congress a plan to improve how States and local agencies and Indian tribes and tribal organizations that provide benefits under a federally-funded program will improve data matching with the Federal Government with respect to the death of individuals who are recipients of such benefits.
+  >   - **(2)** *Annual report* Not later than 1 year after the date of enactment of this section, and for each of the 4 succeeding years, the Director of the Office of Management and Budget shall submit to Congress a report regarding the implementation of this section. The first report submitted under this paragraph shall include the recommendations of the Director required under subsection (b)(2).
+  > - **(d)** *Definitions* In this section, the terms Indian tribe and tribal organization have the meanings given those terms in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 
-- **(b)** *Technical and conforming amendment* Section 2(g)(3) of the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note) is amended by striking “Federal employee,” and inserting “Federal employee or any other individual in Federal service,”.
+## § 4. Availability of the Do Not Pay Initiative to the judicial and legislative branches and states
 
-## § 3. Enhancement of prepayment and pre-award procedures
+Section 5 of the Improper Payments Elimination and Recovery Improvement Act of 2012 (31 U.S.C. 3321 note), as amended by section 3, is further amended—
 
-Section 5(a) of the Improper Payments Elimination and Recovery Improvement Act of 2012 (31 U.S.C. 3321 note) is amended—
+- **(1)** in subsection (b)(3)—
+  - **(A)** in the paragraph heading, by striking “by agencies”; and
+  - **(B)** by adding at the end the following: “States and any contractor, subcontractor, or agent of a State, and the judicial and legislative branches of the United States (as defined in paragraphs (2) and (3), respectively, of section 202(e) of title 18, United States Code), shall have access to, and use of, the Do Not Pay Initiative to verify payment or award eligibility for payments (as defined in section (2)(g)(3) of the Improper Payments Information Act of 2002, 31 U.S.C. 3321 note) when, with respect to a State, the Director of the Office of Management and Budget determines that the Do Not Pay Initiative is appropriately established for that State and any contractor, subcontractor, or agent of the State, and, with respect to the judicial and legislative branches of the United States, when the Director of the Office of Management and Budget determines that the Do Not Pay Initiative is appropriately established for the judicial branch or the legislative branch, as applicable.”; and
+- **(2)** in subsection (d)(2)—
+  - **(A)** in subparagraph (B), by striking “and” after the semicolon;
+  - **(B)** in subparagraph (C), by striking the period at the end and inserting “; and”; and
+  - **(C)** by inserting after subparagraph (C) the following:
+    > - **(D)** may include States and their quasi-government entities, and the judicial and legislative branches of the United States (as defined in paragraphs (2) and (3), respectively, of section 202(e) of title 18, United States Code) as users of the system in accordance with subsection (b)(3).
 
-- **(1)** in paragraph (2) by adding, after subparagraph (E), the following:
-  > - **(F)** The registry of people who are deceased established by the Commissioner of Social Security under section 7.
+## § 5. Data Analytics
 
-- **(2)** by adding, after paragraph (2), the following:
-  > - **(3)** *Agencies to provide access* Each agency that operates or maintains a database described in paragraph (2) shall provide each other agency with access to the information contained in that database for purposes of complying with paragraphs (1) and (2), subject to such reasonable and permissible conditions as the agency operating or maintaining the database establishes.
+Section 5 of the Improper Payments Elimination and Recovery Improvement Act of 2012 (31 U.S.C. 3321 note), as amended by sections 3 and 4, is further amended by adding at the end the following:
 
-## § 4. Data Analytics
-
-Section 5 of the Improper Payments Elimination and Recovery Improvement Act of 2012 (31 U.S.C. 3321 note) is amended by adding at the end the following—
-
-> - **(h)** *Report on improper payments data analysis* Not later than 180 days after the date of enactment of the Improper Payments Agency Cooperation Enhancement Act of 2013, the Secretary of the Treasury shall submit to Congress a report, which may be included as part of another report submitted to Congress, which shall include a description of—
+> - **(h)** *Report on improper payments data analysis* Not later than 180 days after the date of enactment of the Improper Payments Agency Cooperation Enhancement Act of 2014, the Secretary of the Treasury shall submit to Congress a report which shall include a description of—
 >   - **(1)** data analytics performed as part of the Do Not Pay Initiative for the purpose of detecting, preventing, and recovering improper payments through pre-award, post-award pre-payment, and post-payment analysis, which shall include a description of any analysis or investigations incorporating—
 >     - **(A)** review and data matching of payments and beneficiary enrollment lists of State programs carried out using Federal funds for the purposes of identifying eligibility duplication, residency ineligibility, duplicate payments, or other potential improper payment issues;
 >     - **(B)** review of multiple Federal agencies and programs for which comparison of data could show payment duplication; and
->     - **(C)** review of other information the Secretary of the Treasury determines are effective, which may include investigation or review of information from multiple Federal agencies or programs; and
+>     - **(C)** review of other information the Secretary of the Treasury determines could prove effective for identifying, preventing, or recovering improper payments, which may include investigation or review of information from multiple Federal agencies or programs; and
 >   - **(2)** the metrics used in determining whether the analytic and investigatory efforts have reduced, or contributed to the reduction of, improper payments or improper awards.
-
-## § 5. Curbing improper payment of Federal retirement annuities to deceased individuals
-
-- **(a)** *Establishment* Not later than 60 days after the date of enactment of this Act, the Director of the Office of Management and Budget shall convene a task force of agencies (in this section referred to as the “task force”) to—
-  - **(1)** identify ways to improve the sharing of information relating to the death of an individual receiving an annuity under a Federal retirement program; and
-  - **(2)** share best practices for identifying deceased annuitants.
-- **(b)** *Membership* The Director of the Office of Management and Budget shall appoint the members of the task force, which shall include a representative of—
-  - **(1)** the Department of Defense;
-  - **(2)** the Social Security Administration;
-  - **(3)** the Department of Veterans Affairs;
-  - **(4)** the Office of Personnel Management; and
-  - **(5)** any other agency that provides annuities or is relevant to the oversight of annuity payments.
-- **(c)** *Plan* Not later than 270 days after the date of enactment of this Act, the task force shall establish a plan to carry out the purposes described in subsection (a).
-- **(d)** *Reports* The task force shall—
-  - **(1)** not later than 1 year after the date of enactment of this Act, submit to Congress a report on the plan established under subsection (c); and
-  - **(2)** not later than 2 years after the date of enactment of this Act, submit to Congress a report on implementation of the plan by agencies.
-- **(e)** *Termination* The task force shall terminate on the day after the date on which the task force submits the report required under subsection (d)(2).
-
-## § 6. Agency access to postal database
-
-Section 412 of title 39, United States Code, is amended—
-
-- **(1)** in subsection (a), by striking “subsection (b)” and inserting “subsection (b) or (c)”; and
-- **(2)** by adding at the end the following:
-  > - **(c)**
-  >   - **(1)** For purposes of this subsection—
-  >     - **(A)** the term agency means an executive agency as that term is defined under section 102 of title 31;
-  >     - **(B)** the term improper payment has the meaning given that term in section 2(g) of the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note); and
-  >     - **(C)** the term Inspector General has the meaning given that term in section 5(e)(1) of the Improper Payments Elimination and Recovery Improvement Act of 2012 (31 U.S.C. 3321 note);
-  >   - **(2)** The Postal Service shall provide to agencies (including to Inspectors General) access to information concerning delivery addresses, including the Commercial Mail Receiving Agency lists of known locations of commercial mailbox offices, for purposes of improved detection, prevention, and recovery of improper payments.
-  >   - **(3)** The provision of information under this subsection shall be in accordance with such mutually agreeable terms and conditions, including reimbursability, as the Postal Service and the agency or Inspector General determine appropriate.
