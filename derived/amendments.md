@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5462
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 

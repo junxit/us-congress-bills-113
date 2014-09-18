@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5462
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5462
@@ -47,3 +47,14 @@ To amend title 49, United States Code, to provide for limitations on the fees ch
 - 2014-09-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 505). (text: CR 09/16/2014 H7612)
 - 2014-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 505).(text: CR 09/16/2014 H7612)
 - 2014-09-18 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2014-12-04 — Passed Senate without amendment by Unanimous Consent.
+- 2014-12-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-12-04 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S6354)
+- 2014-12-04 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S6354)
+- 2014-12-08 — Message on Senate action sent to the House.
+- 2014-12-09 — Presented to President.
+- 2014-12-09 — Presented to President.
+- 2014-12-19 — Became Public Law No: 113-294.
+- 2014-12-19 — Became Public Law No: 113-294.
+- 2014-12-19 — Signed by President.
+- 2014-12-19 — Signed by President.
