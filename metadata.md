@@ -1,7 +1,7 @@
 ---
 measure: S. 2673
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2673
@@ -113,3 +113,18 @@ United States-Israel Strategic Partnership Act of 2014
 - 2014-09-18 — Senate amendment agreed to: Amendment SA 3933 agreed to in Senate by Unanimous Consent.(consideration: CR S5874; text: CR S5874)
 - 2014-09-18 — Senate amendment proposed (on the floor): Amendment SA 3933 proposed by Senator Pryor for Senator Boxer.
 - 2014-09-18 — Senate amendment submitted
+- 2014-09-19 — Held at the desk.
+- 2014-09-19 — Message on Senate action sent to the House.
+- 2014-09-19 — Received in the House.
+- 2014-12-03 — Considered under suspension of the rules. (consideration: CR H8354-8358)
+- 2014-12-03 — DEBATE - The House proceeded with forty minutes of debate on S. 2673.
+- 2014-12-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-03 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill.
+- 2014-12-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8354-8355)
+- 2014-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8354-8355)
+- 2014-12-10 — Presented to President.
+- 2014-12-10 — Presented to President.
+- 2014-12-19 — Became Public Law No: 113-296.
+- 2014-12-19 — Became Public Law No: 113-296.
+- 2014-12-19 — Signed by President.
+- 2014-12-19 — Signed by President.

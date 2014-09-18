@@ -1,7 +1,7 @@
 ---
 measure: S. 2673
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
