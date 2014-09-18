@@ -72,18 +72,9 @@ It is the sense of Congress that Israel is a major strategic partner of the Unit
 
 Not later than 180 days after the date of the enactment of this Act, the President shall submit to Congress a report, in a classified format or including a classified annex, as appropriate, on the feasibility and advisability of expanding United States-Israeli cooperation on cyber issues, including sharing and advancing technologies related to the prevention of cybercrimes.
 
-## § 9. Visa Waiver Program
+## § 9. Statement of policy regarding the Visa Waiver Program
 
-- **(a)** *Sense of Congress* It is the Sense of Congress that the Secretary of Homeland Security, in consultation with the Secretary of State, should designate the State of Israel as a program country under the Visa Waiver Program when the Government of Israel—
-  - **(1)** is in compliance with all the requirements of the program specified in section 217 of the Immigration and Nationality Act (8 U.S.C. 1187), except for the low nonimmigrant visa refusal rate requirement under subsection (c)(2)(A) of such section; and
-  - **(2)** has met the conditions for a waiver of such requirement set forth in subsection (c).
-- **(b)** *Consultation* The Secretary of Homeland Security, in consultation with the Secretary of State, should take steps to engage with representatives of the Government of Israel on—
-  - **(1)** the extent to which Israel satisfies the requirements specified in section 217 of such Act for inclusion in the Visa Waiver Program;
-  - **(2)** additional steps that may be required in order for Israel to qualify for consideration for inclusion in such program.
-- **(c)** *Waiver* The Secretary of Homeland Security, in consultation with the Secretary of State, is authorized to waive the low nonimmigrant visa refusal rate requirements under paragraphs (2)(A) and (3)(B) of section 217(c) of the Immigration and Nationality Act (8 U.S.C. 1187(c)) for the State of Israel if—
-  - **(1)** the Government of Israel has complied with all other requirements of the Visa Waiver Program, including extending the reciprocal privileges described in section 217(a)(2)(A) of such Act to citizens and nationals of the United States without regard to the race, religion, national origin, or ethnicity of any such citizen or national;
-  - **(2)** the percentage of nationals of Israel who were refused a nonimmigrant visitor visa during the previous fiscal year is not more than 10 percent of the total number of nonimmigrant visitor visas for nationals of Israel which were granted or refused during that fiscal year.
-- **(d)** *Savings provision* Nothing in this section may be construed to exempt the State of Israel from all requirements to which other program countries are subject under section 217 of the Immigration and Nationality Act except for requirements relating to low nonimmigrant visa refusal rates under paragraphs (2)(A) and (3)(B) of section 217(c) of such Act.
+It shall be the policy of the United States to include Israel in the list of countries that participate in the visa waiver program under section 217 of the Immigration and Nationality Act (8 U.S.C. 1187) when Israel satisfies, and as long as Israel continues to satisfy, the requirements for inclusion in such program specified in such section.
 
 ## § 10. Status of implementation of section 4 of the United States-Israel Enhanced Security Cooperation Act of 2012
 
@@ -128,7 +119,7 @@ Not later than 180 days after the date of the enactment of this Act, the Preside
     > - **(8)** United States-Israel energy cooperation and the development of natural resources by Israel are in the strategic interest of the United States;
     > - **(9)** Israel is a strategic partner of the United States in water technology;
     > - **(10)** the United States can play a role in assisting Israel with regional safety and security issues;
-    > - **(11)** the National Science Foundation of the United States, to the extent consistent with the National Science Foundation’s mission , should collaborate with the Israel Science Foundation and the United States-Israel Binational Science Foundation;
+    > - **(11)** the National Science Foundation of the United States, to the extent consistent with the National Science Foundation’s mission, should collaborate with the Israel Science Foundation and the United States-Israel Binational Science Foundation;
     > - **(12)** the United States and Israel should strive to develop more robust academic cooperation in—
     >   - **(A)** energy innovation technology and engineering;
     >   - **(B)** water science;

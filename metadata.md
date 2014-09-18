@@ -1,7 +1,7 @@
 ---
 measure: S. 2673
 congress: 113
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 2673
@@ -16,7 +16,7 @@ United States-Israel Strategic Partnership Act of 2014
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Cosponsors (78)
+## Cosponsors (80)
 
 - Sen. Blunt, Roy [R-MO] (B000575)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
@@ -96,9 +96,20 @@ United States-Israel Strategic Partnership Act of 2014
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Fischer, Deb [R-NE] (F000463)
 
 ## Actions
 
 - 2014-07-28 — Introduced in Senate
 - 2014-07-28 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2014-07-29 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 492.
+- 2014-08-01 — Sponsor introductory remarks on measure. (CR S5321-5322)
+- 2014-09-18 — Amendment SA 3933 agreed to in Senate by Unanimous Consent. (consideration: CR S5874; text: CR S5874)
+- 2014-09-18 — Amendment SA 3933 proposed by Senator Pryor for Senator Boxer. To designate Israel as a program country under the Visa Waiver Program if Israel complies with the generally applicable requirements.
+- 2014-09-18 — Measure laid before Senate by unanimous consent. (consideration: CR S5874-5876)
+- 2014-09-18 — Passed Senate with an amendment by Unanimous Consent. (text: CR S5874-5876)
+- 2014-09-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S5874-5876)
+- 2014-09-18 — Senate amendment agreed to: Amendment SA 3933 agreed to in Senate by Unanimous Consent.(consideration: CR S5874; text: CR S5874)
+- 2014-09-18 — Senate amendment proposed (on the floor): Amendment SA 3933 proposed by Senator Pryor for Senator Boxer.
+- 2014-09-18 — Senate amendment submitted

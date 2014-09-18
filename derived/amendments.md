@@ -1,7 +1,7 @@
 ---
 measure: S. 2673
 congress: 113
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
