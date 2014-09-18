@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1232
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-27 amendatory instructions. 1 executed, 26 stated and not applied.
+39 amendatory instructions. 1 executed, 38 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -68,3 +68,15 @@ complete account of the bill's effect, which it is not.
 | `40 U.S.C. § 11302` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 901` | insert | by inserting after paragraph (1) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 11302` | redesignate | Paragraph (3) of section 11302(c) of such title, as redesignated by subsection (a), is amended by adding at the end the following: “The report shall include an analysis of agency trends reflected in the performance risk information requi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 901` | add-at-end | Subchapter II of chapter 113 of title 40, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 901` | insert | The table of sections for chapter 113 of title 40, United States Code, is amended by inserting after the item relating to section 11318 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 11302` | redesignate | by redesignating paragraphs (1) and (2) as paragraphs (2) and (5), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 901` | redesignate | by inserting before paragraph (2), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 11302` | redesignate | by inserting after paragraph (2), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 11302` | redesignate | Paragraph (5) of section 11302(c) of such title, as redesignated by subsection (a), is amended by adding at the end the following: “The report shall include an analysis of covered agency trends reflected in the performance risk informati… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 11302` | strike | by striking paragraphs (1), (3), and (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 11302` | redesignate | by redesignating paragraphs (2) and (5) as paragraphs (1) and (2), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 11302` | redesignate | in paragraph (2), as so redesignated, by striking the last sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 11319` | amend | Section 11319 of title 40, United States Code, as added by section 101, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 11319` | strike | Effective on the date that is 5 years after the date of enactment of this Act, section 11319 of title 40, United States Code, is amended by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | repeal | This section is repealed effective on October 1, 2018. | the bill names no machine-readable US Code section |
