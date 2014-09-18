@@ -16,7 +16,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas there have been 2,600,000 deployments to Iraq and Afghanistan and more than 500,000 soldiers have completed multiple tours;
 - Whereas over 110,000 sailors have deployed as individual augmentees in support of the war ashore and additional sailors have deployed on navy vessels serving over 180,000 days at sea, providing power projection, regional stability, and global presence;
 - Whereas over 238,000 airmen have deployed to Iraq and Afghanistan and more than 201,000 airmen have deployed to the Area of Responsibility, delivering flights in support of the war effort;
-- Whereas over 330,000 marines have deployed afloat and ashore, ensuring peace in some of the most dangerous provinces in Iraq and Afghanistan;
+- Whereas over 330,000 Marines have deployed afloat and ashore, ensuring peace in some of the most dangerous provinces in Iraq and Afghanistan;
 - Whereas, between January 1, 2000, and January 10, 2014, 287,911 cases of traumatic brain injury (TBI), often referred to as a signature wound of the wars in Iraq and Afghanistan, were diagnosed among members of the Armed Forces, and approximately 7,100 cases were classified as severe or penetrating;
 - Whereas of the members of the Armed Forces who have been deployed to Iraq and Afghanistan since October 2001, more than 6,800 have been killed in action and more than 52,000 have been wounded in action;
 - Whereas United States Operation Iraqi Freedom and Operation New Dawn combat military operations in Iraq are complete and United States direct military operations in Afghanistan will end in 2014 as the United States transitions to a training and assistance role;
