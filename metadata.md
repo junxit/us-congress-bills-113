@@ -1,7 +1,7 @@
 ---
 measure: H.R. 83
 congress: 113
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 83
@@ -50,3 +50,11 @@ Consolidated and Further Continuing Appropriations Act, 2015
 - 2014-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7462)
 - 2014-09-15 — The title of the measure was amended. Agreed to without objection.
 - 2014-09-16 — Received in the Senate, read twice.
+- 2014-09-18 — Amendment SA 3928 agreed to in Senate by Unanimous Consent.
+- 2014-09-18 — Amendment SA 3928 proposed by Senator Pryor for Senator Murkowski. (consideration: CR S5861-5862; text: CR S5861-5862) In the nature of a substitute.
+- 2014-09-18 — Measure laid before Senate by unanimous consent. (consideration: CR S5861-5862)
+- 2014-09-18 — Passed Senate with an amendment by Unanimous Consent.
+- 2014-09-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2014-09-18 — Senate amendment agreed to: Amendment SA 3928 agreed to in Senate by Unanimous Consent.
+- 2014-09-18 — Senate amendment proposed (on the floor): Amendment SA 3928 proposed by Senator Pryor for Senator Murkowski.(consideration: CR S5861-5862; text: CR S5861-5862)
+- 2014-09-18 — Senate amendment submitted
