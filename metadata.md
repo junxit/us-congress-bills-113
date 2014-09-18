@@ -1,7 +1,7 @@
 ---
 measure: H.R. 24
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 24
@@ -277,3 +277,4 @@ Federal Reserve Transparency Act of 2014
 - 2014-09-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2014-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 333 - 92 (Roll no. 504). (text: CR 9/16/2014 H7588)
 - 2014-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 333 - 92 (Roll no. 504).(text: CR 9/16/2014 H7588)
+- 2014-09-18 — Received in the Senate.
