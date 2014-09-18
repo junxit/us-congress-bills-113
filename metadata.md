@@ -1,7 +1,7 @@
 ---
 measure: S. 2828
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2828
@@ -30,3 +30,7 @@ Ukraine Freedom Support Act of 2014
 
 - 2014-09-16 — Introduced in Senate
 - 2014-09-16 — Read twice and referred to the Committee on Foreign Relations.
+- 2014-09-18 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2014-09-18 — Committee on Foreign Relations. Reported by Senator Menendez with amendments. Without written report.
+- 2014-09-18 — Committee on Foreign Relations. Reported by Senator Menendez with amendments. Without written report.
+- 2014-09-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 573.
