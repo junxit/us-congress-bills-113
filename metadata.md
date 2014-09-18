@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4007
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4007
@@ -58,3 +58,7 @@ Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014
 - 2014-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5845-5847)
 - 2014-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5845-5847)
 - 2014-07-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2014-07-30 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-09-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. With written report No. 113-263.
+- 2014-09-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. With written report No. 113-263.
+- 2014-09-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 578.
