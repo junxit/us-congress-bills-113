@@ -1,6 +1,6 @@
 ---
 legis-num: S. 2040
-congress: 113th CONGRESS
+congress: One Hundred Thirteenth Congress of the United States of America
 session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---

@@ -1,7 +1,7 @@
 ---
 measure: S. 2040
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2040
@@ -24,6 +24,10 @@ Blackfoot River Land Exchange Act of 2014
 
 - Senate — Indian Affairs Committee
 
+## Recorded votes (1)
+
+- 2014-12-02 — [House 113-2-534](votes/house-113-2-0534.md) — On Motion to Suspend the Rules and Pass — **Passed** (414–0)
+
 ## Actions
 
 - 2014-02-25 — Introduced in Senate
@@ -41,3 +45,20 @@ Blackfoot River Land Exchange Act of 2014
 - 2014-09-18 — Senate amendment agreed to: Amendment SA 3932 agreed to in Senate by Unanimous Consent.
 - 2014-09-18 — Senate amendment proposed (on the floor): Amendment SA 3932 proposed by Senator Pryor for Senator Crapo.(consideration: CR S5872-5873; text: CR S5872-5873)
 - 2014-09-18 — Senate amendment submitted
+- 2014-09-19 — Held at the desk.
+- 2014-09-19 — Message on Senate action sent to the House.
+- 2014-09-19 — Received in the House.
+- 2014-12-01 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-12-01 — Considered under suspension of the rules. (consideration: CR H8187-8188)
+- 2014-12-01 — DEBATE - The House proceeded with forty minutes of debate on S. 2040.
+- 2014-12-01 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
+- 2014-12-02 — Considered as unfinished business. (consideration: CR H8237-8238)
+- 2014-12-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 534). (text: CR 12/1/2014 H8187-8188)
+- 2014-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 534).(text: CR 12/1/2014 H8187-8188)
+- 2014-12-08 — Presented to President.
+- 2014-12-08 — Presented to President.
+- 2014-12-16 — Became Public Law No: 113-232.
+- 2014-12-16 — Became Public Law No: 113-232.
+- 2014-12-16 — Signed by President.
+- 2014-12-16 — Signed by President.
