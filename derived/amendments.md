@@ -1,7 +1,7 @@
 ---
 measure: S. 2651
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 
