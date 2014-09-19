@@ -1,7 +1,7 @@
 ---
 measure: S. 1691
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1691
@@ -52,3 +52,16 @@ Border Patrol Agent Pay Reform Act of 2014
 - 2014-09-19 — Received in the House.
 - 2014-09-19 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2014-09-19 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-09-25 — Referred to the Subcommittee on Border and Maritime Security.
+- 2014-12-10 — Considered under suspension of the rules. (consideration: CR H8945-8951)
+- 2014-12-10 — DEBATE - The House proceeded with forty minutes of debate on S. 1691.
+- 2014-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-10 — Mr. Chaffetz moved to suspend the rules and pass the bill.
+- 2014-12-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8945-8949)
+- 2014-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8945-8949)
+- 2014-12-12 — Presented to President.
+- 2014-12-12 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-277.
+- 2014-12-18 — Became Public Law No: 113-277.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.

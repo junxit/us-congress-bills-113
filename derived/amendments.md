@@ -1,7 +1,7 @@
 ---
 measure: S. 1691
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -42,8 +42,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `5 U.S.C. § 5549` | insert | Subchapter V of chapter 55 of title 5, United States Code, is amended by inserting after section 5549 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 5542` | add-at-end | Section 5542 of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 8331` | insert | Subchapter V of chapter 55 of title 5, United States Code, is amended by inserting after section 5549 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 8331` | add-at-end | Section 5542 of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 8331` | strike | in subparagraph (G), by striking “and”; | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 8331` | insert | in subparagraph (H), by inserting “and” after the semicolon; | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 8331` | insert | by inserting a new subparagraph after subparagraph (H) as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -53,7 +53,7 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 213` | strike | in paragraph (16), by striking “or” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 213` | replace | in paragraph (17), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 5550` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 5549` | insert | The table of sections for chapter 55 of title 5, United States Code, is amended by inserting after the item relating to section 5549 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 5547` | insert | The table of sections for chapter 55 of title 5, United States Code, is amended by inserting after the item relating to section 5549 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 3132` | strike | in clause (i), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 3132` | insert | in clause (ii), by inserting “or” after the semicolon; and | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 3132` | insert | by inserting after clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
