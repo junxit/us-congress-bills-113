@@ -1,7 +1,7 @@
 ---
 measure: S. 1691
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1691
@@ -24,9 +24,11 @@ Border Patrol Agent Pay Reform Act of 2014
 - Sen. Flake, Jeff [R-AZ] (F000444)
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Homeland Security Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -46,3 +48,7 @@ Border Patrol Agent Pay Reform Act of 2014
 - 2014-09-18 — Senate amendment proposed (on the floor): Amendment SA 3931 proposed by Senator Pryor for Senator Carper.(consideration: CR S5868)
 - 2014-09-18 — Senate amendment submitted
 - 2014-09-18 — The committee substitute as amended agreed to by Unanimous Consent. (text: CR S5865-5868)
+- 2014-09-19 — Message on Senate action sent to the House.
+- 2014-09-19 — Received in the House.
+- 2014-09-19 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-09-19 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
