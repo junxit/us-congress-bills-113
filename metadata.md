@@ -1,7 +1,7 @@
 ---
 measure: S. 2793
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2793
@@ -29,9 +29,10 @@ A bill to authorize the award of the Medal of Honor to Henry Johnson.
 - Sen. Hagan, Kay R. [D-NC] (H001049)
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Armed Services Committee
+- House — Armed Services Committee
 
 ## Actions
 
@@ -41,3 +42,6 @@ A bill to authorize the award of the Medal of Honor to Henry Johnson.
 - 2014-09-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S5877)
 - 2014-09-18 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S5876-5877)
 - 2014-09-18 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S5876-5877)
+- 2014-09-19 — Message on Senate action sent to the House.
+- 2014-09-19 — Received in the House.
+- 2014-09-19 — Referred to the House Committee on Armed Services.
