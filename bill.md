@@ -15,18 +15,12 @@ This Act may be cited as the “Improving Regulatory Transparency for New Medica
 
 ## § 2. Scheduling of substances included in new FDA-approved drugs
 
-Section 201 of the Controlled Substances Act (21 U.S.C. 811) is amended by inserting after subsection (h) the following:
-
-> - **(i)** Within 45 days of receiving a recommendation from the Secretary to add a drug or substance that has never been marketed in the United States to a schedule under this title, the Attorney General shall, without regard to the findings required by subsection (a) of this section or section 202(b), issue an interim final rule, under the exception for good cause described in subparagraph (B) of section 553(b) of title 5, United States Code, placing the drug or substance into the schedule recommended by the Secretary. The interim final rule shall be made immediately effective under section 553(d)(3) of title 5, United States Code.
+Section 201(a) of the Controlled Substances Act (21 U.S.C. 811(a)) is amended by adding at the end the following: “Any such proceedings initiated at the request of the Secretary under this subsection to control a drug or other substance not previously scheduled, where the Secretary has recommended the drug or other substance be placed in schedule II, III, IV, or V, shall be commenced not later than 120 days after receipt of written recommendations from the Secretary. The final rule shall be issued not later than 60 days after the date on which both the public comment period has closed and the drug or other substance is the subject of an approved new drug application under section 505 of the Federal Food, Drug, and Cosmetic Act, unless a hearing on the proposed rule is granted by the Attorney General.”.
 
 ## § 3. Enhancing new drug development
 
-Section 302 of the Controlled Substances Act (21 U.S.C. 822) is amended by inserting after subsection (g) the following:
+Section 303 of the Controlled Substances Act (21 U.S.C. 823) is amended by adding at the end the following:
 
-> - **(h)**
->   - **(1)** A person who submits an application for registration to manufacture or distribute a controlled substance in accordance with this section may indicate on the registration application that the substance will be used only in connection with clinical trials of a drug in accordance with section 505(i) of the Federal Food, Drug, and Cosmetic Act.
->   - **(2)** When an application for registration to manufacture or distribute a controlled substance includes an indication that the controlled substance will be used only in connection with clinical trials of a drug in accordance with section 505(i) of the Federal Food, Drug, and Cosmetic Act, the Attorney General shall—
->     - **(A)** make a final decision on the application for registration within 180 days; or
->     - **(B)** provide notice to the applicant in writing of—
->       - **(i)** the outstanding issues that must be resolved in order to reach a final decision on the application; and
->       - **(ii)** the estimated date on which a final decision on the application will be made.
+> - **(i)**
+>   - **(1)** For the purposes of registration to manufacture a controlled substance under subsection (d) of this section for use only in a clinical trial, the Attorney General shall register an applicant or serve an order to show cause upon an applicant pursuant to section 304(c) of this Act not later than 180 days after receipt of an application and all information the Attorney General deems necessary to make a determination under subsection (d).
+>   - **(2)** For the purposes of registration to manufacture a controlled substance under subsection (a) for use only in a clinical trial, the Attorney General shall, in accordance with regulations issued by the Attorney General, issue a notice of application not later than 90 days after receipt of an application and all information the Attorney General deems necessary to issue a notice of application. Following the close of the comment period and receipt of all information the Attorney General deems necessary to make a determination under subsection (a), the Attorney General shall register an applicant or serve an order to show cause upon an applicant pursuant to section 304(c) of this Act within 180 days, unless a hearing on the application has been granted by the Attorney General pursuant to section 1008(i) of the Controlled Substances Import and Export Act.

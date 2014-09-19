@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4299
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `21 U.S.C. § 811` | insert | Section 201 of the Controlled Substances Act (21 U.S.C. 811) is amended by inserting after subsection (h) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 822` | insert | Section 302 of the Controlled Substances Act (21 U.S.C. 822) is amended by inserting after subsection (g) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 811` | add-at-end | Section 201(a) of the Controlled Substances Act (21 U.S.C. 811(a)) is amended by adding at the end the following: “Any such proceedings initiated at the request of the Secretary under this subsection to control a drug or other substance … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 823` | add-at-end | Section 303 of the Controlled Substances Act (21 U.S.C. 823) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
