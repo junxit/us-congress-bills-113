@@ -1,7 +1,7 @@
 ---
 measure: S. 2778
 congress: 113
-version: Reported to Senate
+version: Referred in House
 ---
 
 # S. 2778
@@ -23,9 +23,10 @@ A bill to require the Secretary of State to offer rewards totaling up to $10,000
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Nelson, Bill [D-FL] (N000032)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,6 @@ A bill to require the Secretary of State to offer rewards totaling up to $10,000
 - 2014-09-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5876; text as passed Senate: CR S5876)
 - 2014-09-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5876; text as passed Senate: CR S5876)
 - 2014-09-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 574.
+- 2014-09-19 — Message on Senate action sent to the House.
+- 2014-09-19 — Received in the House.
+- 2014-09-19 — Referred to the House Committee on Foreign Affairs.
