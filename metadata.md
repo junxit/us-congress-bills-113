@@ -1,7 +1,7 @@
 ---
 measure: S. 1611
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1611
@@ -27,9 +27,11 @@ Federal Data Center Consolidation Act of 2013
 - Sen. Coburn, Tom [R-OK] (C000560)
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Armed Services Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -54,3 +56,7 @@ Federal Data Center Consolidation Act of 2013
 - 2014-09-18 — Senate amendment submitted
 - 2014-09-18 — Senate amendment submitted
 - 2014-09-18 — The committee substitute as amended agreed to by Unanimous Consent. (text of committee substitute as amended: CR S5863-5864)
+- 2014-09-19 — Message on Senate action sent to the House.
+- 2014-09-19 — Received in the House.
+- 2014-09-19 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-09-19 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
