@@ -19,7 +19,7 @@ For the purposes of this Act, the following definitions apply:
 
 - **(1)** *Banning* The term Banning means the City of Banning, which is located in Riverside County, California adjacent to the Morongo Indian Reservation.
 - **(2)** *Fields* The term Fields means Lloyd L. Fields, the owner of record of Parcel A.
-- **(3)** *Map* The term map means the map titled “Morongo Band of Mission Indians Land Exchange Map”, and dated June 2, 2014, which has been prepared in accordance with the requirements of the Bureau of Land Management.
+- **(3)** *Map* The term “map” means the map entitled ‘Morongo Indian Reservation, County of Riverside, State of California Land Exchange Map’, and dated May 22, 2014, which is on file in the Bureau of Land Management State Office in Sacramento, California.
 - **(4)** *Parcel A* The term Parcel A means the approximately 41.15 acres designated on the map as “Fields lands”.
 - **(5)** *Parcel B* The term Parcel B means the approximately 41.15 acres designated on the map as “Morongo lands”.
 - **(6)** *Parcel C* The term Parcel C means the approximately 1.21 acres designated on the map as “Banning land”.
