@@ -1,7 +1,7 @@
 ---
 measure: S. 2061
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2061
@@ -21,9 +21,10 @@ Preventing Conflicts of Interest with Contractors Act
 - Sen. McCaskill, Claire [D-MO] (M001170)
 - Sen. Begich, Mark [D-AK] (B001265)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ Preventing Conflicts of Interest with Contractors Act
 - 2014-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 565.
 - 2014-09-18 — Passed Senate with an amendment by Voice Vote. (consideration: CR S5873-5874; text as passed Senate: CR S5873-5874)
 - 2014-09-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S5873-5874; text as passed Senate: CR S5873-5874)
+- 2014-09-19 — Message on Senate action sent to the House.
+- 2014-09-19 — Received in the House.
+- 2014-09-19 — Referred to the House Committee on Oversight and Government Reform.
