@@ -1,7 +1,7 @@
 ---
 measure: S. 1347
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1347
@@ -31,3 +31,7 @@ Conference Accountability Act of 2014
 
 - 2013-07-23 — Introduced in Senate
 - 2013-07-23 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2014-07-30 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-10-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper under authority of the order of the Senate of 09/18/2014 with an amendment in the nature of a substitute. With written report No. 113-268. Additional views filed.
+- 2014-10-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper under authority of the order of the Senate of 09/18/2014 with an amendment in the nature of a substitute. With written report No. 113-268. Additional views filed.
+- 2014-10-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 582.
