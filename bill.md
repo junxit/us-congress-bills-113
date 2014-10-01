@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1690
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -199,7 +199,7 @@ This Act may be cited as the “Second Chance Reauthorization Act of 2013”.
       >   - **(E)** validated assessment tools to assess the risk factors of returning inmates; and
 
     - **(D)** in subsection (f), by striking “this section” and all that follows and inserting the following: “this section $15,000,000 for fiscal years 2014 through 2018.”.
-  - **(2)** *Table of contents amendment* The table of contents in section 2 of the Second Chance Act of 2007 (42 U.S.C. 17501 note) is amended by striking the item relating to section 211 and inserting the following:
+  - **(2)** *Table of contents amendment* The table of contents in section 2 of the Second Chance Act of 2007 (42 U.S.C. 17501 notePublic Law 110–199; 122 Stat. 657) is amended by striking the item relating to section 211 and inserting the following:
 - **(g)** *Definitions*
   - **(1)** *In general* Section 4 of the Second Chance Act of 2007 (42 U.S.C. 17502) is amended to read as follows:
     > ## § 4. Definitions
@@ -220,8 +220,8 @@ This Act may be cited as the “Second Chance Reauthorization Act of 2013”.
     >   - **(E)** places participants into unsubsidized employment; and
     >   - **(F)** provides job retention, re-employment services, and continuing and vocational education to ensure continuing participation in unsubsidized employment and identification of opportunities for advancement.
 
-  - **(2)** *Table of contents amendment* The table of contents in section 2 of the Second Chance Act of 2007 (42 U.S.C. 17501 note) is amended by striking the item relating to section 4 and inserting the following:
-- **(h)** *Extension of the length of section 2976 grants* Section 6(1) of the Second Chance Act of 2007 (42 U.S.C. 17504(1)) is amended by inserting “or under section 2976 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797w)” after “and 212”.
+  - **(2)** *Table of contents amendment* The table of contents in section 2 of the Second Chance Act of 2007 (42 U.S.C. 17501 notePublic Law 110–199; 122 Stat. 657) is amended by striking the item relating to section 4 and inserting the following:
+- **(h)** *Extension of the length of section 2976 grants* Section 6(1) of the Second Chance Act of 2007 (42 U.S.C. 17504(1)) is amended by striking “211, and 212” and inserting “and 211 or under section 2976 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797w)” after “and 212”.
 
 ## § 3. Audit and accountability of grantees
 
@@ -229,11 +229,18 @@ This Act may be cited as the “Second Chance Reauthorization Act of 2013”.
 - **(b)** *Audit requirement* Beginning in fiscal year 2013, and every 3 years thereafter, the Inspector General of the Department of Justice shall conduct an audit of not less than 5 percent of all grantees that are awarded funding under—
   - **(1)** section 2976(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797w(b));
   - **(2)** part CC of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797q et seq.), as amended by this Act;
-  - **(3)** part DD of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797s et seq.);
-  - **(4)** part JJ of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797dd et seq.); or
-  - **(5)** section 115, 201, or 211 of the Second Chance Act of 2007 (42 U.S.C. 17511, 17521, and 17531).
+  - **(32)** part DD of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797s et seq.);
+  - **(43)** part JJ of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797dd et seq.); or
+  - **(54)** section 115, 201, or 211 of the Second Chance Act of 2007 (42 U.S.C. 17511, 17521, and 17531).
 - **(c)** *Mandatory exclusion* A grantee that is found to have an unresolved audit finding under an audit conducted under subsection (b) may not receive grant funds under the grant programs described in paragraphs (1) through (5) of subsection (b) in the fiscal year following the fiscal year to which the finding relates.
 - **(d)** *Priority of grant awards* The Attorney General, in awarding grants under the programs described in paragraphs (1) through (5) of subsection (b) shall give priority to eligible entities that during the 2-year period preceding the application for a grant have not been found to have an unresolved audit finding.
+- **(e)** *Prohibition on lobbying activity*
+  - **(1)** *In general* Amounts authorized to be appropriated to carry out a grant program described in paragraphs (1) through (5) of subsection (b) may not be used by any grant recipient to—
+    - **(A)** lobby any representative of the Department of Justice regarding the award of grant funding; or
+    - **(B)** lobby any representative of a Federal, State, local, or tribal government regarding the award of grant funding.
+  - **(2)** *Penalty* If the Attorney General determines that any recipient of a grant under this Act has violated paragraph (1), the Attorney General shall—
+    - **(A)** require the grant recipient to repay the grant in full; and
+    - **(B)** prohibit the grant recipient from receiving another grant under any grant program described in paragraphs (1) through (5) of subsection (b) for not less than 5 years.
 
 ## § 4. Federal reentry improvements
 
@@ -300,3 +307,12 @@ This Act may be cited as the “Second Chance Reauthorization Act of 2013”.
     - **(I)** laws, regulations, rules, and practices that may require a parolee to return to the same county that they were living in before their arrest and therefore prevent offenders from changing their setting upon release; and
     - **(J)** trying to establish pre-release planning procedures for prisoners to ensure that a prisoner's eligibility for Federal or State benefits (including Medicaid, Medicare, Social Security and veterans benefits) upon release is established prior to release, subject to any limitations in law, and to ensure that prisoners are provided with referrals to appropriate social and health services or are referred to appropriate nonprofit organizations.
 - **(d)** *Updated reports* On an annual basis, the Task Force shall submit to Congress an updated report on the activities of the Task Force, including specific recommendations on issues described in subsections (b) and (c).
+
+## § 6. Protecting important funding for crime victims and law enforcement
+
+Section 8(e)(1) of the Prison Rape Elimination Act of 2003 (42 U.S.C. 15607(e)(1)) is amended by adding at the end the following:
+
+> - **(C)** *Limitation*
+>   - **(i)** *Violence Against Women Act* For purposes of this subsection, a grant program shall not be considered to be covered by this subsection if the program is administered by the Office of Violence Against Women.
+>   - **(ii)** *Delay* During the 4-year period beginning on the date of enactment of the Second Chance Reauthorization Act of 2013, for purposes of this subsection, a grant program shall not be considered to be covered by this subsection if the program is funded under subpart 1 of part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750 et seq.) or section 221 of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5631), except for the portion of funds used toward the construction, administration, or operations of a police lockup, jail, prison, or other detention facility.
+>   - **(iii)** *Applicability to funds* No funds appropriated to programs described in clause (i) or (ii), including any funds appropriated before the date of enactment of the Second Chance Reauthorization Act of 2013 that remain available for obligation as of such date of enactment, may be reduced under this section.

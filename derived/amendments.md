@@ -1,7 +1,7 @@
 ---
 measure: S. 1690
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-66 amendatory instructions. 18 executed, 48 stated and not applied.
+67 amendatory instructions. 19 executed, 48 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -114,7 +114,7 @@ to guess them.
 | Removed | `technology career training to prisoners` |
 | Inserted | `career training, including subsidized employment, when part of a training program, to prisoners and reentering youth and adults` |
 
-### 42 U.S.C. § 17501
+### 42 U.S.C. § 3797w
 
 > in the header, by striking “Mentoring grants to nonprofit organizations” and inserting “Community-based mentoring and transitional service grants to nonprofit organizations”;
 
@@ -122,6 +122,15 @@ to guess them.
 |---|---|
 | Removed | `Mentoring grants to nonprofit organizations` |
 | Inserted | `Community-based mentoring and transitional service grants to nonprofit organizations` |
+
+### 42 U.S.C. § 17504
+
+> Section 6(1) of the Second Chance Act of 2007 (42 U.S.C. 17504(1)) is amended by striking “211, and 212” and inserting “and 211 or under section 2976 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797w)” after “and 212”.
+
+| | |
+|---|---|
+| Removed | `211, and 212` |
+| Inserted | `and 211 or under section 2976 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797w)` |
 
 ### 42 U.S.C. § 17541
 
@@ -227,13 +236,12 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 17511` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17511` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3797w` | amend | Section 201(f)(1) of the Second Chance Act of 2007 (42 U.S.C. 17521(f)(1)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17501` | strike | in subsection (a), by striking “mentoring and other”; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 17501` | replace | in subsection (b), by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17501` | replace | in subsection (f), by striking “this section” and all that follows and inserting the following: “this section $15,000,000 for fiscal years 2014 through 2018.”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 17501` | replace | The table of contents in section 2 of the Second Chance Act of 2007 (42 U.S.C. 17501 note) is amended by striking the item relating to section 211 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3791` | amend | Section 4 of the Second Chance Act of 2007 (42 U.S.C. 17502) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17501` | replace | The table of contents in section 2 of the Second Chance Act of 2007 (42 U.S.C. 17501 note) is amended by striking the item relating to section 4 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17504` | insert | Section 6(1) of the Second Chance Act of 2007 (42 U.S.C. 17504(1)) is amended by inserting “or under section 2976 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797w)” after “and 212”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 3797w` | strike | in subsection (a), by striking “mentoring and other”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3797w` | replace | in subsection (b), by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797w` | replace | in subsection (f), by striking “this section” and all that follows and inserting the following: “this section $15,000,000 for fiscal years 2014 through 2018.”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3797w` | replace | The table of contents in section 2 of the Second Chance Act of 2007 (42 U.S.C. 17501 notePublic Law 110–199; 122 Stat. 657) is amended by striking the item relating to section 211 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797w` | amend | Section 4 of the Second Chance Act of 2007 (42 U.S.C. 17502) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3797w` | replace | The table of contents in section 2 of the Second Chance Act of 2007 (42 U.S.C. 17501 notePublic Law 110–199; 122 Stat. 657) is amended by striking the item relating to section 4 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17532` | repeal | Section 212 of the Second Chance Act of 2007 (42 U.S.C. 17532) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17541` | strike | by striking subsection (h); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17541` | redesignate | by redesignating subsection (i) as subsection (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -241,5 +249,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 17532` | repeal | Section 244 of the Second Chance Act of 2007 (42 U.S.C. 17554) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 3621` | redesignate | by redesignating subsection (g) as subsection (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 3621` | insert | by inserting after subsection (f) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3797w-2` | repeal | Section 2978 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797w–2) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3797q` | repeal | Part CC of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797q et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17532` | repeal | Section 2978 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797w–2) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17532` | repeal | Part CC of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797q et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 15607` | add-at-end | Section 8(e)(1) of the Prison Rape Elimination Act of 2003 (42 U.S.C. 15607(e)(1)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
