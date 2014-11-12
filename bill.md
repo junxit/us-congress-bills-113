@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 748
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 748
+
+> Providing for consideration of the bill (H.R. 5682) to approve the Keystone XL Pipeline.
+
+That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 5682) to approve the Keystone XL Pipeline. All points of order against consideration of the bill are waived. The bill shall be considered as read. All points of order against provisions in the bill are waived. The previous question shall be considered as ordered on the bill and on any amendment thereto to final passage without intervening motion except: (1) one hour of debate equally divided among and controlled by the chair and ranking minority member of the Committee on Transportation and Infrastructure and the chair and ranking minority member of the Committee on Energy and Commerce; and (2) one motion to recommit.
