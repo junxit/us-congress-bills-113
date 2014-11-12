@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3326
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,23 +11,25 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Trinity County Land Exchange Act of 2013”.
+This Act may be cited as the “Trinity County Land Exchange Act of 2014”.
 
 ## § 2. Land exchange, Trinity Public Utilities District, Trinity County, California, the Bureau of Land Management, and the Forest Service
 
-- **(a)** *Land exchange required* If the Utilities District conveys to the Secretary of the Interior all right, title, and interest of the Utilities District in and to Parcel A, the Secretary of Agriculture shall convey to the Utilities District, in exchange, all right, title, and interest of the United States in and to Parcel B.
-- **(b)** *Availability of maps and legal descriptions* Any map prepared by the Secretary of the Interior or the Secretary of Agriculture in connection with a conveyance under subsection (a), and the legal description of Parcel A and Parcel B, shall be on file and available for public inspection in the Office of the Chief of the Forest Service and the appropriate office of the Bureau of Land Management. With the agreement of the parties to the conveyances under subsection (a), the Secretary of the Interior and the Secretary of Agriculture may make technical corrections to the maps and legal descriptions.
+- **(a)** *Land exchange required* If not later than three years after enactment of this Act, the Utilities District conveys to the Secretary of the Interior all right, title, and interest of the Utilities District in and to Parcel A, subject to such terms and conditions as the Secretary of the Interior may require, the Secretary of Agriculture shall convey Parcel B to the Utilities District, subject to such terms and conditions as the Secretary of Agriculture may require, including the reservation of easements for all roads and trails considered to be necessary for administrative purposes and to ensure public access to National Forest System lands.
+- **(b)** *Availability of maps and legal descriptions* Maps are entitled “Trinity County Land Exchange Act of 2014 – Parcel A” and “Trinity County Land Exchange Act of 2014 – Parcel B”, both dated March 24, 2014. The maps shall be on file and available for public inspection in the Office of the Chief of the Forest Service and the appropriate office of the Bureau of Land Management. With the agreement of the parties to the conveyances under subsection (a), the Secretary of the Interior and the Secretary of Agriculture may make technical corrections to the maps and legal descriptions.
 - **(c)** *Equal value exchange*
-  - **(1)** *Land Exchange Process* The land exchange under this section is intended to be an equal value exchange. Except as provided in paragraph (3), the Secretary of the Interior and the Secretary of Agriculture shall carry out the land exchange in accordance with section 206 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1716).
-  - **(2)** *Appraisal of parcels* The values of Parcel A and Parcel B shall by determined by appraisals performed by a qualified appraiser mutually agreed to by the parties to the conveyances under subsection (a). The appraisals shall be performed in conformance with the Uniform Appraisal Standards for Federal Land Acquisitions.
-  - **(3)** *Cash equalization* If the values of Parcel A and Parcel B are not equal, the values may be equalized through the use of a cash equalization payment. Notwithstanding section 206(b) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1716(b)), a cash equalization payment may be made in excess of 25 percent of the appraised value of the Parcel B.
-- **(d)** *Disposition of proceeds*
-  - **(1)** *In general* Any cash equalization payment received by the United States under subsection (c) shall be deposited in the fund established under Public Law 90–171 (16 U.S.C. 484a; commonly known as the Sisk Act).
-  - **(2)** *Use of proceeds* Amounts deposited under paragraph (1) shall be available to the Secretary of Agriculture, without further appropriation and until expended, for the acquisition of land or interests in land in California for inclusion in the National Forest System.
-- **(e)** *Survey and administrative costs* The exact acreage and legal description of Parcel A and Parcel B shall be determined by a survey satisfactory to the Secretary of the Interior and the Secretary of Agriculture. The Utilities District shall be responsible for the costs of the survey. The Federal Government and the Utilities District shall share in other administrative costs of the land exchange under this section.
-- **(f)** *Management of acquired land* Upon the acquisition of Parcel A, the Secretary of the Interior, acting through the Redding Field Office of the Bureau of Land Management, shall administer Parcel A as public land in accordance with the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.) and the laws and regulations applicable to public land administered by the Bureau of Land Management.
-- **(g)** *Completion of land exchange* The Secretary of Agriculture shall complete the conveyance of Parcel B not later than one year after the date on which the Utilities District offers to convey Parcel A to the Secretary of the Interior.
-- **(h)** *Definitions* For the purposes of this section:
-  - **(1)** *Parcel A* The term Parcel A means the approximately 47 acres of land, known as the “Sky Ranch parcel”, adjacent to public land administered by the Redding Field Office of the Bureau of Land Management.
-  - **(2)** *Parcel B* The term Parcel B means the approximately 100 acres land in the Shasta-Trinity National Forest in the State of California near the Weaverville Airport in Trinity County.
+  - **(1)** *Land Exchange Process* The land exchange under this section shall be an equal value exchange. Except as provided in paragraph (3), the Secretary of the Interior and the Secretary of Agriculture shall carry out the land exchange in accordance with section 206 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1716).
+  - **(2)** *Appraisal of parcels* The values of Parcel A and Parcel B shall by determined by appraisals performed by a qualified appraiser mutually agreed to by the parties to the conveyances under subsection (a). The appraisals shall be approved by the Secretary of Interior and the Secretary of Agriculture and conducted in conformity with the Uniform Appraisal Standards for Federal Land.
+  - **(3)** *Cash equalization* If the values of Parcel A and Parcel B are not equal, the values may be equalized through the use of a cash equalization payment, however, if the final appraised value of Parcel A exceeds the value of Parcel B, the surplus value of Parcel A shall be considered to be a donation by the Utilities District. Notwithstanding section 206(b) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1716(b)), a cash equalization payment may be made in excess of 25 percent of the appraised value of the Parcel B.
+- **(d)** *Disposition of proceeds* Any cash equalization payment received by the United States under subsection (c) shall be deposited in the general fund of the Treasury to be used for deficit reduction.
+- **(e)** *Survey* The exact acreage and legal description of Parcel A and Parcel B shall be determined by a survey satisfactory to the Secretary of the Interior and the Secretary of Agriculture.
+- **(f)** *Costs* As a condition of the land exchange under subsection (a), the Utilities District shall pay the costs associated with—
+  - **(1)** the surveys described in subsection (e);
+  - **(2)** the appraisals described in subsection (c)(2); and
+  - **(3)** any other reasonable administrative or remediation cost determined by the Secretary of Agriculture.
+- **(g)** *Management of acquired land* Upon the acquisition of Parcel A, the Secretary of the Interior, acting through the Redding Field Office of the Bureau of Land Management, shall administer Parcel A as public land in accordance with the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.) and the laws and regulations applicable to public land administered by the Bureau of Land Management, except that public recreation and public access to and for recreation shall be the highest and best use of Parcel A.
+- **(h)** *Completion of land exchange* Once the Utilities District offers to convey Parcel A to the Secretary of the Interior, the Secretary of Agriculture shall complete the conveyance of Parcel B not later than one year after the date of enactment of this Act.
+- **(i)** *Definitions* For the purposes of this section:
+  - **(1)** *Parcel A* The term Parcel A means the approximately 47 acres of land, known as the “Sky Ranch parcel”, adjacent to public land administered by the Redding Field Office of the Bureau of Land Management as depicted on the map entitled “Trinity County Land Exchange Act of 2014 – Parcel A”, dated March 24, 2014, more particularly described as a portion of Mineral Survey 178, south Highway 299, generally located in the S1/2 of the S1/2 of Section 7 and the N1/2 of the N1/2 of Section 8, Township 33 North, Range 10 West, Mount Diablo Meridian.
+  - **(2)** *Parcel B* The term Parcel B means the approximately 100 acres land in the Shasta-Trinity National Forest in the State of California near the Weaverville Airport in Trinity County as depicted on the map entitled “Trinity County Land Exchange Act of 2014 – Parcel B” dated March 24, 2014, more particularly described as Lot 8, SW1/4 SE1/4, and S1/2 N1/2 SE, Section 31, Township 34 North, Range 9 West, Mount Diablo Meridian.
   - **(3)** *Utilities District* The term Utilities District means the Trinity Public Utilities District of Trinity County, California.
