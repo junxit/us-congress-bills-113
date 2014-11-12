@@ -23,7 +23,6 @@ Section 320(g) of the Federal Water Pollution Control Act (33 U.S.C. 1330(g)) is
 >     - **(iv)** jellyfish proliferation limiting community access to water during peak tourism seasons;
 >     - **(v)** flooding which may be related to sea level rise or wetland degradation or loss; or
 >     - **(vi)** low dissolved oxygen conditions in estuarine waters and related nutrient management.
->   - **(D)** *Priority* The Administrator shall give priority for the competitive awards described in subparagraph (A) to national estuary programs that are not part of the Geographic Programs as described in the explanatory statement referred to in section 4 of the Consolidated Appropriations Act, 2014 (Public Law 113–76; 128 Stat. 7 and printed on page H978 of the Congressional Record on January 15, 2014).
 
 ## § 2. Authorization of appropriations
 
@@ -35,4 +34,4 @@ Section 320 of the Federal Water Pollution Control Act (33 U.S.C. 1330) is amend
 >     - **(B)** making grants and awards under subsection (g).
 >   - **(2)** *Allocations*
 >     - **(A)** *Conservation and management plan* The Administrator shall provide not less than 80 percent of the amounts made available for this section for each fiscal year referred to in paragraph (1) for the development, implementation, and monitoring of each conservation and management plan eligible for grant assistance under subsection (g)(2).
->     - **(B)** *Competitive awards* The Administrator shall provide not less than 15 percent of the amounts made available for this section in each fiscal year to make competitive awards described in subsection (g)(3).
+>     - **(B)** *Competitive awards* The Administrator shall provide not less than 15 percent of the amounts made available for this section in each fiscal year to make competitive awards described in subsection (g)(4).
