@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4012
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4012
@@ -16,7 +16,7 @@ Secret Science Reform Act of 2014
 
 - Rep. Schweikert, David [R-AZ-6] (S001183)
 
-## Cosponsors (18)
+## Cosponsors (53)
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Hall, Ralph M. [R-TX-4] (H000067)
@@ -36,6 +36,41 @@ Secret Science Reform Act of 2014
 - Rep. Brooks, Mo [R-AL-5] (B001274)
 - Rep. Salmon, Matt [R-AZ-5] (S000018)
 - Rep. Franks, Trent [R-AZ-8] (F000448)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Mullin, Markwayne [R-OK-2] (M001190)
+- Rep. Duncan, Jeff [R-SC-3] (D000615)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Nunnelee, Alan [R-MS-1] (N000186)
+- Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
+- Rep. Garrett, Scott [R-NJ-5] (G000548)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Mulvaney, Mick [R-SC-5] (M001182)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. DeSantis, Ron [R-FL-6] (D000621)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Bentivolio, Kerry L. [R-MI-11] (B001280)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. Massie, Thomas [R-KY-4] (M001184)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Collins, Doug [R-GA-9] (C001093)
+- Rep. Rooney, Thomas J. [R-FL-17] (R000583)
+- Rep. Cotton, Tom [R-AR-4] (C001095)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
 
 ## Committees (1)
 
@@ -46,3 +81,10 @@ Secret Science Reform Act of 2014
 - 2014-02-06 — Introduced in House
 - 2014-02-06 — Introduced in House
 - 2014-02-06 — Referred to the House Committee on Science, Space, and Technology.
+- 2014-02-11 — Hearings Held by the Subcommittee on Environment Prior to Referral.
+- 2014-03-05 — Referred to the Subcommittee on Environment.
+- 2014-06-24 — Committee Consideration and Mark-up Session Held.
+- 2014-06-24 — Ordered to be Reported by Voice Vote.
+- 2014-11-12 — Placed on the Union Calendar, Calendar No. 460.
+- 2014-11-12 — Reported by the Committee on Science, Space, and Technology. H. Rept. 113-619.
+- 2014-11-12 — Reported by the Committee on Science, Space, and Technology. H. Rept. 113-619.
