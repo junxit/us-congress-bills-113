@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 5693
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5693
+
+> To prohibit the issuance of visas to, and the admission into the United States of, an alien during the 30-day period following the presence of the alien in Guinea, Liberia, or Sierra Leone.
+
+## § 1. Short title
+
+This Act may be cited as the “Ebola VISA Safety Act”.
+
+## § 2. Special immigration limitations relating to Ebola Virus Disease
+
+- **(a)** *In general*
+  - **(1)** *Visa restrictions* Beginning on the date of the enactment of this Act, no consular officer may issue an immigrant or nonimmigrant visa to an alien during any 30-day period that begins on a day on which the alien is physically present in Guinea, Liberia, or Sierra Leone.
+  - **(2)** *Admission restrictions* Beginning on the date of the enactment of this Act, an alien is ineligible to be admitted into the United States during any 30-day period that begins on a day on which the alien is physically present in Guinea, Liberia, or Sierra Leone.
+- **(b)** *Definitions* The terms used in this section shall have the meaning given such terms in section 101(a) of the Immigration and Nationality Act (8 U.S.C. 1101(a)).
