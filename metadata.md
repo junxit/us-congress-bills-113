@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4926
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4926
@@ -35,3 +35,10 @@ To designate a segment of Interstate Route 35 in the State of Minnesota as the "
 - 2014-06-20 — Introduced in House
 - 2014-06-20 — Introduced in House
 - 2014-06-20 — Referred to the House Committee on Transportation and Infrastructure.
+- 2014-06-23 — Referred to the Subcommittee on Highways and Transit.
+- 2014-09-17 — Committee Consideration and Mark-up Session Held.
+- 2014-09-17 — Ordered to be Reported (Amended) by Voice Vote.
+- 2014-09-17 — Subcommittee on Highways and Transit Discharged.
+- 2014-11-12 — Placed on the House Calendar, Calendar No. 143.
+- 2014-11-12 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-610.
+- 2014-11-12 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-610.
