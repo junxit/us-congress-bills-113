@@ -11,13 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Conveyance Federal property located in the National Petroleum Reserve in Alaska
 
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act and after completion of the survey and appraisal described in this section, the Administrator of General Services, on behalf of the Secretary of the Interior, shall convey to the Corporation by quitclaim deed for the consideration described in subsection (c), all right, title, and interest of the United States in and to a parcel of real property described in subsection (b).
-- **(b)** *Legal description of property*
-  - **(1)** *In general* The parcel to be conveyed under subsection (a) consists of approximately 1,518 acres and improvements comprising a former Distant Early Warning Line site in the National Petroleum Reserve in Alaska near Wainwright, Alaska, and described as United States Survey Number 5252 located within the Umiat Meridian in—
-    - **(A)** Sections 3 and 4 within Township 14 North, Range 31 West;
-    - **(B)** Sections 17, 18, 20, 21, 26, 27, 28, 33, 34, and 35 within Township 15 North, Range 31 West; and
-    - **(C)** Section 13 within Township 15 North; Range 32.
-  - **(2)** *Survey required* Not later than 180 days after the date of the enactment of this Act, the exact acreage and legal description of the real property to be conveyed under subsection (a) shall be determined by a survey, paid for by the Corporation, that is satisfactory to the Secretary.
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act and after completion of the appraisal described in this section, the Secretary of the Interior shall convey to the Corporation by quitclaim deed for the consideration described in subsection (c), all right, title, and interest of the United States in and to a parcel of real property described in subsection (b).
+- **(b)** *Legal description of property* The parcel to be conveyed under subsection (a) consists of approximately 1,518 acres and improvements comprising a former Distant Early Warning Line site in the National Petroleum Reserve in Alaska near Wainwright, Alaska, and described as United States Survey Number 5252 located within the Umiat Meridian in—
+  - **(1)** Sections 3 and 4 within Township 14 North, Range 31 West;
+  - **(2)** Sections 17, 18, 20, 21, 26, 27, 28, 33, 34, and 35 within Township 15 North, Range 31 West; and
+  - **(3)** Section 13 within Township 15 North; Range 32.
 - **(c)** *Terms and conditions*
   - **(1)** *Consideration*
     - **(A)** *In general* As consideration for the conveyance of the property under subsection (a), the Corporation shall pay to the Secretary an amount not less than the fair market value of the conveyed property, to be determined as provided in subparagraph (B).

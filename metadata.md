@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5167
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5167
@@ -25,3 +25,13 @@ To direct the Secretary of the Interior to convey certain Federal property locat
 - 2014-07-22 — Introduced in House
 - 2014-07-22 — Introduced in House
 - 2014-07-22 — Referred to the House Committee on Natural Resources.
+- 2014-07-30 — Referred to the Subcommittee Indian and Alaska Native Affairs.
+- 2014-07-30 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2014-09-09 — Subcommittee Hearings Held.
+- 2014-09-18 — Committee Consideration and Mark-up Session Held.
+- 2014-09-18 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2014-09-18 — Subcommittee Indian and Alaska Native Affairs Discharged.
+- 2014-09-18 — Subcommittee on Public Lands and Environmental Regulation Discharged.
+- 2014-11-12 — Placed on the Union Calendar, Calendar No. 459.
+- 2014-11-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-618.
+- 2014-11-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-618.
