@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5448
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5448
@@ -29,3 +29,10 @@ John F. Kennedy Center Reauthorization Act of 2014
 - 2014-09-11 — Introduced in House
 - 2014-09-11 — Introduced in House
 - 2014-09-11 — Referred to the House Committee on Transportation and Infrastructure.
+- 2014-09-12 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2014-09-17 — Committee Consideration and Mark-up Session Held.
+- 2014-09-17 — Ordered to be Reported by Voice Vote.
+- 2014-09-17 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2014-11-12 — Placed on the Union Calendar, Calendar No. 455.
+- 2014-11-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-613.
+- 2014-11-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-613.
