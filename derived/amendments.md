@@ -1,7 +1,7 @@
 ---
 measure: H.R. 647
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 1 executed, 1 stated and not applied.
+8 amendatory instructions. 2 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,14 +24,23 @@ to guess them.
 
 ## Executed
 
-### 26 U.S.C. § 6693
+### 26 U.S.C. § 26
 
-> Paragraph (2) of section 6693(a) of the Internal Revenue Code of 1986 such Code is amended by striking “and” at the end of subparagraph (D), by striking the period at the end of subparagraph (E) and inserting “and”, and by inserting after subparagraph (E) the following new subparagraph:
+> Section 26(b)(2) of the Internal Revenue Code of 1986 is amended by striking “and” at the end of subparagraph (W), by striking the period at the end of subparagraph (X) and inserting “, and”, and by inserting after subparagraph (X) the following:
 
 | | |
 |---|---|
 | Removed | `and` |
-| Inserted | `and` |
+| Inserted | `, and` |
+
+### 26 U.S.C. § 26
+
+> The heading for part VIII of subchapter F of chapter 1 of the Internal Revenue Code of 1986 is amended by striking “Higher Education” and inserting “Certain”.
+
+| | |
+|---|---|
+| Removed | `Higher Education` |
+| Inserted | `Certain` |
 
 ## Stated, not applied
 
@@ -42,4 +51,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 529` | redesignate | Section 529 of the Internal Revenue Code of 1986 is amended by redesignating subsection (f) as subsection (g) and by inserting after subsection (e) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 421` | insert | Subchapter F of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after section 529 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 4973` | replace | Subsection (a) of section 4973 of the Internal Revenue Code of 1986 (relating to tax on excess contributions to certain tax-favored accounts and annuities) is amended by striking “or” at the end of paragraph (4), by inserting “or” at the… | the bill quotes text on both sides, but not as a single substitution this could carry out |
+| `26 U.S.C. § 4973` | add-at-end | Section 4973 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6693` | redesignate | Section 6693(a)(2) of the Internal Revenue Code of 1986 is amended by striking “and” at the end of subparagraph (D), by redesignating subparagraph (E) as subparagraph (F), and by inserting after subparagraph (D) the following: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 26` | amend | The item in the table of parts for subchapter F of chapter 1 of the Internal Revenue Code of 1986 relating to part VIII is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 26` | insert | The table of sections for part VIII of subchapter F of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 529 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
