@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4
@@ -69,3 +69,5 @@ Jobs for America Act
 - 2014-09-18 — Rule H. Res. 727 passed House.
 - 2014-09-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7858)
 - 2014-09-18 — The previous question was ordered pursuant to the rule. (consideration: CR H7818)
+- 2014-11-12 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-11-13 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 597.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -450,9 +450,9 @@ complete account of the bill's effect, which it is not.
 | — | strike | Subsection (a) of section 4221 of such Code is amended by striking the last sentence. | the bill names no machine-readable US Code section |
 | — | strike | Paragraph (2) of section 6416(b) of such Code is amended by striking the last sentence. | the bill names no machine-readable US Code section |
 | — | strike | The table of subchapters for chapter 32 of such Code is amended by striking the item relating to subchapter E. | the bill names no machine-readable US Code section |
-| `15 U.S.C. § 80b-3` | add-at-end | Section 203 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 78o` | add-at-end | Section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 602` | add-at-end | Section 202(g) of the Congressional Budget Act of 1974 (2 U.S.C. 602(g)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 80b-3` | amend | Section 203 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78o` | amend | Section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 602` | amend | Section 202(g) of the Congressional Budget Act of 1974 (2 U.S.C. 602(g)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 658` | insert | in subparagraph (A)(i), by inserting “incur or” before “be required”; and | the bill quotes the text inserted but describes where it goes |
 | `2 U.S.C. § 658` | insert | in subparagraph (B), by inserting after “to spend” the following: “or could forgo in profits, including costs passed on to consumers or other entities taking into account, to the extent practicable, behavioral changes,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1535` | strike | in the subsection heading, by striking “OMB”; and | the bill quotes the text struck but describes what replaces it |
@@ -525,7 +525,7 @@ complete account of the bill's effect, which it is not.
 | `5 U.S.C. § 608` | insert | by inserting after paragraph (7) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 2341` | strike | in subparagraph (D), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `28 U.S.C. § 2341` | replace | in subparagraph (E), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `5 U.S.C. § 608` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 2341` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 612` | insert | Subsection (b) of section 612 of title 5, United States Code, is amended by inserting “chapter 5, and chapter 7,” after “this chapter,”. | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 632` | amend | Subparagraph (A) of section 3(a)(2) of the Small Business Act (15 U.S.C. 632(a)(2)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 632` | amend | Clause (iii) of section 3(a)(2)(C) of the Small Business Act (15 U.S.C. 632(a)(2)(C)(iii)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -545,7 +545,7 @@ complete account of the bill's effect, which it is not.
 | `5 U.S.C. § 601` | replace | by striking the item relating to section 607 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 601` | replace | by striking the item relating to section 608 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 601` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 601` | amend | Section 212(a)(5) the Small Business Regulatory Enforcement Fairness Act of 1996 (5 U.S.C. 601 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 212(a)(5) the Small Business Regulatory Enforcement Fairness Act of 1996 (5 U.S.C. 601 note) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Chapter 8 of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | `5 U.S.C. § 802` | add-at-end | Section 257(b)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985 is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 151` | strike | Section 1101(a) of the Internet Tax Freedom Act (47 U.S.C. 151 note) is amended by striking “ during the period beginning November 1, 2003, and ending November 1, 2014”. | the bill quotes the text struck but describes what replaces it |
