@@ -1,7 +1,7 @@
 ---
 measure: S. 1045
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1045
@@ -28,3 +28,7 @@ A bill to amend title 5, United States Code, to provide that persons having seri
 
 - 2013-05-23 — Introduced in Senate
 - 2013-05-23 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2014-05-21 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-11-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. With written report No. 113-272.
+- 2014-11-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. With written report No. 113-272.
+- 2014-11-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 596.
