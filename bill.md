@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 5705
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5705
+
+> To modify certain provisions relating to the Propane Education and Research Council.
+
+## § 1. Short title
+
+This Act may be cited as the “Propane Education and Research Enhancement Act of 2014”.
+
+## § 2. Provisions relating to the Propane Education and Research Council
+
+- **(a)** *Functions of propane education and research council* Section 5(f) of the Propane Education and Research Act of 1996 (15 U.S.C. 6404(f)) is amended in the first sentence by inserting “to train propane distributors and consumers in strategies to mitigate negative effects of future propane price spikes,” after “to enhance consumer and employee safety and training,”.
+- **(b)** *Market survey and consumer protection price analysis* Section 9(a) of the Propane Education and Research Act of 1996 (15 U.S.C. 6408(a)) is amended in the first sentence by striking “only data provided by the Energy Information Administration” and inserting “the refiner price to end users of consumer grade propane, as published by the Energy Information Administration”.
