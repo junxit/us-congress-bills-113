@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5266
 congress: 113
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 5266
@@ -45,3 +45,4 @@ To reauthorize the National Estuary Programs, and for other purposes.
 - 2014-11-12 — Placed on the Union Calendar, Calendar No. 454.
 - 2014-11-12 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-612.
 - 2014-11-12 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-612.
+- 2014-11-13 — Received in the Senate.
