@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4846
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4846
@@ -33,3 +33,9 @@ Arapaho National Forest Boundary Adjustment Act of 2014
 - 2014-11-12 — Placed on the Union Calendar, Calendar No. 458.
 - 2014-11-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-616.
 - 2014-11-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-616.
+- 2014-11-13 — Considered under suspension of the rules. (consideration: CR H7950-7951)
+- 2014-11-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4846.
+- 2014-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-11-13 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
+- 2014-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7950)
+- 2014-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7950)
