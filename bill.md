@@ -1,0 +1,19 @@
+---
+legis-num: S. 2928
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2928
+
+> To prohibit the Federal Energy Regulatory Commission from issuing certain decisions that will raise costs for ratepayers, and for other purposes.
+
+## § 1. Prohibition against certain FERC decisions that will raise costs for ratepayers
+
+- **(a)** *Cost-Benefit analysis* Prior to issuing a decision described in subsection (b), the Federal Energy Regulatory Commission shall publish a cost-benefit analysis of such decision, including the likely financial impact of such decision on ratepayers.
+- **(b)** *Decisions* This section applies to any decision by the Federal Energy Regulatory Commission that will—
+  - **(1)** authorize the creation of a new capacity zone; or
+  - **(2)** affect the supply and demand curves or models used to determine prices at points in a capacity zone.
+- **(c)** *Prohibition* If the Federal Energy Regulatory Commission determines, through a cost-benefit analysis published under subsection (a), that a decision described in subsection (b) will raise costs for ratepayers, then the Commission may not issue such decision.
+- **(d)** *Effective date* This section takes effect on January 1, 2014.
