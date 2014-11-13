@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5167
 
-> To direct the Administrator of General Services, on behalf of the Secretary of the Interior, to convey certain Federal property located in the National Petroleum Reserve in Alaska to the Olgoonik Corporation, an Alaska Native Corporation established under the Alaska Native Claims Settlement Act.
+> To direct the Secretary of the Interior to convey certain Federal property located in the National Petroleum Reserve in Alaska to the Olgoonik Corporation, an Alaska Native Corporation established under the Alaska Native Claims Settlement Act.
 
 ## § 1. Conveyance Federal property located in the National Petroleum Reserve in Alaska
 
