@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4366
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4366
@@ -54,3 +54,7 @@ Strengthening Education through Research Act
 - 2014-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3988-3999)
 - 2014-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3988-3999)
 - 2014-05-12 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2014-09-17 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-11-17 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. With written report No. 113-275.
+- 2014-11-17 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. With written report No. 113-275.
+- 2014-11-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 600.
