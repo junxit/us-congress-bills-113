@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2
@@ -72,3 +72,7 @@ American Energy Solutions for Lower Costs and More American Jobs Act
 - 2014-09-18 — Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Resolution provides that each bill may be debatable for 2 hours, equally divided and controlled by the chair and ranking member of their respective committees. The bills shall be considered as read, all points of order agains the provisions of the bill are waived, and each bill is provided with one motion to recommit.
 - 2014-09-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7854)
 - 2014-09-18 — The previous question was ordered pursuant to the rule. (consideration: CR H7853)
+- 2014-09-19 — Referred to the Subcommittee on Energy and Power.
+- 2014-11-12 — Received in the Senate.
+- 2014-11-13 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-11-17 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 601.

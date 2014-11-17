@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -153,7 +153,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | By striking “ten cubic feet” the first place it appears and inserting “17 cubic feet”. | the bill names no machine-readable US Code section |
 | — | strike | By striking “during those months when there is no other discharge therefrom, but this release may be reduced for brief temporary periods by the Secretary whenever he may find that release of the full ten cubic feet per second is harmful … | the bill names no machine-readable US Code section |
 | — | add-at-end | By adding at the end the following: “Without further action by the Secretary, and as determined necessary for any given year by the City of Prineville, up to seven of the 17 cubic feet per second minimum release shall also serve as mitig… | the bill names no machine-readable US Code section |
-| — | add-at-end | The Act of August 6, 1956 (70 Stat. 1058), as amended by the Acts of September 14, 1959 (73 Stat. 554), and September 18, 1964 (78 Stat. 954), is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The Act of August 6, 1956 (70 Stat. 1058), as amended by the Acts of September 14, 1959 (73 Stat. 554), and September 18, 1964 (78 Stat. 954), is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `30 U.S.C. § 181` | redesignate | The Mineral Leasing Act (30 U.S.C. 181 et seq.) is amended by redesignating section 44 as section 45, and by inserting after section 43 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 1253` | add-at-end | Section 503 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1253) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4321` | insert | Chapter 5 of part 1 of title 5, United States Code, is amended by inserting after subchapter II the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
