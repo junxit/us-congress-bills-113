@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3326
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3326
@@ -20,9 +20,10 @@ Trinity County Land Exchange Act of 2014
 
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Trinity County Land Exchange Act of 2014
 - 2014-11-13 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
 - 2014-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7949)
 - 2014-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7949)
+- 2014-11-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
