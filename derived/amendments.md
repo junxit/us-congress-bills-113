@@ -1,7 +1,7 @@
 ---
 measure: S. 1893
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | amend | Title XVI of the Homeland Security Act of 2002 (116 Stat. 2312 et seq.) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by striking the items relating to title XVI and inserting the following: | the bill names no machine-readable US Code section |
+| — | amend | Title XVI of the Homeland Security Act of 2002 (116 Stat. 2312) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | The table of contents in section 1(b) of the Homeland Security Act of 2002 (116 Stat. 2135) is amended by striking the items relating to title XVI and inserting the following: | the bill names no machine-readable US Code section |
