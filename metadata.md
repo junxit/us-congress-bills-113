@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4867
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4867
@@ -47,3 +47,4 @@ Economic Development Through Tribal Land Exchange Act
 - 2014-11-13 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
 - 2014-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7951)
 - 2014-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7951)
+- 2014-11-17 — Received in the Senate.
