@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5167
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5167
@@ -16,9 +16,10 @@ To direct the Secretary of the Interior to convey certain Federal property locat
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To direct the Secretary of the Interior to convey certain Federal property locat
 - 2014-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7948)
 - 2014-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7948)
 - 2014-11-13 — The title of the measure was amended. Agreed to without objection.
+- 2014-11-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
