@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 129
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 129
@@ -25,3 +25,12 @@ Appointing the day for the convening of the first session of the One Hundred Fou
 - 2014-11-14 — On passage Passed without objection. (text: CR H7985)
 - 2014-11-14 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7985)
 - 2014-11-17 — Received in the Senate, read twice.
+- 2014-11-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S622)
+- 2014-11-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S622)
+- 2014-11-21 — Message on Senate action sent to the House.
+- 2014-11-24 — Presented to President.
+- 2014-11-24 — Presented to President.
+- 2014-12-04 — Became Public Law No: 113-201.
+- 2014-12-04 — Became Public Law No: 113-201.
+- 2014-12-04 — Signed by President.
+- 2014-12-04 — Signed by President.
