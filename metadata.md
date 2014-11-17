@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5468
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5468
@@ -78,3 +78,11 @@ To designate the facility of the United States Postal Service located at 1103 US
 - 2014-09-15 — Introduced in House
 - 2014-09-15 — Introduced in House
 - 2014-09-15 — Referred to the House Committee on Oversight and Government Reform.
+- 2014-09-17 — Committee Consideration and Mark-up Session Held.
+- 2014-09-17 — Ordered to be Reported by Voice Vote.
+- 2014-11-17 — Considered under suspension of the rules. (consideration: CR H8004-8005)
+- 2014-11-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5468.
+- 2014-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-11-17 — Mr. Issa moved to suspend the rules and pass the bill.
+- 2014-11-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8005)
+- 2014-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8005)
