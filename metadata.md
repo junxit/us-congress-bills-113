@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5142
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5142
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 113 Wes
 
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Rep. Ellmers, Renee L. [R-NC-2] (E000291)
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
@@ -28,6 +28,7 @@ To designate the facility of the United States Postal Service located at 113 Wes
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
 - Rep. Holding, George [R-NC-13] (H001065)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
 
 ## Committees (1)
 
@@ -38,3 +39,11 @@ To designate the facility of the United States Postal Service located at 113 Wes
 - 2014-07-17 — Introduced in House
 - 2014-07-17 — Introduced in House
 - 2014-07-17 — Referred to the House Committee on Oversight and Government Reform.
+- 2014-09-17 — Committee Consideration and Mark-up Session Held.
+- 2014-09-17 — Ordered to be Reported by Voice Vote.
+- 2014-11-17 — Considered under suspension of the rules. (consideration: CR H8010-8011)
+- 2014-11-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5142.
+- 2014-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-11-17 — Mr. Issa moved to suspend the rules and pass the bill.
+- 2014-11-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8010)
+- 2014-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8010)
