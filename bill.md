@@ -21,14 +21,14 @@ The Migratory Bird Hunting and Conservation Stamp Act is amended—
   - **(A)** by striking “1990, and” and inserting “1990,”; and
   - **(B)** by striking “for each hunting year thereafter” and inserting “for hunting years 1991 through 2013, and $25 for each hunting year thereafter”;
 - **(2)** by adding at the end of section 2 (16 U.S.C. 718b) the following:
-  > - **(c)** *Reduction in price of stamp* The Secretary may reduce the price of each stamp sold under the provisions of this section for a hunting year if the Secretary determines that the increase in the price of the stamp after hunting year 2013 resulted in a reduction in revenues deposited into the fund;
+  > - **(c)** *Reduction in price of stamp* The Secretary may reduce the price of each stamp sold under the provisions of this section for a hunting year if the Secretary determines that the increase in the price of the stamp after hunting year 2013 resulted in a reduction in revenues deposited into the fund.
 
 - **(3)** in section 4 (16 U.S.C. 718d)—
   - **(A)** in subsection (a)(3), by inserting before the period the following: “, in which there shall be a subaccount to which the Secretary of the Treasury shall transfer all amounts in excess of $15 that are received from the sale of each stamp sold for each hunting year after hunting year 2013”;
-  - **(B)** in subsection (b)(1), by striking “So much” and inserting “except as provided in paragraph (4), so much”;
+  - **(B)** in subsection (b)(1), by striking “So much” and inserting “Except as provided in paragraph (4), so much”;
   - **(C)** in subsection (b)(2), by striking “paragraph (3)” and inserting “paragraphs (3) and (4)”; and
   - **(D)** by adding at the end of subsection (b) the following:
-    > - **(4)** *Conservation easements* Amounts in the subaccount referred to in subsection (a)(3) shall be used by the Secretary solely to acquire easements in real property for conservation of migratory birds.
+    > - **(4)** *Conservation easements* Amounts in the subaccount referred to in subsection (a)(3) shall be used by the Secretary solely to acquire easements in real property in the United States for conservation of migratory birds.
 
 ## § 3. Annual report on expenditures
 
@@ -40,8 +40,19 @@ Section 4 of the Migratory Bird Hunting and Conservation Stamp Act (16 U.S.C. 71
 
   - **(B)** by striking paragraph (2); and
 - **(2)** by adding at the end the following:
-  > - **(e)** *Annual report* The Secretary shall include in each annual report of the Commission under section 3 of the Migratory Bird Conservation Act (16 U.S.C. 715b)—
-  >   - **(1)** a description of activities conducted under subsection (c) in the year covered by the report; and
+  > - **(d)** *Annual report* The Secretary shall include in each annual report of the Commission under section 3 of the Migratory Bird Conservation Act (16 U.S.C. 715b)—
+  >   - **(1)** a description of activities conducted under subsection (c) in the year covered by the report;
   >   - **(2)** an annual assessment of the status of wetlands conservation projects for migratory bird conservation purposes, including a clear and accurate accounting of—
   >     - **(A)** all expenditures by Federal and State agencies under this section; and
-  >     - **(B)** all expenditures made for fee-simple acquisition of Federal lands in the United States, including the amount paid and acreage of each parcel acquired in each acquisition.
+  >     - **(B)** all expenditures made for fee-simple acquisition of Federal lands in the United States, including the amount paid and acreage of each parcel acquired in each acquisition;
+  >   - **(3)** an analysis of the refuge lands opened, and refuge lands closed, for hunting and fishing in the year covered by the report, including—
+  >     - **(A)** identification of the specific areas in each refuge and the reasons for the closure or opening; and
+  >     - **(B)** a detailed description of each closure including detailed justification for such closure;
+  >   - **(4)** the total number of acres of refuge land open for hunting and fishing, and the total number of acres of refuge land closed for hunting and fishing, in the year covered by the report; and
+  >   - **(5)** a separate report on the hunting and fishing status of those lands added to the system in the year covered by the report.
+
+## § 4. Exemption for takings by rural Alaska subsistence users
+
+Section 1(a)(2) of the Migratory Bird Hunting and Conservation Stamp Act (16 U.S.C. 718a(a)(2)) is amended by striking “or” after the semicolon at the end of subparagraph (B), by striking the period at the end of subparagraph (C) and inserting “; or”, and by adding at the end the following:
+
+> - **(D)** by a rural Alaska resident for subsistence uses (as that term is defined in section 803 of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3113)).

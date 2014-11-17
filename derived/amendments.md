@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5069
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 4 executed, 6 stated and not applied.
+11 amendatory instructions. 4 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,12 +44,12 @@ to guess them.
 
 ### 16 U.S.C. § 718d
 
-> in subsection (b)(1), by striking “So much” and inserting “except as provided in paragraph (4), so much”;
+> in subsection (b)(1), by striking “So much” and inserting “Except as provided in paragraph (4), so much”;
 
 | | |
 |---|---|
 | Removed | `So much` |
-| Inserted | `except as provided in paragraph (4), so much` |
+| Inserted | `Except as provided in paragraph (4), so much` |
 
 ### 16 U.S.C. § 718d
 
@@ -75,3 +75,4 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 718d` | replace | by striking so much as precedes “The Secretary may” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 718d` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 715b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 718a` | add-at-end | Section 1(a)(2) of the Migratory Bird Hunting and Conservation Stamp Act (16 U.S.C. 718a(a)(2)) is amended by striking “or” after the semicolon at the end of subparagraph (B), by striking the period at the end of subparagraph (C) and ins… | the bill quotes text on both sides, but not as a single substitution this could carry out |
