@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4846
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4846
@@ -16,9 +16,10 @@ Arapaho National Forest Boundary Adjustment Act of 2014
 
 - Rep. Polis, Jared [D-CO-2] (P000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Arapaho National Forest Boundary Adjustment Act of 2014
 - 2014-11-13 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
 - 2014-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7950)
 - 2014-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7950)
+- 2014-11-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
