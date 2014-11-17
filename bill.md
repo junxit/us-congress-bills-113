@@ -25,7 +25,5 @@ This Act may be cited as the “Low-Dose Radiation Research Act of 2014”.
   - **(6)** assess the cost-benefit effectiveness of such a program.
 - **(c)** *Research plan* Not later than 90 days after the completion of the study performed under subsection (b) the Secretary of Energy shall deliver to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a 5-year research plan that responds to the study’s findings and recommendations and identifies and prioritizes research needs.
 - **(d)** *Definition* In this section, the term “low dose radiation” means a radiation dose of less than 100 millisieverts.
-- **(e)** *Prohibition on biomedical research* Section 977(e) of the Energy Policy Act of 2005 (42 U.S.C. 16317(e)) is amended to read as follows:
-  > - **(e)** *Prohibition on biomedical research* In carrying out the program under this section, the Secretary shall not conduct biomedical research.
-
+- **(e)** *Rule of Construction* Nothing in this Act shall be construed to subject any research carried out by the Director under the research program under this Act to any limitations described in section 977(e) of the Energy Policy Act of 2005 (42 U.S.C. 16317(e)).
 - **(f)** *Funding* No additional funds are authorized to be appropriated under this section. This Act shall be carried out using funds otherwise appropriated by law.
