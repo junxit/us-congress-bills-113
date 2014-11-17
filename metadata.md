@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5682
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5682
@@ -55,3 +55,4 @@ To approve the Keystone XL Pipeline.
 - 2014-11-14 — On motion to recommit with instructions Failed by the Yeas and Nays: 192 - 224 (Roll no. 518).
 - 2014-11-14 — On passage Passed by recorded vote: 252 - 161, 1 Present (Roll no. 519). (text: CR 11/13/14 H7965)
 - 2014-11-14 — Passed/agreed to in House: On passage Passed by recorded vote: 252 - 161, 1 Present (Roll no. 519).(text: CR 11/13/14 H7965)
+- 2014-11-17 — Received in the Senate.
