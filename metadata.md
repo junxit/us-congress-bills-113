@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 129
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 129
@@ -24,3 +24,4 @@ Appointing the day for the convening of the first session of the One Hundred Fou
 - 2014-11-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2014-11-14 — On passage Passed without objection. (text: CR H7985)
 - 2014-11-14 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7985)
+- 2014-11-17 — Received in the Senate, read twice.
