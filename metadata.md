@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 107
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 107
@@ -139,3 +139,4 @@ A concurrent resolution denouncing the use of civilians as human shields by Hama
 - 2014-07-30 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H7074-7075)
 - 2014-07-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H7074-7075)
 - 2014-07-30 — Received in the Senate.
+- 2014-11-18 — Referred to the Committee on Foreign Relations.
