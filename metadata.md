@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3608
 congress: 113
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 3608
@@ -52,3 +52,4 @@ Grand Portage Band Per Capita Adjustment Act
 - 2014-11-17 — Placed on the Union Calendar, Calendar No. 466.
 - 2014-11-17 — Reported by the Committee on Natural Resources. H. Rept. 113-625, Part I.
 - 2014-11-17 — Reported by the Committee on Natural Resources. H. Rept. 113-625, Part I.
+- 2014-11-18 — Received in the Senate, read twice.
