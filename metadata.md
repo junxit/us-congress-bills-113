@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5069
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5069
@@ -62,3 +62,12 @@ Federal Duck Stamp Act of 2014
 - 2014-11-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-622.
 - 2014-11-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-622.
 - 2014-11-18 — Received in the Senate, read twice.
+- 2014-12-02 — Message on Senate action sent to the House.
+- 2014-12-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6246-6248)
+- 2014-12-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6246-6248)
+- 2014-12-08 — Presented to President.
+- 2014-12-08 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-264.
+- 2014-12-18 — Became Public Law No: 113-264.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
