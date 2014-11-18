@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1422
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,25 +11,26 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “EPA Science Advisory Board Reform Act of 2013”.
+This Act may be cited as the “EPA Science Advisory Board Reform Act of 2014”.
 
 ## § 2. Science Advisory Board
 
-- **(a)** *Membership* Section 8(b) of the Environmental Research, Development, and Demonstration Authorization Act of 1978 (42 U.S.C. 4365(b)) is amended to read as follows:
+- **(a)** *Independent advice* Section 8(a) of the Environmental Research, Development, and Demonstration Authorization Act of 1978 (42 U.S.C. 4365(a)) is amended by inserting “independently” after “Advisory Board which shall”.
+- **(b)** *Membership* Section 8(b) of the Environmental Research, Development, and Demonstration Authorization Act of 1978 (42 U.S.C. 4365(b)) is amended to read as follows:
   > - **(b)**
-  >   - **(1)** The Board shall be composed of at least nine members, one of whom shall be designated Chairman, and shall meet at such times and places as may be designated by the Chairman in consultation with the Administrator.
-  >   - **(2)** Each member of the Board shall be qualified by education, training, and experience to evaluate scientific and technical information on matters referred to the Board under this section. The Administrator shall select Board members from nominations received as described in paragraph (3) and shall ensure that—
+  >   - **(1)** The Board shall be composed of at least nine members, one of whom shall be designated Chairman, and shall meet at such times and places as may be designated by the Chairman.
+  >   - **(2)** Each member of the Board shall be qualified by education, training, and experience to evaluate scientific and technical information on matters referred to the Board under this section. The Administrator shall ensure that—
   >     - **(A)** the scientific and technical points of view represented on and the functions to be performed by the Board are fairly balanced among the members of the Board;
   >     - **(B)** at least ten percent of the membership of the Board are from State, local, or tribal governments;
   >     - **(C)** persons with substantial and relevant expertise are not excluded from the Board due to affiliation with or representation of entities that may have a potential interest in the Board’s advisory activities, so long as that interest is fully disclosed to the Administrator and the public and appointment to the Board complies with section 208 of title 18, United States Code;
   >     - **(D)** in the case of a Board advisory activity on a particular matter involving a specific party, no Board member having an interest in the specific party shall participate in that activity;
-  >     - **(E)** Board members may not participate in advisory activities that directly or indirectly involve review and evaluation of their own work;
+  >     - **(E)** Board members may not participate in advisory activities that directly or indirectly involve review or evaluation of their own work;
   >     - **(F)** Board members shall be designated as special Government employees; and
   >     - **(G)** no federally registered lobbyist is appointed to the Board.
   >   - **(3)** The Administrator shall—
   >     - **(A)** solicit public nominations for the Board by publishing a notification in the Federal Register;
-  >     - **(B)** solicit nominations from relevant Federal agencies, including the Departments of Agriculture, Defense, Energy, and Health and Human Services;
-  >     - **(C)** make public the list of nominees, including the identity of the entities that nominated them, and shall accept public comment on the nominees;
+  >     - **(B)** solicit nominations from relevant Federal agencies, including the Departments of Agriculture, Defense, Energy, the Interior, and Health and Human Services;
+  >     - **(C)** make public the list of nominees, including the identity of the entities that nominated each, and shall accept public comment on the nominees;
   >     - **(D)** require that, upon their provisional nomination, nominees shall file a written report disclosing financial relationships and interests, including Environmental Protection Agency grants, contracts, cooperative agreements, or other financial assistance, that are relevant to the Board’s advisory activities for the three-year period prior to the date of their nomination, and relevant professional activities and public statements for the five-year period prior to the date of their nomination; and
   >     - **(E)** make such reports public, with the exception of specific dollar amounts, for each member of the Board upon such member’s selection.
   >   - **(4)** Disclosure of relevant professional activities under paragraph (3)(D) shall include all representational work, expert testimony, and contract work as well as identifying the party for which the work was done.
@@ -37,19 +38,20 @@ This Act may be cited as the “EPA Science Advisory Board Reform Act of 2013”
   >   - **(6)** Any recusal agreement made by a member of the Board, a member committee, or an investigative panel, or any recusal known to the Agency that occurs during the course of a meeting or other work of the Board, member committee, or investigative panel shall promptly be made public by the Administrator.
   >   - **(7)** The terms of the members of the Board shall be three years and shall be staggered so that the terms of no more than one-third of the total membership of the Board shall expire within a single fiscal year. No member shall serve more than two terms over a ten-year period.
 
-- **(b)** *Record* Section 8(c) of such Act (42 U.S.C. 4365(c)) is amended—
+- **(c)** *Record* Section 8(c) of such Act (42 U.S.C. 4365(c)) is amended—
   - **(1)** in paragraph (1)—
-    - **(A)** by inserting “risk or hazard assessment,” after “at the time any proposed”; and
-    - **(B)** by inserting “risk or hazard assessment,” after “to the Board such proposed”; and
+    - **(A)** by inserting “or draft risk or hazard assessment,” after “at the time any proposed”;
+    - **(B)** by striking “formal”; and
+    - **(C)** by inserting “or draft risk or hazard assessment,” after “to the Board such proposed”; and
   - **(2)** in paragraph (2)—
-    - **(A)** by inserting “risk or hazard assessment,” after “the scientific and technical basis of the proposed”; and
+    - **(A)** by inserting “or draft risk or hazard assessment,” after “the scientific and technical basis of the proposed”; and
     - **(B)** by adding at the end the following: “The Board’s advice and comments, including dissenting views of Board members, and the response of the Administrator shall be included in the record with respect to any proposed risk or hazard assessment, criteria document, standard, limitation, or regulation and published in the Federal Register.”.
-- **(c)** *Member committees and investigative panels* Section 8(e) of such Act (42 U.S.C. 4365(e)) is amended by adding at the end the following: “These member committees and investigative panels—
-  > - **(1)** shall be constituted and operate in accordance with the provisions set forth in paragraphs (2) and (3) of subsection (b), in subsection (h), and in subsection (i);
-  > - **(2)** do not have authority to make decisions on behalf of the Board; and
-  > - **(3)** may not report directly to the Environmental Protection Agency.
+- **(d)** *Member committees and investigative panels* Section 8(e)(1)(A) of such Act (42 U.S.C. 4365(e)(1)(A)) is amended by adding at the end the following: “These member committees and investigative panels—
+  > - **(i)** shall be constituted and operate in accordance with the provisions set forth in paragraphs (2) and (3) of subsection (b), in subsection (h), and in subsection (i);
+  > - **(ii)** do not have authority to make decisions on behalf of the Board; and
+  > - **(iii)** may not report directly to the Environmental Protection Agency.
 
-- **(d)** *Public participation* Section 8 of such Act (42 U.S.C. 4365) is amended by adding after subsection (g) the following:
+- **(e)** *Public participation* Section 8 of such Act (42 U.S.C. 4365) is amended by amending subsection (h) to read as follows:
   > - **(h)**
   >   - **(1)** To facilitate public participation in the advisory activities of the Board, the Administrator and the Board shall make public all reports and relevant scientific information and shall provide materials to the public at the same time as received by members of the Board.
   >   - **(2)** Prior to conducting major advisory activities, the Board shall hold a public information-gathering session to discuss the state of the science related to the advisory activity.
@@ -57,12 +59,13 @@ This Act may be cited as the “EPA Science Advisory Board Reform Act of 2013”
   >   - **(4)** The Administrator and the Board shall encourage public comments, including oral comments and discussion during the proceedings, that shall not be limited by an insufficient or arbitrary time restriction. Public comments shall be provided to the Board when received. The Board’s reports shall include written responses to significant comments offered by members of the public to the Board.
   >   - **(5)** Following Board meetings, the public shall be given 15 calendar days to provide additional comments for consideration by the Board.
 
-- **(e)** *Operations* Section 8 of such Act (42 U.S.C. 4365) is further amended by adding after subsection (h), as added by subsection (d) of this section, the following:
+- **(f)** *Operations* Section 8 of such Act (42 U.S.C. 4365) is further amended by amending subsection (i) to read as follows:
   > - **(i)**
   >   - **(1)** In carrying out its advisory activities, the Board shall strive to avoid making policy determinations or recommendations, and, in the event the Board feels compelled to offer policy advice, shall explicitly distinguish between scientific determinations and policy advice.
-  >   - **(2)** The Board shall clearly communicate uncertainties associated with the scientific advice provided to the Administrator.
-  >   - **(3)** The Board shall ensure that advice and comments reflect the views of the members and shall encourage dissenting members to make their views known to the public and the Administrator.
+  >   - **(2)** The Board shall clearly communicate uncertainties associated with the scientific advice provided to the Administrator or Congress.
+  >   - **(3)** The Board shall ensure that advice and comments reflect the views of the members and shall encourage dissenting members to make their views known to the public, the Administrator, and Congress.
   >   - **(4)** The Board shall conduct periodic reviews to ensure that its advisory activities are addressing the most important scientific issues affecting the Environmental Protection Agency.
+  >   - **(5)** The Board shall be fully and timely responsive to Congress.
 
 ## § 3. Relation to the Federal Advisory Committee Act
 
