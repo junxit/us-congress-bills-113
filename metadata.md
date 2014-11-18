@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5142
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5142
@@ -30,9 +30,10 @@ To designate the facility of the United States Postal Service located at 113 Wes
 - Rep. Holding, George [R-NC-13] (H001065)
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ To designate the facility of the United States Postal Service located at 113 Wes
 - 2014-11-17 — Mr. Issa moved to suspend the rules and pass the bill.
 - 2014-11-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8010)
 - 2014-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8010)
+- 2014-11-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
