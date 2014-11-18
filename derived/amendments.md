@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5441
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
