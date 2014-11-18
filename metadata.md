@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3608
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3608
@@ -53,3 +53,12 @@ Grand Portage Band Per Capita Adjustment Act
 - 2014-11-17 — Reported by the Committee on Natural Resources. H. Rept. 113-625, Part I.
 - 2014-11-17 — Reported by the Committee on Natural Resources. H. Rept. 113-625, Part I.
 - 2014-11-18 — Received in the Senate, read twice.
+- 2014-12-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6924)
+- 2014-12-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6924)
+- 2014-12-17 — Message on Senate action sent to the House.
+- 2014-12-18 — Presented to President.
+- 2014-12-18 — Presented to President.
+- 2014-12-19 — Became Public Law No: 113-290.
+- 2014-12-19 — Became Public Law No: 113-290.
+- 2014-12-19 — Signed by President.
+- 2014-12-19 — Signed by President.
