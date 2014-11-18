@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 5729
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5729
+
+> To expand the program of priority review to encourage treatments for tropical diseases.
+
+## § 1. Short title
+
+This Act may be cited as the “Adding Ebola to the FDA Priority Review Voucher Program Act”.
+
+## § 2. Priority review to encourage treatments for tropical diseases
+
+Section 524 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360n) is amended—
+
+- **(1)** in subsection (a)(3)—
+  - **(A)** by redesignating subparagraph (Q) as subparagraph (R);
+  - **(B)** by inserting after subparagraph (P) the following:
+    > - **(Q)** Filoviruses.
+
+  - **(C)** in subparagraph (R), as so redesignated, by striking “regulation by” and inserting “order of”; and
+- **(2)** in subsection (b)—
+  - **(A)** in paragraph (2), by adding “There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.” after the period at the end; and
+  - **(B)** in paragraph (4), by striking “365 days” and inserting “90 days”.
