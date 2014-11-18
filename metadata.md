@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5544
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5544
@@ -32,9 +32,10 @@ Low-Dose Radiation Research Act of 2014
 - Rep. Palazzo, Steven M. [R-MS-4] (P000601)
 - Rep. Foster, Bill [D-IL-11] (F000454)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Low-Dose Radiation Research Act of 2014
 - 2014-11-17 — Mr. Broun (GA) moved to suspend the rules and pass the bill, as amended.
 - 2014-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8011)
 - 2014-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8011)
+- 2014-11-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
