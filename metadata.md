@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5162
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5162
@@ -16,9 +16,10 @@ To amend the Act entitled "An Act to allow a certain parcel of land in Rockingha
 
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ To amend the Act entitled "An Act to allow a certain parcel of land in Rockingha
 - 2014-11-17 — Placed on the Union Calendar, Calendar No. 465.
 - 2014-11-17 — Reported by the Committee on Natural Resources. H. Rept. 113-624.
 - 2014-11-17 — Reported by the Committee on Natural Resources. H. Rept. 113-624.
+- 2014-11-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
