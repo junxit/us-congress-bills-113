@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5069
 congress: 113
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 5069
@@ -61,3 +61,4 @@ Federal Duck Stamp Act of 2014
 - 2014-11-17 — Placed on the Union Calendar, Calendar No. 463.
 - 2014-11-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-622.
 - 2014-11-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-622.
+- 2014-11-18 — Received in the Senate, read twice.
