@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5441
 congress: 113
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 5441
@@ -123,3 +123,4 @@ To amend the Federal charter of the Veterans of Foreign Wars of the United State
 - 2014-11-17 — Placed on the Union Calendar, Calendar No. 461.
 - 2014-11-17 — Reported by the Committee on Judiciary. H. Rept. 113-620.
 - 2014-11-17 — Reported by the Committee on Judiciary. H. Rept. 113-620.
+- 2014-11-18 — Received in the Senate, read twice.
