@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5681
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5681
@@ -34,3 +34,9 @@ To provide for the approval of the Amendment to the Agreement Between the Govern
 - 2014-11-12 — Introduced in House
 - 2014-11-12 — Introduced in House
 - 2014-11-12 — Referred to the House Committee on Foreign Affairs.
+- 2014-11-19 — Considered under suspension of the rules. (consideration: CR H8103-8104)
+- 2014-11-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5681.
+- 2014-11-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-11-19 — Mr. Royce moved to suspend the rules and pass the bill.
+- 2014-11-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8103)
+- 2014-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8103)
