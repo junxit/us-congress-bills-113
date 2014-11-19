@@ -2,7 +2,7 @@
 legis-num: H. RES. 754
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 754
@@ -36,7 +36,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas senior governmental, military, and public security officials in Iran are responsible for ordering, controlling, and committing gross human rights violations that, in many cases, represent national policies of the Iranian regime;
 - Whereas the United States Department of the Treasury, pursuant to section 413 of the Iran Threat Reduction and Syria Human Rights Act of 2012 (22 U.S.C. 8753), issued a General License in September 2013 to permit the exportation of services and the transfer of funds for activities related to human rights and democracy building projects in Iran, which facilitate United States nongovernmental organizations’ activities that increase Iranian access to information and freedom of expression;
 - Whereas since 2010, the United States Department of the Treasury, in consultation with the United States Department of State, has sanctioned 19 Iranian officials and 18 Iranian entities for their involvement or complicity in serious human rights abuses or in restricting the freedom of expression or assembly of the Iranian people;
-- Whereas the most recent designation was for Morteza Tamaddom, former Governor-General of Tehran Province, designated May 23, 2014, under Executive Order 13628 for his involvement in censorship and other activities that limit the freedom of expression and freedom of assembly of Iran’s citizens;
+- Whereas the most recent designation was for Morteza Tamaddom, former Governor-General of Tehran Province, designated May 23, 2014, under Executive Order No. 13628 for his involvement in censorship and other activities that limit the freedom of expression and freedom of assembly of Iran’s citizens;
 - Whereas the United States led the effort in the United Nations Human Rights Council to renew the mandate of the Special Rapporteur on Iran in order to further expose Iranian human rights abuses; and
 - Whereas it is important that the President of the United States consistently and rigorously exercise the statutory authorities granted by the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 and the Iran Threat Reduction and Syria Human Rights Act of 2012 to impose sanctions on officials of the Government of Iran and other individuals directly responsible for human rights abuses, engaging in censorship, or engaging in the diversion of goods intended for the people of Iran: Now, therefore, be it
 

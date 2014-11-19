@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 754
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 754
@@ -29,3 +29,9 @@ Condemning the Government of Iran for its gross human rights violations.
 - 2014-11-14 — Introduced in House
 - 2014-11-14 — Introduced in House
 - 2014-11-14 — Referred to the House Committee on Foreign Affairs.
+- 2014-11-19 — Considered under suspension of the rules. (consideration: CR H8106-8110)
+- 2014-11-19 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 754.
+- 2014-11-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-11-19 — Mr. Royce moved to suspend the rules and agree to the resolution.
+- 2014-11-19 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H8106-8107)
+- 2014-11-19 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H8106-8107)
