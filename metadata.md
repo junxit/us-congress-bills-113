@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1422
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1422
@@ -40,9 +40,10 @@ EPA Science Advisory Board Reform Act of 2014
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 - Rep. Hartzler, Vicky [R-MO-4] (H001053)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (3)
 
@@ -83,3 +84,4 @@ EPA Science Advisory Board Reform Act of 2014
 - 2014-11-18 — Rule provides for consideration of H.R. 1422, H.R. 4012 and H.R. 4795. The resolution provides for consideration of H.R. 1422, H.R. 4012, and H.R. 4795. General debate is limited to 1 hour for each bill. The resolution specifies certain amendments are in order for H.R. 1422, H.R. 4012, and H.R. 4795. One motion to recommit with instructions is permitted for each bill.
 - 2014-11-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8062)
 - 2014-11-18 — The previous question was ordered on the amendment (A002) without objection. (consideration: CR H8061)
+- 2014-11-19 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
