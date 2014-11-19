@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4012
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4012
@@ -76,6 +76,12 @@ Secret Science Reform Act of 2014
 
 - House — Science, Space, and Technology Committee
 
+## Recorded votes (3)
+
+- 2014-11-19 — [House 113-2-526](votes/house-113-2-0526.md) — On Agreeing to the Amendment — **Failed** (194–230)
+- 2014-11-19 — [House 113-2-527](votes/house-113-2-0527.md) — On Motion to Recommit with Instructions — **Failed** (196–230)
+- 2014-11-19 — [House 113-2-528](votes/house-113-2-0528.md) — On Passage — **Passed** (237–190)
+
 ## Actions
 
 - 2014-02-06 — Introduced in House
@@ -88,3 +94,34 @@ Secret Science Reform Act of 2014
 - 2014-11-12 — Placed on the Union Calendar, Calendar No. 460.
 - 2014-11-12 — Reported by the Committee on Science, Space, and Technology. H. Rept. 113-619.
 - 2014-11-12 — Reported by the Committee on Science, Space, and Technology. H. Rept. 113-619.
+- 2014-11-17 — Rules Committee Resolution H. Res. 756 Reported to House. Rule provides for consideration of H.R. 1422, H.R. 4012 and H.R. 4795. The resolution provides for consideration of H.R. 1422, H.R. 4012, and H.R. 4795. General debate is limited to 1 hour for each bill. The resolution specifies certain amendments are in order for H.R. 1422, H.R. 4012, and H.R. 4795. One motion to recommit with instructions is permitted for each bill.
+- 2014-11-19 — Amendment (A001) offered by Mr. Gosar. (consideration: CR H8097-8098; text: CR H8097)
+- 2014-11-19 — Amendment (A002) offered by Mr. Kennedy. (consideration: CR H8098-8100; text: CR H8098)
+- 2014-11-19 — Amendment agreed to Committee of the Whole
+- 2014-11-19 — Amendment failed in Committee of the Whole
+- 2014-11-19 — Considered under the provisions of rule H. Res. 756. (consideration: CR H8087-8103)
+- 2014-11-19 — DEBATE - Pursuant to the provisions of H. Res. 756, the House proceeded with 10 minutes of debate on the Gosar Part B amendment No. 1.
+- 2014-11-19 — DEBATE - Pursuant to the provisions of H. Res. 756, the House proceeded with 10 minutes of debate on the Kennedy Part B amendment No. 2.
+- 2014-11-19 — DEBATE - The House proceeded with 10 minutes of debate on the E. B. Johnson (TX) motion to recommit with instructions, pending reservation of a point order. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to exempt any Environmental Protection Agency (EPA) regulation that protects communities in an emergency, including an Ebola or pandemic flu outbreak, the release of toxic chemicals, or a nuclear, biological, or terrorist attack. Subsequently, the reservation of a point of order was removed.
+- 2014-11-19 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4012.
+- 2014-11-19 — House amendment agreed to: On agreeing to the Gosar amendment (A001) Agreed to by voice vote.
+- 2014-11-19 — House amendment not agreed to: On agreeing to the Kennedy amendment (A002) Failed by recorded vote: 194 - 230 (Roll no. 526).
+- 2014-11-19 — House amendment offered
+- 2014-11-19 — House amendment offered
+- 2014-11-19 — House amendment offered/reported by: Amendment (A001) offered by Mr. Gosar.(consideration: CR H8097-8098; text: CR H8097)
+- 2014-11-19 — House amendment offered/reported by: Amendment (A002) offered by Mr. Kennedy.(consideration: CR H8098-8100; text: CR H8098)
+- 2014-11-19 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 756 and Rule XVIII.
+- 2014-11-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-11-19 — Ms. Johnson, E. B. moved to recommit with instructions to the Committee on Science, Space, and Technology. (consideration: CR H8100-8102; text: CR H8100-8101)
+- 2014-11-19 — On agreeing to the Gosar amendment (A001) Agreed to by voice vote.
+- 2014-11-19 — On agreeing to the Kennedy amendment (A002) Failed by recorded vote: 194 - 230 (Roll no. 526).
+- 2014-11-19 — On motion to recommit with instructions Failed by recorded vote: 196 - 230 (Roll no. 527).
+- 2014-11-19 — On passage Passed by recorded vote: 237 - 190 (Roll no. 528).
+- 2014-11-19 — Passed/agreed to in House: On passage Passed by recorded vote: 237 - 190 (Roll no. 528).
+- 2014-11-19 — Roll call votes on amendments in House
+- 2014-11-19 — Rule provides for consideration of H.R. 1422, H.R. 4012 and H.R. 4795. General debate is limited to 1 hour for each bill. The resolution specifies certain amendments are in order for H.R. 1422, H.R. 4012, and H.R. 4795. One motion to recommit with instructions is permitted for each bill.
+- 2014-11-19 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H8097)
+- 2014-11-19 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4012.
+- 2014-11-19 — The Speaker designated the Honorable John J. Duncan, Jr. to act as Chairman of the Committee.
+- 2014-11-19 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8101)
+- 2014-11-19 — The previous question was ordered pursuant to the rule. (consideration: CR H8100)
