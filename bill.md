@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2689
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Energy Savings Through Public-Private Partnerships Act of 2013”.
+This Act may be cited as the “Energy Savings Through Public-Private Partnerships Act of 2014”.
 
 ## § 2. Findings
 
@@ -21,23 +21,40 @@ Congress finds the following:
 - **(2)** The Federal Government spends more than $6 billion annually in energy costs.
 - **(3)** Reducing Federal energy costs can help save money, create jobs, and reduce waste.
 - **(4)** Energy savings performance contracts and utility energy service contracts are tools for utilizing private sector investment to upgrade Federal facilities without any up-front cost to the taxpayer.
-- **(5)** Performance contracting is a way to retrofit Federal buildings using private sector investment in the absence of appropriated dollars. Retrofits seek to reduce energy use, improve infrastructure, protect national security, and cut facility operations and maintenance costs.
+- **(5)** Performance contracting is a way to retrofit Federal buildings using private sector investment in the absence of appropriated dollars.
+- **(6)** Retrofits that reduce energy use also improve infrastructure, protect national security, and cut facility operations and maintenance costs.
 
 ## § 3. Use of energy and water efficiency measures in Federal buildings
 
-- **(a)** *Implementation of identified energy and water efficiency measures* Section 543(f)(4) of the National Energy Conservation Policy Act (42 U.S.C. 8253(f)(4)) is amended to read as follows:
-  > - **(4)** *Implementation of identified energy and water efficiency measures*
-  >   - **(A)** *In general* Not later than 2 years after the completion of each evaluation under paragraph (3), each energy manager shall consider—
-  >     - **(i)** implementing any energy- or water-saving or conservation measure that the Federal agency identified in the evaluation conducted under paragraph (3) that is life cycle cost-effective; and
-  >     - **(ii)** bundling individual measures of varying paybacks together into combined projects.
-  >   - **(B)** *Measures not implemented* The energy manager, as part of the certification system under paragraph (7) and using guidelines developed by the Secretary, shall provide reasons for not implementing any life cycle cost-effective measures under subparagraph (A).
+- **(a)** *Energy management requirements* Section 543(f)(4) of the National Energy Conservation Policy Act (42 U.S.C. 8253(f)(4)) is amended—
+  - **(1)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively and by moving the margins 2 ems to the right;
+  - **(2)** by striking “Not later than” and inserting the following:
+    > - **(A)** *In general* Not later than
 
-- **(b)** *Annual contracting goal* Section 543(f)(10)(C) of the National Energy Conservation Policy Act (42 U.S.C. 8253(f)(10)(C)) is amended—
-  - **(1)** by striking “Each Federal agency” and inserting the following:
-    > - **(i)** *In general* Each Federal agency
+  - **(3)** by adding at the end the following new subparagraph:
+    > - **(B)** *Measures not implemented* Each energy manager, as part of the certification system under paragraph (7) and using guidelines developed by the Secretary, shall provide an explanation regarding any life-cycle cost-effective measures described in subparagraph (A)(i) that have not been implemented.
 
-  - **(2)** by adding at the end the following new clauses:
-    > - **(ii)** *Tracking* Each Federal agency shall use the benchmarking systems selected or developed for the agency under paragraph (8) to track energy savings realized by the agency through the implementation of energy- or water-saving or conservation measures pursuant to paragraph (4), and shall submit information regarding such savings to the Secretary to be published on a public website of the Department of Energy.
-    > - **(iii)** *Consideration* Each Federal agency shall consider using energy savings performance contracts or utility energy service contracts to implement energy- or water-saving or conservation measures pursuant to paragraph (4).
-    > - **(iv)** *Contracting goal* It shall be the goal of the Federal Government, in the implementation of energy- or water-saving or conservation measures pursuant to paragraph (4), to enter into energy savings performance contracts or utility energy service contracts equal to $1,000,000,000 in each year during the 5-year period beginning on January 1, 2014.
-    > - **(v)** *Report to Congress* Not later than September 30 of each year during the 5-year period referred to in clause (iv), each Federal agency shall submit to the Secretary information regarding progress made by the agency towards achieving the goal described in such clause. Not later than 60 days after each such September 30, the Secretary, acting through the Federal Energy Management Program, shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report describing the progress made by the Federal Government towards achieving such goal.
+- **(b)** *Reports* Section 548(b) of the National Energy Conservation Policy Act (42 U.S.C. 8258(b)) is amended—
+  - **(1)** in paragraph (3), by striking “and” at the end;
+  - **(2)** in paragraph (4), by striking the period at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following new paragraph:
+    > - **(5)** the status of each agency’s energy savings performance contracts and utility energy service contracts, the investment value of such contracts, the guaranteed energy savings for the previous year as compared to the actual energy savings for the previous year, the plan for entering into such contracts in the coming year, and information explaining why any previously submitted plans for such contracts were not implemented.
+
+- **(c)** *Federal energy management definitions* Section 551(4) of the National Energy Conservation Policy Act (42 U.S.C. 8259(4)) is amended by striking “or retrofit activities” and inserting “retrofit activities, or energy consuming devices and required support structures”.
+- **(d)** *Authority to enter into contracts* Section 801(a)(2)(F) of the National Energy Conservation Policy Act (42 U.S.C. 8287(a)(2)(F)) is amended—
+  - **(1)** in clause (i), by striking “or” at the end;
+  - **(2)** in clause (ii), by striking the period at the end and inserting “; or”; and
+  - **(3)** by adding at the end the following new clause:
+    > - **(iii)** limit the recognition of operation and maintenance savings associated with systems modernized or replaced with the implementation of energy conservation measures, water conservation measures, or any series of energy conservation measures and water conservation measures.
+
+- **(e)** *Miscellaneous Authority* Section 801(a)(2) of the National Energy Conservation Policy Act (42 U.S.C. 8287(a)) is amended by adding at the end the following:
+  > - **(H)** *Miscellaneous Authority* Notwithstanding any other provision of law, a Federal agency may sell or transfer energy savings and apply the proceeds of such sale or transfer to fund a contract under this title.
+
+- **(f)** *Payment of costs* Section 802 of the National Energy Conservation Policy Act (42 U.S.C. 8287a) is amended by striking “(and related operation and maintenance expenses)” and inserting “, including related operations and maintenance expenses”.
+- **(g)** *Energy savings performance contracts definitions* Section 804(2) of the National Energy Conservation Policy Act (42 U.S.C. 8287c(2)) is amended—
+  - **(1)** in subparagraph (A), by striking “federally owned building or buildings or other federally owned facilities” and inserting “Federal building (as defined in section 551 (42 U.S.C. 8259))” each place it appears;
+  - **(2)** in subparagraph (C) , by striking “; and” and inserting a semicolon;
+  - **(3)** in subparagraph (D), by striking the period at the end and inserting a semicolon; and
+  - **(4)** by adding at the end the following new subparagraphs:
+    > - **(E)** the use, sale, or transfer of energy incentives, rebates, or credits (including renewable energy credits) from Federal, State, or local governments or utilities; and
+    > - **(F)** any revenue generated from a reduction in energy or water use, more efficient waste recycling, or additional energy generated from more efficient equipment.
