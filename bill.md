@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3398
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Girls Count Act of 2013”.
+This Act may be cited as the “Girls Count Act of 2014”.
 
 ## § 2. Findings
 
@@ -19,12 +19,13 @@ Congress makes the following findings:
 
 - **(1)** According to the United States Census Bureau’s 2013 international figures, 1 person in 12—or close to 900,000,000 people—is a girl or young woman age 10 through 24.
 - **(2)** The data also asserts that young people are the fastest growing segment of the population in developing countries.
-- **(3)** Even though most countries do have birth registration laws, every year 51,000,000 children under 5 are not registered at birth, most of whom are girls.
-- **(4)** A nationally recognized proof of birth is the key to determining a child’s citizenship, nationality, place of birth, parentage and age, without which a passport, drivers license, or national identification card are impossible to obtain. The lack of such documentation prevents girls and women from officially participating in and benefitting from the formal economic, legal, and political sectors in their countries.
-- **(5)** Without the ability to gain employment and identification necessary to participate officially in these sectors, women and girls are confined to the home and left unpaid and often-invisible members of society.
-- **(6)** Girls undertake much of the domestic labor needed for poor families to survive: carrying water, harvesting crops, tending livestock, caring for younger children, and doing chores.
-- **(7)** Accurate assessments of access to education, poverty levels, and overall census activities are hampered by the lack of official information on women and girls. Without this rudimentary information, assessments of foreign assistance and domestic social welfare programs cannot be accurately gauged.
-- **(8)** To ensure that women and girls are fully integrated into United States foreign assistance policies and programs, that the specific needs of girls are, to the maximum extent possible, addressed in the design, implementation, and evaluation of development assistance programs, and that women and girls have the power to effect the decisions that affect their lives, all girls should be counted and have access to birth certificates and other official documentation.
+- **(3)** Even though most countries do have birth registration laws, nearly one-third of all children under the age of 5 worldwide have never had their births registered. Moreover, an estimated 45 percent of children under the age of 5 worldwide (about 290 million children) do not possess a birth certificate.
+- **(4)** A nationally recognized proof of birth is the key to determining a child’s citizenship, nationality, place of birth, parentage and age, without which a passport, drivers license, or national identification card are impossible to obtain. Those who lack such documentation are often prevented from officially participating in and benefitting from the formal economic, legal, and political sectors in their countries.
+- **(5)** The lack of birth registration among girls worldwide is particularly concerning as it exacerbates their disproportionate vulnerability to trafficking, child marriage, and lack of access to health and education services.
+- **(6)** A lack of birth registration among women and girls can also aggravate what in many places amounts to an already reduced ability to seek employment, participate in civil society or purchase or inherit land and other assets.
+- **(7)** Girls undertake much of the domestic labor needed for poor families to survive: carrying water, harvesting crops, tending livestock, caring for younger children, and doing chores.
+- **(8)** Accurate assessments of access to education, poverty levels, and overall census activities are hampered by the lack of official information on women and girls. Without this rudimentary information, assessments of foreign assistance and domestic social welfare programs cannot be accurately gauged.
+- **(9)** To ensure that women and girls are fully integrated into United States foreign assistance policies and programs, that the specific needs of girls are, to the maximum extent possible, addressed in the design, implementation, and evaluation of development assistance programs, and that women and girls have the power to affect the decisions that affect their lives, all girls should be counted and have access to birth certificates and other official documentation.
 
 ## § 3. Statement of policy
 
@@ -40,35 +41,26 @@ It is the policy of the United States to—
 - **(a)** *Authorization* The Secretary and the Administrator are authorized to—
   - **(1)** support programs that will contribute to improved and sustainable Civil Registration and Vital Statistics Systems (CRVS) with a focus on birth registration as the first and most important life event to be registered;
   - **(2)** promote programs that build the capacity of developing countries’ national and local legal and policy frameworks to prevent discrimination against girls;
-  - **(3)** support programs to help increase property rights, social security, and home ownership, land tenure security, and inheritance rights for women;
+  - **(3)** support programs to help increase property rights, social security, and home ownership, land tenure security, and inheritance rights for women; and
   - **(4)** assist key ministries in the governments of developing countries, including health, interior, youth, and education ministries, to ensure that girls from poor households obtain equitable access to social programs.
 - **(b)** *Coordination with multilateral organizations* The Secretary shall coordinate with the World Bank, relevant United Nations agencies and programs, and other relevant organizations to urge and work with countries to enact, implement, and enforce laws that specifically collect data on girls and establish registration and identification laws to ensure girls are active participants in the social, economic, legal and political sectors of society in their countries.
 - **(c)** *Coordination with private sector and civil society organizations* The Secretary and the Administrator should work with United States, international, and local private sector and civil society organizations to advocate for the registration and documentation of all girls and boys in developing countries to prevent exploitation, violence, and other abuses.
 
 ## § 5. Report
 
-The Secretary and the Administrator shall include in all relevant congressionally mandated reports and documents the following information:
+The Secretary and the Administrator shall include in relevant evaluations and reports to Congress the following information:
 
-- **(1)** United States foreign assistance and development assistance beneficiaries by age, gender, and to the extent possible, marital status, location, and school enrollment status in all programs and sectors.
+- **(1)** To the extent practicable, United States foreign assistance and development assistance beneficiaries by age, gender, marital status, location, and school enrollment status.
 - **(2)** A description of how United States foreign assistance and development assistance benefits girls.
-- **(3)** All information on programs that address the particular needs of girls.
+- **(3)** Specific information on programs that address the particular needs of girls.
 
 ## § 6. Definitions
 
 In this Act:
 
-- **(1)** *Administrator* The term Administrator means the Administrator of the United States Agency for International Development.
-- **(2)** *Development assistance* The term development assistance means—
-  - **(A)** assistance under—
-    - **(i)** chapter 1 of part 1 of the Foreign Assistance Act of 1961;
-    - **(ii)** the Millennium Challenge Act of 2003 (22 U.S.C. 7701 et seq.);
-    - **(iii)** the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (22 U.S.C. 7601 et seq.);
-    - **(iv)** title V of the International Security and Development Cooperation Act of 1980 (22 U.S.C. 290h et seq.; relating to the African Development Foundation); or
-    - **(v)** section 401 of the Foreign Assistance Act of 1969 (22 U.S.C. 290f; relating to the Inter-American Foundation);
-  - **(B)** official development assistance under any provision of law; and
-  - **(C)** reconstruction assistance under any provision of law.
-- **(3)** *Foreign assistance* The term foreign assistance means any tangible or intangible item provided by the United States Government to a foreign country or international organization under the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) or any other Act, including any training, service, or technical advice, any item of real, personal, or mixed property, any agricultural commodity, any gift, loan, sale, credit, guarantee, or export subsidy, United States dollars, and any currencies of any foreign country which are owned by the United States Government.
-- **(4)** *Secretary* The term Secretary means the Secretary of State.
+- **(1)** *Administrator* The term “Administrator” means the Administrator of the United States Agency for International Development.
+- **(2)** *Foreign assistance* The term “foreign assistance” has the meaning given the term in section 634(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2394(b)).
+- **(3)** *Secretary* The term “Secretary” means the Secretary of State.
 
 ## § 7. Sunset
 
