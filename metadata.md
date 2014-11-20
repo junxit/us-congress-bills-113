@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 119
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 119
@@ -26,3 +26,4 @@ Providing for a conditional adjournment of the House of Representatives and a co
 - 2014-11-20 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text as passed House: CR H8148)
 - 2014-11-20 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S6222; text as passed Senate: S6222)
 - 2014-11-20 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6222; text as passed Senate: S6222)
+- 2014-11-21 — Message on Senate action sent to the House.
