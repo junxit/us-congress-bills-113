@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4012
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4012
@@ -72,9 +72,10 @@ Secret Science Reform Act of 2014
 - Rep. Cotton, Tom [R-AR-4] (C001095)
 - Rep. Aderholt, Robert B. [R-AL-4] (A000055)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (3)
 
@@ -125,3 +126,4 @@ Secret Science Reform Act of 2014
 - 2014-11-19 — The Speaker designated the Honorable John J. Duncan, Jr. to act as Chairman of the Committee.
 - 2014-11-19 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8101)
 - 2014-11-19 — The previous question was ordered pursuant to the rule. (consideration: CR H8100)
+- 2014-11-20 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
