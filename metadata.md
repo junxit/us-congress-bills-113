@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5681
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5681
@@ -41,3 +41,12 @@ To provide for the approval of the Amendment to the Agreement Between the Govern
 - 2014-11-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8103)
 - 2014-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8103)
 - 2014-11-20 — Received in the Senate, read twice.
+- 2014-12-03 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6304)
+- 2014-12-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6304)
+- 2014-12-04 — Message on Senate action sent to the House.
+- 2014-12-08 — Presented to President.
+- 2014-12-08 — Presented to President.
+- 2014-12-16 — Became Public Law No: 113-228.
+- 2014-12-16 — Became Public Law No: 113-228.
+- 2014-12-16 — Signed by President.
+- 2014-12-16 — Signed by President.
