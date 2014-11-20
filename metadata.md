@@ -1,7 +1,7 @@
 ---
 measure: S. 1744
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1744
@@ -16,7 +16,7 @@ Security Clearance Accountability, Reform, and Enhancement Act
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (6)
+## Cosponsors (7)
 
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. McCaskill, Claire [D-MO] (M001170)
@@ -24,6 +24,7 @@ Security Clearance Accountability, Reform, and Enhancement Act
 - Sen. Baucus, Max [D-MT] (B000243)
 - Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
 
 ## Committees (1)
 
@@ -33,3 +34,7 @@ Security Clearance Accountability, Reform, and Enhancement Act
 
 - 2013-11-20 — Introduced in Senate
 - 2013-11-20 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2014-05-21 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-11-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2014-11-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2014-11-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 606.
