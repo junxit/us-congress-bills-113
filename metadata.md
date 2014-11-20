@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5728
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5728
@@ -40,3 +40,5 @@ STELA Reauthorization Act of 2014
 - 2014-11-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8081-8084)
 - 2014-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8081-8084)
 - 2014-11-19 — Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.
+- 2014-11-20 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6219-6220)
+- 2014-11-20 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6219-6220)
