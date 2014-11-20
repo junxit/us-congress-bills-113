@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5681
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5681
@@ -40,3 +40,4 @@ To provide for the approval of the Amendment to the Agreement Between the Govern
 - 2014-11-19 — Mr. Royce moved to suspend the rules and pass the bill.
 - 2014-11-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8103)
 - 2014-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8103)
+- 2014-11-20 — Received in the Senate, read twice.
