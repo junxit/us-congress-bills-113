@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5448
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5448
@@ -42,3 +42,4 @@ John F. Kennedy Center Reauthorization Act of 2014
 - 2014-11-19 — Mr. Mica moved to suspend the rules and pass the bill.
 - 2014-11-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8080)
 - 2014-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8080)
+- 2014-11-20 — Received in the Senate.
