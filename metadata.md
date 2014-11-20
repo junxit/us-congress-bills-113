@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3398
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3398
@@ -75,9 +75,10 @@ Girls Count Act of 2014
 - Rep. Smith, Adam [D-WA-9] (S000510)
 - Rep. Davis, Rodney [R-IL-13] (D000619)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -92,3 +93,4 @@ Girls Count Act of 2014
 - 2014-11-19 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2014-11-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8104)
 - 2014-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8104)
+- 2014-11-20 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
