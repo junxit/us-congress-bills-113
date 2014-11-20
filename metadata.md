@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3583
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3583
@@ -49,3 +49,4 @@ Malala Yousafzai Scholarship Act
 - 2014-11-19 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2014-11-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8110-8111)
 - 2014-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8110-8111)
+- 2014-11-20 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 603.
