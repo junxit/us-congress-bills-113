@@ -1,7 +1,7 @@
 ---
 measure: H.R. 669
 congress: 113
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 669
@@ -65,3 +65,19 @@ Sudden Unexpected Death Data Enhancement and Awareness Act
 - 2014-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7341-7342)
 - 2014-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7341-7342)
 - 2014-09-10 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2014-11-19 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.
+- 2014-11-20 — Amendment SA 3957 agreed to in Senate by Unanimous Consent.
+- 2014-11-20 — Amendment SA 3957 proposed by Senator Reid for Senator Harkin. (consideration: CR S6219; text: CR S6219) To amend the title.
+- 2014-11-20 — Amendment SA 3958 agreed to in Senate by Unanimous Consent.
+- 2014-11-20 — Amendment SA 3958 proposed by Senator Reid for Senator Harkin. (consideration: CR S6219; text: CR S6219) In the nature of a substitute.
+- 2014-11-20 — Measure laid before Senate by unanimous consent. (consideration: CR S6219)
+- 2014-11-20 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2014-11-20 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2014-11-20 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2014-11-20 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2014-11-20 — Senate amendment agreed to: Amendment SA 3957 agreed to in Senate by Unanimous Consent.
+- 2014-11-20 — Senate amendment agreed to: Amendment SA 3958 agreed to in Senate by Unanimous Consent.
+- 2014-11-20 — Senate amendment proposed (on the floor): Amendment SA 3957 proposed by Senator Reid for Senator Harkin.(consideration: CR S6219; text: CR S6219)
+- 2014-11-20 — Senate amendment proposed (on the floor): Amendment SA 3958 proposed by Senator Reid for Senator Harkin.(consideration: CR S6219; text: CR S6219)
+- 2014-11-20 — Senate amendment submitted
+- 2014-11-20 — Senate amendment submitted
