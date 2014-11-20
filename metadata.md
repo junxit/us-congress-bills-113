@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5728
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5728
@@ -42,3 +42,10 @@ STELA Reauthorization Act of 2014
 - 2014-11-19 — Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.
 - 2014-11-20 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6219-6220)
 - 2014-11-20 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6219-6220)
+- 2014-11-21 — Message on Senate action sent to the House.
+- 2014-11-24 — Presented to President.
+- 2014-11-24 — Presented to President.
+- 2014-12-04 — Became Public Law No: 113-200.
+- 2014-12-04 — Became Public Law No: 113-200.
+- 2014-12-04 — Signed by President.
+- 2014-12-04 — Signed by President.
