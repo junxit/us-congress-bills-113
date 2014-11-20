@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1447
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1447
@@ -43,3 +43,7 @@ Death in Custody Reporting Act of 2013
 - 2013-12-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8047-8048)
 - 2013-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8047-8048)
 - 2013-12-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2014-11-20 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2014-11-20 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2014-11-20 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2014-11-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 604.
