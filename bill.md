@@ -33,6 +33,7 @@ This Act may be cited as the “Promoting New Manufacturing Act”.
 - **(c)** *Rules of construction*
   - **(1)** After publishing regulations and guidance for implementing national ambient air quality standards under subsection (a), nothing in this section shall preclude the Environmental Protection Agency from issuing subsequent regulations or guidance to assist States and facilities in implementing such standards.
   - **(2)** Nothing in this section shall be construed to eliminate the obligation of a preconstruction permit applicant to install best available control technology and lowest achievable emissions rate technology, as applicable.
+  - **(3)** Nothing in this section shall be construed to limit the authority of a State, local, or tribal permitting authority to impose more stringent emissions requirements pursuant to State, local, or tribal law than Federal national ambient air quality standards established by the Environmental Protection Agency.
 
 ## § 4. Report to Congress on actions to expedite review of preconstruction permits
 
