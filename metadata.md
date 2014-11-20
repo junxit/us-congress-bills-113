@@ -1,7 +1,7 @@
 ---
 measure: H.R. 669
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 669
@@ -81,3 +81,14 @@ Sudden Unexpected Death Data Enhancement and Awareness Act
 - 2014-11-20 — Senate amendment proposed (on the floor): Amendment SA 3958 proposed by Senator Reid for Senator Harkin.(consideration: CR S6219; text: CR S6219)
 - 2014-11-20 — Senate amendment submitted
 - 2014-11-20 — Senate amendment submitted
+- 2014-11-21 — Message on Senate action sent to the House.
+- 2014-12-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-03 — Mr. Bilirakis asked unanimous consent to take from the Speaker's table and agree to the Senate amendments. (consideration: CR H8344-8345)
+- 2014-12-03 — On motion that the House agree to the Senate amendments Agreed to without objection. (text as House agreed to Senate amendment: CR H8345)
+- 2014-12-03 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to without objection.(text as House agreed to Senate amendment: CR H8345)
+- 2014-12-08 — Presented to President.
+- 2014-12-08 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-236.
+- 2014-12-18 — Became Public Law No: 113-236.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
