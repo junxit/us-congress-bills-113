@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1447
 congress: 113
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1447
@@ -47,3 +47,13 @@ Death in Custody Reporting Act of 2013
 - 2014-11-20 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2014-11-20 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2014-11-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 604.
+- 2014-12-09 — Committee on the Judiciary Subcommittee on the Constitution, Civil Rights and Human Rights. Hearings held.
+- 2014-12-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6579-6580)
+- 2014-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6579-6580)
+- 2014-12-11 — Message on Senate action sent to the House.
+- 2014-12-12 — Presented to President.
+- 2014-12-12 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-242.
+- 2014-12-18 — Became Public Law No: 113-242.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
