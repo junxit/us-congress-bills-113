@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2455
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,10 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To provide for the sale or transfer of certain Federal lands in Nevada, and for other purposes.
 
-## § 1. Short title
+## § 1. Short title; table of contents
 
-This Act may be cited as the “Nevada Native Nations Lands Act”.
+- **(a)** *Short title* This Act may be cited as the “Nevada Native Nations Land Act”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
-## § 2. Table of contents
+## § 2. Definition of Secretary
 
-The table of contents for this Act is as follows:
+In this Act, the term Secretary means the Secretary of the Interior.
