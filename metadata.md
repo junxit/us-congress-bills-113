@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4795
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4795
@@ -32,9 +32,10 @@ Promoting New Manufacturing Act
 - Rep. Terry, Lee [R-NE-2] (T000459)
 - Rep. Guthrie, Brett [R-KY-2] (G000558)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (3)
 
@@ -88,3 +89,4 @@ Promoting New Manufacturing Act
 - 2014-11-20 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8144)
 - 2014-11-20 — The previous question was ordered pursuant to the rule. (consideration: CR H8143)
 - 2014-11-20 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
+- 2014-12-01 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
