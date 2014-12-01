@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3227
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,26 +11,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Removal of properties in South Carolina from John H. Chafee Coastal Barrier Resources System
 
-- **(a)** *In general* The Secretary of the Interior shall revise one or more maps included in the set of maps entitled Coastal Barrier Resources System referred to in section 4(a) of the Coastal Barrier Resources Act (16 U.S.C. 3503(a)), and relating to John H. Chafee Coastal Barrier Resources System Unit SC–03 in South Carolina, as necessary to remove from such System the parcels of land at the following addresses in South Carolina:
-  - **(1)** 2209 S Waccamaw Dr, Murrells Inlet, SC 29576 (parcel number 00–0131–047–00–00 in the property records of Georgetown County, South Carolina).
-  - **(2)** 2201 S Waccamaw Dr, Murrells Inlet, SC 29576 (parcel number 00–0131–046–00–00 in such property records).
-  - **(3)** 2191 S Waccamaw Dr, Murrells Inlet, SC 29576 (parcel number 00–0131–045–00–00 in such property records).
-  - **(4)** 2179 S Waccamaw Dr, Murrells Inlet, SC 29576 (parcel number 00–0131–044–00–00 in such property records).
-  - **(5)** 2216 S Waccamaw Dr, Murrells Inlet, SC 29576 (parcel number 00–0131–071–00–00 in such property records).
-  - **(6)** 2224 S Waccamaw Dr, Murrells Inlet, SC 29576 (parcel number 00–0131–072–00–00 in such property records).
-  - **(7)** 2226 S Waccamaw Dr, Murrells Inlet, SC 29576 (parcel number 00–0131–073–00–00 in such property records).
-  - **(8)** 2230 S Waccamaw Dr, Murrells Inlet, SC 29576 (parcel number 00–0131–074–00–00 in such property records).
-  - **(9)** 2236 S Waccamaw Dr, Murrells Inlet, SC 29576 (parcel number 00–0131–075–00–00 in such property records).
-  - **(10)** 2254 S Waccamaw Dr, Murrells Inlet, SC 29576 (parcel number 00–0131–076–00–00 in such property records).
-  - **(11)** 2272 S Waccamaw Dr, Murrells Inlet, SC 29576 (parcel number 00–0131–077–00–00 in such property records).
-  - **(12)** 2305 Sailfish Dr, Murrells Inlet, SC 29576 (parcel number 00–0131–078–00–00 in such property records).
-  - **(13)** 2317 Sailfish Dr, Murrells Inlet, SC 29576 (parcel number 00–0131–079–00–00 in such property records).
-  - **(14)** 2329 Sailfish Dr, Murrells Inlet, SC 29576 (parcel number 00–0131–080–00–00 in such property records).
-  - **(15)** 2339 Sailfish Dr, Murrells Inlet, SC 29576 (parcel number 00–0131–081–00–00 in such property records).
-  - **(16)** 2349 Sailfish Dr, Murrells Inlet, SC 29576 (parcel number 00–0131–082–00–00 in such property records).
-  - **(17)** 2359 Sailfish Dr, Murrells Inlet, SC 29576 (parcel number 00–0131–083–00–00 in such property records).
-  - **(18)** 2369 Sailfish Dr, Murrells Inlet, SC 29576 (parcel number 00–0131–084–00–00 in such property records).
-  - **(19)** 2273 S Waccamaw Dr, Murrells Inlet, SC 29576 (parcel number 41–0131–033–00–00 in such property records).
-  - **(20)** 2171 S Waccamaw Dr, Murrells Inlet, SC 29576 (parcel number 41–0131–043–00–00 in such property records).
-  - **(21)** 2182 S Waccamaw Dr, Murrells Inlet, SC 29576 (parcel number 41–0131–070–00–00 in such property records).
+- **(a)** *In general* The map subtitled “Huntington Beach Unit SC–03” included in the sets of maps entitled “Coastal Barrier Resources System” referred to in section 4(a) of the Coastal Barrier Resources Act (16 U.S.C. 3503(a)) and relating to the Huntington Beach Unit in South Carolina is hereby replaced by another map relating to the same unit entitled “John H. Chafee Coastal Barrier Resources System Corrected Huntington Beach Unit SC–03” dated September 30, 2014.
 - **(b)** *Availability* The Secretary of the Interior shall keep each map revised under subsection (a) on file and available for inspection in accordance with section 4(b) of the Coastal Barrier Resources Act (16 U.S.C. 3503(b)).
