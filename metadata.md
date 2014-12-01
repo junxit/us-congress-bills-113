@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3572
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3572
@@ -25,3 +25,15 @@ To revise the boundaries of certain John H. Chafee Coastal Barrier Resources Sys
 - 2013-11-21 — Introduced in House
 - 2013-11-21 — Introduced in House
 - 2013-11-21 — Referred to the House Committee on Natural Resources.
+- 2013-11-29 — Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.
+- 2014-04-08 — Subcommittee Hearings Held.
+- 2014-07-16 — Committee Consideration and Mark-up Session Held.
+- 2014-07-16 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2014-07-16 — Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.
+- 2014-12-01 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-12-01 — Considered under suspension of the rules. (consideration: CR H8190-8192)
+- 2014-12-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3572.
+- 2014-12-01 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
+- 2014-12-01 — Placed on the Union Calendar, Calendar No. 473.
+- 2014-12-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-633.
+- 2014-12-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-633.
