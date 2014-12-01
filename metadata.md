@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4924
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4924
@@ -36,3 +36,17 @@ Bill Williams River Water Rights Settlement Act of 2014
 - 2014-06-20 — Introduced in House
 - 2014-06-20 — Introduced in House
 - 2014-06-20 — Referred to the House Committee on Natural Resources.
+- 2014-06-26 — Referred to the Subcommittee on Water and Power.
+- 2014-09-19 — Subcommittee Hearings Held.
+- 2014-11-19 — Committee Consideration and Mark-up Session Held.
+- 2014-11-19 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2014-11-19 — Subcommittee on Water and Power Discharged.
+- 2014-12-01 — Considered under suspension of the rules. (consideration: CR H8181-8186)
+- 2014-12-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4924.
+- 2014-12-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-01 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
+- 2014-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8181-8185)
+- 2014-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8181-8185)
+- 2014-12-01 — Placed on the Union Calendar, Calendar No. 478.
+- 2014-12-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-638.
+- 2014-12-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-638.

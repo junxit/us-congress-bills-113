@@ -19,10 +19,10 @@ The purposes of this Act are—
 
 - **(1)** to achieve a fair, equitable, and final settlement of certain claims among certain parties to water rights in the Bill Williams River watershed in the State of Arizona for—
   - **(A)** the Hualapai Tribe (acting on behalf of the Tribe and members of the Tribe); and
-  - **(B)** the Department of the Interior, including, and acting on behalf of, the constituent bureaus of the Department and, as specified, the United States as trustee for the Hualapai Tribe, the members of the Tribe, and the allottees;
+  - **(B)** the Department of the Interior, acting on behalf of the Department and, as specified, the United States as trustee for the Hualapai Tribe, the members of the Tribe, and the allottees;
 - **(2)** to approve, ratify, and confirm—
-  - **(A)** the Big Sandy River-Planet Ranch Water Rights Settlement Agreement entered into among the Hualapai Tribe, the United States as trustee for the Tribe, the members of the Tribe and allottees, the Secretary of the Interior, the Arizona department of water resources, and others, to the extent the Big Sandy River-Planet Ranch Agreement is consistent with this Act; and
-  - **(B)** the Hualapai Tribe Big Sandy River-Planet Ranch Water Rights Settlement Agreement entered into among the Tribe, the United States, and the Freeport Minerals Corporation, to the extent the Hualapai Tribe Agreement is consistent with this Act;
+  - **(A)** the Big Sandy River-Planet Ranch Water Rights Settlement Agreement entered into among the Hualapai Tribe, the United States as trustee for the Tribe, the members of the Tribe and allottees, the Secretary of the Interior, the Arizona department of water resources, Freeport Minerals Corporation, and the Arizona Game and Fish Commission, to the extent the Big Sandy River-Planet Ranch Agreement is consistent with this Act; and
+  - **(B)** the Hualapai Tribe Bill Williams River Water Rights Settlement Agreement entered into among the Tribe, the United States as trustee for the Tribe, members of the Tribe, the allottees, and the Freeport Minerals Corporation, to the extent the Hualapai Tribe Agreement is consistent with this Act;
 - **(3)** to authorize and direct the Secretary—
   - **(A)** to execute the duties and obligations of the Secretary under the Big Sandy River-Planet Ranch Agreement, the Hualapai Tribe Agreement, and this Act;
   - **(B)**
@@ -41,31 +41,20 @@ The purposes of this Act are—
 In this Act:
 
 - **(1)** *ADWR* The term ADWR means the Arizona department of water resources, established pursuant to title 45 of the Arizona Revised Statutes (or a successor agency or entity).
-- **(2)** *Allotment* The term allotment means any allotment that—
-  - **(A)** was originally allotted to an individual Indian in the allotting document;
-  - **(B)** is located on land outside the boundaries of an Indian reservation within Mohave County, Arizona; and
-  - **(C)** as of the enforceability date, is held in trust by the United States for the benefit of an allottee.
-- **(3)** *Allottee* The term allottee means any individual who holds a beneficial real property interest in an allotment.
+- **(2)** *Allotment* The term allotment means the 4 off-reservation parcels held in trust by the United States for individual Indians in the Big Sandy River basin in Mohave County, Arizona, under the patents numbered 1039995, 1039996, 1039997, and 1019494.
+- **(3)** *Allottee* The term allottee means any Indian owner of an allotment under a patent numbered 1039995, 1039996, 1039997, or 1019494.
 - **(4)** *Arizona Game and Fish Commission* The term Arizona Game and Fish Commission means the entity established pursuant to title 17 of the Arizona Revised Statutes to control the Arizona game and fish department (or a successor agency or entity).
 - **(5)** *Bagdad Mine Complex and Bagdad Townsite* The term Bagdad Mine Complex and Bagdad Townsite means the geographical area depicted on the map attached as exhibit 2.9 to the Big Sandy River-Planet Ranch Agreement.
-- **(6)** *Big Sandy River-Planet Ranch Agreement*
-  - **(A)** *In general* The term Big Sandy River-Planet Ranch Agreement means the Big Sandy River-Planet Ranch Water Rights Settlement Agreement dated ______, 2014 and entered into among—
-    - **(i)** the Tribe;
-    - **(ii)** Department, including, and acting on behalf of, the constituent bureaus of the Department and, as specified, the United States as trustee for the Hualapai Tribe, the members of the Tribe, and the allottees;
-    - **(iii)** the Arizona Game and Fish Commission;
-    - **(iv)** ADWR; and
-    - **(v)** the Corporation.
-  - **(B)** *Inclusions* The term Big Sandy River-Planet Ranch Agreement includes—
-    - **(i)** all exhibits to the agreement referred to in subparagraph (A);
-    - **(ii)** any amendments necessary to make the agreement consistent with this Act; and
-    - **(iii)** any other amendment approved by the parties to the agreement that are affected by the amendment (including the Secretary, acting on behalf of the United States).
+- **(6)** *Big Sandy River-Planet Ranch Agreement* The term Big Sandy River-Planet Ranch Agreement means the Big Sandy River-Planet Ranch Water Rights Settlement Agreement dated July 2, 2014, and any amendment or exhibit (including exhibit amendments) to that Agreement that is—
+  - **(A)** made in accordance with this Act; or
+  - **(B)** otherwise approved by the Secretary and the parties to the Big Sandy River-Planet Ranch Agreement.
 - **(7)** *Bill Williams River watershed* The term Bill Williams River watershed means the watershed drained by the Bill Williams River and the tributaries of that river, including the Big Sandy and Santa Maria Rivers.
 - **(8)** *Conservation Program* The term Conservation Program has the meaning given the term Lower Colorado River Multi-Species Conservation Program in section 9401 of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1327).
 - **(9)** *Corporation*
   - **(A)** *In general* The term Corporation means the Freeport Minerals Corporation, incorporated in the State of Delaware.
   - **(B)** *Inclusions* The term Corporation includes all subsidiaries, affiliates, successors, and assigns of the Freeport Minerals Corporation (such as Byner Cattle Company, incorporated in the State of Nevada).
-- **(10)** *Department* The term Department means the Department of the Interior.
-- **(11)** *Enforceability date* The term enforceability date means the applicable date described in section 9.
+- **(10)** *Department* The term Department means the Department of the Interior and all constituent bureaus of that Department.
+- **(11)** *Enforceability date* The term enforceability date means the date described in section 9.
 - **(12)** *Freeport Groundwater Wells*
   - **(A)** *In general* The term Freeport Groundwater Wells means the 5 wells identified by ADWR well registration numbers—
     - **(i)** 55–592824;
@@ -75,19 +64,13 @@ In this Act:
     - **(v)** 55–908273.
   - **(B)** *Inclusions* The term Freeport Groundwater Wells includes any replacement of a well referred to in subparagraph (A) drilled by or for the Corporation to supply water to the Bagdad Mine Complex and Bagdad Townsite.
   - **(C)** *Exclusions* The term Freeport Groundwater Wells does not include any other well owned by the Corporation at any other location.
-- **(13)** *Hualapai Tribe Agreement*
-  - **(A)** *In general* The term Hualapai Tribe Agreement means the Hualapai Tribe Bill Williams River Water Rights Settlement Agreement dated ______, 2014 entered into among—
-    - **(i)** the Tribe;
-    - **(ii)** the United States, as trustee for the Tribe, the members of the Tribe, and the allottees; and
-    - **(iii)** the Corporation.
-  - **(B)** *Inclusions* The term Hualapai Tribe Agreement includes—
-    - **(i)** all exhibits to the agreement referred to in subparagraph (A);
-    - **(ii)** any amendments necessary to make the agreement consistent with this Act; and
-    - **(iii)** any other amendments approved by—
-      - **(I)** each party to the agreement that is affected by the amendment; and
-      - **(II)** the Secretary.
-- **(14)** *Hualapai Tribe Water Rights Settlement Agreement* The term Hualapai Tribe Water Rights Settlement Agreement means the settlement agreement in the process of negotiation as of the date of enactment of this Act among the Tribe, the United States, the State of Arizona, the Central Arizona Water Conservation District, the Salt River Agricultural Improvement and Power District and Salt River Valley Water Users Association, and the Corporation to resolve the claims of the Tribe for rights to Colorado River water and Verde River water.
-- **(15)** *Injury* The term injury, with respect to a water right, means any interference with, diminution of, or deprivation of the water right under Federal, State, or other law.
+- **(13)** *Hualapai Tribe Agreement* The term Hualapai Tribe Agreement means the Hualapai Tribe Bill Williams River Water Rights Settlement Agreement dated July 2, 2014, including any amendment or exhibit (including exhibit amendments) to that Agreement that is—
+  - **(A)** made in accordance with this Act; or
+  - **(B)** otherwise approved by the Secretary and the parties to the Agreement.
+- **(14)** *Hualapai Tribe Water Rights Settlement Agreement* The term Hualapai Tribe Water Rights Settlement Agreement means the comprehensive settlement agreement in the process of negotiation as of the date of enactment of this Act to resolve the claims of the Tribe for rights to Colorado River water and Verde River water with finality.
+- **(15)** *Injury*
+  - **(A)** *In general* The term injury, with respect to a water right, means any interference with, diminution of, or deprivation of the water right under Federal, State, or other law.
+  - **(B)** *Exclusion* The term injury does not include any injury to water quality.
 - **(16)** *Lincoln Ranch* The term Lincoln Ranch means the property owned by the Corporation described in the special warranty deed recorded on December 4, 1995, at Book 1995 and Page 05874 in the official records of La Paz County, Arizona.
 - **(17)** *Parcel 1* The term Parcel 1 means the parcel of land that—
   - **(A)** is depicted as 3 contiguous allotments identified as 1A, 1B, and 1C on the map attached to the Big Sandy River-Planet Ranch Agreement as exhibit 2.10; and
@@ -98,11 +81,10 @@ In this Act:
 - **(19)** *Parcel 3* The term Parcel 3 means the parcel of land that—
   - **(A)** is depicted on the map attached to the Big Sandy River-Planet Ranch Agreement as exhibit 2.10;
   - **(B)** is held in trust for the Tribe; and
-  - **(C)** is part of the Hualapai Reservation pursuant to Executive Order 1368 of June 2, 1911.
+  - **(C)** is part of the Hualapai Reservation pursuant to Executive Order No. 1368 of June 2, 1911.
 - **(20)** *Party* The term party means an individual or entity that is a signatory to—
-  - **(A)** the Big Sandy River-Planet Ranch Agreement;
-  - **(B)** the Hualapai Tribe Agreement; or
-  - **(C)** an exhibit to the Big Sandy River-Planet Ranch Agreement or the Hualapai Tribe Agreement.
+  - **(A)** the Big Sandy River-Planet Ranch Agreement; or
+  - **(B)** the Hualapai Tribe Agreement.
 - **(21)** *Planet Ranch* The term Planet Ranch means the property owned by the Corporation described—
   - **(A)** in the special warranty deed recorded on December 14, 2011, at Book 2011 and Page 05267 in the official records of La Paz County, Arizona; and
   - **(B)** as Instrument No. 2011–062804 in the official records of Mohave County, Arizona.
@@ -125,7 +107,9 @@ In this Act:
   - **(1)** the Big Sandy River-Planet Ranch Agreement (including all exhibits to the Big Sandy River-Planet Ranch Agreement requiring the signature of the Secretary);
   - **(2)** any amendment to the Big Sandy River-Planet Ranch Agreement (including any amendment to an exhibit of the Big Sandy River-Planet Ranch Agreement requiring the signature of the Secretary) that is necessary to make the Big Sandy River-Planet Ranch Agreement consistent with this Act; and
   - **(3)** a conditional withdrawal of each objection filed by the Bureau of Indian Affairs, the Bureau of Land Management, and the United States Fish and Wildlife Service to the sever and transfer applications in the form set forth in exhibit 4.2.1(ii)(b) to the Big Sandy River-Planet Ranch Agreement.
-- **(c)** *Discretion of Secretary* The Secretary may execute any other amendment to the Big Sandy River-Planet Ranch Agreement (including any amendment to an exhibit to the Big Sandy River-Planet Ranch Agreement requiring the signature of the Secretary) that is not inconsistent with this Act, if the amendment does not require approval by Congress.
+- **(c)** *Modifications and corrections* The Secretary may execute any other amendment to the Big Sandy River Planet-Ranch Agreement (including any amendment to an exhibit to the Big Sandy River-Planet Ranch Agreement requiring the signature of the Secretary) that is not inconsistent with this Act, if the amendment—
+  - **(1)** is approved by the Secretary and the parties to the Big Sandy River-Planet Ranch Agreement; and
+  - **(2)** does not require approval by Congress.
 - **(d)** *Prohibition* The Secretary shall not file an objection to any amendment to the sever and transfer applications or any new sever or transfer application filed by the Corporation to accomplish the sever and transfer of 10,055 acre-feet per year of water rights from Planet Ranch and Lincoln Ranch to the Wikieup Wellfield, subject to the condition that the form of such an amendment or new application shall be substantially similar to a form attached to the Big Sandy River-Planet Ranch Agreement as exhibit 4.2.1(ii)(a)(1) or 4.2.1(ii)(a)(2).
 
 ## § 5. Hualapai Tribe Agreement
@@ -136,28 +120,33 @@ In this Act:
 - **(b)** *Execution* To the extent that the Hualapai Tribe Agreement does not conflict with this Act, and in support of the purposes of this Act, the Secretary shall execute—
   - **(1)** the Hualapai Tribe Agreement (including all exhibits to the Hualapai Tribe Agreement requiring the signature of the Secretary); and
   - **(2)** any amendment to the Hualapai Tribe Agreement (including any amendment to an exhibit of the Hualapai Tribe Agreement requiring the signature of the Secretary) that is necessary to make the Hualapai Tribe Agreement consistent with this Act.
-- **(c)** *Discretion of Secretary* The Secretary may execute any other amendment to the Hualapai Tribe Agreement (including any amendment to an exhibit to the Hualapai Tribe Agreement requiring the signature of the Secretary) that is not inconsistent with this Act, if the amendment does not require approval by Congress.
+- **(c)** *Modifications and corrections* The Secretary may execute any other amendment to the Hualapai Tribe Agreement (including any amendment to an exhibit to the Hualapai Tribe Agreement requiring the signature of the Secretary) that is not inconsistent with this Act, if the amendment—
+  - **(1)** is approved by the Secretary and the parties to the Hualapai Tribe Agreement; and
+  - **(2)** does not require approval by Congress.
 - **(d)** *Contribution of Corporation to economic development fund*
   - **(1)** *In general* The contribution of the Corporation to the economic development fund of the Tribe, as provided in section 8.1 of the Hualapai Tribe Agreement—
-    - **(A)** may be used by the Tribe for the limited purpose of enabling the Tribe—
+    - **(A)** may be used by the Tribe for the limited purpose of facilitating settlement of the claims of the Tribe for rights to Colorado River water by enabling the Tribe—
       - **(i)** to acquire Colorado River water rights with the intent to increase the security of the water rights of the Tribe; and
-      - **(ii)** to otherwise facilitate the use of water on the Hualapai Reservation; and
-    - **(B)** shall be considered to be a non-Federal contribution that counts toward any non-Federal contribution associated with a settlement of the claims of the Tribe for rights to Colorado River water.
+      - **(ii)** to otherwise facilitate the use of water on the Hualapai Reservation;
+    - **(B)** shall be considered to be a non-Federal contribution that counts toward any non-Federal contribution associated with a settlement of the claims of the Tribe for rights to Colorado River water; and
+    - **(C)** shall not be—
+      - **(i)** considered to be trust funds; or
+      - **(ii)** subject to responsibility or management by the United States as trustee for the Tribe, members of the Tribe, and the allottees.
   - **(2)** *Limitation on transfer of water rights* The Colorado River water rights acquired by the Tribe may be used off the Hualapai Reservation only for irrigation of acquired appurtenant land, or for storage in accordance with Federal and State law in a permitted recharge facility in the State of Arizona, subject to the conditions that—
     - **(A)** the Tribe shall not seek to transfer or sell accumulated long-term storage credits generated from the storage of the acquired Colorado River water rights; and
-    - **(B)** the Tribe shall not seek approval to change the place of use of the acquired Colorado River water rights, except for the purposes of storing the water in accordance with subparagraph (A).
-  - **(3)** *Expiration* The authority provided under paragraph (2) expires on the earlier of—
+    - **(B)** the Tribe shall not seek approval to change the place of use of the acquired Colorado River water rights, except for the purposes of storing the water in accordance with this paragraph.
+  - **(3)** *Expiration* The limitation provided under paragraph (2) expires on the earlier of—
     - **(A)** the date on which the Hualapai Tribe Water Rights Settlement Agreement becomes enforceable; and
     - **(B)** December 31, 2039.
   - **(4)** *Colorado river water rights counted against claims of Tribe*
-    - **(A)** *In general* If the Hualapai Tribe Water Rights Settlement Agreement does not become enforceable by December 31, 2039, any Colorado River water rights acquired by the Tribe with the contribution of the Corporation to the economic development fund of the Tribe shall be counted, on an acre-foot per acre-foot basis, toward the claims of the Tribe for rights to Colorado River water in any subsequent settlement or adjudication of those claims.
-    - **(B)** *Effect of paragraph* Nothing in this paragraph restricts any claim for rights of the Tribe to Colorado River water in any subsequent settlement or adjudication.
-- **(e)** *Future limitations on land taken into trust* As provided in section 10.11 of the Hualapai Tribe Agreement, the parties to the Hualapai Tribe Agreement shall negotiate in good faith with other parties the terms under which any land within the State of Arizona held or acquired in fee by the Tribe may be taken into trust by the United States for the benefit of the Tribe, with any applicable terms to be incorporated into a future agreement settling the claims of the Tribe for rights to Colorado River water, and the Federal law approving the agreement, subject to approval by Congress.
+    - **(A)** *In general* If the Hualapai Tribe Water Rights Settlement Agreement does not become enforceable by December 31, 2039, any Colorado River water rights acquired by the Tribe with the contribution of the Corporation to the economic development fund of the Tribe shall be counted, on an acre-foot per acre-foot basis, toward the claims of the Tribe for rights to Colorado River water.
+    - **(B)** *Effect of paragraph* Nothing in this paragraph restricts any claim for rights of the Tribe to Colorado River water.
+- **(e)** *Future limitations on land taken into trust* As provided in section 10.11 of the Hualapai Tribe Agreement, the parties to the Hualapai Tribe Agreement shall negotiate in good faith with other parties the terms under which any land within the State of Arizona held or acquired in fee by the Tribe may be taken into trust by the United States for the benefit of the Tribe, with any applicable terms to be incorporated into the Hualapai Tribe Water Rights Settlement Agreement, subject to approval by Congress.
 
 ## § 6. Waivers, releases, and retention of claims
 
 - **(a)** *Claims by Department under Big Sandy River-Planet Ranch Agreement*
-  - **(1)** *In general* Except as provided in paragraph (3), the Secretary is authorized to execute a waiver and release of all claims of the Department against the Corporation under Federal, State, or any other law for—
+  - **(1)** *In general* Except as provided in paragraph (3), the Secretary is authorized to execute a waiver and release of all claims of the Department, acting in its own capacity, against the Corporation under Federal, State, or any other law for—
     - **(A)** all past and present claims for injury to water rights resulting from the diversion of water by the Corporation from the Wikieup Wellfield or the Freeport Groundwater Wells arising prior to the enforceability date;
     - **(B)** all claims for injury to water rights arising after the enforceability date resulting from the diversion of water by the Corporation from the Wikieup Wellfield or the Freeport Groundwater Wells in a manner not in violation of the Big Sandy River-Planet Ranch Agreement; and
     - **(C)** all past, present, and future claims arising out of, or relating in any manner to, the negotiation or execution of the Big Sandy River-Planet Ranch Agreement.
@@ -165,7 +154,7 @@ In this Act:
     - **(A)** be in the form set forth in exhibit 7.2(ii) to the Big Sandy River-Planet Ranch Agreement; and
     - **(B)** take effect on the enforceability date.
   - **(3)** *Retention of rights* The Department shall retain all rights not expressly waived under paragraph (1), including the right—
-    - **(A)** to assert any claim for breach of, or to seek enforcement of, the Big Sandy River-Planet Ranch Agreement or this Act in any United States court or State court of competent jurisdiction; and
+    - **(A)** to assert any claim for breach of, or to seek enforcement of, the Big Sandy River-Planet Ranch Agreement or this Act in any court of competent jurisdiction (but not a tribal court); and
     - **(B)** to assert any past, present, or future claim to a water right that is not inconsistent with the Big Sandy River-Planet Ranch Agreement or this Act.
 - **(b)** *Claims by Tribe and United States as trustee under Big Sandy River-Planet Ranch Agreement*
   - **(1)** *In general* Except as provided in paragraph (3), the Tribe and the United States, acting as trustee for the Tribe and members of the Tribe, are authorized to execute a waiver and release of all claims against the Corporation for—
@@ -176,7 +165,7 @@ In this Act:
     - **(A)** be in the form set forth in exhibit 7.1(ii) to the Hualapai Tribe Agreement; and
     - **(B)** take effect on the enforceability date.
   - **(3)** *Retention of rights* The Tribe and the United States, acting as trustee for the Tribe and members of the Tribe, shall retain all rights not expressly waived under paragraph (1), including the right—
-    - **(A)** to assert any claim for breach of, or to seek enforcement of, the Big Sandy River-Planet Ranch Agreement or this Act in any United States court or State court of competent jurisdiction; and
+    - **(A)** to assert any claim for breach of, or to seek enforcement of, the Big Sandy River-Planet Ranch Agreement or this Act in any court of competent jurisdiction (but not a tribal court); and
     - **(B)** to assert any past, present, or future claim to a water right that is not inconsistent with the Big Sandy River-Planet Ranch Agreement or this Act.
 - **(c)** *Claims by United States as trustee for allottees under Big Sandy River-Planet Ranch Agreement*
   - **(1)** *In general* Except as provided in paragraph (3), the United States, acting as trustee for the allottees, is authorized to execute a waiver and release of all claims against the Corporation for—
@@ -189,25 +178,27 @@ In this Act:
     - **(A)** be in the form set forth in exhibit 7.1(ii) to the Hualapai Tribe Agreement; and
     - **(B)** take effect on the enforceability date.
   - **(3)** *Retention of rights* The United States, acting as trustee for the allottees, shall retain all rights not expressly waived under paragraph (1), including the right—
-    - **(A)** to assert any claim for breach of, or to seek enforcement of, the Big Sandy River-Planet Ranch Agreement or this Act in any United States court or State court of competent jurisdiction; and
+    - **(A)** to assert any claim for breach of, or to seek enforcement of, the Big Sandy River-Planet Ranch Agreement or this Act in any court of competent jurisdiction (but not a tribal court); and
     - **(B)** to assert any past, present, or future claim to a water right that is not inconsistent with the Big Sandy River-Planet Ranch Agreement or this Act.
 - **(d)** *Claims by Tribe and United States as trustee under Hualapai Tribe Agreement*
   - **(1)** *In general* Except as provided in paragraph (3), the Tribe and the United States, acting as trustee for the Tribe, members of the Tribe, and the allottees, as part of the performance of obligations under the Hualapai Tribe Agreement, are authorized to execute a waiver and release of all claims that the Tribe or the United States as trustee for the Tribe, members of the Tribe, or the allottees may have against the Corporation under Federal, State, or any other law, for—
     - **(A)** all past and present claims for injury to water rights resulting from the diversion of water by the Corporation from the Bill Williams River watershed arising prior to the enforceability date;
-    - **(B)** all claims for injury to water rights arising after the enforceability date resulting from the diversion of water by the Corporation from the Bill Williams River watershed in a manner not in violation of the Hualapai Tribe Agreement; and
+    - **(B)** all claims for injury to water rights arising after the enforceability date resulting from the diversion of water by the Corporation from the Bill Williams River watershed in a manner not in violation of the Hualapai Tribe Agreement or the Big Sandy River-Planet Ranch Agreement; and
     - **(C)** all past, present, and future claims arising out of, or relating in any manner to, the negotiation or execution of the Hualapai Tribe Agreement.
   - **(2)** *Effective date* The waivers and releases of claims under paragraph (1) shall—
     - **(A)** be in the form set forth in exhibit 7.1(ii) to the Hualapai Tribe Agreement; and
     - **(B)** take effect on the enforceability date.
   - **(3)** *Retention of rights* The Tribe and the United States, acting as trustee for the Tribe, the members of the Tribe, and the allottees, shall retain all rights not expressly waived under paragraph (1), including the right to assert—
-    - **(A)** subject to paragraph 10.5 of the Hualapai Tribe Agreement, a claim for breach of, or to seek enforcement of, the Hualapai Tribe Agreement or this Act in any United States court or State court of competent jurisdiction;
+    - **(A)** subject to paragraph 10.5 of the Hualapai Tribe Agreement, a claim for breach of, or to seek enforcement of, the Hualapai Tribe Agreement or this Act in any court of competent jurisdiction (but not a tribal court);
     - **(B)** any claim for injury to, or to seek enforcement of, the rights of the Tribe under any applicable judgment or decree approving or incorporating the Hualapai Tribe Agreement; and
     - **(C)** any past, present, or future claim to water rights that is not inconsistent with the Hualapai Tribe Agreement or this Act.
 - **(e)** *Claims by Tribe against United States under Big Sandy River-Planet Ranch Agreement and Hualapai Tribe Agreement*
-  - **(1)** *In general* Except as provided in paragraph (3), the Tribe, on behalf of the Tribe and the members of the Tribe, is authorized to execute a waiver and release of all claims against the Department and the agents and employees of the Department for—
-    - **(A)** all past, present, and future claims relating to injury to water rights associated with Parcel 3 in excess of 300 acre-feet per year that the Department, acting as trustee for the Tribe, asserted or could have asserted against any party to the Hualapai Tribe Agreement, including the Corporation;
-    - **(B)** all past and present claims relating to injury to water rights arising before the enforceability date associated with Parcel 3, including any injury from withdrawal of a protest to the sever and transfer applications;
-    - **(C)** all claims relating to injury to water rights arising after the enforceability date associated with Parcel 3, except for injury to the water right for 300 acre-feet per year associated with Parcel 3; and
+  - **(1)** *In general* In consideration for the benefits to the Tribe, as set forth in the Big Sandy River-Planet Ranch Agreement, the Hualapai Tribe Agreement, and this Act, except as provided in paragraph (3), the Tribe, on behalf of the Tribe and the members of the Tribe, is authorized to execute a waiver and release of all claims against the United States and the agents and employees of the United States for—
+    - **(A)** all past, present, and future claims relating to claims for water rights for Parcel 3 in excess of 300 acre-feet per year that the United States, acting as trustee for the Tribe, asserted or could have asserted against any party to the Big Sandy River-Planet Ranch Agreement or the Hualapai Tribe Agreement, including the Corporation, including claims relating to—
+      - **(i)** loss of water, water rights, land, or natural resources due to loss of water or water rights on Parcel 3 (including damages, losses, or injuries to hunting, fishing, and gathering rights due to loss of water, water rights, or subordination of water rights); or
+      - **(ii)** failure to protect, acquire, replace, or develop water, water rights, or water infrastructure on Parcel 3;
+    - **(B)** all past, present, and future claims relating to injury to water rights associated with Parcel 3 arising from withdrawal of a protest to the sever and transfer applications referenced in the Big Sandy River-Planet Ranch Agreement;
+    - **(C)** all claims relating to injury to water rights arising after the enforceability date associated with Parcel 3, resulting from the diversion of water by the Corporation from the Bill Williams River watershed in a manner not in violation of the Hualapai Tribe Agreement; and
     - **(D)** all past, present, and future claims relating to any potential injury arising out of, or relating in any manner to, the negotiation or execution of the Big Sandy River-Planet Ranch Agreement or the Hualapai Tribe Agreement.
   - **(2)** *Effective date* The waivers and releases of claims under paragraph (1) shall—
     - **(A)** be in the form set forth in, as applicable—
@@ -215,26 +206,82 @@ In this Act:
       - **(ii)** exhibit 7.3(ii) to the Hualapai Tribe Agreement; and
     - **(B)** take effect on the enforceability date.
   - **(3)** *Retention of rights* The Tribe shall retain all rights not expressly waived under paragraph (1), including the right—
-    - **(A)** to assert any claim for breach of, or to seek enforcement of, the Big Sandy River-Planet Ranch Agreement, the Hualapai Tribe Agreement, or this Act in any United States court or State court of competent jurisdiction; and
+    - **(A)** to assert any claim for breach of, or to seek enforcement of, the Big Sandy River-Planet Ranch Agreement, the Hualapai Tribe Agreement, or this Act in any court of competent jurisdiction (but not a tribal court); and
     - **(B)** to assert any past, present, or future claim to a water right that is not inconsistent with the Big Sandy River-Planet Ranch Agreement, the Hualapai Tribe Agreement, or this Act.
 
 ## § 7. Administration
 
-- **(a)** *Limited waiver of sovereign immunity*
-  - **(1)** *In general* In the case of a civil action described in paragraph (2)—
-    - **(A)** the United States or the Tribe, or both, may be joined in a civil action commenced by any party to the Big Sandy River-Planet Ranch Agreement or the Hualapai Tribe Agreement; and
-    - **(B)** any claim by the United States or the Tribe to sovereign immunity from the civil action is waived for the sole purpose of resolving any issue regarding the interpretation or enforcement of, as applicable—
-      - **(i)** this Act;
-      - **(ii)** the Big Sandy River-Planet Ranch Agreement; or
-      - **(iii)** the Hualapai Tribe Agreement.
-  - **(2)** *Description of civil action* A civil action referred to in paragraph (1) is a civil action filed by any party in a United States court or State court that—
-    - **(A)** relates solely and directly to the interpretation or enforcement of this Act, the Big Sandy River-Planet Ranch Agreement, or the Hualapai Tribe Agreement;
-    - **(B)** does not seek any award against the United States or the Tribe for monetary damages, costs, or attorneys’ fees; and
-    - **(C)** names the United States or the Tribe as a party.
-- **(b)** *Antideficiency*
+- **(a)** *Amendments*
+  - **(1)** *Definitions* Section 9401 of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1327) is amended—
+    - **(A)** by redesignating paragraphs (1) through (5) as paragraphs (2) through (6), respectively; and
+    - **(B)** by inserting before paragraph (2) (as so redesignated) the following:
+      > - **(1)** *Big Sandy River-Planet Ranch Agreement* The term Big Sandy River-Planet Ranch Agreement has the meaning given the term in section 3 of the Bill Williams River Water Rights Settlement Act of 2014.
+
+  - **(2)** *Enforceability* Section 9403 of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1328) is amended—
+    - **(A)** by striking the section designation and heading and all that follows through “Due to” in subsection (a) and inserting the following:
+      > ## § 9403. Enforceability
+      >
+      > - **(a)** *Civil actions*
+      >   - **(1)** *Colorado River civil actions*
+      >     - **(A)** *Description of civil action* Due to
+
+    - **(B)** in subsection (a) (as amended by subparagraph (A))—
+      - **(i)** in paragraph (1) (as so amended), by adding at the end the following:
+        > - **(B)** *Venue* Any civil action under this paragraph may be brought in any United States district court in the State in which any non-Federal party to the civil action is situated.
+
+      - **(ii)** by adding at the end the following:
+        > - **(2)** *Bill Williams civil actions*
+        >   - **(A)** *Description of civil action* Due to the unique role of the Lower Colorado River Multi-Species Conservation Program in resolving competing water rights claims in the Bill Williams River watershed (as defined in section 3 of the Bill Williams River Water Rights Settlement Act of 2014) and other claims among the parties to the Big Sandy-River Planet Ranch Agreement, any party to the Big Sandy River-Planet Ranch Agreement may commence a civil action in a court described in subparagraph (B) relating only and directly to the interpretation or enforcement of—
+        >     - **(i)** the Bill Williams River Water Rights Settlement Act of 2014; or
+        >     - **(ii)** the Big Sandy River-Planet Ranch Agreement.
+        >   - **(B)** *Venue* A civil action under this paragraph may be brought in—
+        >     - **(i)** the United States District Court for the District of Arizona; or
+        >     - **(ii)** a State court of competent jurisdiction where a pending action has been brought to adjudicate the water rights associated with the Bill Williams River system and source, in accordance with the authority provided by section 208 of the Act of July 10, 1952 (commonly known as the “McCarran Amendment”) (43 U.S.C. 666).
+
+  - **(3)** in subsection (b)—
+    - **(A)** by striking “The district” and inserting the following:
+      > - **(1)** *In general* The district
+
+    - **(B)** in paragraph (1) (as so designated), by striking “such actions” and inserting “civil actions described in subsection (a)(1)”; and
+    - **(C)** by adding at the end the following:
+      > - **(2)** *State courts and district courts* A State court or United States district court—
+      >   - **(A)** shall have jurisdiction over civil actions described in subsection (a)(2); and
+      >   - **(B)** may issue such orders, judgments, and decrees as are consistent with the exercise of jurisdiction by the court pursuant to—
+      >     - **(i)** this section; or
+      >     - **(ii)** section 7 of the Bill Williams River Water Rights Settlement Act of 2014.
+      > - **(3)** *Effect of subsection* Nothing in this subsection affects the jurisdiction that would otherwise be available in accordance with the authority provided by section 208 of the Act of July 10, 1952 (commonly known as the “McCarran Amendment”) (43 U.S.C. 666).
+
+  - **(4)** in subsection (d)(2), by striking the paragraph designation and heading and all that follows through subparagraph (A) and inserting the following:
+    > - **(2)** *Applicability* This section—
+    >   - **(A)** applies only to—
+    >     - **(i)** the Lower Colorado River Multi-Species Conservation Program;
+    >     - **(ii)** the Bill Williams River Water Rights Settlement Act of 2014; and
+    >     - **(iii)** the Big Sandy River-Planet Ranch Agreement; and
+
+  - **(5)** by striking subsection (e).
+- **(b)** *Limited waiver of sovereign immunity*
+  - **(1)** *In general* If any party to the Big Sandy River-Planet Ranch Agreement or the Hualapai Tribe Agreement brings a civil action in a court described in paragraph (2) relating only and directly to the interpretation or enforcement of this Act (or an amendment made by this Act), the Big Sandy River-Planet Ranch Agreement, or the Hualapai Tribe Agreement—
+    - **(A)** the Tribe and the United States, acting as trustee for the Tribe, members of the Tribe, or the allottees, may be named as a party or joined in the civil action; and
+    - **(B)** any claim by the Tribe or the United States, acting as trustee for the Tribe, members of the Tribe, or the allottees, to sovereign immunity from the civil action is waived, but only for the limited and sole purpose of the interpretation or enforcement of this Act (or an amendment made by this Act), the Big Sandy River-Planet Ranch Agreement, or the Hualapai Tribe Agreement.
+  - **(2)** *Venue* A court referred to in paragraph (1) is—
+    - **(A)** the United States District Court for the District of Arizona; or
+    - **(B)** a State court of competent jurisdiction where a pending action has been brought to adjudicate the water rights associated with the Bill Williams River system and source, in accordance with the authority provided by section 208 of the Act of July 10, 1952 (commonly known as the “McCarran Amendment”) (43 U.S.C. 666).
+  - **(3)** *Jurisdiction* A State court or a United States district court—
+    - **(A)** shall have jurisdiction over civil actions described in paragraph (1); and
+    - **(B)** may issue such orders, judgments, and decrees as are consistent with the exercise of jurisdiction by the court pursuant to—
+      - **(i)** this section; or
+      - **(ii)** section 9403(b) of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1328).
+  - **(4)** *Nonwaiver for certain claims* Nothing in this subsection waives the sovereign immunity of the Tribe or the United States, acting as trustee for the Tribe, members of the Tribe, or the allottees, to claims for monetary damages, costs, or attorneys’ fees.
+- **(c)** *Antideficiency*
   - **(1)** *In general* Notwithstanding any authorization of appropriations to carry out this Act, the expenditure or advance of any funds, and the performance of any obligation by the Department in any capacity, pursuant to this Act shall be contingent on the appropriation of funds for that expenditure, advance, or performance.
   - **(2)** *Liability* The Department shall not be liable for the failure to carry out any obligation or activity authorized by this Act if adequate appropriations are not provided to carry out this Act.
-- **(c)** *Public access* Nothing in this Act prohibits reasonable public access to Planet Ranch or Lincoln Ranch in a manner that is consistent with all applicable Federal and State laws and any applicable conservation management plan implemented under the Conservation Program.
+- **(d)** *Public access* Nothing in this Act prohibits reasonable public access to the Conservation Program land at Planet Ranch or Lincoln Ranch in a manner that is consistent with all applicable Federal and State laws and any applicable conservation management plan implemented under the Conservation Program.
+- **(e)** *Effect* Nothing in the Big Sandy River-Planet Ranch Agreement, the Hualapai Tribe Agreement, or this Act—
+  - **(1)** affects the ability of the United States to carry out any action in the capacity of the United States as trustee for any other Indian tribe or allottee;
+  - **(2)** except as provided in subsections (a) and (b), confers jurisdiction on any State court—
+    - **(A)** to interpret Federal law or determine the duties of the United States or any other party pursuant to Federal law; or
+    - **(B)** to conduct judicial review of a Federal agency action; or
+  - **(3)** limits the right of any member of the Tribe (acting in an individual capacity) to assert or acquire any water right based on State law.
 
 ## § 8. Environmental compliance
 
@@ -261,7 +308,7 @@ In this Act:
   - **(6)** the steering committee for the Conservation Program has approved and authorized the manager of the Conservation Program to execute the lease in the form as set forth in exhibit 2.33 to the Big Sandy River-Planet Ranch Agreement; and
   - **(7)** the waivers and releases authorized by section 6 have been executed by the Tribe and the Secretary.
 - **(b)** *Ratification and execution of agreements* Notwithstanding subsection (a), for purposes of sections 4, 5, and 8, the Secretary shall carry out the requirements of this Act as promptly as practicable after the date of enactment of this Act.
-- **(c)** *Failure of enforceability date To occur* If the Secretary does not publish a statement of findings under subsection (a) by December 15, 2015, or an extended date agreed to by the Tribe, the Secretary, and the Corporation, after providing reasonable notice to the State of Arizona—
+- **(c)** *Failure of enforceability date to occur* If the Secretary does not publish a statement of findings under subsection (a) by December 15, 2015, or an extended date agreed to by the Tribe, the Secretary, and the Corporation, after providing reasonable notice to the State of Arizona—
   - **(1)** this Act is repealed effective beginning on the later of—
     - **(A)** December 31, 2015; and
     - **(B)** the date that is 14 days after the extended date agreed to by the Tribe, the Secretary, and the Corporation, after providing reasonable notice to the State of Arizona;
