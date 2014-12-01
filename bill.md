@@ -27,9 +27,33 @@ This Act may be cited as the “Strengthening Domestic Nuclear Security Act of 2
   > - **(c)** *Congressional notification* The Director for Domestic Nuclear Detection shall notify the Committee on Homeland Security and the Committee on Appropriations of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate not later than 30 days after any additions or changes to the jurisdictions participating in the STC program under this section.
   > - **(d)** *GAO report* Not later than one year after the date of the enactment of this section, the Comptroller General of the United States shall submit to the congressional committees specified in subsection (c) an assessment, including an evaluation of the effectiveness, of the STC program.
   >
-  > ## § 1910. Authorization of appropriations
+  > ## § 1910. Procurement reform
+  >
+  > In the event of an acquisition of a new system for a component of the Department of Homeland Security or any other Department-related or -associated end-user, the head of such component shall complete and sign a Mission Need Statement and Operational Requirements Document, in accordance with relevant Department Acquisition Management Directives.
+  >
+  > ## § 1911. Authorization of appropriations
   >
   > There is authorized to be appropriated to carry out this title $291,000,000 for each of fiscal years 2015 and 2016.
 
 - **(b)** *Clerical amendments* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by striking the item relating to section 1907 and inserting the following new items:
 - **(c)** *Effective date* This Act shall take effect on the date that is 30 days after the date of the enactment of this Act.
+
+## § 3. Reporting requirements
+
+The Homeland Security Act of 2002 is amended—
+
+- **(1)** in section 1906 (6 U.S.C. 596), in the matter preceding paragraph (1), by striking “paragraphs (6) and (7) of”; and
+- **(2)** in section 1907 (6 U.S.C. 596a)—
+  - **(A)** in the section heading, by striking “annual” and inserting “biennial”;
+  - **(B)** in subsection (a)—
+    - **(i)** in the heading, by striking “Annual” and inserting “Biennial”;
+    - **(ii)** in paragraph (1)—
+      - **(I)** in the matter preceding subparagraph (A), by striking “each year” and inserting “every two years”; and
+      - **(II)** in subparagraph (C)—
+        - **(aa)** in clauses (i) and (iii), by striking “previous year” and inserting “previous two years” each place it appears; and
+        - **(bb)** in clause (ii), by striking “Annual” and inserting “Biennial”; and
+    - **(iii)** in paragraph (2), by striking “each year” and inserting “every two years”; and
+  - **(C)** in subsection (b)—
+    - **(i)** in the heading, by striking “Annual” and inserting “Biennial”;
+    - **(ii)** in paragraph (1), in the matter preceding subparagraph (A), by inserting “odd-numbered” before “year”; and
+    - **(iii)** in paragraph (2), by striking “annual” and inserting “biennial”; and
