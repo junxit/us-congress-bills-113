@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5449
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-51 amendatory instructions. 8 executed, 43 stated and not applied.
+53 amendatory instructions. 9 executed, 44 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 49 U.S.C. § 24101
+
+> in subsection (b), by striking “The Secretary of the Treasury, in consultation” and inserting “To the extent amounts are provided in advance in appropriations Acts, the Secretary of the Treasury, in consultation”;
+
+| | |
+|---|---|
+| Removed | `The Secretary of the Treasury, in consultation` |
+| Inserted | `To the extent amounts are provided in advance in appropriations Acts, the Secretary of the Treasury, in consultation` |
 
 ### 49 U.S.C. § 24101
 
@@ -106,9 +115,9 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 24101` | add-at-end | Chapter 243 of title 49, United States Code, is amended by adding at the end the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 24101` | amend | The table of sections for chapter 243 of title 49, United States Code, is amended by adding at the end the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 24101` | add-at-end | The table of sections for chapter 243 of title 49, United States Code, is amended by adding at the end the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 24101` | add-at-end | Chapter 249 of title 49, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 24101` | amend | The table of sections for chapter 249 of title 49, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 24101` | add-at-end | The table of sections for chapter 249 of title 49, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 24104` | repeal | The following provisions are repealed: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 24101` | add-at-end | Chapter 243 of title 49, United States Code, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 24101` | add-at-end | The table of sections for such chapter 243 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -118,13 +127,14 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 24101` | amend | Section 208 of the Passenger Rail Investment and Improvement Act of 2008 (49 U.S.C. 24101 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 24711` | amend | Section 24711 of title 49, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Chapter 243 of title 49, United States Code, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | amend | The table of sections for chapter 243 of title 49, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 243 of title 49, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | `49 U.S.C. § 24101` | insert | in subsection (a), by inserting “, to the extent provided in advance in appropriations Acts” after “Amtrak’s indebtedness”; | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 24101` | strike | by striking “as of the date of enactment of this Act” each place it appears; | the bill quotes the text struck but describes what replaces it |
 | `49 U.S.C. § 24101` | strike | in subsection (a), by striking the second sentence; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 24101` | insert | in subsection (d), by inserting “, to the extent provided in advance in appropriations Acts” after “as appropriate”; | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 24101` | strike | in subsection (e)(1), by striking “by section 102 of this division”; and | the bill quotes the text struck but describes what replaces it |
 | — | add-at-end | Chapter 244 of title 49, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | amend | The table of sections for chapter 244 of title 49, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 244 of title 49, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | `45 U.S.C. § 822` | insert | by inserting “The Secretary may subordinate rights of the Secretary under any provision of title 49 or title 23 of the United States Code, to the rights of the Secretary under this section and section 503.” after “from another source.”; and | the bill quotes the text inserted but describes where it goes |
 | `45 U.S.C. § 822` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `45 U.S.C. § 822` | insert | Section 502(i) of such Act (45 U.S.C. 822(i)) is amended by inserting “In order to enable compliance with such time limit, the Office of Management and Budget shall take any actions required with respect to the application within such 90… | the bill quotes the text inserted but describes where it goes |
@@ -135,8 +145,8 @@ complete account of the bill's effect, which it is not.
 | `45 U.S.C. § 822` | insert | Section 502(d) of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 822(d)) is amended by inserting “40 percent shall be available solely for projects described in subsection (l)(1), and” after “Of this amount,”. | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 24906` | add-at-end | Section 502 of such Act is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 24405` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 24405` | strike | by striking “and” at the end of subparagraph (A); | the bill quotes the text struck but describes what replaces it |
-| `49 U.S.C. § 24405` | replace | by striking the period at the end of subparagraph (B) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `45 U.S.C. § 822` | strike | by striking “and” at the end of subparagraph (A); | the bill quotes the text struck but describes what replaces it |
+| `45 U.S.C. § 822` | replace | by striking the period at the end of subparagraph (B) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 24405` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 24402` | add-at-end | Section 24402 of title 49, United States Code, is amended by adding at the end the following subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 24101` | strike | in subsection (a)(1), by striking “a discontinuance under section 24704 or or”; | the bill quotes the text struck but describes what replaces it |
