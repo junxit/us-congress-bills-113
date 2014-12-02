@@ -1,7 +1,7 @@
 ---
 measure: S. 1618
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 1 executed, 7 stated and not applied.
+10 amendatory instructions. 1 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -47,5 +47,7 @@ complete account of the bill's effect, which it is not.
 | `5 U.S.C. § 11001` | strike | in subparagraph (C), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 11001` | replace | in subparagraph (D), by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 11001` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 11001` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3341` | add-at-end | The table of chapters for part III of title 5, United States Code, is amended by adding at the end following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3341` | add-at-end | Part III of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3341` | add-at-end | The table of chapters for part III of title 5, United States Code, is amended by adding at the end following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
