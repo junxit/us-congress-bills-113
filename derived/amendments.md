@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4200
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -33,7 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `15 U.S.C. § 80b-3` | replace | by striking “No investment adviser” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 80b-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 80b-3` | amend | Section 203(m) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3(m)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 80b-3` | add-at-end | Section 203(m) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3(m)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | in subparagraph (A), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
