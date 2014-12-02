@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1000
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,43 +11,51 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Chesapeake Bay Accountability and Recovery Act of 2013”.
+This Act may be cited as the “Chesapeake Bay Accountability and Recovery Act of 2014”.
 
 ## § 2. Definitions
 
 In this Act:
 
-- **(1)** *Adaptive management* The term adaptive management means a type of natural resource management in which project and program decisions are made as part of an ongoing science-based process that—
-  - **(A)** includes testing, monitoring, and evaluating applied strategies and incorporating new knowledge into programs and restoration activities that are based on scientific findings and the needs of society; and
-  - **(B)** uses the results of activities described in subparagraph (A) to modify management policies, strategies, practices, programs, and restoration activities.
-- **(2)** *Administrator* The term Administrator means the Administrator of the Environmental Protection Agency.
-- **(3)** *Chesapeake Bay State* The term Chesapeake Bay State or State mean any of—
+- **(1)** *Administrator* The term Administrator means the Administrator of the Environmental Protection Agency.
+- **(2)** *Chesapeake Bay State* The term Chesapeake Bay State or State means any of—
   - **(A)** the States of Maryland, West Virginia, Delaware, and New York;
   - **(B)** the Commonwealths of Virginia and Pennsylvania; and
   - **(C)** the District of Columbia.
-- **(4)** *Chesapeake Bay watershed* The term Chesapeake Bay watershed means the Chesapeake Bay and the geographic area within the Chesapeake Bay States, consisting of 36 tributary basins, through which precipitation drains into the Chesapeake Bay, as determined by the Secretary of the Interior.
-- **(5)** *Chesapeake Executive Council* The term Chesapeake Executive Council has the meaning given the term by section 307 of the National Oceanic and Atmospheric Administration Authorization Act of 1992 (15 U.S.C. 1511d).
-- **(6)** *Chief executive* The term chief executive means, in the case of a State or Commonwealth, the Governor of the State or Commonwealth and, in the case of the District of Columbia, the Mayor of the District of Columbia.
-- **(7)** *Director* The term Director means the Director of the Office of Management and Budget.
-- **(8)** *Restoration activities*
-  - **(A)** *In general* The term restoration activity means any Federal or State program or project that directly or indirectly protects, conserves, or restores living resources, habitat, water resources, or water quality in the Chesapeake Bay watershed, including programs or projects that promote responsible land use, stewardship, and community engagement in the Chesapeake Bay watershed.
-  - **(B)** *Inclusions* The term restoration activity includes any one or more of the following:
+- **(3)** *Chesapeake Bay watershed* The term Chesapeake Bay watershed means all tributaries, backwaters, and side channels, including watersheds, draining into the Chesapeake Bay.
+- **(4)** *Chesapeake Executive Council* The term Chesapeake Executive Council has the meaning given the term by section 117(a) of the Federal Water Pollution Control Act (33 U.S.C. 1267(a)).
+- **(5)** *Chief executive* The term chief executive means, in the case of a State or Commonwealth, the Governor of the State or Commonwealth and, in the case of the District of Columbia, the Mayor of the District of Columbia.
+- **(6)** *Director* The term Director means the Director of the Office of Management and Budget.
+- **(7)** *Federal restoration activity*
+  - **(A)** *In general* The term Federal restoration activity means a Federal program or project carried out under Federal authority in existence as of the date of enactment of this Act with the express intent to directly protect, conserve, or restore living resources, habitat, water resources, or water quality in the Chesapeake Bay watershed, including programs or projects that provide financial and technical assistance to promote responsible land use, stewardship, and community engagement in the Chesapeake Bay watershed.
+  - **(B)** *Categorization* Federal restoration activities may be categorized as follows:
     - **(i)** Physical restoration.
     - **(ii)** Planning.
     - **(iii)** Feasibility studies.
     - **(iv)** Scientific research.
     - **(v)** Monitoring.
     - **(vi)** Education.
-    - **(vii)** Infrastructure Development.
+    - **(vii)** Infrastructure development.
+- **(8)** *State restoration activity*
+  - **(A)** *In general* The term State restoration activity means any State program or project carried out under State authority that directly or indirectly protect, conserve, or restore living resources, habitat, water resources, or water quality in the Chesapeake Bay watershed, including programs or projects that promote responsible land use, stewardship, and community engagement in the Chesapeake Bay watershed.
+  - **(B)** *Categorization* State restoration activities may be categorized as follows:
+    - **(i)** Physical restoration.
+    - **(ii)** Planning.
+    - **(iii)** Feasibility studies.
+    - **(iv)** Scientific research.
+    - **(v)** Monitoring.
+    - **(vi)** Education.
+    - **(vii)** Infrastructure development.
 
-## § 3. Chesapeake Bay Crosscut Budget
+## § 3. Chesapeake Bay crosscut budget
 
-- **(a)** *Crosscut Budget* The Director, in consultation with the Chesapeake Executive Council, the chief executive of each Chesapeake Bay State, and the Chesapeake Bay Commission, shall annually submit to Congress a financial report containing—
-  - **(1)** an interagency crosscut budget that displays—
-    - **(A)** the proposed funding for any Federal restoration activity to be carried out in the succeeding fiscal year, including any planned interagency or intra-agency transfer, for each Federal agency that carries out restoration activities;
+- **(a)** *In general* The Director, in consultation with the Chesapeake Executive Council, the chief executive of each Chesapeake Bay State, and the Chesapeake Bay Commission, shall submit to Congress a financial report containing—
+  - **(1)** an interagency crosscut budget that displays, as applicable—
+    - **(A)** the proposed funding for any Federal restoration activity to be carried out in the succeeding fiscal year, including any planned interagency or intra-agency transfer, for each of the Federal agencies that carry out restoration activities;
     - **(B)** to the extent that information is available, the estimated funding for any State restoration activity to be carried out in the succeeding fiscal year;
-    - **(C)** all expenditures for Federal restoration activities from the preceding 2 fiscal years, the current fiscal year, and the succeeding fiscal year; and
-    - **(D)** all expenditures, to the extent that information is available, for State restoration activities during the equivalent time period described in subparagraph (C);
+    - **(C)** all expenditures for Federal restoration activities from the preceding 2 fiscal years, the current fiscal year, and the succeeding fiscal year;
+    - **(D)** all expenditures, to the extent that information is available, for State restoration activities during the equivalent time period described in subparagraph (C); and
+    - **(E)** a section that identifies and evaluates, based on need and appropriateness, specific opportunities to consolidate similar programs and activities within the budget and recommendations to Congress for legislative action to streamline, consolidate, or eliminate similar programs and activities within the budget;
   - **(2)** a detailed accounting of all funds received and obligated by each Federal agency for restoration activities during the current and preceding fiscal years, including the identification of funds that were transferred to a Chesapeake Bay State for restoration activities;
   - **(3)** to the extent that information is available, a detailed accounting from each State of all funds received and obligated from a Federal agency for restoration activities during the current and preceding fiscal years; and
   - **(4)** a description of each of the proposed Federal and State restoration activities to be carried out in the succeeding fiscal year (corresponding to those activities listed in subparagraphs (A) and (B) of paragraph (1)), including—
@@ -58,40 +66,32 @@ In this Act:
     - **(E)** the project timeline, including benchmarks;
     - **(F)** references to project documents;
     - **(G)** descriptions of risks and uncertainties of project implementation;
-    - **(H)** a description of the applicable adaptive management actions or framework;
-    - **(I)** a list of coordinating entities;
-    - **(J)** a description of the funding history for the project;
-    - **(K)** cost-sharing, if any; and
-    - **(L)** alignment with existing Chesapeake Bay Agreement and Chesapeake Executive Council goals and priorities.
-- **(b)** *Minimum funding levels* The Director shall only describe restoration activities in the report required under subsection (a) that—
-  - **(1)** for Federal restoration activities, have funding amounts greater than or equal to $100,000; and
-  - **(2)** for State restoration activities, have funding amounts greater than or equal to $50,000.
-- **(c)** *Deadline* Not later than 30 days after the date on which the President submits the annual budget to Congress under section 1105 of title 31, United States Code, the Director shall submit to Congress the report required by subsection (a) to—
-  - **(1)** the Committees on Appropriations, Natural Resources, Energy and Commerce, and Transportation and Infrastructure of the House of Representatives; and
-  - **(2)** the Committees on Appropriations, Environment and Public Works, and Commerce, Science, and Transportation of the Senate.
-- **(d)** *Effective Date* This section shall apply beginning with the first fiscal year after the date of enactment of this Act for which the President submits a budget to Congress under section 1105 of title 31, United States Code.
+    - **(H)** a list of coordinating entities;
+    - **(I)** a description of the funding history for the project;
+    - **(J)** cost sharing; and
+    - **(K)** alignment with the existing Chesapeake Bay Agreement, Chesapeake Executive Council goals and priorities, and Annual Action Plan required by section 205 of Executive Order 13508 (33 U.S.C. 1267 note; relating to Chesapeake Bay protection and restoration).
+- **(b)** *Minimum funding levels* In describing restoration activities in the report required under subsection (a), the Director shall only include—
+  - **(1)** for the first 3 years that the report is required, descriptions of—
+    - **(A)** Federal restoration activities that have funding amounts greater than or equal to $300,000; and
+    - **(B)** State restoration activities that have funding amounts greater than or equal to $300,000; and
+  - **(2)** for every year thereafter, descriptions of—
+    - **(A)** Federal restoration activities that have funding amounts greater than or equal to $100,000; and
+    - **(B)** State restoration activities that have funding amounts greater than or equal to $100,000.
+- **(c)** *Deadline* The Director shall submit to Congress the report required by subsection (a) not later than September 30 of each year.
+- **(d)** *Report* Copies of the report required by subsection (a) shall be submitted to the Committees on Appropriations, Natural Resources, Energy and Commerce, and Transportation and Infrastructure of the House of Representatives and the Committees on Appropriations, Environment and Public Works, and Commerce, Science, and Transportation of the Senate.
+- **(e)** *Effective date* This section shall apply beginning with the first fiscal year after the date of enactment of this Act.
 
-## § 4. Adaptive Management Plan
-
-- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Administrator, in consultation with appropriate Federal and State agencies, shall develop and implement an adaptive management plan for restoration activities in the Chesapeake Bay watershed that includes—
-  - **(1)** a definition of specific and measurable objectives to improve water quality, habitat, and fisheries;
-  - **(2)** a process for stakeholder participation;
-  - **(3)** monitoring, modeling, experimentation, and other research and evaluation practices;
-  - **(4)** a process for modification of restoration activities that have not attained or will not attain the specific and measurable objectives set forth under paragraph (1); and
-  - **(5)** a process for prioritizing restoration activities and programs to which adaptive management shall be applied.
-- **(b)** *Updates* The Administrator shall update the adaptive management plan developed under subsection (a) once every 2 years.
-- **(c)** *Report to Congress*
-  - **(1)** *In general* Not later than 6 days after the end of each fiscal year, the Administrator shall submit to Congress a report on the implementation of the adaptive management plan required under this section for that fiscal year.
-  - **(2)** *Contents* The report required under paragraph (1) shall contain information about the application of adaptive management to restoration activities and programs, including programmatic and project level changes implemented through the process of adaptive management.
-  - **(3)** *Effective date* Paragraph (1) shall apply to the first fiscal year that begins after the date of enactment of this Act.
-- **(d)** *Inclusion of plan in Annual Action Plan and Annual Progress Report* The Administrator shall ensure that the annual Chesapeake Bay Action Plan and Annual Progress Report required by section 205 of Executive Order 13508 (33 U.S.C. 1267 note; relating to Chesapeake Bay protection and restoration) includes the adaptive management plan outlined in subsection (a).
-
-## § 5. Independent Evaluator for the Chesapeake Bay Program
+## § 4. Independent Evaluator for the Chesapeake Bay Program
 
 - **(a)** *In general* There shall be an Independent Evaluator for restoration activities in the Chesapeake Bay watershed, who shall review and report on—
-  - **(1)** restoration activities and the use of adaptive management in restoration activities; and
+  - **(1)** restoration activities; and
   - **(2)** any related topics that are suggested by the Chesapeake Executive Council.
 - **(b)** *Appointment*
-  - **(1)** *In general* The Independent Evaluator shall be appointed by the Administrator from among nominees submitted by the Chesapeake Executive Council.
-  - **(2)** *Nominations* The Chesapeake Executive Council may submit to the Administrator 4 nominees for appointment to any vacancy in the office of the Independent Evaluator.
-- **(c)** *Reports* Once every 2 years, the Independent Evaluator shall submit to Congress a report describing the review described in subsection (a).
+  - **(1)** *In general* Not later than 30 days after the date of submission of nominees by the Chesapeake Executive Council, the Independent Evaluator shall be appointed by the Administrator from among nominees submitted by the Chesapeake Executive Council with the consultation of the scientific community.
+  - **(2)** *Nominations* The Chesapeake Executive Council may nominate for consideration as Independent Evaluator a science-based institution of higher education.
+  - **(3)** *Requirements* The Administrator shall only select as Independent Evaluator a nominee that the Administrator determines demonstrates excellence in marine science, policy evaluation, or other studies relating to complex environmental restoration activities.
+- **(c)** *Reports* Not later than 180 days after the date of appointment and once every 2 years thereafter, the Independent Evaluator shall submit to Congress a report describing the findings and recommendations of reviews conducted under subsection (a).
+
+## § 5. Prohibition on new funding
+
+No additional funds are authorized to be appropriated to carry out this Act.
