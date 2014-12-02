@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5050
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5050
@@ -24,6 +24,10 @@ May 31, 1918 Act Repeal Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2014-12-02 — [House 113-2-535](votes/house-113-2-0535.md) — On Motion to Suspend the Rules and Pass — **Passed** (418–0)
+
 ## Actions
 
 - 2014-07-09 — Introduced in House
@@ -41,3 +45,7 @@ May 31, 1918 Act Repeal Act
 - 2014-12-01 — Placed on the Union Calendar, Calendar No. 471.
 - 2014-12-01 — Reported by the Committee on Natural Resources. H. Rept. 113-631.
 - 2014-12-01 — Reported by the Committee on Natural Resources. H. Rept. 113-631.
+- 2014-12-02 — Considered as unfinished business. (consideration: CR H8238-8239)
+- 2014-12-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 535). (text: CR 12/1/2014 H8186)
+- 2014-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 535).(text: CR 12/1/2014 H8186)
