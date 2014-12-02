@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4924
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4924
@@ -52,3 +52,10 @@ Bill Williams River Water Rights Settlement Act of 2014
 - 2014-12-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-638.
 - 2014-12-02 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6272)
 - 2014-12-02 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6272)
+- 2014-12-03 — Message on Senate action sent to the House.
+- 2014-12-08 — Presented to President.
+- 2014-12-08 — Presented to President.
+- 2014-12-16 — Became Public Law No: 113-223.
+- 2014-12-16 — Became Public Law No: 113-223.
+- 2014-12-16 — Signed by President.
+- 2014-12-16 — Signed by President.
