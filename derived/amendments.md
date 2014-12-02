@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5421
 congress: 113
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -56,4 +56,4 @@ complete account of the bill's effect, which it is not.
 | `28 U.S.C. § 298` | add-at-end | Chapter 11 of title 11, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `11 U.S.C. § 1183` | add-at-end | Chapter 13 of title 28, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 1334` | add-at-end | Section 1334 of title 28, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `11 U.S.C. § 1183` | add-at-end | The table of sections for chapter 13 of title 28, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `11 U.S.C. § 1183` | amend | The table of sections for chapter 13 of title 28, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

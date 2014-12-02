@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5421
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5421
@@ -21,9 +21,10 @@ Financial Institution Bankruptcy Act of 2014
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 - Rep. Conyers, John, Jr. [D-MI-13] (C000714)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Financial Institution Bankruptcy Act of 2014
 - 2014-12-01 — Placed on the Union Calendar, Calendar No. 470.
 - 2014-12-01 — Reported by the Committee on Judiciary. H. Rept. 113-630.
 - 2014-12-01 — Reported by the Committee on Judiciary. H. Rept. 113-630.
+- 2014-12-02 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
