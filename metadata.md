@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3572
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3572
@@ -20,6 +20,10 @@ To revise the boundaries of certain John H. Chafee Coastal Barrier Resources Sys
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2014-12-02 — [House 113-2-536](votes/house-113-2-0536.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (410–7)
+
 ## Actions
 
 - 2013-11-21 — Introduced in House
@@ -37,3 +41,7 @@ To revise the boundaries of certain John H. Chafee Coastal Barrier Resources Sys
 - 2014-12-01 — Placed on the Union Calendar, Calendar No. 473.
 - 2014-12-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-633.
 - 2014-12-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-633.
+- 2014-12-02 — Considered as unfinished business. (consideration: CR H8239)
+- 2014-12-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 7 (Roll no. 536). (text: CR 12/1/2014 H8190)
+- 2014-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 7 (Roll no. 536).(text: CR 12/1/2014 H8190)
