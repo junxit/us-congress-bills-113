@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5739
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5739
@@ -16,7 +16,7 @@ No Social Security for Nazis Act
 
 - Rep. Johnson, Sam [R-TX-3] (J000174)
 
-## Cosponsors (35)
+## Cosponsors (48)
 
 - Rep. Becerra, Xavier [D-CA-34] (B000287)
 - Rep. Camp, Dave [R-MI-4] (C000071)
@@ -53,10 +53,27 @@ No Social Security for Nazis Act
 - Rep. Lance, Leonard [R-NJ-7] (L000567)
 - Rep. Smith, Jason [R-MO-8] (S001195)
 - Rep. Speier, Jackie [D-CA-14] (S001175)
+- Rep. Waxman, Henry A. [D-CA-33] (W000215)
+- Rep. Israel, Steve [D-NY-3] (I000057)
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Rep. Serrano, Jose E. [D-NY-15] (S000248)
+- Rep. Meehan, Patrick [R-PA-7] (M001181)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Paulsen, Erik [R-MN-3] (P000594)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Frankel, Lois [D-FL-22] (F000462)
+- Rep. Young, Todd [R-IN-9] (Y000064)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
+
+## Recorded votes (1)
+
+- 2014-12-02 — [House 113-2-537](votes/house-113-2-0537.md) — On Motion to Suspend the Rules and Pass — **Passed** (420–0)
 
 ## Actions
 
@@ -64,3 +81,12 @@ No Social Security for Nazis Act
 - 2014-11-19 — Introduced in House
 - 2014-11-19 — Referred to the House Committee on Ways and Means.
 - 2014-11-19 — Sponsor introductory remarks on measure. (CR H8077)
+- 2014-12-02 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-12-02 — Considered as unfinished business. (consideration: CR H8260)
+- 2014-12-02 — Considered under suspension of the rules. (consideration: CR H8232-8237)
+- 2014-12-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5739.
+- 2014-12-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-02 — Mr. Johnson, Sam moved to suspend the rules and pass the bill.
+- 2014-12-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 537). (text: CR H8232)
+- 2014-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 537).(text: CR H8232)
+- 2014-12-02 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of motions to suspend the rules which had been debated earlier and on which further proceedings had been postponed.
