@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4924
 congress: 113
-version: Reported in House
+version: Received in Senate
 derived: true
 ---
 

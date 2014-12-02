@@ -2,7 +2,7 @@
 legis-num: H.R. 4924
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4924
@@ -81,7 +81,7 @@ In this Act:
 - **(19)** *Parcel 3* The term Parcel 3 means the parcel of land that—
   - **(A)** is depicted on the map attached to the Big Sandy River-Planet Ranch Agreement as exhibit 2.10;
   - **(B)** is held in trust for the Tribe; and
-  - **(C)** is part of the Hualapai Reservation pursuant to Executive Order 1368 of June 2, 1911.
+  - **(C)** is part of the Hualapai Reservation pursuant to Executive Order No. 1368 of June 2, 1911.
 - **(20)** *Party* The term party means an individual or entity that is a signatory to—
   - **(A)** the Big Sandy River-Planet Ranch Agreement; or
   - **(B)** the Hualapai Tribe Agreement.
@@ -139,8 +139,8 @@ In this Act:
     - **(A)** the date on which the Hualapai Tribe Water Rights Settlement Agreement becomes enforceable; and
     - **(B)** December 31, 2039.
   - **(4)** *Colorado river water rights counted against claims of Tribe*
-    - **(A)** *In general* If the Hualapai Tribe Water Rights Settlement Agreement does not become enforceable by December 31, 2039, any Colorado River water rights acquired by the Tribe with the contribution of the Corporation to the economic development fund of the Tribe shall be counted, on an acre-foot per acre-foot basis, toward the claims of the Tribe for rights to Colorado River water in any subsequent settlement or adjudication of those claims.
-    - **(B)** *Effect of paragraph* Nothing in this paragraph restricts any claim for rights of the Tribe to Colorado River water in any subsequent settlement or adjudication.
+    - **(A)** *In general* If the Hualapai Tribe Water Rights Settlement Agreement does not become enforceable by December 31, 2039, any Colorado River water rights acquired by the Tribe with the contribution of the Corporation to the economic development fund of the Tribe shall be counted, on an acre-foot per acre-foot basis, toward the claims of the Tribe for rights to Colorado River water.
+    - **(B)** *Effect of paragraph* Nothing in this paragraph restricts any claim for rights of the Tribe to Colorado River water.
 - **(e)** *Future limitations on land taken into trust* As provided in section 10.11 of the Hualapai Tribe Agreement, the parties to the Hualapai Tribe Agreement shall negotiate in good faith with other parties the terms under which any land within the State of Arizona held or acquired in fee by the Tribe may be taken into trust by the United States for the benefit of the Tribe, with any applicable terms to be incorporated into the Hualapai Tribe Water Rights Settlement Agreement, subject to approval by Congress.
 
 ## § 6. Waivers, releases, and retention of claims
