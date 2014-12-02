@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2455
 congress: 113
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 2455
@@ -46,3 +46,4 @@ Nevada Native Nations Land Act
 - 2014-12-01 — Placed on the Union Calendar, Calendar No. 472.
 - 2014-12-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-632.
 - 2014-12-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-632.
+- 2014-12-02 — Received in the Senate.
