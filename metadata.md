@@ -1,7 +1,7 @@
 ---
 measure: S. 2917
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2917
@@ -76,3 +76,5 @@ Adding Ebola to the FDA Priority Review Voucher Program Act
 - 2014-11-19 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin without amendment. Without written report.
 - 2014-11-19 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin without amendment. Without written report.
 - 2014-11-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 602.
+- 2014-12-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6271; text as passed Senate: CR S6271)
+- 2014-12-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6271; text as passed Senate: CR S6271)
