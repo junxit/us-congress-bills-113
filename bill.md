@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3240
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,7 +15,7 @@ This Act may be cited as the “Regulation D Study Act”.
 
 ## § 2. Government Accountability Office study
 
-- **(a)** *Study* The Comptroller General of the United States shall conduct a comprehensive study on the impact on depository institutions, consumers, and monetary policy of the requirement that depository institutions maintain reserves in accordance with subsections (b) and (c) of section 19 of the Federal Reserve Act (12 U.S.C. 461) and Regulation D (12 C.F.R. 204).
+- **(a)** *Study* The Comptroller General of the United States shall conduct a comprehensive study on the impact on depository institutions, consumers, and monetary policy of the requirement that depository institutions maintain reserves in accordance with subsections (b) and (c) of section 19 of the Federal Reserve Act (12 U.S.C. 461) and Regulation D (12 CFR 204).
 - **(b)** *Matters To be studied* In conducting the study under this section, the Comptroller General shall include the following:
   - **(1)** An historic review of how the Board of Governors of the Federal Reserve System has used reserve requirements to conduct United States monetary policy, including information on how and when the Board of Governors has changed the required reserve ratio.
   - **(2)** The impact of the maintenance of reserves on depository institutions, including the operational requirements and associated costs.
