@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3410
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3410
@@ -40,9 +40,10 @@ Critical Infrastructure Protection Act
 - Rep. Roe, David P. [R-TN-1] (R000582)
 - Rep. Culberson, John Abney [R-TX-7] (C001048)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Critical Infrastructure Protection Act
 - 2014-12-01 — Mr. Meehan moved to suspend the rules and pass the bill, as amended.
 - 2014-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8194)
 - 2014-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8194)
+- 2014-12-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
