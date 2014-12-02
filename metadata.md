@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3438
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3438
@@ -47,3 +47,4 @@ National Laboratories Mean National Security Act
 - 2014-12-01 — Mrs. Brooks (IN) moved to suspend the rules and pass the bill.
 - 2014-12-01 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 0 (Roll no. 533). (text: CR H8196-8197)
 - 2014-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 0 (Roll no. 533).(text: CR H8196-8197)
+- 2014-12-02 — Received in the Senate.
