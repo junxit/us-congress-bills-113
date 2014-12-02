@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2366
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -74,10 +74,9 @@ This Act may be cited as the “World War I American Veterans Centennial Commemo
 ## § 7. Surcharges
 
 - **(a)** *In General* All sales of coins issued under this Act shall include a surcharge of $10 per coin.
-- **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be paid by the Secretary to the World War I Centennial Commission, consistent with section 8.
-- **(c)** *Unused funds upon termination* If, upon the termination of the World War I Centennial Commission, there remains a balance of funds from surcharges received from the Secretary pursuant to this section, the Commission shall transfer such funds to the general fund of the Treasury.
-- **(d)** *Audits* The Comptroller General of the United States shall have the right to examine such books, records, documents, and other data of the World War I Commission as may be related to the expenditures of amounts paid under subsection (b).
-- **(e)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code. The Secretary may issue guidance to carry out this subsection.
+- **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be paid by the Secretary to the United States Foundation for the Commemoration of the World Wars, to assist the World War I Centennial Commission in commemorating the centenary of World War I.
+- **(c)** *Audits* The Comptroller General of the United States shall have the right to examine such books, records, documents, and other data of the United States Foundation for the Commemoration of the World Wars as may be related to the expenditures of amounts paid under subsection (b).
+- **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code. The Secretary may issue guidance to carry out this subsection.
 
 ## § 8. Financial assurances
 
