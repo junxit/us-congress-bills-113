@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4329
 congress: 113
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-35 amendatory instructions. 9 executed, 26 stated and not applied.
+38 amendatory instructions. 10 executed, 28 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -105,6 +105,15 @@ to guess them.
 | Removed | `50 years` |
 | Inserted | `99 years` |
 
+### 25 U.S.C. § 4243
+
+> Section 824 (25 U.S.C. 4243) is amended by striking “such sums as may be necessary” and all that follows through the period at the end and inserting “$13,000,000 for each of fiscal years 2015 through 2019.”.
+
+| | |
+|---|---|
+| Removed | `such sums as may be necessary` |
+| Inserted | `$13,000,000 for each of fiscal years 2015 through 2019.` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -140,3 +149,5 @@ complete account of the bill's effect, which it is not.
 | `25 U.S.C. § 4211` | insert | in subsection (c)(1), by inserting “, whether enacted before, on, or after the date of the enactment of this section” after “law”; and | the bill quotes the text inserted but describes where it goes |
 | — | strike | The table of contents in section 1(b) is amended by striking the item relating to section 206 (treatment of funds). | the bill names no machine-readable US Code section |
 | — | insert | The table of contents in section 1(b) is amended by inserting after the item relating to section 705 the following: | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (B), by inserting after the period at the end of the first sentence the following: “There are authorized to be appropriated for such costs $386,000 for each of fiscal years 2015 through 2019.”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking “for each of fiscal years” and all that follows through the period at the end and inserting “for each of fiscal years 2015 through 2019 with an aggregate outstanding principal amount not exceeding $41,504… | the bill names no machine-readable US Code section |

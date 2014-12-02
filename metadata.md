@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4329
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4329
@@ -35,3 +35,9 @@ Native American Housing Assistance and Self-Determination Reauthorization Act of
 - 2014-11-20 — Placed on the Union Calendar, Calendar No. 468.
 - 2014-11-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 113-628.
 - 2014-11-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 113-628.
+- 2014-12-02 — Considered under suspension of the rules. (consideration: CR H8246-8254)
+- 2014-12-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4329.
+- 2014-12-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-02 — Mr. Pearce moved to suspend the rules and pass the bill, as amended.
+- 2014-12-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8246-8250)
+- 2014-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8246-8250)
