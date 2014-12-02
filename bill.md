@@ -1,0 +1,23 @@
+---
+legis-num: H. RES. 769
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 769
+
+> Expressing the sense of the House of Representatives that the healthcare, energy, telecommunications, and other sectors of the United States economy should continue their sector-specific efforts to protect critical infrastructure, to prevent information security breaches, and to prevent cybersecurity breaches.
+
+## Preamble
+
+- Whereas the United States economy is diverse, and has many different sectors;
+- Whereas each sector faces different challenges related to critical infrastructure, information security, and cybersecurity; and
+- Whereas the healthcare, energy, telecommunications, and other industry sectors are taking sector-specific steps to protect critical infrastructure, to prevent information security breaches, and to prevent cybersecurity breaches: Now, therefore, be it
+
+That it is the sense of the House of Representatives that—
+
+- **(1)** the healthcare sector should continue its sector-specific efforts to protect critical infrastructure, to prevent information security breaches, and to prevent cybersecurity breaches (other than for research and development purposes);
+- **(2)** the energy sector should continue its sector-specific efforts to protect critical infrastructure, to prevent information security breaches, and to prevent cybersecurity breaches (other than for research and development purposes);
+- **(3)** the telecommunications sector should continue its sector-specific efforts to protect critical infrastructure, to prevent information security breaches, and to prevent cybersecurity breaches (other than for research and development purposes); and
+- **(4)** other industry sectors should continue their sector-specific efforts to protect critical infrastructure, to prevent information security breaches, and to prevent cybersecurity breaches (other than for research and development purposes).
