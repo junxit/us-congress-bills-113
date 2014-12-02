@@ -1,7 +1,7 @@
 ---
 measure: S. 1000
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1000
@@ -27,6 +27,10 @@ Chesapeake Bay Accountability and Recovery Act of 2014
 
 - Senate — Environment and Public Works Committee
 
+## Recorded votes (1)
+
+- 2014-12-10 — [House 113-2-555](votes/house-113-2-0555.md) — On Motion to Suspend the Rules and Pass — **Passed** (416–0)
+
 ## Actions
 
 - 2013-05-21 — Introduced in Senate
@@ -44,3 +48,17 @@ Chesapeake Bay Accountability and Recovery Act of 2014
 - 2014-12-02 — Senate amendment agreed to: Amendment SA 3965 agreed to in Senate by Unanimous Consent.
 - 2014-12-02 — Senate amendment proposed (on the floor): Amendment SA 3965 proposed by Senator Warner.(consideration: CR S6247-6248; text: CR S6247-6248)
 - 2014-12-02 — Senate amendment submitted
+- 2014-12-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2014-12-09 — Considered under suspension of the rules. (consideration: CR H8878-8880)
+- 2014-12-09 — DEBATE - The House proceeded with forty minutes of debate on S. 1000.
+- 2014-12-09 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
+- 2014-12-10 — Considered as unfinished business. (consideration: CR H8967-8968)
+- 2014-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 555). (text: CR 12/9/2014 H8878)
+- 2014-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 555).(text: CR 12/9/2014 H8878)
+- 2014-12-12 — Presented to President.
+- 2014-12-12 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-273.
+- 2014-12-18 — Became Public Law No: 113-273.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
