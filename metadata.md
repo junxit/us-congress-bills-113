@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4569
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4569
@@ -21,9 +21,10 @@ Disclosure Modernization and Simplification Act of 2014
 - Rep. Hurt, Robert [R-VA-5] (H001060)
 - Rep. Hultgren, Randy [R-IL-14] (H001059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Disclosure Modernization and Simplification Act of 2014
 - 2014-12-02 — Placed on the Union Calendar, Calendar No. 482.
 - 2014-12-02 — Reported (Amended) by the Committee on Financial Services. H. Rept. 113-642.
 - 2014-12-02 — Reported (Amended) by the Committee on Financial Services. H. Rept. 113-642.
+- 2014-12-03 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
