@@ -26,6 +26,5 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 That the Senate—
 
-- **(1)** honors the life, accomplishments, and legacy of Louis Zamperini;
-- **(2)** extends heartfelt sympathies and condolences to the family of Louis Zamperini; and
-- **(3)** requests the President to identify an appropriate and lasting program of the United States Government to honor the legacy of Louis Zamperini.
+- **(1)** honors the life, accomplishments, and legacy of Louis Zamperini; and
+- **(2)** extends heartfelt sympathies and condolences to the family of Louis Zamperini.
