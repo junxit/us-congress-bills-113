@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5050
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5050
@@ -50,3 +50,12 @@ May 31, 1918 Act Repeal Act
 - 2014-12-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 535). (text: CR 12/1/2014 H8186)
 - 2014-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 535).(text: CR 12/1/2014 H8186)
 - 2014-12-03 — Received in the Senate, read twice.
+- 2014-12-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6840)
+- 2014-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6840)
+- 2014-12-16 — Message on Senate action sent to the House.
+- 2014-12-17 — Presented to President.
+- 2014-12-17 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-262.
+- 2014-12-18 — Became Public Law No: 113-262.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
