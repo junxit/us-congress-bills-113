@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5050
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5050
@@ -49,3 +49,4 @@ May 31, 1918 Act Repeal Act
 - 2014-12-02 — Motion to reconsider laid on the table Agreed to without objection.
 - 2014-12-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 535). (text: CR 12/1/2014 H8186)
 - 2014-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 535).(text: CR 12/1/2014 H8186)
+- 2014-12-03 — Received in the Senate, read twice.
