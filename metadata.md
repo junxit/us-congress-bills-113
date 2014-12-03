@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 540
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 540
@@ -16,11 +16,12 @@ A resolution recognizing September 15, 2014, as the International Day of Democra
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. McCain, John [R-AZ] (M000303)
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (1)
 
@@ -35,3 +36,5 @@ A resolution recognizing September 15, 2014, as the International Day of Democra
 - 2014-09-18 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
 - 2014-09-18 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
 - 2014-09-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 576.
+- 2014-12-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S6306-6307; text as passed Senate: CR S6306-6307)
+- 2014-12-03 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6306-6307; text as passed Senate: CR S6306-6307)
