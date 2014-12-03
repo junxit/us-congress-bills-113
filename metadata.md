@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3572
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3572
@@ -45,3 +45,4 @@ To revise the boundaries of certain John H. Chafee Coastal Barrier Resources Sys
 - 2014-12-02 — Motion to reconsider laid on the table Agreed to without objection.
 - 2014-12-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 7 (Roll no. 536). (text: CR 12/1/2014 H8190)
 - 2014-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 7 (Roll no. 536).(text: CR 12/1/2014 H8190)
+- 2014-12-03 — Received in the Senate, read twice.
