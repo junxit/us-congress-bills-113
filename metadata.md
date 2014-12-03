@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4200
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4200
@@ -28,9 +28,10 @@ SBIC Advisers Relief Act of 2014
 - Rep. Foster, Bill [D-IL-11] (F000454)
 - Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ SBIC Advisers Relief Act of 2014
 - 2014-12-02 — Placed on the Union Calendar, Calendar No. 481.
 - 2014-12-02 — Reported by the Committee on Financial Services. H. Rept. 113-641.
 - 2014-12-02 — Reported by the Committee on Financial Services. H. Rept. 113-641.
+- 2014-12-03 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
