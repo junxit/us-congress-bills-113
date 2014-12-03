@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3240
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3240
@@ -53,9 +53,10 @@ Regulation D Study Act
 - Rep. Loebsack, David [D-IA-2] (L000565)
 - Rep. Joyce, David P. [R-OH-14] (J000295)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -80,3 +81,4 @@ Regulation D Study Act
 - 2014-12-02 — Placed on the Union Calendar, Calendar No. 480.
 - 2014-12-02 — Reported by the Committee on Financial Services. H. Rept. 113-640.
 - 2014-12-02 — Reported by the Committee on Financial Services. H. Rept. 113-640.
+- 2014-12-03 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
