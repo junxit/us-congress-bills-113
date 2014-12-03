@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5714
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5714
@@ -20,9 +20,10 @@ Pest Management Records Modernization Act
 
 - Rep. Thompson, Glenn [R-PA-5] (T000467)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Pest Management Records Modernization Act
 - 2014-12-02 — Mr. Thompson (PA) moved to suspend the rules and pass the bill.
 - 2014-12-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8231)
 - 2014-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8231)
+- 2014-12-03 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
