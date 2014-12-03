@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4329
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-38 amendatory instructions. 10 executed, 28 stated and not applied.
+38 amendatory instructions. 8 executed, 30 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -78,24 +78,6 @@ to guess them.
 | Removed | `Congress` |
 | Inserted | `Committee on Financial Services and the Committee on Natural Resources of the House of Representatives, to the Committee on Indian Affairs and the Committee on Banking, Housing, and Urban Affairs of the Senate, and to any subcommittees of such committees having jurisdiction with respect to Native American and Alaska Native affairs,` |
 
-### 25 U.S.C. § 4043
-
-> in subsection (a), by striking “Subject to sums being provided in advance in appropriations Acts, there” and inserting “There”; and
-
-| | |
-|---|---|
-| Removed | `Subject to sums being provided in advance in appropriations Acts, there` |
-| Inserted | `There` |
-
-### 25 U.S.C. § 4043
-
-> in subsection (b)(1) by striking “this Act” and inserting “the Native American Housing Assistance and Self-Determination Reauthorization Act of 2014”.
-
-| | |
-|---|---|
-| Removed | `this Act` |
-| Inserted | `the Native American Housing Assistance and Self-Determination Reauthorization Act of 2014` |
-
 ### 25 U.S.C. § 4211
 
 > by striking “50 years” each place such term appears and inserting “99 years”.
@@ -145,6 +127,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subparagraph (B), by inserting after the period at the end of the first sentence the following: “There are authorized to be appropriated for such costs $12,200,000 for each of fiscal years 2014 through 2018.”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “2008 through 2012” and inserting “2014 through 2018”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “such amount as may be provided in appropriation Acts for” and inserting “$976,000,000 for each”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “Subject to sums being provided in advance in appropriations Acts, there” and inserting “There”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(1) by striking “this Act” and inserting “the Native American Housing Assistance and Self-Determination Reauthorization Act of 2014”. | the bill names no machine-readable US Code section |
 | — | replace | Section 801 of the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008 (Public Law 110–411) is amended by striking “Temporary Order and Temporary Injunction issued on May 14, 2007, by the District Court … | the bill names no machine-readable US Code section |
 | `25 U.S.C. § 4211` | insert | in subsection (c)(1), by inserting “, whether enacted before, on, or after the date of the enactment of this section” after “law”; and | the bill quotes the text inserted but describes where it goes |
 | — | strike | The table of contents in section 1(b) is amended by striking the item relating to section 206 (treatment of funds). | the bill names no machine-readable US Code section |

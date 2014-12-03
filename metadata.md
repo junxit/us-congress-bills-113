@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4329
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4329
@@ -21,9 +21,10 @@ Native American Housing Assistance and Self-Determination Reauthorization Act of
 - Rep. Cole, Tom [R-OK-4] (C001053)
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Native American Housing Assistance and Self-Determination Reauthorization Act of
 - 2014-12-02 — Mr. Pearce moved to suspend the rules and pass the bill, as amended.
 - 2014-12-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8246-8250)
 - 2014-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8246-8250)
+- 2014-12-03 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
