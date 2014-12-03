@@ -1,7 +1,7 @@
 ---
 measure: S. 229
 congress: 113
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 229
@@ -28,3 +28,8 @@ Corporal Michael J. Crescenz Act of 2013
 
 - 2013-02-07 — Introduced in Senate
 - 2013-02-07 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2013-05-09 — Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-203.
+- 2014-12-03 — Passed Senate without amendment by Unanimous Consent. (text: CR S6305)
+- 2014-12-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6305)
+- 2014-12-03 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S6305)
+- 2014-12-03 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S6305)
