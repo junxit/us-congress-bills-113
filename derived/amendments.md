@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5629
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -105,7 +105,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `6 U.S.C. § 591` | add-at-end | Title XIX of the Homeland Security Act of 2002 (6 U.S.C. 591 et seq.) is amended by adding at the end the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 591` | amend | Title XIX of the Homeland Security Act of 2002 (6 U.S.C. 591 et seq.) is amended by adding at the end the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 591` | replace | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by striking the item relating to section 1907 and inserting the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 596` | strike | in section 1906 (6 U.S.C. 596), in the matter preceding paragraph (1), by striking “paragraphs (6) and (7) of”; and | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 596a` | insert | in paragraph (1), in the matter preceding subparagraph (A), by inserting “odd-numbered” before “year”; and | the bill quotes the text inserted but describes where it goes |

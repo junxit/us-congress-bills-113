@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5629
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5629
@@ -20,9 +20,10 @@ Strengthening Domestic Nuclear Security Act of 2014
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ Strengthening Domestic Nuclear Security Act of 2014
 - 2014-12-01 — Mr. Meehan moved to suspend the rules and pass the bill, as amended.
 - 2014-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 11 (Roll no. 532). (text: CR H8192)
 - 2014-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 11 (Roll no. 532).(text: CR H8192)
+- 2014-12-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
