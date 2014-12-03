@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4971
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4971
@@ -16,7 +16,7 @@ Ask Veterans Act
 
 - Rep. O'Rourke, Beto [D-TX-16] (O000170)
 
-## Cosponsors (11)
+## Cosponsors (32)
 
 - Rep. Flores, Bill [R-TX-17] (F000461)
 - Rep. Gabbard, Tulsi [D-HI-2] (G000571)
@@ -29,6 +29,27 @@ Ask Veterans Act
 - Rep. Hanabusa, Colleen W. [D-HI-1] (H001050)
 - Rep. Hahn, Janice [D-CA-44] (H001063)
 - Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Hurt, Robert [R-VA-5] (H001060)
+- Rep. Negrete McLeod, Gloria [D-CA-35] (N000187)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Barber, Ron [D-AZ-2] (B001279)
+- Rep. Kirkpatrick, Ann [D-AZ-1] (K000368)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Garcia, Joe [D-FL-26] (G000573)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Cook, Paul [R-CA-8] (C001094)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
+- Rep. Huffman, Jared [D-CA-2] (H001068)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
 
 ## Committees (1)
 
@@ -40,3 +61,11 @@ Ask Veterans Act
 - 2014-06-25 — Introduced in House
 - 2014-06-25 — Referred to the House Committee on Veterans' Affairs.
 - 2014-06-25 — Sponsor introductory remarks on measure. (CR H5735)
+- 2014-07-18 — Referred to the Subcommittee on Economic Opportunity.
+- 2014-07-23 — Referred to the Subcommittee on Health.
+- 2014-07-23 — Subcommittee on Economic Opportunity Discharged.
+- 2014-09-10 — Committee Consideration and Mark-up Session Held.
+- 2014-09-10 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2014-12-03 — Placed on the Union Calendar, Calendar No. 484.
+- 2014-12-03 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-645.
+- 2014-12-03 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-645.
