@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5739
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5739
@@ -90,3 +90,4 @@ No Social Security for Nazis Act
 - 2014-12-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 537). (text: CR H8232)
 - 2014-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 537).(text: CR H8232)
 - 2014-12-02 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of motions to suspend the rules which had been debated earlier and on which further proceedings had been postponed.
+- 2014-12-03 — Received in the Senate, read twice.
