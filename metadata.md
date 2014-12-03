@@ -1,0 +1,44 @@
+---
+measure: H.R. 5783
+congress: 113
+version: Introduced in House
+---
+
+# H.R. 5783
+
+CSA OPPORTUNITY Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Cartwright, Matt [D-PA-17] (C001090)
+
+## Cosponsors (8)
+
+- Rep. Ribble, Reid J. [R-WI-8] (R000587)
+- Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Schwartz, Allyson Y. [D-PA-13] (S001162)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Tsongas, Niki [D-MA-3] (T000465)
+- Rep. Hastings, Alcee L. [D-FL-20] (H000324)
+
+## Committees (4)
+
+- House — Energy and Commerce Committee
+- House — Education and the Workforce Committee
+- House — Agriculture Committee
+- House — Ways and Means Committee
+
+## Actions
+
+- 2014-12-03 — Introduced in House
+- 2014-12-03 — Introduced in House
+- 2014-12-03 — Referred to the Committee on Ways and Means, and in addition to the Committees on Agriculture, Energy and Commerce, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-12-03 — Referred to the Committee on Ways and Means, and in addition to the Committees on Agriculture, Energy and Commerce, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-12-03 — Referred to the Committee on Ways and Means, and in addition to the Committees on Agriculture, Energy and Commerce, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-12-03 — Referred to the Committee on Ways and Means, and in addition to the Committees on Agriculture, Energy and Commerce, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
