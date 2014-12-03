@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5471
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5471
@@ -22,10 +22,11 @@ To amend the Commodity Exchange Act and the Securities Exchange Act of 1934 to s
 - Rep. Gibson, Christopher P. [R-NY-19] (G000564)
 - Rep. Fudge, Marcia L. [D-OH-11] (F000455)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To amend the Commodity Exchange Act and the Securities Exchange Act of 1934 to s
 - 2014-12-02 — Mr. Luetkemeyer moved to suspend the rules and pass the bill.
 - 2014-12-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8240)
 - 2014-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8240)
+- 2014-12-03 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
