@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2366
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2366
@@ -342,3 +342,4 @@ World War I American Veterans Centennial Commemorative Coin Act
 - 2014-12-02 — Mr. Pearce moved to suspend the rules and pass the bill, as amended.
 - 2014-12-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 3 (Roll no. 539). (text: CR H8255-8256)
 - 2014-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 3 (Roll no. 539).(text: CR H8255-8256)
+- 2014-12-03 — Received in the Senate, read twice.
