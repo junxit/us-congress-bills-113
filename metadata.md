@@ -1,7 +1,7 @@
 ---
 measure: S. 1237
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1237
@@ -42,3 +42,12 @@ Omnibus Territories Act of 2013
 - 2014-06-18 — Senate amendment proposed (on the floor): Amendment SA 3288 proposed by Senator Reid for Senator Murkowski.(consideration: CR S3822; text: CR S3822)
 - 2014-06-18 — Senate amendment submitted
 - 2014-06-18 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2014-06-19 — Held at the desk.
+- 2014-06-19 — Message on Senate action sent to the House.
+- 2014-06-19 — Received in the House.
+- 2014-12-03 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, Education and the Workforce, Financial Services, Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-12-03 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, Education and the Workforce, Financial Services, Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-12-03 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, Education and the Workforce, Financial Services, Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-12-03 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, Education and the Workforce, Financial Services, Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-12-03 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, Education and the Workforce, Financial Services, Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-12-03 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, Education and the Workforce, Financial Services, Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
