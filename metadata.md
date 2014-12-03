@@ -1,7 +1,7 @@
 ---
 measure: S. 2523
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2523
@@ -28,3 +28,5 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2014-11-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.
 - 2014-11-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.
 - 2014-11-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 584.
+- 2014-12-03 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6305-6306; text as passed Senate: CR S6306)
+- 2014-12-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6305-6306; text as passed Senate: CR S6306)
