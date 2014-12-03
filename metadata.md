@@ -1,7 +1,7 @@
 ---
 measure: S. 2759
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2759
@@ -32,3 +32,5 @@ A bill to release the City of St. Clair, Missouri, from all restrictions, condit
 - 2014-12-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. With written report No. 113-282.
 - 2014-12-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. With written report No. 113-282.
 - 2014-12-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 609.
+- 2014-12-03 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6304-6305; text as passed Senate: CR S6305)
+- 2014-12-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6304-6305; text as passed Senate: CR S6305)
