@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 107
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.Con.Res. 107
@@ -121,9 +121,10 @@ A concurrent resolution denouncing the use of civilians as human shields by Hama
 - Rep. Terry, Lee [R-NE-2] (T000459)
 - Rep. Langevin, James R. [D-RI-2] (L000559)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -140,3 +141,7 @@ A concurrent resolution denouncing the use of civilians as human shields by Hama
 - 2014-07-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H7074-7075)
 - 2014-07-30 — Received in the Senate.
 - 2014-11-18 — Referred to the Committee on Foreign Relations.
+- 2014-12-04 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-12-04 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2014-12-04 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2014-12-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 616.

@@ -27,6 +27,19 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the United States has provided $235,000,000 in fiscal year 2014 for Iron Dome research, development, and production;
 - Whereas, during the most recent rocket attacks from Gaza, Iron Dome has successfully intercepted dozens of rockets that were launched against Israeli population centers; and
 - Whereas 5 million Israelis are currently living under the threat of rocket attacks from Gaza: Now, therefore, be it
+- Whereas the use of human shields is unconscionable and morally unacceptable;
+- Whereas since June 15, 2014, there have been over 2,000 rockets fired by Hamas and other terrorist organizations from Gaza into Israel;
+- Whereas Hamas uses civilian populations as human shields by placing their missile batteries in densely populated areas and near schools, hospitals, and mosques;
+- Whereas Israel dropped leaflets, made announcements, placed phone calls, and sent text messages to the Palestinian people in Gaza warning them in advance that an attack was imminent, and went to extraordinary lengths to target only terrorist actors and to minimize collateral damage;
+- Whereas Hamas urged the residents of Gaza to ignore the Israeli warnings and to remain in their houses and encouraged Palestinians to gather on the roofs of their homes to act as human shields;
+- Whereas on July 23, 2014, the 46-Member UN Human Rights Council passed a resolution to form a commission of inquiry over Israel’s operations in Gaza that completely fails to condemn Hamas for its indiscriminate rocket attacks and its unconscionable use of human shields, with the United States being the lone dissenting vote;
+- Whereas public reports have cited the role of Iran and Syria in providing material support and training to Hamas and other terrorist groups carrying out rocket and mortar attacks from Gaza;
+- Whereas throughout the summer of 2006 conflict between the State of Israel and the terrorist organization Hezbollah, Hezbollah forces utilized innocent civilians as human shields;
+- Whereas al Qaeda, Al-Shabaab, Islamic State of Iraq and the Levant (ISIL), and other foreign terrorist organizations typically use innocent civilians as human shields;
+- Whereas the United States and Israel have cooperated on missile defense projects, including Iron Dome, David's Sling, and the Arrow Anti-Missile System, projects designed to thwart a diverse range of threats, including short-range missiles and rockets fired by non-state actors, such as Hamas;
+- Whereas the United States provided $460,000,000 in fiscal year 2014 for Iron Dome research, development, and production;
+- Whereas, during the most recent rocket attacks from Gaza, Iron Dome successfully intercepted dozens of rockets that were launched against Israeli population centers; and
+- Whereas 5,000,000 Israelis are currently living under the threat of rocket attacks from Gaza: Now, therefore, be it
 
 That Congress—
 
