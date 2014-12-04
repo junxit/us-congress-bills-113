@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 586
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 586
@@ -36,3 +36,7 @@ A resolution calling on the Government of Burma to develop a non-discriminatory 
 
 - 2014-11-20 — Introduced in Senate
 - 2014-11-20 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S6209-6210)
+- 2014-12-04 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-12-04 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2014-12-04 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2014-12-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 615.
