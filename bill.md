@@ -1,0 +1,18 @@
+---
+legis-num: S. 2984
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2984
+
+> To modify the definition of cotton futures contracts in the United States Cotton Futures Act.
+
+## § 1. Cotton futures contracts
+
+Section 1952(c) of the United States Cotton Futures Act (7 U.S.C. 15B(c)) is amended by striking paragraph (1) and inserting the following:
+
+> - **(1)** *Cotton futures contract* The term cotton futures contract means any contract of sale of cotton for future delivery made at, on, or in any exchange, board of trade, or similar institution or place of business which has been designated a “contract market” by the Commodity Futures Trading Commission pursuant to the Commodity Exchange Act (7 U.S.C. 1 et seq.) and the term contract of sale as so used shall be held to include sales, agreements of sale, and agreements to sell, except that—
+>   - **(A)** any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section; and
+>   - **(B)** any cotton futures contract that permits tender of cotton grown outside of the United States is excluded from the coverage of this paragraph and section to the extent that the cotton grown outside of the United States is tendered for delivery under the cotton futures contract.
