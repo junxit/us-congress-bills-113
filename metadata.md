@@ -1,7 +1,7 @@
 ---
 measure: S. 2963
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2963
@@ -16,7 +16,7 @@ A bill to remove a limitation on a prohibition relating to permits for discharge
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Cosponsors (11)
+## Cosponsors (14)
 
 - Sen. Begich, Mark [D-AK] (B001265)
 - Sen. Nelson, Bill [D-FL] (N000032)
@@ -29,6 +29,9 @@ A bill to remove a limitation on a prohibition relating to permits for discharge
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 - Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Wyden, Ron [D-OR] (W000779)
 
 ## Committees (1)
 
@@ -38,3 +41,7 @@ A bill to remove a limitation on a prohibition relating to permits for discharge
 
 - 2014-11-20 — Introduced in Senate
 - 2014-11-20 — Read twice and referred to the Committee on Environment and Public Works.
+- 2014-12-02 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2014-12-04 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 113-284.
+- 2014-12-04 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 113-284.
+- 2014-12-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 613.
