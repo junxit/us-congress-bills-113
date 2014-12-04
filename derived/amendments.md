@@ -1,7 +1,7 @@
 ---
 measure: S. 1447
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 7 executed, 7 stated and not applied.
+9 amendatory instructions. 7 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -96,10 +96,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 505(f)(1) of the Taos Pueblo Indian Water Rights Settlement Act (Public Law 111–291; 124 Stat. 3125) is amended by inserting “, including reconstruction, replacement, rehabilitation, or repair,” after “construction”. | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A)(i), by striking “section 617(c)(1)” and inserting “section 617(c)(1)(A)”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “section 617(c)(1)” and inserting “section 617(c)(1)(B)”. | the bill names no machine-readable US Code section |
-| — | strike | in subsection (a)(1)(A), by striking “for the period of fiscal years 2011 through 2016,”; and | the bill names no machine-readable US Code section |
-| — | strike | in subsection (c)(1)(A), by striking “for the period of fiscal years 2011 through 2015”. | the bill names no machine-readable US Code section |
 | `43 U.S.C. § 407` | insert | Section 10604(f)(1) of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1391) is amended by inserting “Project” before “water”. | the bill quotes the text inserted but describes where it goes |
 | `43 U.S.C. § 407` | strike | Section 10701(e) of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1400) is amended in paragraphs (2)(A), (2)(B), and (3)(A) by striking “and Contract” each place it appears. | the bill quotes the text struck but describes what replaces it |

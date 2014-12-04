@@ -7,29 +7,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 1447
 
-> To make technical corrections to certain Native American water rights settlements in the State of New Mexico, and for other purposes.
+> To make technical corrections to the Navajo water rights settlement in the State of New Mexico, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “New Mexico Native American Water Settlements Technical Corrections Act”.
-
-## § 2. Taos Pueblo Indian water rights
-
-- **(a)** *Taos Pueblo Water Development Fund* Section 505(f)(1) of the Taos Pueblo Indian Water Rights Settlement Act (Public Law 111–291; 124 Stat. 3125) is amended by inserting “, including reconstruction, replacement, rehabilitation, or repair,” after “construction”.
-- **(b)** *Authorizations, ratifications, confirmations, and conditions precedent* Section 509(c) of the Taos Pueblo Indian Water Rights Settlement Act (Public Law 111–291; 124 Stat. 3128) is amended—
-  - **(1)** in paragraph (1)(A), strike “, for the period of fiscal years 2011 through 2016,”; and
-  - **(2)** in paragraph (2)(A)(i), strike “for the period of fiscal years 2011 through 2016”.
-
-## § 3. Aamodt litigation settlement
-
-- **(a)** *Aamodt settlement pueblos' fund* Section 615(c)(7) of the Aamodt Litigation Settlement Act (Public Law 111–291; 124 Stat. 3146) is amended—
-  - **(1)** in subparagraph (A)(i), by striking “section 617(c)(1)” and inserting “section 617(c)(1)(A)”; and
-  - **(2)** in subparagraph (B), by striking “section 617(c)(1)” and inserting “section 617(c)(1)(B)”.
-- **(b)** *Funding* Section 617 of the Aamodt Litigation Settlement Act (Public Law 111–291; 124 Stat. 3146) is amended—
-  - **(1)** in subsection (a)(1)(A), by striking “for the period of fiscal years 2011 through 2016,”; and
-  - **(2)** in subsection (c)(1)(A), by striking “for the period of fiscal years 2011 through 2015”.
-
-## § 4. Navajo water settlement
+This Act may be cited as the “New Mexico Navajo Water Settlement Technical Corrections Act”.
 
 ## § 2. Navajo water settlement
 
