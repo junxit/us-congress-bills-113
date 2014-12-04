@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3979
 congress: 113
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 3979
@@ -129,13 +129,14 @@ Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fi
 
 - House — Ways and Means Committee
 
-## Recorded votes (5)
+## Recorded votes (6)
 
 - 2014-03-11 — [House 113-2-116](votes/house-113-2-0116.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (410–0)
 - 2014-03-27 — [Senate 113-2-90](votes/senate-113-2-0090.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (65–34)
 - 2014-04-02 — [Senate 113-2-98](votes/senate-113-2-0098.md) — On the Motion to Table — **Motion to Table Agreed to** (67–29)
 - 2014-04-03 — [Senate 113-2-100](votes/senate-113-2-0100.md) — On the Cloture Motion — **Cloture Motion Agreed to** (61–35)
 - 2014-04-07 — [Senate 113-2-101](votes/senate-113-2-0101.md) — On Passage of the Bill — **Bill Passed** (59–38)
+- 2014-12-04 — [House 113-2-551](votes/house-113-2-0551.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Passed** (300–119)
 
 ## Actions
 
@@ -176,3 +177,12 @@ Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fi
 - 2014-04-07 — Considered by Senate. (consideration: CR S2175-2178)
 - 2014-04-07 — Passed Senate with an amendment by Yea-Nay Vote. 59 - 38. Record Vote Number: 101. (text: CR S2176-2178)
 - 2014-04-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 59 - 38. Record Vote Number: 101.(text: CR S2176-2178)
+- 2014-04-08 — Message on Senate action sent to the House.
+- 2014-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-04 — Mr. McKeon moved that the House concur with an amendment in the Senate amendment. (consideration: CR H8385-8632, H8651-8652; text of Senate amendment: CR H8385-8387)
+- 2014-12-04 — ORDER OF PROCEDURE - Mr. McKeon asked unanimous consent that the question of adopting a motion to concur in the Senate amendment to H.R. 3979 with an amendment may be subject to postponement as though under clause 8 of rule 20. Agreed to without objection.
+- 2014-12-04 — On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 300 - 119 (Roll no. 551). (text as House agreed to Senate amendment with an amendment: CR H8388-8621)
+- 2014-12-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 3979, the Chair put the question on adoption of the motion to concur in the Senate amendment to H.R. 3979 with an amendment and by voice vote, announced that the ayes had prevailed. Mr. McKeon demanded the yeas and nays and pursuant to a previous special order, further proceedings on the question of adoption of the motion were postponed until later in the legislative day.
+- 2014-12-04 — Pursuant to H.Res. 770, the House proceeded with one hour of debate on motion to concur in the Senate amendment to H.R. 3979 with an amendment consisting of the text of Rules Committee Print 113-58 modified by the amendments printed in part A of House Report 113-646 and the amendment specified in section 5 of House Resolution 770.
+- 2014-12-04 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 300 - 119 (Roll no. 551).(text as House agreed to Senate amendment with an amendment: CR H8388-8621)
+- 2014-12-04 — The previous question was ordered pursuant to the rule. (consideration: CR H8632)

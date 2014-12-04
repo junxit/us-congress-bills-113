@@ -2,155 +2,51 @@
 legis-num: H.R. 3979
 congress: 113th CONGRESS
 session: 2d Session
-chamber: In the Senate of the United States,
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H.R. 3979
 
-That the bill from the House of Representatives (H.R. 3979) entitled “An Act to amend the Internal Revenue Code of 1986 to ensure that emergency services volunteers are not taken into account as employees under the shared responsibility requirements contained in the Patient Protection and Affordable Care Act.”, do pass with the following
+That the House agree to the amendment of the Senate to the bill (H.R. 3979) entitled “An Act to amend the Internal Revenue Code of 1986 to ensure that emergency services volunteers are not taken into account as employees under the shared responsibility requirements contained in the Patient Protection and Affordable Care Act.”, with the following
 
-## § 1. Short title; table of contents
+*In lieu of the matter proposed to be inserted by the amendment of the Senate to the text of the bill, insert the following:*
 
-- **(a)** *Short title* This Act may be cited as the “Emergency Unemployment Compensation Extension Act of 2014”.
-- **(b)** *Table of contents* The table of contents of this Act is as follows:
+## § 1. Short title
 
-## § 2. Extension of emergency unemployment compensation program
+- **(a)** *Short title* This Act may be cited as the “Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015”.
+- **(b)** *Findings* Congress makes the following findings:
+  - **(1)**
+    - **(A)** Senator Carl Levin of Michigan was elected a member of the United States Senate on November 7, 1978, for a full term beginning January 3, 1979. He has served continuously in the Senate since that date, and was appointed as a member of the Committee on Armed Services in January 1979. He has served on the Committee on Armed Services since that date, a period of nearly 36 years.
+    - **(B)** A graduate of Detroit Central High School, Senator Levin went on to Swarthmore College, and graduated from Harvard Law School in 1959, gaining admittance to the Michigan bar. He served his State as assistant attorney general and general counsel of the Michigan Civil Rights Commission from 1964–1967, and later served his hometown of Detroit as a member of the Detroit City Council from 1969–1973, and as the council’s president from 1974–1977.
+    - **(C)** Senator Levin first served as chairman of the Committee on Armed Services of the United States Senate for a period of the 107th Congress, and has remained chairman since the 110th Congress began in 2007. He has exercised extraordinary leadership as either the chairman or ranking minority member of the committee since the start of the 105th Congress in 1997.
+    - **(D)** Each year, for the past 52 years, the Committee on Armed Services has reliably passed an annual defense authorization act, and this will be the 36th that Senator Levin has had a role in. In his capacity as member, ranking member, and chairman, he has been an advocate for a strong national defense, and has made lasting contributions to the security of our Nation.
+    - **(E)** It is altogether fitting and proper that this Act, the last annual authorization act for the national defense that Senator Levin manages in and for the United States Senate as chairman of the Committee on Armed Services, be named in his honor, as provided in subsection (a).
+  - **(2)**
+    - **(A)** Representative Howard P. “Buck” McKeon was elected to the House of Representatives in 1992 to represent California’s 25th Congressional District.
+    - **(B)** Chairman McKeon was born in Los Angeles and grew up in Tujunga CA. He served a two and a half year mission for the Church of Jesus Christ of Latter-Day Saints and attended Brigham Young University. Prior to his election to Congress, he was a small business owner, and served both on the William S. Hart Union High School District Board of Trustees and as the first mayor of the City of Santa Clarita.
+    - **(C)** In the 111th Congress, Chairman McKeon was selected by his peers as the Ranking Member of the House Armed Services Committee and has served as Chairman since in the 112th and 113th Congresses. Previously Chairman McKeon had served as the Chairman of the House Committee on Education and the Workforce.
+    - **(D)** Chairman McKeon is a champion of a strong national defense, the men and women of America's Armed Forces and their families, and returning fiscal discipline to the Department of Defense. His priority has been to ensure our troops deployed around the world have the equipment, resources, authorities, training and time they need to successfully complete their missions and return home.
+    - **(E)** For 52 consecutive years, the House Armed Services Committee, in a bipartisan, bicameral tradition, has passed and enacted an annual defense authorization act. Chairman McKeon had said it has been the privilege of his life to shepherd that tradition under his tenure.
+    - **(F)** It is therefore fitting this Act, the last national defense authorization act of his tenure, be named in Chairman McKeon’s honor, as provided in subsection (a).
+- **(c)** *References* Any reference in this or any other Act to the “National Defense Authorization Act for Fiscal Year 2015” shall be deemed to refer to the “Carl Levin and Howard P.“Buck” McKeon National Defense Authorization Act for Fiscal Year 2015”.
 
-- **(a)** *Extension* Section 4007(a)(2) of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note) is amended by striking “January 1, 2014” and inserting “June 1, 2014”.
-- **(b)** *Funding* Section 4004(e)(1) of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note) is amended—
-  - **(1)** in subparagraph (I), by striking “and” at the end;
-  - **(2)** in subparagraph (J), by inserting “and” at the end; and
-  - **(3)** by inserting after subparagraph (J) the following:
-    > - **(K)** the amendment made by section 2(a) of the Emergency Unemployment Compensation Extension Act of 2014;
+## § 2. Organization of Act into divisions; table of contents
 
-- **(c)** *Effective date* The amendments made by this section shall take effect as if included in the enactment of the American Taxpayer Relief Act of 2012 (Public Law 112–240).
+- **(a)** *Divisions* This Act is organized into four divisions as follows:
+  - **(1)** Division A—Department of Defense Authorizations.
+  - **(2)** Division B—Military Construction Authorizations.
+  - **(3)** Division C—Department of Energy National Security Authorizations and Other Authorizations.
+  - **(4)** Division D—Funding Tables.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
-## § 3. Temporary extension of extended benefit provisions
+## § 3. Congressional defense committees
 
-- **(a)** *In general* Section 2005 of the Assistance for Unemployed Workers and Struggling Families Act, as contained in Public Law 111–5 (26 U.S.C. 3304 note), is amended—
-  - **(1)** by striking “December 31, 2013” each place it appears and inserting “May 31, 2014”; and
-  - **(2)** in subsection (c), by striking “June 30, 2014” and inserting “November 30, 2014”.
-- **(b)** *Extension of matching for states with no waiting week* Section 5 of the Unemployment Compensation Extension Act of 2008 (Public Law 110–449; 26 U.S.C. 3304 note) is amended by striking “June 30, 2014” and inserting “November 30, 2014”.
-- **(c)** *Extension of modification of indicators under the extended benefit program* Section 203 of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note) is amended—
-  - **(1)** in subsection (d), by striking “December 31, 2013” and inserting “May 31, 2014”; and
-  - **(2)** in subsection (f)(2), by striking “December 31, 2013” and inserting “May 31, 2014”.
-- **(d)** *Effective date* The amendments made by this section shall take effect as if included in the enactment of the American Taxpayer Relief Act of 2012 (Public Law 112–240).
+In this Act, the term “congressional defense committees” has the meaning given that term in section 101(a)(16) of title 10, United States Code.
 
-## § 4. Extension of funding for reemployment services and reemployment and eligibility assessment activities
+## § 4. Budgetary effects of this Act
 
-- **(a)** *Extension*
-  - **(1)** *In general* Section 4004(c)(2)(A) of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note) is amended by striking “through fiscal year 2014” and inserting “through the first five months of fiscal year 2015”.
-  - **(2)** *Effective date* The amendment made by this subsection shall take effect as if included in the enactment of the American Taxpayer Relief Act of 2012 (Public Law 112–240).
-- **(b)** *Timing for services and activities*
-  - **(1)** *In general* Section 4001(i)(1)(A) of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note) is amended by adding at the end the following new sentence:
-  - **(2)** *Effective date* The amendment made by this subsection shall apply on and after the date of the enactment of this Act.
-- **(c)** *Purposes of services and activities* The purposes of the reemployment services and reemployment and eligibility assessment activities under section 4001(i) of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note) are—
-  - **(1)** to better link the unemployed with the overall workforce system by bringing individuals receiving unemployment insurance benefits in for personalized assessments and referrals to reemployment services; and
-  - **(2)** to provide individuals receiving unemployment insurance benefits with early access to specific strategies that can help get them back into the workforce faster, including through—
-    - **(A)** the development of a reemployment plan;
-    - **(B)** the provision of access to relevant labor market information;
-    - **(C)** the provision of access to information about industry-recognized credentials that are regionally relevant or nationally portable;
-    - **(D)** the provision of referrals to reemployment services and training; and
-    - **(E)** an assessment of the individual's on-going eligibility for unemployment insurance benefits.
+The budgetary effects of this Act, for the purposes of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, jointly submitted for printing in the Congressional Record by the Chairmen of the House and Senate Budget Committees, provided that such statement has been submitted prior to the vote on passage in the House acting first on the conference report or amendment between the Houses.
 
-## § 5. Additional extended unemployment benefits under the Railroad Unemployment Insurance Act
+## § 5. Explanatory statement
 
-- **(a)** *Extension* Section 2(c)(2)(D)(iii) of the Railroad Unemployment Insurance Act (45 U.S.C. 352(c)(2)(D)(iii)) is amended—
-  - **(1)** by striking “June 30, 2013” and inserting “November 30, 2013”; and
-  - **(2)** by striking “December 31, 2013” and inserting “May 31, 2014”.
-- **(b)** *Clarification on authority To use funds* Funds appropriated under either the first or second sentence of clause (iv) of section 2(c)(2)(D) of the Railroad Unemployment Insurance Act shall be available to cover the cost of additional extended unemployment benefits provided under such section 2(c)(2)(D) by reason of the amendments made by subsection (a) as well as to cover the cost of such benefits provided under such section 2(c)(2)(D), as in effect on the day before the date of enactment of this Act.
-- **(c)** *Funding for administration* Out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Railroad Retirement Board $105,000 for administrative expenses associated with the payment of additional extended unemployment benefits provided under section 2(c)(2)(D) of the Railroad Unemployment Insurance Act by reason of the amendments made by subsection (a), to remain available until expended.
-
-## § 6. Flexibility for unemployment program agreements
-
-- **(a)** *Flexibility*
-  - **(1)** *In general* Subsection (g) of section 4001 of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note) shall not apply with respect to a State that has enacted a law before December 1, 2013, that, upon taking effect, would violate such subsection.
-  - **(2)** *Effective date* Paragraph (1) is effective with respect to weeks of unemployment beginning on or after December 29, 2013.
-- **(b)** *Permitting a subsequent agreement* Nothing in title IV of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note) shall preclude a State whose agreement under such title was terminated from entering into a subsequent agreement under such title on or after the date of the enactment of this Act if the State, taking into account the application of subsection (a), would otherwise meet the requirements for an agreement under such title.
-
-## § 7. Ending unemployment payments to jobless millionaires and billionaires
-
-- **(a)** *Prohibition* Notwithstanding any other provision of law, no Federal funds may be used for payments of unemployment compensation under the emergency unemployment compensation program under title IV of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note) to an individual whose adjusted gross income in the preceding year was equal to or greater than $1,000,000.
-- **(b)** *Compliance* Unemployment Insurance applications shall include a form or procedure for an individual applicant to certify the individual’s adjusted gross income was not equal to or greater than $1,000,000 in the preceding year.
-- **(c)** *Audits* The certifications required by subsection (b) shall be auditable by the U.S. Department of Labor or the U.S. Government Accountability Office.
-- **(d)** *Status of applicants* It is the duty of the States to verify the residency, employment, legal, and income status of applicants for Unemployment Insurance and no Federal funds may be expended for purposes of determining whether or not the prohibition under subsection (a) applies with respect to an individual.
-- **(e)** *Effective date* The prohibition under subsection (a) shall apply to weeks of unemployment beginning on or after the date of the enactment of this Act.
-
-## § 8. GAO study on the use of work suitability requirements in unemployment insurance programs
-
-- **(a)** *Study* The Comptroller General of the United States shall conduct a study on the use of work suitability requirements to strengthen requirements to ensure that unemployment insurance benefits are being provided to individuals who are actively looking for work and who truly want to return to the labor force. Such study shall include an analysis of—
-  - **(1)** how work suitability requirements work under both State and Federal unemployment insurance programs; and
-  - **(2)** how to incorporate and improve such requirements under Federal unemployment insurance programs; and
-  - **(3)** other items determined appropriate by the Comptroller General.
-- **(b)** *Briefing* Not later than 90 days after the date of the enactment of this Act, the Comptroller General of the United States shall brief Congress on the ongoing study required under subsection (a). Such briefing shall include preliminary recommendations for such legislation and administrative action as the Comptroller General determines appropriate.
-
-## § 9. Funding stabilization
-
-- **(a)** *Funding stabilization under the Internal Revenue Code* The table in subclause (II) of section 430(h)(2)(C)(iv) of the Internal Revenue Code of 1986 is amended to read as follows:
-- **(b)** *Funding stabilization under ERISA*
-  - **(1)** *In general* The table in subclause (II) of section 303(h)(2)(C)(iv) of the Employee Retirement Income Security Act of 1974 is amended to read as follows:
-  - **(2)** *Conforming amendment*
-    - **(A)** *In general* Clause (ii) of section 101(f)(2)(D) of such Act is amended by striking “2015” and inserting “2020”.
-    - **(B)** *Statements* The Secretary of Labor shall modify the statements required under subclauses (I) and (II) of section 101(f)(2)(D)(i) of such Act to conform to the amendments made by this section.
-- **(c)** *Stabilization not To apply for purposes of certain accelerated benefit distribution rules*
-  - **(1)** *Internal Revenue Code of 1986* The second sentence of paragraph (2) of section 436(d) of the Internal Revenue Code of 1986 is amended by striking “of such plan” and inserting “of such plan (determined by not taking into account any adjustment of segment rates under section 430(h)(2)(C)(iv))”.
-  - **(2)** *Employee Retirement Income Security Act of 1974* The second sentence of subparagraph (B) of section 206(g)(3) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1056(g)(3)(B)) is amended by striking “of such plan” and inserting “of such plan (determined by not taking into account any adjustment of segment rates under section 303(h)(2)(C)(iv))”.
-  - **(3)** *Effective date*
-    - **(A)** *In general* Except as provided in subparagraph (B), the amendments made by this subsection shall apply to plan years beginning after December 31, 2014.
-    - **(B)** *Collectively bargained plans* In the case of a plan maintained pursuant to 1 or more collective bargaining agreements, the amendments made by this subsection shall apply to plan years beginning after December 31, 2015.
-  - **(4)** *Provisions relating to plan amendments*
-    - **(A)** *In general* If this paragraph applies to any amendment to any plan or annuity contract, such plan or contract shall be treated as being operated in accordance with the terms of the plan during the period described in subparagraph (B)(ii).
-    - **(B)** *Amendments to which paragraph applies*
-      - **(i)** *In general* This paragraph shall apply to any amendment to any plan or annuity contract which is made—
-        - **(I)** pursuant to the amendments made by this subsection, or pursuant to any regulation issued by the Secretary of the Treasury or the Secretary of Labor under any provision as so amended, and
-        - **(II)** on or before the last day of the first plan year beginning on or after January 1, 2016, or such later date as the Secretary of the Treasury may prescribe.
-      - **(ii)** *Conditions* This subsection shall not apply to any amendment unless, during the period—
-        - **(I)** beginning on the date that the amendments made by this subsection or the regulation described in clause (i)(I) takes effect (or in the case of a plan or contract amendment not required by such amendments or such regulation, the effective date specified by the plan), and
-        - **(II)** ending on the date described in clause (i)(II) (or, if earlier, the date the plan or contract amendment is adopted),
-    - **(C)** *Anti-cutback relief* A plan shall not be treated as failing to meet the requirements of section 204(g) of the Employee Retirement Income Security Act of 1974 and section 411(d)(6) of the Internal Revenue Code of 1986 solely by reason of a plan amendment to which this paragraph applies.
-- **(d)** *Modification of funding target determination periods*
-  - **(1)** *Internal Revenue Code of 1986* Clause (i) of section 430(h)(2)(B) of the Internal Revenue Code of 1986 is amended by striking “the first day of the plan year” and inserting “the valuation date for the plan year”.
-  - **(2)** *Employee Retirement Income Security Act of 1974* Clause (i) of section 303(h)(2)(B) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1083(h)(2)(B)(i)) is amended by striking “the first day of the plan year” and inserting “the valuation date for the plan year”.
-- **(e)** *Effective date*
-  - **(1)** *In general* The amendments made by subsections (a), (b), and (d) shall apply with respect to plan years beginning after December 31, 2012.
-  - **(2)** *Elections* A plan sponsor may elect not to have the amendments made by subsections (a), (b), and (d) apply to any plan year beginning before January 1, 2014, either (as specified in the election)—
-    - **(A)** for all purposes for which such amendments apply, or
-    - **(B)** solely for purposes of determining the adjusted funding target attainment percentage under sections 436 of the Internal Revenue Code of 1986 and 206(g) of the Employee Retirement Income Security Act of 1974 for such plan year.
-
-## § 10. Prepayment of certain PBGC premiums
-
-- **(a)** *In general* Section 4007 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1307) is amended by adding at the end the following new subsection:
-  > - **(f)** *Election To prepay flat dollar premiums*
-  >   - **(1)** *In general* The designated payor may elect to prepay during any plan year the premiums due under clause (i) or (v), whichever is applicable, of section 4006(a)(3)(A) for the number of consecutive subsequent plan years (not greater than 5) specified in the election.
-  >   - **(2)** *Amount of prepayment*
-  >     - **(A)** *In general* The amount of the prepayment for any subsequent plan year under paragraph (1) shall be equal to the amount of the premium determined under clause (i) or (v), whichever is applicable, of section 4006(a)(3)(A) for the plan year in which the prepayment is made.
-  >     - **(B)** *Additional participants* If there is an increase in the number of participants in the plan during any plan year with respect to which a prepayment has been made, the designated payor shall pay a premium for such additional participants at the premium rate in effect under clause (i) or (v), whichever is applicable, of section 4006(a)(3)(A) for such plan year. No credit or other refund shall be granted in the case of a plan that has a decrease in number of participants during a plan year with respect to which a prepayment has been made.
-  >     - **(C)** *Coordination with premium for unfunded vested benefits* The amount of the premium determined under section 4006(a)(3)(A)(i) for the purpose of determining the prepayment amount for any plan year shall be determined without regard to the increase in such premium under section 4006(a)(3)(E). Such increase shall be paid in the same amount and at the same time as it would otherwise be paid without regard to this subsection.
-  >   - **(3)** *Election* The election under this subsection shall be made at such time and in such manner as the corporation may prescribe.
-
-- **(b)** *Conforming amendment* The second sentence of subsection (a) of section 4007 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1307) is amended by striking “Premiums” and inserting “Except as provided in subsection (f), premiums”.
-- **(c)** *Effective date* The amendments made by this section shall apply to plan years beginning after the date of the enactment of this Act.
-
-## § 11. Extension of customs user fees
-
-Section 13031(j)(3) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)) is amended—
-
-- **(1)** in subparagraph (A), by striking “September 30, 2023” and inserting “September 30, 2024”; and
-- **(2)** in subparagraph (B)(i), by striking “September 30, 2023” and inserting “September 30, 2024”.
-
-## § 12. Emergency services, government, and certain nonprofit volunteers
-
-- **(a)** *In general* Section 4980H(c) of the Internal Revenue Code of 1986 is amended by redesignating paragraphs (5), (6), and (7) as paragraphs (6), (7), and (8), respectively, and by inserting after paragraph (4) the following new paragraph:
-  > - **(5)** *Special rules for certain emergency services, government, and nonprofit volunteers*
-  >   - **(A)** *Emergency services volunteers* Qualified services rendered as a bona fide volunteer to an eligible employer shall not be taken into account under this section as service provided by an employee. For purposes of the preceding sentence, the terms “qualified services”, “bona fide volunteer”, and “eligible employer” shall have the respective meanings given such terms under section 457(e).
-  >   - **(B)** *Certain other government and nonprofit volunteers*
-  >     - **(i)** *In general* Services rendered as a bona fide volunteer to a specified employer shall not be taken into account under this section as service provided by an employee.
-  >     - **(ii)** *Bona fide volunteer* For purposes of this subparagraph, the term “bona fide volunteer” means an employee of a specified employer whose only compensation from such employer is in the form of—
-  >       - **(I)** reimbursement for (or reasonable allowance for) reasonable expenses incurred in the performance of services by volunteers, or
-  >       - **(II)** reasonable benefits (including length of service awards), and nominal fees, customarily paid by similar entities in connection with the performance of services by volunteers.
-  >     - **(iii)** *Specified employer* For purposes of this subparagraph, the term “specified employer” means—
-  >       - **(I)** any government entity, and
-  >       - **(II)** any organization described in section 501(c) and exempt from tax under section 501(a).
-  >     - **(iv)** *Coordination with subparagraph (A)* This subparagraph shall not fail to apply with respect to services merely because such services are qualified services (as defined in section 457(e)(11)(C)).
-
-- **(b)** *Effective date* The amendments made by this section shall apply to months beginning after December 31, 2013.
+The explanatory statement regarding this Act, printed in the House section of the Congressional Record on or about December 3, 2014, by the Chairman of the Committee on Armed Services of the House of Representatives and the Chairman of the Committee on Armed Services of the Senate, shall have the same effect with respect to the implementation of this Act as if it were a joint explanatory statement of a committee of conference.
