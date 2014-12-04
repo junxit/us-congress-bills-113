@@ -1,7 +1,7 @@
 ---
 measure: S. 2523
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2523
@@ -16,9 +16,14 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Committees (1)
+## Cosponsors (1)
+
+- Sen. Franken, Al [D-MN] (F000457)
+
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -30,3 +35,6 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2014-11-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 584.
 - 2014-12-03 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6305-6306; text as passed Senate: CR S6306)
 - 2014-12-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6305-6306; text as passed Senate: CR S6306)
+- 2014-12-04 — Message on Senate action sent to the House.
+- 2014-12-04 — Received in the House.
+- 2014-12-04 — Referred to the House Committee on Oversight and Government Reform.
