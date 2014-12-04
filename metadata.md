@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 45
 congress: 113
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 45
@@ -29,3 +29,7 @@ A joint resolution providing for the reappointment of David M. Rubenstein as a c
 
 - 2014-11-12 — Introduced in Senate
 - 2014-11-12 — Read twice and referred to the Committee on Rules and Administration.
+- 2014-12-04 — Passed Senate without amendment by Unanimous Consent. (text: CR S6356)
+- 2014-12-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6356)
+- 2014-12-04 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S6356)
+- 2014-12-04 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S6356)
