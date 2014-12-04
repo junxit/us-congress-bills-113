@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3979
 congress: 113
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 3979
@@ -129,7 +129,7 @@ Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fi
 
 - House — Ways and Means Committee
 
-## Recorded votes (6)
+## Recorded votes (10)
 
 - 2014-03-11 — [House 113-2-116](votes/house-113-2-0116.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (410–0)
 - 2014-03-27 — [Senate 113-2-90](votes/senate-113-2-0090.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (65–34)
@@ -137,6 +137,10 @@ Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fi
 - 2014-04-03 — [Senate 113-2-100](votes/senate-113-2-0100.md) — On the Cloture Motion — **Cloture Motion Agreed to** (61–35)
 - 2014-04-07 — [Senate 113-2-101](votes/senate-113-2-0101.md) — On Passage of the Bill — **Bill Passed** (59–38)
 - 2014-12-04 — [House 113-2-551](votes/house-113-2-0551.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Passed** (300–119)
+- 2014-12-11 — [Senate 113-2-322](votes/senate-113-2-0322.md) — On the Cloture Motion — **Cloture Motion Agreed to** (85–14)
+- 2014-12-12 — [Senate 113-2-323](votes/senate-113-2-0323.md) — On the Motion to Refer — **Motion to Refer Rejected** (18–82)
+- 2014-12-12 — [Senate 113-2-324](votes/senate-113-2-0324.md) — On the Decision of the Chair — **Decision of Chair Sustained** (55–45)
+- 2014-12-12 — [Senate 113-2-325](votes/senate-113-2-0325.md) — On the Motion — **Motion Agreed to** (89–11)
 
 ## Actions
 
@@ -186,3 +190,33 @@ Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fi
 - 2014-12-04 — Pursuant to H.Res. 770, the House proceeded with one hour of debate on motion to concur in the Senate amendment to H.R. 3979 with an amendment consisting of the text of Rules Committee Print 113-58 modified by the amendments printed in part A of House Report 113-646 and the amendment specified in section 5 of House Resolution 770.
 - 2014-12-04 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 300 - 119 (Roll no. 551).(text as House agreed to Senate amendment with an amendment: CR H8388-8621)
 - 2014-12-04 — The previous question was ordered pursuant to the rule. (consideration: CR H8632)
+- 2014-12-08 — ENGROSSMENT CORRECTION - Mr. Hastings (WA) asked unanimous consent that in the engrossment of the House amendment to the Senate amendment to H.R. 3979 pursuant to H.Res. 770, the Clerk be directed to make a correction as follows: In sec. 3050 of the House amendment, strike "2013" and insert "2014". Agreed to without objection.
+- 2014-12-08 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2014-12-09 — Cloture motion on the motion to concur in the House amendment to the Senate amendment presented in Senate. (consideration: CR S6437-6438; text: CR S6437-6438)
+- 2014-12-09 — Measure laid before Senate by unanimous consent. (consideration: CR S6437-6438)
+- 2014-12-09 — Motion by Senator Reid to concur in the House amendment to the Senate amendment made in Senate. (consideration: CR S6437; text: CR S6437)
+- 2014-12-09 — Motion by Senator Reid to concur in the House amendment to the Senate amendment with an amendment (SA 3984) made in Senate. (consideration: CR S6438; text: CR S6438)
+- 2014-12-09 — Motion by Senator Reid to refer to Senate Committee on Armed Services the House message to accompany the bill with instructions to report back forthwith with amendment SA 3986 made in Senate. (consideration: CR S6438; text: CR S6438)
+- 2014-12-10 — Considered by Senate. (consideration: CR S6470-6474)
+- 2014-12-11 — Cloture on the motion to concur in the House amendment to the Senate amendment invoked in Senate by Yea-Nay Vote. 85 - 14. Record Vote Number: 322. (consideration: CR S6589-6590; text: CR S6589)
+- 2014-12-11 — Considered by Senate. (consideration: CR S6585, S6589-6590, S6608)
+- 2014-12-11 — Motion by Senator Reid to refer to Senate Committee on Armed Services the House message to accompany the bill with instructions to report back forthwith with amendment SA 3986 fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment in Senate. (consideration: CR S6590)
+- 2014-12-12 — Coburn motion to suspend Rule XXII to permit the consideration of amendment SA 4098 made in Senate. (consideration: CR S6738)
+- 2014-12-12 — Coburn motion to suspend Rule XXII to permit the consideration of amendment SA 4098 ruled out of order by chair. (consideration: CR S6738)
+- 2014-12-12 — Considered by Senate. (consideration: CR S6701-6739)
+- 2014-12-12 — Message on Senate action sent to the House.
+- 2014-12-12 — Motion by Senator Coburn to refer to Senate Committee on Armed Services the House message to accompany the bill with instructions to report back forthwith with changes to strike title XXX made in Senate. (consideration: CR S6726)
+- 2014-12-12 — Motion by Senator Coburn to refer to Senate Committee on Armed Services the House message to accompany the bill with instructions to report back forthwith with changes to strike title XXX, under the order of 12/11/14, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 18 - 82. Record Vote Number: 323. (consideration: CR S6738)
+- 2014-12-12 — Motion by Senator Reid to concur in the House amendment to the Senate amendment with an amendment (SA3984) withdrawn in Senate.
+- 2014-12-12 — Pursuant to the provisions of H. Con. Res. 121, enrollment corrections on H.R. 3979 have been made.
+- 2014-12-12 — Pursuant to the provisions of H. Con. Res. 123, enrollment corrections on H.R. 3979 have been made.
+- 2014-12-12 — Resolving differences -- Senate actions: Senate agreed to House amendment to Senate Amendment to H.R. 3979, under the order of 12/11/14, having achieved 60 votes in the affirmative, by Yea-Nay Vote. 89 - 11. Record Vote Number: 325.(consideration: CR S6738-6739)
+- 2014-12-12 — Ruling of the Chair sustained by Yea-Nay Vote. 55 - 45. Record Vote Number: 324. (consideration: CR S6738)
+- 2014-12-12 — Senate agreed to House amendment to Senate Amendment to H.R. 3979, under the order of 12/11/14, having achieved 60 votes in the affirmative, by Yea-Nay Vote. 89 - 11. Record Vote Number: 325. (consideration: CR S6738-6739)
+- 2014-12-12 — Senator Coburn appealed the ruling of the chair. (consideration: CR S6738)
+- 2014-12-18 — Presented to President.
+- 2014-12-18 — Presented to President.
+- 2014-12-19 — Became Public Law No: 113-291.
+- 2014-12-19 — Became Public Law No: 113-291.
+- 2014-12-19 — Signed by President.
+- 2014-12-19 — Signed by President.

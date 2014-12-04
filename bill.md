@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 3979
-congress: 113th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 3979
 
-That the House agree to the amendment of the Senate to the bill (H.R. 3979) entitled “An Act to amend the Internal Revenue Code of 1986 to ensure that emergency services volunteers are not taken into account as employees under the shared responsibility requirements contained in the Patient Protection and Affordable Care Act.”, with the following
-
-*In lieu of the matter proposed to be inserted by the amendment of the Senate to the text of the bill, insert the following:*
+> To authorize appropriations for fiscal year 2015 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.
 
 ## § 1. Short title
 
@@ -28,7 +26,7 @@ That the House agree to the amendment of the Senate to the bill (H.R. 3979) enti
     - **(D)** Chairman McKeon is a champion of a strong national defense, the men and women of America's Armed Forces and their families, and returning fiscal discipline to the Department of Defense. His priority has been to ensure our troops deployed around the world have the equipment, resources, authorities, training and time they need to successfully complete their missions and return home.
     - **(E)** For 52 consecutive years, the House Armed Services Committee, in a bipartisan, bicameral tradition, has passed and enacted an annual defense authorization act. Chairman McKeon had said it has been the privilege of his life to shepherd that tradition under his tenure.
     - **(F)** It is therefore fitting this Act, the last national defense authorization act of his tenure, be named in Chairman McKeon’s honor, as provided in subsection (a).
-- **(c)** *References* Any reference in this or any other Act to the “National Defense Authorization Act for Fiscal Year 2015” shall be deemed to refer to the “Carl Levin and Howard P.“Buck” McKeon National Defense Authorization Act for Fiscal Year 2015”.
+- **(c)** *References* Any reference in this or any other Act to the “National Defense Authorization Act for Fiscal Year 2015” shall be deemed to refer to the “Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015”.
 
 ## § 2. Organization of Act into divisions; table of contents
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3979
 congress: 113
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -3852,7 +3852,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 1245(d) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2544) is amended by striking “December 31 2014” and inserting “December 31, 2016”. | the bill names no machine-readable US Code section |
 | `22 U.S.C. § 2551` | repeal | The following provisions of law are repealed: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2302` | strike | by striking paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 1532(c)(4) of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 2057), as amended by section 1532(c) of the National Defense Authorization Act For Fiscal Year 2014 (Public Law 113–66; 127 … | the bill names no machine-readable US Code section |
+| — | replace | Section 1532(c)(4) of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 2057), as amended by section 1532(c) of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 … | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 2271` | add-at-end | Section 911(d) of the National Defense Authorization Act for Fiscal Year 2008 (10 U.S.C. 2271 note) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3003` | add-at-end | Subchapter I of chapter 21 of title 10, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 921(c)(1) of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 1878) is amended by striking “2014 and 2015” and inserting “2014 through 2016”. | the bill names no machine-readable US Code section |
@@ -3917,7 +3917,7 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 430g-4` | replace | by striking “include the” and insert “include— | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 430g-4` | replace | at the end of paragraph (1) (as designated by paragraph (1)), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 430g-4` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 430g-5` | replace | in the first sentence, by striking "The Secretary" and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 430g-5` | replace | in the first sentence, by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 430g-5` | replace | in the second sentence, by striking “In acquiring” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 430g-5` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 410lll` | redesignate | by redesignating subparagraphs (A) through (G) as clauses (i) through (vii), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
