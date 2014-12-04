@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5769
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5769
@@ -22,9 +22,10 @@ Howard Coble Coast Guard and Maritime Transportation Act of 2014
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
 - Rep. Garamendi, John [D-CA-3] (G000559)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ Howard Coble Coast Guard and Maritime Transportation Act of 2014
 - 2014-12-03 — Mr. Hunter moved to suspend the rules and pass the bill.
 - 2014-12-03 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 3 (Roll no. 541). (text: CR H8289-8301)
 - 2014-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 3 (Roll no. 541).(text: CR H8289-8301)
+- 2014-12-04 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
