@@ -2,14 +2,14 @@
 legis-num: H. RES. 770
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 770
 
 > Providing for consideration of the Senate amendment to the bill (H.R. 3979) to amend the Internal Revenue Code of 1986 to ensure that emergency services volunteers are not taken into account as employees under the shared responsibility requirements contained in the Patient Protection and Affordable Care Act; providing for consideration of the bill (H.R. 5759) to establish a rule of construction clarifying the limitations on executive authority to provide certain forms of immigration relief; and providing for consideration of the bill (H.R. 5781) to provide short-term water supplies to drought-stricken California.
 
-That upon adoption of this resolution it shall be in order to take from the Speaker's table the bill (H.R. 3979) to amend the Internal Revenue Code of 1986 to ensure that emergency services volunteers are not taken into account as employees under the shared responsibility requirements contained in the Patient Protection and Affordable Care Act, with the Senate amendment thereto, and to consider in the House, without intervention of any point of order, a motion offered by the chair of the Committee on Armed Services or his designee that the House concur in the Senate amendment with an amendment consisting of the text of Rules Committee Print 113-58 modified by the amendments printed in part A of the report of the Committee on Rules accompanying this resolution. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for one hour equally divided and controlled by the chair and ranking minority member of the Committee on Armed Services. The previous question shall be considered as ordered on the motion to its adoption without intervening motion.
+That upon adoption of this resolution it shall be in order to take from the Speaker's table the bill (H.R. 3979) to amend the Internal Revenue Code of 1986 to ensure that emergency services volunteers are not taken into account as employees under the shared responsibility requirements contained in the Patient Protection and Affordable Care Act, with the Senate amendment thereto, and to consider in the House, without intervention of any point of order, a motion offered by the chair of the Committee on Armed Services or his designee that the House concur in the Senate amendment with an amendment consisting of the text of Rules Committee Print 113–58 modified by the amendments printed in part A of the report of the Committee on Rules accompanying this resolution and the amendment specified in section 5 of this resolution. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for one hour equally divided and controlled by the chair and ranking minority member of the Committee on Armed Services. The previous question shall be considered as ordered on the motion to its adoption without intervening motion.
 
 ## § 2.
 
@@ -22,3 +22,14 @@ Upon adoption of this resolution it shall be in order to consider in the House t
 ## § 4.
 
 The chair of the Committee on Armed Services may insert in the Congressional Record at any time during the remainder of the second session of the 113th Congress such material as he may deem explanatory of defense authorization measures for the fiscal year 2015.
+
+## § 5.
+
+The amendment referred to in the first section of this resolution is as follows: Strike section 3096 and insert the following:
+
+> ## § 3096. Payments in lieu of taxes
+>
+> For payments in lieu of taxes under chapter 69 of title 31, United States Code, which shall be available without further appropriation to the Secretary of the Interior—
+>
+> - **(1)** $33,000,000 for fiscal year 2015; and
+> - **(2)** $37,000,000 to be available for obligation and payment beginning on October 1, 2015.
