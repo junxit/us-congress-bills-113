@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 120
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 120
@@ -32,3 +32,5 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - 2014-12-03 — On agreeing to the resolution Agreed to without objection. (text: CR H8344)
 - 2014-12-03 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H8344)
 - 2014-12-03 — Referred to the House Committee on House Administration.
+- 2014-12-04 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S6356)
+- 2014-12-04 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6356)
