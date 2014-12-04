@@ -1,7 +1,7 @@
 ---
 measure: S. 2759
 congress: 113
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2759
@@ -38,3 +38,15 @@ A bill to release the City of St. Clair, Missouri, from all restrictions, condit
 - 2014-12-04 — Message on Senate action sent to the House.
 - 2014-12-04 — Received in the House.
 - 2014-12-04 — Referred to the House Committee on Transportation and Infrastructure.
+- 2014-12-09 — Considered under suspension of the rules. (consideration: CR H8897-8898)
+- 2014-12-09 — DEBATE - The House proceeded with forty minutes of debate on S. 2759.
+- 2014-12-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-09 — Mr. Gibbs moved to suspend the rules and pass the bill.
+- 2014-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8897)
+- 2014-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8897)
+- 2014-12-12 — Presented to President.
+- 2014-12-12 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-285.
+- 2014-12-18 — Became Public Law No: 113-285.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
