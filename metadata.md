@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1281
 congress: 113
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1281
@@ -163,3 +163,11 @@ Newborn Screening Saves Lives Reauthorization Act of 2014
 - 2014-06-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5696-5697)
 - 2014-06-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5696-5697)
 - 2014-06-25 — Received in the Senate, read twice.
+- 2014-12-08 — Amendment SA 3976 proposed by Senator Reid for Senator Paul. (consideration: CR S6395; text: CR S6395) To clarify the rules relating to newborn screening research and informed consent.
+- 2014-12-08 — Amendment agreed to in Senate by Unanimous Consent.
+- 2014-12-08 — Measure laid before Senate by unanimous consent. (consideration: CR S6395)
+- 2014-12-08 — Passed Senate with an amendment by Unanimous Consent.
+- 2014-12-08 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2014-12-08 — Senate amendment agreed to: Amendment agreed to in Senate by Unanimous Consent.
+- 2014-12-08 — Senate amendment proposed (on the floor): Amendment SA 3976 proposed by Senator Reid for Senator Paul.(consideration: CR S6395; text: CR S6395)
+- 2014-12-08 — Senate amendment submitted
