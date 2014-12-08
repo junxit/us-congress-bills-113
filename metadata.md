@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1281
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1281
@@ -171,3 +171,14 @@ Newborn Screening Saves Lives Reauthorization Act of 2014
 - 2014-12-08 — Senate amendment agreed to: Amendment agreed to in Senate by Unanimous Consent.
 - 2014-12-08 — Senate amendment proposed (on the floor): Amendment SA 3976 proposed by Senator Reid for Senator Paul.(consideration: CR S6395; text: CR S6395)
 - 2014-12-08 — Senate amendment submitted
+- 2014-12-09 — Message on Senate action sent to the House.
+- 2014-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-10 — Mrs. Ellmers asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H8994-8998)
+- 2014-12-10 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H8994-8998)
+- 2014-12-10 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H8994-8998)
+- 2014-12-12 — Presented to President.
+- 2014-12-12 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-240.
+- 2014-12-18 — Became Public Law No: 113-240.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
