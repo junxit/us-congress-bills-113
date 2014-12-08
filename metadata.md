@@ -1,7 +1,7 @@
 ---
 measure: S. 1447
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1447
@@ -20,9 +20,10 @@ New Mexico Navajo Water Settlement Technical Corrections Act
 
 - Sen. Heinrich, Martin [D-NM] (H001046)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ New Mexico Navajo Water Settlement Technical Corrections Act
 - 2014-08-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 536.
 - 2014-12-04 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S6355; text of measure as reported in Senate: CR S6355; text as passed Senate: CR S6355)
 - 2014-12-04 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S6355; text of measure as reported in Senate: CR S6355; text as passed Senate: CR S6355)
+- 2014-12-08 — Message on Senate action sent to the House.
+- 2014-12-08 — Received in the House.
+- 2014-12-08 — Referred to the House Committee on Natural Resources.
