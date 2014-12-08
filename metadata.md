@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 121
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 121
@@ -25,3 +25,6 @@ Providing for a correction in the enrollment of the bill H.R. 3979.
 - 2014-12-04 — On agreeing to the resolution Agreed to by voice vote. (text: CR H8652)
 - 2014-12-04 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H8652)
 - 2014-12-08 — Received in the Senate.
+- 2014-12-12 — Message on Senate action sent to the House.
+- 2014-12-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S6739)
+- 2014-12-12 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S6739)
