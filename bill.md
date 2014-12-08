@@ -27,41 +27,41 @@ Section 552 of title 5, United States Code, is amended—
       >     - **(I)** that because of the nature of their subject matter, the agency determines have become or are likely to become the subject of subsequent requests for substantially the same records; or
       >     - **(II)** that have been requested not less than 3 times; and
 
-    - **(iii)** in the undesignated matter following subparagraph (E), by striking “public inspection and copying current” and inserting “public inspection in an electronic format, and current”;
+    - **(iii)** in the undesignated matter following subparagraph (E), by striking “public inspection and copying current” and inserting “public inspection in an electronic format current”;
   - **(B)** in paragraph (4)(A), by striking clause (viii) and inserting the following:
     > - **(viii)**
     >   - **(I)** Except as provided in subclause (II), an agency shall not assess any search fees (or in the case of a requester described under clause (ii)(II) of this subparagraph, duplication fees) under this subparagraph if the agency has failed to comply with any time limit under paragraph (6).
     >   - **(II)**
-    >     - **(aa)** If an agency determines that unusual circumstances apply (as the term is defined in paragraph (6)(B)) and the agency provides a timely written notice to the requester in accordance with paragraph (6)(B), a failure described in subclause (I) is excused for an additional 10 days. If the agency fails to comply with the extended time limit, the agency may not assess any search fees (or in the case of a requester described under clause (ii)(II) of this subparagraph, duplication fees).
-    >     - **(bb)** If a court determines that exceptional circumstances exist (as that term is defined in paragraph (6)(C)), a failure described in subclause (I) shall be excused for the length of time provided by the court order.
+    >     - **(aa)** If an agency has determined that unusual circumstances apply (as the term is defined in paragraph (6)(B)) and the agency provided a timely written notice to the requester in accordance with paragraph (6)(B), a failure described in subclause (I) is excused for an additional 10 days. If the agency fails to comply with the extended time limit, the agency may not assess any search fees (or in the case of a requester described under clause (ii)(II) of this subparagraph, duplication fees).
+    >     - **(bb)** If an agency has determined that unusual circumstances apply and more than 50,000 pages are necessary to respond to the request, an agency may charge search fees (or in the case of a requester described under clause (ii)(II) of this subparagraph, duplication fees) if the agency has provided a timely written notice to the requester in accordance with paragraph (6)(B) and the agency has discussed with the requester via written mail, electronic mail, or telephone (or made not less than 3 good-faith attempts to do so) how the requester could effectively limit the scope of the request in accordance with paragraph (6)(B)(ii).
+    >     - **(cc)** If a court has determined that exceptional circumstances exist (as that term is defined in paragraph (6)(C)), a failure described in subclause (I) shall be excused for the length of time provided by the court order.
 
   - **(C)** in paragraph (6)—
     - **(i)** in subparagraph (A)(i), by striking “making such request” and all that follows through “determination; and” and inserting the following: “making such request of—”
-      > - **(I)** such determination and the reasons therefore;
+      > - **(I)** such determination and the reasons therefor;
       > - **(II)** the right of such person to seek assistance from the FOIA Public Liaison of the agency; and
       > - **(III)** in the case of an adverse determination—
-      >   - **(aa)** the right of such person to appeal to the head of the agency, within a period determined by the head of the agency that is not less than 90 days after the receipt of such adverse determination; and
+      >   - **(aa)** the right of such person to appeal to the head of the agency, within a period determined by the head of the agency that is not less than 90 days after the date of such adverse determination; and
       >   - **(bb)** the right of such person to seek dispute resolution services from the FOIA Public Liaison of the agency or the Office of Government Information Services; and
 
     - **(ii)** in subparagraph (B)(ii), by striking “the agency.” and inserting “the agency, and notify the requester of the right of the requester to seek dispute resolution services from the Office of Government Information Services.”; and
   - **(D)** by adding at the end the following:
-    > - **(8)** An agency—
-    >   - **(A)** shall—
-    >     - **(i)** withhold information under this section only if—
-    >       - **(I)** the agency reasonably foresees that disclosure would harm an interest protected by an exemption described in subsection (b) or other provision of law; or
-    >       - **(II)** disclosure is prohibited by law; and
-    >     - **(ii)**
-    >       - **(I)** consider whether partial disclosure of information is possible whenever the agency determines that a full disclosure of a requested record is not possible; and
-    >       - **(II)** take reasonable steps necessary to segregate and release nonexempt information; and
-    >   - **(B)** may not—
-    >     - **(i)** withhold information requested under this section merely because the agency can demonstrate, as a technical matter, that the records fall within the scope of an exemption described in subsection (b); or
-    >     - **(ii)** withhold information requested under this section because the information may be embarrassing to the agency or because of speculative or abstract concerns.
+    > - **(8)**
+    >   - **(A)** An agency—
+    >     - **(i)** shall—
+    >       - **(I)** withhold information under this section only if—
+    >         - **(aa)** the agency reasonably foresees that disclosure would harm an interest protected by an exemption described in subsection (b) or other provision of law; or
+    >         - **(bb)** disclosure is prohibited by law; and
+    >       - **(II)**
+    >         - **(aa)** consider whether partial disclosure of information is possible whenever the agency determines that a full disclosure of a requested record is not possible; and
+    >         - **(bb)** take reasonable steps necessary to segregate and release nonexempt information; and
+    >     - **(ii)** may not—
+    >       - **(I)** withhold information requested under this section merely because the agency can demonstrate, as a technical matter, that the records fall within the scope of an exemption described in subsection (b); or
+    >       - **(II)** withhold information requested under this section merely because disclosure of the information may be embarrassing to the agency or because of speculative or abstract concerns.
+    >   - **(B)** Nothing in this paragraph requires disclosure of information that is otherwise prohibited from disclosure by law, or otherwise exempted from disclosure under subsection (b)(3).
 
 - **(2)** in subsection (b), by amending paragraph (5) to read as follows:
-  > - **(5)** inter-agency or intra-agency memorandums or letters that would not be available by law to a party other than an agency in litigation with the agency, if—
-  >   - **(A)** in the case of deliberative process privilege or attorney work-product privilege, the agency interest in protecting the records or information is not outweighed by a public interest in disclosure;
-  >   - **(B)** in the case of attorney-client privilege, the agency interest in protecting the records or information is not outweighed by a compelling public interest in disclosure; and
-  >   - **(C)** the requested record or information was created less than 25 years before the date on which the request was made;
+  > - **(5)** inter-agency or intra-agency memorandums or letters that would not be available by law to a party other than an agency in litigation with the agency, if the requested record or information was created less than 25 years before the date on which the request was made;
 
 - **(3)** in subsection (e)
   - **(A)** in paragraph (1)—
@@ -116,14 +116,16 @@ Section 552 of title 5, United States Code, is amended—
     >       - **(II)** the number of times each agency engaged in dispute resolution with the assistance of the Office of Government Information Services or the FOIA Public Liaison; and
     >     - **(iii)** legislative and regulatory recommendations, if any, to improve the administration of this section.
     >   - **(B)** The Director of the Office of Government Information Services shall make each report submitted under subparagraph (A) available for public inspection in an electronic format.
-    >   - **(C)** The Director of the Office of Government Information Services shall not be required to obtain the prior approval, comment, or review of any officer or agency of the United States, including the Department of Justice, the Archivist of the United States, or the Office of Management and Budget before submitting to the Congress, or any committee or subcommittee thereof, any reports, recommendations, testimony, or comments, if such submissions include a statement indicating that the views expressed therein are those of the Director and do not necessarily represent the views of the President.
-    > - **(5)** The Director of the Office of Government Information Services may submit additional information to Congress and the President as the Director determines to be appropriate.
+    >   - **(C)** The Director of the Office of Government Information Services shall not be required to obtain the prior approval, comment, or review of any officer or agency of the United States, including the Department of Justice, the Archivist of the United States, or the Office of Management and Budget before submitting to Congress, or any committee or subcommittee thereof, any reports, recommendations, testimony, or comments, if such submissions include a statement indicating that the views expressed therein are those of the Director and do not necessarily represent the views of the President.
+    > - **(5)** The Director of the Office of Government Information Services may directly submit additional information to Congress and the President as the Director determines to be appropriate.
     > - **(6)** Not less frequently than annually, the Office of Government Information Services shall conduct a meeting that is open to the public on the review and reports by the Office and shall allow interested persons to appear and present oral or written statements at the meeting.
 
 - **(6)** by striking subsections (i), (j), and (k), and inserting the following:
   > - **(i)** The Government Accountability Office shall—
-  >   - **(1)** conduct audits of administrative agencies on compliance with and implementation of the requirements of this section and issue reports detailing the results of such audits; and
-  >   - **(2)** catalog the number of exemptions described in subsection (b)(3) and the use of such exemptions by each agency.
+  >   - **(1)** not later than 1 year after the date of enactment of the FOIA Improvement Act of 2014 and every 2 years thereafter, conduct audits of 3 or more administrative agencies on compliance with and implementation of the requirements of this section and issue reports detailing the results of such audits;
+  >   - **(2)** not later than 1 year after the date of enactment of the FOIA Improvement Act of 2014 and every 2 years thereafter, issue a report cataloging the number of exemptions described in paragraphs (3) and (5) of subsection (b) and the use of such exemptions by each agency;
+  >   - **(3)** not later than 1 year after the date of enactment of the FOIA Improvement Act of 2014, conduct a study on the methods Federal agencies use to reduce the backlog of requests under this section and issue a report on the effectiveness of those methods; and
+  >   - **(4)** submit copies of all reports and audits described in this subsection to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on the Judiciary of the Senate.
   > - **(j)**
   >   - **(1)** Each agency shall designate a Chief FOIA Officer who shall be a senior official of such agency (at the Assistant Secretary or equivalent level).
   >   - **(2)** The Chief FOIA Officer of each agency shall, subject to the authority of the head of the agency—
@@ -163,8 +165,13 @@ Section 552 of title 5, United States Code, is amended—
   >     - **(A)** The Council shall meet regularly and such meetings shall be open to the public unless the Council determines to close the meeting for reasons of national security or to discuss information exempt under subsection (b).
   >     - **(B)** Not less frequently than annually, the Council shall hold a meeting that shall be open to the public and permit interested persons to appear and present oral and written statements to the Council.
   >     - **(C)** Not later than 10 business days before a meeting of the Council, notice of such meeting shall be published in the Federal Register.
-  >     - **(D)** Except as provided in subsection (b), the records, reports, transcripts, minutes, appendixes, working papers, drafts, studies, agenda, or other documents that were made available to or prepared for or by the Council shall be made publicly available.
+  >     - **(D)** Except as provided in subsection (b), the records, reports, transcripts, minutes, appendices, working papers, drafts, studies, agenda, or other documents that were made available to or prepared for or by the Council shall be made publicly available.
   >     - **(E)** Detailed minutes of each meeting of the Council shall be kept and shall contain a record of the persons present, a complete and accurate description of matters discussed and conclusions reached, and copies of all reports received, issued, or approved by the Council. The minutes shall be redacted as necessary and made publicly available.
+
+- **(7)** by adding at the end the following:
+  > - **(m)**
+  >   - **(1)** The Director of the Office of Management and Budget, in consultation with the Attorney General, shall ensure the operation of a consolidated online request portal that allows a member of the public to submit a request for records under subsection (a) to any agency from a single website. The portal may include any additional tools the Director of the Office of Management and Budget finds will improve the implementation of this section.
+  >   - **(2)** This subsection shall not be construed to alter the power of any other agency to create or maintain an independent online portal for the submission of a request for records under this section. The Director of the Office of Management and Budget shall establish standards for interoperability between the portal required under paragraph (1) and other request processing software used by agencies subject to this section.
 
 ## § 3. Review and issuance of regulations
 

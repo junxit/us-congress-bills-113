@@ -1,7 +1,7 @@
 ---
 measure: S. 2520
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2520
@@ -39,3 +39,7 @@ FOIA Improvement Act of 2014
 - 2014-11-20 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2014-11-20 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2014-11-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 605.
+- 2014-12-08 — By Senator Leahy from Committee on the Judiciary filed written report. Report No. 113-287.
+- 2014-12-08 — By Senator Leahy from Committee on the Judiciary filed written report. Report No. 113-287.
+- 2014-12-08 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6375-6377; text as passed Senate: CR S6375-6377)
+- 2014-12-08 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6375-6377; text as passed Senate: CR S6375-6377)
