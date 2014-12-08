@@ -11,14 +11,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Cooperative agreements under Sikes Act for land management related to Department of Defense readiness activities
 
-- **(a)** *Multiyear agreements To fund long-Term management* Subsection (b) of section 103A of the Sikes Act (16 U.S.C. 670c–1) is amended—
+- **(a)** *Multiyear agreements to fund long-term management* Subsection (b) of section 103A of the Sikes Act (16 U.S.C. 670c–1) is amended—
   - **(1)** by inserting “(1)” before “Funds”; and
   - **(2)** by adding at the end the following new paragraph:
     > - **(2)** In the case of a cooperative agreement under subsection (a)(2), funds referred to in paragraph (1)—
     >   - **(A)** may be paid in a lump sum and include an amount intended to cover the future costs of the natural resource maintenance and improvement activities provided for under the agreement;
     >   - **(B)** may be invested by the recipient in accordance with the recipient’s own guidelines for the management and investment of financial assets, and any interest or income derived from such investment may be applied for the same purposes as the principal; and
     >   - **(C)** may be used only for payment of—
-    >     - **(i)** direct costs of maintenance and improvement of natural resources on the lands within the scope of the agreement; and
+    >     - **(i)** direct costs of maintenance and improvement of natural resources on the lands within the scope of the agreement and only pursuant to an approved Department of Defense Integrated Natural Resource Management Plan; and
     >     - **(ii)** indirect and administrative costs, as determined in accordance with official guidance issued by the Office of Management and Budget, but not to exceed 10 percent of the total cost of the project.
 
 - **(b)** *Availability of funds and relation to other laws* Subsection (c) of such section is amended to read as follows:
