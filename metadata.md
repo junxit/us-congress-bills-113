@@ -1,7 +1,7 @@
 ---
 measure: S. 2142
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2142
@@ -35,3 +35,12 @@ Venezuela Defense of Human Rights and Civil Society Act of 2014
 - 2014-05-22 — Committee on Foreign Relations. Reported by Senator Menendez with amendments. With written report No. 113-175.
 - 2014-05-22 — Committee on Foreign Relations. Reported by Senator Menendez with amendments. With written report No. 113-175.
 - 2014-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 401.
+- 2014-12-08 — Amendment SA 3974 agreed to in Senate by Unanimous Consent.
+- 2014-12-08 — Amendment SA 3974 proposed by Senator Reid for Senator Menendez. (consideration: CR S6398) In the nature of a substitute.
+- 2014-12-08 — Measure laid before Senate by unanimous consent. (consideration: CR S6396-6398)
+- 2014-12-08 — Passed Senate with an amendment by Voice Vote. (text: CR S6396-6398)
+- 2014-12-08 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text: CR S6396-6398)
+- 2014-12-08 — Senate amendment agreed to: Amendment SA 3974 agreed to in Senate by Unanimous Consent.
+- 2014-12-08 — Senate amendment agreed to: Amendment SA 3974 agreed to in Senate by Unanimous Consent.
+- 2014-12-08 — Senate amendment proposed (on the floor): Amendment SA 3974 proposed by Senator Reid for Senator Menendez.(consideration: CR S6398)
+- 2014-12-08 — Senate amendment submitted
