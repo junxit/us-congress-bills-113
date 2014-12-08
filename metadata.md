@@ -1,7 +1,7 @@
 ---
 measure: S. 2484
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2484
@@ -24,3 +24,7 @@ South Pacific Fisheries Convention Implementation Act
 
 - 2014-06-17 — Introduced in Senate
 - 2014-06-17 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2014-09-17 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-12-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. Without written report.
+- 2014-12-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. Without written report.
+- 2014-12-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 622.
