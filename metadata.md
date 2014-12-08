@@ -1,7 +1,7 @@
 ---
 measure: S. 2094
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2094
@@ -16,7 +16,7 @@ Vessel Incidental Discharge Act
 
 - Sen. Begich, Mark [D-AK] (B001265)
 
-## Cosponsors (21)
+## Cosponsors (32)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
@@ -39,6 +39,17 @@ Vessel Incidental Discharge Act
 - Sen. Vitter, David [R-LA] (V000127)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
 
 ## Committees (1)
 
@@ -48,3 +59,15 @@ Vessel Incidental Discharge Act
 
 - 2014-03-06 — Introduced in Senate
 - 2014-03-06 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2014-07-21 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2014-07-21 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2014-07-21 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2014-07-21 — Senate amendment submitted
+- 2014-07-21 — Senate amendment submitted
+- 2014-07-21 — Senate amendment submitted
+- 2014-07-23 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-09-18 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2014-09-18 — Senate amendment submitted
+- 2014-12-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. Without written report.
+- 2014-12-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. Without written report.
+- 2014-12-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 620.
