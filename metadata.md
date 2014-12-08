@@ -1,7 +1,7 @@
 ---
 measure: S. 2142
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2142
@@ -44,3 +44,18 @@ Venezuela Defense of Human Rights and Civil Society Act of 2014
 - 2014-12-08 — Senate amendment agreed to: Amendment SA 3974 agreed to in Senate by Unanimous Consent.
 - 2014-12-08 — Senate amendment proposed (on the floor): Amendment SA 3974 proposed by Senator Reid for Senator Menendez.(consideration: CR S6398)
 - 2014-12-08 — Senate amendment submitted
+- 2014-12-09 — Held at the desk.
+- 2014-12-09 — Message on Senate action sent to the House.
+- 2014-12-09 — Received in the House.
+- 2014-12-10 — Considered under suspension of the rules. (consideration: CR H9020-9023)
+- 2014-12-10 — DEBATE - The House proceeded with forty minutes of debate on S. 2142.
+- 2014-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-10 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill.
+- 2014-12-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9020-9021)
+- 2014-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9020-9021)
+- 2014-12-12 — Presented to President.
+- 2014-12-12 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-278.
+- 2014-12-18 — Became Public Law No: 113-278.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
