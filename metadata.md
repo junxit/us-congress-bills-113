@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5146
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5146
@@ -52,3 +52,9 @@ To designate the United States courthouse located at 700 Grant Street in Pittsbu
 - 2014-11-12 — Placed on the House Calendar, Calendar No. 144.
 - 2014-11-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-611.
 - 2014-11-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-611.
+- 2014-12-08 — Considered under suspension of the rules. (consideration: CR H8848)
+- 2014-12-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5146.
+- 2014-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-08 — Mr. Petri moved to suspend the rules and pass the bill.
+- 2014-12-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8848)
+- 2014-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8848)
