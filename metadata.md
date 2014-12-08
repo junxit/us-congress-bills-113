@@ -1,7 +1,7 @@
 ---
 measure: S. 1014
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1014
@@ -16,9 +16,11 @@ Youth Sports Concussion Act
 
 - Sen. Udall, Tom [D-NM] (U000039)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (1)
 
@@ -28,3 +30,7 @@ Youth Sports Concussion Act
 
 - 2013-05-22 — Introduced in Senate
 - 2013-05-22 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2014-04-09 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-12-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. Without written report.
+- 2014-12-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. Without written report.
+- 2014-12-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 618.
