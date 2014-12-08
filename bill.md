@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4926
 
-> To designate the “James L. Oberstar Memorial Highway” and the “James L. Oberstar National Scenic Byway” in the State of Minnesota.
+> To designate a segment of Interstate Route 35 in the State of Minnesota as the “James L. Oberstar Memorial Highway”.
 
 ## § 1. Designation
 
