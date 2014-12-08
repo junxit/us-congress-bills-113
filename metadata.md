@@ -1,7 +1,7 @@
 ---
 measure: S. 2521
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2521
@@ -42,3 +42,17 @@ Federal Information Security Modernization Act of 2014
 - 2014-12-08 — Senate amendment agreed to: Amendment SA 3975 agreed to in Senate by Unanimous Consent.
 - 2014-12-08 — Senate amendment proposed (on the floor): Amendment SA 3975 proposed by Senator Reid for Senator Carper.(consideration: CR S6395)
 - 2014-12-08 — Senate amendment submitted
+- 2014-12-09 — Held at the desk.
+- 2014-12-09 — Message on Senate action sent to the House.
+- 2014-12-09 — Received in the House.
+- 2014-12-10 — Considered by unanimous consent. (consideration: CR H8994-8998)
+- 2014-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-10 — Mr. Meadows asked unanimous consent to take from the Speaker's table and consider.
+- 2014-12-10 — On passage Passed without objection. (text: CR H8994-8998)
+- 2014-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8994-8998)
+- 2014-12-12 — Presented to President.
+- 2014-12-12 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-283.
+- 2014-12-18 — Became Public Law No: 113-283.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
