@@ -1,7 +1,7 @@
 ---
 measure: H.R. 579
 congress: 113
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 579
@@ -32,3 +32,9 @@ To designate the United States courthouse located at 501 East Court Street in Ja
 - 2013-09-27 — Placed on the House Calendar, Calendar No. 58.
 - 2013-09-27 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-233.
 - 2013-09-27 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-233.
+- 2014-12-08 — Considered under suspension of the rules. (consideration: CR H8844-8845)
+- 2014-12-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 579.
+- 2014-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-08 — Mr. Petri moved to suspend the rules and pass the bill.
+- 2014-12-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8844-8845)
+- 2014-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8844-8845)
