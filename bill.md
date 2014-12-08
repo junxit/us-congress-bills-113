@@ -13,14 +13,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Guam Military Training and Readiness Act of 2014”.
 
-## § 2. Establishment of a surface danger zone, Guam National Wildlife Refuge
+## § 2. Establishment of surface danger zone, Ritidian Unit, Guam National Wildlife Refuge
 
-- **(a)** *Authority To establish* The Secretary of the Navy may establish a surface danger zone over the Guam National Wildlife Refuge or any portion thereof if the Secretary determines that establishment of a surface danger zone will support the operation by the Department of the Navy of a live-fire training range complex on Andersen Air Force Base, Northwest Field, to support training and operations.
-- **(b)** *Treatment of operations* The operation of a live-fire training range complex on Andersen Air Force Base, Northwest Field, and associated surface danger zone, if established under subsection (a), are deemed to be authorized uses of the Guam National Wildlife Refuge.
-- **(c)** *Closure to Public*
-  - **(1)** *Authority to close* The Secretary of the Navy may close to public use any road or trail within, or any portion of, the Guam National Wildlife Refuge if the Secretary determines that military operations, public safety, or national security require the closure.
-  - **(2)** *Limited area and duration* The Secretary shall limit a closure under paragraph (1) to the minimum area and period that the Secretary determines to be appropriate for the purpose for which the closure is imposed.
-  - **(3)** *Notification requirements* Before imposing a closure under paragraph (1), and for the duration of the closure, the Secretary shall—
-    - **(A)** post and maintain appropriate warning notices regarding the closure; and
-    - **(B)** take appropriate steps to notify the public concerning of the closure.
-- **(d)** *Relation to refuge management and uses* Nothing in this section limits the management authority of the Secretary of the Interior over the Guam National Wildlife Refuge and other uses of the Guam National Wildlife Refuge established pursuant to section 4 of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd) to the extent such management authority and refuge uses are compatible with the authorities provided to the Secretary of the Navy under subsections (a) and (c).
+- **(a)** *Agreement to establish* In order to accommodate the operation of a live-fire training range complex on Andersen Air Force Base-Northwest Field and the management of the adjacent Ritidian Unit of the Guam National Wildlife Refuge, the Secretary of the Navy and the Secretary of the Interior, notwithstanding the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.), may enter into an agreement providing for the establishment and operation of a surface danger zone which overlays the Ritidian Unit or such portion thereof as the Secretaries consider necessary.
+- **(b)** *Elements of agreement* The agreement to establish a surface danger zone over all or a portion of the Ritidian Unit of the Guam National Wildlife Refuge shall include—
+  - **(1)** measures to maintain the purposes of the Refuge; and
+  - **(2)** as appropriate, measures, funded by the Secretary of the Navy from funds appropriated after the date of enactment of this Act and otherwise available to the Secretary, for the following purposes:
+    - **(A)** Relocation and reconstruction of structures and facilities of the Refuge in existence as of the date of the enactment of this Act.
+    - **(B)** Mitigation of impacts to wildlife species present on the Refuge or to be reintroduced in the future in accordance with applicable laws.
+    - **(C)** Use of Department of Defense personnel to undertake conservation activities within the Ritidian Unit normally performed by Department of the Interior personnel, including habitat maintenance, maintaining the boundary fence, and conducting the brown tree snake eradication program.
+    - **(D)** Openings and closures of the surface danger zone to the public as may be necessary.
