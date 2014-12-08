@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2901
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 2 executed, 4 stated and not applied.
+7 amendatory instructions. 2 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 22 U.S.C. § 2152h
 
-> in the section heading, by striking “and sanitation” and inserting “, sanitation, and hygiene”;
+> in the section heading, by striking “and sanitation” and inserting “, sanitation, and hygiene”; and
 
 | | |
 |---|---|
@@ -35,7 +35,7 @@ to guess them.
 
 ### 22 U.S.C. § 2152h
 
-> in subsection (b), by striking “and sanitation” and inserting “, sanitation, and hygiene”; and
+> in subsection (b), by striking “and sanitation” and inserting “, sanitation, and hygiene”.
 
 | | |
 |---|---|
@@ -51,7 +51,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 2152h` | redesignate | by redesignating section 135, as added by section 5(a) of the Senator Paul Simon Water for the Poor Act of 2005 (Public Law 109–121; 119 Stat. 2536; 22 U.S.C. 2152h note), as section 136; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2152h` | amend | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Section 6 of the Senator Paul Simon Water for the Poor Act of 2005 (Public Law 109–121; 119 Stat. 2533; 22 U.S.C. 2152h note) is amended to read as follows: | the bill names no machine-readable US Code section |
-| `22 U.S.C. § 2152h` | amend | Section 7 of the Senator Paul Simon Water for the Poor Act of 2005 (Public Law 109–121; 119 Stat. 2533; 22 U.S.C. 2152h note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2152h` | redesignate | by redesignating section 135 (22 U.S.C. 2152h), as added by section 5(a) of the Senator Paul Simon Water for the Poor Act of 2005 (Public Law 109–121; 22 U.S.C. 2152h note), as section 136; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | redesignate | Section 136 of the Foreign Assistance Act of 1961, as redesignated and amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 136 of the Foreign Assistance Act of 1961, as redesignated and amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 2152h` | redesignate | Section 136 of the Foreign Assistance Act of 1961, as redesignated and amended by this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2152h` | repeal | Section 6 of the Senator Paul Simon Water for the Poor Act of 2005 (Public Law 109–121; 22 U.S.C. 2152h note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
