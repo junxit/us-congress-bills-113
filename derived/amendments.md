@@ -1,7 +1,7 @@
 ---
 measure: S. 2521
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 8 executed, 6 stated and not applied.
+17 amendatory instructions. 9 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,9 +33,18 @@ to guess them.
 | Removed | `section 3534` |
 | Inserted | `section 3554` |
 
+### 6 U.S.C. § 143
+
+> in the matter preceding paragraph (1), by striking “the Under Secretary for Intelligence and Analysis, in cooperation with the Assistant Secretary for Infrastructure Protection” and inserting “the Under Secretary appointed under section 103(a)(1)(H)”;
+
+| | |
+|---|---|
+| Removed | `the Under Secretary for Intelligence and Analysis, in cooperation with the Assistant Secretary for Infrastructure Protection` |
+| Inserted | `the Under Secretary appointed under section 103(a)(1)(H)` |
+
 ### 6 U.S.C. § 511
 
-> Section 1001(c)(1)(A) of the Homeland Security Act of 2002 (6 U.S.C. 511) by striking “section 3532(3)” and inserting “section 3552(b)(5)”.
+> in section 1001(c)(1)(A) (6 U.S.C. 511(c)(1)(A)), by striking “section 3532(3)” and inserting “section 3552(b)(5)”; and
 
 | | |
 |---|---|
@@ -107,7 +116,9 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `40 U.S.C. § 11101` | replace | Chapter 35 of title 44, United States Code, is amended by striking subchapters II and III and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 7406` | replace | The table of sections for chapter 35 of title 44, United States Code is amended by striking the matter relating to subchapters II and III and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 143` | insert | in the section heading, by inserting “Federal and” before “non-Federal”; | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 143` | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 143` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 101` | replace | in the table of contents in section 1(b), by striking the item relating to section 223 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278g-4` | insert | in paragraph (2), by inserting “, the Secretary of Homeland Security,” after “the Institute”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 278g-4` | insert | in paragraph (3), by inserting “the Secretary of Homeland Security,” after “the Secretary of Commerce,”. | the bill quotes the text inserted but describes where it goes |
-| — | add-at-end | Subchapter II of chapter 35 of title 44, United States Code, as added by this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections for subchapter II for chapter 35 of title 44, United States Code, as added by this Act, is amended by inserting after the item relating to section 3558 the following: | the bill names no machine-readable US Code section |
