@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5683
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5683
@@ -29,3 +29,8 @@ Ensuring Access to Justice for Claims Against the United States Act
 - 2014-11-12 — Introduced in House
 - 2014-11-12 — Introduced in House
 - 2014-11-12 — Referred to the House Committee on the Judiciary.
+- 2014-11-13 — Committee Consideration and Mark-up Session Held.
+- 2014-11-13 — Ordered to be Reported by Voice Vote.
+- 2014-12-08 — Placed on the Union Calendar, Calendar No. 488.
+- 2014-12-08 — Reported by the Committee on Judiciary. H. Rept. 113-650.
+- 2014-12-08 — Reported by the Committee on Judiciary. H. Rept. 113-650.
