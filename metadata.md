@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 45
 congress: 113
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.J.Res. 45
@@ -21,9 +21,10 @@ A joint resolution providing for the reappointment of David M. Rubenstein as a c
 - Sen. Cochran, Thad [R-MS] (C000567)
 - Sen. Reed, Jack [D-RI] (R000122)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Rules and Administration Committee
+- House — Committee on House Administration
 
 ## Actions
 
@@ -33,3 +34,6 @@ A joint resolution providing for the reappointment of David M. Rubenstein as a c
 - 2014-12-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6356)
 - 2014-12-04 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S6356)
 - 2014-12-04 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S6356)
+- 2014-12-08 — Message on Senate action sent to the House.
+- 2014-12-08 — Received in the House.
+- 2014-12-08 — Referred to the House Committee on House Administration.
