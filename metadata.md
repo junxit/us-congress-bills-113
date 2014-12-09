@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 107
 congress: 113
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.Con.Res. 107
@@ -145,3 +145,5 @@ A concurrent resolution denouncing the use of civilians as human shields by Hama
 - 2014-12-04 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
 - 2014-12-04 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
 - 2014-12-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 616.
+- 2014-12-09 — Passed Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent. (consideration: CR S6465-6566; text as passed Senate: CR S6465-6466)
+- 2014-12-09 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent.(consideration: CR S6465-6566; text as passed Senate: CR S6465-6466)
