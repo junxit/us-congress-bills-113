@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2901
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2901
@@ -153,3 +153,12 @@ Senator Paul Simon Water for the World Act of 2014
 - 2014-12-08 — On passage Passed without objection.
 - 2014-12-08 — Passed/agreed to in House: On passage Passed without objection.
 - 2014-12-09 — Received in the Senate, read twice.
+- 2014-12-15 — Passed Senate without amendment by Voice Vote. (consideration: CR S6867)
+- 2014-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S6867)
+- 2014-12-16 — Message on Senate action sent to the House.
+- 2014-12-18 — Presented to President.
+- 2014-12-18 — Presented to President.
+- 2014-12-19 — Became Public Law No: 113-289.
+- 2014-12-19 — Became Public Law No: 113-289.
+- 2014-12-19 — Signed by President.
+- 2014-12-19 — Signed by President.
