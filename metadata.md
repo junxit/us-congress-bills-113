@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5771
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5771
@@ -15,6 +15,18 @@ Tax Increase Prevention Act of 2014
 ## Sponsor
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
+
+## Cosponsors (9)
+
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
 
 ## Committees (3)
 
@@ -50,3 +62,6 @@ Tax Increase Prevention Act of 2014
 - 2014-12-03 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8342)
 - 2014-12-03 — The previous question was ordered pursuant to the rule. (consideration: CR H8340)
 - 2014-12-03 — The rule provides for a closed rule for H.R. 5771 and H.R. 647.
+- 2014-12-08 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-12-09 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 627.
+- 2014-12-09 — Senate amendment submitted
