@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4926
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4926
@@ -49,3 +49,4 @@ To designate a segment of Interstate Route 35 in the State of Minnesota as the "
 - 2014-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8844-8845)
 - 2014-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8844-8845)
 - 2014-12-08 — The title of the measure was amended. Agreed to without objection.
+- 2014-12-09 — Received in the Senate, read twice.
