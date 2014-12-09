@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5771
 congress: 113
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5771
@@ -16,8 +16,11 @@ Tax Increase Prevention Act of 2014
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 
-## Cosponsors (9)
+## Cosponsors (13)
 
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Toomey, Patrick [R-PA] (T000461)
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Rockefeller, John D., IV [D-WV] (R000361)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
@@ -27,6 +30,7 @@ Tax Increase Prevention Act of 2014
 - Sen. Donnelly, Joe [D-IN] (D000607)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Cochran, Thad [R-MS] (C000567)
 
 ## Committees (3)
 
@@ -34,10 +38,11 @@ Tax Increase Prevention Act of 2014
 - House — Education and the Workforce Committee
 - House — Ways and Means Committee
 
-## Recorded votes (2)
+## Recorded votes (3)
 
 - 2014-12-03 — [House 113-2-543](votes/house-113-2-0543.md) — On Motion to Recommit with Instructions — **Failed** (197–223)
 - 2014-12-03 — [House 113-2-544](votes/house-113-2-0544.md) — On Passage — **Passed** (378–46)
+- 2014-12-16 — [Senate 113-2-364](votes/senate-113-2-0364.md) — On Passage of the Bill — **Bill Passed** (76–16)
 
 ## Actions
 
@@ -65,3 +70,30 @@ Tax Increase Prevention Act of 2014
 - 2014-12-08 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2014-12-09 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 627.
 - 2014-12-09 — Senate amendment submitted
+- 2014-12-12 — Senate amendment submitted
+- 2014-12-12 — Senate amendment submitted
+- 2014-12-12 — Senate amendment submitted
+- 2014-12-12 — Senate amendment submitted
+- 2014-12-12 — Senate amendment submitted
+- 2014-12-12 — Senate amendment submitted
+- 2014-12-12 — Senate amendment submitted
+- 2014-12-12 — Senate amendment submitted
+- 2014-12-12 — Senate amendment submitted
+- 2014-12-12 — Senate amendment submitted
+- 2014-12-12 — Senate amendment submitted
+- 2014-12-12 — Senate amendment submitted
+- 2014-12-12 — Senate amendment submitted
+- 2014-12-15 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S6823; text: CR S6823)
+- 2014-12-16 — Measure laid before Senate by unanimous consent. (consideration: CR S6898-6903)
+- 2014-12-16 — Motion to proceed to measure considered in Senate.
+- 2014-12-16 — Passed Senate, under the order of 12/16/14, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 76 - 16. Record Vote Number: 364.
+- 2014-12-16 — Passed/agreed to in Senate: Passed Senate, under the order of 12/16/14, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 76 - 16. Record Vote Number: 364.
+- 2014-12-16 — Pursuant to the provisions of H. Con. Res. 124, enrollment corrections on H.R. 5771 have been made.
+- 2014-12-16 — Senate amendment submitted
+- 2014-12-17 — Message on Senate action sent to the House.
+- 2014-12-18 — Presented to President.
+- 2014-12-18 — Presented to President.
+- 2014-12-19 — Became Public Law No: 113-295.
+- 2014-12-19 — Became Public Law No: 113-295.
+- 2014-12-19 — Signed by President.
+- 2014-12-19 — Signed by President.
