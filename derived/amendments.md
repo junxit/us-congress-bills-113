@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2719
 congress: 113
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Title XVI of the Homeland Security Act of 2002 (116 Stat. 2312) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | The table of contents in section 1(b) of such Act is amended by striking the items relating to title XVI and inserting the following: | the bill names no machine-readable US Code section |
+| — | amend | Title XVI of the Homeland Security Act of 2002 (Public Law 107–296; 116 Stat. 2312) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by striking the items relating to title XVI and inserting the following: | the bill names no machine-readable US Code section |

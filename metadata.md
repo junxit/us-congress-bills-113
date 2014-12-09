@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2719
 congress: 113
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2719
@@ -52,3 +52,14 @@ Transportation Security Acquisition Reform Act
 - 2013-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 616). (text: CR H7409-7411)
 - 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 616).(text: CR H7409-7411)
 - 2013-12-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2014-12-09 — Amendment SA 3978 agreed to in Senate by Unanimous Consent.
+- 2014-12-09 — Amendment SA 3978 proposed by Senator Reid for Senator Ayotte. (consideration: CR S6401) In the nature of a substitute.
+- 2014-12-09 — Measure laid before Senate by unanimous consent. (consideration: CR S6401)
+- 2014-12-09 — Message on Senate action sent to the House.
+- 2014-12-09 — Passed Senate with an amendment by Unanimous Consent.
+- 2014-12-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2014-12-09 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2014-12-09 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2014-12-09 — Senate amendment agreed to: Amendment SA 3978 agreed to in Senate by Unanimous Consent.
+- 2014-12-09 — Senate amendment proposed (on the floor): Amendment SA 3978 proposed by Senator Reid for Senator Ayotte.(consideration: CR S6401)
+- 2014-12-09 — Senate amendment submitted
