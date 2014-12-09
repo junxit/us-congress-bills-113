@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4320
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4320
@@ -16,7 +16,7 @@ Workforce Democracy and Fairness Act
 
 - Rep. Kline, John [R-MN-2] (K000363)
 
-## Cosponsors (20)
+## Cosponsors (37)
 
 - Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
@@ -38,6 +38,23 @@ Workforce Democracy and Fairness Act
 - Rep. Kelly, Mike [R-PA-3] (K000376)
 - Rep. Ribble, Reid J. [R-WI-8] (R000587)
 - Rep. Schweikert, David [R-AZ-6] (S001183)
+- Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Griffin, Tim [R-AR-2] (G000567)
+- Rep. Heck, Joseph J. [R-NV-3] (H001055)
+- Rep. Gibbs, Bob [R-OH-7] (G000563)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Coffman, Mike [R-CO-6] (C001077)
+- Rep. King, Steve [R-IA-4] (K000362)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Huelskamp, Tim [R-KS-1] (H001057)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Latham, Tom [R-IA-3] (L000111)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
 
 ## Committees (1)
 
@@ -48,3 +65,8 @@ Workforce Democracy and Fairness Act
 - 2014-03-27 — Introduced in House
 - 2014-03-27 — Introduced in House
 - 2014-03-27 — Referred to the House Committee on Education and the Workforce.
+- 2014-04-09 — Committee Consideration and Mark-up Session Held.
+- 2014-04-09 — Ordered to be Reported (Amended) by the Yeas and Nays: 21 - 14.
+- 2014-12-09 — Placed on the Union Calendar, Calendar No. 491.
+- 2014-12-09 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-653.
+- 2014-12-09 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-653.
