@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4681
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4681
@@ -21,10 +21,11 @@ Intelligence Authorization Act for Fiscal Year 2015
 - House — Intelligence (Permanent Select) Committee
 - Senate — Intelligence (Select) Committee
 
-## Recorded votes (2)
+## Recorded votes (3)
 
 - 2014-05-30 — [House 113-2-270](votes/house-113-2-0270.md) — On Motion to Recommit with Instructions — **Failed** (183–220)
 - 2014-05-30 — [House 113-2-271](votes/house-113-2-0271.md) — On Passage — **Passed** (345–59)
+- 2014-12-10 — [House 113-2-558](votes/house-113-2-0558.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (325–100)
 
 ## Actions
 
@@ -93,3 +94,17 @@ Intelligence Authorization Act for Fiscal Year 2015
 - 2014-12-09 — Senate amendment agreed to: Amendment SA 3995 agreed to in Senate by Unanimous Consent.
 - 2014-12-09 — Senate amendment proposed (on the floor): Amendment SA 3995 proposed by Senator Schatz for Senator Feinstein.(consideration: CR S6463)
 - 2014-12-09 — Senate amendment submitted
+- 2014-12-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2014-12-10 — Considered as unfinished business. (consideration: CR H8991-8992)
+- 2014-12-10 — DEBATE - The House proceeded with 40 minutes of debate on the motion to suspend the rules and agree in the Senate amendment to H.R. 4681.
+- 2014-12-10 — Message on Senate action sent to the House.
+- 2014-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-10 — Mr. Rogers (MI) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H8951-8962)
+- 2014-12-10 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 325 - 100 (Roll no. 558). (text as House agreed to Senate amendment: CR H8951-8956)
+- 2014-12-10 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 325 - 100 (Roll no. 558).(text as House agreed to Senate amendment: CR H8951-8956)
+- 2014-12-12 — Presented to President.
+- 2014-12-12 — Presented to President.
+- 2014-12-19 — Became Public Law No: 113-293.
+- 2014-12-19 — Became Public Law No: 113-293.
+- 2014-12-19 — Signed by President.
+- 2014-12-19 — Signed by President.

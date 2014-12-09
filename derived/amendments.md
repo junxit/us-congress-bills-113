@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4681
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-21 amendatory instructions. 0 executed, 21 stated and not applied.
+21 amendatory instructions. 2 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 50 U.S.C. § 3341
+
+> in the matter preceding subparagraph (A), by striking “2014—” and inserting “2014, and consistent with subsection (j)—”;
+
+| | |
+|---|---|
+| Removed | `2014—` |
+| Inserted | `2014, and consistent with subsection (j)—` |
+
+### 50 U.S.C. § 3341
+
+> in subparagraph (A), by striking “to appeal a determination to suspend or revoke a security clearance or access to classified information” and inserting “alleging reprisal for having made a protected disclosure (provided the individual does not disclose classified information or other information contrary to law) to appeal any action affecting an employee’s access to classified information”; and
+
+| | |
+|---|---|
+| Removed | `to appeal a determination to suspend or revoke a security clearance or access to classified information` |
+| Inserted | `alleging reprisal for having made a protected disclosure (provided the individual does not disclose classified information or other information contrary to law) to appeal any action affecting an employee’s access to classified information` |
 
 ## Stated, not applied
 
@@ -44,9 +64,7 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 3224` | insert | in subsection (c)(1), by inserting “and Predominantly Black Institutions” after “universities”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1059e` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1059e` | insert | by inserting after paragraph (3) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | in the matter preceding subparagraph (A), by striking “2014—” and inserting “2014, and consistent with subsection (j)—”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking “to appeal a determination to suspend or revoke a security clearance or access to classified information” and inserting “alleging reprisal for having made a protected disclosure (provided the individual d… | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “information,” inserting “information following a protected disclosure,”. | the bill names no machine-readable US Code section |
+| `50 U.S.C. § 3341` | replace | in subparagraph (B), by striking “information,” inserting “information following a protected disclosure,”. | the bill quotes text on both sides, but not as a single substitution this could carry out |
 | `50 U.S.C. § 3091` | add-at-end | Title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3091` | amend | The table of sections in the first section of the National Security Act of 1947 is amended by adding after the item relating to section 510 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3098` | strike | in paragraph (11), by striking “or contracted”; | the bill quotes the text struck but describes what replaces it |
