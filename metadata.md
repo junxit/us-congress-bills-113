@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5705
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5705
@@ -16,9 +16,12 @@ Propane Education and Research Enhancement Act of 2014
 
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Ribble, Reid J. [R-WI-8] (R000587)
 
 ## Committees (1)
 
@@ -29,3 +32,10 @@ Propane Education and Research Enhancement Act of 2014
 - 2014-11-13 — Introduced in House
 - 2014-11-13 — Introduced in House
 - 2014-11-13 — Referred to the House Committee on Energy and Commerce.
+- 2014-11-14 — Referred to the Subcommittee on Energy and Power.
+- 2014-12-09 — Considered under suspension of the rules. (consideration: CR H8891-8892)
+- 2014-12-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5705.
+- 2014-12-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-09 — Mr. Latta moved to suspend the rules and pass the bill.
+- 2014-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8891)
+- 2014-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8891)
