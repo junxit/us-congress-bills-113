@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1204
 congress: 113
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1204
@@ -16,7 +16,7 @@ Aviation Security Stakeholder Participation Act of 2014
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Cosponsors (8)
+## Cosponsors (9)
 
 - Rep. Richmond, Cedric L. [D-LA-2] (R000588)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
@@ -26,6 +26,7 @@ Aviation Security Stakeholder Participation Act of 2014
 - Rep. Keating, William R. [D-MA-9] (K000375)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Hudson, Richard [R-NC-8] (H001067)
+- Sen. Tester, Jon [D-MT] (T000464)
 
 ## Committees (2)
 
@@ -58,3 +59,14 @@ Aviation Security Stakeholder Participation Act of 2014
 - 2013-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 3 (Roll no. 617). (text: CR H7414-7415)
 - 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 3 (Roll no. 617).(text: CR H7414-7415)
 - 2013-12-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2014-12-09 — Amendment SA 3977 agreed to in Senate by Unanimous Consent.
+- 2014-12-09 — Amendment SA 3977 proposed by Senator Reid for Senator Rockefeller. (consideration: CR S6400-6401) In the nature of a substitute.
+- 2014-12-09 — Measure laid before Senate by unanimous consent. (consideration: CR S6400-6401)
+- 2014-12-09 — Message on Senate action sent to the House.
+- 2014-12-09 — Passed Senate with an amendment by Unanimous Consent. (text: CR S6400-6401)
+- 2014-12-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S6400-6401)
+- 2014-12-09 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2014-12-09 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2014-12-09 — Senate amendment agreed to: Amendment SA 3977 agreed to in Senate by Unanimous Consent.
+- 2014-12-09 — Senate amendment proposed (on the floor): Amendment SA 3977 proposed by Senator Reid for Senator Rockefeller.(consideration: CR S6400-6401)
+- 2014-12-09 — Senate amendment submitted

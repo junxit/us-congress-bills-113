@@ -2,81 +2,68 @@
 legis-num: H.R. 1204
 congress: 113th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1204
 
-> To amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to establish an Aviation Security Advisory Committee, and for other purposes.
+That the bill from the House of Representatives (H.R. 1204) entitled “An Act to amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to establish an Aviation Security Advisory Committee, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Aviation Security Stakeholder Participation Act of 2013”.
+This Act may be cited as the “Aviation Security Stakeholder Participation Act of 2014”.
 
 ## § 2. Aviation Security Advisory Committee
 
 - **(a)** *In general* Subchapter II of chapter 449 of title 49, United States Code, is amended by adding at the end the following:
   > ## § 44946. Aviation Security Advisory Committee
   >
-  > - **(a)** *Establishment* The Assistant Secretary shall establish within the Transportation Security Administration an advisory committee to be known as the “Aviation Security Advisory Committee”.
+  > - **(a)** *Establishment* The Assistant Secretary shall establish within the Transportation Security Administration an aviation security advisory committee.
   > - **(b)** *Duties*
-  >   - **(1)** *In general* The Assistant Secretary shall consult the Advisory Committee on aviation security matters, including on the development, refinement, and implementation of policies, programs, rulemaking, and security directives pertaining to aviation security, while adhering to sensitive security guidelines.
+  >   - **(1)** *In general* The Assistant Secretary shall consult the Advisory Committee, as appropriate, on aviation security matters, including on the development, refinement, and implementation of policies, programs, rulemaking, and security directives pertaining to aviation security, while adhering to sensitive security guidelines.
   >   - **(2)** *Recommendations*
   >     - **(A)** *In general* The Advisory Committee shall develop, at the request of the Assistant Secretary, recommendations for improvements to aviation security.
-  >     - **(B)** *Recommendations of subcommittees* Recommendations agreed upon by the subcommittees established under this section shall be approved by the Advisory Committee for transmission to the Assistant Secretary.
+  >     - **(B)** *Recommendations of subcommittees* Recommendations agreed upon by the subcommittees established under this section shall be approved by the Advisory Committee before transmission to the Assistant Secretary.
   >   - **(3)** *Periodic reports* The Advisory Committee shall periodically submit to the Assistant Secretary—
   >     - **(A)** reports on matters identified by the Assistant Secretary; and
   >     - **(B)** reports on other matters identified by a majority of the members of the Advisory Committee.
-  >   - **(4)** *Annual report* The Advisory Committee shall submit to the Assistant Secretary an annual report providing information on the activities, findings, and recommendations of the Advisory Committee, including its subcommittees, for the preceding year.
-  >   - **(5)** *Feedback* Not later than 90 days after receiving recommendations transmitted by the Advisory Committee under paragraph (4), the Assistant Secretary shall respond in writing to the Advisory Committee with feedback on each of such recommendations, an action plan to implement any of such recommendations with which the Assistant Secretary concurs, and a detailed justification for why any of such recommendations have been rejected.
-  >   - **(6)** *Congressional notification* Not later than 30 days after providing written feedback to the Advisory Committee in accordance with paragraph (5), the Assistant Secretary shall brief the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on such feedback.
-  >   - **(7)** *Report to Congress* Prior to briefing the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate in accordance with paragraph (6), the Assistant Secretary shall submit to such committees a report containing information relating to the recommendations transmitted by the Advisory Committee in accordance with paragraph (4).
+  >   - **(4)** *Annual report* The Advisory Committee shall submit to the Assistant Secretary an annual report providing information on the activities, findings, and recommendations of the Advisory Committee, including its subcommittees, for the preceding year. Not later than 6 months after the date that the Secretary receives the annual report, the Secretary shall publish a public version describing the Advisory Committee's activities and such related matters as would be informative to the public consistent with the policy of section 552(b) of title 5.
+  >   - **(5)** *Feedback* Not later than 90 days after receiving recommendations transmitted by the Advisory Committee under paragraph (4), the Assistant Secretary shall respond in writing to the Advisory Committee with feedback on each of the recommendations, an action plan to implement any of the recommendations with which the Assistant Secretary concurs, and a justification for why any of the recommendations have been rejected.
+  >   - **(6)** *Congressional notification* Not later than 30 days after providing written feedback to the Advisory Committee under paragraph (5), the Assistant Secretary shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives on such feedback, and provide a briefing upon request.
+  >   - **(7)** *Report to Congress* Prior to briefing the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives under paragraph (6), the Assistant Secretary shall submit to such committees a report containing information relating to the recommendations transmitted by the Advisory Committee in accordance with paragraph (4).
   > - **(c)** *Membership*
   >   - **(1)** *Appointment*
-  >     - **(A)** *In general* Not later than 180 days after the date of enactment of this section, the Assistant Secretary shall appoint the members of the Advisory Committee.
-  >     - **(B)** *Composition* The membership of the Advisory Committee shall consist of individuals representing not more than 32 member organizations. Each organization shall be represented by one individual (or the individual’s designee).
-  >     - **(C)** *Representation* The membership of the Advisory Committee shall include representatives of air carriers, all cargo air transportation, indirect air carriers, labor organizations representing air carrier employees, aircraft manufacturers, airport operators, general aviation, privacy organizations, the travel industry, airport based businesses, including minority owned small businesses, businesses that conduct security operations at airports, aeronautical repair stations, passenger advocacy groups, the aviation technology security industry, including biometrics, victims of terrorist acts against aviation, and law enforcement and security experts.
-  >   - **(2)** *Removal* The Assistant Secretary may review the participation of a member of the Advisory Committee and remove such member for cause at any time.
+  >     - **(A)** *In general* Not later than 180 days after the date of enactment of the Aviation Security Stakeholder Participation Act of 2014, the Assistant Secretary shall appoint the members of the Advisory Committee.
+  >     - **(B)** *Composition* The membership of the Advisory Committee shall consist of individuals representing not more than 34 member organizations. Each organization shall be represented by 1 individual (or the individual’s designee).
+  >     - **(C)** *Representation* The membership of the Advisory Committee shall include representatives of air carriers, all-cargo air transportation, indirect air carriers, labor organizations representing air carrier employees, labor organizations representing transportation security officers, aircraft manufacturers, airport operators, airport construction and maintenance contractors, labor organizations representing employees of airport construction and maintenance contractors, general aviation, privacy organizations, the travel industry, airport-based businesses (including minority-owned small businesses), businesses that conduct security screening operations at airports, aeronautical repair stations, passenger advocacy groups, the aviation security technology industry (including screening technology and biometrics), victims of terrorist acts against aviation, and law enforcement and security experts.
+  >   - **(2)** *Term of office*
+  >     - **(A)** *Terms* The term of each member of the Advisory Committee shall be 2 years. A member of the Advisory Committee may be reappointed.
+  >     - **(B)** *Removal* The Assistant Secretary may review the participation of a member of the Advisory Committee and remove such member for cause at any time.
   >   - **(3)** *Prohibition on compensation* The members of the Advisory Committee shall not receive pay, allowances, or benefits from the Government by reason of their service on the Advisory Committee.
-  >   - **(4)** *Meetings* The Assistant Secretary shall require the Advisory Committee to meet at least semiannually and may convene additional meetings as necessary.
-  > - **(d)** *Air cargo security subcommittee*
-  >   - **(1)** *In general* The Assistant Secretary shall establish within the Advisory Committee an air cargo security subcommittee to provide recommendations on air cargo security issues, including the implementation of the air cargo security programs established by the Transportation Security Administration to screen air cargo on passenger aircraft and all-cargo aircraft in accordance with established cargo screening mandates.
-  >   - **(2)** *Meetings and reporting* The subcommittee shall meet at least quarterly and submit to the Advisory Committee for inclusion in the annual report required under subsection (b)(4) information, including recommendations, regarding air cargo security. Such submissions shall include recommendations to improve the Transportation Security Administration’s cargo security initiatives established to meet the requirements of section 44901(g).
-  >   - **(3)** *Membership* The subcommittee shall—
-  >     - **(A)** include members of the Advisory Committee with expertise in air cargo operations; and
-  >     - **(B)** be cochaired by a Government and industry official.
-  > - **(e)** *General aviation security subcommittee*
-  >   - **(1)** *In general* The Assistant Secretary shall establish within the Advisory Committee a general aviation subcommittee to provide recommendations on transportation security issues for general aviation facilities, general aviation aircraft, and helicopter operations at general aviation and commercial service airports.
-  >   - **(2)** *Meetings and reporting* The subcommittee shall meet at least quarterly and submit to the Advisory Committee for inclusion in the annual report required under subsection (b)(4) information, including recommendations, regarding aviation security at general aviation airports.
-  >   - **(3)** *Membership* The subcommittee shall—
-  >     - **(A)** include members of the Advisory Committee with expertise in general aviation; and
-  >     - **(B)** be cochaired by a Government and industry official.
-  > - **(f)** *Perimeter security, exit lane security, and access control subcommittee*
-  >   - **(1)** *In general* The Assistant Secretary shall establish within the Advisory Committee an airport perimeter security, exit lane security, and access control subcommittee to provide recommendations on airport perimeter security, exit lane security at commercial service airports, and access control issues.
-  >   - **(2)** *Meetings and reporting* The subcommittee shall meet at least quarterly and submit to the Advisory Committee for inclusion in the annual report required under subsection (b)(4) information, including recommendations, regarding improving perimeter security, exit lane security at commercial service airports, and access control procedures at commercial service and general aviation airports.
-  >   - **(3)** *Membership* The subcommittee shall—
-  >     - **(A)** include members of the Advisory Committee with expertise in airport perimeter security and access control issues; and
-  >     - **(B)** be co-chaired by a Government and industry official.
-  > - **(g)** *Risk-based subcommittee*
-  >   - **(1)** *In general* The Assistant Secretary shall establish within the Advisory Committee a risk-based subcommittee to provide recommendations on passenger screening policies and cargo.
-  >   - **(2)** *Meetings and reporting* The subcommittee shall meet at least quarterly and submit to the Advisory Committee for inclusion in the annual report required under subsection (b)(4) information, including recommendations, regarding the Transportation Security Administration’s risk-based security programs.
-  >   - **(3)** *Membership* The subcommittee shall—
-  >     - **(A)** include members of the Advisory Committee with expertise in passenger advocacy and airport security operations; and
-  >     - **(B)** be cochaired by a Government and industry official.
-  > - **(h)** *Security technology subcommittee*
-  >   - **(1)** *In general* The Assistant Secretary shall establish within the Advisory Committee a security technology subcommittee to provide recommendations on security technology issues, including harmonization of security technology standards and requirements.
-  >   - **(2)** *Meetings and reporting* The subcommittee shall meet at least quarterly and submit to the Advisory Committee for inclusion in the annual report required under subsection (b)(4) information, including recommendations, regarding security technology. Such submissions shall include recommendations to improve the Transportation Security Administration’s utilization of security technology and harmonization of security technology standards and requirements. All recommendations shall be in furtherance of aviation security and technology neutral.
-  >   - **(3)** *Membership* The subcommittee shall—
-  >     - **(A)** include members of the Advisory Committee with expertise in checkpoint, baggage, and air cargo security technology; and
-  >     - **(B)** be co-chaired by a Government and industry official.
-  > - **(i)** *Other subcommittees* The Assistant Secretary, in consultation with the Advisory Committee, may establish within the Advisory Committee any other subcommittee that the Assistant Secretary and Advisory Committee determine necessary.
-  > - **(j)** *Subject matter experts* Each subcommittee under this section shall include subject matter experts with relevant expertise who are appointed by the respective subcommittee chairperson.
-  > - **(k)** *Nonapplicability of FACA* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Committee and its subcommittees.
-  > - **(l)** *Definitions* In this section, the following definitions apply:
-  >   - **(1)** *Advisory Committee* The term “Advisory Committee” means the Aviation Security Advisory Committee established under subsection (a).
-  >   - **(2)** *Assistant Secretary* The term “Assistant Secretary” means the Assistant Secretary of Homeland Security (Transportation Security Administration).
-  >   - **(3)** *Perimeter security* The term “perimeter security”—
-  >     - **(A)** means procedures or systems to monitor, secure, and prevent unauthorized access to an airport, including its airfield and terminal; and
-  >     - **(B)** includes the fence area surrounding an airport, access gates, and access controls.
+  >   - **(4)** *Meetings*
+  >     - **(A)** *In general* The Assistant Secretary shall require the Advisory Committee to meet at least semiannually and may convene additional meetings as necessary.
+  >     - **(B)** *Public meetings* At least 1 of the meetings described in subparagraph (A) shall be open to the public.
+  >     - **(C)** *Attendance* The Advisory Committee shall maintain a record of the persons present at each meeting.
+  >   - **(5)** *Member access to sensitive security information* Not later than 60 days after the date of a member’s appointment, the Assistant Secretary shall determine if there is cause for the member to be restricted from possessing sensitive security information. Without such cause, and upon the member voluntarily signing a non-disclosure agreement, the member may be granted access to sensitive security information that is relevant to the member's advisory duties. The member shall protect the sensitive security information in accordance with part 1520 of title 49, Code of Federal Regulations.
+  >   - **(6)** *Chairperson* A stakeholder representative on the Advisory Committee who is elected by the appointed membership of the Advisory Committee shall chair the Advisory Committee.
+  > - **(d)** *Subcommittees*
+  >   - **(1)** *Membership* The Advisory Committee chairperson, in coordination with the Assistant Secretary, may establish within the Advisory Committee any subcommittee that the Assistant Secretary and Advisory Committee determine to be necessary. The Assistant Secretary and the Advisory Committee shall create subcommittees to address aviation security issues, including the following:
+  >     - **(A)** *Air cargo security* The implementation of the air cargo security programs established by the Transportation Security Administration to screen air cargo on passenger aircraft and all-cargo aircraft in accordance with established cargo screening mandates.
+  >     - **(B)** *General aviation* General aviation facilities, general aviation aircraft, and helicopter operations at general aviation and commercial service airports.
+  >     - **(C)** *Perimeter and access control* Recommendations on airport perimeter security, exit lane security and technology at commercial service airports, and access control issues.
+  >     - **(D)** *Security technology* Security technology standards and requirements, including their harmonization internationally, technology to screen passengers, passenger baggage, carry-on baggage, and cargo, and biometric technology.
+  >   - **(2)** *Risk-based security* All subcommittees established by the Advisory Committee chairperson in coordination with the Assistant Secretary shall consider risk-based security approaches in the performance of their functions that weigh the optimum balance of costs and benefits in transportation security, including for passenger screening, baggage screening, air cargo security policies, and general aviation security matters.
+  >   - **(3)** *Meetings and reporting* Each subcommittee shall meet at least quarterly and submit to the Advisory Committee for inclusion in the annual report required under subsection (b)(4) information, including recommendations, regarding issues within the subcommittee.
+  >   - **(4)** *Subcommittee chairs* Each subcommittee shall be co-chaired by a Government official and an industry official.
+  > - **(e)** *Subject matter experts* Each subcommittee under this section shall include subject matter experts with relevant expertise who are appointed by the respective subcommittee chairpersons.
+  > - **(f)** *Nonapplicability of FACA* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Committee and its subcommittees.
+  > - **(g)** *Definitions* In this section:
+  >   - **(1)** *Advisory Committee* The term Advisory Committee means the aviation security advisory committee established under subsection (a).
+  >   - **(2)** *Assistant Secretary* The term Assistant Secretary means the Assistant Secretary of Homeland Security (Transportation Security Administration).
+  >   - **(3)** *Perimeter security*
+  >     - **(A)** *In general* The term perimeter security means procedures or systems to monitor, secure, and prevent unauthorized access to an airport, including its airfield and terminal.
+  >     - **(B)** *Inclusions* The term perimeter security includes the fence area surrounding an airport, access gates, and access controls.
 
 - **(b)** *Clerical amendment* The analysis for subchapter II of chapter 449 of title 49, United States Code, is amended by adding at the end the following new item:
