@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5562
 congress: 113
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5562
@@ -87,3 +87,14 @@ To designate the facility of the United States Postal Service located at 801 Wes
 - 2014-12-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8843)
 - 2014-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8843)
 - 2014-12-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2014-12-15 — Passed Senate without amendment by Unanimous Consent.
+- 2014-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2014-12-15 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S6841)
+- 2014-12-15 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S6841)
+- 2014-12-16 — Message on Senate action sent to the House.
+- 2014-12-17 — Presented to President.
+- 2014-12-17 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-267.
+- 2014-12-18 — Became Public Law No: 113-267.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
