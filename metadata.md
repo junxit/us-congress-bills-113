@@ -1,7 +1,7 @@
 ---
 measure: S. 1474
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1474
@@ -49,3 +49,17 @@ Alaska Safe Families and Villages Act of 2014
 - 2014-12-09 — Senate amendment submitted
 - 2014-12-09 — Senate amendment submitted
 - 2014-12-09 — The committee reported substitute was withdrawn by Unanimous Consent. (consideration: CR S6416)
+- 2014-12-10 — Held at the desk.
+- 2014-12-10 — Message on Senate action sent to the House.
+- 2014-12-10 — Received in the House.
+- 2014-12-11 — Considered by unanimous consent. (consideration: CR H9294)
+- 2014-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-11 — Mr. Goodlatte asked unanimous consent to take from the Speaker's table and consider.
+- 2014-12-11 — On passage Passed without objection. (text: CR H9294)
+- 2014-12-11 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9294)
+- 2014-12-15 — Presented to President.
+- 2014-12-15 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-275.
+- 2014-12-18 — Became Public Law No: 113-275.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
