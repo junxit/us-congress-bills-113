@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4681
 congress: 113
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4681
@@ -83,3 +83,13 @@ Intelligence Authorization Act for Fiscal Year 2015
 - 2014-05-30 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5055)
 - 2014-05-30 — The previous question was ordered pursuant to the rule. (consideration: CR H5053)
 - 2014-06-02 — Received in the Senate and Read twice and referred to the Select Committee on Intelligence.
+- 2014-12-09 — Amendment SA 3995 agreed to in Senate by Unanimous Consent.
+- 2014-12-09 — Amendment SA 3995 proposed by Senator Schatz for Senator Feinstein. (consideration: CR S6463) In the nature of a substitute.
+- 2014-12-09 — Measure laid before Senate by unanimous consent. (consideration: CR S6463-6464)
+- 2014-12-09 — Passed Senate with an amendment by Voice Vote.
+- 2014-12-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2014-12-09 — Senate Select Committee on Intelligence discharged by Unanimous Consent.
+- 2014-12-09 — Senate Select Committee on Intelligence discharged by Unanimous Consent.
+- 2014-12-09 — Senate amendment agreed to: Amendment SA 3995 agreed to in Senate by Unanimous Consent.
+- 2014-12-09 — Senate amendment proposed (on the floor): Amendment SA 3995 proposed by Senator Schatz for Senator Feinstein.(consideration: CR S6463)
+- 2014-12-09 — Senate amendment submitted
