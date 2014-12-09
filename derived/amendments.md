@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5185
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 42 U.S.C. § 280m
 
-> Section 399NN(h) of the Public Health Service Act (42 U.S.C. 280m(h)) is amended by striking “2010 through 2014” and inserting “2015 through 2019”.
+> Section 399NN(h) of the Public Health Service Act (42 U.S.C. 280m(h)) is amended by striking “$9,000,000 for each of the fiscal years 2010 through 2014” and inserting “$4,900,000 for each of fiscal years 2015 through 2019”.
 
 | | |
 |---|---|
-| Removed | `2010 through 2014` |
-| Inserted | `2015 through 2019` |
+| Removed | `$9,000,000 for each of the fiscal years 2010 through 2014` |
+| Inserted | `$4,900,000 for each of fiscal years 2015 through 2019` |
