@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5759
 congress: 113
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5759
@@ -64,3 +64,5 @@ Preventing Executive Overreach on Immigration Act of 2014
 - 2014-12-04 — Resolution provides for consideration of the Senate amendment to H.R. 3979; consideration of the bill H.R. 5759; and consideration of the bill H.R. 5781.
 - 2014-12-04 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8650)
 - 2014-12-04 — The previous question was ordered pursuant to the rule. (consideration: CR H8649)
+- 2014-12-08 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2014-12-09 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 626.
