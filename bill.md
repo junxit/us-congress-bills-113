@@ -1,11 +1,13 @@
 ---
 legis-num: H. CON. RES. 107
-congress: 113th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H. CON. RES. 107
+
+> Expressing the sense of Congress regarding the need for the continued availability of religious services to members of the Armed Forces and their families during a lapse in appropriations.
 
 ## Preamble
 
@@ -22,12 +24,6 @@ chamber: In the Senate of the United States,
 - Whereas the United States provided $460,000,000 in fiscal year 2014 for Iron Dome research, development, and production;
 - Whereas during the most recent rocket attacks from Gaza, Iron Dome successfully intercepted dozens of rockets that were launched against Israeli population centers; and
 - Whereas 5,000,000 Israelis are currently living under the threat of rocket attacks from Gaza: Now, therefore, be it
-
-That the resolution from the House of Representatives (H. Con. Res. 107) entitled “Concurrent resolution denouncing the use of civilians as human shields by Hamas and other terrorist organizations in violation of international humanitarian law.”, do pass with the following
-
-*Strike the preamble and insert the following:*
-
-*Strike all after the resolving clause and insert the following:*
 
 That Congress—
 
