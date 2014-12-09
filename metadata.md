@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5794
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5794
@@ -16,9 +16,10 @@ To designate the facility of the United States Postal Service located at 16105 S
 
 - Rep. Wagner, Ann [R-MO-2] (W000812)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ To designate the facility of the United States Postal Service located at 16105 S
 - 2014-12-08 — Mr. Meadows moved to suspend the rules and pass the bill.
 - 2014-12-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8841)
 - 2014-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8841)
+- 2014-12-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
