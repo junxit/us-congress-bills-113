@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4030
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4030
@@ -61,3 +61,12 @@ To designate the facility of the United States Postal Service located at 18640 N
 - 2014-12-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8842)
 - 2014-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8842)
 - 2014-12-09 — Received in the Senate, read twice.
+- 2014-12-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6924)
+- 2014-12-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6924)
+- 2014-12-17 — Message on Senate action sent to the House.
+- 2014-12-18 — Presented to President.
+- 2014-12-18 — Presented to President.
+- 2014-12-19 — Became Public Law No: 113-292.
+- 2014-12-19 — Became Public Law No: 113-292.
+- 2014-12-19 — Signed by President.
+- 2014-12-19 — Signed by President.
