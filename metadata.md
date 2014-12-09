@@ -1,7 +1,7 @@
 ---
 measure: S. 1474
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1474
@@ -33,3 +33,19 @@ Alaska Safe Families and Villages Act of 2014
 - 2014-08-26 — Committee on Indian Affairs. Reported by Senator Tester under authority of the order of the Senate of 08/05/2014 with an amendment in the nature of a substitute. Without written report.
 - 2014-08-26 — Committee on Indian Affairs. Reported by Senator Tester under authority of the order of the Senate of 08/05/2014 with an amendment in the nature of a substitute. Without written report.
 - 2014-08-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 534.
+- 2014-09-18 — By Senator Tester from Committee on Indian Affairs filed written report. Report No. 113-260.
+- 2014-09-18 — By Senator Tester from Committee on Indian Affairs filed written report. Report No. 113-260.
+- 2014-12-09 — Amendment SA 3981 agreed to in Senate by Unanimous Consent.
+- 2014-12-09 — Amendment SA 3981 proposed by Senator Begich. (consideration: CR S6416; text: CR S6416) In the nature of a substitute.
+- 2014-12-09 — Amendment SA 3982 agreed to in Senate by Unanimous Consent.
+- 2014-12-09 — Amendment SA 3982 proposed by Senator Begich. (consideration: CR S6416; text: CR S6416) To amend the title.
+- 2014-12-09 — Measure laid before Senate by unanimous consent. (consideration: CR S6414-6416; text of measure as reported in Senate: CR S6414-6416)
+- 2014-12-09 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2014-12-09 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2014-12-09 — Senate amendment agreed to: Amendment SA 3981 agreed to in Senate by Unanimous Consent.
+- 2014-12-09 — Senate amendment agreed to: Amendment SA 3982 agreed to in Senate by Unanimous Consent.
+- 2014-12-09 — Senate amendment proposed (on the floor): Amendment SA 3981 proposed by Senator Begich.(consideration: CR S6416; text: CR S6416)
+- 2014-12-09 — Senate amendment proposed (on the floor): Amendment SA 3982 proposed by Senator Begich.(consideration: CR S6416; text: CR S6416)
+- 2014-12-09 — Senate amendment submitted
+- 2014-12-09 — Senate amendment submitted
+- 2014-12-09 — The committee reported substitute was withdrawn by Unanimous Consent. (consideration: CR S6416)
