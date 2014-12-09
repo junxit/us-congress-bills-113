@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5146
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5146
@@ -36,9 +36,10 @@ To designate the United States courthouse located at 700 Grant Street in Pittsbu
 - Rep. Pitts, Joseph R. [R-PA-16] (P000373)
 - Rep. Cartwright, Matt [D-PA-17] (C001090)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ To designate the United States courthouse located at 700 Grant Street in Pittsbu
 - 2014-12-08 — Mr. Petri moved to suspend the rules and pass the bill.
 - 2014-12-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8848)
 - 2014-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8848)
+- 2014-12-09 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
