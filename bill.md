@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2719
-congress: 113th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2719
 
-That the bill from the House of Representatives (H.R. 2719) entitled “An Act to require the Transportation Security Administration to implement best practices and improve transparency with regard to technology acquisition programs, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To require the Transportation Security Administration to implement best practices and improve transparency with regard to technology acquisition programs, and for other purposes.
 
 ## § 1. Short title
 
