@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1204
-congress: 113th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1204
 
-That the bill from the House of Representatives (H.R. 1204) entitled “An Act to amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to establish an Aviation Security Advisory Committee, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to establish an Aviation Security Advisory Committee, and for other purposes.
 
 ## § 1. Short title
 
