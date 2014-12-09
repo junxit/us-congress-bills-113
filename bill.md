@@ -7,40 +7,31 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5059
 
-> To direct the Secretary of Defense and the Secretary of Veterans Affairs to provide for the conduct of annual evaluations of mental health care and suicide prevention programs of the Department of Defense and the Department of Veterans Affairs, to review the terms or characterization of the discharge or separation of certain individuals from the Armed Forces, to require a pilot program on loan repayment for psychiatrists who agree to serve in the Veterans Health Administration of the Department of Veterans Affairs, and for other purposes.
+> To direct the Secretary of Veterans Affairs to provide for the conduct of annual evaluations of mental health care and suicide prevention programs of the Department of Veterans Affairs, to require a pilot program on loan repayment for psychiatrists who agree to serve in the Veterans Health Administration of the Department of Veterans Affairs, and for other purposes.
 
 ## § 1. Short title
 
 This Act may be cited as the “Clay Hunt Suicide Prevention for American Veterans Act” or the “Clay Hunt SAV Act”.
 
-## § 2. Evaluations of mental health care and suicide prevention programs of Department of Veterans Affairs and Department of Defense
+## § 2. Evaluations of mental health care and suicide prevention programs of Department of Veterans Affairs
 
 - **(a)** *Evaluations*
-  - **(1)** *In general* Not less frequently than once each year, the Secretary concerned shall provide for the conduct of an evaluation of the mental health care and suicide prevention programs carried out under the laws administered by such Secretary.
+  - **(1)** *In general* Not less frequently than once each year, the Secretary of Veterans Affairs shall provide for the conduct of an evaluation of the mental health care and suicide prevention programs carried out under the laws administered by the Secretary.
   - **(2)** *Elements* Each evaluation conducted under paragraph (1) shall—
     - **(A)** use metrics that are common among and useful for practitioners in the field of mental health care and suicide prevention;
-    - **(B)** identify the most effective mental health care and suicide prevention programs conducted by the Secretary concerned, including such programs conducted at a Center of Excellence;
-    - **(C)** identify the cost-effectiveness of each programs identified under subparagraph (B); and
-    - **(D)** propose best practices for caring for individuals who suffer from mental health disorders or are at risk of suicide.
-  - **(3)** *Third party* Each evaluation conducted under paragraph (1) shall be conducted by an independent third party unaffiliated with the Department of Veterans Affairs and the Department of Defense. Such third party shall submit to the Secretary concerned each such evaluation as appropriate.
-  - **(4)** *Submission* The Secretary concerned shall annually submit to the Committees on Armed Services and the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report that contains the most recent evaluation submitted to the Secretary under paragraph (3).
-- **(b)** *Secretary concerned defined* In this section, the term Secretary concerned means—
-  - **(1)** the Secretary of Veterans Affairs with respect to matters concerning the Department of Veterans Affairs; and
-  - **(2)** the Secretary of Defense with respect to matters concerning the Department of Defense.
+    - **(B)** identify the most effective mental health care and suicide prevention programs conducted by the Secretary, including such programs conducted at a Center of Excellence;
+    - **(C)** identify the cost-effectiveness of each program identified under subparagraph (B);
+    - **(D)** measure the satisfaction of patients with respect to the care provided under each such program; and
+    - **(E)** propose best practices for caring for individuals who suffer from mental health disorders or are at risk of suicide, including such practices conducted or suggested by other departments or agencies of the Federal Government, including the Substance Abuse and Mental Health Services Administration of the Department of Health and Human Services.
+  - **(3)** *Third party* Each evaluation conducted under paragraph (1) shall be conducted by an independent third party unaffiliated with the Department of Veterans Affairs. Such third party shall submit to the Secretary each such evaluation.
+- **(b)** *Annual submission* Not later than December 1 of each year, beginning in 2015, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report that contains the following:
+  - **(1)** The most recent evaluations submitted to the Secretary under subsection (a)(3) that the Secretary has not previously submitted to such Committees.
+  - **(2)** Any recommendations the Secretary considers appropriate.
 
-## § 3. Review of characterization or terms of discharge from the Armed Forces of individuals with mental health disorders alleged to affect terms of discharge
+## § 3. Publication of Internet website to provide information regarding mental health care services
 
-- **(a)** *In general* Section 1553(d) of title 10, United States Code, is amended by adding at the end the following new paragraph:
-  > - **(3)**
-  >   - **(A)** In addition to the requirements of paragraph (1) and (2), in the case of a former member described in subparagraph (B), the Board shall—
-  >     - **(i)** review medical evidence of the Secretary of Veterans Affairs or a civilian health care provider that is presented by the former member; and
-  >     - **(ii)** review the case with a presumption of administrative irregularity and place the burden on the Secretary concerned to prove, by a preponderance of the evidence, that no error or injustice occurred.
-  >   - **(B)** A former member described in this subparagraph is a former member described in paragraph (1) or a former member whose application for relief is based in whole or in part on matters relating to post-traumatic stress disorder or traumatic brain injury as supporting rationale or as justification for priority consideration whose post-traumatic stress disorder or traumatic brain injury is related to combat or military sexual trauma, as determined by the Secretary concerned.
-
-## § 4. Publication of Internet website to provide information regarding mental health care services
-
-- **(a)** *In general* The Secretary of Veterans Affairs shall publish an Internet website that serves as a centralized source to provide veterans with information regarding all of the mental health care services provided by the Secretary.
-- **(b)** *Elements* The Internet website published under subsection (a) shall provide to veterans information regarding all of the mental health care services available in the Veteran Integrated Service Network that the veteran is seeking such services, including, with respect to each medical center and community-based outpatient center in the Veterans Integrated Service Network—
+- **(a)** *In general* Using funds made available to the Secretary of Veterans Affairs to publish the Internet websites of the Department of Veterans Affairs, the Secretary shall survey the existing Internet websites and information resources of the Department to publish an Internet website that serves as a centralized source to provide veterans with information regarding all of the mental health care services provided by the Secretary.
+- **(b)** *Elements* The Internet website published under subsection (a) shall provide to veterans information regarding all of the mental health care services available in the Veteran Integrated Service Network that the veteran is seeking such services, including, with respect to each medical center, Vet Center (as defined in section 1712A of title 38, United States Code), and community-based outpatient center in the Veterans Integrated Service Network—
   - **(1)** the name and contact information of each social work office;
   - **(2)** the name and contact information of each mental health clinic;
   - **(3)** a list of appropriate staff; and
@@ -48,31 +39,12 @@ This Act may be cited as the “Clay Hunt Suicide Prevention for American Vetera
 - **(c)** *Updated information* The Secretary shall ensure that the information described in subsection (b) that is published on the Internet website under subsection (a) is updated not less than once every 90 days.
 - **(d)** *Outreach* In carrying out this section, the Secretary shall ensure that the outreach conducted under section 1720F(i) of title 38, United States Code, includes information regarding the Internet website published under subsection (a).
 
-## § 5. Improvements to health care matters
-
-- **(a)** *Reserve components and Department of Veterans Affairs* The Secretary of Veterans Affairs and the Secretary of Defense, in consultation with the Chief of the National Guard Bureau, shall enter into formal strategic relationships between the Joint Forces Headquarters of each State regional commands of the reserve components and the Veterans Service Integrated Network, medical facilities of the Department of Veterans Affairs, and other local offices of the Department of Veterans Affairs located in the State with respect to facilitating—
-  - **(1)** the mental health referrals of members of the reserve components who have a service-connected disability and are being discharged or released from the Armed Forces;
-  - **(2)** timely behavioral health services for such members;
-  - **(3)** communication when such members are at risk for behavioral health reasons; and
-  - **(4)** the transfer of documentation for line of duty and fitness for duty determinations.
-- **(b)** *GAO report on transition of care*
-  - **(1)** *In general* Not later than April 1, 2015, the Comptroller General of the United States shall submit to the congressional defense committees (as defined in section 101(a)(16) of title 10, United States Code) and the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report that assesses the transition of care for post-traumatic stress disorder or traumatic brain injury.
-  - **(2)** *Matters included* The report under paragraph (1) shall include the following:
-    - **(A)** The programs, policies, and regulations that affect the transition of care, particularly with respect to individuals who are taking or have been prescribed antidepressants, stimulants, antipsychotics, mood stabilizers, anxiolytic, depressants, or hallucinogens.
-    - **(B)** Upon transitioning to care furnished by the Secretary of Veterans Affairs, the extent to which the pharmaceutical treatment plan of an individual changes, and the factors determining such changes.
-    - **(C)** The extent to which the Secretary of Defense and the Secretary of Veterans Affairs have worked together to identify and apply best pharmaceutical treatment practices.
-    - **(D)** A description of the off-formulary waiver process of the Secretary of Veterans Affairs, and the extent to which the process is applied efficiently at the treatment level.
-    - **(E)** The benefits and challenges of combining the formularies across the Department of Defense and the Department of Veterans Affairs.
-    - **(F)** Any other issues that the Comptroller General determines appropriate.
-  - **(3)** *Transition of care defined* In this subsection, the term transition of care means the transition of an individual from receiving treatment furnished by the Secretary of Defense to treatment furnished by the Secretary of Veterans Affairs.
-
-## § 6. Pilot program for repayment of educational loans for certain psychiatrists of Veterans Health Administration
+## § 4. Pilot program for repayment of educational loans for certain psychiatrists of Veterans Health Administration
 
 - **(a)** *Establishment* The Secretary of Veterans Affairs shall carry out a pilot program to repay loans of individuals described in subsection (b) that—
   - **(1)** were used by such individuals to finance education relating to psychiatric medicine, including education leading to—
-    - **(A)** an undergraduate degree;
-    - **(B)** a degree of doctor of medicine; or
-    - **(C)** a degree of doctor of osteopathy; and
+    - **(A)** a degree of doctor of medicine; or
+    - **(B)** a degree of doctor of osteopathy; and
   - **(2)** were obtained from any of the following:
     - **(A)** A governmental entity.
     - **(B)** A private financial institution.
@@ -86,70 +58,25 @@ This Act may be cited as the “Clay Hunt Suicide Prevention for American Vetera
     - **(B)** demonstrates a commitment to a long-term career as a psychiatrist in the Veterans Health Administration, as determined by the Secretary.
   - **(2)** *Prohibition on simultaneous eligibility* An individual who is participating in any other program of the Federal Government that repays the educational loans of the individual is not eligible to participate in the pilot program.
 - **(c)** *Selection* The Secretary shall select not less than 10 individuals described in subsection (b) to participate in the pilot program for each year in which the Secretary carries out the pilot program.
-- **(d)** *Period of obligated service* The Secretary shall enter into an agreement with each individual selected under subsection (c) in which such individual agrees to serve a period of obligated service for the Veterans Health Administration in the field of psychiatric medicine, as determined by the Secretary.
+- **(d)** *Period of obligated service* The Secretary shall enter into an agreement with each individual selected under subsection (c) in which such individual agrees to serve a period of 2 or more years of obligated service for the Veterans Health Administration in the field of psychiatric medicine, as determined by the Secretary.
 - **(e)** *Loan Repayments*
   - **(1)** *Amounts* Subject to paragraph (2), a loan repayment under this section may consist of payment of the principal, interest, and related expenses of a loan obtained by an individual who is participating in the pilot program for all educational expenses (including tuition, fees, books, and laboratory expenses) of such individual relating to education described in subsection (a)(1).
-  - **(2)** *Limit* For each year of obligated service that an individual who is participating in the pilot program agrees to serve under subsection (d), the Secretary may pay not more than $60,000 in loan repayment on behalf of such individual.
+  - **(2)** *Limit* For each year of obligated service that an individual who is participating in the pilot program agrees to serve under subsection (d), the Secretary may pay not more than $30,000 in loan repayment on behalf of such individual.
 - **(f)** *Breach*
   - **(1)** *Liability* An individual who participates in the pilot program and fails to satisfy the period of obligated service under subsection (d) shall be liable to the United States, in lieu of such obligated service, for the amount that has been paid or is payable to or on behalf of the individual under the pilot program, reduced by the proportion that the number of days served for completion of the period of obligated service bears to the total number of days in the period of obligated service of such individual.
-  - **(2)** *Repayment period* Any amount of damages that the United States is entitled to recover under this subsection shall be paid to the United States not later than one year after the date of the breach of the agreement.
+  - **(2)** *Repayment period* Any amount of damages that the United States is entitled to recover under this subsection shall be paid to the United States not later than 1 year after the date of the breach of the agreement.
 - **(g)** *Report*
-  - **(1)** *Initial report* Not later than two years after the date on which the pilot program under subsection (a) commences, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the pilot program.
+  - **(1)** *Initial report* Not later than 2 years after the date on which the pilot program under subsection (a) commences, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the pilot program.
   - **(2)** *Elements* The report required by paragraph (1) shall include the following:
-    - **(A)** The number of individuals who participated in the pilot program.
+    - **(A)** The number of individuals who participated in the pilot program, including the number of new hires.
     - **(B)** The locations in which such individuals were employed by the Department, including how many such locations were rural or urban locations.
-    - **(C)** An assessment of the quality of the work performed by such individuals in the course of such employment.
+    - **(C)** An assessment of the quality of the work performed by such individuals in the course of such employment, including the performance reviews of such individuals.
     - **(D)** The number of psychiatrists the Secretary determines is needed by the Department in the future.
-  - **(3)** *Final report* Not later than 90 days after the date on which the pilot program terminates under subsection (i), the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives an update to the report submitted under paragraph (1).
+  - **(3)** *Final report* Not later than 90 days before the date on which the pilot program terminates under subsection (i), the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives an update to the report submitted under paragraph (1) and any recommendations that the Secretary considers appropriate.
 - **(h)** *Regulations* The Secretary shall prescribe regulations to carry out this section, including standards for qualified loans and authorized payees and other terms and conditions for the making of loan repayments.
-- **(i)** *Termination* The authority to carry out the pilot program shall expire on the date that is three years after the date on which the Secretary commences the pilot program.
+- **(i)** *Termination* The authority to carry out the pilot program shall expire on the date that is 3 years after the date on which the Secretary commences the pilot program.
 
-## § 7. Public-private contributions for additional educational assistance for graduate degrees relating to mental health
-
-- **(a)** *In general* Section 3317 of title 38, United States Code, is amended by adding at the end the following new subsection:
-  > - **(f)** *Graduate degree in mental health*
-  >   - **(1)** As part of the Yellow Ribbon G.I. Education Enhancement Program carried out under this section, the Secretary shall carry out a program under which the Secretary and a college or university that enters into an agreement described in subsection (a) may make contributions pursuant to this subsection with respect to the full cost of established charges of a veteran described in paragraph (2).
-  >   - **(2)** A veteran described in this paragraph is a veteran who—
-  >     - **(A)** is eligible for the program under subsection (a);
-  >     - **(B)** holds a bachelor’s degree;
-  >     - **(C)** is pursuing an advanced degree in mental health at an institution of higher learning that participates in the program under subsection (a); and
-  >     - **(D)** is pursuing such a degree with the intention of seeking employment as a mental health professional in the Department of Veterans Affairs.
-  >   - **(3)** In determining the intention of a veteran under paragraph (2)(D), the Secretary may not require the veteran to enter into any binding agreement with respect to such intention.
-  >   - **(4)** In determining the amount of matching contributions pursuant to subsection (d)(1) for assistance provided under paragraph (1), the Secretary shall—
-  >     - **(A)** substitute “66 percent” for “up to 50 percent”; and
-  >     - **(B)** substitute “34 percent” for “an equal percentage”.
-  >   - **(5)** In accordance with section 7406 of this title, the Secretary may establish residencies and internships at medical facilities of the Department for veterans participating in the program under subsection (a).
-  >   - **(6)** If the Secretary employs a veteran who participates in the program under subsection (a) as a mental health professional following such participation, to the maximum extent practicable, the Secretary shall ensure that—
-  >     - **(A)** the veteran is employed in a rural area or an area that the Secretary determines is in greatest need of mental health professionals; and
-  >     - **(B)** the veteran is employed in a position that directly relates to the treatment of veterans rather than a research position.
-  >   - **(7)** In this subsection, the term advanced degree in mental health means a master’s degree, doctoral degree, or other graduate or professional degree that the Secretary determines would lead an individual to be employed as any of the following positions:
-  >     - **(A)** Psychiatrist.
-  >     - **(B)** Psychologist.
-  >     - **(C)** Mental health nurse.
-  >     - **(D)** Nurse assistant.
-  >     - **(E)** Physician assistant.
-  >     - **(F)** Pharmacist.
-  >     - **(G)** Social worker.
-  >     - **(H)** Licensed professional mental health counselor.
-  >     - **(I)** Licensed marriage and family therapist.
-  >     - **(J)** Addiction therapist.
-  >     - **(K)** Occupational therapist.
-  >     - **(L)** Recreational therapist.
-  >     - **(M)** Vocational rehabilitation therapist.
-  >     - **(N)** Health science specialist.
-  >     - **(O)** Health technician.
-  >     - **(P)** Any other position the Secretary determines appropriate.
-
-- **(b)** *Prohibition on transfer of eligibility* Section 3319(h) of such title is amended by adding at the end the following new paragraph:
-  > - **(8)** *Prohibition on certain contributions* Entitlement transferred under this section may not include eligibility for contributions under section 3317(f) of this title.
-
-- **(c)** *Effective date* The amendments made by this section shall apply with respect to a quarter, semester, or term that begins on or after July 1, 2015.
-
-## § 8. Review of staffing requirements for State Directors of Psychological Health
-
-Not later than 18 months after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services and the Committees on Veterans’ Affairs of the House of Representatives and the Senate a zero-based review, conducted in coordination with the Chief of the National Guard Bureau, of the staffing requirements for individual State National Guard Commands with respect to Directors of Psychological Health.
-
-## § 9. Pilot program on community outreach
+## § 5. Pilot program on community outreach
 
 - **(a)** *In general* The Secretary of Veterans Affairs shall establish a pilot program to assist veterans transitioning from serving on active duty and to improve the access of veterans to mental health services.
 - **(b)** *Locations* The Secretary shall carry out the pilot program under subsection (a) at not less than five Veterans Integrated Service Networks that have a large population of veterans who—
@@ -160,14 +87,14 @@ Not later than 18 months after the date of the enactment of this Act, the Secret
     - **(A)** establishes peer support training guidelines;
     - **(B)** develops a network of veteran peer support counselors to meet the demands of the communities in the Veterans Integrated Service Network;
     - **(C)** conducts training of veteran peer support counselors;
-    - **(D)** with respect to each medical center in such Veterans Integrated Service Network, has—
+    - **(D)** with respect to one medical center selected by the Secretary in each such Veterans Integrated Service Network, has—
       - **(i)** a designated peer support specialist who acts as a liaison to the community oriented veteran peer network; and
       - **(ii)** a certified mental health professional designated as the community oriented veteran peer network mentor; and
     - **(E)** is readily available to veterans, including pursuant to the Veterans Integrated Service Network cooperating and working with State and local governments and appropriate entities.
-  - **(2)** A community outreach team for each medical center in such Veterans Integrated Service Network that—
+  - **(2)** A community outreach team for each medical center selected by the Secretary pursuant to paragraph (1)(D) that—
     - **(A)** assists veterans transitioning into communities;
     - **(B)** establishes a veteran transition advisory group to facilitate outreach activities;
-    - **(C)** includes the participation of appropriate community organizations, State and local governments, colleges and universities, and organizations that provide legal aid or advice; and
+    - **(C)** includes the participation of appropriate community organizations, State and local governments, colleges and universities, chambers of commerce and other local business organizations, and organizations that provide legal aid or advice; and
     - **(D)** coordinates with the Veterans Integrated Service Network regarding the Veterans Integrated Service Network carrying out an annual mental health summit to assess the status of veteran mental health care in the community and to develop new or innovative means to provide mental health services to veterans.
 - **(d)** *Reports*
   - **(1)** *Initial report* Not later than 18 months after the date on which the pilot program under subsection (a) commences, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the pilot program. With respect to each Veterans Integrated Service Network described in subsection (b), the report shall include—
@@ -175,5 +102,28 @@ Not later than 18 months after the date of the enactment of this Act, the Secret
     - **(B)** recommendations on implementing peer support networks throughout the Department;
     - **(C)** whether the mental health resources made available under the pilot program for members of the reserve components of the Armed Forces is effective; and
     - **(D)** a full description of the activities and effectiveness of community outreach coordinating teams under the pilot program, including partnerships that have been established with appropriate entities.
-  - **(2)** *Final report* Not later than 90 days after the date on which the pilot program terminates under subsection (e), the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives an update to the report submitted under paragraph (1).
-- **(e)** *Termination* The authority of the Secretary to carry out the pilot program under subsection (a) shall terminate on the date that is three years after the date on which the pilot program commences.
+  - **(2)** *Final report* Not later than 90 days before the date on which the pilot program terminates under subsection (e), the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives an update to the report submitted under paragraph (1).
+- **(e)** *Construction* This section may not be construed to authorize the Secretary to hire additional employees of the Department to carry out the pilot program under subsection (a).
+- **(f)** *Termination* The authority of the Secretary to carry out the pilot program under subsection (a) shall terminate on the date that is 3 years after the date on which the pilot program commences.
+
+## § 6. Collaboration on suicide prevention efforts between Department of Veterans Affairs and non-profit mental health organizations
+
+- **(a)** *Collaboration* The Secretary of Veterans Affairs may collaborate with non-profit mental health organizations to prevent suicide among veterans as follows:
+  - **(1)** To improve the efficiency and effectiveness of suicide prevention efforts carried out by the Secretary and non-profit mental health organizations.
+  - **(2)** To assist non-profit mental health organizations with the suicide prevention efforts of such organizations through the use of the expertise of employees of the Department of Veterans Affairs.
+  - **(3)** To jointly carry out suicide prevention efforts.
+- **(b)** *Exchange of resources* In carrying out any collaboration under subsection (a), the Secretary and any non-profit mental health organization with which the Secretary is collaborating under such subsection shall exchange training sessions and best practices to help with the suicide prevention efforts of the Department and such organization.
+- **(c)** *Director of Suicide Prevention Coordination* The Secretary shall select within the Department a Director of Suicide Prevention Coordination to undertake any collaboration with non-profit mental health organizations under this section or any other provision of law.
+
+## § 7. Additional period of eligibility for health care for certain veterans of combat service during certain periods of hostilities and war
+
+Paragraph (3) of section 1710(e) of title 38, United States Code, is amended to read as follows:
+
+> - **(3)** In the case of care for a veteran described in paragraph (1)(D), hospital care, medical services, and nursing home care may be provided under or by virtue of subsection (a)(2)(F) only during the following periods:
+>   - **(A)** Except as provided by subparagraph (B), with respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, or air service after January 27, 2003, the five-year period beginning on the date of such discharge or release.
+>   - **(B)** With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, or air service after January 1, 2009, and before January 1, 2011, but did not enroll to receive such hospital care, medical services, or nursing home care pursuant to such paragraph during the five-year period described in subparagraph (A), the one-year period beginning on January 1, 2015.
+>   - **(C)** With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, or air service on or before January 27, 2003, and did not enroll in the patient enrollment system under section 1705 of this title on or before such date, the three-year period beginning on January 27, 2008.
+
+## § 8. Prohibition on new appropriations
+
+No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act, and this Act and such amendments shall be carried out using amounts otherwise made available for such purposes.
