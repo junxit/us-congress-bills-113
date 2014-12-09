@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2901
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2901
@@ -152,3 +152,4 @@ Senator Paul Simon Water for the World Act of 2014
 - 2014-12-08 — On agreeing to the Poe (TX) amendment (A001) Agreed to without objection.
 - 2014-12-08 — On passage Passed without objection.
 - 2014-12-08 — Passed/agreed to in House: On passage Passed without objection.
+- 2014-12-09 — Received in the Senate, read twice.
