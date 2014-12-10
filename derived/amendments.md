@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4007
 congress: 113
-version: Reported to Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,8 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `6 U.S.C. § 101` | add-at-end | The Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 101` | add-at-end | The table of contents in section 1(b) of such Act is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | add-at-end | The Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | add-at-end | The table of contents in section 1(b) of the Homeland Security Act of 2002 (Public Law 107–196; 116 Stat. 2135) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | repeal | Section 550 of the Department of Homeland Security Appropriations Act, 2007 (Public Law 109–295; 120 Stat. 1388), is repealed as of the effective date of this Act. | the bill names no machine-readable US Code section |

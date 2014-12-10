@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4007
 congress: 113
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4007
@@ -16,7 +16,7 @@ Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014
 
 - Rep. Meehan, Patrick [R-PA-7] (M001181)
 
-## Cosponsors (9)
+## Cosponsors (10)
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. King, Peter T. [R-NY-2] (K000210)
@@ -27,6 +27,7 @@ Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014
 - Rep. Daines, Steve [R-MT-At Large] (D000618)
 - Rep. Perry, Scott [R-PA-4] (P000605)
 - Rep. Vela, Filemon [D-TX-34] (V000132)
+- Sen. Coburn, Tom [R-OK] (C000560)
 
 ## Committees (3)
 
@@ -62,3 +63,13 @@ Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014
 - 2014-09-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. With written report No. 113-263.
 - 2014-09-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. With written report No. 113-263.
 - 2014-09-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 578.
+- 2014-12-10 — Amendment SA 4000 agreed to in Senate by Unanimous Consent.
+- 2014-12-10 — Amendment SA 4000 proposed by Senator Boxer for Senator Carper. (consideration: CR S6486) In the nature of a substitute.
+- 2014-12-10 — Measure laid before Senate by unanimous consent. (consideration: CR S6481-6486; text of measure as reported in Senate: CR S6481-6486)
+- 2014-12-10 — Message on Senate action sent to the House.
+- 2014-12-10 — Passed Senate with an amendment by Voice Vote.
+- 2014-12-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2014-12-10 — Senate amendment agreed to: Amendment SA 4000 agreed to in Senate by Unanimous Consent.
+- 2014-12-10 — Senate amendment proposed (on the floor): Amendment SA 4000 proposed by Senator Boxer for Senator Carper.(consideration: CR S6486)
+- 2014-12-10 — Senate amendment submitted
+- 2014-12-10 — The committee substitute as amended agreed to by Unanimous Consent.
