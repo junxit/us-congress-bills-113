@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5810
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5810
@@ -31,3 +31,9 @@ To amend the United States Cotton Futures Act to exclude certain cotton futures 
 - 2014-12-08 — Introduced in House
 - 2014-12-08 — Introduced in House
 - 2014-12-08 — Referred to the House Committee on Agriculture.
+- 2014-12-10 — Considered under suspension of the rules. (consideration: CR H9015-9016)
+- 2014-12-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5810.
+- 2014-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-10 — Mr. Scott, Austin moved to suspend the rules and pass the bill.
+- 2014-12-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9015)
+- 2014-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9015)
