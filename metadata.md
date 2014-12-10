@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5705
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5705
@@ -41,3 +41,10 @@ Propane Education and Research Enhancement Act of 2014
 - 2014-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8891)
 - 2014-12-10 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6580)
 - 2014-12-10 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6580)
+- 2014-12-11 — Message on Senate action sent to the House.
+- 2014-12-12 — Presented to President.
+- 2014-12-12 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-269.
+- 2014-12-18 — Became Public Law No: 113-269.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
