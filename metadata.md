@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5185
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5185
@@ -72,3 +72,4 @@ EARLY Act Reauthorization of 2014
 - 2014-12-09 — Mrs. Ellmers moved to suspend the rules and pass the bill, as amended.
 - 2014-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8889)
 - 2014-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8889)
+- 2014-12-10 — Received in the Senate, read twice.
