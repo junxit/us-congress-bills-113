@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2952
-congress: 113th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2952
 
-That the bill from the House of Representatives (H.R. 2952) entitled “An Act to amend the Homeland Security Act of 2002 to make certain improvements in the laws relating to the advancement of security technologies for critical infrastructure protection, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To require the Secretary of Homeland Security to assess the cybersecurity workforce of the Department of Homeland Security and develop a comprehensive workforce strategy, and for other purposes.
 
 ## § 1. Short title
 

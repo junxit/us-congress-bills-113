@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2952
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2952
@@ -61,3 +61,14 @@ Cybersecurity Workforce Assessment Act
 - 2014-12-10 — Senate amendment proposed (on the floor): Amendment SA 4002 proposed by Senator Boxer for Senator Carper.(consideration: CR S6487; text: CR S6487)
 - 2014-12-10 — Senate amendment submitted
 - 2014-12-10 — Senate amendment submitted
+- 2014-12-11 — DEBATE - The House proceeded with 40 minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 2952.
+- 2014-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-11 — Mr. Meehan moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H9060-9062)
+- 2014-12-11 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote. (text as House agreed to Senate amendments: CR H9060)
+- 2014-12-11 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.(text as House agreed to Senate amendments: CR H9060)
+- 2014-12-12 — Presented to President.
+- 2014-12-12 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-246.
+- 2014-12-18 — Became Public Law No: 113-246.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
