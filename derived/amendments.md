@@ -1,7 +1,7 @@
 ---
 measure: S. 1419
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 1 executed, 4 stated and not applied.
+10 amendatory instructions. 2 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,15 @@ to guess them.
 | Removed | `2008 through 2012` |
 | Inserted | `2014 through 2017` |
 
+### 42 U.S.C. § 17215
+
+> Section 636 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17215) is amended by striking “2008 through 2012” and inserting “2015 through 2018”.
+
+| | |
+|---|---|
+| Removed | `2008 through 2012` |
+| Inserted | `2015 through 2018` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -45,4 +54,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 17211` | strike | Section 632 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17211) is amended in the matter preceding paragraph (1) by striking “electrical”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 17212` | amend | Section 633 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17212) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17213` | replace | Section 634 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17213) is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4321` | add-at-end | Part I of the Federal Power Act (16 U.S.C. 792 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Part I of the Federal Power Act (16 U.S.C. 792 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 17211` | strike | Section 632 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17211) is amended in the matter preceding paragraph (1) by striking “electrical”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 17212` | amend | Section 633 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17212) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17213` | replace | Section 634 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17213) is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Part I of the Federal Power Act (16 U.S.C. 792 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
