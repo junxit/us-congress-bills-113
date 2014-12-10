@@ -2,7 +2,7 @@
 legis-num: H.R. 5086
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5086
@@ -13,8 +13,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *Amendment* Section 5(c) of the National Trails System Act (16 U.S.C. 1244(c)) is amended by adding at the end the following:
   > - **(__)** *Chief Standing Bear national historic trail*
-  >   - **(A)** *In general* The Chief Standing Bear Trail, extending approximately 550 miles from Niobrara, Nebraska, to Ponca City, Oklahoma, which follows the route taken by Chief Standing Bear and the Ponca people during Federal Indian removal, and approximately 550 miles from Ponca City, Oklahoma, through Omaha, Nebraska, to Niobrara, Nebraska, which follows the return route taken by Chief Standing Bear and the Ponca people, as generally depicted on the map entitled “Chief Standing Bear Removal and Return” and dated June 25, 2014.
+  >   - **(A)** *In general* The Chief Standing Bear Trail, extending approximately 550 miles from Niobrara, Nebraska, to Ponca City, Oklahoma, which follows the route taken by Chief Standing Bear and the Ponca people during Federal Indian removal, and approximately 550 miles from Ponca City, Oklahoma, through Omaha, Nebraska, to Niobrara, Nebraska, which follows the return route taken by Chief Standing Bear and the Ponca people, as generally depicted on the map entitled “Chief Standing Bear National Historic Trail Feasibility Study”, numbered 903/125,630, and dated November 2014.
   >   - **(B)** *Availability of map* The map described in subparagraph (A) shall be on file and available for public inspection in the appropriate offices of the Department of the Interior.
-  >   - **(C)** *Components* The feasibility study conducted pursuant to subparagraph (A) shall include a determination on whether the Chief Standing Bear Trail meets the criteria in subsection (b) of for designation as a national historic trail.
+  >   - **(C)** *Components* The feasibility study conducted pursuant to subparagraph (A) shall include a determination on whether the Chief Standing Bear Trail meets the criteria in subsection (b) for designation as a national historic trail.
 
-- **(b)** *Timeline* The feasibility study authorized by the amendment in subsection (a) shall be completed not later than one year after the date of the enactment of this Act.
+- **(b)** *Timeline* The feasibility study authorized by the amendment in subsection (a) shall be completed not later than 1 year after the date of the enactment of this Act.

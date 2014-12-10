@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5086
 congress: 113
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5086
@@ -20,9 +20,10 @@ To amend the National Trails System Act to direct the Secretary of the Interior 
 
 - Rep. Cole, Tom [R-OK-4] (C001053)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To amend the National Trails System Act to direct the Secretary of the Interior 
 - 2014-12-09 — Placed on the Union Calendar, Calendar No. 489.
 - 2014-12-09 — Reported by the Committee on Natural Resources. H. Rept. 113-651.
 - 2014-12-09 — Reported by the Committee on Natural Resources. H. Rept. 113-651.
+- 2014-12-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
