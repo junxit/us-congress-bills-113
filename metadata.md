@@ -1,7 +1,7 @@
 ---
 measure: S. 2614
 congress: 113
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2614
@@ -28,3 +28,10 @@ A bill to amend certain provisions of the FAA Modernization and Reform Act of 20
 
 - 2014-07-16 — Introduced in Senate
 - 2014-07-16 — Read twice and referred to the Committee on Finance.
+- 2014-12-10 — Held at the desk.
+- 2014-12-10 — Message on Senate action sent to the House.
+- 2014-12-10 — Passed Senate without amendment by Unanimous Consent. (text: CR S6518)
+- 2014-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6518)
+- 2014-12-10 — Received in the House.
+- 2014-12-10 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S6517-6518)
+- 2014-12-10 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S6517-6518)
