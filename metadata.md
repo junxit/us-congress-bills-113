@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5185
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5185
@@ -73,3 +73,12 @@ EARLY Act Reauthorization of 2014
 - 2014-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8889)
 - 2014-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8889)
 - 2014-12-10 — Received in the Senate, read twice.
+- 2014-12-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6840)
+- 2014-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6840)
+- 2014-12-16 — Message on Senate action sent to the House.
+- 2014-12-17 — Presented to President.
+- 2014-12-17 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-265.
+- 2014-12-18 — Became Public Law No: 113-265.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
