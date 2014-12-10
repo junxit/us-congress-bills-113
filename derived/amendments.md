@@ -1,7 +1,7 @@
 ---
 measure: S. 2031
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 1 executed, 7 stated and not applied.
+17 amendatory instructions. 3 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,24 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 16 U.S.C. § 460w
+
+> by striking “the area” and inserting “The area”; and
+
+| | |
+|---|---|
+| Removed | `the area` |
+| Inserted | `The area` |
+
+### 16 U.S.C. § 460w
+
+> by striking “islands and shoreline” and inserting “islands, shoreline, and light stations”; and
+
+| | |
+|---|---|
+| Removed | `islands and shoreline` |
+| Inserted | `islands, shoreline, and light stations` |
 
 ### 16 U.S.C. § 460w
 
@@ -49,3 +67,10 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 470w-7` | replace | By striking “The lakeshore” and inserting: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 470w-7` | insert | By inserting “this section and” before “the provisions of”. | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 470w-7` | amend | By adding after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 460w` | insert | by inserting “historic,” after “scenic,”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 460w` | replace | by striking “; and” and inserting a period. | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 460w` | strike | In subsection (b), by striking the final period. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 460w` | insert | By inserting after “1985.” the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 460w` | replace | By striking “The lakeshore” and inserting: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 460w` | insert | By inserting “this section and” before “the provisions of”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 460w` | amend | By adding after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
