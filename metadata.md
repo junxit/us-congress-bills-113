@@ -1,7 +1,7 @@
 ---
 measure: S. 2244
 congress: 113
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 2244
@@ -51,11 +51,12 @@ Terrorism Risk Insurance Program Reauthorization Act of 2014
 
 - Senate — Banking, Housing, and Urban Affairs Committee
 
-## Recorded votes (3)
+## Recorded votes (4)
 
 - 2014-07-17 — [Senate 113-2-229](votes/senate-113-2-0229.md) — On the Motion — **Motion Rejected** (48–49)
 - 2014-07-17 — [Senate 113-2-230](votes/senate-113-2-0230.md) — On the Amendment — **Amendment Agreed to** (97–0)
 - 2014-07-17 — [Senate 113-2-231](votes/senate-113-2-0231.md) — On Passage of the Bill — **Bill Passed** (93–4)
+- 2014-12-10 — [House 113-2-557](votes/house-113-2-0557.md) — On Passage — **Passed** (417–7)
 
 ## Actions
 
@@ -100,3 +101,11 @@ Terrorism Risk Insurance Program Reauthorization Act of 2014
 - 2014-07-17 — Senate amendment proposed (on the floor): Amendment SA 3551 proposed by Senator Flake.(consideration: CR S4582-4584, S4588-4589; text: CR S4582)
 - 2014-07-17 — Senate amendment proposed (on the floor): Amendment SA 3552 proposed by Senator Tester.(consideration: CR S4576-4582, S4589)
 - 2014-07-17 — The committee reported amendments are agreed to by Unanimous Consent and considered as original text. (text of measure as reported in Senate: CR S4574-4575)
+- 2014-12-10 — Considered under the provisions of rule H. Res. 775. (consideration: CR H8975-8991)
+- 2014-12-10 — DEBATE - The House proceeded with one hour of debate on S. 2244.
+- 2014-12-10 — House amendment offered
+- 2014-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-10 — On passage Passed by the Yeas and Nays: 417 - 7 (Roll no. 557). (text: CR H8975-8982)
+- 2014-12-10 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 417 - 7 (Roll no. 557).(text: CR H8975-8982)
+- 2014-12-10 — Resolution provides for consideration of S. 2244; provides suspension authority; and provides for proceedings through Jan. 3, 2015.
+- 2014-12-10 — The previous question was ordered pursuant to the rule. (consideration: CR H8991)
