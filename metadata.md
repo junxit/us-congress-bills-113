@@ -1,7 +1,7 @@
 ---
 measure: S. 2444
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2444
@@ -44,3 +44,9 @@ Howard Coble Coast Guard and Maritime Transportation Act of 2014
 - 2014-12-10 — Received in the House.
 - 2014-12-10 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
 - 2014-12-10 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2014-12-12 — Presented to President.
+- 2014-12-12 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-281.
+- 2014-12-18 — Became Public Law No: 113-281.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
