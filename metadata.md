@@ -1,7 +1,7 @@
 ---
 measure: H.R. 885
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 885
@@ -49,3 +49,8 @@ San Antonio Missions National Historical Park Boundary Expansion Act of 2013
 - 2013-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2996)
 - 2013-06-03 — The title of the measure was amended. Agreed to without objection.
 - 2013-06-04 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-07-31 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 113-93.
+- 2014-11-13 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2014-12-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-302.
+- 2014-12-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-302.
+- 2014-12-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 642.
