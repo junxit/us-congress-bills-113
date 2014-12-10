@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1378
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1378
@@ -80,3 +80,4 @@ To designate the United States Federal Judicial Center located at 333 West Broad
 - 2014-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8898)
 - 2014-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8898)
 - 2014-12-09 — The title of the measure was amended. Agreed to without objection.
+- 2014-12-10 — Received in the Senate, read twice.
