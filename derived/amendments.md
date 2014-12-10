@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4007
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 

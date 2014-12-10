@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4007
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4007
@@ -73,3 +73,14 @@ Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014
 - 2014-12-10 — Senate amendment proposed (on the floor): Amendment SA 4000 proposed by Senator Boxer for Senator Carper.(consideration: CR S6486)
 - 2014-12-10 — Senate amendment submitted
 - 2014-12-10 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2014-12-11 — DEBATE - The House proceeded with 40 minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 4007.
+- 2014-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-11 — Mr. Meehan moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H9053-9060)
+- 2014-12-11 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H9053-9058)
+- 2014-12-11 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H9053-9058)
+- 2014-12-12 — Presented to President.
+- 2014-12-12 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-254.
+- 2014-12-18 — Became Public Law No: 113-254.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.

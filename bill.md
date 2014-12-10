@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 4007
-congress: 113th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4007
 
-That the bill from the House of Representatives (H.R. 4007) entitled “An Act to recodify and reauthorize the Chemical Facility Anti-Terrorism Standards Program.”, do pass with the following
-
-*In lieu of the matter proposed to be inserted, insert the following:*
+> To recodify and reauthorize the Chemical Facility Anti-Terrorism Standards Program.
 
 ## § 1. Short title
 
