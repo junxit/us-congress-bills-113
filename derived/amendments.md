@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5471
 congress: 113
-version: Referred in Senate
+version: Reference Change Senate
 derived: true
 ---
 

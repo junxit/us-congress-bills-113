@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5471
 congress: 113
-version: Referred in Senate
+version: Reference Change Senate
 ---
 
 # H.R. 5471
@@ -42,3 +42,6 @@ To amend the Commodity Exchange Act and the Securities Exchange Act of 1934 to s
 - 2014-12-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8240)
 - 2014-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8240)
 - 2014-12-03 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2014-12-10 — Referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2014-12-10 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2014-12-10 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
