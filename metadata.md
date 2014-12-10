@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5705
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5705
@@ -39,3 +39,5 @@ Propane Education and Research Enhancement Act of 2014
 - 2014-12-09 — Mr. Latta moved to suspend the rules and pass the bill.
 - 2014-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8891)
 - 2014-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8891)
+- 2014-12-10 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6580)
+- 2014-12-10 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6580)
