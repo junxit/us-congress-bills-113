@@ -2,69 +2,58 @@
 legis-num: H.R. 2952
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 2952
 
-> To amend the Homeland Security Act of 2002 to make certain improvements in the laws relating to the advancement of security technologies for critical infrastructure protection, and for other purposes.
+That the bill from the House of Representatives (H.R. 2952) entitled “An Act to amend the Homeland Security Act of 2002 to make certain improvements in the laws relating to the advancement of security technologies for critical infrastructure protection, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Critical Infrastructure Research and Development Advancement Act of 2014” or the “CIRDA Act of 2014”.
+This Act may be cited as the “Cybersecurity Workforce Assessment Act”.
 
 ## § 2. Definitions
 
-Section 2 of the Homeland Security Act of 2002 (6 U.S.C. 101) is amended by redesignating paragraphs (15) through (18) as paragraphs (16) through (19), respectively, and by inserting after paragraph (14) the following:
+In this Act—
 
-> - **(15)** The term “Sector Coordinating Council” means a private sector coordinating council that is—
->   - **(A)** recognized by the Secretary as such a Council for purposes of this Act; and
->   - **(B)** comprised of representatives of owners and operators of critical infrastructure within a particular sector of critical infrastructure.
+- **(1)** the term Cybersecurity Category means a position’s or incumbent’s primary work function involving cybersecurity, which is further defined by Specialty Area;
+- **(2)** the term Department means the Department of Homeland Security;
+- **(3)** the term Secretary means the Secretary of Homeland Security; and
+- **(4)** the term Specialty Area means any of the common types of cybersecurity work as recognized by the National Initiative for Cybersecurity Education’s National Cybersecurity Workforce Framework report.
 
-## § 3. Critical infrastructure protection research and development
+## § 3. Cybersecurity workforce assessment and strategy
 
-- **(a)** *Strategic Plan; Public-Private Consortiums*
-  - **(1)** *In general* Title III of the Homeland Security Act of 2002 (6 U.S.C. 181 et seq.) is amended by adding at the end the following:
-    > ## § 318. Research and development strategy for critical infrastructure protection
-    >
-    > - **(a)** *In General* Not later than 180 days after the date of enactment of the Critical Infrastructure Research and Development Advancement Act of 2013, the Secretary, acting through the Under Secretary for Science and Technology, shall transmit to Congress a strategic plan to guide the overall direction of Federal physical security and cybersecurity technology research and development efforts for protecting critical infrastructure, including against all threats. Once every 2 years after the initial strategic plan is transmitted to Congress under this section, the Secretary shall transmit to Congress an update of the plan.
-    > - **(b)** *Contents of Plan* The strategic plan shall include the following:
-    >   - **(1)** An identification of critical infrastructure security risks and any associated security technology gaps, that are developed following—
-    >     - **(A)** consultation with stakeholders, including the Sector Coordinating Councils; and
-    >     - **(B)** performance by the Department of a risk/gap analysis that considers information received in such consultations.
-    >   - **(2)** A set of critical infrastructure security technology needs that—
-    >     - **(A)** is prioritized based on risk and gaps identified under paragraph (1);
-    >     - **(B)** emphasizes research and development of those technologies that need to be accelerated due to rapidly evolving threats or rapidly advancing infrastructure technology; and
-    >     - **(C)** includes research, development, and acquisition roadmaps with clearly defined objectives, goals, and measures.
-    >   - **(3)** An identification of laboratories, facilities, modeling, and simulation capabilities that will be required to support the research, development, demonstration, testing, evaluation, and acquisition of the security technologies described in paragraph (2).
-    >   - **(4)** An identification of current and planned programmatic initiatives for fostering the rapid advancement and deployment of security technologies for critical infrastructure protection. The initiatives shall consider opportunities for public-private partnerships, intragovernment collaboration, university centers of excellence, and national laboratory technology transfer.
-    >   - **(5)** A description of progress made with respect to each critical infrastructure security risk, associated security technology gap, and critical infrastructure technology need identified in the preceding strategic plan transmitted under this section.
-    > - **(c)** *Coordination* In carrying out this section, the Under Secretary for Science and Technology shall coordinate with the Under Secretary for the National Protection and Programs Directorate.
-    > - **(d)** *Consultation* In carrying out this section, the Under Secretary for Science and Technology shall consult with—
-    >   - **(1)** the critical infrastructure Sector Coordinating Councils;
-    >   - **(2)** to the extent practicable, subject matter experts on critical infrastructure protection from universities, colleges, including historically black colleges and universities, Hispanic- serving institutions, and tribal colleges and universities, national laboratories, and private industry;
-    >   - **(3)** the heads of other relevant Federal departments and agencies that conduct research and development for critical infrastructure protection; and
-    >   - **(4)** State, local, and tribal governments as appropriate.
-    >
-    > ## § 319. Report on public-private research and development consortiums
-    >
-    > - **(a)** *In general* Not later than 180 days after the enactment of the Critical Infrastructure Research and Development Advancement Act of 2014, the Secretary, acting through the Under Secretary for Science and Technology, shall transmit to Congress a report on the Department’s utilization of public-private research and development consortiums for accelerating technology development for critical infrastructure protection. Once every 2 years after the initial report is transmitted to Congress under this section, the Secretary shall transmit to Congress an update of the report. The report shall focus on those aspects of critical infrastructure protection that are predominately operated by the private sector and that would most benefit from rapid security technology advancement.
-    > - **(b)** *Contents of Report* The report shall include—
-    >   - **(1)** a summary of the progress and accomplishments of on-going consortiums for critical infrastructure security technologies;
-    >   - **(2)** in consultation with the Sector Coordinating Councils and, to the extent practicable, in consultation with subject-matter experts on critical infrastructure protection from universities, colleges, including historically black colleges and universities, Hispanic-serving institutions, and tribal colleges and universities, national laboratories, and private industry, a prioritized list of technology development focus areas that would most benefit from a public-private research and development consortium; and
-    >   - **(3)** based on the prioritized list developed under paragraph (2), a proposal for implementing an expanded research and development consortium program, including an assessment of feasibility and an estimate of cost, schedule, and milestones.
+- **(a)** *Workforce assessment*
+  - **(1)** *In general* Not later than 180 days after the date of enactment of this Act, and annually thereafter for 3 years, the Secretary shall assess the cybersecurity workforce of the Department.
+  - **(2)** *Contents* The assessment required under paragraph (1) shall include, at a minimum—
+    - **(A)** an assessment of the readiness and capacity of the workforce of the Department to meet its cybersecurity mission;
+    - **(B)** information on where cybersecurity workforce positions are located within the Department;
+    - **(C)** information on which cybersecurity workforce positions are—
+      - **(i)** performed by—
+        - **(I)** permanent full-time equivalent employees of the Department, including, to the greatest extent practicable, demographic information about such employees;
+        - **(II)** independent contractors; and
+        - **(III)** individuals employed by other Federal agencies, including the National Security Agency; or
+      - **(ii)** vacant; and
+    - **(D)** information on—
+      - **(i)** the percentage of individuals within each Cybersecurity Category and Specialty Area who received essential training to perform their jobs; and
+      - **(ii)** in cases in which such essential training was not received, what challenges, if any, were encountered with respect to the provision of such essential training.
+- **(b)** *Workforce strategy*
+  - **(1)** *In general* The Secretary shall—
+    - **(A)** not later than 1 year after the date of enactment of this Act, develop a comprehensive workforce strategy to enhance the readiness, capacity, training, recruitment, and retention of the cybersecurity workforce of the Department; and
+    - **(B)** maintain and, as necessary, update the comprehensive workforce strategy developed under subparagraph (A).
+  - **(2)** *Contents* The comprehensive workforce strategy developed under paragraph (1) shall include a description of—
+    - **(A)** a multi-phased recruitment plan, including with respect to experienced professionals, members of disadvantaged or underserved communities, the unemployed, and veterans;
+    - **(B)** a 5-year implementation plan;
+    - **(C)** a 10-year projection of the cybersecurity workforce needs of the Department;
+    - **(D)** any obstacle impeding the hiring and development of a cybersecurity workforce in the Department; and
+    - **(E)** any gap in the existing cybersecurity workforce of the Department and a plan to fill any such gap.
+- **(c)** *Updates* The Secretary submit to the appropriate congressional committees annual updates on—
+  - **(1)** the cybersecurity workforce assessment required under subsection (a); and
+  - **(2)** the progress of the Secretary in carrying out the comprehensive workforce strategy required to be developed under subsection (b).
 
-  - **(2)** *Limitation on progress report requirement* Subsection (b)(5) of section 318 of the Homeland Security Act of 2002, as amended by paragraph (1) of this subsection, shall not apply with respect to the first strategic plan transmitted under that section.
-- **(b)** *Clerical amendment* The table of contents in section 1(b) of such Act is amended by adding at the end of the items relating to such title the following:
-- **(c)** *Critical infrastructure protection technology clearinghouse* Section 313 of the Homeland Security Act of 2002 (6 U.S.C. 193) is amended by redesignating subsection (c) as subsection (d), and by inserting after subsection (b) the following:
-  > - **(c)** *Critical infrastructure protection technology clearinghouse*
-  >   - **(1)** *Designation* Under the program required by this section, the Secretary, acting through the Under Secretary for Science and Technology, and in coordination with the Under Secretary for the National Protection and Programs Directorate, shall designate a technology clearinghouse for rapidly sharing proven technology solutions for protecting critical infrastructure.
-  >   - **(2)** *Sharing of technology solutions* Technology solutions shared through the clearinghouse shall draw from Government-furnished, commercially furnished, and publically available trusted sources.
-  >   - **(3)** *Technology metrics* All technologies shared through the clearinghouse shall include a set of performance and readiness metrics to assist end-users in deploying effective and timely solutions relevant for their critical infrastructures.
-  >   - **(4)** *Review by privacy officer* The Privacy Officer of the Department appointed under section 222 shall annually review the clearinghouse process to evaluate its consistency with fair information practice principles issued by the Privacy Officer.
+## § 4. Cybersecurity Fellowship Program
 
-- **(d)** *Evaluation of Technology Clearinghouse by Government Accountability Office* Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall conduct an independent evaluation of, and submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on, the effectiveness of the clearinghouses established and designated, respectively, under section 313 of the Homeland Security Act of 2002, as amended by this section.
-
-## § 4. No additional authorization of appropriations
-
-No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act, and this Act and such amendments shall be carried out using amounts otherwise available for such purpose.
+Not later than 120 days after the date of enactment of this Act, the Secretary shall submit to the appropriate congressional committees a report on the feasibility, cost, and benefits of establishing a Cybersecurity Fellowship Program to offer a tuition payment plan for individuals pursuing undergraduate and doctoral degrees who agree to work for the Department for an agreed-upon period of time.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2952
 congress: 113
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2952
@@ -45,3 +45,19 @@ Cybersecurity Workforce Assessment Act
 - 2014-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6922-6923)
 - 2014-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6922-6923)
 - 2014-07-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2014-12-10 — Amendment SA 4001 agreed to in Senate by Unanimous Consent.
+- 2014-12-10 — Amendment SA 4001 proposed by Senator Boxer for Senator Carper. (consideration: CR S6486-6487; text: CR S6486-6487) In the nature of a substitute.
+- 2014-12-10 — Amendment SA 4002 agreed to in Senate by Unanimous Consent.
+- 2014-12-10 — Amendment SA 4002 proposed by Senator Boxer for Senator Carper. (consideration: CR S6487; text: CR S6487) To amend the title.
+- 2014-12-10 — Measure laid before Senate by unanimous consent. (consideration: CR S6486-6487)
+- 2014-12-10 — Message on Senate action sent to the House.
+- 2014-12-10 — Passed Senate with an amendment and an amendment to the Title by Voice Vote.
+- 2014-12-10 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Voice Vote.
+- 2014-12-10 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2014-12-10 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2014-12-10 — Senate amendment agreed to: Amendment SA 4001 agreed to in Senate by Unanimous Consent.
+- 2014-12-10 — Senate amendment agreed to: Amendment SA 4002 agreed to in Senate by Unanimous Consent.
+- 2014-12-10 — Senate amendment proposed (on the floor): Amendment SA 4001 proposed by Senator Boxer for Senator Carper.(consideration: CR S6486-6487; text: CR S6486-6487)
+- 2014-12-10 — Senate amendment proposed (on the floor): Amendment SA 4002 proposed by Senator Boxer for Senator Carper.(consideration: CR S6487; text: CR S6487)
+- 2014-12-10 — Senate amendment submitted
+- 2014-12-10 — Senate amendment submitted
