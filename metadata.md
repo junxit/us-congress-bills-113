@@ -1,7 +1,7 @@
 ---
 measure: S. 1317
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1317
@@ -28,3 +28,7 @@ National Aeronautics and Space Administration Authorization Act of 2013
 
 - 2013-07-17 — Introduced in Senate
 - 2013-07-17 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2013-07-30 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-12-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. Without written report.
+- 2014-12-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. Without written report.
+- 2014-12-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 628.
