@@ -7,9 +7,12 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 2444
 
-> To authorize appropriations for the Coast Guard for fiscal years 2015 through 2016, and for other purposes.
+> To authorize appropriations for the Coast Guard for fiscal year 2015, and for other purposes.
 
-## § 1. Short title; table of contents
+## § 1. Short title
 
-- **(a)** *Short title* This Act may be cited as the “Coast Guard Authorization Act for Fiscal Years 2015 and 2016”.
-- **(b)** *Table of Contents* The table of contents of this Act is as follows:
+This Act may be cited as the “Howard Coble Coast Guard and Maritime Transportation Act of 2014”.
+
+## § 2. Table of contents
+
+The table of contents for this Act is the following:
