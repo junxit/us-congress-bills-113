@@ -1,7 +1,7 @@
 ---
 measure: S. 841
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 841
@@ -28,3 +28,8 @@ Hermosa Creek Watershed Protection Act of 2014
 
 - 2013-04-25 — Introduced in Senate
 - 2013-04-25 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-11-20 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 113-342.
+- 2014-11-13 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-12-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 113-292.
+- 2014-12-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 113-292.
+- 2014-12-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 632.
