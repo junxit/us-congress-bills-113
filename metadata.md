@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1241
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1241
@@ -44,3 +44,8 @@ To facilitate a land exchange involving certain National Forest System lands in 
 - 2013-12-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7423)
 - 2013-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7423)
 - 2013-12-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2014-07-30 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.
+- 2014-11-13 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2014-12-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-303.
+- 2014-12-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-303.
+- 2014-12-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 643.
