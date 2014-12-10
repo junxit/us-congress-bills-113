@@ -1,7 +1,7 @@
 ---
 measure: S. 2104
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2104
@@ -34,3 +34,8 @@ National Park Access Act
 
 - 2014-03-11 — Introduced in Senate
 - 2014-03-11 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2014-07-23 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 113-493.
+- 2014-11-13 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2014-12-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-298.
+- 2014-12-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-298.
+- 2014-12-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 638.
