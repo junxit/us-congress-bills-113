@@ -1,7 +1,7 @@
 ---
 measure: S. 2519
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2519
@@ -44,3 +44,15 @@ National Cybersecurity Protection Act of 2014
 - 2014-12-10 — Senate amendment proposed (on the floor): Amendment SA 3999 proposed by Senator Boxer for Senator Carper.(consideration: CR S6481)
 - 2014-12-10 — Senate amendment submitted
 - 2014-12-10 — The committee reported amendment was withdrawn by Unanimous Consent. (consideration: CR S6481)
+- 2014-12-11 — Considered under suspension of the rules. (consideration: CR H9062-9065)
+- 2014-12-11 — DEBATE - The House proceeded with forty minutes of debate on S. 2519.
+- 2014-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-11 — Mr. McCaul moved to suspend the rules and pass the bill.
+- 2014-12-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9062-9063)
+- 2014-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9062-9063)
+- 2014-12-12 — Presented to President.
+- 2014-12-12 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-282.
+- 2014-12-18 — Became Public Law No: 113-282.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
