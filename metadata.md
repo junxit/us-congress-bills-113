@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5781
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5781
@@ -26,9 +26,10 @@ California Emergency Drought Relief Act of 2014
 - Rep. Costa, Jim [D-CA-16] (C001059)
 - Rep. Cook, Paul [R-CA-8] (C001094)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (2)
 
@@ -56,3 +57,4 @@ California Emergency Drought Relief Act of 2014
 - 2014-12-09 — Passed/agreed to in House: On passage Passed by recorded vote: 230 - 182 (Roll no. 553).(text: CR 12/08/2014 H8826-8829)
 - 2014-12-09 — Pursuant to clause 1(c) of rule 19, further proceedings on H.R. 5781 were resumed.
 - 2014-12-09 — The previous question on the motion to recommit with instructions was ordered pursuant to the rule. (consideration: CR H8887-8888)
+- 2014-12-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
