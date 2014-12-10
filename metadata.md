@@ -1,7 +1,7 @@
 ---
 measure: S. 2873
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2873
@@ -29,3 +29,7 @@ National Park System Donor Acknowledgment Act
 
 - 2014-09-18 — Introduced in Senate
 - 2014-09-18 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2014-11-13 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-12-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 113-301.
+- 2014-12-10 — Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 113-301.
+- 2014-12-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 641.
