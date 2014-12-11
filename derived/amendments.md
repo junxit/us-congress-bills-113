@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2751
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating section 47 as section 48; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after section 46 the following: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 631` | redesignate | by redesignating section 47 as section 48; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 631` | insert | by inserting after section 46 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
