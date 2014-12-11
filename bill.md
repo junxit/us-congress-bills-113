@@ -25,7 +25,7 @@ This Act may be cited as the “Trade Secrets Protection Act of 2014”.
   >         - **(I)** an order issued pursuant to Rule 65(b) of the Federal Rules of Civil Procedure would be inadequate to achieve the purpose of this paragraph because the party to which the order would be issued would evade, avoid, or otherwise not comply with such an order;
   >         - **(II)** an immediate and irreparable injury will occur if such seizure is not ordered;
   >         - **(III)** the harm to the applicant of denying the application outweighs the harm to the legitimate interests of the person against whom seizure would be ordered of granting the application and substantially outweighs the harm to any third parties who may be harmed by such seizure;
-  >         - **(IV)** the applicant is likely to succeed in showing that the person against whom seizure would be ordered misappropriated the trade secret and is in possession of the trade secret;
+  >         - **(IV)** the applicant is likely to succeed in showing that the person against whom seizure would be ordered misappropriated the trade secret by improper means, or conspired to use improper means to misappropriate the trade secret, and is in possession of the trade secret;
   >         - **(V)** the application describes with reasonable particularity the matter to be seized and, to the extent reasonable under the circumstances, identifies the location where the matter is to be seized;
   >         - **(VI)** the person against whom seizure would be ordered, or persons acting in concert with such person, would destroy, move, hide, or otherwise make such matter inaccessible to the court, if the applicant were to proceed on notice to such person; and
   >         - **(VII)** the applicant has not publicized the requested seizure.
@@ -82,3 +82,25 @@ This Act may be cited as the “Trade Secrets Protection Act of 2014”.
   - **(2)** The table of sections for chapter 90 of title 18, United States Code, is amended by striking the item relating to section 1836 and inserting the following:
 - **(e)** *Effective date* The amendments made by this section shall apply with respect to any misappropriation of a trade secret (as defined in section 1839 of title 18, United States Code, as amended by this section) for which any act occurs on or after the date of the enactment of this Act.
 - **(f)** *Rule of construction* Nothing in the amendments made by this section shall be construed to modify the rule of construction under section 1838 of title 18, United States Code, or to preempt any other provision of law.
+- **(g)** *Applicability to other laws* This section and the amendments made by this section shall not be construed to be a law pertaining to intellectual property for purposes of any other Act of Congress.
+
+## § 3. Report on theft of trade secrets occurring abroad
+
+- **(a)** *Reports* Not later than 1 year after the date of the enactment of this Act, and biannually thereafter, the Attorney General, in consultation with the Intellectual Property Enforcement Coordinator, the Director, and the heads of other appropriate agencies, shall submit to the Committees on the Judiciary of the House of Representatives and the Senate, and make publicly available on the Web site of the Department of Justice and disseminate to the public through such other means as the Attorney General may identify, a report on the following:
+  - **(1)** The scope and breadth of the theft of the trade secrets of United States companies occurring outside of the United States.
+  - **(2)** The extent to which theft of trade secrets occurring outside of the United States is sponsored by foreign governments, foreign instrumentalities, or foreign agents.
+  - **(3)** The threat posed by theft of trade secrets occurring outside of the United States.
+  - **(4)** The ability and limitations of trade secret owners to prevent the misappropriation of trade secrets outside of the United States, to enforce any judgment against foreign entities for theft of trade secrets, and to prevent imports based on theft of trade secrets overseas.
+  - **(5)** A breakdown of the trade secret protections afforded United States companies by each country that is a trading partner of the United States and enforcement efforts available and undertaken in each such country, including a list identifying specific countries where trade secret theft, laws, or enforcement is a significant problem for United States companies.
+  - **(6)** Instances of the Federal Government working with foreign countries to investigate, arrest, and prosecute entities and individuals involved in the theft of trade secrets outside of the United States.
+  - **(7)** Specific progress made under trade agreements and treaties, including any new remedies enacted by foreign countries, to protect against theft of trade secrets of United States companies outside of the United States.
+  - **(8)** Recommendations of legislative and executive branch actions that may be undertaken to—
+    - **(A)** reduce the threat of and economic impact caused by the theft of the trade secrets of United States companies occurring outside of the United States;
+    - **(B)** educate United States companies regarding the threats to their trade secrets when taken outside of the United States;
+    - **(C)** provide assistance to United States companies to reduce the risk of loss of their trade secrets when taken outside of the United States; and
+    - **(D)** provide a mechanism for United States companies to confidentially or anonymously report the theft of trade secrets occurring outside of the United States.
+- **(b)** *Definitions* In this section:
+  - **(1)** *Director* The term “Director” means the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.
+  - **(2)** *Foreign instrumentality, etc* The terms “foreign instrumentality”, “foreign agent”, and “trade secret” have the meanings given those terms in section 1839 of title 18, United States Code.
+  - **(3)** *State* The term “State” includes the District of Columbia and any commonwealth, territory, or possession of the United States.
+  - **(4)** *United States company* The term “United States company” means an organization organized under the laws of the United States or a State or political subdivision thereof.
