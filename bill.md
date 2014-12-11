@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 5851
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5851
+
+> To designate Veterans Day as the Tuesday after the first Monday in November.
+
+## § 1. Short title
+
+This Act may be cited as the “Honoring Our Veterans By Exercising The Right To Vote On Veterans Day Act”.
+
+## § 2. Addition of election day as a legal public holiday
+
+Section 6103(a) of title 5, United States Code, is amended to read as follows:
+
+> - **(a)** The following are legal public holidays:
+>   -  New Year’s Day, January 1.
+>   -  Birthday of Martin Luther King, Jr., the third Monday in January.
+>   -  Washington’s Birthday, the third Monday in February.
+>   -  Memorial Day, the last Monday in May.
+>   -  Independence Day, July 4.
+>   -  Labor Day, the first Monday in September.
+>   -  Columbus Day, the second Monday in October.
+>   -  Veterans Day, the Tuesday after the first Monday in November.
+>   -  Thanksgiving Day, the fourth Thursday in November.
+>   -  Christmas Day, December 25.
