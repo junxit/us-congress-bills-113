@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 122
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 122
@@ -27,3 +27,6 @@ Providing for a correction in the enrollment of H.R. 83.
 - 2014-12-10 — Introduced in House
 - 2014-12-10 — Referred to the Committee on Appropriations, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2014-12-10 — Referred to the Committee on Appropriations, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-12-11 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 776, H. Con. Res. 122 is considered passed House.(consideration: CR H9291; text: CR H9291)
+- 2014-12-11 — Pursuant to the provisions of H. Res. 776, H. Con. Res. 122 is considered passed House. (consideration: CR H9291; text: CR H9291)
+- 2014-12-11 — Received in the Senate.
