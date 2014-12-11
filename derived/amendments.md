@@ -1,7 +1,7 @@
 ---
 measure: S. 1463
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 26 U.S.C. § 501
+### 16 U.S.C. § 3372
 
 > in clauses (ii) and (iii), by striking “animals listed in section 2(g)” each place it appears and inserting “prohibited wildlife species”;
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `animals listed in section 2(g)` |
 | Inserted | `prohibited wildlife species` |
 
-### 26 U.S.C. § 501
+### 16 U.S.C. § 3372
 
 > in clause (iv), by striking “animals” and inserting “prohibited wildlife species”; and
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `animals` |
 | Inserted | `prohibited wildlife species` |
 
-### 26 U.S.C. § 501
+### 16 U.S.C. § 3372
 
 > by striking “animal” each place it appears and inserting “prohibited wildlife species”; and
 
@@ -65,13 +65,13 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 3372` | replace | in subparagraph (B)(iii), by striking “; or” and inserting a semicolon; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 3372` | strike | by striking subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3372` | insert | in paragraph (4), by inserting “or subsection (e)” before the period; and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 501` | replace | by striking “(e)” and all that follows through paragraph (1) and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 501` | replace | by striking so much as precedes subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 501` | insert | in subparagraph (A), by inserting before the semicolon at the end “and does not allow direct contact between the public and prohibited wildlife species”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 501` | strike | in subparagraph (B), by striking “State-licensed wildlife rehabilitator,”; | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 501` | strike | by striking “or” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 501` | replace | by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 501` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 3372` | replace | by striking “(e)” and all that follows through paragraph (1) and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 3372` | replace | by striking so much as precedes subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 3372` | insert | in subparagraph (A), by inserting before the semicolon at the end “and does not allow direct contact between the public and prohibited wildlife species”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 3372` | strike | in subparagraph (B), by striking “State-licensed wildlife rehabilitator,”; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 3372` | strike | by striking “or” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 3372` | replace | by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 3372` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3373` | insert | in paragraph (1), by inserting “(e),” after “subsections (b), (d),”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 3373` | insert | in paragraph (1), by inserting “, (e),” after “subsection (d)”. | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 3373` | insert | in subparagraphs (A) and (B) of paragraph (1) and in the first sentence of paragraph (2), by inserting “(e),” after “subsections (b), (d),” each place it appears; and | the bill quotes the text inserted but describes where it goes |
