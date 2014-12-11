@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5816
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5816
@@ -33,3 +33,12 @@ To extend the authorization for the United States Commission on International Re
 - 2014-12-10 — On passage Passed without objection. (text: CR H9016)
 - 2014-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9016)
 - 2014-12-11 — Received in the Senate, read twice.
+- 2014-12-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6840)
+- 2014-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6840)
+- 2014-12-16 — Message on Senate action sent to the House.
+- 2014-12-17 — Presented to President.
+- 2014-12-17 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-271.
+- 2014-12-18 — Became Public Law No: 113-271.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
