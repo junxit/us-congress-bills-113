@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5803
 congress: 113
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5803
@@ -16,9 +16,12 @@ To require the Secretary of the Interior to assemble a team of technical, policy
 
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Del. Faleomavaega, Eni F. H. [D-AS-At Large] (F000010)
 
 ## Committees (1)
 
@@ -29,3 +32,10 @@ To require the Secretary of the Interior to assemble a team of technical, policy
 - 2014-12-08 — Introduced in House
 - 2014-12-08 — Introduced in House
 - 2014-12-08 — Referred to the House Committee on Energy and Commerce.
+- 2014-12-11 — Committee on Energy and Commerce discharged.
+- 2014-12-11 — Committee on Energy and Commerce discharged.
+- 2014-12-11 — Considered by unanimous consent. (consideration: CR H9292)
+- 2014-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-11 — Mr. Whitfield asked unanimous consent to discharge from committee and consider.
+- 2014-12-11 — On passage Passed without objection. (text: CR H9292)
+- 2014-12-11 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9292)
