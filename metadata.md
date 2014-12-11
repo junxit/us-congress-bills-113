@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2640
 congress: 113
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2640
@@ -41,3 +41,18 @@ Crooked River Collaborative Water Security and Jobs Act of 2014
 - 2013-10-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6850-6851)
 - 2013-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6850-6851)
 - 2013-10-30 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2014-12-11 — Amendment SA 4094 agreed to in Senate by Unanimous Consent.
+- 2014-12-11 — Amendment SA 4094 proposed by Senator Merkley. (consideration: CR S6622) In the nature of a substitute.
+- 2014-12-11 — Measure laid before Senate by unanimous consent. (consideration: CR S6621-6622)
+- 2014-12-11 — Message on Senate action sent to the House.
+- 2014-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-11 — Mr. Walden asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H9292-9294)
+- 2014-12-11 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H9293-9294)
+- 2014-12-11 — Passed Senate with an amendment by Unanimous Consent.
+- 2014-12-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2014-12-11 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H9293-9294)
+- 2014-12-11 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2014-12-11 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2014-12-11 — Senate amendment agreed to: Amendment SA 4094 agreed to in Senate by Unanimous Consent.
+- 2014-12-11 — Senate amendment proposed (on the floor): Amendment SA 4094 proposed by Senator Merkley.(consideration: CR S6622)
+- 2014-12-11 — Senate amendment submitted
