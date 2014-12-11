@@ -2,20 +2,33 @@
 legis-num: H.R. 3329
 congress: 113th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 3329
 
-> To enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes.
+That the bill from the House of Representatives (H.R. 3329) entitled “An Act to enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Changes required to small bank holding company policy statement on assessment of financial and managerial factors
 
-- **(a)** *In general* Before the end of the 6-month period beginning on the date of the enactment of this Act, the Board of Governors of the Federal Reserve System shall publish in the Federal Register proposed revisions to the Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors (12 CFR Part 225 Appendix C) that provide that the policy shall apply to bank holding companies and savings and loan holding companies which have pro forma consolidated assets of less than $1,000,000,000 and that—
-  - **(1)** are not engaged in any nonbanking activities involving significant leverage; and
-  - **(2)** do not have a significant amount of outstanding debt that is held by the general public.
-- **(b)** *Conforming amendment* Section 171(b)(5)(C) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5371(b)(5)(C)) is amended by inserting “or small savings and loan holding company” after “any small bank holding company”.
-- **(c)** *Rule of construction* Nothing in this Act or the amendments made by this Act may be construed as limiting the authority of the Board of Governors of the Federal Reserve System to exclude a bank holding company or a savings and loan holding company from the policy statement described under subsection (a), if such action is warranted for supervisory purposes.
-- **(d)** *Definitions* For purposes of this section:
-  - **(1)** *Bank holding company* The term bank holding company has the meaning given that term under section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841).
-  - **(2)** *Savings and loan holding company* The term savings and loan holding company has the meaning given that term under section 10(a) of the Home Owners' Loan Act (12 U.S.C. 1467a(a)).
+- **(a)** *In general* Before the end of the 6-month period beginning on the date of the enactment of this Act, the Board of Governors of the Federal Reserve System (hereafter in this Act referred to as the “Board”) shall publish in the Federal Register proposed revisions to the Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors (12 C.F.R. part 225 appendix C) that provide that the policy shall apply to bank holding companies and savings and loan holding companies which have pro forma consolidated assets of less than $1,000,000,000 and that—
+  - **(1)** are not engaged in significant nonbanking activities either directly or through a nonbank subsidiary;
+  - **(2)** do not conduct significant off-balance sheet activities (including securitization and asset management or administration) either directly or through a nonbank subsidiary; and
+  - **(3)** do not have a material amount of debt or equity securities outstanding (other than trust preferred securities) that are registered with the Securities and Exchange Commission.
+- **(b)** *Exclusions* The Board may exclude any bank holding company or savings and loan holding company, regardless of asset size, from the policy statement under subsection (a) if the Board determines that such action is warranted for supervisory purposes.
+
+## § 2. Conforming Amendment
+
+- **(a)** *In general* Subparagraph (C) of section 171(b)(5) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5371(b)(5)) is amended to read as follows:
+  > - **(C)** any bank holding company or savings and loan holding company having less than $1,000,000,000 in total consolidated assets that complies with the requirements of the Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors of the Board of Governors (12 C.F.R. part 225 appendix C), as the requirements of such Policy Statement are amended pursuant to section 1 of an Act entitled “To enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes”.
+
+- **(b)** *Transition period* Any small bank holding company that was excepted from the provisions of section 171 of the Dodd-Frank Wall Street Reform and Consumer Protection Act pursuant to subparagraph (C) of section 171(b)(5) (as such subparagraph was in effect on the day before the date of enactment of this Act), and any small savings and loan holding company that would have been excepted from the provisions of section 171 pursuant to subparagraph (C) (as such subparagraph was in effect on the day before the date of enactment of this Act) if it had been a small bank holding company, shall be excepted from the provisions of section 171 until the effective date of the Small Bank Holding Company Policy Statement issued by the Board as required by section 1 of this Act.
+
+## § 3. Definitions
+
+For the purposes of this Act:
+
+- **(a)** *Bank holding company* The term bank holding company has the same meaning as in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841).
+- **(b)** *Savings and loan holding company* The term savings and loan holding company has the same meaning as in section 10(a) of the Home Owners' Loan Act (12 U.S.C. 1467a(a)).
