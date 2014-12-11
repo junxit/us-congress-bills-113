@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4573
 congress: 113
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
