@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 122
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 122
@@ -30,3 +30,6 @@ Providing for a correction in the enrollment of H.R. 83.
 - 2014-12-11 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 776, H. Con. Res. 122 is considered passed House.(consideration: CR H9291; text: CR H9291)
 - 2014-12-11 — Pursuant to the provisions of H. Res. 776, H. Con. Res. 122 is considered passed House. (consideration: CR H9291; text: CR H9291)
 - 2014-12-11 — Received in the Senate.
+- 2014-12-13 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S6814)
+- 2014-12-13 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S6814)
+- 2014-12-15 — Message on Senate action sent to the House.
