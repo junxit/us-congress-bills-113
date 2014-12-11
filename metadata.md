@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 123
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 123
@@ -26,3 +26,6 @@ Directing the Clerk of the House of Representatives to make a correction in the 
 - 2014-12-10 — On agreeing to the resolution Agreed to without objection. (text: CR H8998)
 - 2014-12-10 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H8998)
 - 2014-12-11 — Received in the Senate.
+- 2014-12-12 — Message on Senate action sent to the House.
+- 2014-12-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S6739)
+- 2014-12-12 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S6739)
