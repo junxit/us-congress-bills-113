@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1869
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-130 amendatory instructions. 69 executed, 61 stated and not applied.
+131 amendatory instructions. 69 executed, 62 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -98,7 +98,7 @@ to guess them.
 
 ### 2 U.S.C. § 632
 
-> The item relating to section 301 in the table of contents set forth in section 1(b) of the Congressional Budget Act of 1974 is amended by striking “Annual” and inserting “Biennial”.
+> The item relating to section 301 in the table of contents set forth in section 1(b) of the Congressional Budget and Impoundment Control Act of 1974 is amended by striking “Annual” and inserting “Biennial”.
 
 | | |
 |---|---|
@@ -125,11 +125,11 @@ to guess them.
 
 ### 2 U.S.C. § 633
 
-> by striking “first fiscal year” and inserting “either fiscal year of the biennium”; and
+> by striking “the first fiscal year” and inserting “either fiscal year of the biennium”; and
 
 | | |
 |---|---|
-| Removed | `first fiscal year` |
+| Removed | `the first fiscal year` |
 | Inserted | `either fiscal year of the biennium` |
 
 ### 2 U.S.C. § 638
@@ -186,7 +186,7 @@ to guess them.
 | Removed | `fiscal year` |
 | Inserted | `biennium` |
 
-### 2 U.S.C. § 638
+### 2 U.S.C. § 641
 
 > in subsection (a), in the matter preceding paragraph (1), by striking “any fiscal year” and inserting “any biennium”;
 
@@ -195,7 +195,7 @@ to guess them.
 | Removed | `any fiscal year` |
 | Inserted | `any biennium` |
 
-### 2 U.S.C. § 638
+### 2 U.S.C. § 641
 
 > in subsection (a)(1), by striking “such fiscal year” each place it appears and inserting “any fiscal year covered by such resolution”; and
 
@@ -413,12 +413,12 @@ to guess them.
 
 ### 31 U.S.C. § 1105
 
-> Section 1105(a)(28) of title 31, United States Code, is amended by striking “beginning with fiscal year 1999, a” and inserting “beginning with fiscal year 2016, a biennial”.
+> Section 1105(a)(28) of title 31, United States Code, is amended by striking “beginning with fiscal year 1999, a” and inserting “beginning with fiscal year 2016 2017, a biennial”.
 
 | | |
 |---|---|
 | Removed | `beginning with fiscal year 1999, a` |
-| Inserted | `beginning with fiscal year 2016, a biennial` |
+| Inserted | `beginning with fiscal year 2016 2017, a biennial` |
 
 ### 31 U.S.C. § 1105
 
@@ -512,11 +512,11 @@ to guess them.
 
 ### 31 U.S.C. § 1109
 
-> Section 1109(b) of title 31, United States Code, is amended by striking “March 1 of each year” and inserting “within 6 weeks of the President’s budget submission for each odd-numbered year”.
+> Section 1109(b) of title 31, United States Code, is amended by striking “before March 1 of each year” and inserting “within 6 weeks of the President’s budget submission for each odd-numbered year”.
 
 | | |
 |---|---|
-| Removed | `March 1 of each year` |
+| Removed | `before March 1 of each year` |
 | Inserted | `within 6 weeks of the President’s budget submission for each odd-numbered year` |
 
 ### 31 U.S.C. § 1115
@@ -566,12 +566,12 @@ to guess them.
 
 ### 31 U.S.C. § 9703
 
-> in the first sentence by striking “Beginning with fiscal year 1999, the” and inserting “Beginning with fiscal year 2016, the biennial” and by striking “annual”; and
+> in the first sentence by striking “Beginning with fiscal year 1999, the” and inserting “Beginning with fiscal year 2016 2017, the biennial” and by striking “annual”; and
 
 | | |
 |---|---|
 | Removed | `Beginning with fiscal year 1999, the` |
-| Inserted | `Beginning with fiscal year 2016, the biennial` |
+| Inserted | `Beginning with fiscal year 2016 2017, the biennial` |
 
 ### 31 U.S.C. § 9703
 
@@ -602,12 +602,12 @@ to guess them.
 
 ### 5 U.S.C. § 306
 
-> in subsection (a), by striking “September 30, 1997” and inserting “September 30, 2014”;
+> in subsection (a), by striking “September 30, 1997” and inserting “September 30, 2014 2016”;
 
 | | |
 |---|---|
 | Removed | `September 30, 1997` |
-| Inserted | `September 30, 2014` |
+| Inserted | `September 30, 2014 2016` |
 
 ### 5 U.S.C. § 306
 
@@ -629,12 +629,12 @@ to guess them.
 
 ### 39 U.S.C. § 2802
 
-> in subsection (a), by striking “September 30, 1997” and inserting “September 30, 2014”;
+> in subsection (a), by striking “September 30, 1997” and inserting “September 30, 2014 2016”;
 
 | | |
 |---|---|
 | Removed | `September 30, 1997` |
-| Inserted | `September 30, 2014` |
+| Inserted | `September 30, 2014 2016` |
 
 ### 39 U.S.C. § 2803
 
@@ -655,13 +655,14 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | amend | Paragraphs (1) and (2) of section 2 of the Congressional Budget and Impoundment Control Act of 1974 are amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 3 of the Congressional Budget Act of 1974 is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3 of the Congressional Budget and Impoundment Control Act of 1974 is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | `2 U.S.C. § 631` | amend | Section 300 of the Congressional Budget Act of 1974 (2 U.S.C. 631) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 632` | replace | by striking paragraph (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 632` | strike | by striking paragraph (1), and by striking paragraphs (6) through (9); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 632` | redesignate | by redesignating paragraphs (2), (3), (4), and (5) as paragraphs (1), (2), (3), and (4), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 632` | redesignate | by striking paragraph (3), as redesignated, and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 632` | amend | Section 301(d) of the Congressional Budget Act of 1974 (2 U.S.C. 632(d)) is amended by adding at the end the following new sentences: “Each committee of the Senate or the House of Representatives shall review the strategic plans, perform… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 632` | redesignate | in paragraph (4), as redesignated, by striking the semicolon and inserting a period. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 632` | add-at-end | Section 301(d) of the Congressional Budget Act of 1974 (2 U.S.C. 632(d)) is amended by adding at the end the following new sentences: “Each committee of the Senate or the House of Representatives shall review the strategic plans, perform… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 632` | insert | by inserting after the second sentence the following: “On or before April 1 of each odd-numbered year, the Committee on the Budget of each House shall report to its House the concurrent resolution on the budget referred to in subsection … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 632` | redesignate | by redesignating subparagraphs (A), (B), (C), (D), (E), and (F) as subparagraphs (B), (C), (E), (F), (H), and (I), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 632` | redesignate | before subparagraph (B) (as redesignated), by inserting the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -671,17 +672,17 @@ complete account of the bill's effect, which it is not.
 | `2 U.S.C. § 632` | strike | by striking subparagraphs (C) and (D); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 632` | redesignate | by redesignating subparagraph (E) as subparagraph (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 632` | redesignate | by striking the period and the end of subparagraph (D), as redesignated, and inserting “; and”; | the bill quotes the text inserted but describes where it goes |
-| `2 U.S.C. § 632` | insert | before subparagraph (B), by inserting the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 632` | redesignate | before subparagraph (B), as redesignated, by inserting the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 632` | amend | at the end, by adding the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 633` | strike | in subparagraph (A), by striking “as reported”; | the bill quotes the text struck but describes what replaces it |
 | `2 U.S.C. § 633` | strike | by striking subsection (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | Title III of the Congressional Budget Act of 1974 is amended by adding after section 315 the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents set forth in section 1(b) of the Congressional Budget and Impoundment Control Act of 1974 is amended by inserting after the item relating to section 315 the following new item: | the bill names no machine-readable US Code section |
-| `2 U.S.C. § 638` | add-at-end | Section 3 of the Congressional Budget and Impoundment Control Act of 1974 is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 638` | add-at-end | Section 3 of the Congressional Budget and Impoundment Control Act of 1974 is amended, as amended, is further amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 640` | insert | by inserting “of any odd-numbered calendar year” after “July”; | the bill quotes the text inserted but describes where it goes |
-| `2 U.S.C. § 638` | redesignate | by striking subsection (f) and redesignating subsection (g) as subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 641` | redesignate | by striking subsection (f) and redesignating subsection (g) as subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 642` | insert | Section 311(c) of the Congressional Budget Act of 1974 is amended by inserting “with respect to new budget authority or outlays” after “shall not apply”. | the bill quotes the text inserted but describes where it goes |
-| — | amend | Clause 2(a) of rule XXI of the Rules of the House of Representatives is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Clause 2(a) of rule XXI of the Rules of the House of Representatives is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | insert | Clause 4(a)(1)(A) of rule X of the Rules of the House of Representatives is amended by inserting “odd-numbered” after “each”. | the bill names no machine-readable US Code section |
 | — | replace | Clause 4(a)(4) of rule X of the Rules of the House of Representatives is amended by striking “fiscal year” and inserting “biennium”. | the bill names no machine-readable US Code section |
 | — | replace | Clause 4(b)(2) of rule X of the Rules of the House of Representatives is amended by striking “each fiscal year” and inserting “the biennium”. | the bill names no machine-readable US Code section |
@@ -700,17 +701,17 @@ complete account of the bill's effect, which it is not.
 | — | repeal | Section 308(a)(3)(C) of the Congressional Budget Act of 1974 is repealed. | the bill names no machine-readable US Code section |
 | — | replace | Section 308(d) of the Congressional Budget Act of 1974 is amended by striking “252(d)(5)” and inserting “252(c)”. | the bill names no machine-readable US Code section |
 | `1 U.S.C. § 105` | amend | Section 105 of title 1, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 1105` | add-at-end | Section 1101 of title 31, United States Code, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 1101` | add-at-end | Section 1101 of title 31, United States Code, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 1105` | amend | The matter preceding paragraph (1) in section 1105(a) of title 31, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 1105` | redesignate | Section 1105(a) of title 31, United States Code, is amended by redesignating the second paragraph (37) as paragraph (39) and by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 1105` | insert | Section 1105(d) of title 31, United States Code, is amended by inserting “(1)” after “(d)” and by adding at the end the following new paragraph: | the bill quotes the text inserted but describes where it goes |
+| `31 U.S.C. § 1105` | add-at-end | Section 1105(d) of title 31, United States Code, is amended by inserting “(1)” after “(d)” and by adding at the end the following new paragraph: | the bill quotes the text inserted but describes where it goes |
 | `31 U.S.C. § 1115` | insert | in paragraph (1) by inserting after “program activity” the following: “for both years 1 and 2 of the biennial plan”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 1115` | strike | in paragraph (5) by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `31 U.S.C. § 1115` | replace | in paragraph (6) by striking the period and inserting a semicolon; and inserting “and” after the inserted semicolon; and | the bill quotes the text inserted but describes where it goes |
 | `31 U.S.C. § 1115` | amend | by adding after paragraph (6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 9703` | strike | in the first sentence by striking “one or” before “years”; | the bill quotes the text struck but describes what replaces it |
-| `5 U.S.C. § 306` | insert | in subsection (c), by inserting a comma after “section” the second place it appears and adding “including a strategic plan submitted by September 30, 2014, meeting the requirements of subsection (a)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `39 U.S.C. § 2802` | insert | in subsection (c), by inserting “, including a strategic plan submitted by September 30, 2014, meeting the requirements of subsection (a)” before the period. | the bill quotes the text inserted but describes where it goes |
+| `5 U.S.C. § 306` | insert | in subsection (c), by inserting a comma after “section” the second place it appears and adding “including a strategic plan submitted by September 30, 2014 2016, meeting the requirements of subsection (a)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `39 U.S.C. § 2802` | insert | in subsection (c), by inserting “, including a strategic plan submitted by September 30, 2014 2016, meeting the requirements of subsection (a)” before the period. | the bill quotes the text inserted but describes where it goes |
 | `39 U.S.C. § 2803` | insert | in paragraph (1), by inserting after “program activity” the following: “for both years 1 and 2 of the biennial plan”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `39 U.S.C. § 2803` | strike | in paragraph (5), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `39 U.S.C. § 2803` | replace | in paragraph (6), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
