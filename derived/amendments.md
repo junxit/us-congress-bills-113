@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2612
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,15 +32,15 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Chapter 33 of title 40, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | The analysis for such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `40 U.S.C. § 3307` | redesignate | by redesignating paragraphs (5) and (6) as paragraphs (6) and (7), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `40 U.S.C. § 3307` | insert | by inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | The analysis for such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `40 U.S.C. § 3301` | redesignate | by redesignating paragraphs (5) and (6) as paragraphs (6) and (7), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 3301` | insert | by inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 3307` | add-at-end | Section 3307(g) of title 40, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Chapter 33 of title 40, United States Code, as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 33 of title 40, United States Code, as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for such chapter, as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (6) by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (7) by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `40 U.S.C. § 3307` | strike | in paragraph (6) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `40 U.S.C. § 3307` | replace | in paragraph (7) by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `40 U.S.C. § 3307` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Chapter 33 of title 40, United States Code, as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for such chapter, as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `40 U.S.C. § 592` | add-at-end | Section 592 of title 40, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -48,9 +48,9 @@ complete account of the bill's effect, which it is not.
 | `40 U.S.C. § 592` | add-at-end | The analysis for such chapter, as amended by this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 592` | add-at-end | Section 592(c) of title 40, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 3307` | add-at-end | Section 3307 of title 40, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 3307 of title 40, United States Code, as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `15 U.S.C. § 631` | amend | Chapter 33 of title 40, United States Code, as amended by this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 3307` | add-at-end | Section 3307 of title 40, United States Code, as amended by this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 631` | add-at-end | Chapter 33 of title 40, United States Code, as amended by this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 631` | add-at-end | The analysis for such chapter, as amended by this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Chapter 33 of title 40, United States Code, as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 33 of title 40, United States Code, as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for such chapter, as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 3307(c) of title 40, United States Code, is amended by adding at the end the following: “The Administrator shall notify, in writing, the Committee on Transportation and Infrastructure of the House of Representatives and the Commi… | the bill names no machine-readable US Code section |
+| `40 U.S.C. § 3307` | add-at-end | Section 3307(c) of title 40, United States Code, is amended by adding at the end the following: “The Administrator shall notify, in writing, the Committee on Transportation and Infrastructure of the House of Representatives and the Commi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
