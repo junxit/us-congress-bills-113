@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4573
 congress: 113
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4573
@@ -39,10 +39,11 @@ International Megan's Law to Prevent Demand for Child Sex Trafficking
 - Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -57,3 +58,10 @@ International Megan's Law to Prevent Demand for Child Sex Trafficking
 - 2014-05-20 — Mr. Royce moved to suspend the rules and pass the bill, as amended.
 - 2014-05-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4529-4531)
 - 2014-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4529-4531)
+- 2014-05-21 — Received in the Senate.
+- 2014-07-21 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2014-12-11 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2014-12-11 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2014-12-11 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2014-12-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 645.
+- 2014-12-11 — Read twice and referred to the Committee on Foreign Relations.
