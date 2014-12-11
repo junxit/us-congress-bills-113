@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 83
-congress: 113th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Thirteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 83
 
-That the House agree to the amendment of the Senate to the bill (H.R. 83) entitled “An Act to require the Secretary of the Interior to assemble a team of technical, policy, and financial experts to address the energy needs of the insular areas of the United States and the Freely Associated States through the development of energy action plans aimed at promoting access to affordable, reliable energy, including increasing use of indigenous clean-energy resources, and for other purposes.”, with the following
-
-*In lieu of the matter proposed to be inserted by the amendment of the Senate to the text of the bill, insert the following:*
+> Making consolidated appropriations for the fiscal year ending September 30, 2015, and for other purposes.
 
 ## § 1. Short title
 

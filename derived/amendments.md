@@ -1,7 +1,7 @@
 ---
 measure: H.R. 83
 congress: 113
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-281 amendatory instructions. 109 executed, 172 stated and not applied.
+281 amendatory instructions. 113 executed, 168 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 7 U.S.C. § 7401
+
+> Section 501(f)(1)(C)(ii)(II) of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7401(f)(1)(C)(ii)(II)) is amended by striking “section 514” and inserting “a commodity promotion law”.
+
+| | |
+|---|---|
+| Removed | `section 514` |
+| Inserted | `a commodity promotion law` |
 
 ### 15 U.S.C. § 7265
 
@@ -95,6 +104,15 @@ to guess them.
 |---|---|
 | Removed | `$5,000,000` |
 | Inserted | `$500,000` |
+
+### 16 U.S.C. § 3301
+
+> Subsection (a)(6) of section 511 of the Water Resources Development Act of 1996 (16 U.S.C. 3301 note; 110 Stat. 3761–3762; 113 Stat. 375–376; 121 Stat. 1203) is amended by striking “$25,000,000” and inserting “$43,400,000”.
+
+| | |
+|---|---|
+| Removed | `$25,000,000` |
+| Inserted | `$43,400,000` |
 
 ### 42 U.S.C. § 10364
 
@@ -692,6 +710,15 @@ to guess them.
 
 ### 42 U.S.C. § 1437f
 
+> Section 579 of the Multifamily Assisted Housing Reform and Affordability Act (MAHRA) of 1997 (42 U.S.C. 1437f note) is amended by striking “October 1, 2015” each place it appears and inserting in lieu thereof “October 1, 2017”.
+
+| | |
+|---|---|
+| Removed | `October 1, 2015` |
+| Inserted | `October 1, 2017` |
+
+### 42 U.S.C. § 1437f
+
 > in the second proviso, by striking “2015” and inserting “2018”;
 
 | | |
@@ -707,6 +734,15 @@ to guess them.
 |---|---|
 | Removed | `60,000` |
 | Inserted | `185,000` |
+
+### 42 U.S.C. § 1437a
+
+> in the matter after and below subclause (II), by striking “Public housing agencies must comply by June 1, 2014, with the requirement of this clause, except that if” and inserting “If”.
+
+| | |
+|---|---|
+| Removed | `Public housing agencies must comply by June 1, 2014, with the requirement of this clause, except that if` |
+| Inserted | `If` |
 
 ### 5 U.S.C. § 3109
 
@@ -825,7 +861,7 @@ to guess them.
 | Removed | `clause (ii)` |
 | Inserted | `clauses (ii) and (iii)` |
 
-### 26 U.S.C. § 432
+### 29 U.S.C. § 1085
 
 > in clause (i)(I), by striking “of such period” and inserting “of the first plan year for which the plan is certified to be in endangered status pursuant to paragraph (b)(3)”; and
 
@@ -834,7 +870,7 @@ to guess them.
 | Removed | `of such period` |
 | Inserted | `of the first plan year for which the plan is certified to be in endangered status pursuant to paragraph (b)(3)` |
 
-### 26 U.S.C. § 432
+### 29 U.S.C. § 1085
 
 > in clause (ii), by striking “any plan year” and inserting “the last plan year”.
 
@@ -1018,7 +1054,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the third sentence of paragraph (2), by striking “not to extend beyond December 31, 2014, unless extended pursuant to paragraph 5 of this subsection” and inserting “ending on December 31, 2019”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (5); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (6) as paragraph (5). | the bill names no machine-readable US Code section |
-| — | replace | Section 501(f)(1)(C)(ii)(II) of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7401(f)(1)(C)(ii)(II)) is amended by striking “section 514” and inserting “a commodity promotion law”. | the bill names no machine-readable US Code section |
 | `15 U.S.C. § 7265` | insert | by inserting after the first sentence the following: “At least 5 members of the board shall have experience working in United States multinational entities with marketing budgets. At least 2 members of the board shall be audit committee … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2131` | strike | in subparagraph (F), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 2131` | redesignate | by redesignating subparagraph (G) as subparagraph (I); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1033,14 +1068,13 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 6622` | replace | in subsection (b), by striking paragraph (7) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 1105` | replace | by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 3722` | amend | Section 27 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3722) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Subsection (a)(6) of section 511 of the Water Resources Development Act of 1996 (16 U.S.C. 3301 note; 110 Stat. 3761–3762; 113 Stat. 375–376; 121 Stat. 1203) is amended by striking “$25,000,000” and inserting “$43,400,000”. | the bill names no machine-readable US Code section |
 | — | replace | Title I of Public Law 108–361 (the Calfed Bay-Delta Authorization Act) (118 Stat. 1681), as amended by section 210 of Public Law 111–85, is amended by striking “2015” each place it appears and inserting “2016”. | the bill names no machine-readable US Code section |
 | — | replace | The first proviso under the heading “Data-Driven Innovation” in division E of Public Law 113–76 is amended by striking “shall” and inserting “may”. | the bill names no machine-readable US Code section |
 | `28 U.S.C. § 84` | insert | Section 84(b) of title 28, United States Code, is amended in the second sentence by inserting “Bakersfield,” after “shall be held at”. | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 3155` | insert | in the first sentence, by inserting at the end “and shall ensure that case file, statistical, and other information concerning the work of pretrial services is provided to the Director”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 302 of the Universal Service Antideficiency Temporary Suspension Act is amended by striking “December 31, 2015”, each place it appears and inserting “December 31, 2016”. | the bill names no machine-readable US Code section |
 | `12 U.S.C. § 1813` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 8305` | amend | by amending subsection (d) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78c` | amend | by amending subsection (d) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Paragraph (1) of section 122(a) of division E of Public Law 112–74 (125 Stat. 1013), as amended by section 122 of division G of Public Law 113–76 (128 Stat. 314), is further amended by striking “through 2015,” in the first sentence and i… | the bill names no machine-readable US Code section |
 | — | replace | Section 115(d) of division E of Public Law 112–74 (125 Stat. 1010) is amended by striking “2014” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | replace | Title I of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010 (Public Law 111–88) is amended in the text under the heading ‘‘FOREST ECOSYSTEM HEALTH AND RECOVERY FUND’’ by striking ‘‘2015’’ each pl… | the bill names no machine-readable US Code section |
@@ -1054,7 +1088,7 @@ complete account of the bill's effect, which it is not.
 | `44 U.S.C. § 302` | strike | by striking “perform the duties formerly required of the chief clerk,”; | the bill quotes the text struck but describes what replaces it |
 | `44 U.S.C. § 302` | strike | by striking “of him”. | the bill quotes the text struck but describes what replaces it |
 | — | add-at-end | Chapter 7 of title 31, United States Code, is amended by adding at the end the following new subchapter: | the bill names no machine-readable US Code section |
-| — | amend | The table of sections for chapter 7 of title 31, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 7 of title 31, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `38 U.S.C. § 5101` | amend | Subsection (b) of section 504 of the Veterans' Benefits Improvements Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 1701` | add-at-end | Section 101(d)(2)(B)(ii) of the Veterans Access, Choice, and Accountability Act of 2014 (Public Law 113–146; 38 U.S.C. 1701 note) is amended by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 117` | strike | by striking “beginning with fiscal year 2011,”; and | the bill quotes the text struck but describes what replaces it |
@@ -1069,21 +1103,19 @@ complete account of the bill's effect, which it is not.
 | `31 U.S.C. § 1105` | redesignate | by redesignating the second paragraph (37), as added by section 11(a)(2) of the GPRA Modernization Act of 2010 (Public Law 111–352; 124 Stat. 3881), as paragraph (39). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | Section 3(3) of Public Law 112–192 (October 5, 2012) is amended by inserting after “Public Law 112–74” the phrase “and shall also include the Multilateral Investment Guarantee Agency”. | the bill names no machine-readable US Code section |
 | `22 U.S.C. § 285` | add-at-end | The Asian Development Bank Act, Public Law 89–369, as amended (22 U.S.C. 285 et seq.), is further amended by adding at the end thereof the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 285` | add-at-end | The International Development Association Act, Public Law 86–565, as amended (22 U.S.C. 284 et seq.), is further amended by adding at the end thereof the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 284` | add-at-end | The International Development Association Act, Public Law 86–565, as amended (22 U.S.C. 284 et seq.), is further amended by adding at the end thereof the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 290g` | add-at-end | The African Development Fund Act, Public Law 94–302, as amended (22 U.S.C. 290g et seq.), is further amended by adding at the end thereof the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2452` | amend | Section 207(c)(3) of the Vietnam Education Foundation Act of 2000 (title II of division B of H.R. 5666, as enacted by section 1(a)(4) of Public Law 106–554 and contained in appendix D of that Act; 114 Stat. 2763A–257; 22 U.S.C. 2452 note… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2452` | insert | Section 209(a) of the Vietnam Education Foundation Act of 2000 (title II of division B of H.R. 5666, as enacted by section 1(a)(4) of Public Law 106–554 and contained in appendix D of that Act; 114 Stat. 2763A–257; 22 U.S.C. 2452 note) i… | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 2452` | amend | The Vietnam Education Foundation Act of 2000 (title II of division B of H.R. 5666, as enacted by section 1(a)(4) of Public Law 106–554 and contained in appendix D of that Act; 114 Stat. 2763A–257; 22 U.S.C. 2452 note) is amended by addin… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2452` | add-at-end | The Vietnam Education Foundation Act of 2000 (title II of division B of H.R. 5666, as enacted by section 1(a)(4) of Public Law 106–554 and contained in appendix D of that Act; 114 Stat. 2763A–257; 22 U.S.C. 2452 note) is amended by addin… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 916 of Public Law 112–95 is amended by striking “Advanced Materials in Transport Aircraft” and inserting “Joint Advanced Materials and Structures”. | the bill names no machine-readable US Code section |
 | `49 U.S.C. § 47109` | amend | Subsection 47109(c)(2) of title 49, United States Code, is amended by adding before the period “, except that at a primary non-hub airport located in a State as set forth in paragraph (1) of this subsection that is within 15 miles of ano… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 127` | add-at-end | Section 127 of title 23, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 579 of the Multifamily Assisted Housing Reform and Affordability Act (MAHRA) of 1997 (42 U.S.C. 1437f note) is amended by striking “October 1, 2015” each place it appears and inserting in lieu thereof “October 1, 2017”. | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 1437f` | strike | by striking “(except for funds allocated under such section for single room occupancy dwellings as authorized by title IV of the McKinney-Vento Homeless Assistance Act)” in both places it appears; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1437f` | insert | in the third proviso, after “associated with such conversion”, by inserting “in excess of amounts made available under this heading”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1437f` | insert | by inserting the following provisos before the final proviso: “ Provided further, That amounts made available under the heading Rental Housing Assistance during the period of conversion under the previous proviso, which may extend beyond… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | by striking “which shall not be lower” in the matter preceding subclause (I) and all that follows through the end of subclause (I) and inserting the following: ‘‘which— | the bill names no machine-readable US Code section |
-| — | insert | in subclause (II), by inserting “shall” before “be designed”; and | the bill names no machine-readable US Code section |
-| — | replace | in the matter after and below subclause (II), by striking “Public housing agencies must comply by June 1, 2014, with the requirement of this clause, except that if” and inserting “If”. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1437a` | replace | by striking “which shall not be lower” in the matter preceding subclause (I) and all that follows through the end of subclause (I) and inserting the following: ‘‘which— | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1437a` | insert | in subclause (II), by inserting “shall” before “be designed”; and | the bill quotes the text inserted but describes where it goes |
 | — | insert | Section 184(h)(1)(B) of the Housing and Community Development Act of 1992 (12 U.S.C. 1715z–13a(h)(1)(B)) is amended by inserting after the first sentence the following: “Exhausting all reasonable possibilities of collection by the holder… | the bill names no machine-readable US Code section |
 | `52 U.S.C. § 30116` | replace | in paragraph (1)(B), by striking the semicolon at the end and inserting the following: “, or, in the case of contributions made to any of the accounts described in paragraph (9), exceed 300 percent of the amount otherwise applicable unde… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30116` | replace | in paragraph (2)(B), by striking the semicolon at the end and inserting the following: “, or, in the case of contributions made to any of the accounts described in paragraph (9), exceed 300 percent of the amount otherwise applicable unde… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1103,7 +1135,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 432` | insert | by inserting after “for a plan year” the following: “or in which a plan sponsor elects to be in critical status for a plan year under paragraph (4)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 432` | add-at-end | by adding at the end the following: “In any case in which a plan sponsor elects to be in critical status for a plan year under paragraph (4), the plan sponsor shall notify the Secretary of such election not later than 30 days after the d… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 432` | add-at-end | Section 432(b)(3)(D) of such Code is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 432` | amend | Section 305(e)(4)(B) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1085(e)(4)(B)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1085` | amend | Section 305(e)(4)(B) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1085(e)(4)(B)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 432` | amend | Section 432(e)(4)(B) of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1085` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1085` | redesignate | by redesignating clause (iii) and clause (iv) (as added by section 102(a)(3)(B)) as clauses (iv) and (v), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1183,6 +1215,6 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 432` | add-at-end | Section 432(b)(3)(B) of the Internal Revenue Code of 1986 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 432` | insert | Section 432(e) of the Internal Revenue Code of 1986 (as amended by section 109) is amended by inserting after paragraph (8) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 432` | insert | Section 432(g)(1) of the Internal Revenue Code of 1986, as added by section 109, is further amended by inserting “, or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)), unless the withdraw… | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 430` | amend | Subsection (e) of section 4062 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1362) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1362` | amend | Subsection (e) of section 4062 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1362) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1054` | redesignate | Section 204 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1054) is amended by redesignating subsection (k) as subsection (l) and by inserting after subsection (j) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 411` | add-at-end | Section 411 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
