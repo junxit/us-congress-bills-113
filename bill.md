@@ -22,42 +22,32 @@ In this Act:
 - **(2)** *Appropriate congressional committees* The term appropriate congressional committees means—
   - **(A)** the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate; and
   - **(B)** the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives.
-- **(3)** *Control* The term control means—
-  - **(A)** in the case of a corporation, to hold at least 50 percent (by vote or value) of the capital structure of the corporation; or
-  - **(B)** in the case of any other entity, to hold interests representing at least 50 percent of the capital structure of the entity.
-- **(4)** *Defense article; defense service; training* The terms defense article, defense service, and training have the meanings given those terms in section 47 of the Arms Export Control Act (22 U.S.C. 2794).
-- **(5)** *Financial institution* The term financial institution means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (M), or (Y) of section 5312(a)(2) of title 31, United States Code.
-- **(6)** *Foreign financial institution* The term foreign financial institution has the meaning given that term in section 561.308 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
+- **(3)** *Defense article; defense service; training* The terms defense article, defense service, and training have the meanings given those terms in section 47 of the Arms Export Control Act (22 U.S.C. 2794).
+- **(4)** *Financial institution* The term financial institution means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (M), or (Y) of section 5312(a)(2) of title 31, United States Code.
+- **(5)** *Foreign financial institution* The term foreign financial institution has the meaning given that term in section 561.308 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
+- **(6)** *Foreign person* The term foreign person means any individual or entity that is not a United States citizen, a permanent resident alien, or an entity organized under the laws of the United States or any jurisdiction within the United States.
 - **(7)** *Knowingly* The term knowingly, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
-- **(8)** *National* The term national has the meaning given that term in section 101(a) of the Immigration and Nationality Act (8 U.S.C. 1101(a)).
-- **(9)** *Person* The term person means—
-  - **(A)** an individual;
-  - **(B)** a corporation, business association, partnership, society, trust, any other nongovernmental entity, organization, or group, or any governmental entity operating as a business enterprise; or
-  - **(C)** any successor to any entity described in subparagraph (B).
-- **(10)** *Russian person* The term Russian person means—
+- **(8)** *Russian person* The term Russian person means—
   - **(A)** an individual who is a citizen or national of the Russian Federation; or
   - **(B)** an entity organized under the laws of the Russian Federation.
-- **(11)** *Special Russian crude oil project* The term special Russian crude oil project means a project intended to extract crude oil from—
+- **(9)** *Special Russian crude oil project* The term special Russian crude oil project means a project intended to extract crude oil from—
   - **(A)** the exclusive economic zone of the Russian Federation in waters more than 500 feet deep;
   - **(B)** Russian Arctic offshore locations; or
   - **(C)** shale formations located in the Russian Federation.
-- **(12)** *United states person* The term United States person means—
-  - **(A)** a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
-  - **(B)** an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity.
 
 ## § 3. Statement of policy regarding Ukraine
 
-It is the policy of the United States to further assist the Government of Ukraine in restoring its sovereignty and territorial integrity to deter the Government of the Russian Federation from further destabilizing and invading Ukraine and other independent countries in Eastern Europe and Central Asia. That policy shall be carried into effect, among other things, through a comprehensive effort, in coordination with allies and partners of the United States where appropriate, that includes economic sanctions, diplomacy, assistance for the people of Ukraine, and the provision of military capabilities to the Government of Ukraine that will enhance the ability of that Government to defend itself and to restore its sovereignty and territorial integrity in the face of unlawful actions by the Government of the Russian Federation.
+It is the policy of the United States to further assist the Government of Ukraine in restoring its sovereignty and territorial integrity to deter the Government of the Russian Federation from further destabilizing and invading Ukraine and other independent countries in Central and Eastern Europe, the Caucasus, and Central Asia. That policy shall be carried into effect, among other things, through a comprehensive effort, in coordination with allies and partners of the United States where appropriate, that includes economic sanctions, diplomacy, assistance for the people of Ukraine, and the provision of military capabilities to the Government of Ukraine that will enhance the ability of that Government to defend itself and to restore its sovereignty and territorial integrity in the face of unlawful actions by the Government of the Russian Federation.
 
 ## § 4. Sanctions relating to the defense and energy sectors of the Russian Federation
 
 - **(a)** *Sanctions relating to the defense sector*
   - **(1)** *Rosoboronexport* Except as provided in subsection (d), not later than 30 days after the date of the enactment of this Act, the President shall impose 3 or more of the sanctions described in subsection (c) with respect to Rosoboronexport.
-  - **(2)** *Russian producers, transferors, or brokers of defense articles* Except as provided in subsection (d), not later than 45 days after the date of the enactment of this Act, the President shall impose 3 or more of the sanctions described in subsection (c) with respect to a person the President determines—
+  - **(2)** *Russian producers, transferors, or brokers of defense articles* Except as provided in subsection (d), on and after the date that is 45 days after the date of the enactment of this Act, the President shall impose 3 or more of the sanctions described in subsection (c) with respect to a foreign person the President determines—
     - **(A)** is an entity—
-      - **(i)** owned by the Government of the Russian Federation or controlled by nationals of the Russian Federation; and
+      - **(i)** owned or controlled by the Government of the Russian Federation or owned or controlled by nationals of the Russian Federation; and
       - **(ii)** that—
-        - **(I)** manufactures or sells defense articles transferred into Syria or into the territory of a specified country without the consent of the internationally recognized government of that country;
+        - **(I)** knowingly manufactures or sells defense articles transferred into Syria or into the territory of a specified country without the consent of the internationally recognized government of that country;
         - **(II)** transfers defense articles into Syria or into the territory of a specified country without the consent of the internationally recognized government of that country; or
         - **(III)** brokers or otherwise assists in the transfer of defense articles into Syria or into the territory of a specified country without the consent of the internationally recognized government of that country; or
     - **(B)** knowingly, on or after the date of the enactment of this Act, assists, sponsors, or provides financial, material, or technological support for, or goods or services to or in support of, an entity described in subparagraph (A) with respect to an activity described in clause (ii) of that subparagraph.
@@ -67,9 +57,9 @@ It is the policy of the United States to further assist the Government of Ukrain
       - **(ii)** any other country designated by the President as a country of significant concern for purposes of this subsection, such as Poland, Lithuania, Latvia, Estonia, and the Central Asia republics.
     - **(B)** *Notice to congress* The President shall notify the appropriate congressional committees in writing not later than 15 days before—
       - **(i)** designating a country as a country of significant concern under subparagraph (A)(ii); or
-      - **(ii)** terminating a designation under that subparagraph, including the termination of any such designation pursuant to subsection (g) subsection (h).
+      - **(ii)** terminating a designation under that subparagraph, including the termination of any such designation pursuant to subsection (h).
 - **(b)** *Sanctions related to the energy sector*
-  - **(1)** *Development of special Russian crude oil projects* Except as provided in subsection (d), not later than 45 days after the date of the enactment of this Act, the President shall impose 3 or more of the sanctions described in subsection (c) with respect to a person if the President determines that the person knowingly makes a significant investment in a special Russian crude oil project.
+  - **(1)** *Development of special Russian crude oil projects* Except as provided in subsection (d), on and after the date that is 45 days after the date of the enactment of this Act, the President may impose 3 or more of the sanctions described in subsection (c) with respect to a foreign person if the President determines that the foreign person knowingly makes a significant investment in a special Russian crude oil project.
   - **(2)** *Authorization for extension of licensing limitations on certain equipment* The President, through the Bureau of Industry and Security of the Department of Commerce or the Office of Foreign Assets Control of the Department of the Treasury, as appropriate, may impose additional licensing requirements for or other restrictions on the export or reexport of items for use in the energy sector of the Russian Federation, including equipment used for tertiary oil recovery.
   - **(3)** *Contingent sanction relating to Gazprom* If the President determines that Gazprom is withholding significant natural gas supplies from member countries of the North Atlantic Treaty Organization, or further withholds significant natural gas supplies from countries such as Ukraine, Georgia, or Moldova, the President shall, not later than 45 days after making that determination, impose the sanction described in subsection (c)(7) and at least one additional sanction described in subsection (c) with respect to Gazprom.
 - **(c)** *Sanctions described* The sanctions the President may impose with respect to a foreign person under subsection (a) or (b) are the following:
@@ -82,7 +72,11 @@ It is the policy of the United States to further assist the Government of Ukrain
     - **(B)** dealing in or exercising any right, power, or privilege with respect to such property; or
     - **(C)** conducting any transaction involving such property.
   - **(6)** *Banking transactions* The President may, pursuant to such regulations as the President may prescribe, prohibit any transfers of credit or payments between financial institutions or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the foreign person.
-  - **(7)** *Prohibition on investment in equity or debt of sanctioned person* The President may, pursuant to such regulations as the President may prescribe, prohibit any United States person from investing in or purchasing significant amounts of equity or debt instruments of the foreign person.
+  - **(7)** *Prohibition on investment in equity or debt of sanctioned person* The President may, pursuant to such regulations as the President may prescribe, prohibit any United States person from transacting in, providing financing for, or otherwise dealing in—
+    - **(A)** debt—
+      - **(i)** of longer than 30 days’ maturity of a foreign person with respect to which sanctions are imposed under subsection (a) or of longer than 90 days’ maturity of a foreign person with respect to which sanctions are imposed under subsection (b); and
+      - **(ii)** issued on or after the date on which such sanctions are imposed with respect to the foreign person; or
+    - **(B)** equity of the foreign person issued on or after that date.
   - **(8)** *Exclusion from the United States and revocation of visa or other documentation* In the case of a foreign person who is an individual, the President may direct the Secretary of State to deny a visa to, and the Secretary of Homeland Security to exclude from the United States, the foreign person, subject to regulatory exceptions to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
   - **(9)** *Sanctions on principal executive officers* In the case of a foreign person that is an entity, the President may impose on the principal executive officer or officers of the foreign person, or on individuals performing similar functions and with similar authorities as such officer or officers, any of the sanctions described in this subsection applicable to individuals.
 - **(d)** *Exceptions*
@@ -90,18 +84,17 @@ It is the policy of the United States to further assist the Government of Ukrain
     - **(A)** *In general* The authority to block and prohibit all transactions in all property and interests in property under subsection (c)(5) shall not include the authority to impose sanctions on the importation of goods.
     - **(B)** *Good defined* In this paragraph, the term good has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
   - **(2)** *Additional exceptions* The President shall not be required to apply or maintain the sanctions under subsection (a) or (b)—
-    - **(A)** in the case of procurement of defense articles or defense services—
-      - **(i)** under existing contracts or subcontracts, including the exercise of options for production quantities to satisfy requirements essential to the national security of the United States;
-      - **(ii)** if the President determines in writing that—
-        - **(I)** the person to which the sanctions would otherwise be applied is a sole source supplier of the defense articles or services;
+    - **(A)** in the case of procurement of defense articles or defense services under existing contracts, subcontracts, or other business agreements, including ancillary or incidental contracts for goods, or for services or funding (including necessary financial services) associated with such goods, as necessary to give effect to such contracts, subcontracts, or other business agreements, and the exercise of options for production quantities to satisfy requirements essential to the national security of the United States—
+      - **(i)** if the President determines in writing that—
+        - **(I)** the foreign person to which the sanctions would otherwise be applied is a sole source supplier of the defense articles or services;
         - **(II)** the defense articles or services are essential;
         - **(III)** alternative sources are not readily or reasonably available; and
         - **(IV)** the national interests of the United States would be adversely affected by the application or maintenance of such sanctions; or
-      - **(iii)** if the President determines in writing that—
+      - **(ii)** if the President determines in writing that—
         - **(I)** such articles or services are essential to the national security under defense coproduction agreements; and
         - **(II)** the national interests of the United States would be adversely affected by the application or maintenance of such sanctions;
     - **(B)** in the case of procurement, to eligible products, as defined in section 308(4) of the Trade Agreements Act of 1979 (19 U.S.C. 2518(4)), of any foreign country or instrumentality designated under section 301(b)(1) of that Act (19 U.S.C. 2511(b)(1));
-    - **(C)** to products, technology, or services provided under contracts entered into before the date on which the President publishes in the Federal Register the name of the person with respect to which the sanctions are to be imposed;
+    - **(C)** to products, technology, or services provided under contracts, subcontracts, or other business agreements (including ancillary or incidental contracts for goods, or for services or funding (including necessary financial services) associated with such goods, as necessary to give effect to such contracts, subcontracts, or other business agreements) entered into before the date on which the President publishes in the Federal Register the name of the foreign person with respect to which the sanctions are to be imposed;
     - **(D)** to—
       - **(i)** spare parts that are essential to United States products or production;
       - **(ii)** component parts, but not finished products, essential to United States products or production; or
@@ -109,7 +102,7 @@ It is the policy of the United States to further assist the Government of Ukrain
     - **(E)** to information and technology essential to United States products or production; or
     - **(F)** to food, medicine, medical devices, or agricultural commodities (as those terms are defined in section 101 of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8511)).
 - **(e)** *National security waiver*
-  - **(1)** *In general* The President may waive the application of sanctions under subsection (a) or (b) with respect to a person if the President—
+  - **(1)** *In general* The President may waive the application of sanctions under subsection (a) or (b) with respect to a foreign person if the President—
     - **(A)** determines that the waiver is in the national security interest of the United States; and
     - **(B)** submits to the appropriate congressional committees a report on the determination and the reasons for the determination.
   - **(2)** *Form of report* The report required by paragraph (1)(B) shall be submitted in unclassified form, but may include a classified annex.
@@ -118,15 +111,16 @@ It is the policy of the United States to further assist the Government of Ukrain
     - **(A)** determines that the transaction is in the national security interest of the United States; and
     - **(B)** submits to the appropriate congressional committees a detailed report on the determination and the specific reasons for the determination that a waiver with respect to the transaction is necessary and appropriate.
   - **(2)** *Form of report* The report required by paragraph (1)(B) shall be submitted in unclassified form, but may include a classified annex.
-- **(g)** *Penalties* The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, or conspires to violate, or causes a violation of, subsection (a) or (b) of this section, or an order or regulation prescribed under either such subsection, to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of the International Emergency Economic Powers Act.
-- **(h)** *Termination* This section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees a certification that the Government of the Russian Federation has ceased ordering, controlling, or otherwise directing, supporting, or financing, significant acts intended to undermine the peace, security, stability, sovereignty, or territorial integrity of Ukraine, Georgia, and Moldova.
-- **(h)** *Termination* This section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees a certification that the Government of the Russian Federation has ceased ordering, controlling, or otherwise directing, supporting, or financing, significant acts intended to undermine the peace, security, stability, sovereignty, or territorial integrity of Ukraine, Georgia, and Moldova, including through an agreement between the appropriate parties.
+- **(g)** *Implementation; penalties*
+  - **(1)** *Implementation* The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out the purposes of this section.
+  - **(2)** *Penalties* The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, or conspires to violate, or causes a violation of, subsection (a) or (b) of this section, or an order or regulation prescribed under either such subsection, to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of the International Emergency Economic Powers Act.
+- **(h)** *Termination*
+  - **(1)** *In general* Except as provided in paragraph (2), this section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees a certification that the Government of the Russian Federation has ceased ordering, controlling, or otherwise directing, supporting, or financing, significant acts intended to undermine the peace, security, stability, sovereignty, or territorial integrity of Ukraine, including through an agreement between the appropriate parties.
+  - **(2)** *Applicability with respect to Syria* The termination date under paragraph (1) shall not apply with respect to the provisions of subsection (a) relating to the transfer of defense articles into Syria or sanctions imposed pursuant to such provisions.
 
 ## § 5. Sanctions on Russian and other foreign financial institutions
 
-- **(a)** *Facilitation of certain defense- and energy-related transactions* The President may impose the sanction described in subsection (c) with respect to a foreign financial institution that the President determines engages, on or after the date of the enactment of this Act, in significant transactions involving—
-  - **(1)** persons with respect to which sanctions are imposed under section 4; and
-  - **(2)** activities described in subsection (a) or (b) of that section.
+- **(a)** *Facilitation of certain defense- and energy-related transactions* The President may impose the sanction described in subsection (c) with respect to a foreign financial institution that the President determines knowingly engages, on or after the date of the enactment of this Act, in significant transactions involving activities described in subparagraph (A)(ii) or (B) of section 4(a)(2) or paragraph (1) or (3) of section 4(b) for persons with respect to which sanctions are imposed under section 4.
 - **(b)** *Facilitation of financial transactions on behalf of specially designated nationals* The President may impose the sanction described in subsection (c) with respect to a foreign financial institution if the President determines that the foreign financial institution has, on or after the date that is 180 days after the date of the enactment of this Act, knowingly facilitated a significant financial transaction on behalf of any Russian person included on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury, pursuant to—
   - **(1)** this Act;
   - **(2)** Executive Order 13660 (79 Fed. Reg. 13,493), 13661 (79 Fed. Reg. 15,535), or 13662 (79 Fed. Reg. 16,169); or
@@ -135,33 +129,24 @@ It is the policy of the United States to further assist the Government of Ukrain
 - **(d)** *National security waiver* The President may waive the application of sanctions under this section with respect to a foreign financial institution if the President—
   - **(1)** determines that the waiver is in the national security interest of the United States; and
   - **(2)** submits to the appropriate congressional committees a report on the determination and the reasons for the determination.
-- **(e)** *Termination* This section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees the certification described in section 4(h).
+- **(e)** *Implementation; penalties*
+  - **(1)** *Implementation* The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out the purposes of this section.
+  - **(2)** *Penalties* The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, or conspires to violate, or causes a violation of, subsection (a) or (b) of this section, or an order or regulation prescribed under either such subsection, to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of the International Emergency Economic Powers Act.
+- **(f)** *Termination* This section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees the certification described in section 4(h).
 
-## § 6. Codification of executive orders addressing the crisis in Ukraine
-
-- **(a)** *In general* United States United States sanctions with respect to the Russian Federation provided for in Executive Orders 13660 (79 Fed. Reg. 13,493), 13661 (79 Fed. Reg. 15,535), and 13662 (79 Fed. Reg. 16,169), as in effect on the day before the date of the enactment of this Act, shall remain in effect until the date on which the President submits to the appropriate congressional committees the certification described in section 4(h).
-- **(b)** *Exceptions and waivers* Sanctions referred to in subsection (a) shall, as appropriate, be subject to the exceptions and waivers provided for in subsections (d), (e), and (f) of section 4.
-
-## § 7. Major non-NATO ally status for Ukraine, Georgia, and Moldova
-
-Section 517 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321k) is amended by adding at the end the following:
-
-> - **(c)** *Additional designations*
->   - **(1)** *In general* Effective on the date of the enactment of the Ukraine Freedom Support Act of 2014, Ukraine, Georgia, and Moldova are each designated as a major non-NATO ally for purposes of this Act and the Arms Export Control Act (22 U.S.C. 2751 et seq.).
->   - **(2)** *Notice of termination of designation* The President shall notify Congress in accordance with subsection (a)(2) before terminating the designation of a country specified in paragraph (1).
-
-## § 8. Increased military assistance for the Government of Ukraine
+## § 6. Increased military assistance for the Government of Ukraine
 
 - **(a)** *In general* The President is authorized to provide defense articles, defense services, and training to the Government of Ukraine for the purpose of countering offensive weapons and reestablishing the sovereignty and territorial integrity of Ukraine, including anti-tank and anti-armor weapons, crew weapons and ammunition, counter-artillery radars to identify and target artillery batteries, fire control, range finder, and optical and guidance and control equipment, tactical troop-operated surveillance drones, and secure command and communications equipment, pursuant to the provisions of the Arms Export Control Act (22 U.S.C. 2751 et seq.), the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), and other relevant provisions of law.
 - **(b)** *Report required* Not later than 60 days after the date of the enactment of this Act, the President shall submit a report detailing the anticipated defense articles, defense services, and training to be provided pursuant to this section and a timeline for the provision of such defense articles, defense services, and training, to—
   - **(1)** the Committee on Foreign Relations, the Committee on Appropriations, and the Committee on Armed Services of the Senate; and
   - **(2)** the Committee on Foreign Affairs, the Committee on Appropriations, and the Committee on Armed Services of the House of Representatives.
 - **(c)** *Authorization of appropriations*
-  - **(1)** *In general* There are authorized to be appropriated to the Secretary of State $350,000,000 for fiscal year 2015 to carry out activities under this section.
-  - **(2)** *Availability of amounts* Amounts authorized to be appropriated pursuant to paragraph (1) shall remain available for obligation and expenditure through the end of fiscal year 2017.
+  - **(1)** *In general* There are authorized to be appropriated to the Secretary of State $100,000,000 for fiscal year 2015, $125,000,000 for fiscal year 2016, and $125,000,000 for fiscal year 2017 to carry out activities under this section.
+  - **(2)** *Availability of amounts* Amounts authorized to be appropriated pursuant to paragraph (1) shall remain available for obligation and expenditure through the end of fiscal year 2018.
 - **(d)** *Authority for the use of funds* The funds made available pursuant to subsection (c) for provision of defense articles, defense services, and training may be used to procure such articles, services, and training from the United States Government or other appropriate sources.
+- **(e)** *Protection of civilians* It is the sense of Congress that the Government of Ukraine should take all appropriate steps to protect civilians.
 
-## § 9. Expanded nonmilitary assistance for Ukraine
+## § 7. Expanded nonmilitary assistance for Ukraine
 
 - **(a)** *Assistance to internally displaced people in Ukraine*
   - **(1)** *In general* Not later than 30 days after the date of the enactment of this Act, the Secretary of State shall submit a plan, including actions by the United States Government, other governments, and international organizations, to meet the need for protection of and assistance for internally displaced persons in Ukraine, to—
@@ -169,15 +154,15 @@ Section 517 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321k) is amended b
     - **(B)** the Committee on Foreign Affairs, the Committee on Appropriations, and the Committee on Energy and Commerce of the House of Representatives.
   - **(2)** *Elements* The plan required by paragraph (1) should include, as appropriate, activities in support of—
     - **(A)** helping to establish a functional and adequately resourced central registration system in Ukraine that can ensure coordination of efforts to provide assistance to internally displaced persons in different regions;
-    - **(B)** encouraging adoption of legislation in Ukraine that protects internally displaced persons from discrimination based on their status and provides simplified procedures for obtaining the new residency registration or other official documentation that is a prerequisite to receiving appropriate social payments under the laws of Ukraine, such as pensions, and disability, child, and unemployment benefits; and
+    - **(B)** encouraging adoption of legislation in Ukraine that protects internally displaced persons from discrimination based on their status and provides simplified procedures for obtaining the new residency registration or other official documentation that is a prerequisite to receiving appropriate social payments under the laws of Ukraine, such as pensions and disability, child, and unemployment benefits; and
     - **(C)** helping to ensure that information is available to internally displaced persons about—
       - **(i)** government agencies and independent groups that can provide assistance to such persons in various regions; and
       - **(ii)** evacuation assistance available to persons seeking to flee armed conflict areas.
   - **(3)** *Assistance through international organizations* The President shall instruct the United States permanent representative or executive director, as the case may be, to the relevant United Nations voluntary agencies, including the United Nations High Commissioner for Refugees and the United Nations Office for the Coordination of Humanitarian Affairs, and other appropriate international organizations, to use the voice and vote of the United States to support appropriate assistance for internally displaced persons in Ukraine.
 - **(b)** *Assistance to the defense sector of Ukraine* The Secretary of State and the Secretary of Defense should assist entities in the defense sector of Ukraine to reorient exports away from customers in the Russian Federation and to find appropriate alternative markets for those entities in the defense sector of Ukraine that have already significantly reduced exports to and cooperation with entities in the defense sector of the Russian Federation.
-- **(c)** *Assistance to address the energy crisis in Ukraine*
+- **(c)** *Assistance To address the energy crisis in Ukraine*
   - **(1)** *Emergency energy assistance*
-    - **(A)** *Plan required* The Secretary of State and the Secretary of Energy, in collaboration with the Administrator of the United States Agency for International Development and the Administrator of the Federal Emergency Management Agency, shall work with officials of the Government of Ukraine to develop a short-term emergency energy assistance plan designed to help Ukraine address the potentially severe short-term, heating fuel and electricity shortages facing Ukraine in 2014 and 2015.
+    - **(A)** *Plan required* The Secretary of State and the Secretary of Energy, in collaboration with the Administrator of the United States Agency for International Development and the Administrator of the Federal Emergency Management Agency, shall work with officials of the Government of Ukraine to develop a short-term emergency energy assistance plan designed to help Ukraine address the potentially severe short-term heating fuel and electricity shortages facing Ukraine in 2014 and 2015.
     - **(B)** *Elements* The plan required by subparagraph (A) should include strategies to address heating fuel and electricity shortages in Ukraine, including, as appropriate—
       - **(i)** the acquisition of short-term, emergency fuel supplies;
       - **(ii)** the repair or replacement of infrastructure that could impede the transmission of electricity or transportation of fuel;
@@ -191,10 +176,9 @@ Section 517 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321k) is amended b
       - **(iii)** repair of infrastructure to enable the transport of fuel supplies;
       - **(iv)** repair of power generating or power transmission equipment or facilities;
       - **(v)** procurement and installation of compressors or other appropriate equipment to enhance short-term natural gas production;
-      - **(vi)** procurement of mobile electricity generation units; and
-      - **(vii)** conversion of natural gas heating facilities to run on other fuels, including alternative energy sources.; and
+      - **(vi)** procurement of mobile electricity generation units;
+      - **(vii)** conversion of natural gas heating facilities to run on other fuels, including alternative energy sources; and
       - **(viii)** provision of emergency weatherization and winterization materials and supplies.
-    - **(D)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary of State, the Secretary of Energy, and the Administrator of the United States Agency for International Development $50,000,000 in the aggregate for fiscal year 2015 to carry out activities under this paragraph.
   - **(2)** *Reduction of Ukraine’s reliance on energy imports*
     - **(A)** *Plans required* The Secretary of State, in collaboration with the Secretary of Energy and the Administrator of the United States Agency for International Development, shall work with officials of the Government of Ukraine to develop medium- and long-term plans to increase energy production and efficiency to increase energy security by helping Ukraine reduce its dependence on natural gas imported from the Russian Federation.
     - **(B)** *Elements* The medium- and long-term plans required by subparagraph (A) should include strategies, as appropriate, to—
@@ -203,8 +187,8 @@ Section 517 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321k) is amended b
       - **(iii)** license new oil and gas blocks transparently and competitively;
       - **(iv)** modernize oil and gas upstream infrastructure; and
       - **(v)** improve energy efficiency.
-    - **(C)** *Prioritization* The Secretary of State, the Administrator of the United States Agency for International Development, and the Secretary of Energy should, during fiscal years 2015 through 2017, work with other donors, including multilateral agencies and nongovernmental organizations, to prioritize, to the extent practicable and as appropriate, the provision of assistance from such donors to help Ukraine to improve energy efficiency, increase energy supplies produced in Ukraine, and reduce reliance on energy imports from the Russian Federation, including natural gas.
-    - **(D)** *Authorization of appropriations* There are authorized to be appropriated $50,000,000 in the aggregate for fiscal years 2015 through 2017 to carry out activities under this paragraph.
+    - **(C)** *Prioritization* The Secretary of State, the Administrator of the United States Agency for International Development, and the Secretary of Energy should, during fiscal years 2015 through 2018, work with other donors, including multilateral agencies and nongovernmental organizations, to prioritize, to the extent practicable and as appropriate, the provision of assistance from such donors to help Ukraine to improve energy efficiency, increase energy supplies produced in Ukraine, and reduce reliance on energy imports from the Russian Federation, including natural gas.
+    - **(D)** *Authorization of appropriations* There are authorized to be appropriated $50,000,000 in the aggregate for fiscal years 2016 through 2018 to carry out activities under this paragraph.
   - **(3)** *Support from the overseas private investment corporation* The Overseas Private Investment Corporation shall—
     - **(A)** prioritize, to the extent practicable, support for investments to help increase energy efficiency, develop domestic oil and natural gas reserves, improve and repair electricity infrastructure, and develop renewable and other sources of energy in Ukraine; and
     - **(B)** implement procedures for expedited review and, as appropriate, approval, of applications by eligible investors (as defined in section 238 of the Foreign Assistance Act of 1961 (22 U.S.C. 2198)) for loans, loan guarantees, and insurance for such investments.
@@ -212,18 +196,18 @@ Section 517 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321k) is amended b
     - **(A)** to invest in, and increase their efforts to promote investment in, projects to improve energy efficiency, improve and repair electricity infrastructure, develop domestic oil and natural gas reserves, and develop renewable and other sources of energy in Ukraine; and
     - **(B)** to stimulate private investment in such projects.
 - **(d)** *Assistance to civil society in ukraine*
-  - **(1)** *In general* The Secretary of State and the Administrator of the United States Agency for International Development shall, directly or through nongovernmental or international organizations organizations, such as the Organization for Security and Co-operation in Europe, the National Endowment for Democracy, and related organizations—
+  - **(1)** *In general* The Secretary of State and the Administrator of the United States Agency for International Development shall, directly or through nongovernmental or international organizations, such as the Organization for Security and Co-operation in Europe, the National Endowment for Democracy, and related organizations—
     - **(A)** strengthen the organizational and operational capacity of democratic civil society in Ukraine;
     - **(B)** support the efforts of independent media outlets to broadcast, distribute, and share information in all regions of Ukraine;
     - **(C)** counter corruption and improve transparency and accountability of institutions that are part of the Government of Ukraine; and
     - **(D)** provide support for democratic organizing and election monitoring in Ukraine.
-  - **(2)** *Strategy required* Not later than 60 days after the date of the enactment of this Act, the President shall submit a strategy to carry out the activities described in paragraph (1) to the committees specified in subsection (a)(1). to—
+  - **(2)** *Strategy required* Not later than 60 days after the date of the enactment of this Act, the President shall submit a strategy to carry out the activities described in paragraph (1) to—
     - **(A)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and
     - **(B)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.
-  - **(3)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary of State $20,000,000 for fiscal year 2015 to carry out this subsection.
+  - **(3)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary of State $20,000,000 for fiscal year 2016 to carry out this subsection.
   - **(4)** *Transparency requirements* Any assistance provided pursuant to this subsection shall be conducted in as transparent of a manner as possible, consistent with the nature and goals of this subsection. The President shall provide a briefing on the activities funded by this subsection at the request of the committees specified in paragraph (2).
 
-## § 10. Expanded broadcasting in countries of the former Soviet Union
+## § 8. Expanded broadcasting in countries of the former Soviet Union
 
 - **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, the Chairman of the Broadcasting Board of Governors shall submit to Congress a plan, including a cost estimate, for immediately and substantially increasing, and maintaining through fiscal year 2017, the quantity of Russian-language broadcasting into the countries of the former Soviet Union funded by the United States in order to counter Russian Federation propaganda.
 - **(b)** *Prioritization of broadcasting into Ukraine, Georgia, and Moldova* The plan required by subsection (a) shall prioritize broadcasting into Ukraine, Georgia, and Moldova by the Voice of America and Radio Free Europe/Radio Liberty.
@@ -232,23 +216,23 @@ Section 517 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321k) is amended b
   - **(2)** increases in broadcasting in other critical languages, including Ukrainian and Romanian languages.
 - **(d)** *Broadcasting defined* In this section, the term broadcasting means the distribution of media content via radio broadcasting, television broadcasting, and Internet-based platforms, among other platforms.
 - **(e)** *Authorization of appropriations*
-  - **(1)** *In general* There are authorized to be appropriated to the Broadcasting Board of Governors $10,000,000 for each of fiscal years 2015 through 2017 to carry out activities under this section.
+  - **(1)** *In general* There are authorized to be appropriated to the Broadcasting Board of Governors $10,000,000 for each of fiscal years 2016 through 2018 to carry out activities under this section.
   - **(2)** *Supplement not supplant* Amounts authorized to be appropriated pursuant to paragraph (1) shall supplement and not supplant other amounts made available for activities described in this section.
 
-## § 11. Support for Russian democracy and civil society organizations
+## § 9. Support for Russian democracy and civil society organizations
 
 - **(a)** *In general* The Secretary of State shall, directly or through nongovernmental or international organizations, such as the Organization for Security and Co-operation in Europe, the National Endowment for Democracy, and related organizations—
   - **(1)** improve democratic governance, transparency, accountability, rule of law, and anti-corruption efforts in the Russian Federation;
   - **(2)** strengthen democratic institutions and political and civil society organizations in the Russian Federation;
   - **(3)** expand uncensored Internet access in the Russian Federation; and
   - **(4)** expand free and unfettered access to independent media of all kinds in the Russian Federation, including through increasing United States Government-supported broadcasting activities, and assist with the protection of journalists and civil society activists who have been targeted for free speech activities.
-- **(b)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary of State $20,000,000 for each of fiscal years 2015 through 2017 to carry out the activities set forth in subsection (a).
+- **(b)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary of State $20,000,000 for each of fiscal years 2016 through 2018 to carry out the activities set forth in subsection (a).
 - **(c)** *Strategy requirement* Not later than 60 days after the date of the enactment of this Act, the President shall submit a strategy to carry out the activities set forth in subsection (a) to—
   - **(1)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and
   - **(2)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.
 - **(d)** *Transparency requirements* Any assistance provided pursuant to this section shall be conducted in as transparent of a manner as possible, consistent with the nature and goals of this section. The President shall provide a briefing on the activities funded by this section at the request of the committees specified in subsection (c).
 
-## § 12. Report on non-compliance by the Russian Federation of its obligations under the INF Treaty
+## § 10. Report on non-compliance by the Russian Federation of its obligations under the INF Treaty
 
 - **(a)** *Findings* Congress makes the following findings:
   - **(1)** The Russian Federation is in violation of its obligations under the Treaty between the United States of America and the Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range and Shorter-Range Missiles, signed at Washington December 8, 1987, and entered into force June 1, 1988 (commonly referred to as the “Intermediate-Range Nuclear Forces Treaty” or “INF Treaty”).
@@ -266,3 +250,7 @@ Section 517 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321k) is amended b
 - **(d)** *Committees specified* The committees specified in this subsection are—
   - **(1)** the Committee on Foreign Relations, the Committee on Armed Services, and the Select Committee on Intelligence of the Senate; and
   - **(2)** the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+## § 11. Rule of construction
+
+Nothing in this Act or an amendment made by this Act shall be construed as an authorization for the use of military force.
