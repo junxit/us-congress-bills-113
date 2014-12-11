@@ -1,7 +1,7 @@
 ---
 measure: S. 2338
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2338
@@ -33,3 +33,5 @@ United States Anti-Doping Agency Reauthorization Act
 - 2014-12-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. With written report No. 113-281.
 - 2014-12-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. With written report No. 113-281.
 - 2014-12-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 608.
+- 2014-12-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6697; text as passed Senate: CR S6697)
+- 2014-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6697; text as passed Senate: CR S6697)
