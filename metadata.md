@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2640
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2640
@@ -56,3 +56,9 @@ Crooked River Collaborative Water Security and Jobs Act of 2014
 - 2014-12-11 — Senate amendment agreed to: Amendment SA 4094 agreed to in Senate by Unanimous Consent.
 - 2014-12-11 — Senate amendment proposed (on the floor): Amendment SA 4094 proposed by Senator Merkley.(consideration: CR S6622)
 - 2014-12-11 — Senate amendment submitted
+- 2014-12-13 — Presented to President.
+- 2014-12-13 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-244.
+- 2014-12-18 — Became Public Law No: 113-244.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.

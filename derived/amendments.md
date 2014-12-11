@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2640
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -34,5 +34,5 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1274` | replace | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by striking paragraph (72) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4321` | replace | by striking “Sec. 4. In order” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 4321` | strike | in subsection (a) (as so designated), by striking “during those months” and all that follows through “purpose of the project”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 4321` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1531` | add-at-end | The Act of August 6, 1956 (70 Stat. 1058; 73 Stat. 554; 78 Stat. 954), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
