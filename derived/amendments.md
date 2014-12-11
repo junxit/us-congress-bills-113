@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3329
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Subparagraph (C) of section 171(b)(5) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5371(b)(5)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| `12 U.S.C. § 5371` | amend | Subparagraph (C) of section 171(b)(5) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5371(b)(5)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

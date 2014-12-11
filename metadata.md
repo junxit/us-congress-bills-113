@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3329
 congress: 113
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3329
@@ -60,3 +60,9 @@ To enhance the ability of community financial institutions to foster economic gr
 - 2014-12-11 — Senate amendment agreed to: Amendment SA 4093 agreed to in Senate by Unanimous Consent.
 - 2014-12-11 — Senate amendment proposed (on the floor): Amendment SA 4093 proposed by Senator Durbin for Senator King.(consideration: CR S6607-6608; text: CR S6607-6608)
 - 2014-12-11 — Senate amendment submitted
+- 2014-12-13 — Presented to President.
+- 2014-12-13 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-250.
+- 2014-12-18 — Became Public Law No: 113-250.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
