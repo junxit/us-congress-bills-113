@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 130
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 130
@@ -37,3 +37,7 @@ Making further continuing appropriations for fiscal year 2015, and for other pur
 - 2014-12-11 — Presented to President.
 - 2014-12-11 — Presented to President.
 - 2014-12-11 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice. (consideration: CR S6681)
+- 2014-12-12 — Became Public Law No: 113-202.
+- 2014-12-12 — Became Public Law No: 113-202.
+- 2014-12-12 — Signed by President.
+- 2014-12-12 — Signed by President.
