@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5656
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5656
@@ -58,3 +58,4 @@ Global Food Security Act of 2014
 - 2014-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9023-9025)
 - 2014-12-10 — The House resumed debate on H.R. 5656.
 - 2014-12-10 — The title of the measure was amended. Agreed to without objection.
+- 2014-12-11 — Received in the Senate.
