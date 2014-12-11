@@ -82,3 +82,17 @@ Title II of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5721 et se
 > - **(b)** *Waiver authority* The President may waive the application of subsection (a) if the President—
 >   - **(1)** determines that such a waiver is in the national security interests of the United States; and
 >   - **(2)** on or before the date on which the waiver takes effect, submits to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a notice of and justification for the waiver.
+
+## § 5. Treatment of Hong Kong under United States law
+
+Title II of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5721 et seq.) is amended by inserting after section 202 the following new section:
+
+> ## § 202a. Treatment of Hong Kong under United States law
+>
+> - **(a)** *Secretary of State certification requirement*
+>   - **(1)** *In general* Not later than 90 days after the date of the enactment of the Hong Kong Human Rights and Democracy Act, and annually thereafter, the Secretary of State shall certify to Congress whether Hong Kong is sufficiently autonomous to justify separate treatment different from that accorded the People's Republic of China in any new laws, agreements, treaties, or arrangements entered into between the United States and Hong Kong after the date of the enactment of such Act.
+>   - **(2)** *Factor for consideration* In making a certification under paragraph (1), the Secretary of State should consider the terms, obligations, and expectations expressed in the Joint Declaration with respect to Hong Kong.
+>   - **(3)** *Exception* The certification under this subsection shall not be required with respect to any new laws, agreements, treaties, or arrangements that support human rights, rule of law, or democracy in Hong Kong.
+> - **(b)** *Waiver authority* The Secretary of State may waive the application of subsection (a) if the Secretary—
+>   - **(1)** determines that such a waiver is in the national interests of the United States; and
+>   - **(2)** on or before the date on which the waiver takes effect, submits to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a notice of and justification for the waiver.
