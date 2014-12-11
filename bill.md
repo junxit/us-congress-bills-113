@@ -2,16 +2,49 @@
 legis-num: H.R. 83
 congress: 113th CONGRESS
 session: 2d Session
-chamber: In the Senate of the United States,
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H.R. 83
 
-That the bill from the House of Representatives (H.R. 83) entitled “An Act to require the Secretary of the Interior to assemble a team of technical, policy, and financial experts to address the energy needs of the insular areas of the United States and the Freely Associated States through the development of energy action plans aimed at promoting access to affordable, reliable energy, including increasing use of indigenous clean-energy resources, and for other purposes.”, do pass with the following
+That the House agree to the amendment of the Senate to the bill (H.R. 83) entitled “An Act to require the Secretary of the Interior to assemble a team of technical, policy, and financial experts to address the energy needs of the insular areas of the United States and the Freely Associated States through the development of energy action plans aimed at promoting access to affordable, reliable energy, including increasing use of indigenous clean-energy resources, and for other purposes.”, with the following
 
-*Strike all after the enacting clause and insert the following:*
+*In lieu of the matter proposed to be inserted by the amendment of the Senate to the text of the bill, insert the following:*
 
-## § 1. Study of electric rates in the insular areas
+## § 1. Short title
+
+This Act may be cited as the “Consolidated and Further Continuing Appropriations Act, 2015”.
+
+## § 2. Table of contents
+
+-  The table of contents of this Act is as follows:
+
+## § 3. References
+
+-  Except as expressly provided otherwise, any reference to “this Act” contained in any division of this Act shall be treated as referring only to the provisions of that division.
+
+## § 4. Explanatory Statement
+
+-  The explanatory statement regarding this Act, printed in the House of Representatives section of the Congressional Record on or about December 11, 2014 by the Chairman of the Committee on Appropriations of the House, shall have the same effect with respect to the allocation of funds and implementation of divisions A through K of this Act as if it were a joint explanatory statement of a committee of conference.
+
+## § 5. Statement of appropriations
+
+-  The following sums in this Act are appropriated, out of any money in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2015.
+
+## § 6. Availability of funds
+
+- **(a)** Each amount designated in this Act by the Congress as an emergency requirement pursuant to section 251(b)(2)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 shall be available only if the President subsequently so designates all such amounts and transmits such designations to the Congress.
+- **(b)** Each amount designated in this Act by the Congress for Overseas Contingency Operations/Global War on Terrorism pursuant to section 251(b)(2)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 shall be available (or rescinded, if applicable) only if the President subsequently so designates all such amounts and transmits such designations to the Congress.
+
+## § 7. Technical allowance for estimating differences
+
+-  If, for fiscal year 2015, new budget authority provided in appropriations Acts exceeds the discretionary spending limit for any category set forth in section 251(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 due to estimating differences with the Congressional Budget Office, an adjustment to the discretionary spending limit in such category for fiscal year 2015 shall be made by the Director of the Office of Management and Budget in the amount of the excess but the total of all such adjustments shall not exceed 0.2 percent of the sum of the adjusted discretionary spending limits for all categories for that fiscal year.
+
+## § 8. Adjustments to compensation
+
+Notwithstanding any other provision of law, no adjustment shall be made under section 610(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31) (relating to cost of living adjustments for Members of Congress) during fiscal year 2015.
+
+## § 9. Study of electric rates in the insular areas
 
 - **(a)** *Definitions* In this section:
   - **(1)** *Comprehensive energy plan* The term comprehensive energy plan means a comprehensive energy plan prepared and updated under subsections (c) and (e) of section 604 of the Act entitled “An Act to authorize appropriations for certain insular areas of the United States, and for other purposes”, approved December 24, 1980 (48 U.S.C. 1492).
@@ -34,14 +67,19 @@ That the bill from the House of Representatives (H.R. 83) entitled “An Act to 
   - **(4)** benchmarks for measuring progress toward implementation.
 - **(e)** *Reports to secretary* Not later than 1 year after the date on which the Secretary establishes the team and annually thereafter, the team shall submit to the Secretary a report detailing progress made in fulfilling its charge and in implementing the energy action plan.
 - **(f)** *Annual reports to congress* Not later than 30 days after the date on which the Secretary receives a report submitted by the team under subsection (e), the Secretary shall submit to the appropriate committees of Congress a summary of the report of the team.
-- **(g)** *Approval of Secretary required* The energy action plan shall not be implemented until the Secretary approves the energy action plan.
+- **(g)** *Approval of secretary required* The energy action plan shall not be implemented until the Secretary approves the energy action plan.
 
-## § 2. Amendments to the Consolidated Natural Resources Act
+## § 10. Amendments to the consolidated natural resources act
 
 Section 6 of Public Law 94–241 (90 Stat. 263; 122 Stat. 854) is amended—
 
 - **(1)** in subsection (a)(2), by striking “December 31, 2014, except as provided in subsections (b) and (d)” and inserting “December 31, 2019”; and
 - **(2)** in subsection (d)—
-  - **(A)** in the third sentence of paragraph (2), by striking ‘‘not to extend beyond December 31, 2014, unless extended pursuant to paragraph 5 of this subsection’’ and inserting “‘ending on December 31, 2019”’;
+  - **(A)** in the third sentence of paragraph (2), by striking “not to extend beyond December 31, 2014, unless extended pursuant to paragraph 5 of this subsection” and inserting ““ending on December 31, 2019””;
   - **(B)** by striking paragraph (5); and
   - **(C)** by redesignating paragraph (6) as paragraph (5).
+
+## § 11. Payments in lieu of taxes
+
+- **(a)** For payments in lieu of taxes under chapter 69 of title 31, United States Code, for fiscal year 2015, $372,000,000 shall be available to the Secretary of the Interior.
+- **(b)** The amount made available in subsection (a) shall be in addition to amounts made available for payments in lieu of taxes by the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015.
