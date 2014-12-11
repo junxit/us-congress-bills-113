@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 5855
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5855
+
+> To require a report on procurement supply chain vulnerabilities within the Department of Defense.
+
+## § 1. Report on procurement supply chain vulnerabilities
+
+- **(a)** *Report required* Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on how sole source suppliers of components to the Department of Defense procurement supply chain create vulnerabilities to military attack, terrorism, natural disaster, industrial shock, financial crisis, or geopolitical crisis, such as an embargo of key raw materials or industrial inputs.
+- **(b)** *Matters covered* The report required by subsection (a) shall include, at a minimum, the following:
+  - **(1)** A list of the components in the Department of Defense procurement supply chain for which there is a supplier that controls over 50 percent of the global market.
+  - **(2)** A list of parts of the supply chain where there is inadequate information to ascertain whether there is a single source supplier of components.
+  - **(3)** The Secretary’s recommendations on which single source suppliers create vulnerabilities, as well as recommendations on how to reduce those vulnerabilities.
+- **(c)** *Form of report* The report required by subsection (a) may be classified.
