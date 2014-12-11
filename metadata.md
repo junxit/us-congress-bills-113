@@ -1,7 +1,7 @@
 ---
 measure: S. 1353
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1353
@@ -54,3 +54,9 @@ Cybersecurity Enhancement Act of 2014
 - 2014-12-11 — Senate amendment proposed (on the floor): Amendment SA 4097 proposed by Senator King for Senator Rockefeller.(consideration: CR S6669)
 - 2014-12-11 — Senate amendment submitted
 - 2014-12-11 — The committee substitute agreed to by Unanimous Consent.
+- 2014-12-15 — Presented to President.
+- 2014-12-15 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-274.
+- 2014-12-18 — Became Public Law No: 113-274.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.

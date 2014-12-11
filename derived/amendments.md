@@ -1,7 +1,7 @@
 ---
 measure: S. 1353
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
