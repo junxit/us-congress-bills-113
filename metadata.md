@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 595
 congress: 113
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 595
@@ -16,6 +16,10 @@ A resolution recognizing Nobel Laureates Kailash Satyarthi and Malala Yousafzai 
 
 - Sen. Harkin, Tom [D-IA] (H000206)
 
+## Cosponsors (1)
+
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+
 ## Committees (1)
 
 - Senate — Foreign Relations Committee
@@ -24,3 +28,7 @@ A resolution recognizing Nobel Laureates Kailash Satyarthi and Malala Yousafzai 
 
 - 2014-12-08 — Introduced in Senate
 - 2014-12-08 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S6389)
+- 2014-12-11 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2014-12-11 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2014-12-11 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2014-12-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 648.

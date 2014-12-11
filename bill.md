@@ -18,6 +18,13 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas Malala Yousafzai has promoted education for girls in Pakistan since she was 11 years old and is an advocate for worldwide access to education;
 - Whereas Kailash Satyarthi has endured threats on his life as a result of such rescue efforts; and
 - Whereas the Taliban attempted to kill Malala Yousafzai on October 9, 2012, as a result of her efforts to encourage more girls to attend school: Now, therefore, be it
+- Whereas, on October 10, 2014, the Norwegian Nobel Committee awarded the 2014 Nobel Peace Prize to Kailash Satyarthi and Malala Yousafzai;
+- Whereas the International Labour Organization estimates that, worldwide, 168,000,000 children are exploited financially, with 85,000,000 children working in very hazardous environments and deprived of an education;
+- Whereas the United Nations Children's Fund estimates that 101,000,000 children are not in school;
+- Whereas Kailash Satyarthi and his organization, Bachpan Bachao Andolan, have rescued more than 82,000 children from the worst forms of child labor;
+- Whereas Malala Yousafzai has promoted education for girls in Pakistan since she was 11 years old and is an advocate for worldwide access to education;
+- Whereas Kailash Satyarthi has endured threats on his life as a result of such rescue efforts; and
+- Whereas the Taliban attempted to kill Malala Yousafzai on October 9, 2012, as a result of her efforts to encourage more girls to attend school: Now, therefore, be it
 
 That the Senate—
 
