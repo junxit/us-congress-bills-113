@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2452
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 637` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 644` | amend | Section 15(h)(2)(E)(viii) of the Small Business Act (15 U.S.C. 644) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
