@@ -21,3 +21,15 @@ That it is the sense of Congress that the United States Government should—
 - **(1)** use all of the lawful tools at its disposal to bring Warren Weinstein home to his family;
 - **(2)** make the return of all United States citizens held captive abroad, regardless of their different circumstances, a top priority; and
 - **(3)** keep Congress apprised of actions to achieve these goals as new information is available, or quarterly if no new information is available.
+
+## § 1. Sense of Congress
+
+It is the sense of Congress that the United States Government should—
+
+- **(1)** use all of the lawful tools at its disposal to bring Warren Weinstein home to his family;
+- **(2)** make the return of all United States citizens held captive abroad, regardless of their different circumstances, a top priority; and
+- **(3)** keep Congress apprised of actions to achieve these goals as new information is available, or quarterly if no new information is available.
+
+## § 2. Rule of construction
+
+Nothing in this resolution shall be construed as an authorization for the use of military force.
