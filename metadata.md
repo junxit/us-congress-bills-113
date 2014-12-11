@@ -1,7 +1,7 @@
 ---
 measure: S. 2338
 congress: 113
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2338
@@ -35,3 +35,16 @@ United States Anti-Doping Agency Reauthorization Act
 - 2014-12-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 608.
 - 2014-12-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6697; text as passed Senate: CR S6697)
 - 2014-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6697; text as passed Senate: CR S6697)
+- 2014-12-12 — Considered by unanimous consent. (consideration: CR H10314)
+- 2014-12-12 — Message on Senate action sent to the House.
+- 2014-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2014-12-12 — Mr. Flores asked unanimous consent to take from the Speaker's table and consider.
+- 2014-12-12 — On passage Passed without objection. (text: CR H10314)
+- 2014-12-12 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10314)
+- 2014-12-12 — Received in the House.
+- 2014-12-17 — Presented to President.
+- 2014-12-17 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-280.
+- 2014-12-18 — Became Public Law No: 113-280.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
