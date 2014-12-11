@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5816
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5816
@@ -32,3 +32,4 @@ To extend the authorization for the United States Commission on International Re
 - 2014-12-10 — Mr. Royce asked unanimous consent to discharge from committee and consider.
 - 2014-12-10 — On passage Passed without objection. (text: CR H9016)
 - 2014-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9016)
+- 2014-12-11 — Received in the Senate, read twice.
