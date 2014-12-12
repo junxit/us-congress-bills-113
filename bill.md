@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3345
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -55,7 +55,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(7)** not later than October 30 of each year, submit to Congress an annual report on—
   >     - **(A)** the progress and efforts to improve the suspension and debarment system;
   >     - **(B)** member agencies’ active participation in the Interagency Committee's work; and
-  >     - **(C)** a summary of each agency's activities and accomplishments in the Governmentwide suspension and debarment system, including the total number of referrals, timeliness of case disposition, and breakdown of discretionary and nondiscretionary cases.
+  >     - **(C)** a summary of each agency's activities and accomplishments in the Governmentwide suspension and debarment system, including the total number of referrals, timeliness of case disposition, and breakdown of discretionary and nondiscretionary cases.; and
+  >     - **(D)** The number and summary of agency head determinations, if any, that allowed a suspended or debarred contractor, grantee, or other recipient of Federal financial assistance to receive new Federal funds.
   > - **(d)** *Definition* In this section, the term contingency operation has the meaning given that term in section 101(a)(13) of title 10.
 
 - **(b)** *Conforming repeal of superseded provision* Section 873 of Public Law 110–417 (31 U.S.C. 6101 note) is hereby repealed. The table of contents contained in section 2 of Public Law 110–417, and at the beginning of title VIII of such public law, is amended by striking the item relating to section 873.
@@ -80,6 +81,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >     - **(A)** the outcome of all referred cases, including the rationale for the decision to take or not take an adverse action; and
   >     - **(B)** the administrative agreements entered into by the Government in order to resolve a suspension or debarment proceeding.
   >   - **(4)** *Timely referrals* The regulation shall provide procedures to strengthen timely referral of cases, including the role of the agency remedy coordination official (as required in section 7 of the SUSPEND Act).
+  >   - **(4)** *Timely referrals and processing of cases*
+  >     - **(A)** The regulation shall provide procedures to strengthen timely referrals of cases, including—
+  >       - **(i)** the role of the agency remedy coordination official to act upon cases brought to such official’s attention in a timely manner (as required in section 7 of the SUSPEND Act); and
+  >       - **(ii)** requirements for the Board or the agency suspension and debarment office to review the sufficiency of the information in the referred cases and to notify the agency remedy coordination official and cognizant Inspector General (if the case is originated from the Office of Inspector General) within 30 days after the initial referral date for any additional information if needed.
+  >     - **(B)** The regulation shall require all cases to be disposed of within 6 months after the initial referral date, unless the Chair of the Board or the agency suspension and debarment officer provides a written explanation and estimated timeline to the agency remedy coordination official and cognizant Inspector General (if the case is originated from the Office of Inspector General). Such written explanation shall be updated every 3 months until the final resolution of the case.
   >   - **(5)** *Consistent standards and procedures* The regulation shall provide procedures to ensure consistent standards and procedures that treat all alleged violators fairly and expeditiously, including small businesses with limited legal resources.
   >   - **(6)** *Repeated failure to perform* The regulation shall provide procedures to strengthen the identification and referral (for suspension or debarment consideration) of contractors and grantees that repeatedly fail to perform.
   >   - **(7)** *Contingency procedures* The regulation shall provide procedures for an expedited review process to handle contract or grant fraud in a non-traditional or time-sensitive environment, either in a military or non-military setting.
@@ -90,7 +96,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *Review* The Comptroller General of the United States shall review and assess the effectiveness in meeting the requirements of this Act and the amendments made by this Act of—
   - **(1)** the Board of Suspension and Debarment;
-  - **(2)** the suspension and debarment office of each executive agency granted a waiver under section 2(b)(2); and
+  - **(2)** the suspension and debarment office of each executive agency granted a waiver under section 2(b)(2) and the merits of any such waiver; and
   - **(3)** the case management system established under section 4.
 - **(b)** *Report* Not later than 2 years after the establishment of the Board of Suspension and Debarment, the Comptroller General shall submit to the relevant congressional committees a report containing—
   - **(1)** the findings of the review and assessment required by subsection (a); and
@@ -103,7 +109,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** *Coordination* For each significant investigation of fraud or corruption related to procurement or grant activities affecting an executive agency, the guidance under subsection (a) shall require that the remedy coordination official of the agency be promptly informed and appropriately empowered to carry out the requirements of this section.
   - **(2)** *Role of remedy coordination official* The remedy coordination official of the agency shall—
     - **(A)** ensure that all appropriate contracting and grant officials, officials of the Office of Inspector General of the agency, and officials of the Department of Justice are kept informed about all possible criminal, civil, contractual, and administrative remedies, and that appropriate remedies (including parallel criminal, civil, regulatory, contractual, and administrative proceedings) are pursued expeditiously;
-    - **(B)** ensure timely preparation and submission of suspension and debarment case files by appropriate agency officials; and
+    - **(B)** ensure timely preparation and submission of suspension and debarment case files by the Office of Inspector General of the agency or appropriate agency officials; and
     - **(C)** serve as a primary point of contact on behalf of the executive agency for the Board of Suspension and Debarment or the agency suspension and debarment office, as applicable, throughout the review of the referred cases.
   - **(3)** *Contractual or administrative remedies* The guidance under subsection (a) shall require that, in appropriate cases of fraud or corruption related to procurement or grant activities affecting the agency, and with advance notice to all necessary officials, contractual or administrative remedies be taken before final resolution of any criminal or civil case.
 

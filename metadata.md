@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3345
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3345
@@ -32,3 +32,8 @@ SUSPEND Act
 - 2013-10-28 — Introduced in House
 - 2013-10-28 — Introduced in House
 - 2013-10-28 — Referred to the House Committee on Oversight and Government Reform.
+- 2013-10-29 — Committee Consideration and Mark-up Session Held.
+- 2013-10-29 — Ordered to be Reported (Amended) by Voice Vote.
+- 2014-12-12 — Placed on the Union Calendar, Calendar No. 501.
+- 2014-12-12 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-669.
+- 2014-12-12 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-669.
