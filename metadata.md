@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2591
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2591
@@ -117,3 +117,4 @@ To amend certain provisions of the FAA Modernization and Reform Act of 2012.
 - 2014-12-11 — Mr. Brady (TX) asked unanimous consent to discharge from committee and consider.
 - 2014-12-11 — On passage Passed without objection. (text: CR H9292)
 - 2014-12-11 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9292)
+- 2014-12-12 — Received in the Senate, read twice.
