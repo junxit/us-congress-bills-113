@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 131
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 

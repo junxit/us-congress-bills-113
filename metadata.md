@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 131
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 131
@@ -33,3 +33,12 @@ Making further continuing appropriations for fiscal year 2015, and for other pur
 - 2014-12-12 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10314)
 - 2014-12-12 — Received in the Senate, read twice.
 - 2014-12-12 — Referred to the House Committee on Appropriations.
+- 2014-12-13 — Became Public Law No: 113-203.
+- 2014-12-13 — Became Public Law No: 113-203.
+- 2014-12-13 — Message on Senate action sent to the House.
+- 2014-12-13 — Passed Senate without amendment by Voice Vote. (consideration: CR S6801)
+- 2014-12-13 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S6801)
+- 2014-12-13 — Presented to President.
+- 2014-12-13 — Presented to President.
+- 2014-12-13 — Signed by President.
+- 2014-12-13 — Signed by President.
