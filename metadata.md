@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5859
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5859
@@ -19,6 +19,13 @@ Ukraine Freedom Support Act of 2014
 ## Cosponsors (1)
 
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
+
+## Committees (4)
+
+- House — Judiciary Committee
+- House — Oversight and Accountability Committee
+- House — Financial Services Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -41,3 +48,4 @@ Ukraine Freedom Support Act of 2014
 - 2014-12-11 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2014-12-11 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2014-12-11 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2014-12-12 — Received in the Senate, read twice.
