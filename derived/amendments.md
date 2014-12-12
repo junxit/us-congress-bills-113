@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2591
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 

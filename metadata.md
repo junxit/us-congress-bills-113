@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2591
 congress: 113
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2591
@@ -118,3 +118,12 @@ To amend certain provisions of the FAA Modernization and Reform Act of 2012.
 - 2014-12-11 — On passage Passed without objection. (text: CR H9292)
 - 2014-12-11 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9292)
 - 2014-12-12 — Received in the Senate, read twice.
+- 2014-12-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6819)
+- 2014-12-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6819)
+- 2014-12-15 — Message on Senate action sent to the House.
+- 2014-12-16 — Presented to President.
+- 2014-12-16 — Presented to President.
+- 2014-12-18 — Became Public Law No: 113-243.
+- 2014-12-18 — Became Public Law No: 113-243.
+- 2014-12-18 — Signed by President.
+- 2014-12-18 — Signed by President.
