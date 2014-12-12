@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5803
 congress: 113
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5803
@@ -39,3 +39,4 @@ To require the Secretary of the Interior to assemble a team of technical, policy
 - 2014-12-11 — Mr. Whitfield asked unanimous consent to discharge from committee and consider.
 - 2014-12-11 — On passage Passed without objection. (text: CR H9292)
 - 2014-12-11 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9292)
+- 2014-12-12 — Received in the Senate.
