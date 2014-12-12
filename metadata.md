@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3674
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3674
@@ -34,3 +34,10 @@ Federal Spectrum Incentive Act of 2013
 - 2013-12-09 — Introduced in House
 - 2013-12-09 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-12-09 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-12-10 — Committee Consideration and Mark-up Session Held.
+- 2014-01-24 — Referred to the Subcommittee on Intelligence, Emerging Threats & Capabilities.
+- 2014-12-12 — Committee on Armed Services discharged.
+- 2014-12-12 — Committee on Armed Services discharged.
+- 2014-12-12 — Placed on the Union Calendar, Calendar No. 502.
+- 2014-12-12 — Reported by the Committee on Energy and Commerce. H. Rept. 113-670, Part I.
+- 2014-12-12 — Reported by the Committee on Energy and Commerce. H. Rept. 113-670, Part I.

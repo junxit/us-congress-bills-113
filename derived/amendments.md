@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3674
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -128,11 +128,11 @@ complete account of the bill's effect, which it is not.
 | `47 U.S.C. § 923` | insert | in the heading, by inserting “or discontinuance” after “Relocation”; and | the bill quotes the text inserted but describes where it goes |
 | `47 U.S.C. § 923` | insert | by inserting “or discontinuance of the operations that the Federal entity conducts on the band” after “from the band” each place it appears. | the bill quotes the text inserted but describes where it goes |
 | `47 U.S.C. § 309` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 921` | add-at-end | Part B of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 921 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 923` | add-at-end | Part B of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 921 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 923` | strike | by striking “authorized to use a band of eligible frequencies described in paragraph (2)”; | the bill quotes the text struck but describes what replaces it |
 | `47 U.S.C. § 923` | strike | in clause (iv)(II), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `47 U.S.C. § 923` | replace | in clause (v), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `47 U.S.C. § 923` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 928` | replace | in subsection (c), by striking “with respect to” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `47 U.S.C. § 928` | insert | in paragraph (2)(A), by inserting “(or, in the case of an incumbent Federal entity described in section 113(g)(3)(A)(vi), the eligible Federal entity the operations of which are being relocated has submitted such a plan)” after “transiti… | the bill quotes the text inserted but describes where it goes |
-| `47 U.S.C. § 928` | insert | in paragraph (3)(B)(ii), by inserting “except in the case of an incumbent Federal entity described in section 113(g)(3)(A)(vi),” before “the transition plan”. | the bill quotes the text inserted but describes where it goes |
+| `47 U.S.C. § 923` | replace | in subsection (c), by striking “with respect to” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `47 U.S.C. § 923` | insert | in paragraph (2)(A), by inserting “(or, in the case of an incumbent Federal entity described in section 113(g)(3)(A)(vi), the eligible Federal entity the operations of which are being relocated has submitted such a plan)” after “transiti… | the bill quotes the text inserted but describes where it goes |
+| `47 U.S.C. § 923` | insert | in paragraph (3)(B)(ii), by inserting “except in the case of an incumbent Federal entity described in section 113(g)(3)(A)(vi),” before “the transition plan”. | the bill quotes the text inserted but describes where it goes |
