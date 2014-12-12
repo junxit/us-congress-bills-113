@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 875
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -14,16 +14,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 In this Act:
 
 - **(1)** *Administrator* The term “Administrator” means the Administrator of the Environmental Protection Agency.
-- **(2)** *Mid-level ethanol blend* The term “mid-level ethanol blend” means an ethanol-gasoline blend containing greater than 10 and up to and including 20 percent ethanol by volume that is intended to be used in any conventional gasoline-powered motor vehicle or nonroad vehicle or engine.
+- **(2)** *Mid-level ethanol blend* The term “mid-level ethanol blend” means an ethanol-gasoline blend containing greater than 10 and up to and including 20 percent ethanol by volume that is intended to be used in any conventional gasoline-powered onroad, nonroad, or marine engine, or onroad or nonroad vehicle.
 
 ## § 2. Evaluation
 
 - **(a)** *In general* The Administrator, acting through the Assistant Administrator of the Office of Research and Development at the Environmental Protection Agency, shall—
   - **(1)** not later than 45 days after the date of enactment of this Act, enter into an agreement with the National Academy of Sciences to provide, within 18 months after the date of enactment of this Act, a comprehensive assessment of the scientific and technical research on the implications of the use of mid-level ethanol blends, comparing mid-level ethanol blends to gasoline blends containing 10 percent or zero percent ethanol; and
   - **(2)** not later than 30 days after receiving the results of the assessment under paragraph (1), submit a report to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate on the findings of the assessment, together with the agreement or disagreement of the Administrator with each of its findings.
-- **(b)** *Waivers* Prior to the submission of the report under subsection (a)(2), any waiver granted under section 211(f)(4) of the Clean Air Act (42 U.S.C. 7545 (f)(4)) before the date of enactment of this Act that allows the introduction into commerce of mid-level ethanol blends for use in motor vehicles shall have no force or effect. The Administrator shall grant no new waivers under such section 211(f)(4) until after the submission of the report described under subsection (a)(2).
+- **(b)** *Waivers* Prior to the submission of the report under subsection (a)(2), any waiver granted under section 211(f)(4) of the Clean Air Act (42 U.S.C. 7545(f)(4)) before the date of enactment of this Act that allows the introduction into commerce of mid-level ethanol blends for use in motor vehicles shall have no force or effect. The Administrator shall grant no new waivers under such section 211(f)(4) until after the submission of the report described under subsection (a)(2).
 - **(c)** *Contents* The assessment performed under subsection (a)(1) shall include the following:
-  - **(1)** An evaluation of the short-term and long-term environmental, safety, durability, and performance effects of the introduction of mid-level ethanol blends on onroad, nonroad, and marine engines, onroad and nonroad vehicles, and related equipment. Such evaluation shall consider the impacts of qualifying mid-level ethanol blends or blends with higher ethanol concentrations as a certification fuel. Such evaluation shall include a review of all available scientific evidence, including all relevant government and industry data and testing, including that relied upon by the Administrator and published at 75 Fed. Reg. 68094 et seq. (November 4, 2010), 76 Fed. Reg. 4662 et seq. (January 26, 2011), and 76 Fed. Reg. 44406 et seq. (July 25, 2011), and identify gaps in understanding and research needs related to—
+  - **(1)** An evaluation of the short-term and long-term environmental, safety, durability, and performance effects of the introduction of mid-level ethanol blends on onroad, nonroad, and marine engines, onroad and nonroad vehicles, and related equipment. Such evaluation shall consider the impacts of qualifying mid-level ethanol blends or blends with higher ethanol concentrations as a certification fuel, and shall consider the effect mid-level ethanol blends have on carbon emissions, taking into account carbon emissions from their life-cycle production, as compared to gasoline blends containing 10 percent or zero percent ethanol. Such evaluation shall include a review of all available scientific evidence, including all relevant government and industry data and testing, including that relied upon by the Administrator and published at 75 Fed. Reg. 68094 et seq. (November 4, 2010), 76 Fed. Reg. 4662 et seq. (January 26, 2011), and 76 Fed. Reg. 44406 et seq. (July 25, 2011), and identify gaps in understanding and research needs related to—
     - **(A)** tailpipe emissions;
     - **(B)** evaporative emissions;
     - **(C)** engine and fuel system durability;
@@ -42,7 +42,7 @@ In this Act:
     - **(B)** reduce the risk of misfueling by users at various points in the distribution and supply chain, including at bulk storage, retail storage, and distribution configurations by—
       - **(i)** assessing the best methods and practices to prevent misfueling;
       - **(ii)** examining misfueling mitigation strategies for blender pumps, including volumetric purchase requirements and labeling requirements;
-      - **(iii)** assessing the adequacy of and ability for misfueling mitigation plans approved by the Environmental Protection Agency; and
+      - **(iii)** assessing the adequacy of misfueling mitigation plans approved by the Environmental Protection Agency; and
       - **(iv)** examining the technical standards and recommendations of the National Institute of Standards and Technology, the American National Standards Institute, and the International Organization for Standardization regarding fuel pump labeling.
 
 ## § 3. Authorization of appropriations
