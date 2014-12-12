@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1773
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1773
@@ -16,7 +16,7 @@ Agricultural Guestworker Act
 
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 
-## Cosponsors (8)
+## Cosponsors (11)
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Gowdy, Trey [R-SC-4] (G000566)
@@ -26,6 +26,9 @@ Agricultural Guestworker Act
 - Rep. Holding, George [R-NC-13] (H001065)
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
 - Rep. Hurt, Robert [R-VA-5] (H001060)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
 
 ## Committees (3)
 
@@ -40,3 +43,15 @@ Agricultural Guestworker Act
 - 2013-04-26 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and the Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-04-26 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and the Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-04-26 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and the Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-05-16 — Referred to the Subcommittee on Immigration and Border Security.
+- 2013-05-16 — Subcommittee Hearings Held.
+- 2013-06-18 — Subcommittee on Immigration and Border Security Discharged.
+- 2013-06-19 — Committee Consideration and Mark-up Session Held.
+- 2013-06-19 — Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 16.
+- 2014-12-12 — Committee on Education and the Workforce discharged.
+- 2014-12-12 — Committee on Education and the Workforce discharged.
+- 2014-12-12 — Committee on Ways and Means discharged.
+- 2014-12-12 — Committee on Ways and Means discharged.
+- 2014-12-12 — Placed on the Union Calendar, Calendar No. 506.
+- 2014-12-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-674, Part I.
+- 2014-12-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-674, Part I.

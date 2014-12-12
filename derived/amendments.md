@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1773
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `him;` |
 | Inserted | `him, except that no spouse or child may be admitted under clause (ii)(c);` |
 
-### 8 U.S.C. § 1181
+### 8 U.S.C. § 1182
 
 > by striking “Attorney General” each place it appears and inserting “Secretary of Homeland Security”; and
 
@@ -72,11 +72,11 @@ complete account of the bill's effect, which it is not.
 | `8 U.S.C. § 1101` | add-at-end | Section 101(a) of such Act (8 U.S.C. 1101(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1181` | insert | Chapter 2 of title II of the Immigration and Nationality Act (8 U.S.C. 1181 et seq.) is amended by inserting after section 218 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1181` | insert | Chapter 2 of title II of the Immigration and Nationality Act (8 U.S.C. 1181 et seq.) is amended by inserting after section 218A (as inserted by subsection (a)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1181` | strike | in subparagraph (A), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1181` | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1181` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1181` | replace | by striking “The Attorney General” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1181` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1182` | amend | in paragraph (1), by adding “and section 218A” after “of this section”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1182` | amend | in paragraph (3), by adding “and section 218A” after “of this section”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1184` | strike | in subparagraph (A), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1184` | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1184` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | replace | by striking “The Attorney General” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1182` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | insert | in paragraph (1), by inserting “and section 218A” after “(t)(1)(A)(i)(II)”; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1182` | insert | in paragraph (3), by inserting “and section 218A” after “(t)(1)(A)(i)(II)”. | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1101` | insert | The table of contents for the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) is amended by inserting after the item relating to section 218 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
