@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5401
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5401
@@ -32,3 +32,9 @@ Protecting the Homeland Act
 - 2014-09-08 — Introduced in House
 - 2014-09-08 — Referred to the House Committee on the Judiciary.
 - 2014-09-08 — Referred to the Subcommittee on Immigration and Border Security.
+- 2014-09-09 — Subcommittee on Immigration and Border Security Discharged.
+- 2014-09-10 — Committee Consideration and Mark-up Session Held.
+- 2014-09-10 — Ordered to be Reported by the Yeas and Nays: 21 - 11.
+- 2014-12-12 — Placed on the Union Calendar, Calendar No. 505.
+- 2014-12-12 — Reported by the Committee on Judiciary. H. Rept. 113-673.
+- 2014-12-12 — Reported by the Committee on Judiciary. H. Rept. 113-673.
