@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2866
 congress: 113
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2866
@@ -329,3 +329,13 @@ Boys Town Centennial Commemorative Coin Act
 - 2014-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7506-7507)
 - 2014-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7506-7507)
 - 2014-09-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2014-12-15 — Amendment SA 4120 agreed to in Senate by Unanimous Consent.
+- 2014-12-15 — Amendment SA 4120 proposed by Senator Walsh for Senator Johanns. (consideration: CR S6867; text: CR S6867) To provide that surcharges received from the sale of coins under the Act are used to reduce the national debt.
+- 2014-12-15 — Measure laid before Senate by unanimous consent. (consideration: CR S6867)
+- 2014-12-15 — Passed Senate with an amendment by Unanimous Consent.
+- 2014-12-15 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2014-12-15 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2014-12-15 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2014-12-15 — Senate amendment agreed to: Amendment SA 4120 agreed to in Senate by Unanimous Consent.
+- 2014-12-15 — Senate amendment proposed (on the floor): Amendment SA 4120 proposed by Senator Walsh for Senator Johanns.(consideration: CR S6867; text: CR S6867)
+- 2014-12-15 — Senate amendment submitted
