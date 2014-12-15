@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2131
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2131
@@ -16,7 +16,7 @@ SKILLS Visa Act
 
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 
-## Cosponsors (16)
+## Cosponsors (22)
 
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
@@ -34,6 +34,12 @@ SKILLS Visa Act
 - Rep. Calvert, Ken [R-CA-42] (C000059)
 - Rep. Franks, Trent [R-AZ-8] (F000448)
 - Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
+- Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
+- Rep. Rooney, Thomas J. [R-FL-17] (R000583)
+- Rep. Hultgren, Randy [R-IL-14] (H001059)
+- Rep. Cook, Paul [R-CA-8] (C001094)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
 
 ## Committees (2)
 
@@ -46,3 +52,12 @@ SKILLS Visa Act
 - 2013-05-23 — Introduced in House
 - 2013-05-23 — Referred to the Committee on the Judiciary, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-05-23 — Referred to the Committee on the Judiciary, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-06-14 — Referred to the Subcommittee on Immigration and Border Security.
+- 2013-06-25 — Subcommittee on Immigration and Border Security Discharged.
+- 2013-06-27 — Committee Consideration and Mark-up Session Held.
+- 2013-06-27 — Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 14.
+- 2014-12-15 — Committee on Education and the Workforce discharged.
+- 2014-12-15 — Committee on Education and the Workforce discharged.
+- 2014-12-15 — Placed on the Union Calendar, Calendar No. 507.
+- 2014-12-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-676, Part I.
+- 2014-12-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-676, Part I.

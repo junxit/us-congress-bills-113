@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2131
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-124 amendatory instructions. 43 executed, 81 stated and not applied.
+131 amendatory instructions. 48 executed, 83 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,14 +24,23 @@ to guess them.
 
 ## Executed
 
+### 8 U.S.C. § 1151
+
+> Section 201(d)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1151(d)(1)(A)) is amended by striking “140,000,” and inserting “140,000 in fiscal years through 2013 and 195,000 beginning in fiscal year 2014, reduced for any fiscal year beginning in fiscal year 2014 by the number by which the number of visas under section 201(e) would have been reduced in that year pursuant to section 203(d) of the Nicaraguan Adjustment and Central American Relief Act (8 U.S.C. 1151 note) if section 201(e) had not been repealed by section 106 of the SKILLS Visa Act,”.
+
+| | |
+|---|---|
+| Removed | `140,000,` |
+| Inserted | `140,000 in fiscal years through 2013 and 195,000 beginning in fiscal year 2014, reduced for any fiscal year beginning in fiscal year 2014 by the number by which the number of visas under section 201(e) would have been reduced in that year pursuant to section 203(d) of the Nicaraguan Adjustment and Central American Relief Act (8 U.S.C. 1151 note) if section 201(e) had not been repealed by section 106 of the SKILLS Visa Act,` |
+
 ### 8 U.S.C. § 1153
 
-> Section 203(b)(2)(A) of such Act (8 U.S.C. 1153(b)(2)(A)) is amended by striking “paragraph (1),” and inserting “paragraphs (1), (6), and (7),”.
+> Section 203(b)(2)(A) of such Act (8 U.S.C. 1153(b)(2)(A)) is amended by striking “paragraph (1),” and inserting “paragraphs (1), (6), (7), and (8),”.
 
 | | |
 |---|---|
 | Removed | `paragraph (1),` |
-| Inserted | `paragraphs (1), (6), and (7),` |
+| Inserted | `paragraphs (1), (6), (7), and (8),` |
 
 ### 8 U.S.C. § 1153
 
@@ -42,7 +51,7 @@ to guess them.
 | Removed | `paragraphs (1) and (2),` |
 | Inserted | `paragraphs (1), (2), (6), and (7),` |
 
-### 8 U.S.C. § 1151
+### 8 U.S.C. § 1154
 
 > by striking “(F)” and inserting “(F)(i)”;
 
@@ -51,7 +60,7 @@ to guess them.
 | Removed | `(F)` |
 | Inserted | `(F)(i)` |
 
-### 8 U.S.C. § 1151
+### 8 U.S.C. § 1154
 
 > by striking “or 203(b)(3)” and inserting “203(b)(3), 203(b)(6), or 203(b)(7)”;
 
@@ -60,7 +69,7 @@ to guess them.
 | Removed | `or 203(b)(3)` |
 | Inserted | `203(b)(3), 203(b)(6), or 203(b)(7)` |
 
-### 8 U.S.C. § 1151
+### 8 U.S.C. § 1154
 
 > by striking “Attorney General” and inserting “Secretary of Homeland Security”; and
 
@@ -96,7 +105,7 @@ to guess them.
 | Removed | `Attorney General` |
 | Inserted | `Secretary of Homeland Security` |
 
-### 8 U.S.C. § 1101
+### 8 U.S.C. § 1186b
 
 > in the section heading, by striking “Entrepreneurs,” and inserting “Investors,”.
 
@@ -105,7 +114,7 @@ to guess them.
 | Removed | `Entrepreneurs,` |
 | Inserted | `Investors,` |
 
-### 8 U.S.C. § 1101
+### 8 U.S.C. § 1186b
 
 > by striking “Attorney General” each place such term appears and inserting “Secretary of Homeland Security”;
 
@@ -114,7 +123,7 @@ to guess them.
 | Removed | `Attorney General` |
 | Inserted | `Secretary of Homeland Security` |
 
-### 8 U.S.C. § 1101
+### 8 U.S.C. § 1186b
 
 > by striking “entrepreneur” each place such term appears and inserting “investor”; and
 
@@ -123,7 +132,7 @@ to guess them.
 | Removed | `entrepreneur` |
 | Inserted | `investor` |
 
-### 8 U.S.C. § 1101
+### 8 U.S.C. § 1186b
 
 > In subsection (c)(3)(A), by striking “the such filing” and inserting “such filing”.
 
@@ -152,16 +161,7 @@ to guess them.
 
 ### 8 U.S.C. § 1153
 
-> Section 203(b)(2) of such Act (8 U.S.C. 1153(b)(2)) is amended by striking “28.6 percent of such worldwide level,” and inserting “55,040,”.
-
-| | |
-|---|---|
-| Removed | `28.6 percent of such worldwide level,` |
-| Inserted | `55,040,` |
-
-### 8 U.S.C. § 1151
-
-> Section 203(b)(3) of such Act (8 U.S.C. 1153(b)(3)) is amended by striking “28.6 percent of such worldwide level,” and inserting “55,040,”.
+> Section 203(b)(2)(A) of such Act (8 U.S.C. 1153(b)(2)(A)) is amended by striking “28.6 percent of such worldwide level,” and inserting “55,040,”.
 
 | | |
 |---|---|
@@ -170,7 +170,16 @@ to guess them.
 
 ### 8 U.S.C. § 1153
 
-> Section 203(b)(4) of such Act (8 U.S.C. 1153(b)(3)) is amended by striking “7.1 percent of such worldwide level,” and inserting “9,940,”.
+> Section 203(b)(3)(A) of such Act (8 U.S.C. 1153(b)(3)(A)) is amended by striking “28.6 percent of such worldwide level,” and inserting “55,040,”.
+
+| | |
+|---|---|
+| Removed | `28.6 percent of such worldwide level,` |
+| Inserted | `55,040,` |
+
+### 8 U.S.C. § 1153
+
+> Section 203(b)(4) of such Act (8 U.S.C. 1153(b)(4)) is amended by striking “7.1 percent of such worldwide level,” and inserting “9,940,”.
 
 | | |
 |---|---|
@@ -179,7 +188,7 @@ to guess them.
 
 ### 8 U.S.C. § 1153
 
-> Section 203(b)(5) of such Act (8 U.S.C. 1153(b)(4)) is amended by striking “7.1 percent of such worldwide level,” and inserting “9,940,”.
+> Section 203(b)(5)(A) of such Act (8 U.S.C. 1153(b)(5)(A)) is amended by striking “7.1 percent of such worldwide level,” and inserting “9,940,”.
 
 | | |
 |---|---|
@@ -188,21 +197,21 @@ to guess them.
 
 ### 8 U.S.C. § 1151
 
-> in subparagraph (A)(i), by striking “480,000,” and inserting “480,000 in fiscal years through 2013 and 440,000 beginning in fiscal year 2014,”; and
+> in subparagraph (A)(i), by striking “480,000,” and inserting “480,000 in fiscal years through 2013, 505,000 beginning in fiscal year 2014 through fiscal year 2023, and 440,000 beginning in fiscal year 2024,”; and
 
 | | |
 |---|---|
 | Removed | `480,000,` |
-| Inserted | `480,000 in fiscal years through 2013 and 440,000 beginning in fiscal year 2014,` |
+| Inserted | `480,000 in fiscal years through 2013, 505,000 beginning in fiscal year 2014 through fiscal year 2023, and 440,000 beginning in fiscal year 2024,` |
 
 ### 8 U.S.C. § 1151
 
-> in subparagraph (B)(ii), by striking “226,000.” and inserting “226,000 in fiscal years through 2013 and 186,000 beginning in fiscal year 2014.”.
+> in subparagraph (B)(ii), by striking “226,000.” and inserting “226,000 in fiscal years through 2013, 251,000 beginning in fiscal year 2014 through fiscal year 2023, and 186,000 beginning in fiscal year 2024.”.
 
 | | |
 |---|---|
 | Removed | `226,000.` |
-| Inserted | `226,000 in fiscal years through 2013 and 186,000 beginning in fiscal year 2014.` |
+| Inserted | `226,000 in fiscal years through 2013, 251,000 beginning in fiscal year 2014 through fiscal year 2023, and 186,000 beginning in fiscal year 2024.` |
 
 ### 8 U.S.C. § 1153
 
@@ -215,12 +224,12 @@ to guess them.
 
 ### 8 U.S.C. § 1153
 
-> by striking “226,000,” and inserting “226,000 in fiscal years through 2013 and 186,000 beginning in fiscal year 2014,”; and
+> by striking “226,000,” and inserting “226,000 in fiscal years through 2013, 251,000 beginning in fiscal year 2014 through fiscal year 2023, and 186,000 beginning in fiscal year 2024,”; and
 
 | | |
 |---|---|
 | Removed | `226,000,` |
-| Inserted | `226,000 in fiscal years through 2013 and 186,000 beginning in fiscal year 2014,` |
+| Inserted | `226,000 in fiscal years through 2013, 251,000 beginning in fiscal year 2014 through fiscal year 2023, and 186,000 beginning in fiscal year 2024,` |
 
 ### 8 U.S.C. § 1153
 
@@ -230,6 +239,24 @@ to guess them.
 |---|---|
 | Removed | `77` |
 | Inserted | `81.13` |
+
+### 8 U.S.C. § 1153
+
+> in paragraph (1), by striking “23,400,” and all that follows through the period at the end and inserting “23,400.”; and
+
+| | |
+|---|---|
+| Removed | `23,400,` |
+| Inserted | `23,400.` |
+
+### 8 U.S.C. § 1154
+
+> Section 204(a)(1)(A)(i) of such Act (8 U.S.C. 1154(a)(1)(A)(i)) is amended by striking “(1), (3), or (4)” and inserting “(1) or (3)”.
+
+| | |
+|---|---|
+| Removed | `(1), (3), or (4)` |
+| Inserted | `(1) or (3)` |
 
 ### 8 U.S.C. § 1153
 
@@ -339,14 +366,32 @@ to guess them.
 | Removed | `an alien described in section 101(a)(15)(H)(i)(b).` |
 | Inserted | `any status authorized for employment under this Act.` |
 
+### 8 U.S.C. § 1182
+
+> by striking “, and” at the end and inserting “; or”;
+
+| | |
+|---|---|
+| Removed | `, and` |
+| Inserted | `; or` |
+
+### 8 U.S.C. § 1182
+
+> by striking “(i)” and inserting “(i)(I)”;
+
+| | |
+|---|---|
+| Removed | `(i)` |
+| Inserted | `(i)(I)` |
+
 ### 8 U.S.C. § 1184
 
-> Section 214(c)(1)(E) of the Immigration and Nationality Act (8 U.S.C. 1184(c)(1)(E)) is amended by striking “101(a)(15)(L),” and inserting “subparagraph (H)(i)(b), (H)(i)(b1), (E)(iii), or (L) of section 101(a)”.
+> Section 214(c)(2)(E) of the Immigration and Nationality Act (8 U.S.C. 1184(c)(2)(E)) is amended by striking “101(a)(15)(L),” and inserting “subparagraph (H)(i)(b), (H)(i)(b1), (E)(iii), or (L) of section 101(a)(15)”.
 
 | | |
 |---|---|
 | Removed | `101(a)(15)(L),` |
-| Inserted | `subparagraph (H)(i)(b), (H)(i)(b1), (E)(iii), or (L) of section 101(a)` |
+| Inserted | `subparagraph (H)(i)(b), (H)(i)(b1), (E)(iii), or (L) of section 101(a)(15)` |
 
 ### 8 U.S.C. § 1184
 
@@ -366,6 +411,24 @@ to guess them.
 | Removed | `Attorney General` |
 | Inserted | `Secretary of Homeland Security` |
 
+### 8 U.S.C. § 1182
+
+> by striking “; and” at the end and inserting “; or”;
+
+| | |
+|---|---|
+| Removed | `; and` |
+| Inserted | `; or` |
+
+### 8 U.S.C. § 1182
+
+> by striking “(i)” and inserting “(i)(I)”;
+
+| | |
+|---|---|
+| Removed | `(i)` |
+| Inserted | `(i)(I)` |
+
 ### 8 U.S.C. § 1184
 
 > Section 214(m)(1) of the Immigration and Nationality Act (8 U.S.C. 1184(m)(1)) is amended, in the matter preceding subparagraph (A), by striking “(i) or (iii)” and inserting “(i), (ii), or (iv)”.
@@ -375,25 +438,7 @@ to guess them.
 | Removed | `(i) or (iii)` |
 | Inserted | `(i), (ii), or (iv)` |
 
-### 20 U.S.C. § 1001
-
-> by striking “(20 U.S.C. 1001(a),” and inserting “(20 U.S.C. 1001(a)),”; and
-
-| | |
-|---|---|
-| Removed | `(20 U.S.C. 1001(a),` |
-| Inserted | `(20 U.S.C. 1001(a)),` |
-
-### 20 U.S.C. § 1001
-
-> by striking “filing before a petition” and inserting “filing a petition”;
-
-| | |
-|---|---|
-| Removed | `filing before a petition` |
-| Inserted | `filing a petition` |
-
-### 20 U.S.C. § 1001
+### 8 U.S.C. § 1182
 
 > in paragraph (1), by striking “subsections (a)(5)(A), (n)(1)(A)(i)(II), and (t)(1)(A)(i)(II)” and inserting “subsections (a)(5)(A), (n)(1)(A)(i)(II), and (t)(1)(A)(i)(II) of this section, and subsections (c)(2)(G), (e), and (s) of section 214,”;
 
@@ -402,9 +447,9 @@ to guess them.
 | Removed | `subsections (a)(5)(A), (n)(1)(A)(i)(II), and (t)(1)(A)(i)(II)` |
 | Inserted | `subsections (a)(5)(A), (n)(1)(A)(i)(II), and (t)(1)(A)(i)(II) of this section, and subsections (c)(2)(G), (e), and (s) of section 214,` |
 
-### 20 U.S.C. § 1001
+### 8 U.S.C. § 1182
 
-> in paragraph 4 (as redesignated), by striking “subsections (a)(5)(A), (n)(1)(A)(i)(II), and (t)(1)(A)(i)(II)” and inserting “subsections (a)(5)(A), (n)(1)(A)(i)(II), and (t)(1)(A)(i)(II) of this section, and subsections (c)(2)(G), (e), and (s) of section 214,”; and
+> in paragraph (4) (as redesignated), by striking “subsections (a)(5)(A), (n)(1)(A)(i)(II), and (t)(1)(A)(i)(II)” and inserting “subsections (a)(5)(A), (n)(1)(A)(i)(II), and (t)(1)(A)(i)(II) of this section, and subsections (c)(2)(G), (e), and (s) of section 214,”;
 
 | | |
 |---|---|
@@ -420,37 +465,37 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `8 U.S.C. § 1151` | repeal | Section 201(d)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1151(d)(1)(A)) is amended by striking “140,000,” and inserting “140,000 in fiscal years through 2013 and 195,000 beginning in fiscal year 2014, reduced for any fiscal … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1153` | redesignate | by redesignating paragraph (6) as paragraph (9); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1151` | insert | by inserting after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1151` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 49` | replace | in subclause (I), by striking “, or” at the end and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `29 U.S.C. § 49` | replace | in subclause (II), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `29 U.S.C. § 49` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 49` | redesignate | by redesignating clauses (ii) through (iv) as clauses (iii) through (v), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 49` | insert | by inserting after clause (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 49` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1154` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | replace | in subclause (I), by striking “, or” at the end and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1182` | replace | in subclause (II), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1182` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | redesignate | by redesignating clauses (ii) through (iv) as clauses (iii) through (v), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | insert | by inserting after clause (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1153` | insert | Section 203(b) of the Immigration and Nationality Act (8 U.S.C. 1153(b)) is amended by inserting after paragraph (7) (as added by section 101 of this Act) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | amend | The item relating to section 216A in the table of contents of the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1181` | insert | Chapter 2 of title II of the Immigration and Nationality Act (8 U.S.C. 1181 et seq.) is amended by inserting after section 216A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1181` | insert | The table of contents for such Act is amended by inserting after the item relating to section 216A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1255` | add-at-end | Section 245 of such Act (8 U.S.C. 1255) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1153` | add-at-end | Section 203(b)(5)(C) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(5)(C)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1153` | add-at-end | Such section, as amended by paragraph (1), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1186b` | amend | Section 216A(c)(3)(B) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(3)(B)), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1186b` | strike | by striking “and” at the end of subparagraph (A); | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1186b` | redesignate | by redesignating subparagraph “(B)” as subparagraph “(C)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1186b` | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1186b` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1153` | strike | Section 203(b)(5)(B)(ii) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(5)(B)(ii)) is amended by striking “(of at least 150 percent of the national average rate)”. | the bill quotes the text struck but describes what replaces it |
 | `8 U.S.C. § 1153` | add-at-end | Section 203(b)(5)(B) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(5)(B)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1153` | strike | by striking “pilot” each place such term appears; and | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1153` | strike | in the section heading, by striking “Pilot”; and | the bill quotes the text struck but describes what replaces it |
 | `8 U.S.C. § 1153` | strike | in subsection (b), by striking “until September 30, 2015”. | the bill quotes the text struck but describes what replaces it |
 | `8 U.S.C. § 1101` | add-at-end | Such section 610 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78c` | add-at-end | Such section 610, as amended by subparagraph (A), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1151` | strike | Section 203(a) of such Act (8 U.S.C. 1151(a)) is amended by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1153` | insert | by inserting “and” at the end of paragraph (1); | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1153` | replace | by striking “; and” at the end of paragraph (2) and inserting a period; and | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1153` | strike | by striking paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1153` | strike | by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1153` | strike | by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1151` | insert | by inserting “and” at the end of paragraph (1); | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1151` | replace | by striking “; and” at the end of paragraph (2) and inserting a period; and | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1151` | strike | by striking paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1151` | strike | by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1153` | strike | by striking subsection (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1153` | redesignate | in subsection (e), by striking paragraph (2) and redesignating paragraph (3) as paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1154` | strike | by striking subsection (a)(1)(I); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -458,46 +503,48 @@ complete account of the bill's effect, which it is not.
 | `8 U.S.C. § 1152` | strike | by striking subsection (a)(5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1152` | amend | by amending subsection (e) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1255` | redesignate | by striking subsection (d) and redesignating subsection (e) as subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1184` | strike | Section 220(c) of the Immigration and Nationality Technical Corrections Act of 1994 (Public Law 103–416; 8 U.S.C. 1182 note) is amended by striking “and before September 30, 2015”. | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1182` | strike | Section 220(c) of the Immigration and Nationality Technical Corrections Act of 1994 (Public Law 103–416; 8 U.S.C. 1182 note) is amended by striking “and before September 30, 2015”. | the bill quotes the text struck but describes what replaces it |
 | `8 U.S.C. § 1184` | amend | Section 214(l) of the Immigration and Nationality Act (8 U.S.C. 1184(l)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1184` | strike | in clause (ii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `8 U.S.C. § 1184` | replace | in clause (iii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1184` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1184` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1184` | replace | Section 214(l)(1)(C) of the Immigration and Nationality Act (8 U.S.C. 1184(l)(1)(C)) is amended by striking clauses (i) and (ii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1184` | add-at-end | Section 214(l) of the Immigration and Nationality Act (8 U.S.C. 1184(l)), as amended by subsection (b)(1), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1153` | replace | Section 203(b)(2)(B)(ii)(I) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(2)(B)(ii)(I)) is amended by striking items (aa) and (bb) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1153` | insert | by inserting “(aa)” after “(II)”; and | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1153` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1153` | add-at-end | Section 203(b)(2)(A) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(2)(A)) is amended by adding at the end “An alien physician holding a foreign medical degree that has been deemed sufficient for acceptance by an accredited Uni… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 203 of the Immigration and Nationality Act (8 U.S.C. 1153) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `8 U.S.C. § 1153` | add-at-end | Section 203(b)(2)(A) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(2)(A)) is amended by adding at the end the following: “An alien physician holding a foreign medical degree that has been deemed sufficient for acceptance by an… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1153` | add-at-end | Section 203 of the Immigration and Nationality Act (8 U.S.C. 1153) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254e` | insert | in subparagraph (A), by inserting after clause (iii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1153` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1184` | strike | in clause (vi), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `8 U.S.C. § 1184` | amend | by amending clause (vii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1184` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1184` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1184` | amend | by amending paragraph (5)(C) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1184` | add-at-end | Section 214(i) of the Immigration and Nationality Act (8 U.S.C. 1184(i)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | redesignate | by redesignating subclauses (I) and (II) as items (aa) and (bb), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | insert | by inserting “except as provided in subclause (II),” before “is offering”; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1182` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1184` | amend | Section 214(i) of the Immigration and Nationality Act (8 U.S.C. 1184(i)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1356` | add-at-end | Section 286 of the Immigration and Nationality Act (8 U.S.C. 1356) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1182` | replace | The first sentence of subsection (n)(2)(F), and the first sentence of subsection (t)(3)(E) (as added by section 402(b)(2) of Public Law 108–77 (117 Stat. 941)), of section 212 of the Immigration and Nationality Act (8 U.S.C. 1182) are ea… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1184` | add-at-end | Section 214(c) of the Immigration and Nationality Act (8 U.S.C. 1184(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1182` | add-at-end | Section 212(n)(2) of the Immigration and Nationality Act (8 U.S.C. 1182(n)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1182` | add-at-end | Section 212(t)(3) of such Act (8 U.S.C. 1182(t)(3)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1184` | add-at-end | Section 214(g) of the Immigration and Nationality Act (8 U.S.C. 1184(g)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1184` | add-at-end | Section 214(c)(2) of the Immigration and Nationality Act (8 U.S.C. 1184(c)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | replace | The first sentence of subsection (n)(2)(F), and the first sentence of subsection (t)(3)(E) (as added by section 402(b)(2) of Public Law 108–77 (117 Stat. 941)), of section 212 of the Immigration and Nationality Act (8 U.S.C. 1182) are ea… | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1184` | amend | Section 214(c) of the Immigration and Nationality Act (8 U.S.C. 1184(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | amend | Section 212(n)(2) of the Immigration and Nationality Act (8 U.S.C. 1182(n)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | add-at-end | Section 212(t)(3) of such Act (8 U.S.C. 1182(t)(3)) (as added by section 402(b)(2) of Public Law 108-77 (117 Stat. 941)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1184` | amend | Section 214(g) of the Immigration and Nationality Act (8 U.S.C. 1184(g)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1184` | amend | Section 214(c)(2) of the Immigration and Nationality Act (8 U.S.C. 1184(c)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1184` | insert | by inserting “under such sections” after “new employment”. | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1184` | replace | by striking the first two sentences of the matter that follows subparagraph (B) and inserting the following: “In the case of an alien seeking entry for a motion picture or television production, (i) any opinion under the previous sentenc… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1184` | add-at-end | Section 214(e) of the Immigration and Nationality Act (8 U.S.C. 1184(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1184` | amend | Section 214(e) of the Immigration and Nationality Act (8 U.S.C. 1184(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | redesignate | by redesignating subclauses (I) and (II) as items (aa) and (bb), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | insert | by inserting “except as provided in subclause (II),” before “is offering”; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1182` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | amend | Section 101(a)(15)(F) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(F)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1184` | replace | Section 214(b) of the Immigration and Nationality Act (8 U.S.C. 1184(b)), as amended by section 108(d)(1) of this Act, is further amended by striking “(L) or (V)” inserting “(F)(i), (L), or (V)”. | the bill quotes text on both sides, but not as a single substitution this could carry out |
 | `8 U.S.C. § 1184` | add-at-end | Section 214 of the Immigration and Nationality Act (8 U.S.C. 1184) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Section 214 of the Immigration and Nationality Act (8 U.S.C. 1184, as amended by section 205(b), is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `8 U.S.C. § 1184` | add-at-end | Section 214 of the Immigration and Nationality Act (8 U.S.C. 1184, as amended by section 205(b), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1184` | add-at-end | Section 214(c)(12)(A) of the Immigration and Nationality Act (8 U.S.C. 1184(c)(12)(A)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1184` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1184` | amend | by amending subparagraph (C) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1184` | redesignate | by redesignating subparagraph (C) as subparagraph (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1184` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1356` | replace | Section 286(s)(1) of the Immigration and Nationality Act (8 U.S.C. 1356(s)(1)) is amended by striking the last sentence and inserting “There shall be deposited as offsetting receipts into the account a portion of the fees collected under… | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1184` | add-at-end | Section 203(b) of the Immigration and Nationality Act (8 U.S.C. 1153(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1356` | add-at-end | Section 286 of the Immigration and Nationality Act (8 U.S.C. 1356), as amended by section 201(c)(1)(B) of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1001` | redesignate | by redesignating paragraphs (2) through (4) as paragraphs (3) through (5), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1001` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1001` | redesignate | by amending paragraph (5) (as redesignated) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1154` | add-at-end | Section 214(c) of the Immigration and Nationality Act (8 U.S.C. 1184(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | redesignate | by redesignating paragraphs (2) through (4) as paragraphs (3) through (5), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | redesignate | by amending paragraph (5) (as redesignated) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1184` | add-at-end | Section 214(c) of the Immigration and Nationality Act (8 U.S.C. 1184(c)), as amended by this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
