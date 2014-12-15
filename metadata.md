@@ -1,7 +1,7 @@
 ---
 measure: S. 1744
 congress: 113
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1744
@@ -38,3 +38,7 @@ Security Clearance Accountability, Reform, and Enhancement Act
 - 2014-11-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2014-11-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2014-11-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 606.
+- 2014-12-01 — By Senator Carper from Committee on Homeland Security and Governmental Affairs filed written report. Report No. 113-276.
+- 2014-12-01 — By Senator Carper from Committee on Homeland Security and Governmental Affairs filed written report. Report No. 113-276.
+- 2014-12-15 — Passed Senate with an amendment and an amendment to the Title by Voice Vote. (consideration: CR S6866-6867; text as passed Senate: CR S6866)
+- 2014-12-15 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Voice Vote.(consideration: CR S6866-6867; text as passed Senate: CR S6866)
