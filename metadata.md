@@ -1,7 +1,7 @@
 ---
 measure: S. 706
 congress: 113
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 706
@@ -34,3 +34,7 @@ Transnational Drug Trafficking Act of 2013
 - 2013-04-11 — Introduced in Senate
 - 2013-04-11 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S2591)
 - 2013-04-11 — Sponsor introductory remarks on measure. (CR S2590-2591)
+- 2014-12-15 — Passed Senate without amendment by Unanimous Consent. (text: CR S6840-6841)
+- 2014-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6840-6841)
+- 2014-12-15 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6840-6841)
+- 2014-12-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6840-6841)

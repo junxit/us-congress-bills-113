@@ -1,7 +1,7 @@
 ---
 legis-num: S. 706
 congress: 113th CONGRESS
-session: 1st Session
+session: 2nd Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
