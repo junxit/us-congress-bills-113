@@ -1,7 +1,7 @@
 ---
 legis-num: S. 684
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -48,7 +48,7 @@ The Mni Wiconi Project Act of 1988 (Public Law 100–516; 102 Stat. 2566; 108 St
 >     - **(B)** *Administration* For each water supply system described in subparagraph (A), the Secretary shall enter into agreements with the Secretary of Agriculture and the Director of the Bureau of Indian Affairs that set forth the specific responsibilities of each agency concerning the construction of the livestock distribution systems.
 >   - **(4)** *Lead agency* The Department of the Interior, acting through the Bureau of Reclamation, shall act as the lead agency in carrying out this section.
 >   - **(5)** *Administration*
->     - **(A)** *In general* Each agency head shall carry out the duties of the agency head under this subsection out of amounts made available to the agency head under annual appropriations and existing authorityauthorities.
+>     - **(A)** *In general* Each agency head shall carry out the duties of the agency head under this subsection out of amounts made available to the agency head under annual appropriations and existing authorities.
 >     - **(B)** *Authorization of use of other Federal agency funds* Amounts made available to agencies other than the Bureau of Reclamation may also be used to carry out this Act.
 >     - **(C)** *Additional funding requests* Nothing in this subsection prohibits the Oglala Sioux Tribe, the Rosebud Sioux Tribe, or the Lower Brule Sioux Tribe from applying for, seeking, or obtaining amounts from the Federal agencies referred to in paragraph (1) for any other purpose.
 > - **(c)** *Upgrading standards for connecting homes* The Director of the Bureau of Indian Affairs shall, through the use of existing programs and annual appropriations, assist the Secretary in completing the Oglala Sioux Rural Water Supply System, the Rosebud Sioux Rural Water System, and the Lower Brule Sioux Rural Water System by constructing, repairing, and upgrading plumbing fixtures, skirting, and other necessary features, such as septic tanks and drainfields, to ensure that houses within the service areas are able to meet the standards for connecting to those water systems.
@@ -76,6 +76,9 @@ The Mni Wiconi Project Act of 1988 (Public Law 100–516; 102 Stat. 2566; 108 St
 
   - **(5)** by adding after paragraph (1) (as so designated) the following:
     > - **(2)** *Community water systems upgrades*
-    >   - **(A)** *In general* Not later than 5 years after the date of enactment of the Mni Wiconi Project Act Amendments of 2013, each public or tribal water system that is in existence on the date of enactment of this paragraph shall be transferred to the applicable rural water supply system, to be held in trust by the United States for the benefit of the applicable Indian tribe, on the request of the Oglala Sioux Tribe, the Rosebud Sioux Tribe, or the Lower Brule Sioux Tribe, as applicable, and the owner of the water system.
     >   - **(A)** *In general* After the date on which public or tribal water systems on the Pine Ridge Indian Reservation, the Rosebud Indian Reservation, and the Lower Brule Indian Reservation that are in existence on the date of enactment of this paragraph have been brought up to the standards for the water systems established in the plans developed under section 3C(a), but not later than 15 years after the date of enactment of this paragraph, title to each of the water systems shall be transferred to the United States, to be held in trust for the benefit of the applicable Indian tribe, on the request of the Oglala Sioux Tribe, the Rosebud Sioux Tribe, or the Lower Brule Sioux Tribe, as applicable, and the owner of the water system.
-    >   - **(B)** *Improvements and repairs and replacement* The Secretary shall use amounts authorized to be appropriated under paragraph (1) for the improvement, repair, and replacement of any water system that is transferred or proposed to be transferredproposed, by request of the owner of the water system, to be transferred and improved under subparagraph (A).
+    >   - **(B)** *Improvements and repairs and replacement* The Secretary shall use amounts authorized to be appropriated under paragraph (1) for the improvement, repair, and replacement of any water system that is transferred or proposed, by request of the owner of the water system, to be transferred and improved under subparagraph (A).
+
+## § 4. Offset
+
+Notwithstanding any other provision of law, in the case of the project authorized by section 1617 of the Reclamation Projects Authorization and Adjustment Act of 1992 (43 U.S.C. 390h–12c), the maximum amount of the Federal share of the cost of the project under section 1631(d)(1) of that Act (43 U.S.C. 390h–13(d)(1)) otherwise available as of the date of enactment of this Act shall be reduced by $15,000,000.
