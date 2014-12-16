@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 595
 congress: 113
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 595
@@ -32,3 +32,5 @@ A resolution recognizing Nobel Laureates Kailash Satyarthi and Malala Yousafzai 
 - 2014-12-11 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2014-12-11 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2014-12-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 648.
+- 2014-12-16 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S6929; text as passed Senate: CR S6929)
+- 2014-12-16 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S6929; text as passed Senate: CR S6929)
