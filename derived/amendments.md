@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2278
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-218 amendatory instructions. 56 executed, 162 stated and not applied.
+226 amendatory instructions. 69 executed, 157 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,16 +51,16 @@ to guess them.
 | Removed | `Attorney General` |
 | Inserted | `Secretary` |
 
-### 8 U.S.C. § 1231
+### 8 U.S.C. § 1373
 
-> by striking “Immigration and Naturalization Service” in each place it appears and inserting “Department of Homeland Security”;
+> by striking “Immigration and Naturalization Service” each place it appears and inserting “Department of Homeland Security”;
 
 | | |
 |---|---|
 | Removed | `Immigration and Naturalization Service` |
 | Inserted | `Department of Homeland Security` |
 
-### 8 U.S.C. § 1231
+### 8 U.S.C. § 1373
 
 > in subsection (a), by striking “may” and inserting “shall”;
 
@@ -69,7 +69,7 @@ to guess them.
 | Removed | `may` |
 | Inserted | `shall` |
 
-### 8 U.S.C. § 1231
+### 8 U.S.C. § 1373
 
 > by striking “no person or agency may ” and inserting “a person or agency shall not”;
 
@@ -78,7 +78,7 @@ to guess them.
 | Removed | `no person or agency may` |
 | Inserted | `a person or agency shall not` |
 
-### 8 U.S.C. § 1231
+### 8 U.S.C. § 1373
 
 > by striking “doing any of the following with respect to information” and inserting “undertaking any of the following law enforcement activities”; and
 
@@ -105,7 +105,7 @@ to guess them.
 | Removed | `deportable under` |
 | Inserted | `described in` |
 
-### 8 U.S.C. § 1158
+### 8 U.S.C. § 1229c
 
 > Section 240B(b)(1)(C) of such Act (8 U.S.C. 1229c(b)(1)(C)) is amended by striking “deportable under section 237(a)(2)(A)(iii) or section 237(a)(4);” and inserting “described in paragraph (2)(A)(iii) or (4) of section 237(a);”.
 
@@ -159,7 +159,7 @@ to guess them.
 | Removed | `Service` |
 | Inserted | `Department of Homeland Security` |
 
-### 13 U.S.C. § 8
+### 8 U.S.C. § 1255a
 
 > by striking “Attorney General” each place such term appears and inserting “Secretary of Homeland Security”;
 
@@ -168,7 +168,7 @@ to guess them.
 | Removed | `Attorney General` |
 | Inserted | `Secretary of Homeland Security` |
 
-### 13 U.S.C. § 8
+### 8 U.S.C. § 1255a
 
 > in subparagraph (A), by striking “Department of Justice,” and inserting “Department of Homeland Security,”;
 
@@ -233,12 +233,12 @@ to guess them.
 
 ### 8 U.S.C. § 1101
 
-> in subparagraph (U), by striking “an attempt or conspiracy to commit an offense described in this paragraph” and inserting “attempting or conspiring to commit an offense described in this paragraph, or aiding, abetting, counseling, procuring, commanding, inducing, or soliciting the commission of such an offense.”; and
+> in subparagraph (U), by striking “an attempt or conspiracy to commit an offense described in this paragraph” and inserting “attempting or conspiring to commit an offense described in this paragraph, or aiding, abetting, counseling, procuring, commanding, inducing, or soliciting the commission of such an offense”; and
 
 | | |
 |---|---|
 | Removed | `an attempt or conspiracy to commit an offense described in this paragraph` |
-| Inserted | `attempting or conspiring to commit an offense described in this paragraph, or aiding, abetting, counseling, procuring, commanding, inducing, or soliciting the commission of such an offense.` |
+| Inserted | `attempting or conspiring to commit an offense described in this paragraph, or aiding, abetting, counseling, procuring, commanding, inducing, or soliciting the commission of such an offense` |
 
 ### 8 U.S.C. § 1182
 
@@ -267,6 +267,51 @@ to guess them.
 | Removed | `if either since the date of such admission the alien has been convicted of an aggravated felony or the alien` |
 | Inserted | `if since the date of such admission the alien` |
 
+### 18 U.S.C. § 922
+
+> in subsection (d)(5), in subparagraph (B), by striking “(y)(2)” and all that follows and inserting “(y), is in the United States not as an alien lawfully admitted for permanent residence;”;
+
+| | |
+|---|---|
+| Removed | `(y)(2)` |
+| Inserted | `(y), is in the United States not as an alien lawfully admitted for permanent residence;` |
+
+### 18 U.S.C. § 922
+
+> in subsection (g)(5), in subparagraph (B), by striking “(y)(2)” and all that follows and inserting “(y), is in the United States not as an alien lawfully admitted for permanent residence;”; and
+
+| | |
+|---|---|
+| Removed | `(y)(2)` |
+| Inserted | `(y), is in the United States not as an alien lawfully admitted for permanent residence;` |
+
+### 8 U.S.C. § 1101
+
+> in the header, by striking “admitted under nonimmigrant visas.—” and inserting “not lawfully admitted for permanent residence.—”;
+
+| | |
+|---|---|
+| Removed | `admitted under nonimmigrant visas.—` |
+| Inserted | `not lawfully admitted for permanent residence.—` |
+
+### 8 U.S.C. § 1101
+
+> in paragraph (2), by striking “under a nonimmigrant visa” and inserting “but not lawfully admitted for permanent residence”; and
+
+| | |
+|---|---|
+| Removed | `under a nonimmigrant visa` |
+| Inserted | `but not lawfully admitted for permanent residence` |
+
+### 8 U.S.C. § 1101
+
+> in paragraph (3)(A), by striking “admitted to the United States under a nonimmigrant visa” and inserting “lawfully admitted to the United States but not as an alien lawfully admitted for permanent residence”.
+
+| | |
+|---|---|
+| Removed | `admitted to the United States under a nonimmigrant visa` |
+| Inserted | `lawfully admitted to the United States but not as an alien lawfully admitted for permanent residence` |
+
 ### 18 U.S.C. § 1961
 
 > Section 1961(1) of title 18, United States Code, is amended by striking “section 1542” through “section 1546 (relating to fraud and misuse of visas, permits, and other documents)” and inserting “sections 1541-1548 (relating to passports and visas)”.
@@ -285,7 +330,7 @@ to guess them.
 | Removed | `(i) which either is falsely making, forging, counterfeiting, mutilating, or altering a passport or instrument in violation of section 1543 of title 18, United States Code, or is described in section 1546(a) of such title (relating to document fraud) and (ii)` |
 | Inserted | `which is described in any section of chapter 75 of title 18, United States Code,` |
 
-### 18 U.S.C. § 16
+### 8 U.S.C. § 1231
 
 > by striking “Attorney General” each place it appears, except for the first reference in paragraph (4)(B)(i), and inserting “Secretary of Homeland Security”;
 
@@ -294,7 +339,7 @@ to guess them.
 | Removed | `Attorney General` |
 | Inserted | `Secretary of Homeland Security` |
 
-### 18 U.S.C. § 16
+### 8 U.S.C. § 1231
 
 > in paragraph (4)(A), by striking “paragraph (2)” and inserting “subparagraph (B)”; and
 
@@ -302,6 +347,15 @@ to guess them.
 |---|---|
 | Removed | `paragraph (2)` |
 | Inserted | `subparagraph (B)` |
+
+### 8 U.S.C. § 1226
+
+> Section 236 of the Immigration and Nationality Act (8 U.S.C. 1226) is amended by striking “Attorney General” each place it appears (except in the second place that term appears in section 236(a)) and inserting “Secretary of Homeland Security”.
+
+| | |
+|---|---|
+| Removed | `Attorney General` |
+| Inserted | `Secretary of Homeland Security` |
 
 ### 8 U.S.C. § 1226
 
@@ -348,7 +402,7 @@ to guess them.
 | Removed | `of another person` |
 | Inserted | `that is not his or her own` |
 
-### 18 U.S.C. § 1028
+### 18 U.S.C. § 1028A
 
 > Section 1028A(a) of title 18, United States Code, is amended by striking “of another person” both places it appears and inserting “that is not his or her own”.
 
@@ -356,6 +410,60 @@ to guess them.
 |---|---|
 | Removed | `of another person` |
 | Inserted | `that is not his or her own` |
+
+### 8 U.S.C. § 1228
+
+> by striking “Attorney General” and inserting “Secretary of Homeland Security in the exercise of discretion”; and
+
+| | |
+|---|---|
+| Removed | `Attorney General` |
+| Inserted | `Secretary of Homeland Security in the exercise of discretion` |
+
+### 8 U.S.C. § 1228
+
+> by striking “set forth in this subsection or” and inserting “set forth in this subsection, in lieu of removal proceedings under”;
+
+| | |
+|---|---|
+| Removed | `set forth in this subsection or` |
+| Inserted | `set forth in this subsection, in lieu of removal proceedings under` |
+
+### 8 U.S.C. § 1228
+
+> in paragraph (3), by striking “paragraph (1) until 14 calendar days” and inserting “paragraph (1) or (3) until 7 calendar days”;
+
+| | |
+|---|---|
+| Removed | `paragraph (1) until 14 calendar days` |
+| Inserted | `paragraph (1) or (3) until 7 calendar days` |
+
+### 8 U.S.C. § 1228
+
+> by striking “Attorney General” each place it appears in paragraphs (3) and (4) and inserting “Secretary of Homeland Security”;
+
+| | |
+|---|---|
+| Removed | `Attorney General` |
+| Inserted | `Secretary of Homeland Security` |
+
+### 8 U.S.C. § 1228
+
+> by striking “described in this section” and inserting “described in paragraph (1) or (2)”; and
+
+| | |
+|---|---|
+| Removed | `described in this section` |
+| Inserted | `described in paragraph (1) or (2)` |
+
+### 8 U.S.C. § 1228
+
+> by striking “the Attorney General may grant in the Attorney General’s discretion” and inserting “the Secretary of Homeland Security or the Attorney General may grant, in the discretion of the Secretary or Attorney General, in any proceeding”;
+
+| | |
+|---|---|
+| Removed | `the Attorney General may grant in the Attorney General’s discretion` |
+| Inserted | `the Secretary of Homeland Security or the Attorney General may grant, in the discretion of the Secretary or Attorney General, in any proceeding` |
 
 ### 8 U.S.C. § 1101
 
@@ -413,29 +521,20 @@ to guess them.
 
 ### 8 U.S.C. § 1202
 
-> by striking “or to deny visas to persons who would be inadmissible to the United States” and inserting “; or”; and
+> by striking “or to deny visas to persons who would be inadmissible to the United States.” and inserting “; or”; and
 
 | | |
 |---|---|
-| Removed | `or to deny visas to persons who would be inadmissible to the United States` |
+| Removed | `or to deny visas to persons who would be inadmissible to the United States.` |
 | Inserted | `; or` |
-
-### 18 U.S.C. § 1546
-
-> Section 1546 of title 18, United States Code, is amended by striking “10 years” and inserting “15 years (if the offense was committed by an owner, official, or employee of an educational institution with respect to such institution’s participation in the Student and exchange Visitor Program), 10 years”.
-
-| | |
-|---|---|
-| Removed | `10 years` |
-| Inserted | `15 years (if the offense was committed by an owner, official, or employee of an educational institution with respect to such institution’s participation in the Student and exchange Visitor Program), 10 years` |
 
 ### 8 U.S.C. § 1101
 
-> by striking “section 214(1) at an established college, university, seminary, conservatory or in an accredited language training program in the United States” and inserting “section 214(m) at an accredited college, university, or language training program, or at an established seminary, conservatory, academic high school, elementary school, or other academic institution in the United States”; and
+> by striking “section 214(l) at an established college, university, seminary, conservatory, academic high school, elementary school, or other academic institution or in an accredited language training program in the United States” and inserting “section 214(m) at an accredited college, university, or language training program, or at an established seminary, conservatory, academic high school, elementary school, or other academic institution in the United States”;
 
 | | |
 |---|---|
-| Removed | `section 214(1) at an established college, university, seminary, conservatory or in an accredited language training program in the United States` |
+| Removed | `section 214(l) at an established college, university, seminary, conservatory, academic high school, elementary school, or other academic institution or in an accredited language training program in the United States` |
 | Inserted | `section 214(m) at an accredited college, university, or language training program, or at an established seminary, conservatory, academic high school, elementary school, or other academic institution in the United States` |
 
 ### 8 U.S.C. § 1101
@@ -447,6 +546,15 @@ to guess them.
 | Removed | `Attorney General` |
 | Inserted | `Secretary of Homeland Security` |
 
+### 8 U.S.C. § 1101
+
+> by striking “and if any such institution of learning or place of study fails to make reports promptly the approval shall be withdrawn,” and inserting “and if any such institution of learning of place of study fails to make reports promptly or fails to comply with any accreditation requirement (including deadlines for submitting accreditation applications or obtaining accreditation) the approval shall be withdrawn,”; and
+
+| | |
+|---|---|
+| Removed | `and if any such institution of learning or place of study fails to make reports promptly the approval shall be withdrawn,` |
+| Inserted | `and if any such institution of learning of place of study fails to make reports promptly or fails to comply with any accreditation requirement (including deadlines for submitting accreditation applications or obtaining accreditation) the approval shall be withdrawn,` |
+
 ### 8 U.S.C. § 1372
 
 > in paragraph (1)(A), by striking “institution,,” and inserting “institution,”; and
@@ -456,13 +564,22 @@ to guess them.
 | Removed | `institution,,` |
 | Inserted | `institution,` |
 
-### 8 U.S.C. § 1229c
+### 8 U.S.C. § 1357
 
-> in subparagraph (C), as redesignated, by striking “subparagraphs (C) and(D)(ii)” and inserting “subparagraphs (D) and (E)(ii)”;
+> Section 287(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1357(a)(2)) is amended by striking “regulation and is likely to escape before a warrant can be obtained for his arrest,” and inserting “regulation,”.
 
 | | |
 |---|---|
-| Removed | `subparagraphs (C) and(D)(ii)` |
+| Removed | `regulation and is likely to escape before a warrant can be obtained for his arrest,` |
+| Inserted | `regulation,` |
+
+### 8 U.S.C. § 1229c
+
+> in subparagraph (C), as redesignated, by striking “subparagraphs (C) and (D)(ii)” and inserting “subparagraphs (D) and (E)(ii)”;
+
+| | |
+|---|---|
+| Removed | `subparagraphs (C) and (D)(ii)` |
 | Inserted | `subparagraphs (D) and (E)(ii)` |
 
 ### 8 U.S.C. § 1229c
@@ -540,34 +657,33 @@ complete account of the bill's effect, which it is not.
 | `28 U.S.C. § 534` | strike | in paragraph (3), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `28 U.S.C. § 534` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 534` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Title II of the Immigration and Nationality Act (8 U.S.C. 1151 et seq.) is amended by inserting after section 240C the following: | the bill names no machine-readable US Code section |
-| — | insert | The table of contents of such Act is amended by inserting after the item relating to section 240C the following new item: | the bill names no machine-readable US Code section |
+| `8 U.S.C. § 1151` | insert | Title II of the Immigration and Nationality Act (8 U.S.C. 1151 et seq.) is amended by inserting after section 240C the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1151` | insert | The table of contents of such Act is amended by inserting after the item relating to section 240C the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1357` | replace | in paragraph (1) by striking “may enter” and all that follows through the period at the end and inserting the following: “shall enter into a written agreement with a State, or any political subdivision of a State, upon request of the Sta… | the bill quotes the text struck but describes what replaces it |
 | `8 U.S.C. § 1357` | redesignate | by redesignating paragraph (2) as paragraph (5) and paragraphs (3) through (10) as paragraphs (7) through (14), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1357` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1357` | redesignate | by inserting after paragraph (5) (as redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1231` | insert | in paragraph (3)(A), by inserting “charged with or” before “convicted”; and | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1231` | amend | by amending paragraph (5) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1231` | replace | by striking paragraphs (1) through (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1231` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1373` | replace | by striking paragraphs (1) through (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1231` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1158` | insert | by inserting “or the Secretary of Homeland Security” after “if the Attorney General”; and | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1158` | amend | by amending clause (v) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1231` | insert | by inserting “or the Secretary of Homeland Security” after “Attorney General” wherever that term appears; | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1231` | insert | by inserting “or the Secretary of Homeland Security” after “Attorney General” each place it appears; | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1231` | strike | in clause (iii), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `8 U.S.C. § 1231` | replace | in clause (iv), by striking the period at the end and inserting “; or”; | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1231` | insert | by inserting after clause (iv) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1231` | strike | by striking the final sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1259` | amend | Section 249 of such Act (8 U.S.C. 1259) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1259` | amend | The table of contents for such Act is amended by amending the item relating to section 249 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1101` | redesignate | by redesignating paragraphs (1) through (9) as paragraphs (2) through (10), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1101` | redesignate | in paragraph (9) (as redesignated), by inserting “, regardless whether the crime was classified as an aggravated felony at the time of conviction, except that the Secretary of Homeland Security or Attorney General may, in the unreviewabl… | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1101` | redesignate | by striking the first sentence the follows paragraph (10) (as redesignated) and inserting following: “The fact that any person is not within any of the foregoing classes shall not preclude a discretionary finding for other reasons that s… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | insert | in paragraph (8), by inserting “, regardless whether the crime was classified as an aggravated felony at the time of conviction, except that the Secretary of Homeland Security or Attorney General may, in the unreviewable discretion of th… | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1101` | replace | in the matter following paragraph (9), by striking the first sentence and inserting the following: “The fact that any person is not within any of the foregoing classes shall not preclude a discretionary finding for other reasons that suc… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | amend | Section 509(b) of the Immigration Act of 1990 (8 U.S.C. 1101 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1426` | add-at-end | Section 316 of the Immigration and Nationality Act (8 U.S.C. 1426) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1154` | amend | Section 204(b) of the Immigration and Nationality Act (8 U.S.C. 1154(b)) is amended by adding at the end the following: “No petition shall be approved pursuant to this section if there is any administrative or judicial proceeding (whethe… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1154` | add-at-end | Section 204(b) of the Immigration and Nationality Act (8 U.S.C. 1154(b)) is amended by adding at the end the following: “No petition shall be approved pursuant to this section if there is any administrative or judicial proceeding (whethe… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1186a` | replace | Sections 216(e) and section 216A(e) of the Immigration and Nationality Act (8 U.S.C. 1186a(e) and 1186b(e)) are each amended by striking the period at the end and inserting “, if the alien has had the conditional basis removed pursuant t… | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1447` | amend | Subsection 336(b) of the Immigration and Nationality Act, 8 U.S.C. 1447(b), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1447` | amend | Subsection 336(b) of the Immigration and Nationality Act (8 U.S.C. 1447(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1421` | insert | by inserting “, not later than the date that is 120 days after the Secretary of Homeland Security’s final determination,” after “seek”; and | the bill quotes the text inserted but describes where it goes |
 | `28 U.S.C. § 2241` | replace | by striking the second sentence and inserting the following: “The burden shall be upon the petitioner to show that the Secretary’s denial of the application was not supported by facially legitimate and bona fide reasons. Except in a proc… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 2339D` | redesignate | by redesignating subsections (f) through (h) as subsections (g) through (i), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -579,123 +695,119 @@ complete account of the bill's effect, which it is not.
 | `8 U.S.C. § 1501` | add-at-end | Chapter 4 of title III of the Immigration and Nationality Act (8 U.S.C. 1501 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1501` | insert | The table of contents for such Act is amended by inserting after the item relating to section 361 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1185` | insert | Section 7201(c)(1) of such Act is amended by inserting “and the Department of State” after “used by the Department of Homeland Security”. | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1101` | strike | in subparagraph (N), by striking paragraph “(1)(A) or (2) of”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | strike | by striking “paragraph (1)(A) or (2) of”; and | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1101` | insert | by inserting a semicolon at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | strike | by striking the undesignated matter following subparagraph (U). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1101` | add-at-end | Section 101(a)(48) of such Act (8 U.S.C. 1101(a)(48)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1028` | strike | in subclause (I), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `18 U.S.C. § 1028` | amend | in subclause (II), by adding “or” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1028` | insert | by inserting after subclause (II) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1425` | amend | by adding at the end of subsection (a)(2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1182` | insert | by inserting “or Secretary of Homeland Security” after “the Attorney General” wherever that phrase appears. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 408` | strike | in subclause (I), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 408` | amend | in subclause (II), by adding “or” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 408` | insert | by inserting after subclause (II) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1425` | add-at-end | by adding at the end of subsection (a)(2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | insert | by inserting “or Secretary of Homeland Security” after “the Attorney General” each place it appears. | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1227` | strike | in clause (ii), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `8 U.S.C. § 1227` | insert | in clause (iii), by inserting “or” at the end; and | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1227` | insert | by inserting after clause (iii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1227` | add-at-end | Section 237(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1227(a)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1182` | amend | Section 212(a)(3)(A) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(A)), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | in subsection (d)(5), in subparagraph (B), by striking “(y)(2)” and all that follows and inserting “(y), is in the United States not as an alien lawfully admitted for permanent residence”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (g)(5), in subparagraph (B), by striking “(y)(2)” and all that follows and inserting “(y), is in the United States not as an alien lawfully admitted for permanent residence”; and | the bill names no machine-readable US Code section |
-| — | replace | in the header, by striking “admitted under nonimmigrant visas.—” and inserting “not lawfully admitted for permanent residence”; | the bill names no machine-readable US Code section |
-| — | amend | in paragraph (1), by amending subparagraph (B) to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking “under a nonimmigrant visa” and inserting “but not lawfully admitted for permanent residence”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3)(A), by striking “admitted to the United States under a nonimmigrant visa” and inserting “lawfully admitted to the United States but not as an alien lawfully admitted for permanent residence”. | the bill names no machine-readable US Code section |
-| — | replace | Section 3291 of title 18, United States Code, is amended by striking “No person” through the period at the end and inserting the following: “No person shall be prosecuted, tried, or punished for a violation of any section of chapters 69 … | the bill names no machine-readable US Code section |
-| `18 U.S.C. § 1543` | insert | by inserting after “first offense” the following: “(i) that is not described in section 1548 of such title (relating to increased penalties), and (ii)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 209(c) of the Immigration and Nationality Act (8 U.S.C. 1159(c)) is amended by adding at the end thereof the following: “However, an alien who is convicted of an aggravated felony is not eligible for a waiver or for adjustment of… | the bill names no machine-readable US Code section |
+| `8 U.S.C. § 1101` | amend | in paragraph (1), by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 3291` | replace | Section 3291 of title 18, United States Code, is amended by striking “No person” and all that follows through the period at the end and inserting the following: “No person shall be prosecuted, tried, or punished for a violation of any se… | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1101` | insert | by inserting after “first offense” the following: “(i) that is not described in section 1548 of such title (relating to increased penalties), and (ii)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1159` | add-at-end | Section 209(c) of the Immigration and Nationality Act (8 U.S.C. 1159(c)) is amended by adding at the end thereof the following: “However, an alien who is convicted of an aggravated felony is not eligible for a waiver or for adjustment of… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | strike | in subparagraph (T), by striking “and”; | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1101` | replace | in subparagraph (U); by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1101` | insert | by inserting after subparagraph (U) the following:. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 16` | amend | in paragraph (1), by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 16` | amend | in paragraph (1), by amending subparagraph (C) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 16` | amend | by adding after “If the alien does not leave or is not removed within the removal period” the following: “or is not detained pursuant to paragraph (6) of this subsection”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 16` | replace | by striking subparagraph (D) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | replace | in subparagraph (U), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1101` | insert | by inserting after subparagraph (U) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1226` | strike | in subparagraph (C), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1226` | amend | in subparagraph (D), by adding “or” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1226` | insert | by inserting after subparagraph (D) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1231` | amend | in paragraph (1), by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1231` | amend | in paragraph (1), by amending subparagraph (C) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1231` | amend | by adding after “If the alien does not leave or is not removed within the removal period” the following: “or is not detained pursuant to paragraph (6) of this subsection”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1231` | replace | by striking subparagraph (D) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 16` | replace | by striking paragraph (6) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1226` | replace | Section 236 of the Immigration and Nationality Act (8 U.S.C. 1226) is amended by striking “Attorney General” each place it appears (except in the second place that term appears in section 236(a)) and inserting “Secretary of Homeland Secu… | the bill quotes text on both sides, but not as a single substitution this could carry out |
 | `8 U.S.C. § 1226` | insert | Section 236(a) of such Act (8 U.S.C. 1226(a)) is amended by inserting “the Secretary of Homeland Security or” before “the Attorney General—”. | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1226` | add-at-end | Section 236 of such Act (8 U.S.C. 1226) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1226` | amend | Section 236 of the Immigration and Nationality Act (8 U.S.C. 1226), as amended by paragraph (2), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1226` | add-at-end | Section 236 of the Immigration and Nationality Act (8 U.S.C. 1226), as amended by paragraph (2), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | add-at-end | Section 101(a) of the Immigration and Nationality Act (8 U.S.C. 1101(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1101` | add-at-end | Section 212(a)(2) of such Act (8 U.S.C. 1182(a)(2)), as amended by section 302(a)(2) of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | add-at-end | Section 212(a)(2) of such Act (8 U.S.C. 1182(a)(2)), as amended by section 302(a)(2) of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1227` | add-at-end | Section 237(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1227(a)(2)), as amended by section 302(c) of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1182` | insert | Chapter 2 of title II of the Immigration and Nationality Act (8 U.S.C. 1182) is amended by inserting after section 219 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1182` | insert | The table of contents for such Act is amended by inserting after the item relating to section 219 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1226` | insert | by inserting “or 212(a)(2)(N)” after “212(a)(3)(B)”; and | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1226` | insert | by inserting “or 237(a)(2)(H)” before “237(a)(4)(B)”. | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1226` | insert | by inserting “237(a)(2)(H) or” before “237(a)(4)(B)”. | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1251` | insert | Section 241(b)(3)(B) of the Immigration and Nationality Act (8 U.S.C. 1251(b)(3)(B)) is amended, in the matter preceding clause (i), by inserting “who is described in section 212(a)(2)(N)(i) or section 237(a)(2)(H)(i) or who is” after “t… | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1251` | strike | in clause (v), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1251` | redesignate | by redesignating clause (vi) as clause (vii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1251` | insert | by inserting after clause (v) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1254a` | add-at-end | in subparagraph (c)(2)(B), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1158` | strike | in clause (v), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1158` | redesignate | by redesignating clause (vi) as clause (vii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1158` | insert | by inserting after clause (v) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1254a` | strike | in clause (i), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1254a` | replace | in clause (ii), by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1254a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1254a` | strike | by striking paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1254a` | add-at-end | in paragraph (4), by adding at the end the following: “The Secretary of Homeland Security may detain an alien provided temporary protected status under this section whenever appropriate under any other provision of law.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1590` | insert | by inserting “section 1590 (relating to trafficking with respect to peonage, slavery, involuntary servitude, or forced labor),” after “section 1363 (relating to destruction of property within the special maritime and territorial jurisdic… | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 1956` | insert | by inserting “section 1590 (relating to trafficking with respect to peonage, slavery, involuntary servitude, or forced labor),” after “section 1363 (relating to destruction of property within the special maritime and territorial jurisdic… | the bill quotes the text inserted but describes where it goes |
 | `19 U.S.C. § 1590` | insert | by inserting “section 274(a) of the Immigration and Nationality Act (8 U.S.C.1324(a)) (relating to bringing in and harboring certain aliens),” after “section 590 of the Tariff Act of 1930 (19 U.S.C. 1590) (relating to aviation smuggling),”. | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 2119` | amend | Section 274 of the Immigration and Nationality Act (8 U.S.C. 1324), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 2119` | replace | The table of contents for the Immigration and Nationality Act is amended by striking the item relating to section 274 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1324` | amend | Section 274 of the Immigration and Nationality Act (8 U.S.C. 1324), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1324` | replace | The table of contents for the Immigration and Nationality Act is amended by striking the item relating to section 274 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 924` | insert | by inserting “, alien smuggling crime,” after “any crime of violence”; and | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 924` | insert | by inserting “, alien smuggling crime,” after “such crime of violence”; and | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 924` | insert | in subparagraph (D)(ii), by inserting “, alien smuggling crime,” after “crime of violence”; and | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1324` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Section 275 of the Immigration and Nationality Act (8 U.S.C. 1325) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | The table of contents for the Immigration and Nationality Act is amended by striking the item relating to section 275 and inserting the following: | the bill names no machine-readable US Code section |
+| `8 U.S.C. § 1324` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1325` | amend | Section 275 of the Immigration and Nationality Act (8 U.S.C. 1325) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1325` | replace | The table of contents for the Immigration and Nationality Act is amended by striking the item relating to section 275 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1326` | amend | Section 276 of the Immigration and Nationality Act (8 U.S.C. 1326) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | Chapter 75 of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | `18 U.S.C. § 981` | add-at-end | Section 981(a)(1) of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | by striking “Attorney General” and inserting “Secretary of Homeland Security in the exercise of discretion”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “set forth in this subsection or” and inserting “set forth in this subsection, in lieu of removal proceedings under”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), by striking “paragraph (1) until 14 calendar days” and inserting “paragraph (1) or (3) until 7 calendar days”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “Attorney General” each place it appears in paragraphs (3) and (4) and inserting “Secretary of Homeland Security”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “described in this section” and inserting “described in paragraph (1) or (2)”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “the Attorney General may grant in the Attorney General’s discretion” and inserting “the Secretary of Homeland Security or the Attorney General may grant, in the discretion of the Secretary or Attorney General, in any proceed… | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (3), (4), and (5) as paragraphs (4), (5), and (6), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (2) the following new paragraph: | the bill names no machine-readable US Code section |
-| `18 U.S.C. § 2250` | strike | in subclause (II), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `18 U.S.C. § 2250` | amend | in subclause (III), by adding “or” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1228` | redesignate | by redesignating paragraphs (3), (4), and (5) as paragraphs (4), (5), and (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1228` | insert | by inserting after paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | strike | in subclause (II), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1182` | amend | in subclause (III), by adding “or” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 2250` | insert | by inserting after subclause (III) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 2250` | strike | in subparagraph (A), by striking clause (v); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 2250` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1227` | strike | in subparagraph (A), by striking clause (v); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 2250` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1154` | amend | in subparagraph (A), by amending clause (viii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1154` | redesignate | by redesignating the second subclause (I) as subclause (II); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1154` | amend | by amending such subclause (II) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1182` | add-at-end | Section 212(a)(2)(A) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(2)(A)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1227` | insert | Section 237(a)(2)(A) of such Act (8 U.S.C. 1227(a)(2)(A)), as amended by section 320(b) of this Act, is further amended by inserting after clause (iv) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 16` | add-at-end | Section 237(a)(2)(E) of such Act (8 U.S.C. 1227(a)(2)(E)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1253` | insert | by inserting “212(a) or” before “237(a),” ; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1227` | add-at-end | Section 237(a)(2)(E) of such Act (8 U.S.C. 1227(a)(2)(E)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1253` | insert | in the matter preceding subparagraph (A) of paragraph (1), by inserting “212(a) or” before “237(a),” ; and | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1253` | strike | by striking paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | add-at-end | Section 101(a) of the Immigration and Nationality Act (8 U.S.C. 1101(a)), as amended by section 311(a) of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1227` | strike | in paragraph (2)(A), by striking clause (vi); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1227` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1227` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1202` | insert | by inserting “and any other nonimmigrant visa issued by the United States that is in the possession of the alien” after “such visa”; and | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1202` | strike | in paragraph (2), by striking “and on the basis of reciprocity”; | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1202` | insert | by inserting “ (i)” after “for the purpose of”; and | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1202` | amend | by adding before the period at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1202` | strike | in paragraph (2), in the matter preceding subparagraph (A), by striking “and on the basis of reciprocity”; | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1202` | insert | by inserting “(i)” after “for the purpose of”; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1202` | add-at-end | in paragraph (2), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1202` | insert | in paragraph (1)(C), by inserting “, in consultation with the Secretary of Homeland Security,” after “if the Secretary”; | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1202` | insert | in paragraph (1)(C)(i), by inserting “, where such national interest shall not include facilitation of travel of foreign nationals to the United States, reduction of visa application processing times, or the allocation of consular resour… | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1202` | strike | by striking “or” at the end of subparagraph (E); | the bill quotes the text struck but describes what replaces it |
 | `8 U.S.C. § 1202` | replace | by striking the period at the end of subparagraph (F) and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1202` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1202` | insert | Section 222(h)(1) of the Immigration and Nationality Act (8 U.S.C. 1202(h)(1)) is amended by inserting “ the alien is determined by the Secretary of State to be ineligible for a visa based upon review of the application or” after “unless”. | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1202` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1202` | insert | Section 222(h)(1) of the Immigration and Nationality Act (8 U.S.C. 1202(h)(1)) is amended by inserting “the alien is determined by the Secretary of State to be ineligible for a visa based upon review of the application or” after “unless”. | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 236` | replace | Section 428 of the Homeland Security Act of 2002 (6 U.S.C. 236) is amended by striking subsections (b) and (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1227` | strike | Section 237(a)(1)(B) of the Immigration and Nationality Act (8 U.S.C. 1227(a)(1)(B)) is amended by striking “under section 221(i)”. | the bill quotes the text struck but describes what replaces it |
-| — | replace | The Department of State and Related Agency Appropriations Act, 2005 (title IV of division B of Public Law 108–447) is amended, in the fourth paragraph under the heading “Diplomatic and Consular Programs”, by striking “Beginning” through … | the bill names no machine-readable US Code section |
+| — | replace | The Department of State and Related Agency Appropriations Act, 2005 (title IV of division B of Public Law 108–447) is amended, in the fourth paragraph under the heading “Diplomatic and Consular Programs”, by striking “Beginning” and all … | the bill names no machine-readable US Code section |
 | `6 U.S.C. § 236` | amend | Section 428(i) of the Homeland Security Act of 2002 (6 U.S.C. 236(i)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 236` | add-at-end | Section 428 of the Homeland Security Act of 2002 (6 U.S.C. 236) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | amend | by amending paragraph (52) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1184` | add-at-end | Section 214(m) of the Immigration and Nationality Act (8 U.S.C. 1184(m)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1372` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1372` | add-at-end | Such section 641(d), as amended by subsection (a)(2), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1372` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | add-at-end | Such section 641(d), as amended by subsection (a)(2), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1372` | add-at-end | Section 641(d) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1372(d)), as amended by section 411(b) of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1372` | add-at-end | Section 641(d) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1372(d)), as amended by section 412(a) of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 252` | redesignate | by redesignating paragraph (5) as paragraph (6); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | insert | by inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1229c` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1229c` | strike | by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1229c` | redesignate | by redesignating paragraph (2) as paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1229c` | amend | by adding after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1229c` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1229c` | redesignate | by redesignating subparagraphs (B), (C), and (D) as paragraphs (C), (D), and (E), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1229c` | redesignate | by redesignating subparagraphs (B), (C), and (D) as subparagraphs (C), (D), and (E), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1229c` | amend | by adding after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1229c` | amend | by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1229c` | amend | by amending subsection (d) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1229c` | amend | by amending subsection (e) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1229c` | add-at-end | in subsection (f), by adding at the end the following: “Notwithstanding section 242(a)(2)(D) of this Act, sections 1361, 1651, and 2241 of title 28, United States Code, any other habeas corpus provision, and any other provision of law (s… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 324d` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 324d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1231` | amend | Section 241(a)(5) of the Immigration and Nationality Act (8 U.S.C. 1231(a)(5)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 2241` | add-at-end | Section 242 of the Immigration and Nationality Act (8 U.S.C. 1252) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1252` | add-at-end | Section 242 of the Immigration and Nationality Act (8 U.S.C. 1252) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | add-at-end | Section 101(a)(13)(A) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(13)(A)) is amended by adding at the end the following: “An alien’s adjustment of status to that of lawful permanent resident status under any provision of thi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
