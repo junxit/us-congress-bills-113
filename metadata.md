@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 226
 congress: 113
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 226
@@ -32,3 +32,13 @@ A resolution celebrating the 100th anniversary of the birth of James Cleveland "
 
 - 2013-09-12 — Introduced in Senate
 - 2013-09-12 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6450-6451)
+- 2014-12-16 — Amendment SA 4126 agreed to in Senate by Unanimous Consent.
+- 2014-12-16 — Amendment SA 4126 proposed by Senator Pryor for Senator Brown. (consideration: CR S6929; text: CR S6929) To amend the preamble.
+- 2014-12-16 — Measure laid before Senate by unanimous consent. (consideration: CR S6929)
+- 2014-12-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.
+- 2014-12-16 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.
+- 2014-12-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2014-12-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2014-12-16 — Senate amendment agreed to: Amendment SA 4126 agreed to in Senate by Unanimous Consent.
+- 2014-12-16 — Senate amendment proposed (on the floor): Amendment SA 4126 proposed by Senator Pryor for Senator Brown.(consideration: CR S6929; text: CR S6929)
+- 2014-12-16 — Senate amendment submitted
