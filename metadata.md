@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1772
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1772
@@ -16,7 +16,7 @@ Legal Workforce Act
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Cosponsors (22)
+## Cosponsors (33)
 
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 - Rep. Calvert, Ken [R-CA-42] (C000059)
@@ -40,6 +40,17 @@ Legal Workforce Act
 - Rep. Holding, George [R-NC-13] (H001065)
 - Rep. Bishop, Rob [R-UT-1] (B001250)
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Heck, Joseph J. [R-NV-3] (H001055)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Brooks, Mo [R-AL-5] (B001274)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
 
 ## Committees (3)
 
@@ -54,3 +65,16 @@ Legal Workforce Act
 - 2013-04-26 — Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-04-26 — Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-04-26 — Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-05-16 — Referred to the Subcommittee on Immigration and Border Security.
+- 2013-05-16 — Subcommittee Hearings Held.
+- 2013-06-03 — Referred to the Subcommittee on Social Security.
+- 2013-06-25 — Subcommittee on Immigration and Border Security Discharged.
+- 2013-06-26 — Committee Consideration and Mark-up Session Held.
+- 2013-06-26 — Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 9.
+- 2014-12-16 — Committee on Education and the Workforce discharged.
+- 2014-12-16 — Committee on Education and the Workforce discharged.
+- 2014-12-16 — Committee on Ways and Means discharged.
+- 2014-12-16 — Committee on Ways and Means discharged.
+- 2014-12-16 — Placed on the Union Calendar, Calendar No. 508.
+- 2014-12-16 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-677, Part I.
+- 2014-12-16 — Reported (Amended) by the Committee on Judiciary. H. Rept. 113-677, Part I.
