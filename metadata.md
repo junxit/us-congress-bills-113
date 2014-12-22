@@ -1,7 +1,7 @@
 ---
 measure: S. 311
 congress: 113
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 311
@@ -42,3 +42,11 @@ Lower Mississippi River Area Study Act
 - 2014-07-10 — Message on Senate action sent to the House.
 - 2014-07-10 — Received in the House.
 - 2014-07-10 — Referred to the House Committee on Natural Resources.
+- 2014-07-11 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2014-07-29 — Subcommittee Hearings Held.
+- 2014-07-30 — Committee Consideration and Mark-up Session Held.
+- 2014-07-30 — Ordered to be Reported by Unanimous Consent.
+- 2014-07-30 — Subcommittee on Public Lands and Environmental Regulation Discharged.
+- 2014-12-22 — Placed on the Union Calendar, Calendar No. 539.
+- 2014-12-22 — Reported by the Committee on Natural Resources. H. Rept. 113-708.
+- 2014-12-22 — Reported by the Committee on Natural Resources. H. Rept. 113-708.
