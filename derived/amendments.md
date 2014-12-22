@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4534
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
