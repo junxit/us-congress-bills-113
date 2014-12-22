@@ -17,10 +17,10 @@ This Act may be cited as the “Cabin Fee Act of 2014”.
 
 - **(a)** *In general* The Secretary of Agriculture (referred to in this Act as the Secretary) shall establish a fee in accordance with this section for the issuance of a special use permit for the use and occupancy of National Forest System land for recreational residence purposes.
 - **(b)** *Interim fee* During the period beginning on January 1, 2014, and ending on the last day of the calendar year during which the current appraisal cycle is completed under subsection (c), the Secretary shall assess an interim annual fee for recreational residences on National Forest System land that is an amount equal to the lesser of—
-  - **(1)** the fee determined under the Cabin User Fees Fairness Act (16 U.S.C. 6901 et seq.), subject to the requirement that any increase over the fee assessed during the previous year shall be limited to not more than 25 percent; or
+  - **(1)** the fee determined under the Cabin User Fee Fairness Act of 2000 (16 U.S.C. 6201 et seq.), subject to the requirement that any increase over the fee assessed during the previous year shall be limited to not more than 25 percent; or
   - **(2)** $5,600.
-- **(c)** *Completion of current appraisal cycle* Not later than 1 year after the date of the enactment of this Act, the Secretary shall complete the current appraisal cycle, including receipt of timely second appraisals, for recreational residences on National Forest System land in accordance with the Cabin User Fees Fairness Act of 2000 (16 U.S.C. 6201 et seq.) (referred to in this Act as the current appraisal cycle).
-- **(d)** *Lot value* Only appraisals conducted and approved by the Secretary in accordance with the Cabin User Fee Fairness Act (16 U.S.C. 6901 et seq.) during the current appraisal cycle shall be used to establish the base value assigned to the lot, subject to the adjustment in subsection (e). If a second appraisal—
+- **(c)** *Completion of current appraisal cycle* Not later than 1 year after the date of the enactment of this Act, the Secretary shall complete the current appraisal cycle, including receipt of timely second appraisals, for recreational residences on National Forest System land in accordance with the Cabin User Fee Fairness Act of 2000 (16 U.S.C. 6201 et seq.) (referred to in this Act as the current appraisal cycle).
+- **(d)** *Lot value* Only appraisals conducted and approved by the Secretary in accordance with the Cabin User Fee Fairness Act of 2000 (16 U.S.C. 6201 et seq.) during the current appraisal cycle shall be used to establish the base value assigned to the lot, subject to the adjustment in subsection (e). If a second appraisal—
   - **(1)** was approved by the Secretary, the value established by the second appraisal shall be the base value assigned to the lot; or
   - **(2)** was not approved by the Secretary, the value established by the initial appraisal shall be the base value assigned to the lot.
 - **(e)** *Adjustment* On the date of completion of the current appraisal cycle, and before assessing a fee under subsection (f), the Secretary shall make a 1-time adjustment to the value of each appraised lot on which a recreational residence is located to reflect any change in value occurring after the date of the most recent appraisal for the lot, in accordance with the 4th quarter of 2012 National Association of Homebuilders/Wells Fargo Housing Opportunity Index.
@@ -51,6 +51,6 @@ This Act may be cited as the “Cabin Fee Act of 2014”.
 - **(a)** *In general* Beginning 10 years after the date of the enactment of this Act, the Secretary may retain, and expend, for the purposes described in subsection (b), any fees collected under this Act without further appropriation.
 - **(b)** *Use* Amounts made available under subsection (a) shall be used to administer the recreational residence program and other recreation programs carried out on National Forest System land.
 
-## § 6. Repeal of Cabin User Fees Fairness Act of 2000
+## § 6. Repeal of Cabin User Fee Fairness Act of 2000
 
-Effective on the date of the assessment of annual permit fees in accordance with section 2(f) (as certified to Congress by the Secretary), the Cabin User Fees Fairness Act of 2000 (16 U.S.C. 6201 et seq.) is repealed.
+Effective on the date of the assessment of annual permit fees in accordance with section 2(f) (as certified to Congress by the Secretary), the Cabin User Fee Fairness Act of 2000 (16 U.S.C. 6201 et seq.) is repealed.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5476
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 6201` | repeal | Effective on the date of the assessment of annual permit fees in accordance with section 2(f) (as certified to Congress by the Secretary), the Cabin User Fees Fairness Act of 2000 (16 U.S.C. 6201 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6201` | repeal | Effective on the date of the assessment of annual permit fees in accordance with section 2(f) (as certified to Congress by the Secretary), the Cabin User Fee Fairness Act of 2000 (16 U.S.C. 6201 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
