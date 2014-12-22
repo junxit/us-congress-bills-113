@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Amendments
 
-Public Law 94–241 (90 Stat. 263; 122 Stat. 854) is amended—
+Section 6 of Public Law 94–241 (90 Stat. 263; 122 Stat. 854) is amended—
 
 - **(1)** in subsection (a)(2), by striking “December 31, 2014, except as provided in subsections (b) and (d)” and inserting “December 31, 2019”; and
 - **(2)** in subsection (d)—
