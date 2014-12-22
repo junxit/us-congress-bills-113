@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 916
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,19 +11,20 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Federal Land Asset Inventory Reform Act of 2013”.
+This Act may be cited as the “Federal Land Asset Inventory Reform Act of 2014”.
 
-## § 2. Cadastre of federal land
+## § 2. Cadastre of Federal land
 
-- **(a)** *In General* The Secretary shall develop a multipurpose cadastre of Federal real property to support Federal land management activities, including, but not limited to: resource development and conservation, travel management, agricultural use, active forest management, environmental protection, and use of real property.
+- **(a)** *In General* The Secretary shall develop and maintain a current and accurate a multipurpose cadastre of Federal real property to support Federal land management activities, including, but not limited to: resource development and conservation, agricultural use, active forest management, environmental protection, and use of real property.
 - **(b)** *Cost-Sharing* The Secretary may enter into cost-sharing agreements with States to include any non-Federal lands in a State in the cadastre. The Federal share of any such cost agreement shall not exceed 50 percent of the total cost to a State for the development of the cadastre of non-Federal lands in the State.
 - **(c)** *Consolidation and Report* Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit a report to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate on—
   - **(1)** the existing real property inventories or any components of any cadastre currently authorized by law or conducted by the Department of the Interior, the statutory authorization for such, and the amount expended by the Federal Government for each such activity in fiscal year 2012;
   - **(2)** the existing real property inventories or any components of any cadastre currently authorized by law or conducted by the Department of the Interior that will be eliminated or consolidated into the multipurpose cadastre authorized by this Act;
   - **(3)** the existing real property inventories or any components of a cadastre currently authorized by law or conducted by the Department of the Interior that will not be eliminated or consolidated into the multipurpose cadastre authorized by this Act, together with a justification for not terminating or consolidating such in the multipurpose cadastre authorized by this Act;
   - **(4)** the use of existing real property inventories or any components of any cadastre currently conducted by any unit of State or local government that can be used to identify Federal real property within such unit of government;
-  - **(5)** the cost-savings that will be achieved by eliminating or consolidating duplicative or unneeded real property inventories or any components of a cadastre currently authorized by law or conducted by the Department of the Interior that will become part of the multipurpose cadastre authorized by this Act; and
-  - **(6)** recommendations for any legislation necessary to increase the cost-savings and enhance the effectiveness and efficiency of replacing, eliminating, or consolidating real property inventories or any components of a cadastre currently authorized by law or conducted by the Department of the Interior.
+  - **(5)** the cost-savings that will be achieved by eliminating or consolidating duplicative or unneeded real property inventories or any components of a cadastre currently authorized by law or conducted by the Department of the Interior that will become part of the multipurpose cadastre authorized by this Act;
+  - **(6)** in consultation with the Director of the Office of Management and Budget, the Administrator of the General Services Administration, and the Comptroller General of the United States, conduct the assessment required by paragraphs (1) through (5) of this subsection with regard to all cadastres and inventories authorized, operated or maintained by all other Executive agencies of the Federal Government; and
+  - **(7)** recommendations for any legislation necessary to increase the cost-savings and enhance the effectiveness and efficiency of replacing, eliminating, or consolidating real property inventories or any components of a cadastre currently authorized by law or conducted by the Department of the Interior.
 - **(d)** *Coordination*
   - **(1)** *In general* In carrying out this section, the Secretary shall—
     - **(A)** participate, pursuant to section 216 of Public Law 107–347, in the establishment of such standards and common protocols as are necessary to assure the interoperability of geospatial information pertaining to the cadastre for all users of such information;
@@ -39,9 +40,21 @@ As used in this Act, the following definitions apply:
 
 - **(1)** *Secretary* The term Secretary means the Secretary of the Interior.
 - **(2)** *Cadastre* The term cadastre means an inventory of real property of the Federal Government developed through collecting, storing, retrieving, or disseminating graphical or digital data depicting natural or man-made physical features, phenomena, or boundaries of the earth and any information related thereto, including surveys, maps, charts, satellite and airborne remote sensing data, images, and services, with services performed by professionals such as surveyors, photogrammetrists, hydrographers, geodesists, cartographers, and other such services of an architectural or engineering nature including the following data layers:
-  - **(A)** A reference frame consisting of a geodetic network.
+  - **(A)** A reference frame consisting of a current geodetic network.
   - **(B)** A series of current, accurate large scale maps.
-  - **(C)** A cadastral boundary overlay delineating all cadastral parcels.
+  - **(C)** An existing cadastral boundary overlay delineating all cadastral parcels.
   - **(D)** A system for indexing and identifying each cadastral parcel.
-  - **(E)** A series of land data files, each including the parcel identifier, which can be used to retrieve information and cross reference between and among other data files, which contains information about the use, value, assets and infrastructure of each parcel, and shall also designate any parcels that the Secretary determines can be better managed through ownership by a non-Federal entity including but not limited to State government, local government, Tribal government, nonprofit organizations, or the private sector.
+  - **(E)** A series of land data files, each including the parcel identifier, which can be used to retrieve information and cross reference between and among other data files, which contains information about the use, assets and infrastructure of each parcel, and shall also designate any parcels that the Secretary determines can be better managed through ownership by a non-Federal entity including but not limited to State government, local government, Tribal government, nonprofit organizations, or the private sector.
 - **(3)** *Real property* The term real property means real estate consisting of land, buildings, crops, forests, or other resources still attached to or within the land or improvements or fixtures permanently attached to the land or a structure on it, including any interest, benefit, right, or privilege in such property.
+
+## § 4. Transparency and public access
+
+The Secretary shall—
+
+- **(1)** make the cadastre publically available on the internet in a graphically geo-enabled and searchable format;
+- **(2)** ensure that the inventory referred to in section 2 includes the identification of all lands and parcels suitable for disposal by Resource Management Plans conducted for pursuant to the Federal Land Policy and Management Act of 1976 (FLPMA, 43 U.S.C. 1711 et. seq.); and
+- **(3)** in consultation with the Secretary of Defense and the Secretary of Homeland Security, prevent the disclosure of any parcel or parcels of land, and buildings or facilities thereon, or information related thereto, if such disclosure would impair or jeopardize the national security or homeland defense of the United States.
+
+## § 5. Right of action
+
+Nothing in this Act shall create any substantive or procedural right or benefit.
