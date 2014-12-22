@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4742
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4742
@@ -25,3 +25,8 @@ Strengthening Fishing Communities and Increasing Flexibility in Fisheries Manage
 - 2014-05-23 — Introduced in House
 - 2014-05-23 — Introduced in House
 - 2014-05-23 — Referred to the House Committee on Natural Resources.
+- 2014-05-29 — Committee Consideration and Mark-up Session Held.
+- 2014-05-29 — Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 17.
+- 2014-12-22 — Placed on the Union Calendar, Calendar No. 542.
+- 2014-12-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-711.
+- 2014-12-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-711.
