@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1839
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,162 +11,166 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Hermosa Creek Watershed Protection Act of 2013”.
+This Act may be cited as the “Hermosa Creek Watershed Protection Act of 2014”.
 
-## § 2. Findings
+## § 2. Purposes
 
-Congress finds that—
+The purposes of this Act are—
 
-- **(1)** the ecological health and integrity of the Hermosa Creek Watershed and the economic health of the surrounding communities that rely on the Watershed are connected;
-- **(2)** the Watershed—
-  - **(A)** is the only area in the State that is not a unit of National Wilderness Preservation System to achieve a designation of outstanding waters by the State;
-  - **(B)** provides a crucial source of clean drinking water for the residents of the Animas River Valley and the city of Durango, Colorado; and
-  - **(C)** provides high quality agricultural water supplies from Hermosa Creek and the Animas River;
-- **(3)** the Watershed helps ensure the economic prosperity of local communities in the area that depend on the Watershed for water supplies, recreation, hunting, fishing, hiking, biking, camping, skiing and related winter activities, off-road vehicle travel, scientific research, mineral extraction, and sustainable natural resource development;
-- **(4)** the world-class Hermosa Creek trail network contains outstanding single track mountain bike riding, backcountry hiking, equestrian riding, and motorcycle riding;
-- **(5)** the Watershed provides visitors the opportunity to enjoy the tremendous scenic, natural, cultural, and recreational resources of the area;
-- **(6)** ecologically sustainable grazing has been conducted in a manner that has preserved the high quality of the Watershed;
-- **(7)** the native Colorado River cutthroat trout fishery located in the Watershed—
-  - **(A)** is one of the most important fisheries in the State;
-  - **(B)** is crucial for the long-term survival of the cutthroat trout; and
-  - **(C)** provides an opportunity for anglers to have a catch and release fishery for the cutthroat trout;
-- **(8)** the work of Colorado Parks and Wildlife to enhance the fishery referred to in paragraph (7) has been a tremendous success and a great example of cooperative conservation efforts to recover an imperiled species of fish;
-- **(9)** the Watershed—
-  - **(A)** provides some of the best backcountry elk habitat in the State; and
-  - **(B)** supports outstanding hunting opportunities;
-- **(10)** the large areas of undisturbed forest in the Watershed (including some of the best stands of old growth ponderosa pine in the State) provide excellent wildlife habitat and excellent opportunities for solitude and backcountry recreation; and
-- **(11)** designation of the Hermosa Creek Wilderness Area, Watershed Protection Area, and Special Management Area would protect those areas in perpetuity for the benefit of the people of the United States.
+- **(1)** to maintain the cultural, economic, and ecological health of the Hermosa Creek Watershed and the surrounding communities that rely on the Watershed;
+- **(2)** to protect the purity of water that comes from the Hermosa Creek Watershed and supplies residents of the Animas River Valley and the city of Durango, Colorado, with clean drinking water;
+- **(3)** to protect the purity of, and water supply from, the Hermosa Creek Watershed for agricultural purposes, including irrigation and stockwater uses;
+- **(4)** to enhance the economic prosperity of local communities in the area who depend on the area for water, recreation, and sustainable natural resource uses;
+- **(5)** to protect and provide residents and visitors the opportunity to enjoy the recreational, geological, cultural, natural, scientific, wildlife, riparian, historical, educational, and scenic resources of the Watershed;
+- **(6)** to provide world-class opportunities for skiing, biking, hiking, fishing, hunting, horseback riding, snowmobiling, motorcycle riding, snowshoeing, and camping;
+- **(7)** to provide for economic and natural resource development (including sustainable grazing, vegetation management, beneficial uses of water, and mineral extraction) in a manner consistent with protecting the overall integrity of the Watershed;
+- **(8)** to protect a viable population of the native Colorado River cutthroat trout fishery located in the Watershed;
+- **(9)** to designate the Hermosa Creek Wilderness Area and the Hermosa Creek Special Management Area; and
+- **(10)** to conserve, protect, and manage a healthy Hermosa Creek Watershed for the long-term ecological integrity of the Watershed and the long-term economic health of surrounding communities by allowing sustainable economic development and traditional natural resource development in a manner consistent with the purposes described in paragraphs (1) through (8).
 
 ## § 3. Definitions
 
 In this Act:
 
-- **(1)** *County* The term County means La Plata County, Colorado.
-- **(2)** *Map* The term Map means the map entitled Hermosa Creek Proposed Watershed Protection Area, 2012 and dated March 28, 2012.
-- **(3)** *Secretary* The term Secretary means the Secretary of Agriculture.
-- **(4)** *Special management area* The term Special Management Area means the Hermosa Creek Special Management Area designated by section 5(a).
-- **(5)** *State* The term State means the State of Colorado.
-- **(6)** *Watershed protection area* The term Watershed Protection Area means the Hermosa Creek Watershed Protection Area designated by section 4(a).
+- **(1)** *City* The term “City” means Durango, Colorado.
+- **(2)** *County* The term “County” means La Plata County, Colorado.
+- **(3)** *Map* The term “Map” means the map entitled “Hermosa Creek Proposed Watershed Protection Area” and dated June 2, 2014.
+- **(4)** *Secretary* The term “Secretary” means the Secretary of Agriculture.
+- **(5)** *Special management area* The term “Special Management Area” means the Hermosa Creek Special Management Area designated by section 5(a).
+- **(6)** *State* The term “State” means the State of Colorado.
 
-## § 4. Designation of Hermosa Creek Watershed Protection Area
+## § 4. Hermosa Creek Watershed Protection Area
 
-- **(a)** *Designation* Certain Federal land in the San Juan National Forest comprising approximately 107,886 acres, as generally depicted on the Map, is designated as the Hermosa Creek Watershed Protection Area.
-- **(b)** *Purposes* The purposes of the Watershed Protection Area are—
-  - **(1)** to maintain the cultural, economic, and ecological health of the Hermosa Creek Watershed and the surrounding communities that rely on the Watershed;
-  - **(2)** to protect the purity of water that comes from the Hermosa Creek Watershed and supplies residents of the Animas River Valley and the city of Durango, Colorado, with clean drinking water;
-  - **(3)** to protect the purity of, and water supply from, the Hermosa Creek Watershed for agricultural purposes, including irrigation and stockwater uses;
-  - **(4)** to enhance the economic prosperity of local communities in the area who depend on the area for water, recreation, and sustainable natural resource uses;
-  - **(5)** to protect and provide visitors the opportunity to enjoy the recreational, geological, cultural, natural, scientific, recreational, wildlife, riparian, historical, educational, and scenic resources of the Watershed;
-  - **(6)** to provide world class opportunities for skiing, biking, hiking, fishing, hunting, horseback rid­ing, snowmobiling, motorcycle riding, snow­shoeing, and camping;
-  - **(7)** to provide for economic and natural resource development (including sustainable grazing, vegetation management, beneficial uses of water, and mineral extraction) in a manner consistent with protecting the overall integrity of the Watershed;
-  - **(8)** to protect the native Colorado River cutthroat trout fishery located in the Watershed;
-  - **(9)** to designate the Hermosa Creek Wilderness Area and the Special Management Area; and
-  - **(10)** to conserve, protect, and manage for a healthy Hermosa Creek Watershed for the long-term ecological integrity of the Watershed and the long-term economic health of surrounding communities by allowing sustainable economic development and traditional natural resource development in a matter consistent with the purposes described in paragraphs (1) through (9).
+Certain Federal land in the San Juan National Forest comprising approximately 107,866 acres, as generally depicted on the Map may be called the “Hermosa Creek Watershed Protection Area”.
 
 ## § 5. Designation of Hermosa Creek Special Management Area
 
-- **(a)** *Designation* Subject to valid existing rights, certain Federal land in the San Juan National Forest comprising approximately 68,289 acres, as generally depicted on the Map, is designated as the Hermosa Creek Special Management Area.
-- **(b)** *Purpose* The purpose of the Special Management Area is to conserve and protect for the benefit of present and future generations the watershed, geological, cultural, natural, scientific, recreational, wildlife, riparian, historical, educational, and scenic resources and values of the Special Management Area.
-- **(c)** *Administration*
-  - **(1)** *In general* The Secretary shall administer the Special Management Area—
-    - **(A)** in a manner that—
-      - **(i)** conserves, protects, and enhances the resources and values of the Special Management Area described in subsection (b); and
-      - **(ii)** protects a viable population of Colorado River Cutthroat Trout; and
-    - **(B)** in accordance with—
-      - **(i)** the National Forest Management Act of 1976 (16 U.S.C. 1600 et seq.);
-      - **(ii)** this Act; and
-      - **(iii)** any other applicable laws.
+- **(a)** *Designation* Subject to valid existing rights, certain Federal land in the San Juan National Forest comprising approximately 68,289 acres, as generally depicted on the Map, is designated as the “Hermosa Creek Special Management Area”.
+- **(b)** *Administration*
+  - **(1)** *In general* The Secretary shall administer the Special Management Area in accordance with—
+    - **(A)** the National Forest Management Act of 1976 (16 U.S.C. 1600 et seq.);
+    - **(B)** this Act; and
+    - **(C)** any other applicable laws.
   - **(2)** *Uses*
-    - **(A)** *In general* The Secretary shall allow only such uses of the Special Management Area that the Secretary determines would further the purposes described in subsection (b).
-    - **(B)** *Motorized vehicles*
-      - **(i)** *In general* Except as provided in clause (ii) and as needed for administrative purposes or to respond to an emergency, the use of motorized vehicles in the Special Management Area shall be permitted only on roads and trails designated for use by such vehicles by the Secretary.
-      - **(ii)** *Over-snow vehicles* The Secretary may authorize the use of snowmobiles and other over-snow vehicles within the Special Management Area—
-        - **(I)** during periods of adequate snow cover during the winter season; and
+    - **(A)** *In general* The Secretary shall allow such uses of the Special Management Area that the Secretary determines would further the purposes described in section 2.
+    - **(B)** *Motorized and mechanized vehicles*
+      - **(i)** *In general* Except as provided in clause (ii) and as needed for administrative purposes or to respond to an emergency, the use of motorized and mechanized vehicles in the Special Management Area shall be permitted only on roads and trails designated for use by such vehicles as identified on the Map as “Trails Open to Motorized Uses” and “Trails Open to Mechanized Uses”.
+      - **(ii)** *Over-snow vehicles* The Secretary shall authorize the use of snowmobiles and other over-snow vehicles within the Special Management Area—
+        - **(I)** when there is adequate snow coverage; and
         - **(II)** subject to such terms and conditions as the Secretary may require.
-    - **(C)** *Grazing* The Secretary shall permit grazing within the Special Management Area, where established before the date of enactment of this Act subject to all applicable laws (including regulations) and Executive orders.
-    - **(D)** *Prohibited activities* Within the area of the Special Management Area identified on the Map as East Hermosa Area the following activities shall be prohibited:
-      - **(i)** New permanent or temporary road construction or the renovation of existing nonsystem roads, except as allowed under the final rule entitled Special Areas; Roadless Area Conservation; Applicability to the National Forests in Colorado (77 Fed. Reg. 39576 (July 3, 2012)).
+      - **(iii)** *Continued Access* Within the Special Management Area, at a minimum, the Secretary shall maintain access for motorized and mechanized recreation opportunities as identified as “Trails Open to Motorized Uses” and “Trails Open to Mechanized Uses” on the Map.
+    - **(C)** *Grazing* Grazing and other traditional economic activities are compatible with the Special Management Area designation and the Secretary shall permit grazing within the Special Management Area, where established before the date of enactment of this Act subject to all applicable laws (including regulations) and Executive orders.
+    - **(D)** *Prohibited activities* Within the area of the Special Management Area identified on the Map as “East Hermosa Area” the following activities shall be prohibited:
+      - **(i)** New permanent or temporary road construction or the renovation of existing nonsystem roads, except as allowed under the final rule entitled “Special Areas; Roadless Area Conservation; Applicability to the National Forests in Colorado” (77 Fed. Reg. 39576 (July 3, 2012)).
       - **(ii)** Projects undertaken for the purpose of harvesting commercial timber (other than activities relating to the harvest of merchantable products that are byproducts of activities conducted for ecological restoration or to further the purposes described in this Act).
-- **(d)** *Map and legal description*
+- **(c)** *Map and legal description*
   - **(1)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary shall prepare a map and a legal description of the Special Management Area.
   - **(2)** *Force of law* The map and legal description prepared under paragraph (1) shall have the same force and effect as if included in this Act, except that the Secretary may correct clerical and typographical errors in the map and legal description.
   - **(3)** *Public availability* The map and legal description prepared under paragraph (1) shall be on file and available for public inspection in the appropriate offices of the Forest Service.
-- **(e)** *Incorporation of acquired land and interests in land* Any land or interest in land that is acquired by the United States within the boundary of the Special Management Area shall—
-  - **(1)** become part of the Special Management Area;
-  - **(2)** be withdrawn in accordance with subsection (h); and
-  - **(3)** be managed in accordance with—
+- **(d)** *Incorporation of acquired land and interests in land* Any land or interest in land that is acquired by the United States within the boundary of the Special Management Area shall—
+  - **(1)** only occur through donation or exchange with the written consent of the property owner;
+  - **(2)** become part of the Special Management Area;
+  - **(3)** be withdrawn in accordance with subsection (g); and
+  - **(4)** be managed in accordance with—
     - **(A)** this Act; and
     - **(B)** any other applicable laws.
-- **(f)** *Fish and wildlife* Nothing in this Act affects the jurisdiction or responsibility of the State with respect to fish and wildlife in the State.
-- **(g)** *State and federal water management* Nothing in this section affects the potential for development, operation, or maintenance of a water storage reservoir at the site in the Special Management Area that is identified in—
+- **(e)** *Fish and wildlife* Nothing in this Act affects the jurisdiction or responsibility of the State with respect to fish and wildlife in the State.
+- **(f)** *State and Federal water management* Nothing in this section shall affect the development, operation, or maintenance of a water storage reservoir, including necessary ancillary roads and transmission infrastructure, at the site in the Special Management Area that is identified in—
   - **(1)** pages 17 through 20 of the Statewide Water Supply Initiative studies prepared by the Colorado Water Conservation Board and issued by the State in November 2004; and
   - **(2)** page 27 of the Colorado Dam Site Inventory prepared by the Colorado Water Conservation Board and dated August 1996.
-- **(h)** *Withdrawal* Subject to valid rights in existence on the date of enactment of this Act, the Federal land within the Special Management Area is withdrawn from—
+- **(g)** *Withdrawal* Subject to valid rights in existence on the date of enactment of this Act, the Federal land within the Special Management Area is withdrawn from—
   - **(1)** all forms of entry, appropriation, and disposal under the public land laws;
   - **(2)** location, entry, and patent under the mining laws; and
   - **(3)** operation of the mineral leasing, mineral materials, and geothermal leasing laws.
-- **(i)** *Adjacent management*
-  - **(1)** *In general* The Special Management Area designated by subsection (a) or the wilderness designated by section 2(a)(22) of the Colorado Wilderness Act of 1993 (16 U.S.C. 1132 note; Public Law 103–77; 107 Stat. 756, 114 Stat. 1955, 116 Stat. 1055) (as added by section 6(a)) shall not create a protective perimeter or buffer zone around the Special Management Area or wilderness.
-  - **(2)** *Nonwilderness activities* The fact that nonwilderness activities or uses can be seen or heard from areas within the wilderness designated by section 2(a)(22) of the Colorado Wilderness Act of 1993 (16 U.S.C. 1132 note; Public Law 103–77; 107 Stat. 756, 114 Stat. 1955, 116 Stat. 1055) (as added by section 6(a)) shall not preclude the conduct of the activities or uses outside the boundary of the wilderness.
-- **(j)** *Winter skiing and related winter activities* Nothing in this Act alters or limits—
+- **(h)** *Adjacent management*
+  - **(1)** *In general* The Special Management Area designated by subsection (a) or the wilderness designated by the Colorado Wilderness Act of 1993 (16 U.S.C. 1132 note; Public Law 103–77; 107 Stat. 756, 114 Stat. 1955, 116 Stat. 1055) (as added by sections 7(a) and 10(b)) shall not create a protective perimeter or buffer zone around the Special Management Area or wilderness.
+  - **(2)** *Other activities* The fact that activities or uses can be seen, heard, or detected from areas within the wilderness designated by the Colorado Wilderness Act of 1993 (16 U.S.C. 1132 note; Public Law 103–77; 107 Stat. 756, 114 Stat. 1955, 116 Stat. 1055) (as added by sections 7(a) and 10(b)) shall not preclude, limit, control, regulate, or determine the conduct of the activities or uses outside the boundary of the wilderness.
+- **(i)** *Winter skiing and related winter activities* Nothing in this Act alters or limits—
   - **(1)** a permit held by a ski area;
   - **(2)** the implementation of the activities governed by a ski area permit; or
   - **(3)** the authority of the Secretary to modify or expand an existing ski area permit.
-- **(k)** *Vegetation management* Nothing in this section prevents the Secretary from conducting vegetation management projects within the Special Management Area—
+- **(j)** *Vegetation management* Nothing in this section prevents the Secretary from conducting vegetation management projects within the Special Management Area—
   - **(1)** subject to—
     - **(A)** such reasonable regulations, policies, and practices as the Secretary determines appropriate; and
     - **(B)** all applicable laws (including regulations); and
   - **(2)** in a manner consistent with—
-    - **(A)** the purposes described in subsection (b); and
+    - **(A)** the purposes and management described in section 2; and
     - **(B)** this section.
-- **(l)** *Wildfire, insect, and disease management* Consistent with this section, the Secretary may take any measures that the Secretary determines to be necessary to control fire, insects, and diseases in the Special Management Area, including, as the Secretary determines to be appropriate, the coordination of the measures with the State or a local agency.
-- **(m)** *Management plan* Not later than 3 years after the date of enactment of this Act, the Secretary shall develop a management plan for the long-term protection and management of the Special Management Area that—
-  - **(1)** takes into account public input; and
-  - **(2)** includes a certification by the Secretary that there are adequate opportunities in the Special Management Area for each of the recreational opportunities referred to in section 4(b)(6).
+- **(k)** *Wildfire, insect, and disease management* Consistent with this section, the Secretary is authorized to take any measures that the Secretary determines to be necessary to manage wildland fire and treat hazardous fuels, insects, and diseases in the Special Management Area. The Secretary is further authorized to coordinate such measures with the appropriate State or local agency, should the Secretary determine such coordination to be necessary.
+- **(l)** *Management plan* Not later than 3 years after the date of enactment of this Act, the Secretary shall develop a management plan for the long-term protection and management of the Special Management Area that—
+  - **(1)** takes into account public input and the purposes in section 2; and
+  - **(2)** provides for the recreational opportunities referred to in section 2(6) to occur within the Special Management Area.
 
-## § 6. Additions to the national wilderness preservation system
+## § 6. State water rights
 
-- **(a)** *Designation of wilderness* Section 2(a) of the Colorado Wilderness Act of 1993 (16 U.S.C. 1132 note; Public Law 103–77) is amended by adding at the end the following:
-  > - **(22)** Certain land within the San Juan National Forest which comprise approximately 37,236 acres, as generally depicted on the map entitled Hermosa Creek Proposed Watershed Protection Area, 2012 and dated March 28, 2012, and which shall be known as the Hermosa Creek Wilderness.
+Nothing in section 5 affects access to, use, or allocation of any absolute or conditional water right decreed under the laws of the State and in existence on the date of enactment of this Act.
+
+## § 7. Hermosa creek wilderness
+
+- **(a)** *Designation of wilderness* Section 2(a) of the Colorado Wilderness Act of 1993 (16 U.S.C. 1132 note; Public Law 103–77; 107 Stat. 756, 114 Stat. 1955, 116 Stat. 1055) is amended by adding at the end the following:
+  > - **(22)** Certain land within the San Juan National Forest which comprise approximately 37,236 acres, as generally depicted on the Map, and which shall be known as the “Hermosa Creek Wilderness”.
 
 - **(b)** *Effective date* Any reference in the Wilderness Act (16 U.S.C. 1131 et seq.) to the effective date of that Act shall be considered to be a reference to the date of enactment of this Act for purposes of administering the wilderness area designated by section 2(a)(22) of the Colorado Wilderness Act of 1993 (16 U.S.C. 1132 note; Public Law 103–77; 107 Stat. 756, 114 Stat. 1955, 116 Stat. 1055) (as added by subsection (a)).
-- **(c)** *Fire, insects, and diseases* As provided in section 4(d)(1) of the Wilderness Act (16 U.S.C. 1133(d)(1)), within the wilderness areas designated by section 2(a)(22) of the Colorado Wilderness Act of 1993 (16 U.S.C. 1132 note; Public Law 103–77; 107 Stat. 756, 114 Stat. 1955, 116 Stat. 1055) (as added by subsection (a)), the Secretary may take any measure that the Secretary determines to be necessary to control fire, insects, and diseases, subject to such terms and conditions as the Secretary determines to be appropriate.
+- **(c)** *Fire, insects, and diseases* As provided in section 4(d)(1) of the Wilderness Act (16 U.S.C. 1133(d)(1)), within the wilderness areas designated by section 2(a)(22) of the Colorado Wilderness Act of 1993 (16 U.S.C. 1132 note; Public Law 103–77; 107 Stat. 756, 114 Stat. 1955, 116 Stat. 1055) (as added by subsection (a) and section 10(b)), the Secretary may take any measure that the Secretary determines to be necessary to control fire, insects, and diseases, subject to such terms and conditions as the Secretary determines to be appropriate.
 
-## § 7. Durango area mineral withdrawal
+## § 8. Durango area mineral withdrawal
 
 - **(a)** *Withdrawal* Subject to valid existing rights, the land and mineral interests described in subsection (b) are withdrawn from all forms of—
   - **(1)** entry, appropriation, or disposal under public land laws;
   - **(2)** location, entry, and patent under the mining laws; and
   - **(3)** disposition under all laws relating to mineral leasing, geothermal leasing, or mineral materials.
-- **(b)** *Description of land and mineral interests* The land and mineral interests referred to in subsection (a) are—
-  - **(1)** the approximately 13,086 acres of Federal land depicted on the map entitled Perins Peak & Animas City Mountain, Horse Gulch and Lake Nighthorse mineral withdrawal and dated April 5, 2013; and
-  - **(2)** all Federal mineral interests contained within the boundaries of the map described in paragraph (1).
-- **(c)** *Buffer* Nothing in this section may require—
+- **(b)** *Description of land and mineral interests* The land and mineral interests referred to in subsection (a) are the Federal land and mineral interests generally depicted within the “Withdrawal Areas” on the map entitled “Perins Peak & Animas City Mountain, Horse Gulch and Lake Nighthorse Mineral Withdrawal” and dated April 5, 2013.
+- **(c)** *Buffer* Nothing in this section shall require—
   - **(1)** the creation of a protective perimeter or buffer area outside the boundaries of the withdrawal area described in subsection (b); or
-  - **(2)** any prohibition on activities outside of the boundaries of the withdrawal area described in subsection (b) that can be seen or heard from within the boundaries of the withdrawal area.
+  - **(2)** any prohibition or limitation on activities outside of the boundaries of the withdrawal area described in subsection (b) that can be seen, heard, or detected from within the boundaries of the withdrawal area.
+- **(d)** *Public purpose conveyance* Notwithstanding subsection (a), the Secretary may convey any portion of the land described in subsection (b) to the City, the County, or the State—
+  - **(1)** pursuant to the Act of June 14, 1926 (commonly known as the “Recreation and Public Purposes Act”) (43 U.S.C. 869 et seq.); or
+  - **(2)** by exchange in accordance with applicable laws (including regulations).
 
-## § 8. Conveyance of Bureau of Land Management Land to La Plata County
+## § 9. Conveyance of Bureau of Land Management Land to La Plata County
 
-- **(a)** *In general* On the expiration of the permit numbered COC 64651 (09) and dated February 24, 2009, the Secretary of the Interior shall convey to the County, without consideration and subject to valid existing rights, all right, title, and interest of the United States in and to the land described in subsection (b).
-- **(b)** *Description of land* The land referred to in subsection (a) consists of approximately 111 acres of land managed by the Bureau of Land Management, Tres Rios District, Colorado, as generally depicted on the map entitled La Plata County Grandview Conveyance and dated March 27, 2013.
+- **(a)** *In general* On the expiration of the permit numbered COC 64651 (09) and dated February 24, 2009, upon request and agreement of the County, the Secretary of the Interior shall convey to the County, without consideration and subject to valid existing rights, all right, title, and interest of the United States in and to the land described in subsection (b), subject to such terms and conditions as the Secretary determines to be necessary.
+- **(b)** *Description of land* The land referred to in subsection (a) consists of approximately 111 acres of land managed by the Bureau of Land Management, Tres Rios District, Colorado, as generally depicted on the map entitled “La Plata County Grandview Conveyance” and dated March 27, 2013.
 - **(c)** *Map and legal description*
   - **(1)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary of the Interior shall finalize the legal description of the parcel to be conveyed under this section.
   - **(2)** *Minor errors* The Secretary of the Interior may correct any minor error in—
     - **(A)** the map; or
     - **(B)** the legal description.
   - **(3)** *Availability* The map and legal description shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
-- **(d)** *Use of conveyed land* The land conveyed under this section shall be used only for any public purpose consistent with uses allowed under the Act of June 14, 1926 (commonly known as the Recreation and Public Purposes Act) (43 U.S.C. 869 et seq.).
-- **(e)** *Administrative costs* The Secretary of the Interior shall require the County to pay all survey costs and other administrative costs necessary for the preparation and completion of any patents for, and transfers of title to, the land described in subsection (b).
-- **(f)** *Conditions* As a condition of the conveyance under subsection (a), the County shall agree in writing to pay any administrative costs associated with the conveyance including the costs of any environmental, wildlife, cultural, or historical resources studies.
+- **(d)** *Administrative costs* As a condition of the conveyance under subsection (a), the Secretary of the Interior shall require the County to pay all administrative costs and costs associated with the conveyance.
 
-## § 9. Release of wilderness study areas
+## § 10. Molas Pass Recreation Area; Weminuche Wilderness Addition; Wilderness Study Area Release
 
-- **(a)** *Finding* Congress finds that the land described in subsection (c) has been adequately studied for wilderness designation under section 603 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1782).
-- **(b)** *Release* The land described in subsection (c)—
-  - **(1)** is no longer subject to section 603(c) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1782(c)); and
-  - **(2)** shall be managed in accordance with land management plans adopted under section 202 of that Act (43 U.S.C. 1712).
-- **(c)** *Description of land* The land referred to in subsections (a) and (b) is the approximately 461 acres of land in the West Needles Contiguous Wilderness Study Area of San Juan County, Colorado, that is depicted on the map entitled West Needles Contiguous Wilderness Study Area Release Area and dated April 5, 2013.
+- **(a)** *Molas Pass Recreation Area*
+  - **(1)** *Designation* The approximately 461 acres of land in San Juan County, Colorado, that is generally depicted as “Molas Pass Recreation Area” on the map entitled “West Needles Contiguous Wilderness Study Area” and dated September 11, 2014, is designated as the Molas Pass Recreation Area.
+  - **(2)** *Legal description*
+    - **(A)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary shall prepare a legal description of the Molas Pass Recreation Area.
+    - **(B)** *Force of law* The legal description under paragraph (1) shall have the same force and effect as if included in this Act, except that the Secretary may correct any errors in the legal description.
+    - **(C)** *Public availability* The legal description prepared under paragraph (1) shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
+  - **(3)** *Use of snowmobiles* The use of snowmobiles shall be authorized in the Molas Pass Recreation Area—
+    - **(A)** during periods of adequate snow coverage;
+    - **(B)** in accordance with the Federal Land Policy and Management Act of 1976 (42 U.S.C. 1701 et seq.) and applicable laws and regulations;
+    - **(C)** on designated trails identified as “Winter Use Routes and Grooming Trails” and “Historic Snow Dependent Use Route” on the map entitled, “Winter Use Routes and Grooming Trails” and dated September 11, 2014;
+    - **(D)** in designated areas for open area motorized travel; and
+    - **(E)** subject to such terms and conditions as the Secretary may require; however, the Secretary shall not close any road or trail, or a portion of a road or trail, in the Molas Pass Recreation Area without simultaneously opening a road or trail, or a portion of a road or trail, of equivalent value in the immediate vicinity; further, nothing in this subparagraph shall prevent the Secretary from temporarily closing a road or trail for reasons of public safety.
+  - **(4)** *Other recreational opportunities* The Secretary shall authorize other recreational uses in the Molas Pass Recreation Area including, but not limited to, mountain biking.
+- **(b)** *West needles contiguous WSA addition to the Weminuche Wilderness*
+  - **(1)** *Wilderness addition* Section 2(a)(16) of the Colorado Wilderness Act of 1993 (16 U.S.C. 1132 note; Public Law 103–77; 107 Stat. 756, 114 Stat. 1955, 116 Stat. 1055) is amended by striking “Certain” and inserting “Certain lands within the San Juan National Forest which comprise approximately 499 acres generally depicted as “Weminuche Wilderness Addition” on the map entitled “West Needles Contiguous Wilderness Study Area” and dated September 11, 2014, and certain”.
+  - **(2)** *Effective date* Any reference in the Wilderness Act (16 U.S.C. 1131 et seq.) to the effective date of that Act shall be considered to be a reference to the date of enactment of this Act for purposes of administering the wilderness area designated by section 2(a)(16) of the Colorado Wilderness Act of 1993 (16 U.S.C. 1132 note; Public Law 103–77; 107 Stat. 756, 114 Stat. 1955, 116 Stat. 1055) (as added by paragraph (1)).
+  - **(3)** *Transfer of administrative jurisdiction* Administrative jurisdiction over the Federal land designated as wilderness under paragraph (1) is transferred from the Bureau of Land Management to the Forest Service.
+- **(c)** *Release*
+  - **(1)** *Finding* Congress finds that the land described in paragraph (3) has been adequately studied for wilderness designation under section 603 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1782).
+  - **(2)** *Release* Any public land described in paragraph (3)—
+    - **(A)** is no longer subject to—
+      - **(i)** section 603(c) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1782(c)); and
+      - **(ii)** Secretarial Order 3310 issues on December 22, 2010; and
+    - **(B)** shall be managed in accordance with land management plans adopted under section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712).
+  - **(3)** *Description of land* The land referred to in paragraphs (1) and (2) is the approximately 461 acres of land in the West Needles Contiguous Wilderness Study Area of San Juan County, Colorado, that is generally depicted as “Molas Pass Recreation Area” on the map entitled “West Needles Contiguous Wilderness Study Area” and dated September 11, 2014.
 
-## § 10. Administrative costs
+## § 11. Military overflights
 
-Any signs, fixtures, alterations, or additions needed in connection with the designations established in this Act or for the advertisement of such designations shall be paid for only with non-Federal funds or amounts made available for such purposes in Acts of appropriation before the date of the enactment of this Act.
+Nothing in this Act restricts or precludes—
+
+- **(1)** low-level overflights of military aircraft over the areas designated as wilderness under this Act, including military overflights that can be seen, heard, or detected within the wilderness areas;
+- **(2)** flight testing and evaluation; or
+- **(3)** the designation or creation of new units of special use airspace, or the establishment of military flight training routes over the wilderness areas.

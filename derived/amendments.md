@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1839
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 1 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 16 U.S.C. § 1132
+
+> Section 2(a)(16) of the Colorado Wilderness Act of 1993 (16 U.S.C. 1132 note; Public Law 103–77; 107 Stat. 756, 114 Stat. 1955, 116 Stat. 1055) is amended by striking “Certain” and inserting “Certain lands within the San Juan National Forest which comprise approximately 499 acres generally depicted as Weminuche Wilderness Addition on the map entitled West Needles Contiguous Wilderness Study Area and dated September 11, 2014, and certain”.
+
+| | |
+|---|---|
+| Removed | `Certain` |
+| Inserted | `Certain lands within the San Juan National Forest which comprise approximately 499 acres generally depicted as Weminuche Wilderness Addition on the map entitled West Needles Contiguous Wilderness Study Area and dated September 11, 2014, and certain` |
 
 ## Stated, not applied
 
@@ -31,4 +42,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 1132` | add-at-end | Section 2(a) of the Colorado Wilderness Act of 1993 (16 U.S.C. 1132 note; Public Law 103–77) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1132` | add-at-end | Section 2(a) of the Colorado Wilderness Act of 1993 (16 U.S.C. 1132 note; Public Law 103–77; 107 Stat. 756, 114 Stat. 1955, 116 Stat. 1055) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
