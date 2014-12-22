@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3806
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,8 +11,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Great Smoky Mountains National Park Agreement Act of 2013”.
+This Act may be cited as the “Great Smoky Mountains National Park Agreement Act of 2014”.
 
 ## § 2. Authorization
 
-From funds previously appropriated to the National Park Service in the construction account for that agency in the Consolidated Appropriations Act, 2012 (Public Law 112–74), the National Park Service shall expend $4,000,000 for payment consistent with the Memorandum of Agreement entered into by the Tennessee Valley Authority, the State of North Carolina, Swain County, North Carolina, and the United States Department of the Interior, dated February, 2010, that supersedes the agreement of July 30, 1943 (relating to the construction of the North Shore Road from the eastern boundary of Great Smoky Mountains National Park).
+From funds previously appropriated to the National Park Service in the construction account for that agency in the Consolidated Appropriations Act, 2012 (Public Law 112–74), the National Park Service shall transfer $4,000,000 to counties within Great Smoky Mountains National Park in accordance with the Memorandum of Agreement entered into by the Tennessee Valley Authority and the United States Department of the Interior, dated February, 2010, that supersedes the agreement of July 30, 1943.
