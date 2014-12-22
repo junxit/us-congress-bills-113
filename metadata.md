@@ -1,7 +1,7 @@
 ---
 measure: S. 363
 congress: 113
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 363
@@ -43,3 +43,10 @@ Geothermal Production Expansion Act of 2013
 - 2014-07-10 — Message on Senate action sent to the House.
 - 2014-07-10 — Received in the House.
 - 2014-07-10 — Referred to the House Committee on Natural Resources.
+- 2014-07-11 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2014-09-18 — Committee Consideration and Mark-up Session Held.
+- 2014-09-18 — Ordered to be Reported by Unanimous Consent.
+- 2014-09-18 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2014-12-22 — Placed on the Union Calendar, Calendar No. 540.
+- 2014-12-22 — Reported by the Committee on Natural Resources. H. Rept. 113-709.
+- 2014-12-22 — Reported by the Committee on Natural Resources. H. Rept. 113-709.
