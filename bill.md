@@ -30,10 +30,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(3)** the recreational use at Lake Berryessa generates tourism that is important to local economies.
 - **(b)** *Purposes* The purposes of this Act are—
   - **(1)** to provide diverse, high quality recreational facilities and services on the water and land surrounding Lake Berryessa;
-  - **(2)** to conserve the natural, scenic, scientific, historic, and other resource values contributing to the public use and enjoyment of that land and water;
+  - **(2)** to conserve the natural, scenic, scientific, historic, economic, recreational, and other resource values contributing to the public use and enjoyment of that land and water;
   - **(3)** to promote cooperation between the Federal Government and private entities to manage that exceptional resource;
   - **(4)** to authorize the Secretary to manage certain resources under the Bureau of Land Management; and
-  - **(5)** to transfer to the Secretary, without consideration, administrative jurisdiction over certain Federal land for management as a unit of the Bureau of Land Management.
+  - **(5)** to transfer administrative jurisdiction over certain Federal land for management as a unit of the Bureau of Land Management.
 
 ## § 3. Definitions
 
@@ -48,12 +48,17 @@ In this Act:
 
 ## § 4. Transfer of administrative jurisdiction
 
-- **(a)** *In general* Administrative jurisdiction over the Federal land described in subsection (b) is transferred from the Bureau of Reclamation to the Bureau of Land Management for administration as the Lake Berryessa Recreation Area.
-- **(b)** *Description of land* The land referred to in subsection (a) is the approximately ___ acres of water and land administered by the Bureau of Reclamation that is within or adjacent to Lake Berryessa and is identified as “___” on the map dated ___.
+- **(a)** *Establishment* Subject to valid existing rights, there is established the Lake Berryessa Recreational Area, the boundaries of which are described in subsection (c). In administering the Recreation Area, the Secretary shall not—
+  - **(1)** diminish the levels of day-use occupancy, short-term occupancy and annual occupancy as set forth in the recreational use plan adopted by the Bureau of Reclamation on June 2, 2006, for the Recreation Area;
+  - **(2)** diminish motorized boating or alter the “Water Surface Zoning and Restrictions” developed under Action 17 of the 1993 Recreation Area Management Plan Record of Decision and continued in the recreational use plan adopted by the Bureau of Reclamation on June 2, 2006, for the Recreation Area;
+  - **(3)** close trails or limit recreational hiking and equine access to trails on lands in the Recreation Area; and
+  - **(4)** negatively impact hunting, fishing, shooting sports, or trapping on the lands and waters within the boundaries of the Recreation Area.
+- **(b)** *Transfer of administrative jurisdiction* Administrative jurisdiction over the Federal land described in subsection (c), including any improvements thereon, is transferred from the Bureau of Reclamation to the Bureau of Land Management for administration of the Recreation Area.
+- **(c)** *Description of land* The land referred to in subsection (a) is the approximately 30,221 acres of land administered by the Bureau of Reclamation that is underlying or adjacent to Lake Berryessa and identified as “Lake Berryessa Reclamation Lands Solono Project” on the map dated September 15, 2014.
 
 ## § 5. Management of Recreation Area
 
-- **(a)** *In general* Subject to the authority of the Secretary under section 6, the Secretary shall manage the Recreation Area in accordance with sections 601 through 604 of Public Law 93–483.
+- **(a)** *In general* Subject to the authority of the Secretary under section 6, the Secretary shall manage the Recreation Area in accordance with sections 601 through 604 of Public Law 93–493.
 - **(b)** *Applicable law* Subject to valid existing rights, the Secretary shall administer the Recreation Area in accordance with laws (including regulations) applicable to units of the public lands of the Bureau of Land Management.
 - **(c)** *Waters* Nothing in this Act—
   - **(1)** affects the use or allocation, in existence on the date of the enactment of this Act, of any water, water right, or interest in water;
@@ -63,15 +68,13 @@ In this Act:
   - **(5)** relinquishes or reduces any water rights reserved or appropriated by the United States in the State on or before the date of the enactment of this Act;
   - **(6)** impairs the ability of the Bureau of Reclamation and its managing partners to operate, maintain, or manage Monticello Dam and other Solano Project facilities in accordance with the purposes of such project; or
   - **(7)** modifies, changes, or supersedes any water contract or agreements approved or administered by the Bureau of Reclamation or Solano County Water Agency or Solano Irrigation District.
-- **(d)** *Existing agreements* To benefit the interests of the public, the Secretary shall act in accordance with any agreement in existence on the date of the enactment of this Act with any organization for the management of—
-  - **(1)** campgrounds located in the Recreation Area; and
-  - **(2)** marinas located in the Recreation Area.
-- **(e)** *Comprehensive management plan*
-  - **(1)** *Development of plan* The Secretary may develop a management plan under paragraph (1)—
-    - **(A)** as a new document; or
-    - **(B)** by adopting the recreational use plan adopted by the Bureau of Reclamation on June 2, 2006.
-  - **(2)** *Applicability* Nothing in this Act requires an immediate revision or amendment to any plan for any public land of the Bureau of Land Management.
-  - **(3)** *Use of planning documents* Until the date on which the Secretary develops a management plan, the Secretary may use planning documents prepared by the Bureau of Reclamation without further administrative action.
+- **(d)** *Existing agreements* To benefit the interests of the public, the Secretary shall act in accordance with any agreement in existence on the date of the enactment of this Act, including those with any organization for the management of—
+  - **(1)** campgrounds located in the Recreation Area;
+  - **(2)** marinas located in the Recreation Area;
+  - **(3)** lodging facilities located in the Recreation Area;
+  - **(4)** food and beverage services located in the Recreation Area; and
+  - **(5)** boating and boat rental facilities located in the Recreation Area.
+- **(e)** *Adoption of recreational use plan* To manage the Recreation Area, the Secretary shall adopt and use the recreational use plan adopted by the Bureau of Reclamation on June 2, 2006, for the Recreational Area. The adoption of this plan shall not constitute a major federal action for the purposes of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.). This action is not subject to judicial review.
 
 ## § 6. Continued authorities of Commissioner of Reclamation
 
@@ -85,8 +88,3 @@ Nothing in this Act or any subsequent management plan shall impair the ability o
 - **(a)** *In general* Except as provided in subsections (b) and (c), nothing in this Act affects any authorization in effect as of the date of the enactment of this Act made by any department or agency of the Federal Government for the use of land or water located within the Recreation Area (referred to in this section as an “existing authorization”).
 - **(b)** *Assumption of existing authorization* Not later than 1 year after the date of the enactment of this Act, the Secretary shall assume the administration of any existing authorization, with such revisions as necessary to align the authorization with existing law and policies of the Bureau of Land Management.
 - **(c)** *Renewal of existing authorization* The renewal of any existing authorization shall be made in accordance with such terms and conditions as the Secretary may prescribe.
-
-## § 8. Recreation and concession fees
-
-- **(a)** *Fees authorized* The Secretary may establish, modify, charge, and collect recreation or concession fees at the Recreation Area in accordance with section 803 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6802). The amount of the fee shall be commensurate with the benefits and services provided to the visitor or with the recovery of the anticipated costs associated with management of the Recreation Area, including costs of maintaining or operating facilities and visitor services.
-- **(b)** *Use of fees* The Secretary may retain fees collected under subsection (a) for the purposes of managing the Recreation Area.
