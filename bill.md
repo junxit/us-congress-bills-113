@@ -35,9 +35,7 @@ In this Act:
     - **(A)** the Uniform Appraisal Standards for Federal Land Acquisitions;
     - **(B)** the Uniform Standards of Professional Appraisal Practice; and
     - **(C)** any other applicable law (including regulations).
-- **(d)** *Disposition and use of proceeds*
-  - **(1)** *Disposition of proceeds* The Secretary shall deposit the proceeds of any conveyance of Federal land under subsection (a) in a special account in the Treasury for use in accordance with paragraph (2).
-  - **(2)** *Use of proceeds* Amounts deposited under paragraph (1) shall be available to the Secretary, without further appropriation and until expended, for the acquisition of land or interests in land from willing sellers in the State for resource protection that is consistent with the purposes for which the Bald Eagle Area of Critical Environmental Concern in the State was established.
+- **(d)** *Disposition and use of proceeds* The Secretary shall deposit the proceeds of any conveyance of Federal land under subsection (a) in the general account of the Treasury to be used for deficit reduction.
 - **(e)** *Additional terms and conditions* The Secretary may require such additional terms and conditions for a conveyance under subsection (a) as the Secretary determines to be appropriate to protect the interests of the United States.
 - **(f)** *Withdrawal* Subject to valid existing rights, the Federal land is withdrawn from—
   - **(1)** location, entry, and patent under the mining laws; and

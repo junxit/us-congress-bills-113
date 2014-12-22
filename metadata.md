@@ -1,7 +1,7 @@
 ---
 measure: S. 609
 congress: 113
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 609
@@ -41,3 +41,10 @@ San Juan County Federal Land Conveyance Act
 - 2014-07-10 — Received in the House.
 - 2014-07-23 — Referred to the House Committee on Natural Resources.
 - 2014-07-23 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2014-07-29 — Subcommittee Hearings Held.
+- 2014-09-18 — Committee Consideration and Mark-up Session Held.
+- 2014-09-18 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2014-09-18 — Subcommittee on Public Lands and Environmental Regulation Discharged.
+- 2014-12-22 — Placed on the Union Calendar, Calendar No. 541.
+- 2014-12-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-710.
+- 2014-12-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-710.
