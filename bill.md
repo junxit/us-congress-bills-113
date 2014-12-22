@@ -13,30 +13,62 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Red River Private Property Protection Act”.
 
-## § 2. Findings
+## § 2. Disclaimer of interest
 
-Congress finds as follows:
+The Secretary hereby disclaims any right, title, and interest to all Red River lands located south of the South Bank of the Red River. This Act does not change or affect in any manner the sovereignty rights of federally recognized Indian tribes over lands located to the north of the South Bank of the Red River. Tribal sovereignty rights continue to be established and defined by controlling Federal law.
 
-- **(1)** In 1923, the Supreme Court found the border between Texas and Oklahoma to be: “the water-washed and relatively permanent elevation or acclivity at the outer line of the river bed which separates the bed from the adjacent upland, whether valley or hill, and serves to confine the waters within the bed and to preserve the course of the river, and that the boundary intended is on and along the bank at the average or mean level attained by the waters in the periods when they reach and wash the bank without overflowing it. When we speak of the bed, we include all of the area which is kept practically bare of vegetation by the wash of the waters of the river from year to year in their onward course, although parts of it are left dry for months at a time, and we exclude the lateral valleys, which have the characteristics of relatively fast land and usually are covered by upland grasses and vegetation, although temporarily overflowed in exceptional instances when the river is at flood.”.
-- **(2)** This would become known as the “gradient boundary”.
-- **(3)** This decision makes clear that, absent water that is physically touching the bank, the high bluff or “ancient bank” along the southern edge of the Red River is not the boundary between Texas and Oklahoma.
-- **(4)** In 2000, Public Law 106–288 ratified the Red River Boundary Compact agreed to and signed into State law by Texas and Oklahoma that sets the boundary between the States to be the vegetation line on the south bank of the Red River, except for the Texoma area where the boundary is established pursuant to procedures provided for in the Compact.
-- **(5)** Therefore, the Bureau of Land Management should have no claim to land that is either south of the “gradient boundary” established by the Supreme Court or south of the vegetation line on the southern bank of the Red River pursuant to Public Law 106–288 whereby landowners have proof of their right, title, and interest to the land and have been paying property taxes accordingly.
+## § 3. Claims process and issuance of deeds
 
-## § 3. Issuance of quit claim deeds
-
-- **(a)** *In General* The Secretary shall relinquish and shall transfer by quit claim deed all right, title, and interest of the United States in and to Red River lands to any claimant who demonstrates to the satisfaction of the Secretary that official county or State records indicate that the claimant holds all right, title, and interest to those lands.
+- **(a)** *In general* The Secretary shall relinquish, disclaim, and shall transfer by special warranty deed all right, title, and interest of the United States in and to Red River lands to any claimant who demonstrates to the satisfaction of the Secretary that the claimant—
+  - **(1)** holds all right, title, and interest under a chain of title for at least 30 years from the time of submission;
+  - **(2)** has a deed recorded in the appropriate county; and
+  - **(3)** has paid all taxes assessed on the land and any interest and penalties associated with any period of tax delinquency.
 - **(b)** *Public Notification* The Secretary shall publish in the Federal Register and on official and appropriate Web sites the process to receive written and/or electronic submissions of the documents required under subsection (a). The Secretary shall treat all proper notifications received from the claimant as fulfilling the satisfaction requirements under subsection (a).
-- **(c)** *Standard of Approval* The Secretary shall accept all official county and State records as filed in the county on the date of submission proving right, title, and interest.
-- **(d)** *Time Period for Approval or Disapproval of Request* The Secretary shall approve or disapprove a request for a quit claim deed under subsection (a) not later than 120 days after the date on which the written request is received by the Secretary. If the Secretary fails to approve or disapprove such a request by the end of such 120-day period, the request shall be deemed to be approved.
+- **(c)** *Standard of Approval* The Secretary shall accept all official county and State records as filed in the county on the date of submission proving right, title, and interest, including all land accreted to those lands identified by such records by the processes of erosion and accretion.
+- **(d)** *Time Period for Approval or Disapproval of Request* The Secretary shall approve or disapprove a request for a special warranty deed under subsection (a) not later than 180 days after the date on which the written request is received by the Secretary. If the Secretary fails to approve or disapprove such a request by the end of such 180-day period, the request shall be deemed to be approved.
+- **(e)** *Requirements for decision* Any final decision by the Secretary must contain—
+  - **(1)** a field note description used to determine the property claim, which must be—
+    - **(A)** sufficient to locate the land on the ground;
+    - **(B)** consistent with the claimant’s deed; and
+    - **(C)** include all land accreted to the claimant by the processes of erosion and accretion;
+  - **(2)** an accurate plat of the land that is—
+    - **(A)** consistent with the field notes; and
+    - **(B)** prepared by a Texas licensed State land surveyor; and
+  - **(3)** any other matters required by law or as the Secretary considers appropriate consistent with the provisions and intent of this Act.
 
-## § 4. Resource Management Plan
+## § 4. Administrative hearing
+
+- **(a)** *In general* The Secretary shall establish procedures for an administrative hearing—
+  - **(1)** for a claimant to appeal the final decision made pursuant to section 3 regarding a claim by Secretary to the claimant’s property; and
+  - **(2)** to adjudicate disputes between two or more private property owners who have interest claims that overlap pursuant to documents submitted under section 3.
+- **(b)** *Judicial resolution* If after the final determination has been issued under subsection (a) and the private property owner disputes the decision, the private property owner may pursue a claim in a Federal district court within the State of Texas.
+
+## § 5. Resource Management Plan
 
 The Secretary shall ensure that no parcels of Red River lands are treated as Federal land for the purpose of any resource management plan until the Secretary has ensured that such parcels are not subject to transfer under section 3.
 
-## § 5. Definitions
+## § 6. Construction
+
+Nothing in this Act shall alter—
+
+- **(1)** any present or future rights and interests of the Kiowa, Comanche, and Apache Tribes and their members or Indian successors-in interest;
+- **(2)** any tribal trust lands;
+- **(3)** allotted lands that may be held in trust or lands subject to a Federal restriction against alienation;
+- **(4)** any boundaries of lands owned by the tribes referred to in paragraph (1), including lands referred to in paragraphs (2) and (3), pursuant to the gradient boundary survey method; and
+- **(5)** the sovereign rights, jurisdiction, or other governmental interests of the Kiowa, Comanche, and Apache Tribes and their members or Indian successors-in interest existing or which may be acknowledged by Federal and tribal law.
+
+## § 7. Sale of remaining red river surface rights
+
+- **(a)** *Competitive sale of identified Federal lands* After the Secretary has ensured that Red River lands parcels are not subject to transfer under section 3, the Secretary shall offer any and all such remaining identified Federal lands for disposal by competitive sale for not less than fair market value as determined by an appraisal conducted in accordance with nationally recognized appraisal standards, including the Uniform Appraisal Standards for Federal Land Acquisitions; and the Uniform Standards of Professional Appraisal Practice.
+- **(b)** *Existing rights* The sale of identified Federal lands under this section shall be subject to valid existing tribal, State, and local rights.
+- **(c)** *Proceeds of sale of lands* Net proceeds from the sale of identified Federal lands under this section shall be used to offset any costs associated with this Act.
+- **(d)** *Report* Not later than 5 years after the date of the enactment of this Act, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a list of any identified Federal lands that have not been sold under subsection (a) and the reasons such lands were not sold.
+
+## § 8. Definitions
 
 For the purposes of this Act—
 
-- **(1)** the term Red River lands means lands along the approximately 539-mile stretch of the Red River between the States of Texas and Oklahoma; and
-- **(2)** the term Secretary means the Secretary of the Interior, acting through the Director of Bureau of Land Management.
+- **(1)** the term Red River lands means lands along the approximately 116-mile stretch of the Red River from its confluence with the North Fork of the Red River on the west to the 98th meridian on the east between the States of Texas and Oklahoma;
+- **(2)** the term Secretary means the Secretary of the Interior, acting through the Director of Bureau of Land Management;
+- **(3)** the term “South Bank” means the water-washed and relatively permanent elevation or acclivity, commonly called a cut bank, along the southerly or right side of the Red River which separates its bed from the adjacent upland, whether valley or hill, and usually serves to confine the waters within the bed and to preserve the course of the river; as specified in the fifth paragraph of the decree rendered March 12, 1923, in Oklahoma v. Texas, 261 U. S. 340, 43 S. Ct. 376, 67 L. Ed. 687; and
+- **(4)** the term “gradient boundary survey” means the measurement technique used to demarcate a division of ownership or jurisdiction along the South Bank under the methodology established by the United States Supreme Court which recognizes that the boundary line between the States of Texas and Oklahoma along the Red River is subject to such changes as have been or may be wrought by the natural and gradual processes known as erosion and accretion as specified in the second, third, and fourth paragraphs of the decree rendered March 12, 1923, in Oklahoma v. Texas, 261 U. S. 340, 43 S. Ct. 376, 67 L. Ed. 687.
