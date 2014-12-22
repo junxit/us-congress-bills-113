@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5203
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -51,5 +51,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `40 U.S.C. § 8903` | redesignate | By redesignating subsections (f), (g), (h), (i), (j), (k), (l), (m), (n), (o), (p), and (q) as subsections (g), (h), (i), (j), (k), (l), (m), (o), (p), (q), (r), and (s), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 8903` | redesignate | By redesignating subsections (f), (g), (h), (i), (j), (k), (l), (m), (n), (o), (p), and (q) as subsections (g), (h), (i), (j), (k), (l), (m), (n), (o), (p), (q), and (r), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 8903` | insert | By inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
