@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5176
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5176
@@ -29,3 +29,11 @@ To authorize the Secretary of the Interior to retire coal preference right lease
 - 2014-07-23 — Introduced in House
 - 2014-07-23 — Introduced in House
 - 2014-07-23 — Referred to the House Committee on Natural Resources.
+- 2014-07-30 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2014-09-17 — Subcommittee Hearings Held.
+- 2014-11-19 — Committee Consideration and Mark-up Session Held.
+- 2014-11-19 — Ordered to be Reported by Unanimous Consent.
+- 2014-11-19 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2014-12-22 — Placed on the Union Calendar, Calendar No. 535.
+- 2014-12-22 — Reported by the Committee on Natural Resources. H. Rept. 113-704.
+- 2014-12-22 — Reported by the Committee on Natural Resources. H. Rept. 113-704.
