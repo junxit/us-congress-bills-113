@@ -1,7 +1,7 @@
 ---
 measure: H.R. 712
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 4(e) of the Highlands Conservation Act (Public Law 108–421; 118 Stat. 2377) is amended by striking “2014” and inserting “2024”. | the bill names no machine-readable US Code section |
-| — | replace | Section 5(c) of the Highlands Conservation Act (Public Law 108–421; 118 Stat. 2378) is amended by striking “2014” and inserting “2024”. | the bill names no machine-readable US Code section |
+| — | replace | Section 4(e) of the Highlands Conservation Act (Public Law 108–421; 118 Stat. 2377) is amended by striking “2014” and inserting “2021”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5(c) of the Highlands Conservation Act (Public Law 108–421; 118 Stat. 2378) is amended by striking “2014” and inserting “2021”. | the bill names no machine-readable US Code section |
