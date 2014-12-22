@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5214
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5214
@@ -25,3 +25,10 @@ To require the Secretary of Health and Human Services to provide for recommendat
 - 2014-07-28 — Introduced in House
 - 2014-07-28 — Introduced in House
 - 2014-07-28 — Referred to the House Committee on Energy and Commerce.
+- 2014-07-29 — Committee Consideration and Mark-up Session Held.
+- 2014-07-30 — Committee Consideration and Mark-up Session Held.
+- 2014-07-30 — Ordered to be Reported (Amended) by the Yeas and Nays: 25 - 18.
+- 2014-08-01 — Referred to the Subcommittee on Health.
+- 2014-12-22 — Placed on the Union Calendar, Calendar No. 514.
+- 2014-12-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-683.
+- 2014-12-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-683.
