@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1561
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1561
@@ -25,3 +25,10 @@ To authorize the Secretary of the Interior to make improvements to support facil
 - 2013-04-15 — Introduced in House
 - 2013-04-15 — Introduced in House
 - 2013-04-15 — Referred to the House Committee on Natural Resources.
+- 2013-04-25 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2014-11-19 — Committee Consideration and Mark-up Session Held.
+- 2014-11-19 — Ordered to be Reported by Unanimous Consent.
+- 2014-11-19 — Subcommittee on Public Lands and Environmental Regulation Discharged.
+- 2014-12-22 — Placed on the Union Calendar, Calendar No. 522.
+- 2014-12-22 — Reported by the Committee on Natural Resources. H. Rept. 113-691.
+- 2014-12-22 — Reported by the Committee on Natural Resources. H. Rept. 113-691.
