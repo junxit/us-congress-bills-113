@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4220
 congress: 113
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4220
@@ -25,3 +25,12 @@ School District 318 Land Exchange Act
 - 2014-03-12 — Introduced in House
 - 2014-03-12 — Introduced in House
 - 2014-03-12 — Referred to the House Committee on Natural Resources.
+- 2014-03-21 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2014-03-21 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2014-11-19 — Committee Consideration and Mark-up Session Held.
+- 2014-11-19 — Ordered to be Reported by Unanimous Consent.
+- 2014-11-19 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2014-11-19 — Subcommittee on Public Lands and Environmental Regulation Discharged.
+- 2014-12-22 — Placed on the Union Calendar, Calendar No. 528.
+- 2014-12-22 — Reported by the Committee on Natural Resources. H. Rept. 113-697.
+- 2014-12-22 — Reported by the Committee on Natural Resources. H. Rept. 113-697.
