@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 706
 congress: 113th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,32 +13,21 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Blackstone River Valley National Historical Park Establishment Act”.
 
-## § 2. Purpose
-
-The purpose of this Act is to establish the Blackstone River Valley National Historical Park—
-
-- **(1)** to help preserve, protect, and interpret the nationally significant resources that exemplify the industrial heritage of the Blackstone River Valley for the benefit and inspiration of future generations;
-- **(2)** to support the preservation, protection, and interpretation of the urban, rural, and agricultural landscape features (including the Blackstone River and Canal) of the region that provide an overarching context for the industrial heritage of the Blackstone River Valley;
-- **(3)** to educate the public about—
-  - **(A)** the nationally significant sites and districts that convey the industrial history of the Blackstone River Valley; and
-  - **(B)** the significance of the Blackstone River Valley to the past and present of the United States; and
-- **(4)** to support and enhance the network of partners in the protection, improvement, management, and operation of related resources and facilities throughout the John H. Chafee Blackstone River Valley National Heritage Corridor.
-
-## § 3. Definitions
+## § 2. Definitions
 
 In this Act:
 
 - **(1)** *National heritage corridor* The term “National Heritage Corridor” means the John H. Chafee Blackstone River Valley National Heritage Corridor.
-- **(2)** *Park* The term “Park” means the Blackstone River Valley National Historical Park established under section 4.
+- **(2)** *Park* The term “Park” means the Blackstone River Valley National Historical Park established under section 3.
 - **(3)** *Secretary* The term “Secretary” means the Secretary of the Interior.
 - **(4)** *States* The term “States” means—
   - **(A)** the State of Massachusetts; and
   - **(B)** the State of Rhode Island.
 
-## § 4. Blackstone river valley national historical park
+## § 3. Blackstone river valley national historical park
 
 - **(a)** *Establishment* There is established in the States a unit of the National Park System, to be known as the “Blackstone River Valley National Historical Park”.
-- **(b)** *Historic sites and districts* The Park shall include—
+- **(b)** *Historic sites and districts* The Park may include—
   - **(1)** Blackstone River State Park; and
   - **(2)** the following resources, as described in Management Option 3 of the study entitled “Blackstone River Valley Special Resource Study—Study Report 2011”:
     - **(A)** Old Slater Mill National Historic Landmark District.
@@ -49,13 +38,12 @@ In this Act:
     - **(F)** Blackstone River and the tributaries of Blackstone River.
     - **(G)** Blackstone Canal.
 - **(c)** *Acquisition of land; park boundary*
-  - **(1)** *Land acquisition* The Secretary may acquire land or interests in land that are considered contributing historic resources in the historic sites and districts described in subsection (b)(2) for inclusion in the Park boundary by donation, purchase from a willing seller with donated or appropriated funds, or exchange.
-  - **(2)** *Park boundary* On a determination by the Secretary that a sufficient quantity of land or interests in land has been acquired to constitute a manageable park unit, the Secretary shall establish a boundary for the Park by publishing a boundary map in the Federal Register.
-  - **(3)** *Other resources* The Secretary may include in the Park boundary any resources that are the subject of an agreement with the States or a subdivision of the States entered into under subsection (d)(4).
-  - **(4)** *Boundary adjustment* On the acquisition of additional land or interests in land under paragraph (1), or on entering an agreement under paragraph (3), the boundary of the Park shall be adjusted to reflect the acquisition or agreement by publishing a Park boundary map in the Federal Register.
-  - **(5)** *Availability of map* The maps referred to in this subsection shall be available for public inspection in the appropriate offices of the National Park Service.
-  - **(6)** *Administrative facilities* The Secretary may acquire not more than 10 acres in Woonsocket, Rhode Island for the development of administrative, curatorial, maintenance, or visitor facilities for the Park.
-  - **(7)** *Limitation* Land owned by the States or a political subdivision of the States may be acquired under this subsection only by donation.
+  - **(1)** *Land acquisition* The Secretary may acquire land or interests in land in the historic sites and districts described in subsection (b)(2) for inclusion in the Park boundary by donation or exchange.
+  - **(2)** *Park boundary* On a determination by the Secretary that a sufficient quantity of land or interests in land has been acquired to constitute a manageable park unit, the Secretary may establish a boundary for the Park by publishing a boundary map in the Federal Register.
+  - **(3)** *Boundary adjustment* On the acquisition of additional land or interests in land under paragraph (1), the boundary of the Park shall be adjusted to reflect the acquisition by publishing a Park boundary map in the Federal Register.
+  - **(4)** *Availability of map* The maps referred to in this subsection shall be available for public inspection in the appropriate offices of the National Park Service.
+  - **(5)** *Written consent of the owner* No non-Federal property may be included in the Park without the written consent of the owner.
+  - **(6)** *Limitation* Land owned by the States or a political subdivision of the States may be acquired under this subsection only by donation.
 - **(d)** *Administration*
   - **(1)** *In general* The Secretary shall administer land within the boundary of the Park in accordance with—
     - **(A)** this section; and
@@ -74,14 +62,12 @@ In this Act:
       - **(v)** the Worcester Blackstone Visitor Center, located at the former Washburn & Moen wire mill facility, Worcester, Massachusetts;
       - **(vi)** the Route 295 Visitor Center adjacent to Blackstone River State Park; and
       - **(vii)** the Blackstone River Bikeway.
-  - **(3)** *Related sites* The Secretary may provide technical assistance, visitor services, interpretive tours, and educational programs to sites and resources in the National Heritage Corridor that are located outside the boundary of the Park and associated with the purposes for which the Park is established.
+  - **(3)** *Technical assistance* The Secretary may provide technical assistance to State, local, or tribal governments, organizations, or individuals for the management, interpretation, and historic preservation of historically significant Blackstone River Valley resources not included within the Park.
   - **(4)** *Cooperative agreements*
-    - **(A)** *In general* To further the purposes of this section and notwithstanding chapter 63 of title 31, United States Code, the Secretary may enter into cooperative agreements with the States, political subdivisions of the States, nonprofit organizations (including Blackstone River Valley National Heritage Corridor, Inc.), and other interested parties—
-      - **(i)** to provide technical assistance, interpretation, and educational programs in the historic sites and districts described in subsection (b)(2); and
-      - **(ii)** subject to the availability of appropriations and subparagraphs (B) and (C), to provide not more than 50 percent of the cost of any natural, historic, or cultural resource protection project in the Park that is consistent with the general management plan prepared under paragraph (2).
-    - **(B)** *Matching requirement* As a condition of the receipt of funds under subparagraph (A)(ii), the Secretary shall require that any Federal funds made available under a cooperative agreement entered into under this paragraph are to be matched on a 1-to-1 basis by non-Federal funds.
-    - **(C)** *Reimbursement* Any payment made by the Secretary under subparagraph (A)(ii) shall be subject to an agreement that the conversion, use, or disposal of the project for purposes that are inconsistent with the purposes of this section, as determined by the Secretary, shall result in a right of the United States to reimbursement of the greater of—
-      - **(i)** the amount provided by the Secretary to the project under subparagraph (A)(ii); or
+    - **(A)** *In general* The Secretary may enter into cooperative agreements to carry out this Act.
+    - **(B)** *Matching requirement* The Secretary shall require that any Federal funds made available under a cooperative agreement entered into under this paragraph are to be matched on a 1-to-1 basis by non-Federal funds.
+    - **(C)** *Reimbursement* Any payment made by the Secretary under subparagraph (A) shall be subject to an agreement that the conversion, use, or disposal of the project for purposes that are inconsistent with the purposes of this section, as determined by the Secretary, shall result in a right of the United States to reimbursement of the greater of—
+      - **(i)** the amount provided by the Secretary to the project under subparagraph (A); or
       - **(ii)** an amount equal to the increase in the value of the project that is attributable to the funds, as determined by the Secretary at the time of the conversion, use, or disposal.
     - **(D)** *Public access* Any cooperative agreement entered into under this paragraph shall provide for reasonable public access to the resources covered by the cooperative agreement.
 - **(e)** *Dedication; memorial*
@@ -89,55 +75,5 @@ In this Act:
     - **(A)** the role of John H. Chafee in the preservation of the resources of the Blackstone River Valley and the heritage corridor that bears the name of John H. Chafee; and
     - **(B)** the decades of the service of John H. Chafee to the people of Rhode Island and the United States.
   - **(2)** *Memorial* The Secretary shall display a memorial at an appropriate location in the Park that recognizes the role of John H. Chafee in preserving the resources of the Blackstone River Valley for the people of the United States.
-
-## § 5. John H. Chafee Blackstone River Valley National Heritage Corridor amendments
-
-Public Law 99–647 (16 U.S.C. 461 note; 100 Stat. 3625) is amended—
-
-- **(1)** in the first sentence of section 2 (110 Stat. 4202), by striking “the map entitled “Blackstone River Valley National Heritage Corridor Boundary Map”, numbered BRV–80–80,011, and dated May 2, 1993” and inserting “the map entitled “John H. Chafee Blackstone River Valley National Heritage Corridor—Proposed Boundary”, numbered 022/111530, and dated November 10, 2011”;
-- **(2)** in section 7 (120 Stat. 1858, 125 Stat. 155)—
-  - **(A)** in the section heading, by striking “termination of commission” and inserting “termination of commission; designation of local coordinating entity”;
-  - **(B)** by striking “The Commission” and inserting the following:
-    > - **(a)** *In general* The Commission
-
-  - **(C)** by adding at the end the following:
-    > - **(b)** *Local coordinating entity*
-    >   - **(1)** *Designation* The Blackstone River Valley National Heritage Corridor, Inc., shall be the local coordinating entity for the Corridor (referred to in this section as the “local coordinating entity”).
-    >   - **(2)** *Implementation of management plan* The local coordinating entity shall assume the duties of the Commission for the implementation of the Cultural Heritage and Land Management Plan developed and approved under section 6.
-    > - **(c)** *Use of funds* For the purposes of carrying out the management plan, the local coordinating entity may use amounts made available under this Act—
-    >   - **(1)** to make grants to the States of Massachusetts and Rhode Island (referred to in this section as the “States”), political subdivisions of the States, nonprofit organizations, and other persons;
-    >   - **(2)** to enter into cooperative agreements with or provide technical assistance to the States, political subdivisions of the States, nonprofit organizations, Federal agencies, and other interested parties;
-    >   - **(3)** to hire and compensate staff, including individuals with expertise in—
-    >     - **(A)** natural, historical, cultural, educational, scenic, and recreational resource conservation;
-    >     - **(B)** economic and community development; or
-    >     - **(C)** heritage planning;
-    >   - **(4)** to obtain funds or services from any source, including funds and services provided under any other Federal law or program;
-    >   - **(5)** to contract for goods or services; and
-    >   - **(6)** to support activities of partners and any other activities that further the purposes of the Corridor and are consistent with the approved management plan.
-
-- **(3)** in section 8 (120 Stat. 1858)—
-  - **(A)** in subsection (b)—
-    - **(i)** by striking “The Secretary” and inserting the following:
-      > - **(1)** *In general* The Secretary
-
-    - **(ii)** by adding at the end the following:
-      > - **(2)** *Cooperative agreements* Notwithstanding chapter 63 of title 31, United States Code, the Secretary may enter into cooperative agreements with the local coordinating entity designated by paragraph (1) and other public or private entities for the purpose of—
-      >   - **(A)** providing technical assistance; or
-      >   - **(B)** implementing the plan under section 6(c).
-
-  - **(B)** by striking subsection (d) and inserting the following:
-    > - **(d)** *Transition memorandum of understanding* The Secretary shall enter into a memorandum of understanding with the local coordinating entity to ensure—
-    >   - **(1)** the appropriate transition of management of the Corridor from the Commission to the local coordinating entity; and
-    >   - **(2)** coordination regarding the implementation of the Cultural Heritage and Land Management Plan.
-
-- **(4)** in section 10 (120 Stat. 1858)—
-  - **(A)** in subsection (a) by striking “for each year in which the Commission is in existence” and replace with “until September 30, 2016”; and
-  - **(B)** by striking subsection (c); and
-- **(5)** by adding at the end the following:
-  > ## § 11. References to the corridor, inc
-  >
-  > For purposes of sections 6, 8, 9 and 10 (other than section 8(d)(1)), a reference to the “Commission” shall be considered to be a reference to the local coordinating entity.
-
-## § 6. Authorization of appropriations
-
-There are authorized to be appropriated such sums as are necessary to carry out sections 2 through 4.
+- **(f)** *No use of condemnation* The Secretary may not acquire by condemnation any land or interest in land under this Act for the purposes of this Act.
+- **(g)** *No buffer zone created* Nothing in this Act, the establishment of the Park, or the management plan for the Park shall be construed to create buffer zones outside of the Park. That activities or uses can be seen, heard, or detected from areas within the Park shall not preclude, limit, control, regulate, or determine the conduct or management of activities or uses outside of the Park.
