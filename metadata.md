@@ -1,7 +1,7 @@
 ---
 measure: S. 354
 congress: 113
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 354
@@ -20,9 +20,10 @@ Oregon Caves Revitalization Act of 2013
 
 - Sen. Merkley, Jeff [D-OR] (M001176)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -38,3 +39,10 @@ Oregon Caves Revitalization Act of 2013
 - 2014-07-10 — Message on Senate action sent to the House.
 - 2014-07-10 — Received in the House.
 - 2014-07-10 — Referred to the House Committee on Natural Resources.
+- 2014-07-14 — Referred to the Subcommittee on Public Lands and Environmental Regulation.
+- 2014-07-30 — Committee Consideration and Mark-up Session Held.
+- 2014-07-30 — Ordered to be Reported by Unanimous Consent.
+- 2014-07-30 — Subcommittee on Public Lands and Environmental Regulation Discharged.
+- 2014-12-22 — Placed on the Union Calendar, Calendar No. 544.
+- 2014-12-22 — Reported by the Committee on Natural Resources. H. Rept. 113-713.
+- 2014-12-22 — Reported by the Committee on Natural Resources. H. Rept. 113-713.

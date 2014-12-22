@@ -1,7 +1,7 @@
 ---
 measure: S. 354
 congress: 113
-version: Referred in House
+version: Reported in House
 derived: true
 ---
 
