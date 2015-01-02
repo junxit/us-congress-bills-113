@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1575
 congress: 113
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `47 U.S.C. § 201` | insert | Title II of the Communications Act of 1934 (47 U.S.C. 201) is amended by inserting after section 222 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 201` | insert | Title II of the Communications Act of 1934 (47 U.S.C. 201 et seq.) is amended by inserting after section 222 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
