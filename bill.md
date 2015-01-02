@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 5889
+congress: 113th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5889
+
+> To revise the Uniform Crime Reports, and the National Incident-Based Reporting System, to direct the Director of the Federal Bureau of Investigation to include information in those reports pertaining to law enforcement-involved justifiable homicides, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Justifiable Homicide Accuracy in Reporting Act of 2014”.
+
+## § 2. Reporting of law enforcement-involved justifiable homicides
+
+- **(a)** *In general* The Director of the Federal Bureau of Investigation shall revise the Uniform Crime Reports and the National Incident-Based Reporting System to include information in those reports pertaining to law enforcement-involved justifiable homicides.
+- **(b)** *Definition* For purposes of this section, the term Uniform Crime Reports means the reports authorized under section 534 of title 28, United States Code, and administered by the Federal Bureau of Investigation which compile nationwide criminal statistics for use in law enforcement administration, operation, and management and to assess the nature and type of crime in the United States.
